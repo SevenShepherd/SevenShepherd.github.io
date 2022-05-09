@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:00:00 -0700
+date: 2021-11-01 12:00:05 -0700
 categories: debate discourse
 published: true
 ---
@@ -210,6 +210,10 @@ Let's look at the difference between a true follower of Christ, and one who is C
 |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
 |**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT|
+
+# Conclusion
+
+The Bible instructs us to distance ourselves from the slanderer after warning them; however, the bible also says that if our accusers should ever change or ask for forgiveness that we should forgive them. Until that happens have nothing to do with those who slander you or others. There is no reason anyone should be speaking negatively about another person.
 
 > Then Peter came to him and said, “Lord, how many times must I forgive my brother[**a**] who sins against me? As many as seven times?” Jesus said to him, “Not seven times, I tell you, but seventy-seven times![**b**] &mdash; Matthew 18:21-22 NET
 
