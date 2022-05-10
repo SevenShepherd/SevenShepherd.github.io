@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:00:05 -0700
+date: 2021-11-01 12:01:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -148,9 +148,11 @@ There is no one who does good. &mdash; Psalm 14:1 -->
 
 ## **The Christian Method Of Dealing With Slander**
 
-> "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Matthew 11:28-30
+> "With their words, the godless destroy their friends, but knowledge will rescue the righteous." &mdash; Pr 11:9
 
 Imagine, for a moment, the perfect transcendental infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of [agape](https://biblehub.com/greek/26.htm) love (1 Jn 4:8) who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23, 1 Ti 2:6, Mt 20:28, Mk 10:45).
+
+> "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Mt 11:28-30
 
 <!-- > The one who does not love [[ἀγαπῶν]](https://biblehub.com/greek/25.htm) does not know God, for God is love [[ἀγάπη]](https://biblehub.com/greek/26.htm). &mdash; 1 John 4:8, on agape love -->
 
@@ -220,6 +222,8 @@ The Bible instructs us to distance ourselves from the slanderer after warning th
 Footnotes (NET bible translator notes)
 - **a.** Matthew 18:21 tn Here the term “brother” means “fellow believer” or “fellow Christian” (cf. BDAG 18 s.v. ἀδελφός 2.a), whether male or female. Concerning the familial connotations, see also the note on the first occurrence of this term in v. 15.
 - **b.** Matthew 18:22 tn Or “seventy times seven,” i.e., **an unlimited number of times**. See L&N 60.74 and 60.77 for the two possible translations of the phrase.
+
+> but if you do not forgive others their trespasses, neither will your Father forgive your trespasses. &mdash; Mt 6:15
 
 <!-- 
 # The Stoic Method
