@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:01:00 -0700
+date: 2021-11-01 12:02:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -167,7 +167,7 @@ Imagine, for a moment, the perfect transcendental infinite God beyond the spatio
 
 <!-- The more thought you put into it the more you would realize that what you were imagining already existed in the person of Christ. -->
 
-Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Titus 1:16, 1 Jn 4:8, Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast God with the enemy of mankind.
+Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Matthew 23:3-5,13,15,16-17,23,25,27,29–31,33,37-39; Titus 1:16; 1 Jn 4:8; Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast God with the enemy of mankind.
 
 > “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
 
@@ -209,13 +209,25 @@ Let's look at the difference between a true follower of Christ, and one who is C
 
 > If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
 
+<!-- |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
+|:-:|:-:|
+|**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT| -->
+
 |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
-|**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT|
+|<span style="color: #828282; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic;">"But the fruit of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law." &mdash; Galatians 5:22–23</span>|<span style="color: #828282; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic;">"When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, idolatry, sorcery, **hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, envy**, drunkenness, wild parties, and other sins like these. **Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God.**" &mdash; Galatians 5:19-21</span>|
+
+<!-- # True Christian (<span style="color:#009933;">Fruit of the Spirit</span>)
+
+> "But the fruit of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law." &mdash; Galatians 5:22–23
+
+# False Christian (<span style="color:#990000;">Works of the Flesh</span>)
+
+> "When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, idolatry, sorcery, **hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, envy**, drunkenness, wild parties, and other sins like these. **Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God."** &mdash; Galatians 5:19-21 NLT -->
 
 # Conclusion
 
-The Bible instructs us to distance ourselves from the slanderer after warning them; however, the bible also says that if our accusers should ever change or ask for forgiveness that we should forgive them. Until that happens have nothing to do with those who slander you or others. There is no reason anyone should be speaking negatively about another person.
+The Bible instructs us to distance ourselves from the slanderer **after warning them**; however, the bible also says that if our accusers should ever change or ask for forgiveness that we should forgive them. Until that happens have nothing to do with those who slander you or others. There is no reason anyone should be speaking negatively about another person.
 
 > Then Peter came to him and said, “Lord, how many times must I forgive my brother[**a**] who sins against me? As many as seven times?” Jesus said to him, “Not seven times, I tell you, but seventy-seven times![**b**] &mdash; Matthew 18:21-22 NET
 
