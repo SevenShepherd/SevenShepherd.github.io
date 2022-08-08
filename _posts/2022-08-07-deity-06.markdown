@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Defending Jesus Deity: The Apostle Peter Calls Jesus God ✝️"
+date: 2022-08-08 00:34:29 -0600
+categories: god jesus deity bible cults
+published: true
+---
+
+## The Apostle Peter Calls Jesus God
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of **God and our Saviour Jesus Christ**: &mdash; 2 Peter 1:1 KJV (48.83% / 66.58%)
+
+    > Simon Peter, a bondservant and apostle of Jesus Christ, To those who have [a]obtained like[b] precious faith with us by the righteousness of **our God and Savior Jesus Christ:** &mdash; 2 Peter 1:1 NKJV (60.32% / 65.21%)
+
+- Majority Text
+
+    > Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of **our God and Savior, Jesus Christ:** &mdash; 2 Peter 1:1 WEB (World English Bible)
+
+- Critical Text
+
+    > Simeon Peter, a slave and apostle of Jesus Christ,To those who have received the same kind of faith as ours, by the righteousness of **our God and Savior, Jesus Christ:** &mdash; 2 Peter 1:1 LSB (NASB '95 61.65% / 67.99%)
+
+    > Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of **our God and Savior Jesus Christ:** &mdash; 2 Peter 1:1 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > This letter is from Simon Peter, a slave and apostle of Jesus Christ. I am writing to you who share the same precious faith we have. This faith was given to you because of the justice and fairness of **Jesus Christ, our God and Savior.** &mdash; 2 Peter 1:1 NLT (70.08% / 39.90%)
+
+    > Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of **our God and Savior Jesus Christ** have received a faith as precious as ours: &mdash; 2 Peter 1:1 NIV (67.20% / 53.10%)
+
+    > From Simeon Peter, a slave and apostle of Jesus Christ, to those who through the righteousness of **our God and Savior, Jesus Christ,** have been granted a faith just as precious as ours. &mdash; 2 Peter 1:1 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > e. 2 Peter 1:1 NET tn **The terms “God and Savior” both refer to the same person, Jesus Christ. This is one of the clearest statements in the NT concerning the deity of Christ.** The construction in Greek is known as the Granville Sharp rule, named after the English philanthropist-linguist who first clearly articulated the rule in 1798. Sharp pointed out that in the construction article-noun-καί-noun (where καί [kai] = “and”), when two nouns are singular, personal, and common (i.e., not proper names), they always had the same referent. Illustrations such as “the friend and brother,” “the God and Father,” etc. abound in the NT to prove Sharp’s point. In fact, the construction occurs elsewhere in 2 Peter, strongly suggesting that the author’s idiom was the same as the rest of the NT authors’ (cf., e.g., 1:11 [“the Lord and Savior”], 2:20 [“the Lord and Savior”]). The only issue is whether terms such as “God” and “Savior” could be considered common nouns as opposed to proper names. Sharp and others who followed (such as T. F. Middleton in his masterful The Doctrine of the Greek Article) demonstrated that a proper name in Greek was one that could not be pluralized. Since both “God” (θεός, theos) and “savior” (σωτήρ, sōtēr) were occasionally found in the plural, they did not constitute proper names, and hence, do fit Sharp’s rule. Although there have been 200 years of attempts to dislodge Sharp’s rule, all attempts have been futile. Sharp’s rule stands vindicated after all the dust has settled. For more information on the application of Sharp’s rule to 2 Pet 1:1, see ExSyn 272, 276-77, 290. See also Titus 2:13 and Jude 4.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > Simon Peter, a slave and emissary of Messiah Yeshua, To those who have received a faith equal to ours through the righteousness of **our God and Savior, Messiah Yeshua:** &mdash; 2 Peter 1:1 TLV (Tree of Life Version, Formal Equivalent)
+
+    > From: Shim‘on Kefa, a slave and emissary of Yeshua the Messiah To: Those who, through the righteousness of **our God and of our Deliverer Yeshua the Messiah,** have been given the same kind of trust as ours: &mdash; 2 Peter 1:1 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > I, Simon Peter, am a servant and apostle of Jesus Christ. I write this to you whose experience with God is as life-changing as ours, all due to our God’s straight dealing and the intervention of **our God and Savior, Jesus Christ.** Grace and peace to you many times over as you deepen in your experience with **God and Jesus, our Master.** &mdash; 2 Peter 1:1 MSG (The Message)
+
+## Conclusion
+
+Indisputable proof that Jesus is God!
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
