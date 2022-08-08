@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Defending Jesus Deity: The Apostle Paul called Jesus God ✝️"
+date: 2022-08-08 15:02:54 -0600
+categories: god jesus deity bible cults
+published: true
+---
+
+## The Apostle Paul called Jesus God
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Looking for that blessed hope, and the glorious appearing of **the great God and our Saviour Jesus Christ;** &mdash; Titus 2:13 KJV (48.83% / 66.58%)
+
+    > looking for the blessed hope and glorious appearing of **our great God and Savior Jesus Christ,** &mdash; Titus 2:13 NKJV (60.32% / 65.21%)
+
+- Majority Text
+
+    > looking for the blessed hope and appearing of the glory of **our great God and Savior, Jesus Christ,** &mdash; Titus 2:13 WEB (World English Bible)
+
+- Critical Text
+
+    > looking for the blessed hope and the appearing of the glory of **our great God and Savior, Jesus Christ,** &mdash; Titus 2:13 LSB (NASB '95 61.65% / 67.99%)
+
+    > waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ,** &mdash; Titus 2:13 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > while we look forward with hope to that wonderful day when the glory of **our great God and Savior, Jesus Christ,** will be revealed. &mdash; Titus 2:13 NLT (70.08% / 39.90%)
+
+    > while we wait for the blessed hope—the appearing of the glory of **our great God and Savior, Jesus Christ,** &mdash; Titus 2:13 NIV (67.20% / 53.10%)
+
+    > as we wait for the happy fulfillment of our hope in the glorious appearing of **our great God and Savior, Jesus Christ.** &mdash; Titus 2:13 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > b. Titus 2:13 NET tn **The terms “God and Savior” both refer to the same person, Jesus Christ. This is one of the clearest statements in the NT concerning the deity of Christ.** The construction in Greek is known as the Granville Sharp rule, named after the English philanthropist-linguist who first clearly articulated the rule in 1798. Sharp pointed out that in the construction article-noun-καί-noun (where καί [kai] = “and”), when two nouns are singular, personal, and common (i.e., not proper names), they always had the same referent. Illustrations such as “the friend and brother,” “the God and Father,” etc. abound in the NT to prove Sharp’s point. The only issue is whether terms such as “God” and “Savior” could be considered common nouns as opposed to proper names. Sharp and others who followed (such as T. F. Middleton in his masterful The Doctrine of the Greek Article) demonstrated that a proper name in Greek was one that could not be pluralized. Since both “God” (θεός, theos) and “savior” (σωτήρ, sōtēr) were occasionally found in the plural, they did not constitute proper names, and hence, do fit Sharp’s rule. Although there have been 200 years of attempts to dislodge Sharp’s rule, all attempts have been futile. Sharp’s rule stands vindicated after all the dust has settled. For more information on Sharp’s rule see ExSyn 270-78, esp. 276. See also 2 Pet 1:1 NET and Jude 4 NET.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > We wait for the blessed hope and appearance of the glory of **our great God and Savior, Messiah Yeshua.** &mdash; Titus 2:13 TLV (Tree of Life Version, Formal Equivalent)
+
+    > while continuing to expect the blessed fulfillment of our certain hope, which is the appearing of the Sh’khinah of **our great God and the appearing of our Deliverer, Yeshua the Messiah.** &mdash; Titus 2:13 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > God’s readiness to give and forgive is now public. Salvation’s available for everyone! We’re being shown how to turn our backs on a godless, indulgent life, and how to take on a God-filled, God-honoring life. This new life is starting right now, and is whetting our appetites for the glorious day when **our great God and Savior, Jesus Christ, appears.** He offered himself as a sacrifice to free us from a dark, rebellious life into this good, pure life, making us a people he can be proud of, energetic in goodness. &mdash; Titus 2:13 MSG (The Message)
+
+## Conclusion
+
+Irrefutable proof that Jesus is God!
+
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
