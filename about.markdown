@@ -19,10 +19,10 @@ For comparison the KJV rates at 48.83% in readability, and 66.58% in literalness
 |||
 |:-:|
 |**Formal Equivalence**<br>(Primary)|***"Word-For-Word"*** **Translation Type**|
-|[Legacy Standard Bible](https://lsbible.org/)<br>[130+ Scholars](https://lsbible.org/faqs/)<br>[(70+ LSB, 19 NASB '95, 42 NASB '77)](https://www.lockman.org/new-american-standard-bible-nasb/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta. The New Testament uses the Novum Testamentum Graece (28th ed., 2012). Readability >61.65% / Literalness >67.99%|
-|[ESV Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997). The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012). Readability 62.36% / Literalness 100% (Greek); Literalness 68.74% (ESV)|
+|[Legacy Standard Bible](https://lsbible.org/)<br>[130+ Scholars](https://lsbible.org/faqs/)<br>[(70+ LSB, 19 NASB '95, 42 NASB '77)](https://www.lockman.org/new-american-standard-bible-nasb/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta.<br><br>The New Testament uses the Novum Testamentum Graece (28th ed., 2012).<br><br>Readability > 61.65%<br>Literalness > 67.99%|
+|[ESV Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 100% (Greek)<br>Literalness 68.74% (ESV)|
 |**Dynamic Equivalence**<br>(Parallel)|***"Thought-For-Thought"*** **Translation Type**|
-|[New Living Translation](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia. The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece. Readability 70.08% / Literalness 39.90%|
+|[New Living Translation](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece.<br><br>Readability 70.08%<br>Literalness 39.90%|
 
 # Recommended Courses
 
