@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Defending Jesus Deity: The Comprehensive Study ✝️"
+date: 2022-08-11 22:51:29 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
+
+Hello, this article is a work in progress. When this warning sign is taken down it will be finished. I will continue to add what I find. Feel free to contact me below with suggestions.
+
+## **Called God**
+
+- [God The Father Calls Jesus God](https://sevenshepherd.github.io/deity-01/)
+- [The Apostle John Calls Jesus God](https://sevenshepherd.github.io/deity-05/)
+- [The Apostle Peter Calls Jesus God](https://sevenshepherd.github.io/deity-06/)
+- [The Apostle Paul Called Jesus God](https://sevenshepherd.github.io/deity-07/)
+- [The Apostle Thomas Called Jesus God](https://sevenshepherd.github.io/deity-08/)
+
+## **Called Himself God**
+
+- [Jesus Calls Himself The Great 'I AM' Of Exodus](https://sevenshepherd.github.io/deity-03/)
+- [Jesus Is The 'I Am He' of Isaiah](https://sevenshepherd.github.io/deity-14/)
+- [The Jews Crucified Jesus For Claiming To Be God](https://sevenshepherd.github.io/deity-09/)
+
+## **Identified As Yahweh**
+
+- [*Jesus Calls Himself The Great 'I AM' Of Exodus](https://sevenshepherd.github.io/deity-03/)
+- [*Jesus Is The 'I Am He' of Isaiah](https://sevenshepherd.github.io/deity-14/)
+- [*They Pierced Yahweh On The Cross!](https://sevenshepherd.github.io/deity-16/)
+
+- # Deduced To Be Yahweh
+
+	- [Only God Created All Things](https://sevenshepherd.github.io/deity-11/)
+	- [Only God Is Our Savior](https://sevenshepherd.github.io/deity-18/)
+	- [Only God Is Good](https://sevenshepherd.github.io/deity-17/)
+
+## **Prophesied To Be God**
+
+- [They Pierced Yahweh On The Cross!](https://sevenshepherd.github.io/deity-16/)
+- [Jesus Was Prophesied To Be God](https://sevenshepherd.github.io/deity-02/)
+
+## **Worshiped As God**
+
+- [Angels Worship Jesus As God](https://sevenshepherd.github.io/deity-04/)
+- [The Magi Worship Jesus As God](https://sevenshepherd.github.io/deity-10/)
+
+## **Attributes Of God**
+
+- [Jesus Blood IS God's Blood!](https://sevenshepherd.github.io/deity-12/)
+- [He Existed In The Form Of God!](https://sevenshepherd.github.io/deity-13/)
+- [Jesus Is All The Fullness Of Deity In Bodily Form](https://sevenshepherd.github.io/deity-15/)
+
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
