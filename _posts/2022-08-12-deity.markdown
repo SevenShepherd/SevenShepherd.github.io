@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defending Jesus Deity: The Comprehensive Study ✝️"
-date: 2022-08-12 00:11:45 -0500
+date: 2022-08-12 00:12:45 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -81,6 +81,13 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 	- *Philippians 2:5-8*
 - [**Jesus Is All The Fullness Of Deity In Bodily Form**](https://sevenshepherd.github.io/deity-15/)
 	- *Colossians 2:9*
+
+## **Textual Basis Specific**
+- Textus Receptus & Majority Text
+	- [God Is Manifest In The Flesh](https://sevenshepherd.github.io/deity-19/)
+		- *1 Timothy 3:16*
+- Critical Text
+	- Coming Soon!
 
 
 <script>
