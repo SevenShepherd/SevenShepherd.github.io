@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defending Jesus Deity: The Comprehensive Study ✝️"
-date: 2022-08-12 02:18:12 -0500
+date: 2022-08-13 22:42:23 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -22,6 +22,10 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 	- *Titus 2:13; Isaiah 43:11*
 - [**The Apostle Thomas Called Jesus God**](https://sevenshepherd.github.io/deity-08/)
 	- *John 20:27-29*
+
+<!-- - Critical Text Only
+	- [Jesus Is God Because He Is The Only God](https://sevenshepherd.github.io/deity-21/)
+		- *John 1:18* -->
 
 ## **Called Himself God**
 
@@ -87,11 +91,13 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 
 ## **Textual Basis Specific**
 - Textus Receptus & Majority Text
-	- [God Is Manifest In The Flesh](https://sevenshepherd.github.io/deity-19/)
+	- [**God Is Manifest In The Flesh**](https://sevenshepherd.github.io/deity-19/)
 		- *1 Timothy 3:16*
 - Critical Text
-	- [Jesus Saved A People Out Of Egypt](https://sevenshepherd.github.io/deity-20/)
+	- [**Jesus Saved A People Out Of Egypt**](https://sevenshepherd.github.io/deity-20/)
 		- *Jude 1:5,7; Genesis 19:24; Hosea 13:4*
+	- [**Jesus Is God Because He Is The Only God**](https://sevenshepherd.github.io/deity-21/)
+		- *John 1:18*
 
 
 <script>
