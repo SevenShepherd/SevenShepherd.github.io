@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is God Because He Is The Exact Representation Of His Nature ✝️"
+date: 2022-08-15 11:06:51 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## Jesus Is God Because He Is The Exact Representation Of His Nature
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Who being the brightness of his glory, and **the express image of his person,** and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high: &mdash; Hebrews 1:3 KJV (48.83% / 66.58%)
+
+    > who being the brightness of His glory and **the express image of His person,** and upholding all things by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high, &mdash; Hebrews 1:3 NKJV (60.32% / 65.21%)
+
+	> He is the brightness of His glory, **the express image of Himself,** and upholds all things by the word of His power. When He had by Himself purged our sins, He sat down at the right hand of the Majesty on high. &mdash; Hebrews 1:3 MEV (Modern English Version)
+
+- Majority Text
+
+    > His Son is the radiance of his glory, **the very image of his substance,** and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, &mdash; Hebrews 1:3 WEB (World English Bible)
+
+- Critical Text
+
+    > who is the radiance of His glory and **the exact representation of His nature,** and upholds all things by the word of His power; who, having accomplished cleansing for sins, sat down at the right hand of the Majesty on high, &mdash; Hebrews 1:3 LSB (NASB '95 61.65% / 67.99%)
+
+    > He is the radiance of the glory of God and **the exact imprint of his nature,** and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, &mdash; Hebrews 1:3 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > The Son radiates God’s own glory and expresses the very character of God, and he sustains everything by the mighty power of his command. When he had cleansed us from our sins, he sat down in the place of honor at the right hand of the majestic God in heaven. &mdash; Hebrews 1:3 NLT (70.08% / 39.90%)
+
+    > The Son is the radiance of God’s glory and **the exact representation of his being,** sustaining all things by his powerful word. After he had provided purification for sins, he sat down at the right hand of the Majesty in heaven. &mdash; Hebrews 1:3 NIV (67.20% / 53.10%)
+
+    > The Son is[a] the radiance of his glory and **the representation of his essence,** and he sustains all things by his powerful word,[b] and so when he had accomplished cleansing for sins, he sat down at the right hand of the Majesty on high.[c] &mdash; Hebrews 1:3 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a. Hebrews 1:3 tn Grk “who being…and sustaining.” Heb 1:1-4 form one skillfully composed sentence in Greek, but it must be broken into shorter segments to correspond to contemporary English usage, which does not allow for sentences of this length and complexity.
+	>
+	b. Hebrews 1:3 tn Grk “by the word of his power.”
+	>
+	c. Hebrews 1:3 sn An allusion to Ps 110:1, quoted often in Hebrews.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > This Son is the radiance of His glory and **the imprint of His being,** upholding all things by His powerful word. When He had made purification for our sins, He sat down at the right hand of the Majesty on high. &mdash; Hebrews 1:3 TLV (Tree of Life Version, Formal Equivalent)
+
+    > This Son is the radiance of the Sh’khinah, **the very expression of God’s essence,** upholding all that exists by his powerful word; and after he had, through himself, made purification for sins, he sat down at the right hand of HaG’dulah BaM’romim. &mdash; Hebrews 1:3 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+	> Who being the Shechinah zohar (brilliance) of Hashem and **the exact impress and demut of Hashem’s essential nature,** being, and reality, and sustaining everything by his Dvar HaKo’ach, after he made tihur (purification) of chatta’im (sins), sat down at LIMIN ("the right hand" TEHILLIM 110:1) of the Majesty on High.
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > 1-3 Going through a long line of prophets, God has been addressing our ancestors in different ways for centuries. Recently he spoke to us directly through his Son. By his Son, God created the world in the beginning, and it will all belong to the Son at the end. **This Son perfectly mirrors God, and is stamped with God’s nature.** He holds everything together by what he says—powerful words! &mdash; Hebrews 1:3 MSG (The Message)
+
+## Conclusion
+
+Jesus has the same nature as God the Father, this is why he claimed equality with God in Jn 5:18 and called himself God in Jn 8:58;10:30-33. We know that he existed in the form of God via Phil 2:5-8 which attests to Jn 1:1-3,14 and that he is is all the fullness of deity in bodily form Col 2:9. Jesus is God!
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
