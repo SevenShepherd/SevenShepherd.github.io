@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defending Jesus Deity: The Comprehensive Study ✝️"
-date: 2022-08-14 22:44:55 -0500
+date: 2022-08-14 22:45:55 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -9,6 +9,10 @@ published: true
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
 
 Hello, this article is a work in progress. When this warning sign is taken down it will be finished. I will continue to add what I find. Feel free to contact me below with suggestions.
+
+# ⚜️ **Identified As Yahweh** 
+
+Instances that reveal Jesus to be, not only God, but Yahweh, the covenant name of God, are marked with a Fleur-de-lis.
 
 ## **Called God**
 
@@ -29,9 +33,9 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 
 ## **Called Himself God**
 
-- [**Jesus Calls Himself The Great 'I AM' Of Exodus**](https://sevenshepherd.github.io/deity-03/)
+- ⚜️ [**Jesus Calls Himself The Great 'I AM' Of Exodus**](https://sevenshepherd.github.io/deity-03/)
 	- *John 8:56-59; Exodus 3:14-16*
-- [**Jesus Is The 'I Am He' of Isaiah**](https://sevenshepherd.github.io/deity-14/)
+- ⚜️ [**Jesus Is The 'I Am He' of Isaiah**](https://sevenshepherd.github.io/deity-14/)
 	- *John 8:24; Isaiah 41:4;43:10;43:13;48:12*
 - [**The Jews Crucified Jesus For Claiming To Be God**](https://sevenshepherd.github.io/deity-09/)
 	- *John 10:30-33*
@@ -42,7 +46,7 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 |[**Jesus Is The 'I Am He' of Isaiah**](https://sevenshepherd.github.io/deity-14/)|*John 8:24; Isaiah 41:4;43:10;43:13;48:12*|
 |[**The Jews Crucified Jesus For Claiming To Be God**](https://sevenshepherd.github.io/deity-09/)|*John 10:30-33*| -->
 
-## **Identified As Yahweh**
+<!-- ## **Identified As Yahweh**
 
 - [**Jesus Calls Himself The Great 'I AM' Of Exodus**](https://sevenshepherd.github.io/deity-03/)
 	- *John 8:56-59; Exodus 3:14-16*
@@ -52,24 +56,24 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 	- *Zechariah 12:1,10*
 - Critical Text Only
 	- [Jesus Saved A People Out Of Egypt](https://sevenshepherd.github.io/deity-20/)
-		- *Jude 1:5,7; Genesis 19:24; Hosea 13:4*
+		- *Jude 1:5,7; Genesis 19:24; Hosea 13:4* -->
 
-- # Deduced To Be Yahweh
+## **Deduced To Be God**
 
-	- [**Only God Created All Things**](https://sevenshepherd.github.io/deity-11/)
-		- *John 1:3; Colossians 1:16-17; Isaiah 44:24*
-	- [**Only God Is Our Savior**](https://sevenshepherd.github.io/deity-18/)
-		- *Luke 2:11; Phil 3:20; Titus 2:13, 3:6; 2 Peter 1:1, 2:20, 3:18*
-		- *Isaiah 43:11; Isaiah 45:21; Hosea 13:4*
-	- [**Only God Is Good**](https://sevenshepherd.github.io/deity-17/)
-		- *Mark 10:17-18; Matthew 19:16-17*
-		- *John 10:11,14; Hebrews 7:26; Psalm 23:1*
-	- [**Jesus Is God Because God Is Love**](https://sevenshepherd.github.io/deity-22/)
-		- *1 John 4:8,16; John 15:13*
+- ⚜️ [**Only God Created All Things**](https://sevenshepherd.github.io/deity-11/)
+	- *John 1:3; Colossians 1:16-17; Isaiah 44:24*
+- ⚜️ [**Only God Is Our Savior**](https://sevenshepherd.github.io/deity-18/)
+	- *Luke 2:11; Phil 3:20; Titus 2:13, 3:6; 2 Peter 1:1, 2:20, 3:18*
+	- *Isaiah 43:11; Isaiah 45:21; Hosea 13:4*
+- ⚜️ [**Only God Is Good**](https://sevenshepherd.github.io/deity-17/)
+	- *Mark 10:17-18; Matthew 19:16-17*
+	- *John 10:11,14; Hebrews 7:26; Psalm 23:1*
+- [**Jesus Is God Because God Is Love**](https://sevenshepherd.github.io/deity-22/)
+	- *1 John 4:8,16; John 15:13*
 
 ## **Prophesied To Be God**
 
-- [**They Pierced Yahweh On The Cross!**](https://sevenshepherd.github.io/deity-16/)
+- ⚜️ [**They Pierced Yahweh On The Cross!**](https://sevenshepherd.github.io/deity-16/)
 	- *Zechariah 12:1,10*
 - [**Jesus Was Prophesied To Be God**](https://sevenshepherd.github.io/deity-02/)
 	- *Isaiah 9:6*
@@ -96,7 +100,7 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 	- [**God Is Manifest In The Flesh**](https://sevenshepherd.github.io/deity-19/)
 		- *1 Timothy 3:16*
 - Critical Text
-	- [**Jesus Saved A People Out Of Egypt**](https://sevenshepherd.github.io/deity-20/)
+	- ⚜️ [**Jesus Saved A People Out Of Egypt**](https://sevenshepherd.github.io/deity-20/)
 		- *Jude 1:5,7; Genesis 19:24; Hosea 13:4*
 	- [**Jesus Is God Because He Is The Only God**](https://sevenshepherd.github.io/deity-21/)
 		- *John 1:18*
