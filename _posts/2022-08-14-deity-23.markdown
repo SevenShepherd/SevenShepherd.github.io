@@ -1,0 +1,96 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is God Because He Is The Son Of God ✝️"
+date: 2022-08-15 00:55:43 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## Jesus Is God Because He Is The Son Of God
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, **making himself equal with God.** &mdash; John 5:18 KJV (48.83% / 66.58%)
+
+    > Therefore the Jews sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father, **making Himself equal with God.** &mdash; John 5:18 NKJV (60.32% / 65.21%)
+
+	<!-- > &mdash; John 5:18 KJ21 (21st Century King James Version) -->
+
+	> So the Jews sought even more to kill Him, because He not only had broken the Sabbath, but also said that God was His Father, **making Himself equal with God.** &mdash; John 5:18 MEV (Modern English Version)
+
+
+- Majority Text
+
+    > For this cause therefore the Jews sought all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, **making himself equal with God.** &mdash; John 5:18 WEB (World English Bible)
+
+- Critical Text
+
+    > For this reason therefore the Jews were seeking all the more to kill Him, because He not only was breaking the Sabbath, but also was calling God His own Father, **making Himself equal with God.** &mdash; John 5:18 LSB (NASB '95 61.65% / 67.99%)
+
+    > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, **making himself equal with God.** &mdash; John 5:18 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > So the Jewish leaders tried all the harder to find a way to kill him. For he not only broke the Sabbath, he called God his Father, thereby **making himself equal with God.** &mdash; John 5:18 NLT (70.08% / 39.90%)
+
+    > For this reason they tried all the more to kill him; not only was he breaking the Sabbath, but he was even calling God his own Father, **making himself equal with God.** &mdash; John 5:18 NIV (67.20% / 53.10%)
+
+    > For this reason the Jewish leaders[a] were trying even harder to kill him, because not only was he breaking the Sabbath, but he was also calling God his own Father, thus **making himself equal with God.** &mdash; John 5:18 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a. John 5:18 NET tn Or “the Jewish authorities”; Grk “the Jews.” See the note on the phrase “Jewish leaders” in v. 10.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > So for this reason the Judean leaders kept trying even harder to kill Him—because He was not only breaking Shabbat, but also calling God His own Father, making Himself equal with God. &mdash; John 5:18 TLV (Tree of Life Version, Formal Equivalent)
+
+    > This answer made the Judeans all the more intent on killing him — not only was he breaking Shabbat; but also, by saying that God was his own Father, he was claiming equality with God. &mdash; John 5:18 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+	> Because of this, therefore, those of Yehudah were seeking all the more to kill Rebbe, Melech HaMoshiach, because not only was he not Shomer Shabbos, but also Rebbe was saying that his own Av was Hashem, thereby **making himself equal with Elohim** [Yochanan 1:1]. &mdash; John 5:18 OJB (Orthodox Jewish Bible)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > That really set them off. The Jews were now not only out to expose him; they were out to kill him. Not only was he breaking the Sabbath, but he was calling God his own Father, putting himself on a level with God. &mdash; John 5:18 MSG (The Message)
+
+## Conclusion
+
+In accordance with Leviticus 24:16, The Jews tried to kill him for blasphemy! 
+
+> Moreover, the one who **blasphemes** the name of Yahweh shall surely be put to death; **all the congregation shall certainly stone him**. The sojourner as well as the native, when he blasphemes the Name, shall be put to death. &mdash; Leviticus 24:16 LSB
+
+It was understood that Jesus was claiming to be God every time he referred to himself as the Son of God, equal to the Father in nature. The Jews took it as blasphemy. This reaction only makes sense if Jesus was claiming to be God.
+
+<!-- > ... but for blasphemy; and **because You, being a man, make Yourself God.” -->
+
+> For this reason therefore **the Jews were seeking all the more to kill Him**, because He not only was breaking the Sabbath, but also was calling God His own Father, **making Himself equal with God.** &mdash; John 5:18 LSB
+
+<!-- > This made ·them [the Jewish leaders; <sup>L</sup>the Jews] try still harder to kill him. They said, “First Jesus was breaking the law about the Sabbath day. Now he says that God is his own Father, **making himself equal with God!” [<sup>C</sup>Both breaking the Sabbath and blasphemy against God were punishable by death; Ex. 35:2; Lev. 24:16.]** &mdash; John 5:18 EXP (Expanded Bible) -->
+
+Further, this didn't happen just once, but many times.
+
+> **I and the Father are one.”** 31 The Jews picked up stones again to stone Him. 32 Jesus answered them, “I showed you many good works from the Father; for which of them are you stoning Me?” 33 The Jews answered Him, **“For a good work we do not stone You, but for blasphemy; and because You, being a man, make Yourself God.”** &mdash; John 10:30-33 LSB (NASB '95 61.65% / 67.99%)
+
+> **Your father Abraham rejoiced to see My day, and he saw it and was glad.”**
+57 So the Jews said to Him, “You are not yet fifty years old, and have You seen Abraham?” 58 **Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”** 59 **Therefore they picked up stones to throw at Him, but Jesus hid Himself and went out of the temple.** &mdash; John 8:56-59 LSB
+
+Being called Son of God doesn't mean Jesus isn't God, Just like being called Son of Man doesn't mean you're not a man. **Everytime you hear the title 'Son of God', that is a claim to deity and equality with the personage of the Father in nature. Jesus is God!**
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
