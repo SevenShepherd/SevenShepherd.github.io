@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Defending Jesus Deity: The Apostles And Crew Worshipped Jesus As God! ✝️"
+date: 2022-08-15 15:49:16 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## The Apostles And Crew Worshipped Jesus As God!
+
+Jesus never rebuked any Angel or any of His followers for worshiping Him and yet worship of anything or anyone other than God is absolutely forbidden in the Bible.
+
+<!-- > And Jesus answered and said to him, **“It is written, ‘You shall worship the Lord your God and serve Him only.’”** &mdash; Luke 4:8 LSB -->
+
+> And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. &mdash; Luke 4:8 KJV
+
+<!-- > Then Jesus said to him, **“Go, Satan! For it is written, ‘You shall worship the Lord your God, and serve Him only.’”** &mdash; Matthew 4:10 LSB -->
+
+> Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. &mdash; Matthew 4:10 KJV
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > And when they were come into the ship, the wind ceased.
+	>
+	33 Then they that were in the ship came and **worshipped him,** saying, Of a truth thou art the Son of God. &mdash; Matthew 14:32-33 KJV (48.83% / 66.58%)
+
+	--
+
+    > And when they got into the boat, the wind ceased.
+	>
+	33 Then those who were in the boat [a]came and **worshiped Him,** saying, “Truly You are the Son of God.” &mdash; Matthew 14:32-33 NKJV (60.32% / 65.21%)
+
+	--
+
+    > And when they got into the boat, the wind ceased. 33 Then those who were in the boat came and **worshipped Him,** saying, “Truly You are the Son of God.” &mdash; Matthew 14:32-33 MEV (Modern English Version)
+
+- Majority Text
+
+    > When they got up into the boat, the wind ceased. 33 Those who were in the boat came and **worshiped him,** saying, “You are truly the Son of God!” &mdash; Matthew 14:32-33 WEB (World English Bible)
+
+- Critical Text
+
+    > And when they got into the boat, the wind stopped. 33 And those who were in the boat **worshiped Him,** saying, “You are truly God’s Son!” &mdash; Matthew 14:32-33 LSB (NASB '95 61.65% / 67.99%)
+
+    > And when they got into the boat, the wind ceased. 33 And those in the boat **worshiped him,** saying, “Truly you are the Son of God.” &mdash; Matthew 14:32-33 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > When they climbed back into the boat, the wind stopped. 33 Then the disciples **worshiped him.** “You really are the Son of God!” they exclaimed. &mdash; Matthew 14:32-33 NLT (70.08% / 39.90%)
+
+    > And when they climbed into the boat, the wind died down. 33 Then those who were in the boat **worshiped him,** saying, “Truly you are the Son of God.” &mdash; Matthew 14:32-33 NIV (67.20% / 53.10%)
+
+    > When they went up into the boat, the wind ceased. 33 Then those who were in the boat **worshiped him,** saying, “Truly you are the Son of God.” &mdash; Matthew 14:32-33 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > When they got into the boat, the wind ceased. 33 And those in the boat **worshiped Him,** saying, “You really are Ben-Elohim!”[a] &mdash; Matthew 14:32-33 TLV (Tree of Life Version, Formal Equivalent) a. Matthew 14:33 Prov. 30:4.
+
+    > As they went up into the boat, the wind ceased. 33 The men in the boat fell down before him and exclaimed, “You really are God’s son!” &mdash; Matthew 14:32-33 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > 32-33 The two of them climbed into the boat, and the wind died down. The disciples in the boat, having watched the whole thing, **worshiped Jesus,** saying, “This is it! You are God’s Son for sure!” &mdash; Matthew 14:32-33 MSG (The Message)
+
+## Conclusion
+
+Jesus receives worship! And God only is to receive worship Luke 4:8; Matthew 4:10. Jesus is God!
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
