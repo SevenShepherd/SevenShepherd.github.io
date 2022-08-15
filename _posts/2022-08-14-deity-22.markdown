@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is God Because God Is Love ✝️"
+date: 2022-08-14 22:40:55 -0500
+categories: god jesus love deity bible cults
+published: true
+---
+
+## Jesus Is God Because God Is Love
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > He that loveth not knoweth not God; for **God is love.**
+	>
+	Greater love hath no man than this, that a man lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 KJV (48.83% / 66.58%)
+
+    > He who does not love does not know God, for **God is love.**
+	>
+	Greater love has no one than this, than to lay down one’s life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 NKJV (60.32% / 65.21%)
+
+    > Anyone who does not love does not know God, for **God is love.**
+	>
+	Greater love has no man than this: that a man lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 MEV (Modern English Version)
+
+- Majority Text
+
+    > He who doesn’t love doesn’t know God, for **God is love.**
+	>
+	Greater love has no one than this, that someone lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 WEB (World English Bible)
+
+- Critical Text
+
+    > The one who does not love does not know God, because **God is love.**
+	>
+	Greater love has no one than this, that one lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 LSB (NASB '95 61.65% / 67.99%)
+
+    > Anyone who does not love does not know God, because **God is love.** 
+	>
+	Greater love has no one than this, that someone lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > But anyone who does not love does not know God, for **God is love.**
+	>
+	There is no greater love than to lay down one’s life for one’s friends. &mdash; 1 Jn 4:8; Jn 15:13 NLT (70.08% / 39.90%)
+
+    > Whoever does not love does not know God, because **God is love.**
+	>
+	Greater love has no one than this: to lay down one’s life for one’s friends. &mdash; 1 Jn 4:8; Jn 15:13 NIV (67.20% / 53.10%)
+
+    > The person who does not love does not know God, because **God is love.**[a]
+	>
+	No one has greater love than this—that one lays down his life[a] for his friends. &mdash; 1 Jn 4:8; Jn 15:13 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a. 1 John 4:8 NET tn The author proclaims in 4:8 ὁ θεὸς ἀγάπη ἐστίν (ho theos agapē estin), but from a grammatical standpoint this is not a proposition in which subject and predicate nominative are interchangeable (“God is love” does not equal “love is God”). The predicate noun is anarthrous, as it is in two other Johannine formulas describing God, “God is light” in 1 John 1:5 and “God is Spirit” in John 4:24. The anarthrous predicate suggests a qualitative force, not a mere abstraction, so that a quality of God’s character is what is described here.
+	>
+	a. John 15:13 NET tn Or “one dies willingly.”
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > The one who does not love does not know God, for **God is love.**
+	>
+	No one has greater love than this: that he lay down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 TLV (Tree of Life Version, Formal Equivalent)
+
+    > Those who do not love, do not know God; because **God is love.**
+	>
+	No one has greater love than a person who lays down his life for his friends. &mdash; 1 Jn 4:8; Jn 15:13 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+	> The one not having ahavah did not have da’as of Hashem, because **Hashem is ahavah.**
+	>
+	Ahavah (agape) gedolah than this no one has, that someone lay down his neshamah for his chaverim [BERESHIS 44:33]. &mdash; Yochanan I 4:8; Yochanan 15:13 OJB (Orthodox Jewish Bible)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > 7-10 My beloved friends, let us continue to love each other since love comes from God. Everyone who loves is born of God and experiences a relationship with God. The person who refuses to love doesn’t know the first thing about God, because **God is love**—so you can’t know him if you don’t love. This is how God showed his love for us: God sent his only Son into the world so we might live through him. This is the kind of love we are talking about—not that we once upon a time loved God, but that he loved us and sent his Son as a sacrifice to clear away our sins and the damage they’ve done to our relationship with God.
+	>
+	11-15 “I’ve told you these things for a purpose: that my joy might be your joy, and your joy wholly mature. This is my command: Love one another the way I loved you. This is the very best way to love. Put your life on the line for your friends. You are my friends when you do the things I command you. I’m no longer calling you servants because servants don’t understand what their master is thinking and planning. No, I’ve named you friends because I’ve let you in on everything I’ve heard from the Father. &mdash; 1 Jn 4:8; Jn 15:13 MSG (The Message)
+
+## Conclusion
+
+**If God is love (1 Jn 4:8), and Jesus performed the greatest act of love (Jn 15:13) on the cross, then Jesus is God!**
+
+This poses a massive and unsurpassable dilemma for the cults who deny sound scholarship, twist scripture, falsely prophesy and teach against Jesus deity. 
+
+We however believe in a God who is love and has performed the greatest act of love, and they do not have a God that is love as we do.
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
