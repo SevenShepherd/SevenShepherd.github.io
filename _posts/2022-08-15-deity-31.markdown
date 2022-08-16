@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Receives Prayer From Stephen the Martyr ✝️"
+date: 2022-08-16 17:08:05 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## Jesus Receives Prayer From Stephen the Martyr
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > And they stoned Stephen, **calling upon God, and saying, Lord Jesus, receive my spirit.**
+    >
+    60 And **he kneeled down, and cried with a loud voice, Lord,** lay not this sin to their charge. And when he had said this, he fell asleep. &mdash; Acts 7:59-60 KJV (48.83% / 66.58%)
+
+    > And they stoned Stephen **as he was calling on God and saying, “Lord Jesus, receive my spirit.”** 60 Then **he knelt down and cried out with a loud voice, “Lord,** do not charge them with this sin.” And when he had said this, he fell asleep. &mdash; Acts 7:59-60 NKJV (60.32% / 65.21%)
+
+    > They stoned Stephen as he was **calling on God, praying, “Lord Jesus, receive my spirit.”** 60 Then **he knelt down and cried with a loud voice, “Lord,** do not hold this sin against them.” Having said this, he fell asleep. &mdash; Acts 7:59-60 MEV (Modern English Version)
+
+- Majority Text
+
+    > They stoned Stephen as he called out, saying, “Lord Jesus, receive my spirit!” 60 He kneeled down, and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep. &mdash; Acts 7:59-60 WEB (World English Bible)
+
+- Critical Text
+
+    > They went on stoning Stephen as he was calling out and saying, “Lord Jesus, receive my spirit!” 60 Then falling on his knees, he cried out with a loud voice, “Lord, do not hold this sin against them!” And having said this, he fell asleep. &mdash; Acts 7:59-60 LSB (NASB '95 61.65% / 67.99%)
+
+    > And as they were stoning Stephen, he called out, “Lord Jesus, receive my spirit.” 60 And falling to his knees he cried out with a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep. &mdash; Acts 7:59-60 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > As they stoned him, **Stephen prayed, “Lord Jesus, receive my spirit.”** 60 **He fell to his knees, shouting, “Lord,** don’t charge them with this sin!” And with that, he died. &mdash; Acts 7:59-60 NLT (70.08% / 39.90%)
+
+    > While they were stoning him, **Stephen prayed, “Lord Jesus, receive my spirit.”** 60 Then **he fell on his knees and cried out, “Lord,** do not hold this sin against them.” When he had said this, he fell asleep. &mdash; Acts 7:59-60 NIV (67.20% / 53.10%)
+
+    > They[a] continued to stone Stephen **while he prayed, “Lord Jesus, receive my spirit!”** 60 Then **he fell**[b] **to his knees and cried out with a loud voice, “Lord,** do not hold this sin against them!”[c] When[d] he had said this, he died.[e] &mdash; Acts 7:59-60 NET (66.28% / 53.94%)
+
+<!-- - NET Bible Translator Notes
+    
+    > a. -->
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > They went on stoning Stephen as he was calling out, “Lord Yeshua, receive my spirit!” 60 Then he fell on his knees and cried out with a loud voice, “Lord, do not hold this sin against them!” After he said this, he died.[a] &mdash; Acts 7:59-60 TLV (Tree of Life Version, Formal Equivalent)
+
+    > As they were stoning him, Stephen called out to God, “Lord Yeshua! Receive my spirit!” 60 Then he kneeled down and shouted out, “Lord! Don’t hold this sin against them!” With that, he died; &mdash; Acts 7:59-60 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > As the rocks rained down, **Stephen prayed, “Master Jesus, take my life.” Then he knelt down, praying loud enough for everyone to hear, “Master,** don’t blame them for this sin”—his last words. Then he died. &mdash; Acts 7:59-60 MSG (The Message)
+
+## Conclusion
+
+Concluded
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
