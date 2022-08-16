@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defending Jesus Deity: The Comprehensive Study ✝️"
-date: 2022-08-16 16:05:35 -0500
+date: 2022-08-16 16:33:37 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -133,9 +133,8 @@ Verses listed here could be referring to either the Father or the Son depending 
 
 - [**Jesus Is The True God And Eternal Life**](https://sevenshepherd.github.io/deity-29/)
 	- *1 John 5:20*
-
-<!-- - [**Jesus Is The God Over All**](https://sevenshepherd.github.io/deity-30/)
-	- *Romans 9:5* -->
+- [**Jesus Is The God Over All**](https://sevenshepherd.github.io/deity-30/)
+	- *Romans 9:5*
 
 
 <script>

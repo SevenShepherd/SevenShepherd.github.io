@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is The God Over All ✝️"
+date: 2022-08-16 16:33:03 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## Jesus Is The God Over All
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen. &mdash; Romans 9:5 KJV (48.83% / 66.58%)
+
+    > of whom are the fathers and from whom, according to the flesh, Christ came, who is over all, the eternally blessed God. Amen. &mdash; Romans 9:5 NKJV (60.32% / 65.21%)
+
+    > to whom belong the patriarchs, and from whom, according to the flesh, is Christ, who is over all, God forever blessed. Amen. &mdash; Romans 9:5 MEV (Modern English Version)
+
+- Majority Text
+
+    > of whom are the fathers, and from whom is Christ as concerning the flesh, **who is over all, God,** blessed forever. Amen. &mdash; Romans 9:5 WEB (World English Bible)
+
+- Critical Text
+
+    > whose are the fathers, and from whom is the Christ according to the flesh, **who is God over all,** blessed forever. Amen. &mdash; Romans 9:5 LSB (NASB '95 61.65% / 67.99%)
+
+    > To them belong the patriarchs, and from their race, according to the flesh, is the Christ, **who is God over all,** blessed forever. Amen. &mdash; Romans 9:5 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > Abraham, Isaac, and Jacob are their ancestors, and Christ himself was an Israelite as far as his human nature is concerned. And **he is God, the one who rules over everything and is worthy of eternal praise!** Amen. &mdash; Romans 9:5 NLT (70.08% / 39.90%)
+
+    > Theirs are the patriarchs, and from them is traced the human ancestry of the Messiah, **who is God over all,** forever praised! Amen. &mdash; Romans 9:5 NIV (67.20% / 53.10%)
+
+    > To them belong the patriarchs,[a] and from them,[b] by human descent,[c] came the Christ,[d] **who is God over all,** blessed forever![e] Amen. &mdash; Romans 9:5 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a. Romans 9:5 NET tn Grk “of whom are the fathers.” Because of the length and complexity of the Greek sentence, a new sentence was started here in the translation.
+    >
+    b. Romans 9:5 NET tn Grk “from whom.” Here the relative pronoun has been replaced by a personal pronoun.
+    >
+    c. Romans 9:5 NET tn Grk “according to the flesh.”
+    >
+    d. Romans 9:5 NET tn Or “Messiah.” (Both Greek “Christ” and Hebrew and Aramaic “Messiah” mean “one who has been anointed.”)
+    >
+    e. Romans 9:5 NET tn Or “the Christ, who is over all, God blessed forever,” or “the Messiah. God who is over all be blessed forever!” or “the Messiah who is over all. God be blessed forever!” **The translational difficulty here is not text-critical in nature, but is a problem of punctuation. Since the genre of these opening verses of Romans 9 is a lament, it is probably best to take this as an affirmation of Christ’s deity (as the text renders it).** Although the other renderings are possible, to see a note of praise to God at the end of this section seems strangely out of place. But for Paul to bring his lament to a crescendo (that is to say, his kinsmen had rejected God come in the flesh), thereby deepening his anguish, is wholly appropriate. This is also supported grammatically and stylistically: The phrase ὁ ὢν (ho ōn, “the one who is”) is most naturally taken as a phrase which modifies something in the preceding context, and Paul’s doxologies are always closely tied to the preceding context. For a detailed examination of this verse, see B. M. Metzger, “The Punctuation of Rom. 9:5, ” Christ and the Spirit in the New Testament, 95-112; and M. J. Harris, Jesus as God, 144-72.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > To them belong the patriarchs—and from them, according to the flesh, the Messiah, **who is over all, God,** blessed forever. Amen. &mdash; Romans 9:5 TLV (Tree of Life Version, Formal Equivalent)
+
+    > the Patriarchs are theirs; and from them, as far as his physical descent is concerned, came the Messiah, who is over all. Praised be Adonai for ever! Amen. &mdash; Romans 9:5 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > 1-5 At the same time, you need to know that I carry with me at all times a huge sorrow. It’s an enormous pain deep within me, and I’m never free of it. I’m not exaggerating—Christ and the Holy Spirit are my witnesses. It’s the Israelites . . . If there were any way I could be cursed by the Messiah so they could be blessed by him, I’d do it in a minute. They’re my family. I grew up with them. They had everything going for them—family, glory, covenants, revelation, worship, promises, to say nothing of being the race that produced the Messiah, **the Christ, who is God over everything, always. Oh, yes!** &mdash; Romans 9:1-5 MSG (The Message)
+
+## Conclusion
+
+This is only one of two examples including 1 Jn 5:20 that is unclear and marked under translational difficulties. See NET Translator notes e.
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
