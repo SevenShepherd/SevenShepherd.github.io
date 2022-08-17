@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is God Because He Is The King Of Israel ✝️"
+date: 2022-08-17 18:01:52 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## Jesus Is God Because He Is The King Of Israel
+
+> “Thus says **Yahweh, the King of Israel** and his Redeemer, Yahweh of hosts: ‘I am the first, and I am the last, And there is no God besides Me. &mdash; Isaiah 44:6 LSB (NASB '95 61.65% / 67.99%)
+
+`Formal Equivalence (Word-For-Word)`
+- Received Text (Textus Receptus)
+
+    > Nathanael answered and saith unto him, Rabbi, thou art the Son of God; **thou art the King of Israel.** &mdash; John 1:49 KJV (48.83% / 66.58%)
+
+    > Nathanael answered and said to Him, “Rabbi, You are the Son of God! **You are the King of Israel!**” &mdash; John 1:49 NKJV (60.32% / 65.21%)
+
+    > Nathanael answered Him, “Rabbi, You are the Son of God! **You are the King of Israel!”** &mdash; John 1:49 MEV (Modern English Version)
+
+- Majority Text
+
+    > Nathanael answered him, “Rabbi, you are the Son of God! **You are King of Israel!**” &mdash; John 1:49 WEB (World English Bible)
+
+- Critical Text
+
+    > Nathanael answered Him, “Rabbi, You are the Son of God; **You are the King of Israel.**” &mdash; John 1:49 LSB (NASB '95 61.65% / 67.99%)
+
+    > Nathanael answered him, “Rabbi, you are the Son of God! **You are the King of Israel!**” &mdash; John 1:49 ESV (62.36% / 68.74%)
+
+`Dynamic Equivalence (Thought-For-Thought)`
+- Critical Text
+
+    > Then Nathanael exclaimed, “Rabbi, you are the Son of God—**the King of Israel!**” &mdash; John 1:49 NLT (70.08% / 39.90%)
+
+    > Then Nathanael declared, “Rabbi, you are the Son of God; **you are the king of Israel.**” &mdash; John 1:49 NIV (67.20% / 53.10%)
+
+    > Nathanael answered him, “Rabbi, you are the Son of God; **you are the king**[a] **of Israel!**”[b] &mdash; John 1:49 NET (66.28% / 53.94%)
+
+- NET Bible Translator Notes
+    
+    > a. John 1:49 NET tn Although βασιλεύς (basileus) lacks the article it is definite due to contextual and syntactical considerations. See ExSyn 263.
+    >
+    b. John 1:49 NET sn Nathanael’s confession—You are the Son of God; you are the King of Israel—is best understood as a confession of Jesus’ messiahship. It has strong allusions to Ps 2:6-7, a well-known messianic psalm. What Nathanael’s exact understanding was at this point is hard to determine, but “son of God” was a designation for the Davidic king in the OT, and Nathanael parallels it with King of Israel here.
+
+[`Messianic Bible translations`](https://en.wikipedia.org/wiki/Messianic_Bible_translations)
+- Critical Text
+    > “Rabbi,” Nathanael answered, “You are Ben-Elohim! **You are the King of Israel!”**[a] &mdash; John 1:49 TLV (Tree of Life Version, Formal Equivalent) a. John 1:49 cf. Ps. 2:6-7.
+
+    > Natan’el said, “Rabbi, you are the Son of God! **You are the King of Isra’el!”** &mdash; John 1:49 CJB (Complete Jewish Bible, Dynamic Equivalent)
+
+    > In reply, Natan’el said to him, Rebbe, you are the Ben HaElohim [SHMUEL BAIS 7:14; TEHILLIM 2:7;89:26-27], the Rebbe, Melech HaMoshiach of Yisroel. &mdash; John 1:49 OJB (Orthodox Jewish Bible)
+
+`Highly Idiomatic Translation / Paraphrase`
+- Critical Text
+    > Nathanael exclaimed, “Rabbi! You are the Son of God, **the King of Israel!”** &mdash; John 1:49 MSG (The Message)
+
+## Conclusion
+
+If Yahweh God is the King of Israel and Jesus is the King of Israel, Jesus is Yahweh, see how that works. This also proves that Jesus is also goes by the title 'the first and the last'.
+
+> “Thus says **Yahweh, the King of Israel** and his Redeemer, Yahweh of hosts: ‘I am the first, and I am the last, And there is no God besides Me. &mdash; Isaiah 44:6 LSB (NASB '95 61.65% / 67.99%)
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
