@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Defending Jesus Deity: Jesus Is God Because No One Has Seen God ✝️"
+date: 2022-08-18 13:04:34 -0500
+categories: god jesus deity bible cults
+published: true
+---
+
+## The Bible Tells Us That No One Has Ever Seen God
+
+> **No one has seen God at any time**; the only begotten God who is in the bosom of the Father, He has explained Him. &mdash; John 1:18 LSB
+
+> **No one has beheld God at any time**; if we love one another, God abides in us, and His love is perfected in us. &mdash; 1 John 4:12 LSB 
+
+> Not that anyone has seen **the Father**, except the One who is from God; He has seen **the Father**. &mdash; John 6:46 LSB
+
+> But He said, “You cannot see My face, for no man can see Me and live!” &mdash; Exodus 33:20 LSB
+
+# Yet, in the Old Testament, the Bible tells us that God was seen!
+
+> God spoke further to Moses and said to him, “**I am Yahweh**; 3 **and I appeared to Abraham, Isaac, and Jacob, as God Almighty**, but by My name, Yahweh, I was not known to them. &mdash; Exodus 6:2-3 LSB
+
+> So Moses took the blood and sprinkled it on the people and said, “Behold the blood of the covenant, **which Yahweh has cut with you** in accordance with all these words.” 9 Then Moses went up with Aaron, Nadab and Abihu, and seventy of the elders of Israel, 10 **and they saw the God of Israel; and under His feet there appeared to be a pavement of sapphire, as clear as the sky itself.** 11 Yet He did not stretch out His hand against the nobles of the sons of Israel; and **they beheld God, and they ate and drank.** 12 **Now Yahweh said to Moses**, “Come up to Me on the mountain and remain there, and I will give you the stone tablets with the law and the commandment which I have written for their instruction.” &mdash; Exodus 24:8-12 LSB
+
+> **Thus Yahweh used to speak to Moses face to face**, just as a man speaks to his friend. Then Moses would return to the camp, and his attendant Joshua the son of Nun, a young man, would not depart from the tent. &mdash; Exodus 33:11 LSB
+
+> and He said, “Hear now My words: If there is a prophet among you, **I, Yahweh**, shall make Myself known to him in a vision. I shall speak with him in a dream. 7 **Not so, with My servant Moses**, He is faithful in all My household; 8 **With him I speak mouth to mouth, Indeed clearly, and not in riddles, And he beholds the form of Yahweh.** Why then were you not afraid To speak against My servant, against Moses?” 9 So the anger of **Yahweh** burned against them, and He went away. &mdash; Numbers 12:6-9 LSB
+
+> And he said, “Hear me, brothers and fathers! The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, &mdash; Acts 7:2 LSB
+
+If no one has ever seen God (Jn 1:18;6:46, 1 Jn 4:12), Who were they seeing (Ex 6:2-3;24:9-11;33:11, Num 12:6-9, Acts 7:2)?
+
+## Conclusion
+
+If no one has ever seen God (Jn 1:18;6:46, 1 Jn 4:12), and God was seen (Ex 6:2-3;24:9-11;33:11, Num 12:6-9, Acts 7:2) then you have two paths stetched out before you, either the Bible is contradictory or Jesus is Yahweh God!
+
+1. ❌ The Bible is contradictory?
+    - Atheists who don't understand the Bible at all.
+    - Cultists who have zero scholarship in their false translations.
+2. ✔️ **Jesus IS the God of the Old Testament Just as he claimed to be!** 
+    - Christians who study Bibles with proven scholarship.
+
+The Bible clears up the matter in John 6:46. It is God The Father That has not been seen.
+
+> Not that anyone has seen **the Father**, except the One who is from God; He has seen **the Father**. &mdash; John 6:46 LSB
+
+**Jesus Is Yahweh (Jn 8:58) made manifest in the flesh (Jn 1:1-3,14). The God of the Old Testament Is Jesus!**
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
