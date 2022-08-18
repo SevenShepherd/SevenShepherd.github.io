@@ -23,15 +23,24 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |**Dynamic Equivalence**<br>(Parallel)|***"Thought-For-Thought"*** **Translation Type**|
 |[New Living Translation (NLT)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece.<br><br>Readability 70.08%<br>Literalness 39.90%|
 
-# Recommended Study Bibles
+# Recommended Study Material
 
 |||
 |:-:|
-|**Apologetics**<br>(Interlinear)||
-|[English Standard Version (ESV) Reverse Interlinear](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74% (ESV)<br>Literalness 100% (Interlinear)|
+|**Study Bible**||
+|ESV Study Bible<br>[Premium](https://www.crossway.org/bibles/esv-study-bible-744-cow/) \| [Economical](https://www.crossway.org/bibles/esv-study-bible-none-case/)|Over 1 Million Copies Sold, Winner of the ECPA Book of the Year Award, 20,000 study notes, 80,000 cross–references, 200+ charts, 50+ articles, 240 full-color maps and illustrations, Concordance, Smyth-sewn binding, Type Size: 9.00, Page Count: 2,752, Size: 6.5 in x 9.25 in|
 |**Eschatology**<br>(Prophecy)||
-|[Jack Van Impe Prophecy Bible<br>Third Edition - King James Version (KJV)]()<br>[47 Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Masoretic Text, some LXX and Vulgate influence.<br><br>The New Testament uses the Received Text or [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) with some readings derived from the Vulgate.<br><br>Readability 48.83%<br>Literalness 66.58%|
+|[Jack Van Impe Prophecy Bible Third Edition<br>King James Version (KJV)]()<br>[47 Scholars]()|The Textual Basis for the Old Testament is the Masoretic Text, some LXX and Vulgate influence.<br><br>The New Testament uses the Received Text or [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) with some readings derived from the Vulgate.<br><br>Readability 48.83%<br>Literalness 66.58%|
+|The End Times in Chronological Order by Dr. Ron Rhodes|A Complete Overview To Understanding Bible Prophecy|
+|**English-Greek Interlinear**||
+|[ESV English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74% (ESV)<br>Literalness 100% (Interlinear)|
+|**Old Testament In Biblical Hebrew**||
+|[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.|
+|**New Testament In Koine Greek**||
+|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.|
 
+<!-- |**Archaeology Study Bible**||
+|[ESV Archaeology Study Bible](https://www.crossway.org/bibles/esv-archaeology-study-bible-hccase/)|With editorial oversight from Dr. John Currid (PhD, University of Chicago) and Dr. David Chapman (PhD, University of Cambridge), as well as contributions from a team of field-trained archaeologists.<br>Double-column, paragraph format, Cross references, Footnotes, 2,000+ study notes, 400+ full-color photographs, 200+ maps and diagrams, 200+ informational sidebars, 14 articles, such as "Introduction to the ESV Archaeology Study Bible," “The Dead Sea Scrolls,” “Archaeology as an Academic Discipline,” “Expository Preaching and Archaeology," and “Daily Life in the Judea-Palestine in New Testament Times”, 4 timelines, Book introductions, Presentation page, 4-color printing, Smyth-sewn binding, Packaging: L-Card| -->
 
 # Recommended Courses
 
