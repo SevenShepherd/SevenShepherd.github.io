@@ -33,8 +33,8 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |**English-Greek Interlinear**||
 |[ESV English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74% (ESV)<br>Literalness 100% (Interlinear)|
 |**Advanced**||
-|[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.|
-|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.|
+|[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.<br><br>Readability 0% (English)<br>Literalness 100% (Biblical Hebrew)|
+|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.<br><br> Readability 0% (English)<br>Literalness 100% (Koine Greek)|
 
 
 
