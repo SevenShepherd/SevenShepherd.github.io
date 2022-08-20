@@ -34,9 +34,9 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |[ESV English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74% (ESV)<br>Literalness 100% (Interlinear)|
 |**Advanced**||
 |[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.|
+|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.|
 
-<!-- |**New Testament In Koine Greek**||
-|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.| -->
+
 
 <!-- |**Study Bible**||
 |ESV Study Bible<br>[Premium](https://www.crossway.org/bibles/esv-study-bible-744-cow/) \| [Economical](https://www.crossway.org/bibles/esv-study-bible-none-case/)|Over 1 Million Copies Sold, Winner of the ECPA Book of the Year Award, 20,000 study notes, 80,000 cross–references, 200+ charts, 50+ articles, 240 full-color maps and illustrations, Concordance, Smyth-sewn binding, Type Size: 9.00, Page Count: 2,752, Size: 6.5 in x 9.25 in| -->
@@ -52,11 +52,9 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |Dr. Gary D. Pratico & Dr. Miles Van Pelt|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)|
 |Dr. William D. Mounce|[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
 |Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
-
-
-<!-- |Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
+|Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
 |Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
-|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)| -->
+|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
 
 
 <!-- ## Bible Verses & Financial Wisdom
