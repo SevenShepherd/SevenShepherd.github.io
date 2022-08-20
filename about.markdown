@@ -52,9 +52,11 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |Dr. Gary D. Pratico & Dr. Miles Van Pelt|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)|
 |Dr. William D. Mounce|[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
 |Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
-|Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
+
+
+<!-- |Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
 |Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
-|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
+|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)| -->
 
 
 <!-- ## Bible Verses & Financial Wisdom
