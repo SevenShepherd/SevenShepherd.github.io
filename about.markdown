@@ -11,9 +11,9 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 You'll find the Bibles I actually use listed below. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
 
 - This is my primary Bible: [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - Tabbies Mini Gold-Edged Bible Indexing Tabs
-    - Pigma Micron Pens 01 (.25mm) for notes
-    - Zebra Water Resistant Mildliners for highlighting
+    - Tabbies Mini Gold-Edged Tabs
+    - Pigma Micron Pens 01 (.25mm)
+    - Zebra Water Resistant Mildliners
 - I parallel this with [NLT, EXB, and NET Translator Notes](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT;EXB;NET)
 
 
