@@ -8,7 +8,7 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 # Recommended Bibles
 
-You'll find the Bibles I actually use listed below. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99% NT textual purity.
+You'll find the Bibles I actually use listed below. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
 
 <!-- For comparison the KJV rates at 48.83% in readability, and 66.58% in literalness to the greek. These scores do not denote textual purity, all of the following translations can claim 99% NT textual purity. -->
 
@@ -35,8 +35,6 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |**Advanced**||
 |[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.<br><br>Readability 0% (English)<br>Literalness 100% (Biblical Hebrew)|
 |[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.<br><br> Readability 0% (English)<br>Literalness 100% (Koine Greek)|
-
-
 
 <!-- |**Study Bible**||
 |ESV Study Bible<br>[Premium](https://www.crossway.org/bibles/esv-study-bible-744-cow/) \| [Economical](https://www.crossway.org/bibles/esv-study-bible-none-case/)|Over 1 Million Copies Sold, Winner of the ECPA Book of the Year Award, 20,000 study notes, 80,000 cross–references, 200+ charts, 50+ articles, 240 full-color maps and illustrations, Concordance, Smyth-sewn binding, Type Size: 9.00, Page Count: 2,752, Size: 6.5 in x 9.25 in| -->
