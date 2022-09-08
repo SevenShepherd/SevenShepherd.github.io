@@ -10,6 +10,9 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 You'll find the Bibles I actually use listed below. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
 
+- I currently carry a [Legacy Standard Bible (LSB) New Testament with Psalms & Proverbs](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin), produced at Royal Jongbloed in the Netherlands in Shamar goatskin.
+- I parallel this with [NLT, EXB, and NET Translator Notes](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT;EXB;NET)
+
 <!-- For comparison the KJV rates at 48.83% in readability, and 66.58% in literalness to the greek. These scores do not denote textual purity, all of the following translations can claim 99% NT textual purity. -->
 
 <!-- > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs) -->
@@ -19,14 +22,18 @@ You'll find the Bibles I actually use listed below. Readability & literalness sc
 |||
 |:-:|
 |**Formal Equivalence**<br>(Primary)|***"Word-For-Word"*** **Translation Type**|
-|[Legacy Standard Bible (LSB)](https://lsbible.org/)<br>[130+ Scholars Including NASB '95 & '77, otherwise 70+ ](https://lsbible.org/faqs/)<!--<br>[(70+ LSB, 19 NASB '95, 42 NASB '77)](https://www.lockman.org/new-american-standard-bible-nasb/)-->|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta.<br><br>The New Testament uses the Novum Testamentum Graece (28th ed., 2012).<br><br>Readability > 61.65%<br>Literalness > 67.99%|
+|[Legacy Standard Bible (LSB)](https://lsbible.org/)<br>[131 Scholars Including NASB '95 & '77, otherwise 70+ ](https://lsbible.org/faqs/)<!--<br>[(70+ LSB, 19 NASB '95, 42 NASB '77)](https://www.lockman.org/new-american-standard-bible-nasb/)-->|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta.<br><br>The New Testament uses the Novum Testamentum Graece (28th ed., 2012).<br><br>Readability > 61.65%<br>Literalness > 67.99%|
 |**Dynamic Equivalence**<br>(Parallel)|***"Thought-For-Thought"*** **Translation Type**|
+|[Expanded Bible (EXB)](https://www.biblegateway.com/versions/Expanded-Bible-EXB/)<br>[53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia, with Septuagint influence.<br><br>The New Testament uses the UBS Greek New Testament, third edition|
 |[New Living Translation (NLT)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece.<br><br>Readability 70.08%<br>Literalness 39.90%|
+
 
 # Recommended Study Material
 
 |||
 |:-:|
+|**Notes & Commentary**||
+|[New English Translation (NET) Translator Notes](https://netbible.com/about/)<br> [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the Novum Testamentum Graece (27th ed., 1993) and UBS Greek New Testament (4th corrected ed.)<br><br>Readability 66.28%<br>Literalness 53.94%|
 |**Eschatology**<br>(Prophecy)||
 |[Jack Van Impe Prophecy Bible Third Edition<br>King James Version (KJV)]()<br>[47 Scholars]()|The Textual Basis for the Old Testament is the Masoretic Text, some LXX and Vulgate influence.<br><br>The New Testament uses the Received Text or [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) with some readings derived from the Vulgate.<br><br>Readability 48.83%<br>Literalness 66.58%<br>Commentary 100% (Readable)|
 |The End Times in Chronological Order by Dr. Ron Rhodes|A Complete Overview To Understanding Bible Prophecy|
