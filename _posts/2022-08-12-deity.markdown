@@ -128,7 +128,7 @@ This section will also include disciples.
 	- *Acts 20:28*
 
 ## **Jesus Receives Worship**
-- **Only God Is To Be Worshiped**
+- 🧠 **Only God Is To Be Worshiped**
 	- *Luke 4:8; Matthew 4:10*
 		- [**Angels Worship Jesus As God**](https://sevenshepherd.github.io/deity-04/)
 			- *Hebrews 1:6*
@@ -160,7 +160,7 @@ This section will also include disciples.
 - Critical Text
 	- <span style="font-size:20px;">👑 [**Jesus Saved A People Out Of Egypt**](https://sevenshepherd.github.io/deity-20/)</span>
 		- *Jude 1:5,7*
-		- *Genesis 19:24; Hosea 13:4*
+		- *Hosea 13:4; Genesis 19:24*
 	- ⚜️ [**Jesus Is God Because He Is The Only God**](https://sevenshepherd.github.io/deity-21/)
 		- *John 1:18*
 
@@ -176,7 +176,7 @@ Verses listed here could be referring to either the Father or the Son depending 
 <script>
 	var refTagger = {
 		settings: {
-			bibleVersion: 'ESV'
+			bibleVersion: 'LEB'
 		}
 	}; 
 
