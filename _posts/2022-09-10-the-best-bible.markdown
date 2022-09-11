@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:33:54 -0500
+date: 2022-09-10 15:35:54 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -13,6 +13,14 @@ published: true
 While it is true that no essential doctrine is jeopardized by any textual variants, I am reminded of Solomon's wise words in Ecclesiates:
 
 > Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. &mdash; Ecclesiates 10:10 NLT (New Living Translation)
+
+We also know that as time progresses, knowledge will increase.
+
+> But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Dan 12:4 KJV
+
+Remember, that it is the "untaught" that ultimately end up twisting scripture. Scholars are doing the Lord's work, what they say has value.
+
+> as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995)
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Contenders</span>
 
@@ -45,6 +53,7 @@ I will be reviewing the follow versions of the Bibles.
 1. **Jubilee Bible 2000 (JUB)** © 2013, 2020
 1. **King James Version (KJV)** Public Domain
 1. **Authorized King James Version (AKJV)**
+1. **Legacy Standard Bible (LSB)** © 2021
 1. **Lexham English Bible (LEB)** © 2012
 1. **Living Bible (TLB)** © 1971
 1. **The Message (MSG)** © 1993, 2002, 2018
@@ -95,8 +104,7 @@ I will be reviewing the follow versions of the Bibles.
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
-> 7-13 “The world is full of so-called prayer warriors who are prayer-ignorant. They’re full of formulas and programs and advice, peddling techniques for getting what you want from God. Don’t fall for that nonsense. This is your Father you are dealing with, and he knows better than you what you need. With a God like this loving you, you can pray very simply. Like this:
->
+> ...<br>
 > Our Father in heaven,<br>
 Reveal who you are.<br>
 Set the world right;<br>
@@ -108,7 +116,7 @@ Keep us safe from ourselves and the Devil.<br>
 You’re in charge!<br>
 You can do anything you want!<br>
 You’re ablaze in beauty!<br>
-    Yes. Yes. Yes.
+    Yes. Yes. Yes. &mdash; Matthew 6:9-13 MSG (The Message)
 
 # The Message (MSG) is eliminated:
 
@@ -195,7 +203,7 @@ If the name of God is so important, which it definitely is, then we should not o
 1. Living Bible (TLB) © 1971 (Already Eliminated!)
 1. Young's Literal Translation (YLT) Public Domain
 1. King James Version (KJV) Public Domain
-    - Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jud 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV
+    - Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
@@ -309,6 +317,7 @@ This article is still being written :) please be patient. God Bless.
 1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
 1. **International Standard Version (ISV)** © 1995-2014
 1. **Phillips New Testament (PHILLIPS)** © 1960, 1972
+1. **Legacy Standard Bible (LSB)** © 2021
 1. **Lexham English Bible (LEB)** © 2012
 1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
 1. **Names of God Bible (NOG)** © 2011
