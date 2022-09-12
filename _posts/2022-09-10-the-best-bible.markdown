@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:55:00 -0500
+date: 2022-09-10 15:56:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -172,8 +172,8 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 <!-- 1. Contemporary English Version (CEV) © 1995  -->
 1. Amplified Bible, Classic Edition (AMPC) © 1954, 1958, 1962, 1964, 1965, 1987
     - In parentheses, still not acceptable.
-1. Living Bible (TLB) © 1971 (Already Eliminated!)
-1. New Life Version (NLV) © 1969, 2003 (Already Eliminated!)
+1. Living Bible (TLB) © 1971 
+1. New Life Version (NLV) © 1969, 2003 
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
 
@@ -212,7 +212,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 1. American Standard Version (ASV) Public Domain
 1. Darby Translation (DARBY) Public Domain
-1. Living Bible (TLB) © 1971 (Already Eliminated!)
+1. Living Bible (TLB) © 1971 
 1. Young's Literal Translation (YLT) Public Domain
 1. King James Version (KJV) Public Domain
 
@@ -256,14 +256,14 @@ NET Bible Translator Notes:
 1. Douay-Rheims 1899 American Edition (DRA) Public Domain
 1. 1599 Geneva Bible (GNV)
 1. Jubilee Bible 2000 (JUB) © 2013, 2020
-1. King James Version (KJV) Public Domain (Already Eliminated!)
+1. King James Version (KJV) Public Domain 
 1. Authorized King James Version (AKJV)
 1. Modern English Version (MEV) © 2014
 <!-- 1. New King James Version (NKJV) © 1982 -->
 1. New Matthew Bible (NMB) © 2016
 1. Revised Geneva Translation (RGT) © 2019
 1. Wycliffe Bible (WYC) © 2001
-1. Young's Literal Translation (YLT) Public Domain (Already Eliminated!)
+1. Young's Literal Translation (YLT) Public Domain 
 
 *Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
 
@@ -281,20 +281,20 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 # The following versions which use 'Do his commandments' are eliminated:
 
-1. 21st Century King James Version (KJ21) © 1994 (Already Eliminated!)
-1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 (Already Eliminated!)
+1. 21st Century King James Version (KJ21) © 1994 
+1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 
 <!-- 1. Douay-Rheims 1899 American Edition (DRA) Public Domain -->
-1. 1599 Geneva Bible (GNV) (Already Eliminated!)
-1. Jubilee Bible 2000 (JUB) © 2013, 2020 (Already Eliminated!)
-1. King James Version (KJV) Public Domain (Already Eliminated! 2x)
-1. Authorized King James Version (AKJV) (Already Eliminated!)
-1. Modern English Version (MEV) © 2014 (Already Eliminated!)
-<!-- 1. New King James Version (NKJV) © 1982 (Already Eliminated!) -->
-1. New Matthew Bible (NMB) © 2016 (Already Eliminated!)
-1. Revised Geneva Translation (RGT) © 2019 (Already Eliminated!)
+1. 1599 Geneva Bible (GNV) 
+1. Jubilee Bible 2000 (JUB) © 2013, 2020 
+1. King James Version (KJV) Public Domain
+1. Authorized King James Version (AKJV) 
+1. Modern English Version (MEV) © 2014 
+<!-- 1. New King James Version (NKJV) © 1982  -->
+1. New Matthew Bible (NMB) © 2016 
+1. Revised Geneva Translation (RGT) © 2019 
 <!-- 1. World English Bible (WEB) Public Domain -->
 <!-- 1. Wycliffe Bible (WYC) © 2001 -->
-1. Young's Literal Translation (YLT) Public Domain (Already Eliminated! 2x)
+1. Young's Literal Translation (YLT) Public Domain
 
 *Notes: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC.*
 
@@ -303,6 +303,59 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 - *World English Bible (WEB) footnotes: [NU reads “wash their robes” instead of “do his commandments”.]. It would otherwise have been eliminated.*
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
+
+The word Lucifer is not a proper name, but the Latin word for ‘morning star.’ The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%2014:12).
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+
+> How art thou fallen from heaven, O <span style="font-weight:Bold;color:Red;">Lucifer</span>, son of the morning! how art thou cut down to the ground, which didst weaken the nations! &mdash; Isaiah 14:12 KJV (King James Version)
+
+> “How you have fallen from heaven, O [a]<span style="font-weight:Bold;color:Green;">star of the morning</span>, son of the dawn! You have been cut down to the earth, You who have weakened the nations! &mdash; Isaiah 14:12 NASB '95 (New American Standard Bible 1995) ***a. Heb Helel; i.e., shining one***
+
+<!-- > “How you are fallen from heaven, O <span style="font-weight:Bold;color:Green;">Day Star</span>, son of Dawn! How you are cut down to the ground, you who laid the nations low! &mdash; Isaiah 14:12 ESV (New English Translation) -->
+
+> Look how you have fallen from the sky, O <span style="font-weight:Bold;color:Green;">shining one</span>, son of the dawn! You have been cut down to the ground, O conqueror of the nations! &mdash; Isaiah 14:12 NET (New English Translation)
+
+<!-- > How you have fallen from heaven, <span style="font-weight:Bold;color:Green;">morning star</span>, son of the dawn! You have been cast down to the earth, you who once laid low the nations! &mdash; Isaiah 14:12 NIV (New International Version) -->
+
+Net Bible Translator Notes:
+
+> Isaiah 14:12 tn The Hebrew text has הֵילֵל בֶּן־שָׁחַר (helel ben shakhar, “Helel son of Shachar”), which is probably **a name for the morning star (Venus)** or the crescent moon. See HALOT 245 s.v. הֵילֵל. ...
+
+An exceptional [article](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations) was written by one of the world's foremost scholars and senior research professors on this topic. Let's take a quick look at the verse in question. 
+
+> In Isa 14:12 KJV, The KJV translators did not actually translate the Hebrew word ‏הילל as ‘Lucifer.’ This word occurs only here in the Hebrew Old Testament. Most likely, **the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate** that translated ‏הילל.
+>
+the Vulgate, Isa 14:12 KJV reads as follows:
+>
+>> quomodo cecidisti de caelo lucifer qui mane oriebaris corruisti in terram qui vulnerabas gentes.
+>
+Notice the fifth word of the text—lucifer. **It is not a proper name but the Latin word for ‘morning star.’** The word lucifer occurs four times in the Vulgate: Isa 14:12 KJV, Job 11:17 KJV, Job 38:32 KJV, and 2 Peter 1:19 KJV. 
+>
+In Job 11:17 KJV, the KJV renders the Hebrew word ‏בקר as ‘morning’:
+>
+>> et quasi meridianus fulgor consurget tibi ad vesperam et cum te consumptum putaveris orieris ut lucifer 
+>
+&mdash; Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.
+
+# The following versions which contain 'Lucifer' are eliminated:
+
+1. 21st Century King James Version (KJ21) © 1994 
+1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 
+1. Darby Translation (DARBY) Public Domain
+1. Douay-Rheims 1899 American Edition (DRA) Public Domain
+1. 1599 Geneva Bible (GNV) 
+1. Jubilee Bible 2000 (JUB) © 2013, 2020 
+1. King James Version (KJV) Public Domain
+1. Authorized King James Version (AKJV) 
+1. Modern English Version (MEV) © 2014 
+<!-- 1. New King James Version (NKJV) © 1982  -->
+1. Revised Geneva Translation (RGT) © 2019 
+1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
+1. Wycliffe Bible (WYC) © 2001
+
+*Note: The New King James Version (NKJV) footnotes: [Lit. Day Star]. It would otherwise have been eliminated.*
+
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
@@ -366,7 +419,9 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Bracketing, Footnotes, or Omission?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Bracketing, Footnotes, or Omission?</span>
+
+<!--
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. ?</span>
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">XII. ?</span>
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">XIII. ?</span>
@@ -382,6 +437,7 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
 
 This article is still being written :) please be patient. God Bless.
+
 
 <!-- ## **Tally** -->
 
@@ -411,6 +467,7 @@ This article is still being written :) please be patient. God Bless.
 1. **New English Translation (NET)** © 1996-2017
 1. **New International Reader's Version (NIRV)** © 1995, 1996, 1998, 2014
 1. **New International Version (NIV)** © 1973, 1978, 1984, 2011
+1. **New King James Version (NKJV)** © 1982
 1. **New Living Translation (NLT)** © 1996, 2004, 2015 
 1. **New Revised Standard Version, Anglicised (NRSVA)** © 1989, 1995
 1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021
@@ -418,6 +475,7 @@ This article is still being written :) please be patient. God Bless.
 1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
 1. **Tree of Life Version (TLV)** © 2015
 1. **The Voice (VOICE)** © 2012
+1. **World English Bible (WEB)** Public Domain
 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998 -->
 
 <script>
