@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:56:00 -0500
+date: 2022-09-10 15:57:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -304,7 +304,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
 
-The word Lucifer is not a proper name, but the Latin word for ‘morning star.’ The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%2014:12).
+The word Lucifer is not a proper name, but the Latin word for ‘morning star,’ which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%2014:12).
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
 
@@ -335,6 +335,8 @@ Notice the fifth word of the text—lucifer. **It is not a proper name but the L
 In Job 11:17 KJV, the KJV renders the Hebrew word ‏בקר as ‘morning’:
 >
 >> et quasi meridianus fulgor consurget tibi ad vesperam et cum te consumptum putaveris orieris ut lucifer 
+>
+In other words, **‘morning star’ or lucifer in the Latin Vulgate literally referred to Venus**, but metaphorically would refer to earthly kings, emperors, and pagan deities. 
 >
 &mdash; Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.
 
