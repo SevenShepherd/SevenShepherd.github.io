@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:44:00 -0500
+date: 2022-09-10 15:45:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -221,9 +221,17 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Book Of Life or Tree Of Life?</span>
 
+> And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the <span style="font-weight:bold;color:Green;">tree of life</span>, and eat, and live for ever: &mdash; Genesis 3:22 KJV (King James Version)
+
 > He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the <span style="font-weight:bold;color:Green;">tree of life</span>, which is in the midst of the paradise of God. &mdash; Revelation 2:7 KJV (King James Version)
 
-There are certain textual variants which are so pivotal that they're reason enough to warrant investigation. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions.
+> In the midst of the street of it, and on either side of the river, was there the <span style="font-weight:bold;color:Green;">tree of life</span>, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. &mdash; Revelation 22:2 KJV (King James Version)
+
+> Blessed are they that do his commandments, that they may have right to the <span style="font-weight:bold;color:Green;">tree of life</span>, and may enter in through the gates into the city. &mdash; Revelation 22:14 KJV (King James Version)
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+
+There are certain textual variants which are so pivotal that they're reason enough to warrant serious investigation. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions. 
 
 > For I testify unto every man that heareth the words of the prophecy of this book, **If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 19 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the** <span style="font-weight:Bold;color:Red;">book of life</span>, and out of the holy city, and from the things which are written in this book. &mdash; Revelation 22:18-19 KJV (King James Version)
 
