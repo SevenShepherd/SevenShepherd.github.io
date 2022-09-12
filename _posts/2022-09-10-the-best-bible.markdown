@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:54:00 -0500
+date: 2022-09-10 15:55:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -215,7 +215,8 @@ If the name of God is so important, which it definitely is, then we should not o
 1. Living Bible (TLB) © 1971 (Already Eliminated!)
 1. Young's Literal Translation (YLT) Public Domain
 1. King James Version (KJV) Public Domain
-    - Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV
+
+*Note: The King James Version (KJV) was eliminated due to the following verses: Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV*
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
@@ -250,8 +251,6 @@ NET Bible Translator Notes:
 
 # The following versions which use 'Book of Life' are eliminated:
 
-*Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
-
 1. 21st Century King James Version (KJ21) © 1994 
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012
 1. Douay-Rheims 1899 American Edition (DRA) Public Domain
@@ -265,6 +264,8 @@ NET Bible Translator Notes:
 1. Revised Geneva Translation (RGT) © 2019
 1. Wycliffe Bible (WYC) © 2001
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated!)
+
+*Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
 
@@ -280,10 +281,6 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 # The following versions which use 'Do his commandments' are eliminated:
 
-*Note: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC and including WEB.*
-
-*Note: The New King James Version (NKJV) footnotes: "NU (Critical) wash their robes. It would otherwise have been eliminated.*
-
 1. 21st Century King James Version (KJ21) © 1994 (Already Eliminated!)
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 (Already Eliminated!)
 <!-- 1. Douay-Rheims 1899 American Edition (DRA) Public Domain -->
@@ -295,11 +292,19 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 <!-- 1. New King James Version (NKJV) © 1982 (Already Eliminated!) -->
 1. New Matthew Bible (NMB) © 2016 (Already Eliminated!)
 1. Revised Geneva Translation (RGT) © 2019 (Already Eliminated!)
-1. World English Bible (WEB) Public Domain
+<!-- 1. World English Bible (WEB) Public Domain -->
 <!-- 1. Wycliffe Bible (WYC) © 2001 -->
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated! 2x)
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. Which Textual Criticism Methodology?</span>
+*Notes: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC.*
+
+- *The New King James Version (NKJV) footnotes: "NU (Critical) wash their robes. It would otherwise have been eliminated.*
+
+- *World English Bible (WEB) footnotes: [NU reads “wash their robes” instead of “do his commandments”.]. It would otherwise have been eliminated.*
+
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
+
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
 Because the last three sections removed the Textus Receptus, I think this is a good time to have that talk.
 
@@ -343,13 +348,11 @@ In the late 1800s, **Frederick Scrivener said there was no book he had ever seen
 |**5th Edition (1535)**|**Content**|
 ||The fifth edition differed only in four places from the fourth.|
 
-
 [Erasmus'](https://www.britannica.com/biography/Erasmus-Dutch-humanist) second edition of the Novum Instrumentum omne became the basis for Luther's German translation, while the third edition was used by William Tyndale for the first English New Testament (1526), by Robert Estienne as a base for his editions of the Greek New Testament from 1546 and 1549, and by the translators of Geneva Bible and King James Version.
 
 Criticized for his work which contained numerous textual errors, he incorporated readings from the Complutensian Polyglot in later editions of his work. It was not until the publication of the Westcott and Hort Greek New Testament in 1881 that the Textus Receptus lost its prominent position as a basis of biblical textual interpretation due to the inception of textual criticism. 
 
 There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus. 
-
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Critical Text</span>
 
@@ -363,11 +366,17 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Bracketing, Footnotes, or Omission?</span>
-
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. ?</span>
-
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Bracketing, Footnotes, or Omission?</span>
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XII. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIII. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIV. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XV. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVI. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVII. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVIII. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIX. ?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XX. ?</span> -->
 
 
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
