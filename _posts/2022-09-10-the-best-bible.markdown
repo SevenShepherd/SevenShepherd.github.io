@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:45:00 -0500
+date: 2022-09-10 15:50:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -14,13 +14,13 @@ Scholars agree that **no cardinal doctrine is affected** by any viable variant. 
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
-While it is true that no essential doctrine is jeopardized by any textual variants, I am reminded of Solomon's wise words in Ecclesiates:
+While it is true that no essential doctrine is jeopardized by any textual variants, I am reminded of Solomon's wise words in Ecclesiastes:
 
-> Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. &mdash; Ecclesiates 10:10 NLT (New Living Translation)
+> Using a dull ax requires great strength, so sharpen the blade. That’s the value of wisdom; it helps you succeed. &mdash; Ecclesiastes 10:10 NLT (New Living Translation)
 
 We also know that as time progresses, knowledge will increase.
 
-> But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Dan 12:4 KJV
+> But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Daniel 12:4 KJV
 
 Remember, that it is the "untaught" that ultimately end up twisting scripture. Scholars are doing the Lord's work, what they say has value.
 
@@ -36,7 +36,7 @@ Considering these things, in this article I will attempt to locate a version of 
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Contenders</span>
 
-I will be reviewing the follow versions of the Bibles.
+I will be reviewing the follow versions of the Bible.
 
 1. **21st Century King James Version (KJ21)** © 1994 
 1. **American Standard Version (ASV)** Public Domain
@@ -221,6 +221,8 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Book Of Life or Tree Of Life?</span>
 
+<!-- [Lamb's Book of Life](https://www.gotquestions.org/Lambs-book-of-life.html) -->
+
 > And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the <span style="font-weight:bold;color:Green;">tree of life</span>, and eat, and live for ever: &mdash; Genesis 3:22 KJV (King James Version)
 
 > He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the <span style="font-weight:bold;color:Green;">tree of life</span>, which is in the midst of the paradise of God. &mdash; Revelation 2:7 KJV (King James Version)
@@ -259,9 +261,40 @@ NET Bible Translator Notes:
 1. Wycliffe Bible (WYC) © 2001
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated!)
 
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">Wash their robes or Do His commandments?</span>
+
+> And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have <span style="font-weight:Bold;color:Green;">washed their robes</span>, and made them white in the blood of the Lamb. &mdash; Revelation 7:14 KJV (King James Version)
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+
+Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14) of the following verse in Revelation.
+
+> Blessed are they that <span style="font-weight:Bold;color:Red;">do his commandments</span>, that they may have right to the tree of life, and may enter in through the gates into the city. &mdash; Revelation 22:14 KJV (King James Version)
+
+> Blessed are those who <span style="font-weight:Bold;color:Green;">wash their robes</span>, so that they may have the right to the tree of life, and may enter by the gates into the city. &mdash; Revelation 22:14 NASB '95 (New American Standard Bible 1995)
+
+# The following versions which use 'Do his commandments' are eliminated:
+
+*Note: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC and including WEB.*
+
+1. 21st Century King James Version (KJ21) © 1994 (Already Eliminated!)
+1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 (Already Eliminated!)
+<!-- 1. Douay-Rheims 1899 American Edition (DRA) Public Domain -->
+1. 1599 Geneva Bible (GNV) (Already Eliminated!)
+1. Jubilee Bible 2000 (JUB) © 2013, 2020 (Already Eliminated!)
+1. King James Version (KJV) Public Domain (Already Eliminated! 2x)
+1. Authorized King James Version (AKJV) (Already Eliminated!)
+1. Modern English Version (MEV) © 2014 (Already Eliminated!)
+1. New King James Version (NKJV) © 1982 (Already Eliminated!)
+1. New Matthew Bible (NMB) © 2016 (Already Eliminated!)
+1. Revised Geneva Translation (RGT) © 2019 (Already Eliminated!)
+1. World English Bible (WEB) Public Domain
+<!-- 1. Wycliffe Bible (WYC) © 2001 -->
+1. Young's Literal Translation (YLT) Public Domain (Already Eliminated! 2x)
+
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Which Textual Criticism Methodology?</span>
 
-Because the last two sections removed the Textus Receptus, I think this is a good time to have that talk.
+Because the last three sections removed the Textus Receptus, I think this is a good time to have that talk.
 
 > There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
@@ -359,7 +392,6 @@ This article is still being written :) please be patient. God Bless.
 1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
 1. **Tree of Life Version (TLV)** © 2015
 1. **The Voice (VOICE)** © 2012
-1. **World English Bible (WEB)** Public Domain
 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998 -->
 
 <script>
