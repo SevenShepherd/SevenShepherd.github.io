@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:35:54 -0500
+date: 2022-09-10 15:40:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Hypotheses non fingo</span>
+
+Scholars also agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+
+<!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
@@ -20,7 +24,15 @@ We also know that as time progresses, knowledge will increase.
 
 Remember, that it is the "untaught" that ultimately end up twisting scripture. Scholars are doing the Lord's work, what they say has value.
 
-> as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995)
+> as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which **untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures**. &mdash; 2 Peter 3:16 NKJV (New King James Version)
+
+Considering these things, in this article I will attempt to locate a version of the Bible that, in my opinion, is closest to the original autographs. Just keep in mind we're splitting hairs since the New Testament has over a 99.5% textual purity.
+
+> “The interval, then, between the dates of original composition and the earliest extant evidence becomes so small as to be in fact negligible, and the last foundation for any doubt that the Scriptures have come down to us substantially as they were written has now been removed. Both the authenticity and the general integrity of the books of the New Testament may be regarded as finally established.” &mdash; Sir Frederic Kenyon (former director and principal librarian of the British Museum)
+
+<!-- > as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures. &mdash; 2 Peter 3:16 ESV (English Standard Version) -->
+
+<!-- > as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995) -->
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Contenders</span>
 
@@ -290,6 +302,8 @@ Criticized for his work which contained numerous textual errors, he incorporated
 
 
 Dismissing the Textus Receptus as an inferior text rife with errors, two prominent scholars, Westcott and Hort compiled a new Greek text in 1881, later called the [Critical Text](https://www.gotquestions.org/critical-text.html). With special focus on two fourth-century manuscripts, the [Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus) and the [Codex Sinaiticus](https://en.wikipedia.org/wiki/Codex_Sinaiticus), they attempted to preserve the most accurate wording possible. Their work dethroned the Textus Receptus and established the critical text, a text which gave evidence to being closer to the New Testament Autographs.
+
+> "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Majority Text</span>
 
