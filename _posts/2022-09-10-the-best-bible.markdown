@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:40:00 -0500
+date: 2022-09-10 15:44:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Hypotheses non fingo</span>
 
-Scholars also agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
 <!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
 
@@ -221,7 +221,9 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <span style="font-family:monospace;font-style:Italic;font-size:40px;">Book Of Life or Tree Of Life?</span>
 
-There are certain verses in the Bible which are so pivotal that they're reason enough to throw away certain versions that get them wrong. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions.
+> He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the <span style="font-weight:bold;color:Green;">tree of life</span>, which is in the midst of the paradise of God. &mdash; Revelation 2:7 KJV (King James Version)
+
+There are certain textual variants which are so pivotal that they're reason enough to warrant investigation. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions.
 
 > For I testify unto every man that heareth the words of the prophecy of this book, **If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 19 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the** <span style="font-weight:Bold;color:Red;">book of life</span>, and out of the holy city, and from the things which are written in this book. &mdash; Revelation 22:18-19 KJV (King James Version)
 
@@ -253,7 +255,7 @@ NET Bible Translator Notes:
 
 Because the last two sections removed the Textus Receptus, I think this is a good time to have that talk.
 
-> There are approximately 300,000 textual variants among New Testament manuscripts. The Majority Text differs from the Textus Receptus in almost 2,000 places. So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
+> There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Textus Receptus</span>
 
@@ -261,12 +263,13 @@ Because the last two sections removed the Textus Receptus, I think this is a goo
 
 <!--There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus.--> 
 
-The first printed edition of the Greek New Testament was completed by [Erasmus](https://www.britannica.com/biography/Erasmus-Dutch-humanist) and published by Johann Froben of Basel on March 1, 1516 (Novum Instrumentum omne). Due to the pressure of his publisher to bring their edition to market before the competing Complutensian Polyglot, Erasmus based his work on around a half-dozen hand-copied Greek manuscripts, all of which dated from the twelfth century or later; and all but one were of the [Byzantine text-type](https://en.wikipedia.org/wiki/Byzantine_text-type). Erasmus did not even transcribe the manuscripts; he merely made notes on the manuscripts themselves and sent them to the printers. Rife with typographical errors, the 1st edition of the Novum Instrumentum omne was printed in only six to eight months.
+The first printed edition of the Greek New Testament was completed by [Erasmus](https://www.britannica.com/biography/Erasmus-Dutch-humanist) and published by Johann Froben of Basel on March 1, 1516 (Novum Instrumentum omne). Due to the pressure of his publisher to bring their edition to market before the competing Complutensian Polyglot, Erasmus based his work on around a half-dozen hand-copied Greek manuscripts, all of which dated from the twelfth century or later; and all but one were of the [Byzantine text-type](https://en.wikipedia.org/wiki/Byzantine_text-type). 
 
+Erasmus did not even transcribe the manuscripts; he merely made notes on the manuscripts themselves and sent them to the printers. Rife with typographical errors, the 1st edition of the Novum Instrumentum omne was printed in only six to eight months.
 
 > "But one thing the facts cry out, and it can be clear, as they say, even to a blind man, that **often through the translator's clumsiness or inattention the Greek has been wrongly rendered; often the true and genuine reading has been corrupted by ignorant scribes**, which we see happen every day, or altered by scribes who are half-taught and half-asleep." &mdash; Erasmus, "Epistle 337" in Collected Works of Erasmus Vol. 3, 134.
 
-When Erasmus translated the NT he had access to no Greek mss for the last six verses of Revelation. So he translated the Latin Vulgate back into Greek at this point. As a result he created seventeen to twenty textual variants which were not in any Greek mss. Erasmus adjusted the text in many places to correspond with readings found in the Vulgate or as quoted in the Church Fathers.
+When Erasmus translated the NT he had access to no Greek mss for the last six verses of Revelation. So he translated the Latin Vulgate back into Greek at this point. As a result he created over a dozen textual variants which were not in any Greek mss. Erasmus adjusted the text in many places to correspond with readings found in the Vulgate or as quoted in the Church Fathers.
 
 > The problem with Erasmus was that he only used really three manuscripts. In fact, **the manuscript Erasmus used for the book of Revelation lacked the last leaf**. He was in a rush to get his Greek New Testament published, because he knew there were others trying to get their editions out. Consequently, **he back translated from his defective copy of the Latin Vulgate into Greek for the last six verses of Revelation**. In the process, he created twenty new textual variants that have not been found in any other manuscripts—except a few that were based on what he did several years later.
 >
@@ -299,7 +302,6 @@ Criticized for his work which contained numerous textual errors, he incorporated
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Critical Text</span>
 
 > The [Critical Text](https://www.gotquestions.org/critical-text.html) or eclectic method involves considering external and internal evidences for determining the most likely original text. External evidence makes us ask these questions: in how many manuscripts does the reading occur? what are the dates for these manuscripts? in what region of the world were these manuscripts found? Internal evidence prompts these questions: what could have caused these varying readings? which reading can possibly explain the origin of the other readings? The New International Version, New American Standard, New Living Translation, and most other Bible translations use the Eclectic Text. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
-
 
 Dismissing the Textus Receptus as an inferior text rife with errors, two prominent scholars, Westcott and Hort compiled a new Greek text in 1881, later called the [Critical Text](https://www.gotquestions.org/critical-text.html). With special focus on two fourth-century manuscripts, the [Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus) and the [Codex Sinaiticus](https://en.wikipedia.org/wiki/Codex_Sinaiticus), they attempted to preserve the most accurate wording possible. Their work dethroned the Textus Receptus and established the critical text, a text which gave evidence to being closer to the New Testament Autographs.
 
