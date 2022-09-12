@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:50:00 -0500
+date: 2022-09-10 15:52:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -101,7 +101,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Eliminating The Obvious</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">I. Eliminating The Obvious</span>
 
 # I am neither Catholic nor from the UK so the Bibles below have already been eliminated.
 
@@ -112,7 +112,7 @@ I will be reviewing the follow versions of the Bible.
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Occult Influence?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">II. Occult Influence?</span>
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
@@ -134,7 +134,7 @@ You’re ablaze in beauty!<br>
 
 1. The Message (MSG) © 1993, 2002, 2018
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Behemoth or Hippopotamus?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">III. Behemoth or Hippopotamus?</span>
 
 The Biblical description of the Behemoth can be found in Job 40:15-24 ([comparison](https://www.biblegateway.com/verse/en/Job%2040:15)). As you can see from the comparison, very few versions get this wrong.
 
@@ -157,7 +157,7 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
     - In parentheses, still not acceptable.
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Leviathan or Crocodile?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">IV. Leviathan or Crocodile?</span>
 
 The Biblical description of the Leviathan can be found in Job 41 ([comparison](https://www.biblegateway.com/verse/en/Job%2041:1)). As you can see from the comparison, very few versions get this wrong.
 
@@ -175,7 +175,7 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 1. Living Bible (TLB) © 1971 (Already Eliminated!)
 1. New Life Version (NLV) © 1969, 2003 (Already Eliminated!)
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Jehovah or Yahweh?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">V. Jehovah or Yahweh?</span>
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
 
@@ -219,9 +219,12 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Book Of Life or Tree Of Life?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">VI. Book Of Life or Tree Of Life?</span>
 
 <!-- [Lamb's Book of Life](https://www.gotquestions.org/Lambs-book-of-life.html) -->
+
+<!-- > The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, **whose names were not written in the book of life** from the foundation of the world, when they behold the beast that was, and is not, and yet is. &mdash; Revelation 17:8 KJV (King James Version) -->
+
 
 > And the Lord God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the <span style="font-weight:bold;color:Green;">tree of life</span>, and eat, and live for ever: &mdash; Genesis 3:22 KJV (King James Version)
 
@@ -237,7 +240,9 @@ There are certain textual variants which are so pivotal that they're reason enou
 
 > For I testify unto every man that heareth the words of the prophecy of this book, **If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 19 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the** <span style="font-weight:Bold;color:Red;">book of life</span>, and out of the holy city, and from the things which are written in this book. &mdash; Revelation 22:18-19 KJV (King James Version)
 
-> I bear witness to everyone who hears the words of the prophecy of this book: **If anyone adds to them, God will add to him the plagues which are written in this book. 19 And if anyone takes away from the words of the book of this prophecy, God will take away his part from the** <span style="font-weight:Bold;color:Green;">tree of life</span> and from the holy city, which are written in this book. &mdash; Revelation 22:18-19 LSB (Legacy Standard Bible, update to the worlds most accurate version, NASB '95)
+<!-- > I bear witness to everyone who hears the words of the prophecy of this book: **If anyone adds to them, God will add to him the plagues which are written in this book. 19 And if anyone takes away from the words of the book of this prophecy, God will take away his part from the** <span style="font-weight:Bold;color:Green;">tree of life</span> and from the holy city, which are written in this book. &mdash; Revelation 22:18-19 LSB (Legacy Standard Bible, update to the worlds most accurate version, NASB '95) -->
+
+>  I testify to everyone who hears the words of the prophecy of this book: **if anyone adds to them, God will add to him the plagues which are written in this book; 19 and if anyone takes away from the words of the book of this prophecy, God will take away his part from the** <span style="font-weight:Bold;color:Green;">tree of life</span> and [a]from the holy city, which are written in this book. &mdash; Revelation 22:18-19 NASB '95 (New American Standard Bible 1995)
 
 NET Bible Translator Notes:
 
@@ -261,7 +266,7 @@ NET Bible Translator Notes:
 1. Wycliffe Bible (WYC) © 2001
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated!)
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">Wash their robes or Do His commandments?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
 
 > And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have <span style="font-weight:Bold;color:Green;">washed their robes</span>, and made them white in the blood of the Lamb. &mdash; Revelation 7:14 KJV (King James Version)
 
@@ -292,7 +297,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 <!-- 1. Wycliffe Bible (WYC) © 2001 -->
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated! 2x)
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Which Textual Criticism Methodology?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:40px;">VIII. Which Textual Criticism Methodology?</span>
 
 Because the last three sections removed the Textus Receptus, I think this is a good time to have that talk.
 
@@ -301,8 +306,6 @@ Because the last three sections removed the Textus Receptus, I think this is a g
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Textus Receptus</span>
 
 > The [Textus Receptus](https://www.gotquestions.org/Textus-Receptus.html) was a manuscript of the Bible that was compiled by a man named Erasmus in the 1500s A.D. He took the limited number of manuscripts he had access to and compiled them into what eventually became known as the Textus Receptus. The Textus Receptus is the textual basis behind the King James Version and New King James Version. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
-
-<!--There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus.--> 
 
 The first printed edition of the Greek New Testament was completed by [Erasmus](https://www.britannica.com/biography/Erasmus-Dutch-humanist) and published by Johann Froben of Basel on March 1, 1516 (Novum Instrumentum omne). Due to the pressure of his publisher to bring their edition to market before the competing Complutensian Polyglot, Erasmus based his work on around a half-dozen hand-copied Greek manuscripts, all of which dated from the twelfth century or later; and all but one were of the [Byzantine text-type](https://en.wikipedia.org/wiki/Byzantine_text-type). 
 
@@ -335,10 +338,16 @@ In the late 1800s, **Frederick Scrivener said there was no book he had ever seen
 |[Comma Johanneum](https://en.wikipedia.org/wiki/Johannine_Comma)||
 |**4th Edition (1527)**|**Content**|
 |[Complutensian Polyglot](https://en.wikipedia.org/wiki/Complutensian_Polyglot_Bible)|Altered 90 passages in the Book of Revelation. Erasmus forgot what places he translated from Latin and didn't correct all of them.|
+|**5th Edition (1535)**|**Content**|
+||The fifth edition differed only in four places from the fourth.|
+
 
 [Erasmus'](https://www.britannica.com/biography/Erasmus-Dutch-humanist) second edition of the Novum Instrumentum omne became the basis for Luther's German translation, while the third edition was used by William Tyndale for the first English New Testament (1526), by Robert Estienne as a base for his editions of the Greek New Testament from 1546 and 1549, and by the translators of Geneva Bible and King James Version.
 
 Criticized for his work which contained numerous textual errors, he incorporated readings from the Complutensian Polyglot in later editions of his work. It was not until the publication of the Westcott and Hort Greek New Testament in 1881 that the Textus Receptus lost its prominent position as a basis of biblical textual interpretation due to the inception of textual criticism. 
+
+There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus. 
+
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Critical Text</span>
 
@@ -351,6 +360,12 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Majority Text</span>
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
+
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">IX. Bracketing, Footnotes, or Omission?</span> -->
+
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">X. ?</span> -->
+
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">XI. ?</span> -->
 
 
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
