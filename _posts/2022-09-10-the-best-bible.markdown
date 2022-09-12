@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:52:00 -0500
+date: 2022-09-10 15:54:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Hypotheses non fingo</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
 
 Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
@@ -34,7 +34,7 @@ Considering these things, in this article I will attempt to locate a version of 
 
 <!-- > as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995) -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">Contenders</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">Contenders</span>
 
 I will be reviewing the follow versions of the Bible.
 
@@ -101,7 +101,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">I. Eliminating The Obvious</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
 # I am neither Catholic nor from the UK so the Bibles below have already been eliminated.
 
@@ -112,7 +112,7 @@ I will be reviewing the follow versions of the Bible.
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">II. Occult Influence?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">II. Occult Influence?</span>
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
@@ -134,7 +134,7 @@ You’re ablaze in beauty!<br>
 
 1. The Message (MSG) © 1993, 2002, 2018
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">III. Behemoth or Hippopotamus?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
 
 The Biblical description of the Behemoth can be found in Job 40:15-24 ([comparison](https://www.biblegateway.com/verse/en/Job%2040:15)). As you can see from the comparison, very few versions get this wrong.
 
@@ -157,7 +157,7 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
     - In parentheses, still not acceptable.
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">IV. Leviathan or Crocodile?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
 
 The Biblical description of the Leviathan can be found in Job 41 ([comparison](https://www.biblegateway.com/verse/en/Job%2041:1)). As you can see from the comparison, very few versions get this wrong.
 
@@ -175,7 +175,7 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 1. Living Bible (TLB) © 1971 (Already Eliminated!)
 1. New Life Version (NLV) © 1969, 2003 (Already Eliminated!)
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">V. Jehovah or Yahweh?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
 
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
 
@@ -219,7 +219,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">VI. Book Of Life or Tree Of Life?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
 
 <!-- [Lamb's Book of Life](https://www.gotquestions.org/Lambs-book-of-life.html) -->
 
@@ -248,9 +248,9 @@ NET Bible Translator Notes:
 
 > Revelation 22:19 tc The Textus Receptus, on which the KJV rests, reads “the book” of life (ἀπὸ βίβλου, apo biblou) instead of “the tree” of life. **When the Dutch humanist Desiderius Erasmus translated the NT he had access to no Greek mss for the last six verses of Revelation.** So he translated the Latin Vulgate back into Greek at this point. **As a result he created seventeen textual variants which were not in any Greek mss.** The most notorious of these is this reading. **It is thus decidedly inauthentic, while “the tree” of life, found in the best and virtually all Greek mss, is clearly authentic.** The confusion was most likely due to an intra-Latin switch: The form of the word for “tree” in Latin in this passage is ligno; the word for “book” is libro. The two-letter difference accounts for an accidental alteration in some Latin mss; that “book of life” as well as “tree of life” is a common expression in the Apocalypse probably accounts for why this was not noticed by Erasmus or the KJV translators. (This textual problem is not discussed in NA27.)
 
-😥 This one is hard for me, and if it weren't for this issue (among others) I'd be using the NKJV, I grew up with this version, it is near and dear to my heart.
-
 # The following versions which use 'Book of Life' are eliminated:
+
+*Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
 
 1. 21st Century King James Version (KJ21) © 1994 
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012
@@ -260,7 +260,7 @@ NET Bible Translator Notes:
 1. King James Version (KJV) Public Domain (Already Eliminated!)
 1. Authorized King James Version (AKJV)
 1. Modern English Version (MEV) © 2014
-1. New King James Version (NKJV) © 1982
+<!-- 1. New King James Version (NKJV) © 1982 -->
 1. New Matthew Bible (NMB) © 2016
 1. Revised Geneva Translation (RGT) © 2019
 1. Wycliffe Bible (WYC) © 2001
@@ -282,6 +282,8 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 *Note: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC and including WEB.*
 
+*Note: The New King James Version (NKJV) footnotes: "NU (Critical) wash their robes. It would otherwise have been eliminated.*
+
 1. 21st Century King James Version (KJ21) © 1994 (Already Eliminated!)
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 (Already Eliminated!)
 <!-- 1. Douay-Rheims 1899 American Edition (DRA) Public Domain -->
@@ -290,14 +292,14 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 1. King James Version (KJV) Public Domain (Already Eliminated! 2x)
 1. Authorized King James Version (AKJV) (Already Eliminated!)
 1. Modern English Version (MEV) © 2014 (Already Eliminated!)
-1. New King James Version (NKJV) © 1982 (Already Eliminated!)
+<!-- 1. New King James Version (NKJV) © 1982 (Already Eliminated!) -->
 1. New Matthew Bible (NMB) © 2016 (Already Eliminated!)
 1. Revised Geneva Translation (RGT) © 2019 (Already Eliminated!)
 1. World English Bible (WEB) Public Domain
 <!-- 1. Wycliffe Bible (WYC) © 2001 -->
 1. Young's Literal Translation (YLT) Public Domain (Already Eliminated! 2x)
 
-<span style="font-family:monospace;font-style:Italic;font-size:40px;">VIII. Which Textual Criticism Methodology?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. Which Textual Criticism Methodology?</span>
 
 Because the last three sections removed the Textus Receptus, I think this is a good time to have that talk.
 
@@ -361,11 +363,11 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">IX. Bracketing, Footnotes, or Omission?</span> -->
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Bracketing, Footnotes, or Omission?</span>
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">X. ?</span> -->
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. ?</span>
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:40px;">XI. ?</span> -->
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. ?</span>
 
 
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
