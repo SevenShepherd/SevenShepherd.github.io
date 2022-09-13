@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 15:57:00 -0500
+date: 2022-09-10 16:00:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -43,7 +43,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Amplified Bible (AMP)** © 2015
 1. **Amplified Bible, Classic Edition (AMPC)** © 1954, 1958, 1962, 1964, 1965, 1987
 1. **BRG Bible (BRG)** Blue Red and Gold Letter Edition™ Copyright © 2012
-1. ***Christian Standard Bible (CSB)*** © 2017
+1. **Christian Standard Bible (CSB)** © 2017
 1. **Common English Bible (CEB)** © 2011
 1. **Complete Jewish Bible (CJB)** © 1998
 1. **Contemporary English Version (CEV)** © 1995 
@@ -100,6 +100,29 @@ I will be reviewing the follow versions of the Bible.
 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
+
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">Contents</span>
+
+- <span style="font-family:times;font-size:16px;">I.</span>
+- <span style="font-family:times;font-size:16px;">II.</span>
+- <span style="font-family:times;font-size:16px;">III.</span>
+- <span style="font-family:times;font-size:16px;">IV.</span>
+- <span style="font-family:times;font-size:16px;">V.</span>
+- <span style="font-family:times;font-size:16px;">VI.</span>
+- <span style="font-family:times;font-size:16px;">VII.</span>
+- <span style="font-family:times;font-size:16px;">VIII.</span>
+- <span style="font-family:times;font-size:16px;">IX.</span>
+- <span style="font-family:times;font-size:16px;">X.</span>
+- <span style="font-family:times;font-size:16px;">XI.</span>
+- <span style="font-family:times;font-size:16px;">XII.</span>
+- <span style="font-family:times;font-size:16px;">XIII.</span>
+- <span style="font-family:times;font-size:16px;">XIV.</span>
+- <span style="font-family:times;font-size:16px;">XV.</span>
+- <span style="font-family:times;font-size:16px;">XVI.</span>
+- <span style="font-family:times;font-size:16px;">XVII.</span>
+- <span style="font-family:times;font-size:16px;">XVIII.</span>
+- <span style="font-family:times;font-size:16px;">XIX.</span>
+- <span style="font-family:times;font-size:16px;">XX.</span>
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
@@ -298,7 +321,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 *Notes: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC.*
 
-- *The New King James Version (NKJV) footnotes: "NU (Critical) wash their robes. It would otherwise have been eliminated.*
+- *The New King James Version (NKJV) footnotes: ["NU (Critical) wash their robes"]. It would otherwise have been eliminated.*
 
 - *World English Bible (WEB) footnotes: [NU reads “wash their robes” instead of “do his commandments”.]. It would otherwise have been eliminated.*
 
@@ -361,7 +384,7 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
-Because the last three sections removed the Textus Receptus, I think this is a good time to have that talk.
+Because the last four sections removed the Textus Receptus, I think this is a good time to have that talk.
 
 > There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
@@ -417,11 +440,126 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 > "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
 
+It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 i'd rather investigate our current Greek New Testament manuscript.
+
 <span style="font-family:monospace;font-style:Italic;font-size:26px;">Majority Text</span>
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Bracketing, Footnotes, or Omission?</span>
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
+
+The heresy of [political correctness](https://www.gotquestions.org/political-correctness.html) and gender inclusion has invaded the world of Bible translation and perverted God’s original message. There are times when [inclusiveness](https://www.gotquestions.org/gender-inclusive-Bible-translation.html) is appropriate and times when it absolutely is not. Let's look at some examples and remove some of the remaining versions that violate God's message.
+
+Imagine if the following verses only applied to half the population (Men):
+
+<!-- > If someone says, “I love God,” and **hates his brother**, **he is a liar**; for **he** who does not love **his brother** whom **he** has seen, how can **he** love God whom **he** has not seen? &mdash; 1 John 4:20 NKJV (New King James Version) -->
+
+> 20 If **a man** says, “I love God,” and **hates his brother**, **he is a liar**; for **he** who doesn’t love **his brother** whom **he** has seen, how can **he** love God whom **he** has not seen? &mdash; 1 John 4:20 WEB (World English Bible)
+
+This translation isn't necesarily wrong, but those who understand the Bible, understand that 'he' in the Greek is referring to oneself [*αὐτός (autos)*], and 'brother' [*ἀδελφός (adelphos)*] is referring to a member of the Christian community. (See [MOUNCE](https://www.biblegateway.com/passage/?search=1+Jn+4%3A20&version=MOUNCE))
+
+> If **someone** says, “I love God,” but **hates a fellow believer**,[a] **that person is a liar**; for if **we** don’t **love people we** can see, how can **we** love God, whom **we** cannot see? &mdash; 1 John 4:20 NLT (New Living Translation)
+
+See also 1 Jn 2:9; 4:8; Titus 3:10; Pr 10:18; 16:28; 20:19; 1 Pe 2:1; James 1:12; 4:11-12; Lk 6:45; Ps 101:5; Mt 5:22; 12:36; Jn 13:35.
+
+<!-- and maybe Gal 5:19-21; 22-23. -->
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+
+In Acts 1:16 the very first word Men [ἀνήρ (anēr)] is used, which refers only to males even when women are present. This is an instance of God using language in the Bible that is clearly and specifically directed at men (See [MOUNCE](https://www.biblegateway.com/passage/?search=Acts+1%3A16&version=MOUNCE)). Here is a [comparison](https://www.biblegateway.com/verse/en/Acts%201:16) of versions.
+
+> “**Men**, brothers, the Scripture had to be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. &mdash; Acts 1:16 LSB (Legacy Standard Bible)
+
+# The following versions will be eliminated for perverting God's word:
+
+1. Amplified Bible (AMP) © 2015
+1. Christian Standard Bible (CSB) © 2017
+1. Common English Bible (CEB) © 2011
+<!-- 1. Contemporary English Version (CEV) © 1995  -->
+1. Easy-to-Read Version (ERV) © 2006
+1. Good News Translation (GNT) © 1992 
+<!-- 1. The Message (MSG) © 1993, 2002, 2018 -->
+1. New Century Version (NCV) © 2005
+1. New International Reader's Version (NIRV) © 1995, 1996, 1998, 2014
+1. New International Version (NIV) © 1973, 1978, 1984, 2011
+<!-- 1. New International Version UK (NIVUK) © 1979, 1984, 2011 -->
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
+<!-- 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995 -->
+<!-- 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993 -->
+1. New Revised Standard Version Updated Edition (NRSVUE) © 2021
+1. New Testament for Everyone (NTE) © 2011
+1. The Voice (VOICE) © 2012
+1. Worldwide English (WE) © 1969, 1971, 1996, 1998
+
+*Notes: The Expanded Bible (EXB) contains the literal translation even though it is derived from the NCV which was eliminated, It would otherwise have been eliminated.*
+
+
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. A Quick Overview</span>
+
+The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
+- The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
+- The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
+- There are 21 contenders remaining in the corner of the Critical Text.
+
+    <!-- 1. **Amplified Bible (AMP)** © 2015 -->
+    <!-- 1. **Christian Standard Bible (CSB)** © 2017 -->
+    <!-- 1. **Common English Bible (CEB)** © 2011 -->
+    1. **Complete Jewish Bible (CJB)** © 1998
+    1. **Disciples’ Literal New Testament (DLNT)** © 2011
+    <!-- 1. **Easy-to-Read Version (ERV)** © 2006 -->
+    1. **Evangelical Heritage Version (EHV)** © 2019
+    1. **English Standard Version (ESV)** 2016 © 2001
+    1. **Expanded Bible (EXB)** © 2011
+    1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
+    <!-- 1. **Good News Translation (GNT)** © 1992  -->
+    1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
+    1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
+    1. **International Standard Version (ISV)** © 1995-2014
+    1. **Phillips New Testament (PHILLIPS)** © 1960, 1972
+    1. **Legacy Standard Bible (LSB)** © 2021
+    1. **Lexham English Bible (LEB)** © 2012
+    1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
+    1. **Names of God Bible (NOG)** © 2011
+    1. **New American Bible (Revised Edition) (NABRE)** © 2010, 1991, 1986, 1970 
+    1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
+    1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
+    <!-- 1. **New Century Version (NCV)** © 2005  -->
+    1. **New English Translation (NET)** © 1996-2017
+    <!-- 1. **New International Reader's Version (NIRV)** © 1995, 1996, 1998, 2014 -->
+    <!-- 1. **New International Version (NIV)** © 1973, 1978, 1984, 2011 -->
+    <!-- 1. **New King James Version (NKJV)** © 1982 -->
+    1. **New Living Translation (NLT)** © 1996, 2004, 2015 
+    <!-- 1. **New Revised Standard Version, Anglicised (NRSVA)** © 1989, 1995 -->
+    <!-- 1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021 -->
+    <!-- 1. **New Testament for Everyone (NTE)** © 2011 -->
+    1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
+    1. **Tree of Life Version (TLV)** © 2015
+    <!-- 1. **The Voice (VOICE)** © 2012 -->
+    <!-- 1. **World English Bible (WEB)** Public Domain -->
+    <!-- 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998 -->
+
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">XII. Organizing By Translation Type</span>
+
+The remaining versions from the list in Section XI that fall under the translation type of formal equivalent are as follows:
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Formal Equivalent "Word-For-Word"</span>
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Optimal Equivalent</span>
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Dynamic Equivalent "Thought-For-Thought"</span>
+
+<span style="font-family:monospace;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span>
+
+<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIII. Bracketing, Footnotes, or Omission?</span>
+
+In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. -->
+
+<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
+
+John 1:18 "Only Begotten God"
+Romand 9:5 "God Over All"
+Jude 1:5 "Jesus saved a people out of Egypt"
+because we're losing 1 Tim 3:16 -->
 
 <!--
 <span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. ?</span>
@@ -441,49 +579,11 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 This article is still being written :) please be patient. God Bless.
 
 
-<!-- ## **Tally** -->
-
-<!-- 1. **Amplified Bible (AMP)** © 2015
-1. ***Christian Standard Bible (CSB)*** © 2017
-1. **Common English Bible (CEB)** © 2011
-1. **Complete Jewish Bible (CJB)** © 1998
-1. **Disciples’ Literal New Testament (DLNT)** © 2011
-1. **Easy-to-Read Version (ERV)** © 2006
-1. **Evangelical Heritage Version (EHV)** © 2019
-1. **English Standard Version (ESV)** 2016 © 2001
-1. **Expanded Bible (EXB)** © 2011
-1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
-1. **Good News Translation (GNT)** © 1992 
-1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
-1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
-1. **International Standard Version (ISV)** © 1995-2014
-1. **Phillips New Testament (PHILLIPS)** © 1960, 1972
-1. **Legacy Standard Bible (LSB)** © 2021
-1. **Lexham English Bible (LEB)** © 2012
-1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
-1. **Names of God Bible (NOG)** © 2011
-1. **New American Bible (Revised Edition) (NABRE)** © 2010, 1991, 1986, 1970 
-1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
-1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
-1. **New Century Version (NCV)** © 2005 
-1. **New English Translation (NET)** © 1996-2017
-1. **New International Reader's Version (NIRV)** © 1995, 1996, 1998, 2014
-1. **New International Version (NIV)** © 1973, 1978, 1984, 2011
-1. **New King James Version (NKJV)** © 1982
-1. **New Living Translation (NLT)** © 1996, 2004, 2015 
-1. **New Revised Standard Version, Anglicised (NRSVA)** © 1989, 1995
-1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021
-1. **New Testament for Everyone (NTE)** © 2011
-1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
-1. **Tree of Life Version (TLV)** © 2015
-1. **The Voice (VOICE)** © 2012
-1. **World English Bible (WEB)** Public Domain
-1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998 -->
 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NASB1995'
+            bibleVersion: 'LEB'
         }
     }; 
 
