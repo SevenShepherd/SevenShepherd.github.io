@@ -1,12 +1,18 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:00:00 -0500
+date: 2022-09-10 16:02:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
+<style>
+    html * {
+        font-family: Times;
+    }
+</style>
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
 
 Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
@@ -34,7 +40,7 @@ Considering these things, in this article I will attempt to locate a version of 
 
 <!-- > as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995) -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">Contenders</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">Contenders</span>
 
 I will be reviewing the follow versions of the Bible.
 
@@ -101,41 +107,43 @@ I will be reviewing the follow versions of the Bible.
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">Contents</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">Contents</span>
 
-- <span style="font-family:times;font-size:16px;">I.</span>
-- <span style="font-family:times;font-size:16px;">II.</span>
-- <span style="font-family:times;font-size:16px;">III.</span>
-- <span style="font-family:times;font-size:16px;">IV.</span>
-- <span style="font-family:times;font-size:16px;">V.</span>
-- <span style="font-family:times;font-size:16px;">VI.</span>
-- <span style="font-family:times;font-size:16px;">VII.</span>
-- <span style="font-family:times;font-size:16px;">VIII.</span>
-- <span style="font-family:times;font-size:16px;">IX.</span>
-- <span style="font-family:times;font-size:16px;">X.</span>
-- <span style="font-family:times;font-size:16px;">XI.</span>
-- <span style="font-family:times;font-size:16px;">XII.</span>
-- <span style="font-family:times;font-size:16px;">XIII.</span>
-- <span style="font-family:times;font-size:16px;">XIV.</span>
-- <span style="font-family:times;font-size:16px;">XV.</span>
-- <span style="font-family:times;font-size:16px;">XVI.</span>
+- <span style="font-family:Times;font-size:16px;">I. Eliminating The Obvious</span>
+- <span style="font-family:Times;font-size:16px;">II. Occult Influence?</span>
+- <span style="font-family:Times;font-size:16px;">III. Behemoth or Hippopotamus?</span>
+- <span style="font-family:Times;font-size:16px;">IV. Leviathan or Crocodile?</span>
+- <span style="font-family:Times;font-size:16px;">V. Jehovah or Yahweh?</span>
+- <span style="font-family:Times;font-size:16px;">VI. Book Of Life or Tree Of Life?</span>
+- <span style="font-family:Times;font-size:16px;">VII. Wash their robes or Do His commandments?</span>
+- <span style="font-family:Times;font-size:16px;">VIII. The Lucifer Problem</span>
+- <span style="font-family:Times;font-size:16px;">IX. Which Textual Criticism Methodology?</span>
+- <span style="font-family:Times;font-size:16px;">X. Gender Inclusivness?</span>
+- <span style="font-family:Times;font-size:16px;">XI. A Quick Overview</span>
+- <span style="font-family:Times;font-size:16px;">XII. Jesus Deity</span>
+- <span style="font-family:Times;font-size:16px;">XIII. Computerized Statistical Analysis</span>
+- <span style="font-family:Times;font-size:16px;">XIV. Bracketing, Footnotes, or Omission?</span>
+- <span style="font-family:Times;font-size:16px;">XV. Conclusion</span>
+
+<!-- - <span style="font-family:times;font-size:16px;">XVI.</span>
 - <span style="font-family:times;font-size:16px;">XVII.</span>
 - <span style="font-family:times;font-size:16px;">XVIII.</span>
 - <span style="font-family:times;font-size:16px;">XIX.</span>
-- <span style="font-family:times;font-size:16px;">XX.</span>
+- <span style="font-family:times;font-size:16px;">XX.</span> -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
 # I am neither Catholic nor from the UK so the Bibles below have already been eliminated.
 
 1. English Standard Version Anglicised (ESVUK) © 2001
+1. New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970 
 1. New Catholic Bible (NCB) © 2019
 1. New International Version UK (NIVUK) © 1979, 1984, 2011
 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">II. Occult Influence?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">II. Occult Influence?</span>
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
@@ -157,13 +165,13 @@ You’re ablaze in beauty!<br>
 
 1. The Message (MSG) © 1993, 2002, 2018
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
 
 The Biblical description of the Behemoth can be found in Job 40:15-24 ([comparison](https://www.biblegateway.com/verse/en/Job%2040:15)). As you can see from the comparison, very few versions get this wrong.
 
 <!-- This is [how the verse should read](https://read.lsbible.org/?q=Job+40%3A15-24) -->
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:26px;">Behemoth</span> -->
+<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Behemoth</span> -->
 
 > 15 Behold now <span style="font-weight:Bold;color:Green;">behemoth</span>, which I made with thee; he eateth grass as an ox. 16 Lo now, his strength is in his loins, and his force is in the navel of his belly. 17 **He moveth his tail like a cedar:** the sinews of his stones are wrapped together. 18 **His bones are as strong pieces of brass; his bones are like bars of iron.** &mdash; [Job 40:15-24](https://www.biblegateway.com/passage/?search=Job+40%3A15-24&version=KJV) KJV (King James Version)
 
@@ -180,7 +188,7 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
     - In parentheses, still not acceptable.
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
 
 The Biblical description of the Leviathan can be found in Job 41 ([comparison](https://www.biblegateway.com/verse/en/Job%2041:1)). As you can see from the comparison, very few versions get this wrong.
 
@@ -198,9 +206,9 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 1. Living Bible (TLB) © 1971 
 1. New Life Version (NLV) © 1969, 2003 
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
 
 Jewish and Christian scholars, who are thoroughly familiar with the Old Testament Hebrew language and how to pronounce Hebrew words, make it clear that the Hebrew word YHWH is more accurately pronounced “Yahweh” (Yaw-Way) rather than “Jehovah”.
 
@@ -243,7 +251,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
 
 <!-- [Lamb's Book of Life](https://www.gotquestions.org/Lambs-book-of-life.html) -->
 
@@ -258,7 +266,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 > Blessed are they that do his commandments, that they may have right to the <span style="font-weight:bold;color:Green;">tree of life</span>, and may enter in through the gates into the city. &mdash; Revelation 22:14 KJV (King James Version)
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
 
 There are certain textual variants which are so pivotal that they're reason enough to warrant serious investigation. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions. 
 
@@ -290,11 +298,11 @@ NET Bible Translator Notes:
 
 *Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
 
 > And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have <span style="font-weight:Bold;color:Green;">washed their robes</span>, and made them white in the blood of the Lamb. &mdash; Revelation 7:14 KJV (King James Version)
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
 
 Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14) of the following verse in Revelation.
 
@@ -325,11 +333,11 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 - *World English Bible (WEB) footnotes: [NU reads “wash their robes” instead of “do his commandments”.]. It would otherwise have been eliminated.*
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
 
 The word Lucifer is not a proper name, but the Latin word for ‘morning star,’ which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%2014:12).
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
 
 > How art thou fallen from heaven, O <span style="font-weight:Bold;color:Red;">Lucifer</span>, son of the morning! how art thou cut down to the ground, which didst weaken the nations! &mdash; Isaiah 14:12 KJV (King James Version)
 
@@ -382,13 +390,13 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 *Note: The New King James Version (NKJV) footnotes: [Lit. Day Star]. It would otherwise have been eliminated.*
 
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
 Because the last four sections removed the Textus Receptus, I think this is a good time to have that talk.
 
 > There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Textus Receptus</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Textus Receptus</span>
 
 > The [Textus Receptus](https://www.gotquestions.org/Textus-Receptus.html) was a manuscript of the Bible that was compiled by a man named Erasmus in the 1500s A.D. He took the limited number of manuscripts he had access to and compiled them into what eventually became known as the Textus Receptus. The Textus Receptus is the textual basis behind the King James Version and New King James Version. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
@@ -432,7 +440,7 @@ Criticized for his work which contained numerous textual errors, he incorporated
 
 There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus. 
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Critical Text</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Critical Text</span>
 
 > The [Critical Text](https://www.gotquestions.org/critical-text.html) or eclectic method involves considering external and internal evidences for determining the most likely original text. External evidence makes us ask these questions: in how many manuscripts does the reading occur? what are the dates for these manuscripts? in what region of the world were these manuscripts found? Internal evidence prompts these questions: what could have caused these varying readings? which reading can possibly explain the origin of the other readings? The New International Version, New American Standard, New Living Translation, and most other Bible translations use the Eclectic Text. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
@@ -442,11 +450,11 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 i'd rather investigate our current Greek New Testament manuscript.
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Majority Text</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Majority Text</span>
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
 
 The heresy of [political correctness](https://www.gotquestions.org/political-correctness.html) and gender inclusion has invaded the world of Bible translation and perverted God’s original message. There are times when [inclusiveness](https://www.gotquestions.org/gender-inclusive-Bible-translation.html) is appropriate and times when it absolutely is not. Let's look at some examples and remove some of the remaining versions that violate God's message.
 
@@ -464,11 +472,17 @@ See also 1 Jn 2:9; 4:8; Titus 3:10; Pr 10:18; 16:28; 20:19; 1 Pe 2:1; James 1:12
 
 <!-- and maybe Gal 5:19-21; 22-23. -->
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
 
 In Acts 1:16 the very first word Men [ἀνήρ (anēr)] is used, which refers only to males even when women are present. This is an instance of God using language in the Bible that is clearly and specifically directed at men (See [MOUNCE](https://www.biblegateway.com/passage/?search=Acts+1%3A16&version=MOUNCE)). Here is a [comparison](https://www.biblegateway.com/verse/en/Acts%201:16) of versions.
 
-> “**Men**, brothers, the Scripture had to be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. &mdash; Acts 1:16 LSB (Legacy Standard Bible)
+> “<span style="font-weight:Bold;color:Green;">Men</span>, brothers, the Scripture had to be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. &mdash; Acts 1:16 LSB (Legacy Standard Bible)
+
+Here are two examples of translations completely butchering the Greek scriptures.
+
+> and said, “Brothers <span style="font-weight:Bold;color:Red;">and sisters</span>,[a] the Scripture had to be fulfilled in which the Holy Spirit spoke long ago through David concerning Judas, who served as guide for those who arrested Jesus. &mdash; Acts 1:16 NIV (New International Version)
+
+> “Brothers <span style="font-weight:Bold;color:Red;">and sisters</span>, it was necessary that the Scripture be fulfilled, which the Holy Spirit foretold by the lips of David [king of Israel] about Judas [Iscariot], who acted as guide to those who arrested Jesus. &mdash; Acts 1:16 AMP (Amplified Bible)
 
 # The following versions will be eliminated for perverting God's word:
 
@@ -494,67 +508,58 @@ In Acts 1:16 the very first word Men [ἀνήρ (anēr)] is used, which refers o
 *Notes: The Expanded Bible (EXB) contains the literal translation even though it is derived from the NCV which was eliminated, It would otherwise have been eliminated.*
 
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. A Quick Overview</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
 - There are 21 contenders remaining in the corner of the Critical Text.
 
-    <!-- 1. **Amplified Bible (AMP)** © 2015 -->
-    <!-- 1. **Christian Standard Bible (CSB)** © 2017 -->
-    <!-- 1. **Common English Bible (CEB)** © 2011 -->
-    1. **Complete Jewish Bible (CJB)** © 1998
-    1. **Disciples’ Literal New Testament (DLNT)** © 2011
-    <!-- 1. **Easy-to-Read Version (ERV)** © 2006 -->
-    1. **Evangelical Heritage Version (EHV)** © 2019
-    1. **English Standard Version (ESV)** 2016 © 2001
-    1. **Expanded Bible (EXB)** © 2011
-    1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
-    <!-- 1. **Good News Translation (GNT)** © 1992  -->
-    1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
-    1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
-    1. **International Standard Version (ISV)** © 1995-2014
-    1. **Phillips New Testament (PHILLIPS)** © 1960, 1972
-    1. **Legacy Standard Bible (LSB)** © 2021
-    1. **Lexham English Bible (LEB)** © 2012
-    1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
-    1. **Names of God Bible (NOG)** © 2011
-    1. **New American Bible (Revised Edition) (NABRE)** © 2010, 1991, 1986, 1970 
-    1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
-    1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
-    <!-- 1. **New Century Version (NCV)** © 2005  -->
-    1. **New English Translation (NET)** © 1996-2017
-    <!-- 1. **New International Reader's Version (NIRV)** © 1995, 1996, 1998, 2014 -->
-    <!-- 1. **New International Version (NIV)** © 1973, 1978, 1984, 2011 -->
-    <!-- 1. **New King James Version (NKJV)** © 1982 -->
-    1. **New Living Translation (NLT)** © 1996, 2004, 2015 
-    <!-- 1. **New Revised Standard Version, Anglicised (NRSVA)** © 1989, 1995 -->
-    <!-- 1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021 -->
-    <!-- 1. **New Testament for Everyone (NTE)** © 2011 -->
-    1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
-    1. **Tree of Life Version (TLV)** © 2015
-    <!-- 1. **The Voice (VOICE)** © 2012 -->
-    <!-- 1. **World English Bible (WEB)** Public Domain -->
-    <!-- 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998 -->
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalent "Word-For-Word"</span>
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">XII. Organizing By Translation Type</span>
+1. **Disciples’ Literal New Testament (DLNT)** © 2011
+2. **English Standard Version (ESV)** 2016 © 2001
+3. **Legacy Standard Bible (LSB)** © 2021
+4. **Lexham English Bible (LEB)** © 2012
+5. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
+6. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
+7. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
+8. **New King James Version (NKJV)**
+9. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
+10. **Tree of Life Version (TLV)** © 2015
+11. **World English Bible (WEB)** Public Domain
 
-The remaining versions from the list in Section XI that fall under the translation type of formal equivalent are as follows:
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalent</span>
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Formal Equivalent "Word-For-Word"</span>
+12. **Evangelical Heritage Version (EHV)** © 2019
+13. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
+14. **International Standard Version (ISV)** © 1995-2014
+20. **New English Translation (NET)** © 1996-2017
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Optimal Equivalent</span>
+*Note: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Dynamic Equivalent "Thought-For-Thought"</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalent "Thought-For-Thought"</span>
 
-<span style="font-family:monospace;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span>
+15. **Complete Jewish Bible (CJB)** © 1998
+16. **Expanded Bible (EXB)** © 2011
+17. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
+18. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
+19. **Names of God Bible (NOG)** © 2011
+21. **New Living Translation (NLT)** © 1996, 2004, 2015 
 
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIII. Bracketing, Footnotes, or Omission?</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span>
 
-In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. -->
+22. **Phillips New Testament (PHILLIPS)** © 1960, 1972
 
-<!-- <span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. Computerized Statistical Analysis</span>
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
+
+In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts.
+
+<!-- <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
 
 John 1:18 "Only Begotten God"
 Romand 9:5 "God Over All"
@@ -562,16 +567,16 @@ Jude 1:5 "Jesus saved a people out of Egypt"
 because we're losing 1 Tim 3:16 -->
 
 <!--
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XI. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XII. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIII. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIV. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XV. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVI. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVII. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XVIII. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XIX. ?</span>
-<span style="font-family:monospace;font-style:Italic;font-size:34px;">XX. ?</span> -->
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XVI. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XVII. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XVIII. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIX. ?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XX. ?</span> -->
 
 
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
