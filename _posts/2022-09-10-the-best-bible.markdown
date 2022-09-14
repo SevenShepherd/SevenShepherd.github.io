@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:03:00 -0500
+date: 2022-09-10 16:05:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -67,7 +67,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
 1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
 1. **International Standard Version (ISV)** © 1995-2014
-1. **Phillips New Testament (PHILLIPS)** © 1960, 1972
+1. Phillips New Testament (PHILLIPS) © 1960, 1972
 1. **Jubilee Bible 2000 (JUB)** © 2013, 2020
 1. **King James Version (KJV)** Public Domain
 1. **Authorized King James Version (AKJV)**
@@ -109,27 +109,28 @@ I will be reviewing the follow versions of the Bible.
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">Contents</span>
 
-- <span style="font-family:Times;font-size:16px;">I. Eliminating The Obvious</span>
-- <span style="font-family:Times;font-size:16px;">II. Occult Influence?</span>
-- <span style="font-family:Times;font-size:16px;">III. Behemoth or Hippopotamus?</span>
-- <span style="font-family:Times;font-size:16px;">IV. Leviathan or Crocodile?</span>
-- <span style="font-family:Times;font-size:16px;">V. Jehovah or Yahweh?</span>
-- <span style="font-family:Times;font-size:16px;">VI. Book Of Life or Tree Of Life?</span>
-- <span style="font-family:Times;font-size:16px;">VII. Wash their robes or Do His commandments?</span>
-- <span style="font-family:Times;font-size:16px;">VIII. The Lucifer Problem</span>
-- <span style="font-family:Times;font-size:16px;">IX. Which Textual Criticism Methodology?</span>
-- <span style="font-family:Times;font-size:16px;">X. Gender Inclusivness?</span>
-- <span style="font-family:Times;font-size:16px;">XI. A Quick Overview</span>
-- <span style="font-family:Times;font-size:16px;">XII. Jesus Deity</span>
-- <span style="font-family:Times;font-size:16px;">XIII. Computerized Statistical Analysis</span>
-- <span style="font-family:Times;font-size:16px;">XIV. Bracketing, Footnotes, or Omission?</span>
-- <span style="font-family:Times;font-size:16px;">XV. Conclusion</span>
+- I. Eliminating The Obvious
+- II. Occult Influence?
+- III. Behemoth or Hippopotamus?
+- IV. Leviathan or Crocodile?
+- V. Jehovah or Yahweh?
+- VI. Book Of Life or Tree Of Life?
+- VII. Wash their robes or Do His commandments?
+- VIII. The Lucifer Problem
+- IX. Which Textual Criticism Methodology?
+- X. Gender Inclusivness?
+- XI. A Virgin or Young Woman?
+- XII. A Quick Overview
+- XIII. Jesus Deity
+- XIV. Computerized Statistical Analysis
+- XV. Bracketing, Footnotes, or Omission?
+- XVI. Conclusion
 
-<!-- - <span style="font-family:times;font-size:16px;">XVI.</span>
-- <span style="font-family:times;font-size:16px;">XVII.</span>
-- <span style="font-family:times;font-size:16px;">XVIII.</span>
-- <span style="font-family:times;font-size:16px;">XIX.</span>
-- <span style="font-family:times;font-size:16px;">XX.</span> -->
+<!-- - XVI.
+- XVII.
+- XVIII.
+- XIX.
+- XX. -->
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
@@ -142,6 +143,7 @@ I will be reviewing the follow versions of the Bible.
 1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
+1. Phillips New Testament (PHILLIPS) © 1960, 1972
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">II. Occult Influence?</span>
@@ -489,6 +491,8 @@ NET Translator Notes:
 
 > a. Acts 1:16 tn Grk “Men brothers.” In light of the compound phrase ἄνδρες ἀδελφοί (andres adelphoi, “Men brothers”) **Peter’s words are best understood as directly addressed to the males present**, possibly referring specifically to the twelve (really ten at this point—eleven minus the speaker, Peter) mentioned by name in v. 13. 
 
+See also Acts 5:35
+
 # The following versions will be eliminated for perverting God's word:
 
 1. Amplified Bible (AMP) © 2015
@@ -521,55 +525,118 @@ NET Translator Notes:
 1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
 1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
 
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Quick Overview</span>
+> Therefore the Lord Himself will give you a sign: Behold, the <span style="font-weight:Bold;color:Green;">virgin</span> shall conceive and bear a Son, and shall call His name Immanuel. &mdash; Isaiah 7:14 NKJV (New King James Version)
+
+> Therefore the Lord himself will give you a sign. Behold, a <span style="font-weight:Bold;color:Red;">young woman</span> shall conceive and bear a son, and shall call his name Imman′u-el. &mdash; Isaiah 7:14 RSV (Revised Standard Version)
+
+NET Translator Notes:
+
+> Isaiah 7:14 tn **Traditionally, “virgin.”** Because this verse from Isaiah is quoted in Matt 1:23 in connection with Jesus’ birth, the Isaiah passage has been regarded since the earliest Christian times as **a prophecy of Christ’s virgin birth**. Much debate has taken place over the best way to translate this Hebrew term, although ultimately one’s view of the doctrine of the virgin birth of Christ is unaffected. Though the Hebrew word used here (עַלְמָה, ʿalmah) can sometimes refer to a woman who is a virgin (Gen 24:43), it does not carry this meaning inherently. The word is simply the feminine form of the corresponding masculine noun עֶלֶם (ʿelem, “young man”; cf. 1 Sam 17:56; 20:22). The Aramaic and Ugaritic cognate terms are both used of women who are not virgins. The word seems to pertain to age, not sexual experience, and would normally be translated “young woman.” The LXX translator(s) who later translated the Book of Isaiah into Greek sometime between the second and first century b.c., however, rendered the Hebrew term by the more specific **Greek word παρθένος (parthenos), which does mean “virgin”** in a technical sense. This is the Greek term that also appears in the citation of Isa 7:14 in Matt 1:23. **Therefore, regardless of the meaning of the term in the OT context, in the NT Matthew’s usage of the Greek term παρθένος clearly indicates that from his perspective a virgin birth has taken place.**
+
+# The Following Versions Have Corrupted The Word Of God:
+
+1. Complete Jewish Bible (CJB) © 1998
+1. Revised Standard Version (RSV) © 1946, 1952, and 1971
+
+*Notes: The New English Translation (NET) expanded upon the literal interpretation and included 'Virgin' in it's translator notes. Otherwise it would have eliminated.*
+
+*As a side note, the following versions would have been removed had they not already been disqualified:*
+
+1. *Common English Bible (CEB) © 2011*
+1. *Easy-to-Read Version (ERV) © 2006*
+1. *Good News Translation (GNT) © 1992* 
+1. *New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970* 
+1. *New Life Version (NLV) © 1969, 2003* 
+1. *New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995*
+1. *New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995*
+1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
+1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
+1. *Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966*
+1. *The Voice (VOICE) © 2012*
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are 19/21 contenders remaining in the corner of the Critical Text.
+- There are 17/19 contenders remaining in the corner of the Critical Text.
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalent "Word-For-Word"</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
-1. **Disciples’ Literal New Testament (DLNT)** © 2011
-2. **English Standard Version (ESV)** 2016 © 2001
-3. **Legacy Standard Bible (LSB)** © 2021
-4. **Lexham English Bible (LEB)** © 2012
-5. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
-6. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
-7. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
+1. **Disciples’ Literal New Testament (DLNT)** 
+    - [1 Scholar](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/)
+    - Copyright © 2011
+    <!-- - [Download Free](https://literalnewtestament.com/get-it-free/) -->
+2. **English Standard Version (ESV)** 
+    - [100+ Scholars](https://www.esv.org/translation/)
+    - Copyright © 2001, 2016
+3. **Legacy Standard Bible (LSB)** 
+    - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
+    - Copyright © 2021
+4. **Lexham English Bible (LEB)** 
+    - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
+    - Copyright © 2012
+5. **Mounce Reverse Interlinear New Testament (MOUNCE)**
+    - [1 Scholar]()
+    - Copyright © 2011
+6. **New American Standard Bible (NASB)** 
+    - [73 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '95 & '77, otherwise 12
+    - Copyright © 1960, 1971, 1977, 1995, 2020
+7. **New American Standard Bible 1995 (NASB1995)**
+    - [61 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '77, otherwise 19
+    - Copyright © 1960, 1971, 1977, 1995
 8. **New King James Version (NKJV)**
-9. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
-10. **Tree of Life Version (TLV)** © 2015
-11. **World English Bible (WEB)** Public Domain
+    - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
+    - Copyright © 1982
+9. **Tree of Life Version (TLV)** 
+    - Copyright © 2015
+10. **World English Bible (WEB)**
+    - Copyright Public Domain
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalent</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
-12. **Evangelical Heritage Version (EHV)** © 2019
-13. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
-14. **International Standard Version (ISV)** © 1995-2014
-20. **New English Translation (NET)** © 1996-2017
+11. **Evangelical Heritage Version (EHV)**
+    - Lutheran
+    - Copyright © 2019
+12. **Holman Christian Standard Bible (HCSB)**
+    - Protestant
+    - 100 Scholars (International); 17 Denominations
+    - Copyright © 1999, 2000, 2002, 2003, 2009
+13. **International Standard Version (ISV)** © 1995-2014
+    - High School
+14. **New English Translation (NET)** 
+    - Middle school
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
+    - Copyright © 1996-2017
 
 *Note: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalent "Thought-For-Thought"</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
-15. **Complete Jewish Bible (CJB)** © 1998
-16. **Expanded Bible (EXB)** © 2011
-17. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
-18. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
-19. **Names of God Bible (NOG)** © 2011
-21. **New Living Translation (NLT)** © 1996, 2004, 2015 
+15. **Expanded Bible (EXB)** 
+    - Copyright © 2011
+16. **GOD’S WORD Translation (GW)** 
+    - Lutheran
+    - [5 Scholars](https://godsword.org/pages/translation-history?_pos=2&_sid=dd8764b7e&_ss=r)
+    - Copyright © 1995, 2003, 2013, 2014, 2019, 2020
+17. **International Children’s Bible (ICB)**
+    - Copyright © 1986, 1988, 1999, 2015
+18. **Names of God Bible (NOG)** 
+    - Copyright © 2011
+19. **New Living Translation (NLT)** 
+    - Copyright © 1996, 2004, 2015 
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span>
+<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
-22. **Phillips New Testament (PHILLIPS)** © 1960, 1972
+<!-- 22. **Phillips New Testament (PHILLIPS)** © 1960, 1972 -->
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. Jesus Deity</span>
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. Computerized Statistical Analysis</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Computerized Statistical Analysis</span>
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Bracketing, Footnotes, or Omission?</span>
 
 In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts.
 
