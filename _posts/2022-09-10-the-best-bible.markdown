@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:05:00 -0500
+date: 2022-09-10 16:07:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -527,6 +527,8 @@ See also Acts 5:35
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
 
+This controversy doesn't necessarily take away from the prophecy of Christ's virgin birth, but it sure is suspect and I personally don't care for what some of the newer versions are doing. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%207:14).
+
 > Therefore the Lord Himself will give you a sign: Behold, the <span style="font-weight:Bold;color:Green;">virgin</span> shall conceive and bear a Son, and shall call His name Immanuel. &mdash; Isaiah 7:14 NKJV (New King James Version)
 
 > Therefore the Lord himself will give you a sign. Behold, a <span style="font-weight:Bold;color:Red;">young woman</span> shall conceive and bear a son, and shall call his name Imman′u-el. &mdash; Isaiah 7:14 RSV (Revised Standard Version)
@@ -535,7 +537,7 @@ NET Translator Notes:
 
 > Isaiah 7:14 tn **Traditionally, “virgin.”** Because this verse from Isaiah is quoted in Matt 1:23 in connection with Jesus’ birth, the Isaiah passage has been regarded since the earliest Christian times as **a prophecy of Christ’s virgin birth**. Much debate has taken place over the best way to translate this Hebrew term, although ultimately one’s view of the doctrine of the virgin birth of Christ is unaffected. Though the Hebrew word used here (עַלְמָה, ʿalmah) can sometimes refer to a woman who is a virgin (Gen 24:43), it does not carry this meaning inherently. The word is simply the feminine form of the corresponding masculine noun עֶלֶם (ʿelem, “young man”; cf. 1 Sam 17:56; 20:22). The Aramaic and Ugaritic cognate terms are both used of women who are not virgins. The word seems to pertain to age, not sexual experience, and would normally be translated “young woman.” The LXX translator(s) who later translated the Book of Isaiah into Greek sometime between the second and first century b.c., however, rendered the Hebrew term by the more specific **Greek word παρθένος (parthenos), which does mean “virgin”** in a technical sense. This is the Greek term that also appears in the citation of Isa 7:14 in Matt 1:23. **Therefore, regardless of the meaning of the term in the OT context, in the NT Matthew’s usage of the Greek term παρθένος clearly indicates that from his perspective a virgin birth has taken place.**
 
-# The Following Versions Have Corrupted The Word Of God:
+# The following versions have corrupted the word of god:
 
 1. Complete Jewish Bible (CJB) © 1998
 1. Revised Standard Version (RSV) © 1946, 1952, and 1971
@@ -561,26 +563,16 @@ NET Translator Notes:
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are 17/19 contenders remaining in the corner of the Critical Text.
+- There are **11/13** contenders remaining in the corner of the Critical Text. There are some honorable mentions at the bottom of this section that were removed, which would have made it 17/19.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
-1. **Disciples’ Literal New Testament (DLNT)** 
-    - [1 Scholar](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/)
-    - Copyright © 2011
-    <!-- - [Download Free](https://literalnewtestament.com/get-it-free/) -->
 2. **English Standard Version (ESV)** 
     - [100+ Scholars](https://www.esv.org/translation/)
     - Copyright © 2001, 2016
 3. **Legacy Standard Bible (LSB)** 
     - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
     - Copyright © 2021
-4. **Lexham English Bible (LEB)** 
-    - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
-    - Copyright © 2012
-5. **Mounce Reverse Interlinear New Testament (MOUNCE)**
-    - [1 Scholar]()
-    - Copyright © 2011
 6. **New American Standard Bible (NASB)** 
     - [73 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '95 & '77, otherwise 12
     - Copyright © 1960, 1971, 1977, 1995, 2020
@@ -590,7 +582,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 8. **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
     - Copyright © 1982
-9. **Tree of Life Version (TLV)** 
+9. **Tree of Life Version (TLV)**
     - Copyright © 2015
 10. **World English Bible (WEB)**
     - Copyright Public Domain
@@ -616,21 +608,43 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
 15. **Expanded Bible (EXB)** 
+    - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
     - Copyright © 2011
-16. **GOD’S WORD Translation (GW)** 
-    - Lutheran
-    - [5 Scholars](https://godsword.org/pages/translation-history?_pos=2&_sid=dd8764b7e&_ss=r)
-    - Copyright © 1995, 2003, 2013, 2014, 2019, 2020
-17. **International Children’s Bible (ICB)**
-    - Copyright © 1986, 1988, 1999, 2015
-18. **Names of God Bible (NOG)** 
-    - Copyright © 2011
-19. **New Living Translation (NLT)** 
-    - Copyright © 1996, 2004, 2015 
+19. **New Living Translation (NLT)**
+    - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Copyright © 1996, 2004, 2015
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
 <!-- 22. **Phillips New Testament (PHILLIPS)** © 1960, 1972 -->
+
+# Honorable Mentions
+
+The Bibles below have made it this far, but are being honorably discharged for the reasons below.
+
+1. Bibles with less than 10 scholars will be honorably discharged
+    - Disciples’ Literal New Testament (DLNT)
+        - [1 Scholar](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/)
+        - Copyright © 2011
+    - Lexham English Bible (LEB)
+        - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
+        - Copyright © 2012
+    - Mounce Reverse Interlinear New Testament (MOUNCE)
+        - [1 Scholar]()
+        - Copyright © 2011
+    - GOD’S WORD Translation (GW)
+        - Lutheran
+        - [5 Scholars](https://godsword.org/pages/translation-history?_pos=2&_sid=dd8764b7e&_ss=r)
+        - Copyright © 1995, 2003, 2013, 2014, 2019, 2020
+    - Names of God Bible (NOG)
+        - This is derived from GOD's WORD (GW) 
+        - Copyright © 2011
+2. Bibles that have been supplanted
+    - International Children’s Bible (ICB)
+        - This has been supplanted by [NCV](https://en.wikipedia.org/wiki/New_Century_Version)
+        - The EXB above is derived from the NCV
+        - Copyright © 1986, 1988, 1999, 2015
+    
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. Jesus Deity</span>
 
