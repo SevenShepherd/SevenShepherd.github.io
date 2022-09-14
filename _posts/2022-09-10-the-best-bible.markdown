@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:40:00 -0500
+date: 2022-09-10 16:42:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -539,7 +539,7 @@ NET Translator Notes:
 
 > Isaiah 7:14 tn **Traditionally, “virgin.”** Because this verse from Isaiah is quoted in Matt 1:23 in connection with Jesus’ birth, the Isaiah passage has been regarded since the earliest Christian times as **a prophecy of Christ’s virgin birth**. Much debate has taken place over the best way to translate this Hebrew term, although ultimately one’s view of the doctrine of the virgin birth of Christ is unaffected. Though the Hebrew word used here (עַלְמָה, ʿalmah) can sometimes refer to a woman who is a virgin (Gen 24:43), it does not carry this meaning inherently. The word is simply the feminine form of the corresponding masculine noun עֶלֶם (ʿelem, “young man”; cf. 1 Sam 17:56; 20:22). The Aramaic and Ugaritic cognate terms are both used of women who are not virgins. The word seems to pertain to age, not sexual experience, and would normally be translated “young woman.” The LXX translator(s) who later translated the Book of Isaiah into Greek sometime between the second and first century b.c., however, rendered the Hebrew term by the more specific **Greek word παρθένος (parthenos), which does mean “virgin”** in a technical sense. This is the Greek term that also appears in the citation of Isa 7:14 in Matt 1:23. **Therefore, regardless of the meaning of the term in the OT context, in the NT Matthew’s usage of the Greek term παρθένος clearly indicates that from his perspective a virgin birth has taken place.**
 
-# The following versions have corrupted the word of god:
+# The following versions have corrupted the word of God:
 
 1. Complete Jewish Bible (CJB) © 1998
 1. Revised Standard Version (RSV) © 1946, 1952, and 1971
@@ -622,7 +622,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - Readability > 61.65%, Literalness > 67.99%
     - Copyright © 2021
 - **Lexham English Bible (LEB)**
-    - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
+    - [14 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
     - Copyright © 2012
 - **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
