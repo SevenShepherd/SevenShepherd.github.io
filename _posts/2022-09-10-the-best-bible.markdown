@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:10:00 -0500
+date: 2022-09-10 16:15:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -122,9 +122,8 @@ I will be reviewing the follow versions of the Bible.
 - XI. A Virgin or Young Woman?
 - XII. Jesus Deity
 - XIII. A Quick Overview
-- XIV. Computerized Statistical Analysis
-- XV. Bracketing, Footnotes, or Omission?
-- XVI. Conclusion
+- XIV. Bracketing, Footnotes, or Omission?
+- XV. Conclusion
 
 <!-- - XVI.
 - XVII.
@@ -591,18 +590,18 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 
 *Note: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
 
-1. **Disciples’ Literal New Testament (DLNT)** © 2011
-1. **Evangelical Heritage Version (EHV)** © 2019
-1. **Expanded Bible (EXB)** © 2011
-1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
-1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
-1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
-1. **International Standard Version (ISV)** © 1995-2014
-1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
-1. **Names of God Bible (NOG)** © 2011
-1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
-1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
-1. **Tree of Life Version (TLV)** © 2015
+1. Disciples’ Literal New Testament (DLNT) © 2011
+1. Evangelical Heritage Version (EHV) © 2019
+1. Expanded Bible (EXB) © 2011
+1. GOD’S WORD Translation (GW) © 1995, 2003, 2013, 2014, 2019, 2020
+1. Holman Christian Standard Bible (HCSB) © 1999, 2000, 2002, 2003, 2009
+1. International Children’s Bible (ICB) © 1986, 1988, 1999, 2015
+1. International Standard Version (ISV) © 1995-2014
+1. Mounce Reverse Interlinear New Testament (MOUNCE) © 2011
+1. Names of God Bible (NOG) © 2011
+1. New American Standard Bible (NASB) © 1960, 1971, 1977, 1995, 2020
+1. New American Standard Bible 1995 (NASB1995) © 1960, 1971, 1977, 1995
+1. Tree of Life Version (TLV) © 2015
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. A Quick Overview</span>
 
@@ -610,20 +609,24 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
 - There are **5/7** contenders remaining in the corner of the Critical Text.
+- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf).
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
-1. **English Standard Version (ESV)** 
+1. **English Standard Version (ESV)**
     - [100+ Scholars](https://www.esv.org/translation/)
+    - Readability 62.36%, Literalness 68.74%
     - Copyright © 2001, 2016
-2. **Legacy Standard Bible (LSB)** 
+2. **Legacy Standard Bible (LSB)**
     - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
+    - Readability > 61.65%, Literalness > 67.99%
     - Copyright © 2021
 3. **Lexham English Bible (LEB)**
     - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
     - Copyright © 2012
 6. **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
+    - Readability 60.32%, Literalness 65.21%
     - Copyright © 1982
 8. **World English Bible (WEB)**
     - Copyright Public Domain
@@ -643,8 +646,8 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
 12. **New English Translation (NET)**
-    - Middle school
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
+    - Readability 66.28%, Literalness 53.94%
     - Copyright © 1996-2017
 
 <!-- 9. **Evangelical Heritage Version (EHV)**
@@ -663,6 +666,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 14. **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Readability 70.08%, Literalness 39.90%
     - Copyright © 1996, 2004, 2015
 
 <!-- 13. **Expanded Bible (EXB)** 
@@ -697,13 +701,11 @@ The Bibles below have made it this far, but are being honorably discharged for t
         - The EXB above is derived from the NCV
         - Copyright © 1986, 1988, 1999, 2015 -->
     
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Computerized Statistical Analysis</span>
-
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Bracketing, Footnotes, or Omission?</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
 
 In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts.
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XVI. Conclusion</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Conclusion</span>
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
 
