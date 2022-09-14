@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:35:00 -0500
+date: 2022-09-10 16:40:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -756,7 +756,7 @@ When I study the Bible, I do so in parallel. Here is a list of recommended paral
 
 The *New Living Translation (NLT)* is the most readable version of the Bible on earth without compromising. 
 
-The *NET Bible Full Translator Notes Edition* are absolutely indispensable.
+The *NET Bible Full Translator Notes* are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
 
 The *New King James Version (NKJV)* was the Bible I grew up with, it is the main version I look to when referring to the Textus Receptus.
 
