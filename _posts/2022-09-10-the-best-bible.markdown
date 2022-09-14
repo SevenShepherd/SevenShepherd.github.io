@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:20:00 -0500
+date: 2022-09-10 16:25:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -703,40 +703,71 @@ The Bibles below have made it this far, but are being honorably discharged for t
     
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
 
-In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts.
+In my humble opinion, bracketing is preferable over footnotes and **omission is not an option** for a *Primary Bible*. Between bracketing and footnotes **there needs to be consistency**. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. Here are the verses in question:
+
+- Mt 9:34; 12:47; 17:21; 18:11; 21:44; 23:14
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=NET)
+- Mk 7:16; 9:44,46; 11:26; 15:28; 16:9-20
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=NET)
+- Lk 17:36; 22:20,43,44; 23:17; 24:12,40
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=NET)
+- Jn 5:4; 7:53-8:11
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=NET)
+- Ac 8:37; 15:34; 24:7; 28:29
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=NET)
+- Ro 16:24
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
+    - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=NET)
+
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+
+Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, consistently brackets verses that do not appear in our oldest and best manuscripts (Critical Text).
+
+> And He said to them, “Because of your little faith; for truly I say to you, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible to you. **21 [But this kind does not go out except by prayer and fasting.”]** &mdash; Mat 17:20-21 LSB (Legacy Standard Bible, update to NASB '95 & '77)
+
+The Lexham English Bible (LEB), English Standard Version (ESV), New English Translation (NET), and New Living Translation (NLT) consistentantly footnotes said verses in the previous verse in which it appears.
+
+- LEB footnotes
+    > Most later Greek manuscripts add **v. 21, “But this kind does not go out except by prayer and fasting.”**
+
+- ESV footnotes
+    > Some manuscripts insert verse **21: But this kind never comes out except by prayer and fasting**
+
+- NLT footnotes
+    > Some manuscripts add verse 21, **But this kind of demon won’t leave except by prayer and fasting.** Compare Mark 9:29.
+
+- NET Translator Notes
+    > d. Matthew 17:20 NET tc Many significant mss (א* B Θ 0281 33 579 892* e ff1 sys,c sa) do not include **17:21 “But this kind does not go out except by prayer and fasting.”** The verse is included in א2 C D L W Γ Δ ƒ1, 13 565 579 700 1241 1424 M al lat sy(p),h, but is almost certainly not original. As Metzger notes, “Since there is no satisfactory reason why the passage, if originally present in Matthew, should have been omitted in a wide variety of witnesses, and since copyists frequently inserted material derived from another Gospel, it appears that most manuscripts have been assimilated to the parallel in Mk 9.29” (TCGNT 35). The present translation follows NA28 in omitting the verse number as well, a procedure also followed by a number of other modern translations. 
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Conclusion</span>
 
-<!-- <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Primary Selection</span>
 
-John 1:18 "Only Begotten God"
-Romand 9:5 "God Over All"
-Jude 1:5 "Jesus saved a people out of Egypt"
-because we're losing 1 Tim 3:16 -->
+My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that *The Legacy Standard Bible (LSB)* is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
-<!--
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XVI. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XVII. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XVIII. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIX. ?</span>
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XX. ?</span> -->
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
 
+When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
 
-## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
+The *New Living Translation (NLT)* is the most readable version of the Bible on earth without compromising. 
 
-This article is still being written :) please be patient. God Bless.
+The *NET Bible Full Translator Notes Edition* are absolutely indispensable.
 
+The *New King James Version (NKJV)* was the Bible I grew up with, it is the main version I look to when referring to the Textus Receptus.
 
+The *World English Bible (WEB)* is the only Bible representing the actual Majority Text. Come on scholars get with the program, we need more like this.
+
+The *Expanded Bible (EXB)* missed the final lineup by hair. The EXB is an expansion of the [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html). The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'LEB'
+            bibleVersion: 'NASB'
         }
     }; 
 
