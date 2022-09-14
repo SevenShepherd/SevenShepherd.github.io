@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "Defending Jesus Deity: The Comprehensive Study ✝️"
-date: 2022-08-19 15:18:57 -0500
+date: 2022-08-19 16:00:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
+
+<style>
+    html * {
+        font-family: Times;
+    }
+</style>
 
 ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
 
