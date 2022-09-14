@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:07:00 -0500
+date: 2022-09-10 16:08:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -392,6 +392,9 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 
 *Note: The New King James Version (NKJV) footnotes: [Lit. Day Star]. It would otherwise have been eliminated.*
 
+<!-- *The following Bibles will not be removed because they're based on the Latin Vulgate. Lucifer, even though it's not accurate to the much older and much more correct Biblical Hebrew mss, the case here is unique.*
+- *Douay-Rheims 1899 American Edition (DRA) Public Domain*
+- *Wycliffe Bible (WYC) © 2001* -->
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
@@ -563,42 +566,45 @@ NET Translator Notes:
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are **11/13** contenders remaining in the corner of the Critical Text. There are some honorable mentions at the bottom of this section that were removed, which would have made it 17/19.
+- There are **12/14** contenders remaining in the corner of the Critical Text. There are some honorable mentions at the bottom of this section that were removed, which would have made it 17/19.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
-2. **English Standard Version (ESV)** 
+1. **English Standard Version (ESV)** 
     - [100+ Scholars](https://www.esv.org/translation/)
     - Copyright © 2001, 2016
-3. **Legacy Standard Bible (LSB)** 
+2. **Legacy Standard Bible (LSB)** 
     - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
     - Copyright © 2021
-6. **New American Standard Bible (NASB)** 
+3. **Lexham English Bible (LEB)**
+    - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
+    - Copyright © 2012
+4. **New American Standard Bible (NASB)** 
     - [73 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '95 & '77, otherwise 12
     - Copyright © 1960, 1971, 1977, 1995, 2020
-7. **New American Standard Bible 1995 (NASB1995)**
+5. **New American Standard Bible 1995 (NASB1995)**
     - [61 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '77, otherwise 19
     - Copyright © 1960, 1971, 1977, 1995
-8. **New King James Version (NKJV)**
+6. **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
     - Copyright © 1982
-9. **Tree of Life Version (TLV)**
+7. **Tree of Life Version (TLV)**
     - Copyright © 2015
-10. **World English Bible (WEB)**
+8. **World English Bible (WEB)**
     - Copyright Public Domain
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
-11. **Evangelical Heritage Version (EHV)**
+9. **Evangelical Heritage Version (EHV)**
     - Lutheran
     - Copyright © 2019
-12. **Holman Christian Standard Bible (HCSB)**
+10. **Holman Christian Standard Bible (HCSB)**
     - Protestant
     - 100 Scholars (International); 17 Denominations
     - Copyright © 1999, 2000, 2002, 2003, 2009
-13. **International Standard Version (ISV)** © 1995-2014
+11. **International Standard Version (ISV)** © 1995-2014
     - High School
-14. **New English Translation (NET)** 
+12. **New English Translation (NET)** 
     - Middle school
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
     - Copyright © 1996-2017
@@ -607,10 +613,10 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
-15. **Expanded Bible (EXB)** 
+13. **Expanded Bible (EXB)** 
     - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
     - Copyright © 2011
-19. **New Living Translation (NLT)**
+14. **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Copyright © 1996, 2004, 2015
 
@@ -622,13 +628,10 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 The Bibles below have made it this far, but are being honorably discharged for the reasons below.
 
-1. Bibles with less than 10 scholars will be honorably discharged
+1. Bibles with less than or equal to 5 scholars will be honorably discharged
     - Disciples’ Literal New Testament (DLNT)
         - [1 Scholar](https://www.biblegateway.com/versions/Disciples-Literal-New-Testament-DLNT/)
         - Copyright © 2011
-    - Lexham English Bible (LEB)
-        - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
-        - Copyright © 2012
     - Mounce Reverse Interlinear New Testament (MOUNCE)
         - [1 Scholar]()
         - Copyright © 2011
