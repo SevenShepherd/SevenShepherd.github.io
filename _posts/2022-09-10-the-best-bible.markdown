@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:42:00 -0500
+date: 2022-09-10 16:45:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -724,7 +724,7 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=NET)
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
 
 Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, consistently brackets verses that do not appear in our oldest and best manuscripts (Critical Text).
 
