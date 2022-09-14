@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:08:00 -0500
+date: 2022-09-10 16:10:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -120,8 +120,8 @@ I will be reviewing the follow versions of the Bible.
 - IX. Which Textual Criticism Methodology?
 - X. Gender Inclusivness?
 - XI. A Virgin or Young Woman?
-- XII. A Quick Overview
-- XIII. Jesus Deity
+- XII. Jesus Deity
+- XIII. A Quick Overview
 - XIV. Computerized Statistical Analysis
 - XV. Bracketing, Footnotes, or Omission?
 - XVI. Conclusion
@@ -561,12 +561,55 @@ NET Translator Notes:
 1. *Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966*
 1. *The Voice (VOICE) © 2012*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. A Quick Overview</span>
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
+
+I recently wrote an article covering most all of the verses in the Bible dealing with [Jesus deity](https://sevenshepherd.github.io/deity/). There are about 4 out of approximately 40 that are specific to textual basis. They should be represented in Bibles since they come from our oldest and best manuscripts. Let's look at a few.
+
+The Textus Receptus
+
+> And without controversy great is the mystery of godliness: <span style="font-weight:Bold;color:Green;">God was manifested in the flesh</span>, Justified in the Spirit, Seen by angels, Preached among the Gentiles, Believed on in the world, Received up in glory. &mdash; 1 Timothy 3:16 NKJV (New King James Version)
+
+The Majority Text
+
+> Without controversy, the mystery of godliness is great: <span style="font-weight:Bold;color:Green;">God was revealed in the flesh</span>, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory. &mdash; 1 Timothy 3:16 WEB (World English Bible)
+
+The Critical Text
+
+> Now I want to remind you, although you once fully knew it, that <span style="font-weight:Bold;color:Green;">Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe.</span> &mdash; Jude 1:5 ESV (English Standard Version)
+>
+Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho 13:4; Gen 19:24
+
+> No one has seen God at any time; <span style="font-weight:Bold;color:Green;">the only begotten God</span> who is in the bosom of the Father, He has explained Him. &mdash; John 1:18 LSB
+
+<!-- > To them belong the patriarchs, and from their race, according to the flesh, is <span style="font-weight:Bold;color:Green;">the Christ, who is God over all</span>, blessed forever. Amen. &mdash; Romans 9:5 ESV (English Standard Version) -->
+
+<!-- > to whom belong the patriarchs, and from whom is the Christ according to human descent, who is God over all, blessed forever[a]! Amen. &mdash; Romans 9:5 LEB (Lexham English Bible) -->
+
+> To them belong the patriarchs, and from them, by human descent, came <span style="font-weight:Bold;color:Green;">the Christ, who is God over all</span>, blessed forever! Amen. &mdash; Romans 9:5 NET (New English Translation)
+
+# The following versions have been eliminated:
+
+*Note: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
+
+1. **Disciples’ Literal New Testament (DLNT)** © 2011
+1. **Evangelical Heritage Version (EHV)** © 2019
+1. **Expanded Bible (EXB)** © 2011
+1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
+1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
+1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
+1. **International Standard Version (ISV)** © 1995-2014
+1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
+1. **Names of God Bible (NOG)** © 2011
+1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
+1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
+1. **Tree of Life Version (TLV)** © 2015
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are **12/14** contenders remaining in the corner of the Critical Text. There are some honorable mentions at the bottom of this section that were removed, which would have made it 17/19.
+- There are **5/7** contenders remaining in the corner of the Critical Text.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
@@ -579,23 +622,32 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 3. **Lexham English Bible (LEB)**
     - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
     - Copyright © 2012
-4. **New American Standard Bible (NASB)** 
+6. **New King James Version (NKJV)**
+    - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
+    - Copyright © 1982
+8. **World English Bible (WEB)**
+    - Copyright Public Domain
+
+<!-- 4. **New American Standard Bible (NASB)** 
     - [73 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '95 & '77, otherwise 12
     - Copyright © 1960, 1971, 1977, 1995, 2020
 5. **New American Standard Bible 1995 (NASB1995)**
     - [61 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '77, otherwise 19
-    - Copyright © 1960, 1971, 1977, 1995
-6. **New King James Version (NKJV)**
-    - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
-    - Copyright © 1982
-7. **Tree of Life Version (TLV)**
-    - Copyright © 2015
-8. **World English Bible (WEB)**
-    - Copyright Public Domain
+    - Copyright © 1960, 1971, 1977, 1995 -->
+
+<!-- 7. **Tree of Life Version (TLV)**
+    - The TLV translation team is composed of scholars from five international Messianic Jewish organizations.
+    - [31 Scholars](https://tlvbiblesociety.org/pages/our-translation#translation-team)
+    - Copyright © 2015 -->
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
-9. **Evangelical Heritage Version (EHV)**
+12. **New English Translation (NET)**
+    - Middle school
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
+    - Copyright © 1996-2017
+
+<!-- 9. **Evangelical Heritage Version (EHV)**
     - Lutheran
     - Copyright © 2019
 10. **Holman Christian Standard Bible (HCSB)**
@@ -603,28 +655,25 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - 100 Scholars (International); 17 Denominations
     - Copyright © 1999, 2000, 2002, 2003, 2009
 11. **International Standard Version (ISV)** © 1995-2014
-    - High School
-12. **New English Translation (NET)** 
-    - Middle school
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
-    - Copyright © 1996-2017
+    - High School -->
 
 *Note: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
-13. **Expanded Bible (EXB)** 
-    - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
-    - Copyright © 2011
 14. **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Copyright © 1996, 2004, 2015
+
+<!-- 13. **Expanded Bible (EXB)** 
+    - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
+    - Copyright © 2011 -->
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
 <!-- 22. **Phillips New Testament (PHILLIPS)** © 1960, 1972 -->
 
-# Honorable Mentions
+<!-- # Honorable Mentions
 
 The Bibles below have made it this far, but are being honorably discharged for the reasons below.
 
@@ -646,16 +695,15 @@ The Bibles below have made it this far, but are being honorably discharged for t
     - International Children’s Bible (ICB)
         - This has been supplanted by [NCV](https://en.wikipedia.org/wiki/New_Century_Version)
         - The EXB above is derived from the NCV
-        - Copyright © 1986, 1988, 1999, 2015
+        - Copyright © 1986, 1988, 1999, 2015 -->
     
-
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. Jesus Deity</span>
-
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Computerized Statistical Analysis</span>
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Bracketing, Footnotes, or Omission?</span>
 
 In my humble opinion, **omission is not an option**. Between bracketing and footnotes there needs to be consistency. Let's look at a few controversial verses that are not found in our oldest and best manuscripts.
+
+<span style="font-family:Times;font-style:Italic;font-size:34px;">XVI. Conclusion</span>
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. Critical Text Bible Must Contain These Verses!</span>
 
