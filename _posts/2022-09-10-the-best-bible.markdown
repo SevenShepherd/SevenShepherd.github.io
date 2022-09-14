@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:50:00 -0500
+date: 2022-09-10 16:55:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -766,6 +766,8 @@ The ***New Living Translation (NLT)*** is the most readable version of the Bible
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
 
 The ***Expanded Bible (EXB)*** missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
+The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
 
 The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
 
