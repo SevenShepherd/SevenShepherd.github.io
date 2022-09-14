@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:15:00 -0500
+date: 2022-09-10 16:20:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -613,22 +613,22 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
-1. **English Standard Version (ESV)**
+- **English Standard Version (ESV)**
     - [100+ Scholars](https://www.esv.org/translation/)
     - Readability 62.36%, Literalness 68.74%
     - Copyright © 2001, 2016
-2. **Legacy Standard Bible (LSB)**
+- **Legacy Standard Bible (LSB)**
     - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
     - Readability > 61.65%, Literalness > 67.99%
     - Copyright © 2021
-3. **Lexham English Bible (LEB)**
+- **Lexham English Bible (LEB)**
     - [7 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
     - Copyright © 2012
-6. **New King James Version (NKJV)**
+- **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
     - Readability 60.32%, Literalness 65.21%
     - Copyright © 1982
-8. **World English Bible (WEB)**
+- **World English Bible (WEB)**
     - Copyright Public Domain
 
 <!-- 4. **New American Standard Bible (NASB)** 
@@ -645,7 +645,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
-12. **New English Translation (NET)**
+- **New English Translation (NET)**
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
     - Readability 66.28%, Literalness 53.94%
     - Copyright © 1996-2017
@@ -664,7 +664,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
-14. **New Living Translation (NLT)**
+- **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Readability 70.08%, Literalness 39.90%
     - Copyright © 1996, 2004, 2015
