@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:47:00 -0500
+date: 2022-09-10 16:50:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -748,23 +748,32 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Primary Selection</span>
 
-My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [*The Legacy Standard Bible (LSB)*](https://lsbible.org/) is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
 
 When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
 
-The *English Standard Version (ESV)* remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
+The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
 
-The *New Living Translation (NLT)* is the most readable version of the Bible on earth without compromising. 
+The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
 
-The *NET Bible Full Translator Notes* are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
+The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromising. 
 
-The *New King James Version (NKJV)* was the Bible I grew up with, it is the main version I look to when referring to the Textus Receptus.
 
-The *World English Bible (WEB)* is the only Bible representing the actual Majority Text. Come on scholars get with the program, we need more like this.
+<span style="font-family:Times;font-style:Italic;font-size:26px;">Honorable Mentions</span>
 
-The *Expanded Bible (EXB)* missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+<!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
+
+The ***Expanded Bible (EXB)*** missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
+The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
+
+The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
+
+The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more like this.
+
+
 
 <script>
     var refTagger = {
