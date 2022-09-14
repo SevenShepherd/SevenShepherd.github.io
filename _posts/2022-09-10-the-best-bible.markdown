@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:02:00 -0500
+date: 2022-09-10 16:03:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -78,7 +78,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Modern English Version (MEV)** © 2014
 1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
 1. **Names of God Bible (NOG)** © 2011
-1. **New American Bible (Revised Edition) (NABRE)** © 2010, 1991, 1986, 1970 
+1. New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970 
 1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
 1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
 1. New Catholic Bible (NCB) © 2019
@@ -91,7 +91,7 @@ I will be reviewing the follow versions of the Bible.
 1. **New Life Version (NLV)** © 1969, 2003
 1. **New Living Translation (NLT)** © 1996, 2004, 2015 
 1. **New Matthew Bible (NMB)** © 2016
-1. **New Revised Standard Version, Anglicised (NRSVA)** © 1989, 1995
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021
@@ -139,6 +139,7 @@ I will be reviewing the follow versions of the Bible.
 1. New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970 
 1. New Catholic Bible (NCB) © 2019
 1. New International Version UK (NIVUK) © 1979, 1984, 2011
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
@@ -484,6 +485,10 @@ Here are two examples of translations completely butchering the Greek scriptures
 
 > “Brothers <span style="font-weight:Bold;color:Red;">and sisters</span>, it was necessary that the Scripture be fulfilled, which the Holy Spirit foretold by the lips of David [king of Israel] about Judas [Iscariot], who acted as guide to those who arrested Jesus. &mdash; Acts 1:16 AMP (Amplified Bible)
 
+NET Translator Notes:
+
+> a. Acts 1:16 tn Grk “Men brothers.” In light of the compound phrase ἄνδρες ἀδελφοί (andres adelphoi, “Men brothers”) **Peter’s words are best understood as directly addressed to the males present**, possibly referring specifically to the twelve (really ten at this point—eleven minus the speaker, Peter) mentioned by name in v. 13. 
+
 # The following versions will be eliminated for perverting God's word:
 
 1. Amplified Bible (AMP) © 2015
@@ -497,15 +502,24 @@ Here are two examples of translations completely butchering the Greek scriptures
 1. New International Reader's Version (NIRV) © 1995, 1996, 1998, 2014
 1. New International Version (NIV) © 1973, 1978, 1984, 2011
 <!-- 1. New International Version UK (NIVUK) © 1979, 1984, 2011 -->
-1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
+<!-- 1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995 -->
 <!-- 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995 -->
 <!-- 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993 -->
-1. New Revised Standard Version Updated Edition (NRSVUE) © 2021
+<!-- 1. New Revised Standard Version Updated Edition (NRSVUE) © 2021 -->
 1. New Testament for Everyone (NTE) © 2011
 1. The Voice (VOICE) © 2012
 1. Worldwide English (WE) © 1969, 1971, 1996, 1998
 
 *Notes: The Expanded Bible (EXB) contains the literal translation even though it is derived from the NCV which was eliminated, It would otherwise have been eliminated.*
+
+*As a side note, the following versions would have been removed had they not already been disqualified:*
+1. *Contemporary English Version (CEV) © 1995*
+1. *The Message (MSG) © 1993, 2002, 2018*
+1. *New International Version UK (NIVUK) © 1979, 1984, 2011*
+1. *New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995*
+1. *New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995*
+1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
+1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
 
 
 <span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Quick Overview</span>
@@ -513,7 +527,7 @@ Here are two examples of translations completely butchering the Greek scriptures
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are 21 contenders remaining in the corner of the Critical Text.
+- There are 19/21 contenders remaining in the corner of the Critical Text.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalent "Word-For-Word"</span>
 
