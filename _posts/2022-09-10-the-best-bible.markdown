@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:45:00 -0500
+date: 2022-09-10 16:47:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -753,6 +753,8 @@ My *Primary Bible* is very important and must adhere to every aforementioned lit
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
 
 When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
+
+The *English Standard Version (ESV)* remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
 
 The *New Living Translation (NLT)* is the most readable version of the Bible on earth without compromising. 
 
