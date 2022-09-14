@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 16:30:00 -0500
+date: 2022-09-10 16:35:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -748,7 +748,7 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Primary Selection</span>
 
-My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that *The Legacy Standard Bible (LSB)* is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [*The Legacy Standard Bible (LSB)*](https://lsbible.org/) is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
 
@@ -762,7 +762,7 @@ The *New King James Version (NKJV)* was the Bible I grew up with, it is the main
 
 The *World English Bible (WEB)* is the only Bible representing the actual Majority Text. Come on scholars get with the program, we need more like this.
 
-The *Expanded Bible (EXB)* missed the final lineup by hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+The *Expanded Bible (EXB)* missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
 <script>
     var refTagger = {
