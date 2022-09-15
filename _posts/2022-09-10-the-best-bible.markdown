@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 17:00:00 -0500
+date: 2022-09-10 17:10:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -454,6 +454,262 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 > "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
 
 It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 i'd rather investigate our current Greek New Testament manuscript.
+
+>
+<table>
+<tbody><tr>
+<td  align="center"><b>Sign</b>
+</td>
+<td  align="center"><b>Name</b>
+</td>
+<td  align="center"><b>Date</b>
+</td>
+<td  align="center"><b>Content</b>
+</td>
+<td  align="center"><b>Discovery</b>
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>45</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_45" title="Papyrus 45">Chester Beatty I</a>
+</td>
+<td  align="center">3rd
+</td>
+<td  align="center">fragments of Gospels, Acts
+</td>
+<td  align="center">1931
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>46</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_46" title="Papyrus 46">Chester Beatty II</a>
+</td>
+<td  align="center">c. 200
+</td>
+<td  align="center">Pauline epistles
+</td>
+<td  align="center">1931
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>47</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_47" title="Papyrus 47">Chester Beatty III</a>
+</td>
+<td  align="center">3rd
+</td>
+<td  align="center">fragments of Revelation
+</td>
+<td  align="center">1931
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>66</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_66" title="Papyrus 66">Bodmer II</a>
+</td>
+<td  align="center">c. 200
+</td>
+<td  align="center">Gospel of John
+</td>
+<td  align="center">1952
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>72</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_72" title="Papyrus 72">Bodmer VII/VIII</a>
+</td>
+<td  align="center">3rd/4th
+</td>
+<td  align="center">Jude; 1-2 Peter
+</td>
+<td  align="center">1952
+</td></tr>
+<tr>
+<td  align="center"><span class="nowrap">𝔓<sup>75</sup></span>
+</td>
+<td  align="center"><a href="/wiki/Papyrus_75" title="Papyrus 75">Bodmer XIV-XV</a>
+</td>
+<td  align="center">3rd
+</td>
+<td  align="center">Gospels of Luke and John
+</td>
+<td  align="center">1952
+</td></tr>
+<tr>
+<td  align="center">א
+</td>
+<td  align="center"><a href="/wiki/Codex_Sinaiticus" title="Codex Sinaiticus">Codex Sinaiticus</a>
+</td>
+<td  align="center">330-360
+</td>
+<td  align="center">NT
+</td>
+<td  align="center">1844
+</td></tr>
+<tr>
+<td  align="center">B
+</td>
+<td  align="center"><a href="/wiki/Codex_Vaticanus" title="Codex Vaticanus">Codex Vaticanus</a>
+</td>
+<td  align="center">325-350
+</td>
+<td  align="center">Matt. — Hbr 9, 14
+</td>
+<td  align="center">16th century?
+</td></tr>
+<tr>
+<td  align="center">A
+</td>
+<td  align="center"><a href="/wiki/Codex_Alexandrinus" title="Codex Alexandrinus">Codex Alexandrinus</a>
+</td>
+<td  align="center">c. 400
+</td>
+<td  align="center">(except Gospels)
+</td>
+<td  align="center">17th century
+</td></tr>
+<tr>
+<td  align="center">C
+</td>
+<td  align="center"><a href="/wiki/Codex_Ephraemi_Rescriptus" title="Codex Ephraemi Rescriptus">Codex Ephraemi Rescriptus</a>
+</td>
+<td  align="center">5th
+</td>
+<td  align="center">(except Gospels)
+</td>
+<td  align="center">17th century?
+</td></tr>
+<tr>
+<td  align="center">Q
+</td>
+<td  align="center"><a href="/wiki/Codex_Guelferbytanus_B" title="Codex Guelferbytanus B">Codex Guelferbytanus B</a>
+</td>
+<td  align="center">5th
+</td>
+<td  align="center">fragments Luke — John
+</td>
+<td  align="center">18th century
+</td></tr>
+<tr>
+<td  align="center">T
+</td>
+<td  align="center"><a href="/wiki/Codex_Borgianus" title="Codex Borgianus">Codex Borgianus</a>
+</td>
+<td  align="center">5th
+</td>
+<td  align="center">fragments Luke — John
+</td>
+<td  align="center">18th century
+</td></tr>
+<tr>
+<td  align="center">I
+</td>
+<td  align="center"><a href="/wiki/Codex_Freerianus" title="Codex Freerianus">Codex Freerianus</a>
+</td>
+<td  align="center">5th
+</td>
+<td  align="center">Pauline epistles
+</td>
+<td  align="center">1906
+</td></tr>
+<tr>
+<td  align="center">Z
+</td>
+<td  align="center"><a href="/wiki/Codex_Dublinensis" title="Codex Dublinensis">Codex Dublinensis</a>
+</td>
+<td  align="center">6th
+</td>
+<td  align="center">fragments of Matt.
+</td>
+<td  align="center">1787
+</td></tr>
+<tr>
+<td  align="center">L
+</td>
+<td  align="center"><a href="/wiki/Codex_Regius_(New_Testament)" title="Codex Regius (New Testament)">Codex Regius</a>
+</td>
+<td  align="center">8th
+</td>
+<td  align="center">Gospels
+</td>
+<td  align="center">18th century?
+</td></tr>
+<tr>
+<td  align="center">W
+</td>
+<td  align="center"><a href="/wiki/Codex_Washingtonianus" title="Codex Washingtonianus">Codex Washingtonianus</a>
+</td>
+<td  align="center">5th
+</td>
+<td  align="center">Luke 1:1–8:12; J 5:12–21:25
+</td>
+<td  align="center">1906
+</td></tr>
+<tr>
+<td  align="center">057
+</td>
+<td  align="center"><a href="/wiki/Uncial_057" title="Uncial 057">Uncial 057</a>
+</td>
+<td  align="center">4/5th
+</td>
+<td  align="center">Acts 3:5–6,10-12
+</td>
+<td  align="center">20th century?
+</td></tr>
+<tr>
+<td  align="center">0220
+</td>
+<td  align="center"><a href="/wiki/Uncial_0220" title="Uncial 0220">Uncial 0220</a>
+</td>
+<td  align="center">6th
+</td>
+<td  align="center">NT (except Rev.)
+</td>
+<td  align="center">1950
+</td></tr>
+<tr>
+<td  align="center">33
+</td>
+<td  align="center"><a href="/wiki/Minuscule_33" title="Minuscule 33">Minuscule 33</a>
+</td>
+<td  align="center">9th
+</td>
+<td  align="center">Romans
+</td>
+<td  align="center">18th century?
+</td></tr>
+<tr>
+<td  align="center">81
+</td>
+<td  align="center"><a href="/wiki/Minuscule_81" title="Minuscule 81">Minuscule 81</a>
+</td>
+<td  align="center">1044
+</td>
+<td  align="center">Acts, Paul
+</td>
+<td  align="center">1853
+</td></tr>
+<tr>
+<td  align="center">892
+</td>
+<td  align="center"><a href="/wiki/Minuscule_892" title="Minuscule 892">Minuscule 892</a>
+</td>
+<td  align="center">9th
+</td>
+<td  align="center">Gospels
+</td>
+<td  align="center">1877
+</td></tr>
+</tbody></table>
+
+<b>Papyri: </b> 
+<span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_1" title="Papyrus 1">𝔓<sup>1</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_4" title="Papyrus 4">𝔓<sup>4</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_5" class="mw-redirect" title="Papyrus 5">𝔓<sup>5</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_6" title="Papyrus 6">𝔓<sup>6</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_8" title="Papyrus 8">𝔓<sup>8</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_9" title="Papyrus 9">𝔓<sup>9</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_10" title="Papyrus 10">𝔓<sup>10</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_11" title="Papyrus 11">𝔓<sup>11</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_12" title="Papyrus 12">𝔓<sup>12</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_13" title="Papyrus 13">𝔓<sup>13</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_14" title="Papyrus 14">𝔓<sup>14</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_15" title="Papyrus 15">𝔓<sup>15</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_16" title="Papyrus 16">𝔓<sup>16</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_17" title="Papyrus 17">𝔓<sup>17</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_18" title="Papyrus 18">𝔓<sup>18</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_19" title="Papyrus 19">𝔓<sup>19</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_20" title="Papyrus 20">𝔓<sup>20</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_22" title="Papyrus 22">𝔓<sup>22</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_23" title="Papyrus 23">𝔓<sup>23</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_24" title="Papyrus 24">𝔓<sup>24</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_26" title="Papyrus 26">𝔓<sup>26</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_27" title="Papyrus 27">𝔓<sup>27</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_28" title="Papyrus 28">𝔓<sup>28</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_29" title="Papyrus 29">𝔓<sup>29</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_30" title="Papyrus 30">𝔓<sup>30</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_31" title="Papyrus 31">𝔓<sup>31</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_32" title="Papyrus 32">𝔓<sup>32</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_33" title="Papyrus 33">𝔓<sup>33</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_34" title="Papyrus 34">𝔓<sup>34</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_35" title="Papyrus 35">𝔓<sup>35</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_37" title="Papyrus 37">𝔓<sup>37</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_39" title="Papyrus 39">𝔓<sup>39</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_40" title="Papyrus 40">𝔓<sup>40</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_43" title="Papyrus 43">𝔓<sup>43</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_44" title="Papyrus 44">𝔓<sup>44</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_49" title="Papyrus 49">𝔓<sup>49</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_51" title="Papyrus 51">𝔓<sup>51</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_53" title="Papyrus 53">𝔓<sup>53</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_55" title="Papyrus 55">𝔓<sup>55</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_56" title="Papyrus 56">𝔓<sup>56</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_57" title="Papyrus 57">𝔓<sup>57</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_61" title="Papyrus 61">𝔓<sup>61</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_62" title="Papyrus 62">𝔓<sup>62</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_64" class="mw-redirect" title="Papyrus 64">𝔓<sup>64</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_65" title="Papyrus 65">𝔓<sup>65</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_70" title="Papyrus 70">𝔓<sup>70</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_71" title="Papyrus 71">𝔓<sup>71</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_74" title="Papyrus 74">𝔓<sup>74</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_77" title="Papyrus 77">𝔓<sup>77</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_78" title="Papyrus 78">𝔓<sup>78</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_79" title="Papyrus 79">𝔓<sup>79</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_80" title="Papyrus 80">𝔓<sup>80</sup></a></span> (?), <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_81" title="Papyrus 81">𝔓<sup>81</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_82" title="Papyrus 82">𝔓<sup>82</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_85" title="Papyrus 85">𝔓<sup>85</sup></a></span> (?), <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_86" title="Papyrus 86">𝔓<sup>86</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_87" title="Papyrus 87">𝔓<sup>87</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_90" title="Papyrus 90">𝔓<sup>90</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_91" title="Papyrus 91">𝔓<sup>91</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_92" title="Papyrus 92">𝔓<sup>92</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_95" title="Papyrus 95">𝔓<sup>95</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_100" title="Papyrus 100">𝔓<sup>100</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_104" title="Papyrus 104">𝔓<sup>104</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_106" title="Papyrus 106">𝔓<sup>106</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_107" title="Papyrus 107">𝔓<sup>107</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_108" title="Papyrus 108">𝔓<sup>108</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_110" title="Papyrus 110">𝔓<sup>110</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_111" title="Papyrus 111">𝔓<sup>111</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_115" title="Papyrus 115">𝔓<sup>115</sup></a></span>, <span class="nowrap"><a href="https://en.wikipedia.org/wiki/Papyrus_122" title="Papyrus 122">𝔓<sup>122</sup></a></span>.
+
+<b>Uncials: </b> 
+<a href="https://en.wikipedia.org/wiki/Codex_Coislinianus" title="Codex Coislinianus">Codex Coislinianus</a>, <a href="https://en.wikipedia.org/wiki/Codex_Porphyrianus" title="Codex Porphyrianus">Porphyrianus</a> (except Acts, Rev), <a href="https://en.wikipedia.org/wiki/Codex_Dublinensis" title="Codex Dublinensis">Dublinensis</a>, <a href="https://en.wikipedia.org/wiki/Codex_Sangallensis_48" title="Codex Sangallensis 48">Sangallensis</a> (only in Mark), <a href="https://en.wikipedia.org/wiki/Codex_Zacynthius" title="Codex Zacynthius">Zacynthius</a>, <a href="https://en.wikipedia.org/wiki/Codex_Athous_Lavrensis" title="Codex Athous Lavrensis">Athous Lavrensis</a> (in Mark and Cath. epistles), <a href="https://en.wikipedia.org/wiki/Codex_Vaticanus_2061" title="Codex Vaticanus 2061">Vaticanus 2061</a>, <a href="https://en.wikipedia.org/wiki/Uncial_059" title="Uncial 059">059</a>, <a href="https://en.wikipedia.org/wiki/Uncial_068" title="Uncial 068">068</a>, <a href="https://en.wikipedia.org/wiki/Uncial_070" title="Uncial 070">070</a>, <a href="https://en.wikipedia.org/wiki/Uncial_071" title="Uncial 071">071</a>, <a href="https://en.wikipedia.org/wiki/Uncial_073" title="Uncial 073">073</a>, <a href="https://en.wikipedia.org/wiki/Uncial_076" title="Uncial 076">076</a>, <a href="https://en.wikipedia.org/wiki/Uncial_077" title="Uncial 077">077</a>, <a href="https://en.wikipedia.org/wiki/Uncial_081" class="mw-redirect" title="Uncial 081">081</a>, <a href="https://en.wikipedia.org/wiki/Uncial_083" title="Uncial 083">083</a>, <a href="https://en.wikipedia.org/wiki/Uncial_085" title="Uncial 085">085</a>, <a href="https://en.wikipedia.org/wiki/Uncial_087" title="Uncial 087">087</a>, <a href="https://en.wikipedia.org/wiki/Uncial_088" title="Uncial 088">088</a>, <a href="https://en.wikipedia.org/wiki/Uncial_089" title="Uncial 089">089</a>, <a href="https://en.wikipedia.org/wiki/Uncial_091" title="Uncial 091">091</a>, <a href="https://en.wikipedia.org/wiki/Uncial_093" title="Uncial 093">093</a> (except Acts), <a href="https://en.wikipedia.org/wiki/Uncial_094" title="Uncial 094">094</a>, <a href="https://en.wikipedia.org/wiki/Uncial_096" title="Uncial 096">096</a>, <a href="https://en.wikipedia.org/wiki/Uncial_098" title="Uncial 098">098</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0101" title="Uncial 0101">0101</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0102" title="Uncial 0102">0102</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0108" title="Uncial 0108">0108</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0111" title="Uncial 0111">0111</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0114" title="Uncial 0114">0114</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0129" class="mw-redirect" title="Uncial 0129">0129</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0142" title="Uncial 0142">0142</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0155" title="Uncial 0155">0155</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0156" title="Uncial 0156">0156</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0162" title="Uncial 0162">0162</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0167" title="Uncial 0167">0167</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0172" title="Uncial 0172">0172</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0173" title="Uncial 0173">0173</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0175" title="Uncial 0175">0175</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0181" title="Uncial 0181">0181</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0183" title="Uncial 0183">0183</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0184" title="Uncial 0184">0184</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0185" title="Uncial 0185">0185</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0189" title="Uncial 0189">0189</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0201" title="Uncial 0201">0201</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0204" title="Uncial 0204">0204</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0205" title="Uncial 0205">0205</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0207" title="Uncial 0207">0207</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0223" title="Uncial 0223">0223</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0225" title="Uncial 0225">0225</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0232" title="Uncial 0232">0232</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0234" title="Uncial 0234">0234</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0240" title="Uncial 0240">0240</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0243" title="Uncial 0243">0243</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0244" title="Uncial 0244">0244</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0245" title="Uncial 0245">0245</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0247" title="Uncial 0247">0247</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0254" title="Uncial 0254">0254</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0270" title="Uncial 0270">0270</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0271" title="Uncial 0271">0271</a>, <a href="https://en.wikipedia.org/wiki/Uncial_0274" title="Uncial 0274">0274</a>.
+
+<b>Minuscules: </b> <a href="https://en.wikipedia.org/wiki/Minuscule_20" title="Minuscule 20">20</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_94" title="Minuscule 94">94</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_104" title="Minuscule 104">104</a> (Epistles), <a href="https://en.wikipedia.org/wiki/Minuscule_157" title="Minuscule 157">157</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_164" title="Minuscule 164">164</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_215" title="Minuscule 215">215</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_241" title="Minuscule 241">241</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_254" title="Minuscule 254">254</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_256" title="Minuscule 256">256</a> (Paul), <a href="https://en.wikipedia.org/wiki/Minuscule_322" title="Minuscule 322">322</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_323" title="Minuscule 323">323</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_326" title="Minuscule 326">326</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_376" title="Minuscule 376">376</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_383" title="Minuscule 383">383</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_442" title="Minuscule 442">442</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_579" title="Minuscule 579">579</a> (except Matthew), <a href="https://en.wikipedia.org/wiki/Minuscule_614" title="Minuscule 614">614</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_718" title="Minuscule 718">718</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_850_(Gregory-Aland)" class="mw-redirect" title="Minuscule 850 (Gregory-Aland)">850</a>, 1006, 1175, <a href="https://en.wikipedia.org/wiki/Minuscule_1241" title="Minuscule 1241">1241</a> (except Acts), 1243, 1292 (Cath.), 1342 (Mark), 1506 (Paul), 1611, <a href="https://en.wikipedia.org/wiki/Minuscule_1739" title="Minuscule 1739">1739</a>, 1841, 1852, 1908, 2040, <a href="https://en.wikipedia.org/wiki/Minuscule_2053" title="Minuscule 2053">2053</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_2062" title="Minuscule 2062">2062</a>, 2298, <a href="https://en.wikipedia.org/wiki/Minuscule_2344" title="Minuscule 2344">2344</a> (CE, Rev), 2351, <a href="https://en.wikipedia.org/wiki/Minuscule_2427" title="Minuscule 2427">2427</a>, <a href="https://en.wikipedia.org/wiki/Minuscule_2464" title="Minuscule 2464">2464</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+*Source: [Alexandrian text-type](https://en.wikipedia.org/wiki/Alexandrian_text-type)*
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Majority Text</span>
 
