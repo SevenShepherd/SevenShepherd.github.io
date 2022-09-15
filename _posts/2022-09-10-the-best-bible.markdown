@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Bible Is Best? 📖"
-date: 2022-09-10 17:10:00 -0500
+date: 2022-09-10 17:21:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -471,7 +471,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>45</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_45" title="Papyrus 45">Chester Beatty I</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_45" title="Papyrus 45">Chester Beatty I</a>
 </td>
 <td  align="center">3rd
 </td>
@@ -482,7 +482,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>46</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_46" title="Papyrus 46">Chester Beatty II</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_46" title="Papyrus 46">Chester Beatty II</a>
 </td>
 <td  align="center">c. 200
 </td>
@@ -493,7 +493,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>47</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_47" title="Papyrus 47">Chester Beatty III</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_47" title="Papyrus 47">Chester Beatty III</a>
 </td>
 <td  align="center">3rd
 </td>
@@ -504,7 +504,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>66</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_66" title="Papyrus 66">Bodmer II</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_66" title="Papyrus 66">Bodmer II</a>
 </td>
 <td  align="center">c. 200
 </td>
@@ -515,7 +515,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>72</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_72" title="Papyrus 72">Bodmer VII/VIII</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_72" title="Papyrus 72">Bodmer VII/VIII</a>
 </td>
 <td  align="center">3rd/4th
 </td>
@@ -526,7 +526,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center"><span class="nowrap">𝔓<sup>75</sup></span>
 </td>
-<td  align="center"><a href="/wiki/Papyrus_75" title="Papyrus 75">Bodmer XIV-XV</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Papyrus_75" title="Papyrus 75">Bodmer XIV-XV</a>
 </td>
 <td  align="center">3rd
 </td>
@@ -537,7 +537,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">א
 </td>
-<td  align="center"><a href="/wiki/Codex_Sinaiticus" title="Codex Sinaiticus">Codex Sinaiticus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Sinaiticus" title="Codex Sinaiticus">Codex Sinaiticus</a>
 </td>
 <td  align="center">330-360
 </td>
@@ -548,7 +548,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">B
 </td>
-<td  align="center"><a href="/wiki/Codex_Vaticanus" title="Codex Vaticanus">Codex Vaticanus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Vaticanus" title="Codex Vaticanus">Codex Vaticanus</a>
 </td>
 <td  align="center">325-350
 </td>
@@ -559,7 +559,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">A
 </td>
-<td  align="center"><a href="/wiki/Codex_Alexandrinus" title="Codex Alexandrinus">Codex Alexandrinus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Alexandrinus" title="Codex Alexandrinus">Codex Alexandrinus</a>
 </td>
 <td  align="center">c. 400
 </td>
@@ -570,7 +570,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">C
 </td>
-<td  align="center"><a href="/wiki/Codex_Ephraemi_Rescriptus" title="Codex Ephraemi Rescriptus">Codex Ephraemi Rescriptus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus" title="Codex Ephraemi Rescriptus">Codex Ephraemi Rescriptus</a>
 </td>
 <td  align="center">5th
 </td>
@@ -581,7 +581,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">Q
 </td>
-<td  align="center"><a href="/wiki/Codex_Guelferbytanus_B" title="Codex Guelferbytanus B">Codex Guelferbytanus B</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Guelferbytanus_B" title="Codex Guelferbytanus B">Codex Guelferbytanus B</a>
 </td>
 <td  align="center">5th
 </td>
@@ -592,7 +592,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">T
 </td>
-<td  align="center"><a href="/wiki/Codex_Borgianus" title="Codex Borgianus">Codex Borgianus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Borgianus" title="Codex Borgianus">Codex Borgianus</a>
 </td>
 <td  align="center">5th
 </td>
@@ -603,7 +603,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">I
 </td>
-<td  align="center"><a href="/wiki/Codex_Freerianus" title="Codex Freerianus">Codex Freerianus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Freerianus" title="Codex Freerianus">Codex Freerianus</a>
 </td>
 <td  align="center">5th
 </td>
@@ -614,7 +614,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">Z
 </td>
-<td  align="center"><a href="/wiki/Codex_Dublinensis" title="Codex Dublinensis">Codex Dublinensis</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Dublinensis" title="Codex Dublinensis">Codex Dublinensis</a>
 </td>
 <td  align="center">6th
 </td>
@@ -625,7 +625,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">L
 </td>
-<td  align="center"><a href="/wiki/Codex_Regius_(New_Testament)" title="Codex Regius (New Testament)">Codex Regius</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Regius_(New_Testament)" title="Codex Regius (New Testament)">Codex Regius</a>
 </td>
 <td  align="center">8th
 </td>
@@ -636,7 +636,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">W
 </td>
-<td  align="center"><a href="/wiki/Codex_Washingtonianus" title="Codex Washingtonianus">Codex Washingtonianus</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Codex_Washingtonianus" title="Codex Washingtonianus">Codex Washingtonianus</a>
 </td>
 <td  align="center">5th
 </td>
@@ -647,7 +647,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">057
 </td>
-<td  align="center"><a href="/wiki/Uncial_057" title="Uncial 057">Uncial 057</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Uncial_057" title="Uncial 057">Uncial 057</a>
 </td>
 <td  align="center">4/5th
 </td>
@@ -658,7 +658,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">0220
 </td>
-<td  align="center"><a href="/wiki/Uncial_0220" title="Uncial 0220">Uncial 0220</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Uncial_0220" title="Uncial 0220">Uncial 0220</a>
 </td>
 <td  align="center">6th
 </td>
@@ -669,7 +669,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">33
 </td>
-<td  align="center"><a href="/wiki/Minuscule_33" title="Minuscule 33">Minuscule 33</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Minuscule_33" title="Minuscule 33">Minuscule 33</a>
 </td>
 <td  align="center">9th
 </td>
@@ -680,7 +680,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">81
 </td>
-<td  align="center"><a href="/wiki/Minuscule_81" title="Minuscule 81">Minuscule 81</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Minuscule_81" title="Minuscule 81">Minuscule 81</a>
 </td>
 <td  align="center">1044
 </td>
@@ -691,7 +691,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 <tr>
 <td  align="center">892
 </td>
-<td  align="center"><a href="/wiki/Minuscule_892" title="Minuscule 892">Minuscule 892</a>
+<td  align="center"><a href="https://en.wikipedia.org/wiki/Minuscule_892" title="Minuscule 892">Minuscule 892</a>
 </td>
 <td  align="center">9th
 </td>
