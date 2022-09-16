@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:01:00 -0500
+date: 2022-09-10 18:02:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -905,7 +905,7 @@ Imagine if the following verses only applied to half the population (Men):
 
 > 20 If **a man** says, “I love God,” and **hates his brother**, **he is a liar**; for **he** who doesn’t love **his brother** whom **he** has seen, how can **he** love God whom **he** has not seen? &mdash; 1 John 4:20 WEB (World English Bible)
 
-This translation isn't necesarily wrong, but those who understand the Bible, understand that 'he' in the Greek is referring to oneself [*αὐτός (autos)*], and 'brother' [*ἀδελφός (adelphos)*] is referring to a member of the Christian community. (See [MOUNCE](https://www.biblegateway.com/passage/?search=1+Jn+4%3A20&version=MOUNCE))
+This translation isn't necessarily wrong, but those who understand the Bible, understand that 'he' in the Greek is referring to oneself [*αὐτός (autos)*], and 'brother' [*ἀδελφός (adelphos)*] is referring to a member of the Christian community. (See [MOUNCE](https://www.biblegateway.com/passage/?search=1+Jn+4%3A20&version=MOUNCE))
 
 > If **someone** says, “I love God,” but **hates a fellow believer**,[a] **that person is a liar**; for if **we** don’t **love people we** can see, how can **we** love God, whom **we** cannot see? &mdash; 1 John 4:20 NLT (New Living Translation)
 
@@ -1204,7 +1204,7 @@ When I study the Bible, I do so in parallel. Here is a list of recommended paral
 
 The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
 
-The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromising. 
+The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Honorable Mentions</span>
 
