@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Which Bible Is Best? 📖"
-date: 2022-09-10 17:46:00 -0500
+title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
+date: 2022-09-10 17:50:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -451,7 +451,7 @@ There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the 
 
 Dismissing the Textus Receptus as an inferior text rife with errors, two prominent scholars, Westcott and Hort compiled a new Greek text in 1881, later called the [Critical Text](https://www.gotquestions.org/critical-text.html). With special focus on two fourth-century manuscripts, the [Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus) and the [Codex Sinaiticus](https://en.wikipedia.org/wiki/Codex_Sinaiticus), they attempted to preserve the most accurate wording possible. Their work dethroned the Textus Receptus and established the critical text, a text which gave evidence to being closer to the New Testament Autographs.
 
-> "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
+> "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while **the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations** in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
 
 It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 i'd rather investigate our current Greek New Testament manuscript.
 
@@ -1131,21 +1131,27 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
 
 - Mt 9:34; 12:47; 17:21; 18:11; 21:44; 23:14
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=Mt+9%3A34%2C+Mt+12%3A47%2C+Mt+17%3A21%2C+Mt+18%3A11%2C+Mt+21%3A44%2C+Mt+23%3A14)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=NET)
 - Mk 7:16; 9:44,46; 11:26; 15:28; 16:9-20
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=Mk+7%3A16%2C+Mk+9%3A44%2C+46%2C+Mk+11%3A26%2C+Mk+15%3A28%2C+Mk+16%3A9-20)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=NET)
 - Lk 17:36; 22:20,43,44; 23:17; 24:12,40
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=Lk+17%3A36%2C+Lk+22%3A20%2C43%2C44%2C+Lk+23%3A17%2C+Lk+24%3A12%2C40)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=NET)
 - Jn 5:4; 7:53-8:11
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=John+5%3A3-4%2C+John+7%3A53-8%3A11)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=NET)
 - Ac 8:37; 15:34; 24:7; 28:29
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=Ac+8%3A37%3B+15%3A34%3B+24%3A7%3B+28%3A29)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=NET)
 - Ro 16:24
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
+    - [Legacy Standard Bible](https://read.lsbible.org/?q=Ro+16%3A24)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=NET)
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
