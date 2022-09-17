@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:02:00 -0500
+date: 2022-09-10 18:20:00 -0500
 categories: god jesus deity bible cults
 published: true
 ---
@@ -314,9 +314,9 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14)
 
 [MacLaren's Expositions](https://biblehub.com/commentaries/revelation/22-14.htm)
 
-> ‘Blessed are they that **do His commandments**, that they may have right to the Tree of Life,’ **carries us back to the old law, and has no more hopeful a sound in it than the thunders of Sinai. If it were, indeed, amongst Christ’s last words to us, it would be a most sad instance of His ‘building again the things He had destroyed.’ It is relegating us to the dreary old round of trying to earn Heaven by doing good deeds; and I might almost say it is ‘making the Cross of Christ of none effect.’** The fact that that corrupt reading came so soon into the Church and has held its ground so long, is to me a very singular proof of the difficulty which men have always had in keeping themselves up to the level of the grand central Gospel truth: Not by works of righteousness which we have done, but by His mercy. He saved us.’
+> ‘Blessed are they that **do His commandments**, that they may have right to the Tree of Life,’ **carries us back to the old law, and has no more hopeful a sound in it than the thunders of Sinai. If it were, indeed, amongst Christ’s last words to us, it would be a most sad instance of His ‘building again the things He had destroyed.’ It is relegating us to the dreary old round of trying to earn Heaven by doing good deeds; and I might almost say it is ‘making the Cross of Christ of none effect.’** The fact that that corrupt reading came so soon into the Church and has held its ground so long, is to me a very singular proof of the difficulty which men have always had in keeping themselves up to the level of the grand central Gospel truth: **Not by works of righteousness which we have done, but by His mercy. He saved us.**’
 > 
-‘Blessed are they that **wash their robes**, that they may have right to the Tree of Life,’ has the clear ring of the New Testament music about it, and is in full accord with the whole type of doctrine that runs through this book; and is not unworthy to be almost the last word that the lips of the Incarnate Wisdom spoke to men from Heaven. So then, taking that point of view, I wish to look with you at three things that come plainly out of these words: - First, that principle that if men are clean it is because they are cleansed; ‘Blessed are they that wash their robes.’ Secondly, It is the cleansed who have unrestrained access to the source of life. And lastly, It is the cleansed who pass into the society of the city. Now, let me deal with these three things: -
+‘Blessed are they that **wash their robes**, that they may have right to the Tree of Life,’ has the clear ring of the New Testament music about it, and is in full accord with the whole type of doctrine that runs through this book; and is not unworthy to be almost the last word that the lips of the Incarnate Wisdom spoke to men from Heaven. So then, taking that point of view, I wish to look with you at three things that come plainly out of these words: - First, that principle that if men are clean it is because they are cleansed; ‘Blessed are they that wash their robes.’ Secondly, It is the cleansed who have unrestrained access to the source of life. And lastly, It is the cleansed who pass into the society of the city. [... continue reading.](https://biblehub.com/commentaries/maclaren/revelation/22.htm)
 
 [Jamieson-Fausset-Brown Bible Commentary](https://biblehub.com/commentaries/revelation/22-14.htm)
 
