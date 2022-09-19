@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:20:00 -0500
-categories: god jesus deity bible cults
+date: 2022-09-10 18:25:00 -0500
+categories: god jesus bible
 published: true
 ---
 
@@ -465,7 +465,7 @@ Dismissing the Textus Receptus as an inferior text rife with errors, two promine
 
 > "In comparison with any other ancient Greek or Latin writing, the NT suffers from an embarrassment of riches when it comes to extant copies. The average ancient Greek or Latin author's literary remains are to be found in fewer than two dozen copies, while **the NT has about 5,600 extant copies in Greek alone, not to mention the another 10,000 in latin, several thousand copies in other early versions, and several hundred thousand quotations** in the early Christian writers known as "the fathers" and referred to as the patristic writers. The NT textual critic not only has significantly more material to work with than textual critics of, say, Demosthenes, Livy, or Josephus, but the MSS are closer to the time of the original documents. Mere decades seperate some of the earliest fragments of the NT from the originals, while hundreds of years seperate the earliest copies of other ancient literature from the author's manuscript." &mdash; Professor Daniel B. Wallace Ph.D.
 
-It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 i'd rather investigate our current Greek New Testament manuscript.
+It's important to note, that today's Critical Text [Novum Testamentum Graece](https://en.wikipedia.org/wiki/Novum_Testamentum_Graece) is not the same as the Westcott and Hort text, and is nigh-infinitely superior with modern day scholarship. There's an incredible amount of history between 1881 and 2022. Instead of going into the history of how we got from WH to NA28 I'd rather investigate our current Greek New Testament.
 
 >
 <table>
@@ -1190,13 +1190,9 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Primary Selection</span>
 
-My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) is the closest to the original autograph whilst retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span>
-
-The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
-
-The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
+<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
 
@@ -1210,14 +1206,17 @@ The ***New Living Translation (NLT)*** is the most readable version of the Bible
 
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
 
+The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
+
 The ***Expanded Bible (EXB)*** missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
+The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
 
 The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
 
 The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
 
-The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more like this.
-
+The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text.
 
 
 <script>
