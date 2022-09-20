@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:25:00 -0500
+date: 2022-09-10 18:40:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1024,11 +1024,13 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 
 # The following versions have been eliminated:
 
-*Note: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
+*Notes: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
+
+*The Expanded Bible (EXB) contains the the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
 
 1. Disciples’ Literal New Testament (DLNT) © 2011
 1. Evangelical Heritage Version (EHV) © 2019
-1. Expanded Bible (EXB) © 2011
+<!-- 1. Expanded Bible (EXB) © 2011 -->
 1. GOD’S WORD Translation (GW) © 1995, 2003, 2013, 2014, 2019, 2020
 1. Holman Christian Standard Bible (HCSB) © 1999, 2000, 2002, 2003, 2009
 1. International Children’s Bible (ICB) © 1986, 1988, 1999, 2015
@@ -1104,10 +1106,9 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Readability 70.08%, Literalness 39.90%
     - Copyright © 1996, 2004, 2015
-
-<!-- 13. **Expanded Bible (EXB)** 
+- **Expanded Bible (EXB)** 
     - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
-    - Copyright © 2011 -->
+    - Copyright © 2011
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
@@ -1198,17 +1199,21 @@ My *Primary Bible* is very important and must adhere to every aforementioned lit
 
 When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
 
-The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
+Notes & Expansions
 
-The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
+- The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
+
+- The ***Expanded Bible (EXB)*** The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
+Readability
+
+- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
+
+- The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Honorable Mentions</span>
 
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
-
-The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
-
-The ***Expanded Bible (EXB)*** missed the final lineup by a hair. The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
 The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
 
