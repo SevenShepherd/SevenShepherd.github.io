@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:40:00 -0500
+date: 2022-09-10 18:50:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1146,26 +1146,32 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Mt+9%3A34%2C+Mt+12%3A47%2C+Mt+17%3A21%2C+Mt+18%3A11%2C+Mt+21%3A44%2C+Mt+23%3A14)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=EXB)
 - Mk 7:16; 9:44,46; 11:26; 15:28; 16:9-20
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Mk+7%3A16%2C+Mk+9%3A44%2C+46%2C+Mk+11%3A26%2C+Mk+15%3A28%2C+Mk+16%3A9-20)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=EXB)
 - Lk 17:36; 22:20,43,44; 23:17; 24:12,40
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Lk+17%3A36%2C+Lk+22%3A20%2C43%2C44%2C+Lk+23%3A17%2C+Lk+24%3A12%2C40)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=EXB)
 - Jn 5:4; 7:53-8:11
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=John+5%3A3-4%2C+John+7%3A53-8%3A11)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=EXB)
 - Ac 8:37; 15:34; 24:7; 28:29
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Ac+8%3A37%3B+15%3A34%3B+24%3A7%3B+28%3A29)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=EXB)
 - Ro 16:24
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Ro+16%3A24)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=NET)
+    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=EXB)
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
 
