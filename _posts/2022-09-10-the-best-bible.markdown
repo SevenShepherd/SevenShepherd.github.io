@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:50:00 -0500
+date: 2022-09-10 18:55:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -154,14 +154,33 @@ Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphra
 Reveal who you are.<br>
 Set the world right;<br>
 Do what’s best—<br>
-    **as above, so below**.<br>
+    <span style="font-weight:Bold;color:Red;">as above, so below</span>.<br>
 Keep us alive with three square meals.<br>
 Keep us forgiven with you and forgiving others.<br>
 Keep us safe from ourselves and the Devil.<br>
 You’re in charge!<br>
 You can do anything you want!<br>
 You’re ablaze in beauty!<br>
-    Yes. Yes. Yes. &mdash; Matthew 6:9-13 MSG (The Message)
+    Yes. Yes. Yes. 
+>
+&mdash; Matthew 6:9-13 MSG (The Message)
+
+A more correct version can be found below.
+
+> Pray then like this:<br>
+>
+“Our Father in heaven,<br>
+hallowed be your name.<br>
+10 Your kingdom come,<br>
+your will be done,<br>
+    <span style="font-weight:Bold;color:Green;">on earth as it is in heaven</span>.<br>
+11 Give us this day our daily bread,<br>
+12 and forgive us our debts,<br>
+    as we also have forgiven our debtors.<br>
+13 And lead us not into temptation,<br>
+    but deliver us from evil.<br>
+>
+&mdash; Matthew 6:9-13 ESV (English Standard Version)
 
 # The Message (MSG) is eliminated:
 
@@ -1026,7 +1045,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 
 *Notes: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
 
-*The Expanded Bible (EXB) contains the the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
+*The Expanded Bible (EXB) contains the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
 
 1. Disciples’ Literal New Testament (DLNT) © 2011
 1. Evangelical Heritage Version (EHV) © 2019
@@ -1178,6 +1197,10 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
 Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, consistently brackets verses that do not appear in our oldest and best manuscripts (Critical Text).
 
 > And He said to them, “Because of your little faith; for truly I say to you, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible to you. **21 [But this kind does not go out except by prayer and fasting.”]** &mdash; Mat 17:20-21 LSB (Legacy Standard Bible, update to NASB '95 & '77)
+
+It should be noted, that the Expanded Bible (EXB) also does this, but one of the stipulations for *Primary Bible* is that it should be formally equivalent. The Expanded Bible is functional or dynamically equivalent, and therefore makes a better *Parallel* rather than a primary.
+
+> Jesus answered, “Because ·your faith is too small [you have so little faith]. I tell you the truth, if your faith is ·as big as [as small as; the size of; L as; like] a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. ·All things will be possible [L Nothing would be impossible] for you. **\|21 That kind of spirit comes out only if you use prayer and fasting.\|**” &mdash; Mat 17:20-21 EXB (Expanded Bible)
 
 The Lexham English Bible (LEB), English Standard Version (ESV), New English Translation (NET), and New Living Translation (NLT) consistentantly footnotes said verses in the previous verse in which it appears.
 
