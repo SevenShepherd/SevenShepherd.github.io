@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 18:55:00 -0500
+date: 2022-09-10 19:01:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1198,9 +1198,9 @@ Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, 
 
 > And He said to them, “Because of your little faith; for truly I say to you, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible to you. **21 [But this kind does not go out except by prayer and fasting.”]** &mdash; Mat 17:20-21 LSB (Legacy Standard Bible, update to NASB '95 & '77)
 
-It should be noted, that the Expanded Bible (EXB) also does this, but one of the stipulations for *Primary Bible* is that it should be formally equivalent. The Expanded Bible is functional or dynamically equivalent, and therefore makes a better *Parallel* rather than a primary.
+It should be noted, that the Expanded Bible (EXB) also does this with vertical bars, but one of the stipulations for *Primary Bible* is that it should be formally equivalent. The Expanded Bible is functional or dynamically equivalent, and therefore makes a better *Parallel* rather than a primary in my opinion.
 
-> Jesus answered, “Because ·your faith is too small [you have so little faith]. I tell you the truth, if your faith is ·as big as [as small as; the size of; L as; like] a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. ·All things will be possible [L Nothing would be impossible] for you. **\|21 That kind of spirit comes out only if you use prayer and fasting.\|**” &mdash; Mat 17:20-21 EXB (Expanded Bible)
+> Jesus answered, “Because ·your faith is too small [you have so little faith]. I tell you the truth, if your faith is ·as big as [as small as; the size of; <sup>L</sup> as; like] a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. ·All things will be possible [<sup>L</sup> Nothing would be impossible] for you. **\|21 That kind of spirit comes out only if you use prayer and fasting.\|**” &mdash; Mat 17:20-21 EXB (Expanded Bible)
 
 The Lexham English Bible (LEB), English Standard Version (ESV), New English Translation (NET), and New Living Translation (NLT) consistentantly footnotes said verses in the previous verse in which it appears.
 
