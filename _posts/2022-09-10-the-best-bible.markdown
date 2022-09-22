@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:01:00 -0500
+date: 2022-09-10 19:10:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1106,6 +1106,9 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
     - Readability 66.28%, Literalness 53.94%
     - Copyright © 1996-2017
+- **Expanded Bible (EXB)** 
+    - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
+    - Copyright © 2011
 
 <!-- 9. **Evangelical Heritage Version (EHV)**
     - Lutheran
@@ -1117,7 +1120,9 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 11. **International Standard Version (ISV)** © 1995-2014
     - High School -->
 
-*Note: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
+*Notes: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
+
+*The Expanded Bible (EXB) should also fall into optimal equivalence, seeing as how it's text is based on the functionally equivalent NCV and it's expansions contain literal or formal equivalent readings.*
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
@@ -1125,9 +1130,6 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Readability 70.08%, Literalness 39.90%
     - Copyright © 1996, 2004, 2015
-- **Expanded Bible (EXB)** 
-    - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
-    - Copyright © 2011
 
 <!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
@@ -1162,35 +1164,38 @@ The Bibles below have made it this far, but are being honorably discharged for t
 In my humble opinion, bracketing is preferable over footnotes and **omission is not an option** for a *Primary Bible*. Between bracketing and footnotes **there needs to be consistency**. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. Here are the verses in question:
 
 - Mt 9:34; 12:47; 17:21; 18:11; 21:44; 23:14
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Mt+9%3A34%2C+Mt+12%3A47%2C+Mt+17%3A21%2C+Mt+18%3A11%2C+Mt+21%3A44%2C+Mt+23%3A14)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mt+9%3A33-34%3B+12%3A46-47%3B+17%3A20-21%3B+18%3A10-11%3B+21%3A43-44%3B+23%3A13-14&version=LEB;ESV;NLT)
+
 - Mk 7:16; 9:44,46; 11:26; 15:28; 16:9-20
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Mk+7%3A16%2C+Mk+9%3A44%2C+46%2C+Mk+11%3A26%2C+Mk+15%3A28%2C+Mk+16%3A9-20)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Mk+7%3A15-16%3B+9%3A43-44%2C45-46%3B+11%3A25-26%3B+15%3A27-28%3B+16%3A8-20&version=LEB;ESV;NLT)
 - Lk 17:36; 22:20,43,44; 23:17; 24:12,40
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Lk+17%3A36%2C+Lk+22%3A20%2C43%2C44%2C+Lk+23%3A17%2C+Lk+24%3A12%2C40)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Lk+17%3A35-36%3B+22%3A19-20%2C42-44%3B+23%3A16-17%3B+24%3A11-12%2C39-40&version=LEB;ESV;NLT)
 - Jn 5:4; 7:53-8:11
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=John+5%3A3-4%2C+John+7%3A53-8%3A11)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Jn+5%3A4%3B+7%3A52-8%3A11&version=LEB;ESV;NLT)
 - Ac 8:37; 15:34; 24:7; 28:29
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Ac+8%3A37%3B+15%3A34%3B+24%3A7%3B+28%3A29)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ac+8%3A36-37%3B+15%3A33-34%3B+24%3A6-7%3B+28%3A28-29&version=LEB;ESV;NLT)
+
 - Ro 16:24
-    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
     - [Legacy Standard Bible](https://read.lsbible.org/?q=Ro+16%3A24)
+    - [Expanded Bible](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=EXB)
     - NET [Translator Notes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=NET)
-    - EXB [Expansions](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=EXB)
+    - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
+
 
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
 
@@ -1198,7 +1203,7 @@ Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, 
 
 > And He said to them, “Because of your little faith; for truly I say to you, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible to you. **21 [But this kind does not go out except by prayer and fasting.”]** &mdash; Mat 17:20-21 LSB (Legacy Standard Bible, update to NASB '95 & '77)
 
-It should be noted, that the Expanded Bible (EXB) also does this with vertical bars, but one of the stipulations for *Primary Bible* is that it should be formally equivalent. The Expanded Bible is functional or dynamically equivalent, and therefore makes a better *Parallel* rather than a primary in my opinion.
+It should be noted, that the Expanded Bible (EXB) also does this with vertical bars, but one of the stipulations for *Primary Bible* is that it should be formally equivalent. The Expanded Bible is functional or dynamically equivalent in text, and therefore makes a better *Parallel* rather than a primary in my opinion.
 
 > Jesus answered, “Because ·your faith is too small [you have so little faith]. I tell you the truth, if your faith is ·as big as [as small as; the size of; <sup>L</sup> as; like] a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. ·All things will be possible [<sup>L</sup> Nothing would be impossible] for you. **\|21 That kind of spirit comes out only if you use prayer and fasting.\|**” &mdash; Mat 17:20-21 EXB (Expanded Bible)
 
