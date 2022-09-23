@@ -11,8 +11,7 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing my conclusions about which versions of the Bible I use. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
 
 - The [Legacy Standard Bible (LSB)](https://lsbible.org/) is my primary.
-    <!-- - Readability ~61.65%; Literalness > 68.74% -->
-    - [131 Scholars including it's derived NASB '95 & '77, otherwise 70+ scholars](https://lsbible.org/faqs/)
+    - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
     - Literalness to Koine Greek Exceeds 68.74% since it's more literal then the ESV, while readability is approximately 61.65% taken from the NASB score.
     - [NT w/ Psalms & Proverbs bound in shamar goatskin at Royal Jongbloed in the Netherlands](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
 - Accessories

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:20:00 -0500
+date: 2022-09-10 19:30:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1071,9 +1071,8 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 <span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
 - **Legacy Standard Bible (LSB)**
-    - [131 Scholars](](https://lsbible.org/faqs/)) including [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+
-    - NASB '20: Readability 61.65%, Literalness 67.99%
-    - LSB is based on the much more literal NASB '95 & '77, so the literalness exceeds 68%, we also know that it is more literal than the ESV, ergo literalness > 68.74%
+    - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
+    - Literalness to Koine Greek Exceeds 68.74% since it's more literal then the ESV, while readability is approximately 61.65% taken from the NASB score.
     - Copyright © 2021
 - **English Standard Version (ESV)**
     - [100+ Scholars](https://www.esv.org/translation/)
