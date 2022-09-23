@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:30:00 -0500
+date: 2022-09-10 19:40:00 -0500
 categories: god jesus bible
 published: true
 ---
 
 <style>
     html * {
-        font-family: Times;
+        font-family: Arial;
     }
 </style>
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
+<span style="font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
 
 Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
@@ -40,7 +40,7 @@ Considering these things, in this article I will attempt to locate a version of 
 
 <!-- > as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995) -->
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">Contenders</span>
+<span style="font-style:Italic;font-size:34px;">Contenders</span>
 
 I will be reviewing the follow versions of the Bible.
 
@@ -107,7 +107,7 @@ I will be reviewing the follow versions of the Bible.
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">Contents</span>
+<span style="font-style:Italic;font-size:34px;">Contents</span>
 
 - I. Eliminating The Obvious
 - II. Occult Influence?
@@ -131,7 +131,7 @@ I will be reviewing the follow versions of the Bible.
 - XIX.
 - XX. -->
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
+<span style="font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
 # I am neither Catholic nor from the UK so the Bibles below have already been eliminated.
 
@@ -145,7 +145,7 @@ I will be reviewing the follow versions of the Bible.
 1. Phillips New Testament (PHILLIPS) © 1960, 1972
 1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">II. Occult Influence?</span>
+<span style="font-style:Italic;font-size:34px;">II. Occult Influence?</span>
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
@@ -186,13 +186,13 @@ your will be done,<br>
 
 1. The Message (MSG) © 1993, 2002, 2018
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
+<span style="font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
 
 The Biblical description of the Behemoth can be found in Job 40:15-24 ([comparison](https://www.biblegateway.com/verse/en/Job%2040:15)). As you can see from the comparison, very few versions get this wrong.
 
 <!-- This is [how the verse should read](https://read.lsbible.org/?q=Job+40%3A15-24) -->
 
-<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Behemoth</span> -->
+<!-- <span style="font-style:Italic;font-size:26px;">Behemoth</span> -->
 
 > 15 Behold now <span style="font-weight:Bold;color:Green;">behemoth</span>, which I made with thee; he eateth grass as an ox. 16 Lo now, his strength is in his loins, and his force is in the navel of his belly. 17 **He moveth his tail like a cedar:** the sinews of his stones are wrapped together. 18 **His bones are as strong pieces of brass; his bones are like bars of iron.** &mdash; [Job 40:15-24](https://www.biblegateway.com/passage/?search=Job+40%3A15-24&version=KJV) KJV (King James Version)
 
@@ -209,7 +209,7 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
     - In parentheses, still not acceptable.
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
+<span style="font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
 
 The Biblical description of the Leviathan can be found in Job 41 ([comparison](https://www.biblegateway.com/verse/en/Job%2041:1)). As you can see from the comparison, very few versions get this wrong.
 
@@ -227,9 +227,9 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 1. Living Bible (TLB) © 1971 
 1. New Life Version (NLV) © 1969, 2003 
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
+<span style="font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
+<span style="font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
 
 Jewish and Christian scholars, who are thoroughly familiar with the Old Testament Hebrew language and how to pronounce Hebrew words, make it clear that the Hebrew word YHWH is more accurately pronounced “Yahweh” (Yaw-Way) rather than “Jehovah”.
 
@@ -272,7 +272,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
+<span style="font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
 
 <!-- [Lamb's Book of Life](https://www.gotquestions.org/Lambs-book-of-life.html) -->
 
@@ -287,7 +287,7 @@ If the name of God is so important, which it definitely is, then we should not o
 
 > Blessed are they that do his commandments, that they may have right to the <span style="font-weight:bold;color:Green;">tree of life</span>, and may enter in through the gates into the city. &mdash; Revelation 22:14 KJV (King James Version)
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
 
 There are certain textual variants which are so pivotal that they're reason enough to warrant serious investigation. An explanation as to why you cannot lose your salvation and be erased from the book of life can be read in [this article](https://www.gotquestions.org/erased-book-life.html). Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:19) of Bible versions. 
 
@@ -319,11 +319,11 @@ NET Bible Translator Notes:
 
 *Note: The New King James Version (NKJV) footnotes: "NU (Critical), M (Majority) tree of life". It would otherwise have been eliminated.*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
+<span style="font-style:Italic;font-size:34px;">VII. Wash their robes or Do His commandments?</span>
 
 > And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have <span style="font-weight:Bold;color:Green;">washed their robes</span>, and made them white in the blood of the Lamb. &mdash; Revelation 7:14 KJV (King James Version)
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
 
 Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%2022:14) of the following verse in Revelation.
 
@@ -366,11 +366,11 @@ through—Greek, "by the gates."
 
 - *World English Bible (WEB) footnotes: [NU reads “wash their robes” instead of “do his commandments”.]. It would otherwise have been eliminated.*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
+<span style="font-style:Italic;font-size:34px;">VIII. The Lucifer Problem</span>
 
 The word Lucifer is not a proper name, but the Latin word for ‘morning star,’ which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%2014:12).
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
 
 > How art thou fallen from heaven, O <span style="font-weight:Bold;color:Red;">Lucifer</span>, son of the morning! how art thou cut down to the ground, which didst weaken the nations! &mdash; Isaiah 14:12 KJV (King James Version)
 
@@ -426,13 +426,13 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 - *Douay-Rheims 1899 American Edition (DRA) Public Domain*
 - *Wycliffe Bible (WYC) © 2001* -->
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
+<span style="font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
 
 Because the last four sections removed the Textus Receptus, I think this is a good time to have that talk.
 
 > There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Textus Receptus</span>
+<span style="font-style:Italic;font-size:26px;">Textus Receptus</span>
 
 > The [Textus Receptus](https://www.gotquestions.org/Textus-Receptus.html) was a manuscript of the Bible that was compiled by a man named Erasmus in the 1500s A.D. He took the limited number of manuscripts he had access to and compiled them into what eventually became known as the Textus Receptus. The Textus Receptus is the textual basis behind the King James Version and New King James Version. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
@@ -476,7 +476,7 @@ Criticized for his work which contained numerous textual errors, he incorporated
 
 There are [27 Greek editions](https://textusreceptusbibles.com/Editions) of the Textus Receptus. 
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Critical Text</span>
+<span style="font-style:Italic;font-size:26px;">Critical Text</span>
 
 > The [Critical Text](https://www.gotquestions.org/critical-text.html) or eclectic method involves considering external and internal evidences for determining the most likely original text. External evidence makes us ask these questions: in how many manuscripts does the reading occur? what are the dates for these manuscripts? in what region of the world were these manuscripts found? Internal evidence prompts these questions: what could have caused these varying readings? which reading can possibly explain the origin of the other readings? The New International Version, New American Standard, New Living Translation, and most other Bible translations use the Eclectic Text. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
@@ -742,7 +742,7 @@ It's important to note, that today's Critical Text [Novum Testamentum Graece](ht
 
 *Source: [Alexandrian text-type](https://en.wikipedia.org/wiki/Alexandrian_text-type)*
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Majority Text</span>
+<span style="font-style:Italic;font-size:26px;">Majority Text</span>
 
 > The [Majority Text](https://www.gotquestions.org/majority-text.html) takes all of the manuscripts that are available today, compares the differences, and chooses the most likely correct reading based on which reading occurs the most. For example, if 748 manuscripts read "he said" and 1,429 manuscripts read "they said" the Majority Text will go with "they said" as the most likely original reading. &mdash; [Textual Criticism](https://www.gotquestions.org/textual-criticism.html)
 
@@ -914,7 +914,7 @@ More than 80% of minuscules represent the Byzantine text.
 
 *Source: [Byzantine text-type](https://en.wikipedia.org/wiki/Byzantine_text-type)*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
+<span style="font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
 
 The heresy of [political correctness](https://www.gotquestions.org/political-correctness.html) and gender inclusion has invaded the world of Bible translation and perverted God’s original message. There are times when [inclusiveness](https://www.gotquestions.org/gender-inclusive-Bible-translation.html) is appropriate and times when it absolutely is not. Let's look at some examples and remove some of the remaining versions that violate God's message.
 
@@ -932,7 +932,7 @@ See also 1 Jn 2:9; 4:8; Titus 3:10; Pr 10:18; 16:28; 20:19; 1 Pe 2:1; James 1:12
 
 <!-- and maybe Gal 5:19-21; 22-23. -->
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Controversy</span>
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
 
 In Acts 1:16 the very first word Men [ἀνήρ (anēr)] is used, which refers only to males even when women are present. This is an instance of God using language in the Bible that is clearly and specifically directed at men (See [MOUNCE](https://www.biblegateway.com/passage/?search=Acts+1%3A16&version=MOUNCE)). Here is a [comparison](https://www.biblegateway.com/verse/en/Acts%201:16) of versions.
 
@@ -982,7 +982,7 @@ See also Acts 5:35
 1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
 1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
+<span style="font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
 
 This controversy doesn't necessarily take away from the prophecy of Christ's virgin birth, but it sure is suspect and I personally don't care for what some of the newer versions are doing. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%207:14).
 
@@ -1015,7 +1015,7 @@ NET Translator Notes:
 1. *Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966*
 1. *The Voice (VOICE) © 2012*
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
+<span style="font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
 
 I recently wrote an article covering most all of the verses in the Bible dealing with [Jesus deity](https://sevenshepherd.github.io/deity/). There are about 4 out of approximately 40 that are specific to textual basis. They should be represented in Bibles since they come from our oldest and best manuscripts. Let's look at a few.
 
@@ -1060,7 +1060,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 1. New American Standard Bible 1995 (NASB1995) © 1960, 1971, 1977, 1995
 1. Tree of Life Version (TLV) © 2015
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIII. A Quick Overview</span>
+<span style="font-style:Italic;font-size:34px;">XIII. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
@@ -1068,7 +1068,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 - There are **5/7** contenders remaining in the corner of the Critical Text.
 - Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf).
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
+<span style="font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
 
 - **Legacy Standard Bible (LSB)**
     - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
@@ -1100,7 +1100,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [31 Scholars](https://tlvbiblesociety.org/pages/our-translation#translation-team)
     - Copyright © 2015 -->
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Optimal Equivalence</span>
+<span style="font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
 - **New English Translation (NET)**
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
@@ -1124,14 +1124,14 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 
 *The Expanded Bible (EXB) should also fall into optimal equivalence, seeing as how it's text is based on the functionally equivalent NCV and it's expansions contain literal or formal equivalent readings.*
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
+<span style="font-style:Italic;font-size:26px;">Dynamic Equivalence "Thought-For-Thought"</span>
 
 - **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Readability 70.08%, Literalness 39.90%
     - Copyright © 1996, 2004, 2015
 
-<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
+<!-- <span style="font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
 <!-- 22. **Phillips New Testament (PHILLIPS)** © 1960, 1972 -->
 
@@ -1159,7 +1159,7 @@ The Bibles below have made it this far, but are being honorably discharged for t
         - The EXB above is derived from the NCV
         - Copyright © 1986, 1988, 1999, 2015 -->
     
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
+<span style="font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
 
 In my humble opinion, bracketing is preferable over footnotes and **omission is not an option** for a *Primary Bible*. Between bracketing and footnotes **there needs to be consistency**. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. Here are the verses in question:
 
@@ -1197,7 +1197,7 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
 
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
+<span style="font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
 
 Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, consistently brackets verses that do not appear in our oldest and best manuscripts (Critical Text).
 
@@ -1221,15 +1221,15 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 - NET Translator Notes
     > d. Matthew 17:20 NET tc Many significant mss (א* B Θ 0281 33 579 892* e ff1 sys,c sa) do not include **17:21 “But this kind does not go out except by prayer and fasting.”** The verse is included in א2 C D L W Γ Δ ƒ1, 13 565 579 700 1241 1424 M al lat sy(p),h, but is almost certainly not original. As Metzger notes, “Since there is no satisfactory reason why the passage, if originally present in Matthew, should have been omitted in a wide variety of witnesses, and since copyists frequently inserted material derived from another Gospel, it appears that most manuscripts have been assimilated to the parallel in Mk 9.29” (TCGNT 35). The present translation follows NA28 in omitting the verse number as well, a procedure also followed by a number of other modern translations. 
 
-<span style="font-family:Times;font-style:Italic;font-size:34px;">XV. Conclusion</span>
+<span style="font-style:Italic;font-size:34px;">XV. Conclusion</span>
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Primary Selection</span>
+<span style="font-style:Italic;font-size:26px;">Primary Selection</span>
 
 My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
-<!-- <span style="font-family:Times;font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
+<!-- <span style="font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Parallel Selections</span>
+<span style="font-style:Italic;font-size:26px;">Parallel Selections</span>
 
 When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
 
@@ -1245,7 +1245,7 @@ Readability
 
 - The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
 
-<span style="font-family:Times;font-style:Italic;font-size:26px;">Honorable Mentions</span>
+<span style="font-style:Italic;font-size:26px;">Honorable Mentions</span>
 
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
 

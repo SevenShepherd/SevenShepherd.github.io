@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "God Created What Science Seeks To Understand 🧬"
-date: 2022-05-10 01:00:00 -0700
+date: 2022-05-10 01:10:00 -0700
 categories: god bible religion
 published: true
 ---
 
 <style>
     html * {
-        font-family: Times;
+        font-family: Arial;
     }
 </style>
 
