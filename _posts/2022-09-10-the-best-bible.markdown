@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:40:00 -0500
+date: 2022-09-10 19:50:00 -0500
 categories: god jesus bible
 published: true
 ---
 
-<style>
+<!-- <style>
     html * {
         font-family: Arial;
     }
-</style>
+</style> -->
 
 <span style="font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
 

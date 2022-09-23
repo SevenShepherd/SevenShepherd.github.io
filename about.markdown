@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<style>
+<!-- <style>
     html * {
         font-family: Arial;
     }
-</style>
+</style> -->
 
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my Ministry. Please feel free to look around, read articles, or contact me below.
 
