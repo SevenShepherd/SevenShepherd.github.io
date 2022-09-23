@@ -12,9 +12,9 @@ permalink: /about/
 
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my Ministry. Please feel free to look around, read articles, or contact me below.
 
-> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV
+<!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
-<!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
+> Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB
 
 <span style="font-family:Times;font-style:Italic;font-size:28px;">Recommended Bibles</span>
 
