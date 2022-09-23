@@ -4,9 +4,19 @@ title: About
 permalink: /about/
 ---
 
+<style>
+    html * {
+        font-family: Times;
+    }
+</style>
+
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my Ministry. Please feel free to look around, read articles, or contact me below.
 
-# Recommended Bibles
+> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV
+
+<!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
+
+<span style="font-family:Times;font-style:Italic;font-size:28px;">Recommended Bibles</span>
 
 I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing my conclusions about which versions of the Bible I use. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
 
@@ -40,7 +50,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 |[New Living Translation (NLT)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece.<br><br>Readability 70.08%<br>Literalness 39.90%| -->
 
 
-# Advanced Study Material
+<span style="font-family:Times;font-style:Italic;font-size:28px;">Advanced Study Material</span>
 
 <!-- |||
 |:-:|
@@ -52,7 +62,6 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 |||
 |:-:|:-:|
-|**English-Greek Interlinear**||
 |[ESV English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74%<br>Literalness 100% (Koine Greek)|
 |[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.<br><br>Readability 0% (English)<br>Literalness 100% (Biblical Hebrew)|
 |[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.<br><br> Readability 0% (English)<br>Literalness 100% (Koine Greek)|
@@ -63,7 +72,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 <!-- |**Archaeology Study Bible**||
 |[ESV Archaeology Study Bible](https://www.crossway.org/bibles/esv-archaeology-study-bible-hccase/)|With editorial oversight from Dr. John Currid (PhD, University of Chicago) and Dr. David Chapman (PhD, University of Cambridge), as well as contributions from a team of field-trained archaeologists.<br>Double-column, paragraph format, Cross references, Footnotes, 2,000+ study notes, 400+ full-color photographs, 200+ maps and diagrams, 200+ informational sidebars, 14 articles, such as "Introduction to the ESV Archaeology Study Bible," “The Dead Sea Scrolls,” “Archaeology as an Academic Discipline,” “Expository Preaching and Archaeology," and “Daily Life in the Judea-Palestine in New Testament Times”, 4 timelines, Book introductions, Presentation page, 4-color printing, Smyth-sewn binding, Packaging: L-Card| -->
 
-# Recommended Courses
+<span style="font-family:Times;font-style:Italic;font-size:28px;">Recommended Courses</span>
 
 |||
 |:-:|:-:|
