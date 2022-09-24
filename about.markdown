@@ -22,7 +22,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 - The [Legacy Standard Bible (LSB)](https://lsbible.org/) is my primary.
     - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
-    - Literalness to Koine Greek exceeds 68.74% since it's more literal then the ESV, while readability is approximately 61.65% taken from the NASB score.
+    - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score.
     - [NT w/ Psalms & Proverbs bound in shamar goatskin at Royal Jongbloed in the Netherlands](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
 - Accessories
     - Tabbies Mini Gold-Edged Tabs
