@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:21:00 -0700
+date: 2021-11-01 12:23:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -163,7 +163,7 @@ Imagine, for a moment, the perfect [transcendental](https://www.gotquestions.org
 |All Knowing<br>([Omniscient](https://www.gotquestions.org/God-omniscient.html))|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 1:47–49; 21:17; Acts 1:24; 1 Cor. 4:5|
 |All Powerful<br>([Omnipotent](https://www.gotquestions.org/God-omnipotent.html))|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3; 1 Cor. 1:23–24; Heb. 1:2–3|
 |All Good<br>([Omnibenevolent](https://www.gotquestions.org/God-omnibenevolent.html))|Mt 5:48, Ex 34:6; Mark 10:17-18; John 10:11,14; Hebrews 7:26|
-|Self-existant<br>([Aseity](https://www.gotquestions.org/aseity-of-God.html))|John 1:1-3,14; Col. 1:16-17; Rev. 1:8, 17-18|
+|Self-existent<br>([Aseity](https://www.gotquestions.org/aseity-of-God.html))|John 1:1-3,14; Col. 1:16-17; Rev. 1:8, 17-18|
 |Sovereign|Eph. 1:21; Col. 2:10; 1 Pet. 3:22; Jn 5:22|
 |Unique|Dt 4:35;32:39, Is 43:10-11;44:6;45:5|
 
