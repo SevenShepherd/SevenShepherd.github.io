@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:55:00 -0500
+date: 2022-09-10 19:59:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -202,12 +202,15 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 
 # The following versions are eliminated:
 
+1. Amplified Bible, Classic Edition (AMPC) © 1954, 1958, 1962, 1964, 1965, 1987
+    - In parentheses, still not acceptable.
 1. Contemporary English Version (CEV) © 1995 
-<!-- 1. 1599 Geneva Bible (GNV) -->
 1. Living Bible (TLB) © 1971
 1. New Life Version (NLV) © 1969, 2003
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
     - In parentheses, still not acceptable.
+
+*Note: The 1599 Geneva Bible (GNV) contains the reference to Behemoth in [Jb 40:10](https://www.biblegateway.com/passage/?search=Job+40%3A10&version=GNV).*
 
 <span style="font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
 
@@ -226,6 +229,14 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
     - In parentheses, still not acceptable.
 1. Living Bible (TLB) © 1971 
 1. New Life Version (NLV) © 1969, 2003 
+
+*Note: The following Bibles contain references to Leviathan in different verses and are not eliminated:*
+
+1. *The Complete Jewish Bible (CJB) refers to leviathan as Livyatan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=CJB)*
+1. *The Douay-Rheims 1899 American Edition (DRA) contains the reference to Leviathan in [Job 40:20](https://www.biblegateway.com/passage/?search=Job+40%3A20&version=DRA)*
+1. *The New American Bible (Revised Edition) (NABRE) has Leviathan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=NABRE)*
+1. *The New Catholic Bible (NCB) has placed Leviathan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=NCB)*
+1. *The Tree of Life Version (TLV) references Leviathan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=TLV)*
 
 <span style="font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
 
@@ -266,9 +277,14 @@ If the name of God is so important, which it definitely is, then we should not o
 1. Darby Translation (DARBY) Public Domain
 1. Living Bible (TLB) © 1971 
 1. Young's Literal Translation (YLT) Public Domain
-1. King James Version (KJV) Public Domain
 
-*Note: The King James Version (KJV) was eliminated due to the following verses: Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV*
+The Following versions were also eliminated due to the following verses: Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV*
+
+1. 21st Century King James Version (KJ21)
+1. BRG Bible (BRG) Blue Red and Gold Letter Edition
+1. 1599 Geneva Bible (GNV) \**Except [Is 12:2](https://www.biblegateway.com/passage/?search=Is+12%3A2&version=GNV)*
+1. King James Version (KJV) Public Domain
+1. Authorized King James Version (AKJV)
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
 
@@ -313,6 +329,7 @@ NET Bible Translator Notes:
 1. Modern English Version (MEV) © 2014
 <!-- 1. New King James Version (NKJV) © 1982 -->
 1. New Matthew Bible (NMB) © 2016
+1. Orthodox Jewish Bible (OJB) \**Sefer*
 1. Revised Geneva Translation (RGT) © 2019
 1. Wycliffe Bible (WYC) © 2001
 1. Young's Literal Translation (YLT) Public Domain 
@@ -346,6 +363,7 @@ through—Greek, "by the gates."
 # The following versions which use 'Do his commandments' are eliminated:
 
 1. 21st Century King James Version (KJ21) © 1994 
+1. Amplified Bible (AMP) © 2015
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition™ Copyright © 2012 
 <!-- 1. Douay-Rheims 1899 American Edition (DRA) Public Domain -->
 1. 1599 Geneva Bible (GNV) 
@@ -358,7 +376,7 @@ through—Greek, "by the gates."
 1. Revised Geneva Translation (RGT) © 2019 
 <!-- 1. World English Bible (WEB) Public Domain -->
 <!-- 1. Wycliffe Bible (WYC) © 2001 -->
-1. Young's Literal Translation (YLT) Public Domain
+1. Young's Literal Translation (YLT) Public Domain \**His commands*
 
 *Notes: This list is the same as the section for 'Book of Life or Tree of Life?' excluding DRA, WYC.*
 
@@ -414,9 +432,9 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 1. Jubilee Bible 2000 (JUB) © 2013, 2020 
 1. King James Version (KJV) Public Domain
 1. Authorized King James Version (AKJV) 
+1. Living Bible (TLB) © 1971
 1. Modern English Version (MEV) © 2014 
 <!-- 1. New King James Version (NKJV) © 1982  -->
-1. Revised Geneva Translation (RGT) © 2019 
 1. Orthodox Jewish Bible (OJB) © 2002, 2003, 2008, 2010, 2011
 1. Wycliffe Bible (WYC) © 2001
 
@@ -950,37 +968,31 @@ NET Translator Notes:
 
 See also Acts 5:35
 
-# The following versions will be eliminated for perverting God's word:
+# The following versions will be eliminated for containing "sisters":
 
 1. Amplified Bible (AMP) © 2015
 1. Christian Standard Bible (CSB) © 2017
 1. Common English Bible (CEB) © 2011
-<!-- 1. Contemporary English Version (CEV) © 1995  -->
 1. Easy-to-Read Version (ERV) © 2006
-1. Good News Translation (GNT) © 1992 
-<!-- 1. The Message (MSG) © 1993, 2002, 2018 -->
 1. New Century Version (NCV) © 2005
 1. New International Reader's Version (NIRV) © 1995, 1996, 1998, 2014
 1. New International Version (NIV) © 1973, 1978, 1984, 2011
-<!-- 1. New International Version UK (NIVUK) © 1979, 1984, 2011 -->
-<!-- 1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995 -->
-<!-- 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995 -->
-<!-- 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993 -->
-<!-- 1. New Revised Standard Version Updated Edition (NRSVUE) © 2021 -->
+1. New International Version UK (NIVUK) © 1979, 1984, 2011
+1. New Revised Standard Version Updated Edition (NRSVUE) © 2021
 1. New Testament for Everyone (NTE) © 2011
+
+# The following versions containing "friends" will be eliminated:
+
+1. Contemporary English Version (CEV) © 1995 
+1. Good News Translation (GNT) © 1992 
+1. The Message (MSG) © 1993, 2002, 2018
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
+1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
+1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. The Voice (VOICE) © 2012
 1. Worldwide English (WE) © 1969, 1971, 1996, 1998
 
 *Notes: The Expanded Bible (EXB) contains the literal translation even though it is derived from the NCV which was eliminated, It would otherwise have been eliminated.*
-
-*As a side note, the following versions would have been removed had they not already been disqualified:*
-1. *Contemporary English Version (CEV) © 1995*
-1. *The Message (MSG) © 1993, 2002, 2018*
-1. *New International Version UK (NIVUK) © 1979, 1984, 2011*
-1. *New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995*
-1. *New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995*
-1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
-1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
 
 <span style="font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
 
@@ -996,24 +1008,21 @@ NET Translator Notes:
 
 # The following versions have corrupted the word of God:
 
+1. Common English Bible (CEB) © 2011
 1. Complete Jewish Bible (CJB) © 1998
+1. Easy-to-Read Version (ERV) © 2006
+1. Good News Translation (GNT) © 1992
+1. New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970
+1. New Life Version (NLV) © 1969, 2003
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
+1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
+1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
+1. New Revised Standard Version Updated Edition (NRSVUE) © 2021
 1. Revised Standard Version (RSV) © 1946, 1952, and 1971
+1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966
+1. The Voice (VOICE) © 2012
 
 *Notes: The New English Translation (NET) expanded upon the literal interpretation and included 'Virgin' in it's translator notes. Otherwise it would have eliminated.*
-
-*As a side note, the following versions would have been removed had they not already been disqualified:*
-
-1. *Common English Bible (CEB) © 2011*
-1. *Easy-to-Read Version (ERV) © 2006*
-1. *Good News Translation (GNT) © 1992* 
-1. *New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970* 
-1. *New Life Version (NLV) © 1969, 2003* 
-1. *New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995*
-1. *New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995*
-1. *New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993*
-1. *New Revised Standard Version Updated Edition (NRSVUE) © 2021*
-1. *Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966*
-1. *The Voice (VOICE) © 2012*
 
 <span style="font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
 
