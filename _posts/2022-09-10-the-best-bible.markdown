@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 19:59:00 -0500
+date: 2022-09-10 20:01:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -109,11 +109,11 @@ I will be reviewing the follow versions of the Bible.
 
 <span style="font-style:Italic;font-size:34px;">Contents</span>
 
-- I. Eliminating The Obvious
-- II. Occult Influence?
-- III. Behemoth or Hippopotamus?
-- IV. Leviathan or Crocodile?
-- V. Jehovah or Yahweh?
+- I. Occult Influence?
+- II. Behemoth or Hippopotamus?
+- III. Leviathan or Crocodile?
+- IV. Jehovah or Yahweh?
+- V. "Come" or "Come and see"?
 - VI. Book Of Life or Tree Of Life?
 - VII. Wash their robes or Do His commandments?
 - VIII. The Lucifer Problem
@@ -131,7 +131,7 @@ I will be reviewing the follow versions of the Bible.
 - XIX.
 - XX. -->
 
-<span style="font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
+<!-- <span style="font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
 # I am neither Catholic nor from the UK so the Bibles below have already been eliminated.
 
@@ -143,9 +143,9 @@ I will be reviewing the follow versions of the Bible.
 1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
 1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
 1. Phillips New Testament (PHILLIPS) © 1960, 1972
-1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
+1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966  -->
 
-<span style="font-style:Italic;font-size:34px;">II. Occult Influence?</span>
+<span style="font-style:Italic;font-size:34px;">I. Occult Influence?</span>
 
 Here is the Lord's Prayer from The Message (MSG) Bible, which is only a paraphrase and not a translation; however, the phrase [*"as above, so below"*](https://en.wikipedia.org/wiki/As_above,_so_below) caught my eye. Suffice It to Say, I will be removing The Message from the line up.
 
@@ -186,7 +186,7 @@ your will be done,<br>
 
 1. The Message (MSG) © 1993, 2002, 2018
 
-<span style="font-style:Italic;font-size:34px;">III. Behemoth or Hippopotamus?</span>
+<span style="font-style:Italic;font-size:34px;">II. Behemoth or Hippopotamus?</span>
 
 The Biblical description of the Behemoth can be found in Job 40:15-24 ([comparison](https://www.biblegateway.com/verse/en/Job%2040:15)). As you can see from the comparison, very few versions get this wrong.
 
@@ -212,7 +212,7 @@ The absurdity of translating Behemoth as hippopotamus is highlighted below. How 
 
 *Note: The 1599 Geneva Bible (GNV) contains the reference to Behemoth in [Jb 40:10](https://www.biblegateway.com/passage/?search=Job+40%3A10&version=GNV).*
 
-<span style="font-style:Italic;font-size:34px;">IV. Leviathan or Crocodile?</span>
+<span style="font-style:Italic;font-size:34px;">III. Leviathan or Crocodile?</span>
 
 The Biblical description of the Leviathan can be found in Job 41 ([comparison](https://www.biblegateway.com/verse/en/Job%2041:1)). As you can see from the comparison, very few versions get this wrong.
 
@@ -238,7 +238,7 @@ This is obviously a prehistoric creature. How many crocodiles do you know of tha
 1. *The New Catholic Bible (NCB) has placed Leviathan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=NCB)*
 1. *The Tree of Life Version (TLV) references Leviathan in [Job 40:25](https://www.biblegateway.com/passage/?search=Job+40%3A25&version=TLV)*
 
-<span style="font-style:Italic;font-size:34px;">V. Jehovah or Yahweh?</span>
+<span style="font-style:Italic;font-size:34px;">IV. Jehovah or Yahweh?</span>
 
 <span style="font-style:Italic;font-size:26px;">The Mistransliteration 'Jehovah' Was Never Used By The Jews</span>
 
@@ -278,7 +278,7 @@ If the name of God is so important, which it definitely is, then we should not o
 1. Living Bible (TLB) © 1971 
 1. Young's Literal Translation (YLT) Public Domain
 
-The Following versions were also eliminated due to the following verses: Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV*
+The Following versions were also eliminated due to the following verses: Ge 22:14 KJV; Ex 6:3 KJV; Ex 17:15 KJV; Jg 6:24 KJV; Ps 83:18 KJV; Is 12:2 KJV; Is 26:4 KJV
 
 1. 21st Century King James Version (KJ21)
 1. BRG Bible (BRG) Blue Red and Gold Letter Edition
@@ -287,6 +287,64 @@ The Following versions were also eliminated due to the following verses: Ge 22:1
 1. Authorized King James Version (AKJV)
 
 <!-- [article](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) -->
+
+<span style="font-style:Italic;font-size:34px;">V. "Come" or "Come and see"?</span>
+
+The short answer is that "Come" is likely a command given to the horsemen and not to John to "Come and see" who was already near, nor to the Lamb who was already opening the seal in Re 6:1. Here is a [comparison](https://www.biblegateway.com/verse/en/Revelation%206:1).
+
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
+
+> And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, <span style="font-weight:Bold;color:Red;">Come and see</span>. &mdash; Revelation 6:1 KJV (King James Version)
+>
+And when he had opened the second seal, I heard the second beast say, <span style="font-weight:Bold;color:Red;">Come and see</span>. &mdash; Revelation 6:3 KJV (King James Version)
+>
+And when he had opened the third seal, I heard the third beast say, <span style="font-weight:Bold;color:Red;">Come and see</span>. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand. &mdash; Revelation 6:5 KJV (King James Version)
+>
+And when he had opened the fourth seal, I heard the voice of the fourth beast say, <span style="font-weight:Bold;color:Red;">Come and see</span>. &mdash; Revelation 6:7 KJV (King James Version)
+
+--
+
+> Then I looked when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, <span style="font-weight:bold;color:Green;">“Come.”</span> 2 Then I looked, and behold, a white horse, and he who sits on it had a bow; and a crown was given to him, and he went out overcoming and to overcome. &mdash; Revelation 6:1-2 LSB (Legacy Standard Bible)
+>
+And when He opened the second seal, I heard the second living creature saying, <span style="font-weight:bold;color:Green;">“Come.”</span> 4 And another, a red horse, went out; and to him who sits on it, it was given to him to take peace from the earth, and that men would slay one another; and a great sword was given to him. &mdash; Revelation 6:3-4 LSB (Legacy Standard Bible)
+>
+And when He opened the third seal, I heard the third living creature saying, <span style="font-weight:bold;color:Green;">“Come.”</span> Then I looked, and behold, a black horse; and he who sits on it had a pair of scales in his hand. &mdash; Revelation 6:5 LSB (Legacy Standard Bible)
+>
+And when He opened the fourth seal, I heard the voice of the fourth living creature saying, <span style="font-weight:bold;color:Green;">“Come.”</span> 8 Then I looked, and behold, a pale horse; and he who sits on it had the name Death, and Hades was following with him. Authority was given to them over a fourth of the earth, to kill with sword and with famine and with pestilence and by the wild beasts of the earth. &mdash; Revelation 6:7-8 LSB (Legacy Standard Bible)
+
+NET Translator Notes:
+
+> Revelation 6:1 tc **The addition of “and see”** (καὶ ἴδε or καὶ βλέπε [kai ide or kai blepe]) **to “come”** (ἔρχου, erchou) in 6:1, 3-5, 7 is a gloss directed to John, i.e., “come and look at the seals and the horsemen!” But **the command ἔρχου is better interpreted as directed to each of the horsemen.** The shorter reading also has the support of the better witnesses.
+
+[Ellicott's Commentary for English Readers](https://biblehub.com/commentaries/revelation/6-1.htm)
+
+> **The words “and see” are doubtful.** They are found in some MSS. and omitted in others: the authority for their omission and for their retention is about equally divided. Under these circumstances we may fairly be guided by the context. To whom is the summons addressed? Who is bidden to come? If it was taken to be addressed to the seer, we can understand why some copyist should add the words “and see.” But are they addressed to the seer? It seems difficult to see the purpose of such a command. **He was near already.** He had seen the Lamb opening the seal. There was no object in his drawing near. Are the words, then, addressed, as Alford supposes, to Christ? It is difficult to believe that the living creature would thus cry to the Lamb, **who was opening the scroll.** The simplest way of answering the question is to ask another: **Who did come in obedience to the voice? There is but one answer—the horseman. The living beings cry “Come,” and their cry is responded to by the appearance of the several riders.**
+
+[Cambridge Bible for Schools and Colleges](https://biblehub.com/commentaries/revelation/6-1.htm)
+
+> Come and see] **The two last words are almost certainly spurious here and in Revelation 6:3; Revelation 6:5; Revelation 6:7 : the cry is only “Come!” in all four cases.** Who then is to come? Some say the received reading, originally no doubt a gloss, is a correct gloss—the Seer is to draw near. But the word is quite **different from the “Come hither”** of Revelation 17:1, Revelation 21:9 : also there is no sign that he does draw near or has need to do so, and if he has done so once, why is he bidden to do it thrice again? Others take it to be **a summons to the Horseman who in fact does come: and this at least is in harmony with the context, and makes good sense, and applies equally to the opening of the first four seals where the same expression occurs.**
+
+[Jamieson-Fausset-Brown Bible Commentary](https://biblehub.com/commentaries/revelation/6-1.htm)
+
+> Come and see—One oldest manuscript, B, has "And see." But **A, C, and Vulgate reject it**.
+
+# The following versions containing "and see" are likely incorrect, but given the undecided nature of this specific variant, I won't count this section:
+
+1. 21st Century King James Version (KJ21)
+1. BRG Bible (BRG)
+1. Darby Translation (DARBY)
+1. Douay-Rheims 1899 American Edition (DRA)
+1. 1599 Geneva Bible (GNV)
+1. Jubilee Bible 2000 (JUB)
+1. King James Version (KJV)
+1. Authorized King James Version (AKJV)
+1. Modern English Version (MEV)
+1. New King James Version (NKJV) 
+1. New Life Version (NLV)
+1. New Matthew Bible (NMB)
+1. Orthodox Jewish Bible (OJB)
+1. World English Bible (WEB)
+1. Wycliffe Bible (WYC)
 
 <span style="font-style:Italic;font-size:34px;">VI. Book Of Life or Tree Of Life?</span>
 
@@ -1234,7 +1292,7 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 
 <span style="font-style:Italic;font-size:26px;">Primary Selection</span>
 
-My *Primary Bible* is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+- The [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
 <!-- <span style="font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
 
@@ -1250,7 +1308,7 @@ Notes & Expansions
 
 Readability
 
-- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of alternate texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
+- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of omitted texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
 
 - The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
 
@@ -1258,13 +1316,13 @@ Readability
 
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
 
-The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
+- The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
 
-The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
+- The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
 
-The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
+- The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
 
-The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text.
+- The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text.
 
 
 <script>
