@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 20:01:00 -0500
+date: 2022-09-10 20:10:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1110,7 +1110,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 
 # The following versions have been eliminated:
 
-*Notes: These versions of the Bible are actually really good, they just fail to defend Jesus deity in the most important ways. They should be looked at as outdated and not using the oldest and best manuscripts.*
+*Notes: These versions of the Bible are actually really good, they should just be looked at as outdated and not using the oldest and best manuscripts.*
 
 *The Expanded Bible (EXB) contains the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
 
@@ -1292,7 +1292,7 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 
 <span style="font-style:Italic;font-size:26px;">Primary Selection</span>
 
-- The [***The Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+- The [***Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
 <!-- <span style="font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
 
