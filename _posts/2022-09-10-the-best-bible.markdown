@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Version Of The Bible Is Closest To The Autographs? 📖"
-date: 2022-09-10 20:10:00 -0500
+date: 2022-09-10 20:21:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -326,7 +326,10 @@ NET Translator Notes:
 
 [Jamieson-Fausset-Brown Bible Commentary](https://biblehub.com/commentaries/revelation/6-1.htm)
 
-> Come and see—One oldest manuscript, B, has "And see." But **A, C, and Vulgate reject it**.
+> 6:1. Come and see—One oldest manuscript, B, has "And see." But **A, C, and Vulgate reject it**.<br>
+6:3. and see—omitted in **the three oldest manuscripts, A, B, C, and Vulgate.**<br>
+6:5. Come and see—**The two oldest manuscripts, A, C, and Vulgate omit "and see."** B retains the words.<br>
+6:7. and see—supported by B; **omitted by A, C, and Vulgate.**
 
 # The following versions containing "and see" are likely incorrect, but given the undecided nature of this specific variant, I won't count this section:
 
