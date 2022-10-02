@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 03:15:52 -0500
+date: 2022-10-02 03:16:52 -0500
 categories: heaven bible
 published: true
 ---
@@ -36,7 +36,7 @@ The *First Heaven*&mdash;also known as the *Atmospheric Heaven*&mdash;is compose
 
     > “Yet he did not leave himself without witness, for he did good by giving you <span style="font-weight:Bold;color:#0099cc;">rains from heaven</span> and fruitful seasons, satisfying your hearts with food and gladness.” &mdash; Acts 14:17
     
-    As well as nourishment for the earth Deut. <!--11:11; Is 55:10; Ps 147:8-->
+    As well as nourishment for the earth. <!--Deut. 11:11; Is 55:10; Ps 147:8-->
 
     > “But the land that you are going over to possess is a land of hills and valleys, which drinks water by <span style="font-weight:Bold;color:#0099cc;">the rain from heaven</span>,” &mdash; Deut. 11:11
     <!-- “For as <span style="font-weight:Bold;color:#0099cc;">the rain and the snow come down from heaven</span> and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, -->
