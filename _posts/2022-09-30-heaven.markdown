@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 03:16:52 -0500
+date: 2022-10-02 03:20:00 -0500
 categories: heaven bible
 published: true
 ---
+
+## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
+
+Hello, this article is a work in progress. When this warning sign is taken down it will be finished.
 
 <!-- Jn 14:1-6
 
@@ -15,6 +19,12 @@ Psalm 33:13–14; Isaiah 66:1; Matthew 6:9; Hebrews 7:26; Revelation 11:19
 [The short answer to this question is, “heaven is where God is.”](https://www.gotquestions.org/where-is-Heaven.html)
 
 The idea that more than one type of “heaven” exists is confirmed in Hebrews 7:26, which says that Jesus, our High Priest, is “exalted above the heavens”; in other words, Jesus is in a heaven beyond other heavens. Heb. 4:14 -->
+
+<span style="font-style:Italic;font-size:34px;">Contents</span>
+
+|:-:|:-:|
+|The Heavens|I. The First Heaven<br>II. The Second Heaven<br>III. The Third Heaven|
+|Past & Future|IV. Abraham's Bosom<br>V. New Jerusalem<br>VI. New Heaven|
 
 <span style="font-style:Italic;font-size:34px;">I. The First Heaven, The Atmospheric Heaven</span>
 
@@ -81,12 +91,19 @@ The *Stellar Heaven* will play a major role in the coming tribulation period, Th
 
 <span style="font-style:Italic;font-size:34px;">III. The Third Heaven, The Heaven of God’s Presence</span>
 
-![Third Heaven](/assets/images/heavens/thirdheaven.gif)
+![Third Heaven](/assets/images/heavens/higherspace.jpg)
 
-The third heaven&mdash;or paradise&mdash;is the heaven of God’s presence. This is likely the extra-dimensional and hyperspatial dimensions above and beyond the spatiotemporal limitations of mankind.
+The *Third Heaven* is the heaven of God’s presence. This is likely an extra-dimensional plane of existence above and beyond the spatiotemporal limitations of human understanding. 
 
-> He alone possesses immortality and **lives in unapproachable light**, whom no human has ever seen or is able to see. To him be honor and eternal power! Amen. &mdash; [1 Timothy 6:16 NET (New English Translation)](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A16&version=NET)
+> He who descended is the one who also ascended <span style="font-weight:Bold;color:#daa520;">far above all the heavens</span>, that he might fill all things.) &mdash; Ephesians 4:10 ESV (English Standard Version)
 
+> He alone possesses immortality and **lives in unapproachable light**, [whom no human has ever seen or is able to see](https://sevenshepherd.github.io/deity-37/). To him be honor and eternal power! Amen. &mdash; [1 Timothy 6:16 NET (New English Translation)](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A16&version=NET)
+
+The *Third Heaven* is the command post and center of operation for God's universal kingdom, from which he rules over everything in the universe.
+
+> Yahweh has established His throne in <span style="font-weight:Bold;color:#daa520;">the heavens</span>, And His kingdom rules over all. &mdash; Ps. 103:19 LSB (Legacy Standard Bible); See Ps. 93:1; 96:10; 99:1
+
+<!-- Yahweh reigns, let the peoples tremble; He sits enthroned above the cherubim, let the earth quake! &mdash; Ps. 99:1 LSB (Legacy Standard Bible) -->
 
 <span style="font-style:Italic;font-size:19px;">Critical Text</span>
 
@@ -101,10 +118,10 @@ The third heaven&mdash;or paradise&mdash;is the heaven of God’s presence. This
     --
 
     > 2 I know a man in Christ who fourteen years ago (whether in the body or out of the body I do not know, God knows) was caught up to the <span style="font-weight:Bold;color:#daa520;">third heaven</span>. 3 And I know that this man (whether in the body or apart from the body I do not know, God knows) 4 was caught up into paradise[**a**] and heard things too sacred to be put into words,[**b**] things that a person[**c**] is not permitted to speak. &mdash; [2 Cor 12:2-4 NET (New English Translation)](https://www.biblegateway.com/passage/?search=2+Cor+12%3A2-4&version=NET)
-    >
-    **NET Translator Notes (Literal)**
-    >
-    **a**. <u>2 Corinthians 12:4 NET</u> sn In the NT, paradise is mentioned three times. In Luke 23:43 NET it refers to the abode of the righteous dead. In Rev 2:7 NET it refers to the restoration of Edenic paradise predicted in Isa 51:3 NET and Ezek 36:35 NET. The reference here in 2 Cor 12:4 NET <span style="font-weight:Bold;color:#daa520;">is probably to be translated as parallel to the mention of the “third heaven” in v. 2.</span> Assuming that <span style="font-weight:Bold;color:#0099cc;">the “first heaven” would be atmospheric heaven (the sky)</span> and <span style="font-weight:Bold;color:#993399;">“second heaven” the more distant stars and planets</span>, <span style="font-weight:Bold;color:#daa520;">“third heaven” would refer to the place where God dwells.</span> This is much more likely than some variation on the seven heavens mentioned in the pseudepigraphic book 2 Enoch and in other nonbiblical and rabbinic works.<br>
+    
+    NET Translator Notes (Literal)
+
+    > **a**. <u>2 Corinthians 12:4 NET</u> sn In the NT, paradise is mentioned three times. In Luke 23:43 NET it refers to the <span style="font-weight:Bold;color:#BC3823;">abode of the righteous dead</span>. In Rev 2:7 NET it refers to the restoration of Edenic paradise predicted in Isa 51:3 NET and Ezek 36:35 NET. The reference here in 2 Cor 12:4 NET <span style="font-weight:Bold;color:#daa520;">is probably to be translated as parallel to the mention of the “third heaven” in v. 2.</span> Assuming that <span style="font-weight:Bold;color:#0099cc;">the “first heaven” would be atmospheric heaven (the sky)</span> and <span style="font-weight:Bold;color:#993399;">“second heaven” the more distant stars and planets</span>, <span style="font-weight:Bold;color:#daa520;">“third heaven” would refer to the place where God dwells.</span> This is much more likely than some variation on the seven heavens mentioned in the pseudepigraphic book 2 Enoch and in other nonbiblical and rabbinic works.<br>
     > **b**. <u>2 Corinthians 12:4 NET</u> tn Or “things that cannot be put into words.”<br>
     > **c**. <u>2 Corinthians 12:4 NET</u> tn Grk “a man.”
 
@@ -126,7 +143,7 @@ The *Third Heaven* is also known as the *Highest Heaven*. God's Throne is outsid
 
 - Formal Equivalence -->
 
-> “But will God truly dwell on the earth? Behold, heaven and <span style="font-weight:Bold;color:#daa520;">the highest heaven</span> cannot contain You; how much less this house which I have built! &mdash; [1 Kings 8:27 LSB (Legacy Standard Bible)](https://read.lsbible.org/?q=1+Kings+8%3A27)
+> “But will God truly dwell on the earth? **Behold, heaven and** <span style="font-weight:Bold;color:#daa520;">the highest heaven</span> **cannot contain You**; how much less this house which I have built! &mdash; [1 Kings 8:27 LSB (Legacy Standard Bible)](https://read.lsbible.org/?q=1+Kings+8%3A27)
 
 <span style="font-style:Italic;font-size:24px;">Far Above All The Heavens</span>
 
@@ -222,19 +239,38 @@ The *Third Heaven* is known as the *Heaven of Heavens*, this may be identical to
     >
     <span style="font-size:14px;">\*NKJV is formally equivalent; however, in this verse the translators have opted for a dynamic rendering.</span>
 
-<!-- <span style="font-style:Italic;font-size:34px;">IV. Paradise</span>
+<span style="font-style:Italic;font-size:34px;">IV. Abraham's Bosom, The Paradise Side of Hell</span>
 
-[AB](https://www.gotquestions.org/Abrahams-bosom.html)
+![Underworld](/assets/images/heavens/third_heaven.gif)
 
-<span style="font-style:Italic;font-size:34px;">V. New Jerusalem, The Holy City</span>
+The term “[Abraham’s bosom](https://www.gotquestions.org/Abrahams-bosom.html)” is found only once in the New Testament, in [the story of the rich man and Lazarus (Luke 16:19-31)](https://read.lsbible.org/?q=Luke+16%3A19-31). This place is also referred to as the *abode of the righteous dead*, it is a place of comfort to which the angels carried Lazarus upon his death. *Abraham's Bosom*, or less traditionally and more literally, *Abraham's Side* is equivalent to *Paradise*. All of God's people went there until calvary.
+
+> **22** ·Later <span style="color:#bfbfbf;">[<sup>L</sup> Now it happened that]</span>, Lazarus died, and the angels carried him to ·<span style="font-weight:Bold;color:#BC3823;">the arms of Abraham</span> <span style="color:#bfbfbf;">[<span style="color:#BC3823;"><sup>L</sup> Abraham’s side/<sup>T</sup> bosom</span>; <sup>C</sup> the imagery of a banquet, with Abraham as host and Lazarus as honored guest]</span>. The rich man died, too, and was buried. **23** In ·the place of the dead <span style="color:#bfbfbf;">[<sup>L</sup> Hades]</span>, he was in ·much pain [torment]. ·Looking up <span style="color:#bfbfbf;">[<sup>L</sup> Lifting up his eyes,]</span>, the rich man saw Abraham far away with Lazarus ·at his side <span style="color:#bfbfbf;">[<sup>T</sup> in his bosom]</span>. ... **26** Besides <span style="color:#bfbfbf;">[<sup>L</sup> all this]</span>, there is <span style="font-weight:Bold;color:#003366;">a ·big pit</span> <span style="color:#003366;">[great gulf/chasm set in place]</span> between you and us, so no one can cross over to you, and no one can leave there and come ·here <span style="color:#bfbfbf;">[<sup>L</sup> to us]</span>.’ &mdash; [Luke 16:22-23,26 EXB (Expanded Bible)](https://www.biblegateway.com/passage/?search=Luke+16%3A22-23%2C26&version=NET;EXB)
+
+--
+
+> **22** “Now[a] the poor man died and was carried by the angels to <span style="font-weight:Bold;color:#BC3823;">Abraham’s side</span>.[b] The[c] rich man also died and was buried.[d] **23** And in Hades,[e] as he was in torment,[f] he looked up[g] and saw Abraham far off with Lazarus at his side.[h] ... **26** Besides all this,[a] <span style="font-weight:Bold;color:#003366;">a great chasm</span>[b] <span style="font-weight:Bold;color:#003366;">has been fixed between us</span>,[c] so that those who want to cross over from here to you cannot do so, and no one can cross from there to us.’ &mdash; [Luke 16:22-23,26 NET (New English Translation)](https://www.biblegateway.com/passage/?search=Luke+16%3A22-23%2C26&version=NET;EXB)
+
+NET Translator Notes
+
+> **b**. <u>Luke 16:22</u> tn Grk “to <span style="font-weight:Bold;color:#BC3823;">Abraham’s bosom</span>.” The phrase “carried by the angels to <span style="font-weight:Bold;color:#BC3823;">Abraham’s bosom</span>” describes being gathered to the fathers and is a way to refer to heaven (Gen 15:15; 47:30; Deut 31:16).<br>
+**e**. <u>Luke 16:23</u> sn The Greek term Hades stands for the Hebrew concept of Sheol. This is where the dead were gathered (Pss 16:10; 86:13). In the NT Hades sometimes has an additional negative force of awaiting judgment (Rev 20:13).<br>
+**f**. <u>Luke 16:23</u> sn Hades is a place of torment, especially as one knows that he is separated from God.<br>
+**h**. <u>Luke 16:23</u> tn Grk “in his bosom,” the same phrase used in 16:22. This idiom refers to heaven and/or participation in the eschatological banquet. An appropriate modern equivalent is “at <span style="font-weight:Bold;color:#BC3823;">Abraham’s side.</span>”
+
+*Abraham's Bosom* was the comfort side of Hades before it was evacuated after Christ's crucifixion and resurrection when Christ descended into the lower parts of the earth and ascended, taking His people waiting there to the *Third Heaven* (where all saints presently go at death) (Eph 4:8-10 NKJV; 2 Cor 12:2-4)
+
+> So we are always confident, knowing that while we are at home in the body we are absent from the Lord. 7 For we walk by faith, not by sight. 8 We are confident, yes, well pleased rather to be **absent from the body and to be present with the Lord**. &mdash; 2 Corinthians 5:6-8 NKJV (New King James Version)
+
+<!-- <span style="font-style:Italic;font-size:34px;">V. New Jerusalem, The Holy City</span>
 
 [NJ](https://www.gotquestions.org/new-jerusalem.html)
 
 <span style="font-style:Italic;font-size:34px;">VI. New Heaven, New Earth</span> 
 
-[NHNE](https://www.gotquestions.org/new-heavens-earth.html)
+[NHNE](https://www.gotquestions.org/new-heavens-earth.html) -->
 
--->
+
 
 <script>
     var refTagger = {
