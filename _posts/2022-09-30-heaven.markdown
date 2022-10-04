@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 03:30:00 -0500
+date: 2022-10-02 03:37:00 -0500
 categories: heaven bible
 published: true
 ---
@@ -21,7 +21,7 @@ Hello, this article is a work in progress. When this warning sign is taken down 
 
 |:-:|:-:|
 |The Heavens|I. The First Heaven<br>II. The Second Heaven<br>III. The Third Heaven|
-|Past & Future|IV. Abraham's Bosom<br>V. New Heaven, New Earth|
+|Past & Future|IV. Abraham's Bosom<br>V. New Heaven, New Earth<br>VI. New Jerusalem|
 
 <span style="font-style:Italic;font-size:34px;">I. The First Heaven, The Atmospheric Heaven</span>
 
@@ -281,28 +281,23 @@ And the former things will not be remembered or come upon the heart. &mdash; [Is
 
 > But we are looking forward to the <span style="font-weight:Bold;color:#009999;">new heavens and new earth</span> he has promised, a world filled with God’s righteousness. &mdash; [2 Pet 3:13 NLT](https://www.biblegateway.com/passage/?search=2+Pet+3%3A13&version=NLT)
 
-<span style="font-style:Italic;font-size:24px;">New Jerusalem, The Holy City</span>
+<span style="font-style:Italic;font-size:34px;">VI. New Jerusalem, The Holy City</span> 
 
 ![New Jerusalem](/assets/images/heavens/new_jerusalem.jpg)
 
+> He who overcomes, I will make him a pillar in the sanctuary of My God, and he will never go out from it anymore. And I will write on him the name of My God, and the name of the city of My God, <span style="font-weight:Bold;color:#009999;">the new Jerusalem, which comes down out of heaven</span> from My God, and My new name. &mdash; [Revelation 3:12 LSB (Legacy Standard Bible)](https://read.lsbible.org/?q=Rev.+3%3A12)
 
-In the apostle John's Vision (Revelation 21:1-2), he sees the [*New Jerusalem*](https://www.gotquestions.org/new-jerusalem.html) descending from *Heaven* to the *New Earth* after the millennium. There God will dwell with his people. He will wipe away their tears and remove all negative remnants of the previously cursed world ([Rev. 21:3–7](https://read.lsbible.org/?q=Rev.+21%3A3-7)). Thus, in the fullest way heaven will come to earth. There will be no sickness, no hunger, no trouble, and no tragedy, just absolute joy and eternal blessings.
+> So he took me in the Spirit[a] to a great, high mountain, and he showed me <span style="font-weight:Bold;color:#009999;">the holy city, Jerusalem, descending out of heaven from God</span>. &mdash; Revelation 21:10 NLT
+
+In the apostle John's Vision, he sees the [*New Jerusalem*](https://www.gotquestions.org/new-jerusalem.html) descending from *Heaven* to the *New Earth* after the millennium. There God will dwell with his people. <span style="font-style:Italic;color:#828282;">“He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.” (Re 21:4)</span>, removing all negative remnants of the previously cursed world.
 
 <!--New or Third Heaven?-->
 
-> He who overcomes, I will make him a pillar in the sanctuary of My God, and he will never go out from it anymore. And I will write on him the name of My God, and the name of the city of My God, <span style="font-weight:Bold;color:#009999;">the new Jerusalem, which comes down out of heaven</span> from My God, and My new name. &mdash; [Revelation 3:12 LSB (Legacy Standard Bible)](https://read.lsbible.org/?q=Rev.+3%3A12)
-
---
-
 > Then I saw a <span style="font-weight:Bold;color:#009999;">new heaven and a new earth</span> <span style="color:#009999;">[Is. 65:17; 66:22; 2 Pet. 3:13]</span>. <span style="color:#009999;">[<sup>L</sup> For]</span> <span style="font-weight:Bold;color:#009999;">The first heaven and the first earth had ·disappeared</span> <span style="color:#009999;">[passed away]</span>, and there was no sea anymore <span style="color:#bfbfbf;">[<sup>C</sup> the sea represents chaos and evil, so its absence indicates peace and security]</span>. 2 And <span style="font-weight:Bold;color:#009999;">I saw the holy city, the new Jerusalem</span> <span style="color:#009999;">[<sup>C</sup> the believers’ eternal dwelling place; 3:12]</span>, <span style="font-weight:Bold;color:#009999;">coming down out of heaven from God</span>. It was prepared like a bride ·dressed [adorned] for her husband <span style="color:#bfbfbf;">[19:7, 9]</span>. 3 And I heard a loud voice from the throne, saying, “<span style="color:#bfbfbf;">[<sup>L</sup> Look; <sup>T</sup> Behold]</span> Now God’s ·presence <span style="color:#bfbfbf;">[dwelling; tabernacle]</span> is with people, and he will ·live <span style="color:#bfbfbf;">[dwell; tabernacle; John 1:14]</span> with them, and they will be his people <span style="color:#bfbfbf;">[Ex. 29:45; Jer. 31:33; Ezek. 37:27]</span>. God himself will be with them and will be their God.[a] 4 He will wipe away every tear from their eyes <span style="color:#bfbfbf;">[7:17; Is. 25:8]</span>, and there will be no more death <span style="color:#bfbfbf;">[Is. 25:8; 1 Cor. 15:54]</span>, ·sadness <span style="color:#bfbfbf;">[mourning]</span>, crying, or pain, because ·all the old ways <span style="color:#bfbfbf;">[the old order; <sup>L</sup> the first things]</span> are gone.”
 >
-5 The One who was sitting on the throne <span style="color:#bfbfbf;">[<sup>C</sup> Jesus]</span> said, “Look! I am making everything new!” Then he said, “Write this, because these words are ·true and can be trusted <span style="color:#bfbfbf;">[<sup>L</sup> faithful/reliable and true]</span>.”
+5 The One who was sitting on the throne <span style="color:#bfbfbf;">[<sup>C</sup> Jesus]</span> said, <span style="font-weight:Bold;color:#009999;">“Look! I am making everything new!”</span> Then he said, “Write this, because these words are ·true and can be trusted <span style="color:#bfbfbf;">[<sup>L</sup> faithful/reliable and true]</span>.”
 >
 6 The One on the throne said to me, “It is ·finished <span style="color:#bfbfbf;">[done; accomplished]</span>. I am the Alpha and the Omega <span style="color:#bfbfbf;">[<sup>C</sup> the first and last letters of the Greek alphabet; 1:8]</span>, the Beginning and the End. I will give ·free water <span style="color:#bfbfbf;">[<sup>L</sup> freely]</span> from the spring of the water of life to anyone who is thirsty <span style="color:#bfbfbf;">[Is. 55:1; John 7:37]</span>. 7 Those who ·win the victory <span style="color:#bfbfbf;">[conquer]</span> will ·receive <span style="color:#bfbfbf;">[inherit]</span> ·this <span style="color:#bfbfbf;">[<sup>L</sup> these things; <sup>C</sup> God’s promise]</span>, and I will be their God, and they will be my children <span style="color:#bfbfbf;">[21:3; 2 Sam. 7:14]</span>. &mdash; [Revelation 21:1-7 EXB (Expanded Bible)](https://www.biblegateway.com/passage/?search=Revelation+21%3A1-7+&version=EXB)
-
---
-
-> So he took me in the Spirit[a] to a great, high mountain, and he showed me <span style="font-weight:Bold;color:#009999;">the holy city, Jerusalem, descending out of heaven from God</span>. &mdash; Revelation 21:10 NLT
 
 
 
