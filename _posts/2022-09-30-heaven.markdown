@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 03:47:00 -0500
+date: 2022-10-02 04:00:00 -0500
 categories: heaven bible
 published: true
 ---
@@ -377,7 +377,13 @@ In the apostle John's Vision, he sees the [*New Jerusalem*](https://www.gotquest
 >
 6 The One on the throne said to me, “It is ·finished <span style="color:#bfbfbf;">[done; accomplished]</span>. I am the Alpha and the Omega <span style="color:#bfbfbf;">[<sup>C</sup> the first and last letters of the Greek alphabet; 1:8]</span>, the Beginning and the End. I will give ·free water <span style="color:#bfbfbf;">[<sup>L</sup> freely]</span> from the spring of the water of life to anyone who is thirsty <span style="color:#bfbfbf;">[Is. 55:1; John 7:37]</span>. 7 Those who ·win the victory <span style="color:#bfbfbf;">[conquer]</span> will ·receive <span style="color:#bfbfbf;">[inherit]</span> ·this <span style="color:#bfbfbf;">[<sup>L</sup> these things; <sup>C</sup> God’s promise]</span>, and I will be their God, and they will be my children <span style="color:#bfbfbf;">[21:3; 2 Sam. 7:14]</span>. &mdash; [Revelation 21:1-7 EXB (Expanded Bible)](https://www.biblegateway.com/passage/?search=Revelation+21%3A1-7+&version=EXB)
 
+<span style="font-style:Italic;font-size:34px;">In Summary</span> 
 
+The ***First Heaven***—also known as the *Atmospheric Heaven*—is composed of six different layers (troposphere, stratosphere, mesosphere, thermosphere, ionosphere, and exosphere) representing the first 621 miles of space known as the atmosphere, what we call, the sky.
+
+The ***Second Heaven*** or *Stellar Heaven* is at a minimum, 80 sextillion miles from the exosphere to HD1 (the farthest known object). This likely not even a fraction of the true distance. 
+
+The ***Third Heaven***&mdash;*The Heaven of God’s Presence*&mdash;is so mind-bogglingly far that all of spacetime isn't enough to describe its border, and it is likely in an extra-dimensional plane of existence above and beyond the spatiotemporal limitations of human understanding.
 
 <script>
     var refTagger = {
