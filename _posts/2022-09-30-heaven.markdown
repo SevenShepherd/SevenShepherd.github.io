@@ -1,18 +1,16 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 03:40:00 -0500
+date: 2022-10-02 03:47:00 -0500
 categories: heaven bible
 published: true
 ---
 
-## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span>
+<!-- ## ⚠️ <span style="font-weight:bold;color:Gold;">Under Construction</span> -->
 
-Hello, this article is a work in progress. When this warning sign is taken down it will be finished.
+<!-- Hello, this article is a work in progress. When this warning sign is taken down it will be finished. -->
 
 <!-- Jn 14:1-6 -->
-
-<!-- 2 Ki 2:11 KJV; Ps 48:2 KJV; Ps 75:6 KJV; Is 14:13 KJV; Ac 1:9 KJV -->
 
 <!-- [Third](https://www.gotquestions.org/Paul-third-heaven.html)
 [The short answer to this question is, “heaven is where God is.”](https://www.gotquestions.org/where-is-Heaven.html) -->
@@ -85,6 +83,49 @@ The *Stellar Heaven* will play a major role in the coming tribulation period, Th
 > “Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and <span style="font-weight:Bold;color:#993399;">the stars will fall from heaven, and the powers of the heavens will be shaken</span>. &mdash; Matthew 24:29 ESV (English Standard Version); See [Is. 13:10; 34:4; cf. Ezek. 32:7–8; Joel 2:10, 31].
 >
 <span style="font-size:14px;">\*I'm a little disappointed that the [LSB](https://read.lsbible.org/?q=Matthew+24%3A29) says "the sky" instead of "heaven". Kudos to the [ESV, NET, and EXB](https://www.biblegateway.com/passage/?search=Matthew+24%3A29&version=ESV;NET;EXB) for the more literal translation.</span>
+
+<span style="font-style:Italic;font-size:24px;">How Far Does The Second Heaven Extend?</span>
+
+<span style="font-style:Italic;font-size:19px;">The Speed of Light</span>
+
+There are approximately 1609.344 meters/second in 1 mile/second or 1 mi/s per 1609.344 m/s. The formula for use in conversion becomes: mi/s = m/s ÷ 1,609.344. So if the speed of light is [299,792,458 meters/second](https://www.britannica.com/science/speed-of-light), then the speed of light in miles/second is 299,792,458 meters/second divided by 1609.344 meters/second, which is **186,282.4** (186,282.39705122088)
+
+<span style="font-style:Italic;font-size:19px;">The Farthest Object From Earth</span>
+
+According to an article published by [livescience.com](https://www.livescience.com/farthest-astronomical-object-ever-seen) in April 07, 2022. The farthest object ever seen is called: HD1, "A possible galaxy that exists some 13.5 billion light-years from Earth..."
+
+<span style="font-style:Italic;font-size:19px;">Total Distance Traveled By Angels in an Instant</span>
+
+A small python script reveals that there are 31,536,000 seconds in a year. If there are 186,282.4 miles traveled every second while traveling at light speed, then there are 6 trillion miles (5,874,601,673,407.302) traveled annually. 5,874,601,673,407.302 multiplied by the distance of the furthest object, yields 80 sextillion (79,307,122,590,998,574,661,632) miles.
+
+```py
+from datetime import timedelta
+timedelta(365).total_seconds()
+# 31536000.0
+
+# Seconds in a year * miles traveled every second at light speed
+31536000 * 186282.39705122088
+# 5874601673407.302
+
+# 6 trillion miles traveled annually * distance of HD1
+5874601673407.302 * 13500000000.0
+# f"{ans:,.0f}" -> 79,307,122,590,998,574,661,632
+```
+
+<span style="font-style:Italic;font-size:19px;">Conclusion</span>
+
+The *Second Heaven or Stellar Heaven* extends approximately 80 sextillion miles minimally. It is much more likely that this isn't even a fraction of the true distance. Wherever the line may be, the *Third Heaven* exists.
+
+> Beyond that is the third heaven&mdash;the heaven of heavens&mdash;God's throne. It is upward and in the north. Elijah was caught up by a whirlwind into heaven (2 Ki 2:11 KJV; Ps 48:2 KJV; Ps 75:6 KJV; Is 14:13 KJV; Ac 1:9 KJV). Astronomers tell us there is an opening in the universe to get to this third heaven. It is in the north, in the constellation of "Swan." Job 26:7 KJV says, He stretcheth out the north over the empty place. To understand the word, "Paradise," see Hades, or Abraham's Bosom. &mdash; Dr. Jack Van Impe
+
+<!-- <span style="font-style:Italic;font-size:24px;">A Description of the Heavens by the late great Dr. Jack Van Impe</span>
+
+An excerpt from Dr. Jack Van Impe's *Prophecy Bible*.
+
+> <span style="margin-left:1.5em">Jesus</span> spoke about two places in eternity, heaven and hell (Matthew 7:13,14,21; 25:41,46; Luke 16:22-24) (see Hell). Death is not a sad ending but a glorious beginning (John 14:1-6). Heaven is so real that God gives details concerning its location. His Word speaks of three heavens:<br>
+<span style="margin-left:1.5em">Here's</span> an attempt to describe the third heaven and the distance God's elect angels travel, coming from that location to earth. The atmosphere, troposphere, stratosphere, mesosphere, ionosphere, and exosphere are all part of the first heaven and reach upwards into the first 600 miles of space. The second heaven begins at that point and is so astronomically far into space that it's practically impossible to comprehend. Recently astronomers discovered a new quasar some 1400 billion light years from earth. How far is that, you ask? Well, light travels at a rate of 186,000 miles per second. This produces a total of 6 trillion miles annually and is called a light year. Thus, the second heaven extends upwards into space some 1400 billion time 6 trillion miles. Beyond that is the third heaven&mdash;the heaven of heavens&mdash;God's throne.<br>
+<span style="margin-left:1.5em">It is upward and in the north. Elijah was caught up by a whirlwind into heaven (2 Ki 2:11 KJV; Ps 48:2 KJV; Ps 75:6 KJV; Is 14:13 KJV; Ac 1:9 KJV).<br>
+<span style="margin-left:1.5em">Astronomers tell us there is an opening in the universe to get to this third heaven. It is in the north, in the constellation of "Swan." Job 26:7 KJV says, He stretcheth out the north over the empty place. To understand the word, "Paradise," see Hades, or Abraham's Bosom. -->
 
 <span style="font-style:Italic;font-size:34px;">III. The Third Heaven, The Heaven of God’s Presence</span>
 
@@ -300,9 +341,11 @@ NET Translator Notes
 
 <span style="font-style:Italic;font-size:24px;">A description of Hades by the late great Dr. Jack Van Impe</span> 
 
-> <span style="margin-left:1em">Hades</span> was the place where the souls and the spirits of all humans went until the cross. Sheol (Old Testament) and Hades (New Testament) are one and the same. In Sheol or Hades there were two compartments, one for the wicked and the other for the righteous ... one for suffering and the other for comfort (Luke 16:22,23). The thief on the cross went to the comfort side, or Paradise, as promised by Christ (Luke 23:34) (see Abraham's Bosom). This is where Christ went upon His death (Acts 2:27,31). There He ministered to His people and led captivity captive (Ephesians 4:8-10), releasing and transporting them to the third heaven of 2 Corinthians 12:2. That is why Paradise is referred to as "up" (Revelation 2:7; 2 Corinthians 12:4). So presently, the comfort side of Hades (Paradise) has been emptied by Him who has the keys of death and Hades (Revelation 20:13).
+An excerpt from Dr. Jack Van Impe's *Prophecy Bible*.
+
+> <span style="margin-left:1.5em">Hades</span> was the place where the souls and the spirits of all humans went until the cross. Sheol (Old Testament) and Hades (New Testament) are one and the same. In Sheol or Hades there were two compartments, one for the wicked and the other for the righteous ... one for suffering and the other for comfort (Luke 16:22,23). The thief on the cross went to the comfort side, or Paradise, as promised by Christ (Luke 23:34) (see Abraham's Bosom). This is where Christ went upon His death (Acts 2:27,31). There He ministered to His people and led captivity captive (Ephesians 4:8-10), releasing and transporting them to the third heaven of 2 Corinthians 12:2. That is why Paradise is referred to as "up" (Revelation 2:7; 2 Corinthians 12:4 KJV). So presently, the comfort side of Hades (Paradise) has been emptied by Him who has the keys of death and Hades (Revelation 20:13).
 >
-<span style="margin-left:1em">Of course</span>, the suffering side of Hades still teems with the wicked as the unregenerate continue to die day by day and are added to its population. They have joined the rich man of Luke 16:23 and will not come out again until Judgement Day when they will meet Christ at their trial and be transferred to the final penitentiary of lost souls, Gehenna (Revelation 20:13,14). Christ describes Hades 11 times in the New Testament: Matthew 11:23; 16:18; Luke 10:15; 16:22,23; Acts 2:27,31; Revelation 1:18; 6:8; 20:13,14.
+<span style="margin-left:1.5em">Of course</span>, the suffering side of Hades still teems with the wicked as the unregenerate continue to die day by day and are added to its population. They have joined the rich man of Luke 16:23 and will not come out again until Judgement Day when they will meet Christ at their trial and be transferred to the final penitentiary of lost souls, Gehenna (Revelation 20:13,14). Christ describes Hades 11 times in the New Testament: Matthew 11:23; 16:18; Luke 10:15; 16:22,23; Acts 2:27,31; Revelation 1:18; 6:8; 20:13,14.
 
 
 <span style="font-style:Italic;font-size:34px;">V. New Heaven, New Earth</span> 
