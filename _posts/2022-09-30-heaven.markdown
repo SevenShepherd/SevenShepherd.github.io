@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 04:01:00 -0500
+date: 2022-10-02 04:10:00 -0500
 categories: heaven bible
 published: true
 ---
@@ -88,15 +88,15 @@ The *Stellar Heaven* will play a major role in the coming tribulation period, Th
 
 <span style="font-style:Italic;font-size:19px;">The Speed of Light</span>
 
-There are approximately 1609.344 meters/second in 1 mile/second or 1 mi/s per 1609.344 m/s. The formula for use in conversion becomes: mi/s = m/s ÷ 1,609.344. So if the speed of light is [299,792,458 meters/second](https://www.britannica.com/science/speed-of-light), then the speed of light in miles/second is 299,792,458 meters/second divided by 1609.344 meters/second, which is **186,282.4** (186,282.39705122088)
+There are approximately 1,609.344 meters/second per 1 miles/second. The formula for use in conversion becomes: mi/s = m/s ÷ 1,609.344. So if the speed of light is [299,792,458 meters/second](https://www.britannica.com/science/speed-of-light), then the speed of light in miles/second is 299,792,458 m/s divided by 1,609.344 m/s, which is **186,282.4 mi/s** (186,282.39705122088)
 
 <span style="font-style:Italic;font-size:19px;">The Farthest Object From Earth</span>
 
-According to an article published by [livescience.com](https://www.livescience.com/farthest-astronomical-object-ever-seen) in April 07, 2022. The farthest object ever seen is called: HD1, "A possible galaxy that exists some 13.5 billion light-years from Earth..."
+According to an article published by [livescience.com](https://www.livescience.com/farthest-astronomical-object-ever-seen) in April 07, 2022. The farthest object ever seen is called: HD1, "A possible galaxy that exists some **13.5 billion light-years** from Earth..."
 
 <span style="font-style:Italic;font-size:19px;">Total Distance Traveled By Angels in an Instant</span>
 
-A small python script reveals that there are 31,536,000 seconds in a year. If there are 186,282.4 miles traveled every second while traveling at light speed, then there are 6 trillion miles (5,874,601,673,407.302) traveled annually. 5,874,601,673,407.302 multiplied by the distance of the furthest object, yields 80 sextillion (79,307,122,590,998,574,661,632) miles.
+A small python script reveals that there are 31,536,000 seconds in a year. If there are 186,282.4 (186,282.39705122088) miles traveled every second while traveling at light speed, then there are 6 trillion miles (5,874,601,673,407.302) traveled annually. The annual amount multiplied by 13.5 billion light-years (13,500,000,000), which is the distance of the furthest object, yields **80 sextillion miles** (79,307,122,590,998,574,661,632).
 
 ```py
 from datetime import timedelta
