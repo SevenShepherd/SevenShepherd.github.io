@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 04:10:00 -0500
+date: 2022-10-02 04:12:00 -0500
 categories: heaven bible
 published: true
 ---
@@ -96,7 +96,7 @@ According to an article published by [livescience.com](https://www.livescience.c
 
 <span style="font-style:Italic;font-size:19px;">Total Distance Traveled By Angels in an Instant</span>
 
-A small python script reveals that there are 31,536,000 seconds in a year. If there are 186,282.4 (186,282.39705122088) miles traveled every second while traveling at light speed, then there are 6 trillion miles (5,874,601,673,407.302) traveled annually. The annual amount multiplied by 13.5 billion light-years (13,500,000,000), which is the distance of the furthest object, yields **80 sextillion miles** (79,307,122,590,998,574,661,632).
+A small python script reveals that there are 31,536,000 seconds in a year. If there are 186,282.4 (186,282.39705122088) miles traveled every second while traveling at light speed, then there are 6 trillion miles (5,874,601,673,407.302) traveled annually. The annual amount multiplied by 13.5 billion light-years (13,500,000,000), which is the distance of the farthest object, yields **80 sextillion miles** (79,307,122,590,998,574,661,632).
 
 ```py
 from datetime import timedelta
