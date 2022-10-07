@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revelation Chapter 1: The Revelation Of Jesus Christ 📜"
-date: 2022-10-05 00:25:00 -0500
+date: 2022-10-05 00:30:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -46,11 +46,15 @@ published: true
 
 </blockquote>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word ***Ἀποκάλυψις***, which means *“Unveiling”* or *“Disclosure”*. The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) is taken from the following sources:
+The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span>. The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
+
+<!-- <a href="#a" class="notemark">1<span class="popup">Schwandt, John, and Dr. C. John Collins. <span style="color:#660000;">The English-Greek Reverse Interlinear New Testament: English Standard Version.</span> 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).</span></a> <a href="#b" class="notemark">2<span class="popup">Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary.</span> Logos Bible Software, 2010.</span></a> <a href="#c" class="notemark">3<span class="popup">Mounce, Dr. William D. <span style="color:#660000;">Mounce Reverse Interlinear New Testament, and Mounce Concise Greek-English Dictionary of the New Testament.</span> Zondervan, 2011.</span></a> -->
 
 - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV). <!--Page 1251.-->
-- Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. <!--Page 1215.-->
-- Mounce, Dr. William D. [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis), Zondervan, 2011.
+- Harris, Dr. W. Hall, et al. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. <!--Page 1215.-->
+- Mounce, Dr. William D. [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis). Zondervan, 2011.
+
+<!-- - Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. Page 1215. -->
 
 <!-- - [English-Greek Reverse Interlinear New Testament: English Standard Version (NA28)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
     - Dr. C. John Collins, John Schwandt 
@@ -67,7 +71,7 @@ The term &#8220;*Revelation*&#8221; comes from the Greek word ***Ἀποκάλυ
 
 <!-- - [StudyLight.org English-Greek Lexicon](https://www.studylight.org/lexicons/eng/greek/602.html) -->
 
-I've also found Ἀποκάλυψις transliterated as [***apokalupsis***](https://biblehub.com/greek/602.htm). The meaning of this word is the same across transliterations. 
+I've also found <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> transliterated as [***apokalupsis***](https://biblehub.com/greek/602.htm). The meaning of this word is the same across transliterations. 
 
 <!-- - [Bible Hub's Strong's Concordance](https://biblehub.com/strongs/greek/602.htm)
 - [Bible Hub's NASB Lexicon](https://biblehub.com/lexicon/revelation/1-1.htm) -->
