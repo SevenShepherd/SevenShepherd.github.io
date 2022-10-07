@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revelation Chapter 1: The Revelation Of Jesus Christ 📜"
-date: 2022-10-05 00:21:00 -0500
+date: 2022-10-05 00:23:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -46,6 +46,38 @@ published: true
 
 </blockquote>
 
+The term &#8220;*Revelation*&#8221; comes from the Greek word ***Ἀποκάλυψις***, which means *“Unveiling”* or *“Disclosure”*. The transliteration ***Apokalypsis*** is taken from the following sources:
+
+- Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV). <!--Page 1251.-->
+- Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. <!--Page 1215.-->
+- Mounce, Dr. William D. [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis), Zondervan, 2011.
+
+<!-- - [English-Greek Reverse Interlinear New Testament: English Standard Version (NA28)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+    - Dr. C. John Collins, John Schwandt 
+    - Revelation 1:1 ESV, Page 1251
+- <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary (SBL)</span>
+    - Dr. W. Hall Harris (LEB, NASB95, NET), Michael W. Holmes (SBL), Rick Brannan
+    - Revelation 1:1 LEB, Page 1215
+- [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis)
+    - Dr. William D. Mounce (ESV, NIV)
+    - [Revelation 1:1 MOUNCE](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE)
+- [Blue Letter Bible's Koine Greek Lexicon](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/)
+    - [Blue Letter Bible's Strong’s Definitions](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) as apok**á**lypsis
+- [HELPS Word-studies](https://biblehub.com/greek/602.htm) as apok**á**lypsis -->
+
+<!-- - [StudyLight.org English-Greek Lexicon](https://www.studylight.org/lexicons/eng/greek/602.html) -->
+
+I've also found Ἀποκάλυψις transliterated as [***apokalupsis***](https://biblehub.com/greek/602.htm). The meaning of this word is the same across transliterations. 
+
+<!-- - [Bible Hub's Strong's Concordance](https://biblehub.com/strongs/greek/602.htm)
+- [Bible Hub's NASB Lexicon](https://biblehub.com/lexicon/revelation/1-1.htm) -->
+
+<!-- - [BibleStudyTools' The KJV New Testament Greek Lexicon](https://www.biblestudytools.com/lexicons/greek/kjv/apokalupsis.html)
+- [BibleStudyTools' The NAS New Testament Greek Lexicon](https://www.biblestudytools.com/lexicons/greek/nas/apokalupsis.html) -->
+
+<!-- - [The Jack Van Impe Prophecy Bible: New Third Edition]() lists it as **A**pokalupsis -->
+
+<!-- The phrase &#8220;*Revelation of Jesus Christ*&#8221; is found in six other verses (1Pe 1:7, 13; 4:13; 1Co 1:7; 2Th 1:7; Ga 1:12) -->
 
 <blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf"> 
 
@@ -203,7 +235,7 @@ published: true
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'LEB'
         }
     }; 
 
