@@ -16,19 +16,36 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB
 
-<span style="font-style:Italic;font-size:28px;">Recommended Bibles</span>
+<span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing my conclusions about which versions of the Bible I use. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity.
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use.
 
-- The [Legacy Standard Bible (LSB)](https://lsbible.org/) is my primary.
-    - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
-    - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score.
-    - [NT w/ Psalms & Proverbs bound in shamar goatskin at Royal Jongbloed in the Netherlands](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-- Accessories
-    - Tabbies Mini Gold-Edged Tabs
-    - Pigma Micron Pens 01 (.25mm)
-    - Zebra Water Resistant Mildliners
-- The [NET Bible Full Translator Notes (NET), Expanded Bible (EXB), and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;NLT) function as my parallels.
+<!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
+
+<!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
+<!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
+
+<span style="font-style:Italic;font-size:19px;">Primary Physical Bibles</span>
+
+- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
+- [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+
+<span style="font-style:Italic;font-size:19px;">Digital Tools</span>
+
+- The [New English Translation Full Translator Notes (NET), Expanded Bible (EXB), and Mounce Reverse Interlinear New Testament (MOUNCE)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;MOUNCE) function as my parallels.
+- [Faithlife Reftagger](https://faithlife.com/products/reftagger) (LEB)
+
+<span style="font-style:Italic;font-size:19px;">Advanced Material</span>
+
+- [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
+- [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+
+
+<!-- - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).
+- Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010.
+- Mounce, Dr. William D. [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis), Zondervan, 2011. -->
+    
 
 <!-- You'll find the Bibles I actually use listed below. Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
 
@@ -50,7 +67,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 |[New Living Translation (NLT)](https://www.tyndale.com/nlt/what-is-the-new-living-translation)<br>[90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia.<br><br>The New Testament uses the UBS Greek New Testament / Novum Testamentum Graece.<br><br>Readability 70.08%<br>Literalness 39.90%| -->
 
 
-<span style="font-style:Italic;font-size:28px;">Advanced Study Material</span>
+<!-- <span style="font-style:Italic;font-size:28px;">Advanced Study Material</span> -->
 
 <!-- |||
 |:-:|
@@ -60,11 +77,12 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 |[Jack Van Impe Prophecy Bible Third Edition<br>King James Version (KJV)]()<br>[47 Scholars]()|The Textual Basis for the Old Testament is the Masoretic Text, some LXX and Vulgate influence.<br><br>The New Testament uses the Received Text or [Textus Receptus](https://en.wikipedia.org/wiki/Textus_Receptus) with some readings derived from the Vulgate.<br><br>Readability 48.83%<br>Literalness 66.58%<br>Commentary 100% (Readable)|
 |The End Times in Chronological Order by Dr. Ron Rhodes|A Complete Overview To Understanding Bible Prophecy| -->
 
-|||
+<!-- |||
 |:-:|:-:|
-|[ESV English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74%<br>Literalness 100% (Koine Greek)|
-|[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.<br><br>Readability 0% (English)<br>Literalness 100% (Biblical Hebrew)|
-|[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.<br><br> Readability 0% (English)<br>Literalness 100% (Koine Greek)|
+|[The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)<br>[100+ Scholars](https://www.esv.org/translation/)|The Textual Basis for the Old Testament is the Biblia Hebraica Stuttgartensia (5th ed., 1997).<br><br>The New Testament uses the UBS Greek New Testament (5th corrected ed.); Novum Testamentum Graece (28th ed., 2012).<br><br>Readability 62.36%<br>Literalness 68.74%<br>Literalness 100% (Koine Greek)|
+|[The Hebrew Old Testament<br>Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)|Combines the text of the Westminster Leningrad Codex (WLC) with a running list of glosses of every word that occurs fewer than 75 times in the Hebrew Old Testament, for an easier reading experience in the original language.<br><br>Readability 0% (English)<br>Literalness 100% (Biblical Hebrew)| -->
+
+<!-- |[The Greek New Testament<br>Reader's Edition](https://www.crossway.org/bibles/the-greek-new-testament-produced-at-tynd-hconly-2/)|Combines the new Greek New Testament, Produced at Tyndale House, Cambridge with a running list of glosses of every word that occurs fewer than 25 times in the Greek New Testament.<br><br> Readability 0% (English)<br>Literalness 100% (Koine Greek)| -->
 
 <!-- |**Study Bible**||
 |ESV Study Bible<br>[Premium](https://www.crossway.org/bibles/esv-study-bible-744-cow/) \| [Economical](https://www.crossway.org/bibles/esv-study-bible-none-case/)|Over 1 Million Copies Sold, Winner of the ECPA Book of the Year Award, 20,000 study notes, 80,000 cross–references, 200+ charts, 50+ articles, 240 full-color maps and illustrations, Concordance, Smyth-sewn binding, Type Size: 9.00, Page Count: 2,752, Size: 6.5 in x 9.25 in| -->
@@ -72,9 +90,9 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 <!-- |**Archaeology Study Bible**||
 |[ESV Archaeology Study Bible](https://www.crossway.org/bibles/esv-archaeology-study-bible-hccase/)|With editorial oversight from Dr. John Currid (PhD, University of Chicago) and Dr. David Chapman (PhD, University of Cambridge), as well as contributions from a team of field-trained archaeologists.<br>Double-column, paragraph format, Cross references, Footnotes, 2,000+ study notes, 400+ full-color photographs, 200+ maps and diagrams, 200+ informational sidebars, 14 articles, such as "Introduction to the ESV Archaeology Study Bible," “The Dead Sea Scrolls,” “Archaeology as an Academic Discipline,” “Expository Preaching and Archaeology," and “Daily Life in the Judea-Palestine in New Testament Times”, 4 timelines, Book introductions, Presentation page, 4-color printing, Smyth-sewn binding, Packaging: L-Card| -->
 
-<span style="font-style:Italic;font-size:28px;">Recommended Courses</span>
+<!-- <span style="font-style:Italic;font-size:28px;">Recommended Courses</span> -->
 
-|||
+<!-- |||
 |:-:|:-:|
 |**Ancient Languages**||
 |Dr. Gary D. Pratico & Dr. Miles Van Pelt|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)|
@@ -82,7 +100,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 |Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 |Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
 |Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
-|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)|
+|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)| -->
 
 
 <!-- ## Bible Verses & Financial Wisdom
