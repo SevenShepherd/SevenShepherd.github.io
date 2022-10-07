@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revelation Chapter 1: The Revelation Of Jesus Christ 📜"
-date: 2022-10-05 00:23:00 -0500
+date: 2022-10-05 00:25:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -46,7 +46,7 @@ published: true
 
 </blockquote>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word ***Ἀποκάλυψις***, which means *“Unveiling”* or *“Disclosure”*. The transliteration ***Apokalypsis*** is taken from the following sources:
+The term &#8220;*Revelation*&#8221; comes from the Greek word ***Ἀποκάλυψις***, which means *“Unveiling”* or *“Disclosure”*. The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) is taken from the following sources:
 
 - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV). <!--Page 1251.-->
 - Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. <!--Page 1215.-->
