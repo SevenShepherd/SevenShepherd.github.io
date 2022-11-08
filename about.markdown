@@ -35,7 +35,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 - The [New English Translation Full Translator Notes (NET), Expanded Bible (EXB), and Mounce Reverse Interlinear New Testament (MOUNCE)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;MOUNCE) function as parallels for study.
 - [English Standard Version (ESV) and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV;NLT) for leisure reading.
-- [Faithlife Reftagger](https://faithlife.com/products/reftagger) (LEB)
+- [Faithlife Reftagger](https://faithlife.com/products/reftagger)
 
 <span style="font-style:Italic;font-size:19px;">Advanced Material</span>
 
