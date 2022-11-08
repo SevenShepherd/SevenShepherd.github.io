@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 04:30:00 -0500
+date: 2022-10-02 04:32:00 -0500
 categories: heaven bible
 published: true
 ---
@@ -83,6 +83,8 @@ The *Stellar Heaven* will play a major role in the coming tribulation period, Th
 > “Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and <span style="font-weight:Bold;color:#993399;">the stars will fall from heaven, and the powers of the heavens will be shaken</span>. &mdash; Matthew 24:29 ESV (English Standard Version); See [Is. 13:10; 34:4; cf. Ezek. 32:7–8; Joel 2:10, 31].
 >
 <span style="font-size:14px;">\*I'm a little disappointed that the [LSB](https://read.lsbible.org/?q=Matthew+24%3A29) says "the sky" instead of "heaven". Kudos to the [ESV, NET, and EXB](https://www.biblegateway.com/passage/?search=Matthew+24%3A29&version=ESV;NET;EXB) for the more literal translation.</span>
+
+<!-- <span style="font-size:14px;">It is worth noting that this has sometimes been interpreted as </span> -->
 
 <span style="font-style:Italic;font-size:24px;">How Far Does The Second Heaven Extend?</span>
 
@@ -185,7 +187,7 @@ As for living saints, their “names are written in heaven” (Luke 10:20), and 
 
 <span style="font-style:Italic;font-size:24px;">God’s throne resides in heaven, and it is there that he is worshiped.</span>
 
-Here is a detailed description below of [Revelation Chapter 4](https://www.biblegateway.com/passage/?search=revelation%204&version=NET) from the Expanded Bible (EXB).
+Here is a detailed description below of [Revelation Chapter 4](https://www.biblegateway.com/passage/?search=revelation%204&version=NET;EXB;MOUNCE) from the Expanded Bible (EXB).
 
 >
 **1** After the vision of these things I looked, and <span style="color:#bfbfbf;">[<sup>L</sup> look; <sup>T</sup> behold]</span> there before me was an open door in <span style="font-weight:Bold;color:#daa520;">heaven</span>. And the ·same <span style="color:#bfbfbf;">[<sup>L</sup> first]</span> voice that spoke to me before, that sounded like a trumpet <span style="color:#bfbfbf;">[Re 1:8]</span>, said, “Come up here, and I will show you what must happen after this.” **2** Immediately I was in the ·Spirit <span style="color:#bfbfbf;">[or spirit; <sup>C</sup> a state of deep spiritual communion with God; Re 1:10]</span>, and <span style="color:#bfbfbf;">[<sup>L</sup> look; <sup>T</sup> behold]</span> before me was a throne in <span style="font-weight:Bold;color:#daa520;">heaven</span>, and someone was sitting on it. **3** The One who sat on the throne looked like precious stones, like jasper and carnelian <span style="color:#bfbfbf;">[<sup>C</sup> a symbol of great beauty, purity and value]</span>. All around the throne was a ·rainbow <span style="color:#bfbfbf;">[or halo]</span> ·the color of <span style="color:#bfbfbf;">[or that looked like]</span> an emerald. **4** Around the throne there were twenty-four other thrones with twenty-four elders sitting on them <span style="color:#bfbfbf;">[<sup>C</sup> probably angelic leaders]</span>. They were dressed in white and had golden crowns <span style="color:#bfbfbf;">[<sup>C</sup> wreaths symbolizing honor or victory; see Re 2:10]</span> on their heads. **5** Lightning flashes and ·noises and thunder <span style="color:#bfbfbf;">[or the rumbling of thunder; <sup>C</sup> phenomena associated with God’s appearance at Mount Sinai; Ex. 19:16–18]</span> came from the throne. Before the throne seven lamps were burning, which are the seven spirits <span style="color:#bfbfbf;">[<sup>C</sup> either angels or the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection; Re 3:1]</span> of God. **6** Also before the throne there was something that looked like a sea of glass, clear like crystal.
