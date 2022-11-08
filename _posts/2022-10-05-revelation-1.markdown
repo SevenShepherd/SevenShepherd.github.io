@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Revelation Chapter 1: The Revelation Of Jesus Christ 📜"
-date: 2022-10-05 00:30:00 -0500
+date: 2022-10-05 00:30:30 -0500
 categories: jesus revelation apocalypse armageddon
-published: true
+published: false
 ---
 
 <style>
