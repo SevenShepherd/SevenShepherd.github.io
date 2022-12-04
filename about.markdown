@@ -29,18 +29,23 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 - The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
-- [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+- [**ESV** Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
+    - Approximately 200 biblical scholars: 100+ in translation and an additional 95 in the study.
+    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+- [The English-Greek Reverse Interlinear New Testament: English Standard Version (**ESV**)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
 
 <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
 
 - The [New English Translation Full Translator Notes (NET), Expanded Bible (EXB), and Mounce Reverse Interlinear New Testament (MOUNCE)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;MOUNCE) function as parallels for study.
-- [English Standard Version (ESV) and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV;NLT) for leisure reading.
+- [English Standard Version (**ESV**) and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV;NLT) for leisure reading.
 - [Faithlife Reftagger](https://faithlife.com/products/reftagger)
 
 <span style="font-style:Italic;font-size:19px;">Advanced Material</span>
 
 - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
 - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+- [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+- [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
 
 
 <!-- - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).
