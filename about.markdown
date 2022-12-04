@@ -31,11 +31,14 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
     - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
 - [**ESV** Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
     - Approximately 200 biblical scholars: 100+ in translation and an additional 95 in the study.
-    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - **20,000 study notes**, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+- [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
+    - With over **60,000 translators’ notes** this is the largest set of translators’ notes ever created.
 - [The English-Greek Reverse Interlinear New Testament: English Standard Version (**ESV**)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
 
 <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
 
+- [Legacy Standard Bible Online](https://read.lsbible.org/)
 - The [New English Translation Full Translator Notes (NET), Expanded Bible (EXB), and Mounce Reverse Interlinear New Testament (MOUNCE)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;MOUNCE) function as parallels for study.
 - [English Standard Version (**ESV**) and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV;NLT) for leisure reading.
 - [Faithlife Reftagger](https://faithlife.com/products/reftagger)
