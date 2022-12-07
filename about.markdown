@@ -25,30 +25,66 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 <!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
 <!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
 
-<span style="font-style:Italic;font-size:19px;">Primary Physical Bibles</span>
+<span style="font-style:Italic;font-size:19px;">Primary Bible</span>
+
+This section represents what I carry with me to church or when I travel. I generally leave the larger, more weighter bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+
+<!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars.
+- Literalness to Koine Greek Exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
+
+<!-- - [100+ Scholars](https://www.esv.org/translation/)
+- Readability 62.36%, Literalness 68.74% -->
+
+<!-- - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
+- Readability 66.28%, Literalness 53.94% -->
 
 - The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/)
+
+<!-- The ESV would be the only other version of the Bible that I would use in primary position.
+
+- [English Standard Version (**ESV**) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV) -->
+
+
+<!-- <span style="font-style:Italic;font-size:19px;">Studies, Notes, Expansions, & Interlinears</span> -->
+
+<span style="font-style:Italic;font-size:19px;">Study Bible</span>
+
 - [**ESV** Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
     - Approximately 200 biblical scholars: 100+ in translation and an additional 95 in the study.
-    - **20,000 study notes**, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-- [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
-    - With over **60,000 translators’ notes** this is the largest set of translators’ notes ever created.
-- [The English-Greek Reverse Interlinear New Testament: English Standard Version (**ESV**)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+    - 20,000 **study notes**, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
 
-<span style="font-style:Italic;font-size:19px;">Digital Tools</span>
+<span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
+
+- [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
+    - With over 60,000 **translators’ notes** this is the largest set of translators’ notes ever created.
+    - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    
+<span style="font-style:Italic;font-size:19px;">Expansions</span>
+
+- [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016)
+    - The **Expanded Bible (EXB)** The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+    - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    
+<span style="font-style:Italic;font-size:19px;">Interlinear</span>
+
+- [The English-Greek Reverse Interlinear New Testament: English Standard Version (**ESV**)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+    - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online.
+
+<span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span>
+
+- [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
+    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+- [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+- [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+
+<!-- <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
 
 - [Legacy Standard Bible Online](https://read.lsbible.org/)
 - The [New English Translation Full Translator Notes (NET), Expanded Bible (EXB), and Mounce Reverse Interlinear New Testament (MOUNCE)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET;EXB;MOUNCE) function as parallels for study.
 - [English Standard Version (**ESV**) and New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV;NLT) for leisure reading.
-- [Faithlife Reftagger](https://faithlife.com/products/reftagger)
-
-<span style="font-style:Italic;font-size:19px;">Advanced Material</span>
-
-- [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
-- [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-- [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-- [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+- [Faithlife Reftagger](https://faithlife.com/products/reftagger) -->
 
 
 <!-- - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).
