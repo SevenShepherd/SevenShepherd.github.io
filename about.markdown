@@ -27,7 +27,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
-The LSB is a worthy update to the NASB '95 & '77, which were already considered by scholars as the most accurate versions of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
 
 <!-- I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs.  -->
 
