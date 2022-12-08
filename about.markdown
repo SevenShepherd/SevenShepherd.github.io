@@ -92,7 +92,7 @@ The NLT is by far the easiest to read Bible version on Earth, without compromisi
 
 <!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
 
-This section details the most advanced and in-depth books and courses for the curious mind.
+This section details more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
 - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
