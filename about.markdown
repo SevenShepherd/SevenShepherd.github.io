@@ -81,7 +81,10 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
 
 <span style="font-style:Italic;font-size:19px;">Reading Comprehension</span>
 
-This section is dedicated to those who might have a hard time understanding the Bible, and might require something a bit gentler to read. For those of you in this position, or those of you who would perhaps like to expend the least amount of effort trying to understand the Bible, say for leisure reading, I would suggest the [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT). 
+This section is dedicated to those who might have a hard time understanding the Bible, and might require something a bit gentler to read. For those of you in this position, or those of you who would perhaps like to expend the least amount of effort trying to understand the Bible, say for leisure reading, I would suggest the New Living Translation.
+
+- [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
 
 The NLT is by far the easiest to read Bible version on Earth, without compromising on any of the litmus tests I have put forth in my previous articles. It truly is a joy to read in parallel.
 
