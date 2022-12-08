@@ -29,44 +29,34 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 This section represents what I carry with me to church or when I travel. I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
 
-<!-- LSB 
-- Literalness to Koine Greek Exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
-
-<!-- - [100+ Scholars](https://www.esv.org/translation/)
-- Readability 62.36%, Literalness 68.74% -->
-
-<!-- - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
-- Readability 66.28%, Literalness 53.94% -->
+<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
+<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
 
 - The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
     - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
     - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
 
-
-<!-- The ESV would be the only other version of the Bible that I would use in primary position.
-
-- [English Standard Version (**ESV**) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV) -->
-
-
-<!-- <span style="font-style:Italic;font-size:19px;">Studies, Notes, Expansions, & Interlinears</span> -->
-
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
+<!-- - Readability 62.36%, Literalness 68.74% -->
+
 - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
-    - 20,000 **study notes**, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
 The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
+<!-- - Readability 66.28%, Literalness 53.94% -->
+
 - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB, and contributor of NASB '95.
-    - With over 60,000 **translators’ notes** this is the largest set of translators’ notes ever created.
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
+    - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
@@ -74,7 +64,10 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
 - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise only [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) are responsible for the expansions.
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
+        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
+        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
+        - Daniel Taylor (Ph.D., Emory).
     - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
@@ -82,6 +75,8 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
 <span style="font-style:Italic;font-size:19px;">Reading Comprehension</span>
 
 This section is dedicated to those who might have a hard time understanding the Bible, and might require something a bit gentler to read. For those of you in this position, or those of you who would perhaps like to expend the least amount of effort trying to understand the Bible, say for leisure reading, I would suggest the New Living Translation.
+
+<!-- - Readability 70.08%, Literalness 39.90% -->
 
 - [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
