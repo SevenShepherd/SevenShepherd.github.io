@@ -74,7 +74,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
 - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), othewise only [3](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) who are responsible for the expansions.
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise only [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) are responsible for the expansions.
     - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
