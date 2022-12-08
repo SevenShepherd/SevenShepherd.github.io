@@ -27,7 +27,9 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
-This section represents what I carry with me to church or when I travel. I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+The LSB is a worthy update to the NASB '95 & '77, which were already considered by scholars as the most accurate versions of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+
+<!-- I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs.  -->
 
 <!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
 <!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
