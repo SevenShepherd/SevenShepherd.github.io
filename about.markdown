@@ -40,7 +40,7 @@ This section represents what I carry with me to church or when I travel. I gener
 
 - The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/)
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
     - Accessories: Tabbies Mini Gold-Edged Tabs, Pigma Micron Pens 01 (.25mm), Zebra Water Resistant Mildliners
 
 
@@ -55,9 +55,10 @@ This section represents what I carry with me to church or when I travel. I gener
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
-- [**ESV** Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
+- [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
     - 20,000 **study notes**, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
@@ -76,17 +77,27 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
     - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), othewise only [3](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) who are responsible for the expansions.
     - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
-<span style="font-style:Italic;font-size:19px;">Interlinear</span>
+<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-- [The English-Greek Reverse Interlinear New Testament: English Standard Version (**ESV**)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
-    - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online.
+<span style="font-style:Italic;font-size:19px;">Reading Comprehension</span>
 
-<span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span>
+This section is dedicated to those who might have a hard time understanding the Bible, and might require something a bit gentler to read. For those of you in this position, or those of you who would perhaps like to expend the least amount of effort trying to understand the Bible, say for leisure reading, I would suggest the [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT). 
+
+The NLT is by far the easiest to read Bible version on Earth, without compromising on any of the litmus tests I have put forth in my previous articles. It truly is a joy to read in parallel.
+
+<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+
+<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
+
+This section details the most advanced and in-depth books and courses for the curious mind.
 
 - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-- [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-- [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+- [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+    - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online.
+    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+
 
 <!-- <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
 
