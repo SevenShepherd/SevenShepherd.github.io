@@ -27,7 +27,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 
 <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
-This section represents what I carry with me to church or when I travel. I generally leave the larger, more weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+This section represents what I carry with me to church or when I travel. I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
 
 <!-- LSB 
 - Literalness to Koine Greek Exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
@@ -52,6 +52,8 @@ This section represents what I carry with me to church or when I travel. I gener
 <!-- <span style="font-style:Italic;font-size:19px;">Studies, Notes, Expansions, & Interlinears</span> -->
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
+
+The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
 - [**ESV** Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
