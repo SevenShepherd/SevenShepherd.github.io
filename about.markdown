@@ -60,6 +60,8 @@ This section represents what I carry with me to church or when I travel. I gener
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
+The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
+
 - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB, and contributor of NASB '95.
     - With over 60,000 **translators’ notes** this is the largest set of translators’ notes ever created.
@@ -67,9 +69,10 @@ This section represents what I carry with me to church or when I travel. I gener
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
+The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
 - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), othewise only [3](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) who are responsible for the Expansions.
-    - The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), othewise only [3](https://www.biblegateway.com/versions/Expanded-Bible-EXB/): Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College, Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego, and Daniel Taylor (Ph.D., Emory) who are responsible for the expansions.
     - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <span style="font-style:Italic;font-size:19px;">Interlinear</span>
