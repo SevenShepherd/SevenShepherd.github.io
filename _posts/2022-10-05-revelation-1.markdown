@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Revelation Chapter 1: The Revelation Of Jesus Christ 📜"
-date: 2022-10-05 00:30:30 -0500
+title: "The Book of Revelation: Chapter 1 📜"
+date: 2022-10-05 01:37:30 -0500
 categories: jesus revelation apocalypse armageddon
-published: false
+published: true
 ---
 
 <style>
@@ -36,23 +36,58 @@ published: false
 
 </style>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
+<!-- <div class="mt" style="color:Gold;">⚠️ Under Construction</div> -->
 
-<div class="mt">The Revelation to John</div>
+<div class="mt">THE REVELATION OF JESUS CHRIST</div>
 
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf"> 
+<blockquote cite="https://read.lsbible.org/?q=Rev+1"> 
 
-<div class='p'> <span class="verse" id="V1">1&#160;</span> This is the Revelation of Jesus Christ,<a href="#FN1" class="notemark">*<span class="popup"> “Christ” means “Anointed One”.</span></a> which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel<a href="#FN2" class="notemark">†<span class="popup"> or, messenger (here and wherever angel is mentioned)</span></a> to his servant, John,</div> 
+<!-- <div class='p'> <span class="verse" id="V1">1&#160;</span> This is the Revelation of Jesus Christ,<a href="#FN1" class="notemark">*<span class="popup"> “Christ” means “Anointed One”.</span></a> which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel<a href="#FN2" class="notemark">†<span class="popup"> or, messenger (here and wherever angel is mentioned)</span></a> to his servant, John,</div> -->
+
+
+<div class='p'> <span class="verse" id="V1" style="font-weight:bold;color:black;">1&#160;</span> The Revelation of Jesus Christ, which God gave Him to show to His slaves the things which must soon happen; and He indicated this by sending it through His angel to His slave John, <span class="verse" id="V2" style="font-weight:bold;color:black;">2&#160;</span> who bore witness to the word of God and to the witness of Jesus Christ, even to all that he saw.</div>
 
 </blockquote>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span>. The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
+<div class="mt" style="font-size:19px;">∴ Slave ∴</div>
+
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> (doulos) which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
+
+The connotation in this context is one who has voluntarily sold himself into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
+
+Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
+
+<!-- Net -->
+
+
+
+<!-- tn Grk “slaves.” Although this translation frequently renders δοῦλος (doulos) as “slave,” the connotation is often of one who has sold himself into slavery; in a spiritual sense, the idea is that of becoming a slave of God or of Jesus Christ voluntarily. The voluntary notion is conspicuous here; hence, the translation “servants.” In any case, the word does not bear the connotation of a free individual serving another. BDAG notes that “‘servant’ for ‘slave’ is largely confined to Biblical transl. and early American times…in normal usage at the present time the two words are carefully distinguished” (BDAG 260 s.v.). A good translation is “bondservant” (sometimes found in the ASV for δοῦλος), in that it often indicates one who sells himself into slavery to another. But as this is archaic, few today understand its force. -->
+
+<div class="mt" style="font-size:19px;">∴ Revelation ∴</div>
+
+The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
 
 <!-- <a href="#a" class="notemark">1<span class="popup">Schwandt, John, and Dr. C. John Collins. <span style="color:#660000;">The English-Greek Reverse Interlinear New Testament: English Standard Version.</span> 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).</span></a> <a href="#b" class="notemark">2<span class="popup">Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary.</span> Logos Bible Software, 2010.</span></a> <a href="#c" class="notemark">3<span class="popup">Mounce, Dr. William D. <span style="color:#660000;">Mounce Reverse Interlinear New Testament, and Mounce Concise Greek-English Dictionary of the New Testament.</span> Zondervan, 2011.</span></a> -->
 
 - Schwandt, John, and Dr. C. John Collins. [The English-Greek Reverse Interlinear New Testament: English Standard Version](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/). 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV). <!--Page 1251.-->
 - Harris, Dr. W. Hall, et al. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. <!--Page 1215.-->
 - Mounce, Dr. William D. [Mounce Reverse Interlinear New Testament](https://www.biblegateway.com/passage/?search=Revelation+1%3A1&version=MOUNCE), and [Mounce Concise Greek-English Dictionary of the New Testament](https://www.billmounce.com/greek-dictionary/apokalypsis). Zondervan, 2011.
+
+<!-- The KJV has a myriad of ways it likes to translate the same word in the epistles, examples such as a *"manifestation"* in Romans 8:19, a *coming* in 1 Cor. 1:7, a *"revealing"* 2 Thes. 1:7, and an *"appearing"* in 1 Pet. 1:7. Modern translations that use much older underlying manuscripts are much more consistent, you can see this consistency by clicking the verses above translated in the superior ESV. -->
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<!-- The Book of Revelation, then, concerns the unveiling or appearing of our precious Savior, the Lord Jesus Christ. It is not the unfolding of the story of St. John the Divine, or even of prophetical truth, but rather the message of the “appearing of Christ.” This appearing takes place at the Rapture in Re 4:1, as well as at the hour of His return to the earth when every eye shall see Him Re 1:7. -->
+
+With our newfound understanding of the underlying meaning of the word Revelation, we can conclude that The Book of Revelation is about the unveiling of our great God and Savior Jesus Christ (2Pe 1:1; Tit 2:13). This unveiling takes place at the rapture (Re 4:1), as well as at the hour of His return to the earth when every eye shall see Him (Re 1:7).
+
+Jesus is simultaneously the One revealed and the Revealer. The Father gives this Revelation (the unveiled truth) to Jesus (Mt 11:27; Re 5:7). This truth was then sent by Jesus to John (Re 10:9) through His angel to show His slaves in the Churches what will happen soon (Re 1:1), because the time is near (Re 1:3). This certainly pictures the present hour when signs pointing to Jesus' return are beginning to appear with alarming frequency. 
+
+The Book of Revelation is a study of signs. From the sign of the Holy Spirit presented as seven spirits Re 1:4, to the sign of the seven golden lampstands and the seven stars in Re 1:20. Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10; cf. Dan. 12:4). John’s visions are important for his first-century readers as well as for later generations of believers.
+
+<!-- Secondly, we see that this revelation was given to Jesus Christ, as is everything, for Jesus said, *All things are delivered unto me of my Father* Mt 11:27. They are presented unto Him to *shew unto his servants things which must shortly come to pass.* The term *shortly* in the original means *"rapidity of action once there is a beginning."* This certainly pictures the present hour when signs pointing to His return are beginning to appear with alarming frequency. These truths, then, are sent and signified by Christ's angel unto John, the writer of the book, under the inspiration of the Holy Spirit. Notice that the four letters of the word *signified* spell SIGN. Why? The Book of Revelation is a study of signs. There is the sign of the Holy Spirit presented as seven spirits Re 1:4 and the sign of the seven golden candlesticks and the seven stars in Re 1:20. Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. -->
+
+<!-- NOTE ON 1:1 revelation of Jesus Christ. Jesus is both the One revealed (referred to variously as Son of Man, Lion of Judah, Lamb, Word of God) and the Revealer. God transmits the unveiled truth to Jesus (Re 5:7), and his angel conveys it to John (Re 10:9) for God’s servants in the churches. The prophecy must … take place because it is secured by God’s sovereign purpose and power. It will take place soon, because “the time is near” (Re 1:3). In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10; cf. Dan. 12:4). John’s visions are important for his first-century readers as well as for later generations of believers. -->
 
 <!-- - Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary</span>. Logos Bible Software, 2010. Page 1215. -->
 
@@ -71,7 +106,7 @@ The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-
 
 <!-- - [StudyLight.org English-Greek Lexicon](https://www.studylight.org/lexicons/eng/greek/602.html) -->
 
-I've also found <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> transliterated as [***apokalupsis***](https://biblehub.com/greek/602.htm). The meaning of this word is the same across transliterations. 
+<!-- I've also found <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> transliterated as [***apokalupsis***](https://biblehub.com/greek/602.htm). The meaning of this word is the same across transliterations.  -->
 
 <!-- - [Bible Hub's Strong's Concordance](https://biblehub.com/strongs/greek/602.htm)
 - [Bible Hub's NASB Lexicon](https://biblehub.com/lexicon/revelation/1-1.htm) -->
@@ -83,172 +118,30 @@ I've also found <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψ�
 
 <!-- The phrase &#8220;*Revelation of Jesus Christ*&#8221; is found in six other verses (1Pe 1:7, 13; 4:13; 1Co 1:7; 2Th 1:7; Ga 1:12) -->
 
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf"> 
+<!-- <blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf"> 
 
 <div class='p'> <span class="verse" id="V2">2&#160;</span> who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.</div> 
 
-</blockquote>
+</blockquote> -->
 
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V3">3&#160;</span> Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near. </div>
-
-</blockquote>
-
-<div class="mt">Message to the Seven Churches <a href="https://read.lsbible.org/?q=rev+1" style="font-size:14px;">(Title From LSB)</a></div>
+<hr /><br>
 
 <blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
 
-<div class='p'> <span class="verse" id="V4">4&#160;</span> John, to the seven assemblies that are in Asia: Grace to you and peace from God, who is and who was and who is to come; and from the seven Spirits who are before his throne; </div>
+<div class='p'> <span class="verse" id="V3" style="font-weight:bold;color:black;">3&#160;</span> Blessed is he who reads and those who hear the words of the prophecy and keep the things which are written in it, for the time is near. </div>
 
 </blockquote>
 
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
+<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
-<div class='p'> <span class="verse" id="V5">5&#160;</span> and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To him who loves us, and washed us from our sins by his blood— </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V6">6&#160;</span> and he made us to be a Kingdom, priests<a href="#FN3" class="notemark">✡&#xFE0E;<span class="popup"> Exodus 19:6; Isaiah 61:6 </span></a> to his God and Father—to him be the glory and the dominion forever and ever. Amen. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V7">7&#160;</span> Behold,<a href="#FN4" class="notemark">‡<span class="popup"> “Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</span></a> he is coming with the clouds, and every eye will see him, including those who pierced him. All the tribes of the earth will mourn over him. Even so, Amen. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V8">8&#160;</span> <span class='wj'>“I am the Alpha and the Omega,</span><a href="#FN5" class="notemark">§<span class="popup"> TR adds “the Beginning and the End”</span></a><span class='wj'>”</span> says the Lord God,<a href="#FN6" class="notemark">*<span class="popup"> TR omits “God”</span></a> <span class='wj'>“who is and who was and who is to come, the Almighty.”</span> </div>
-
-</blockquote>
-
-<div class="mt">The Vision of the Son of Man <a href="https://read.lsbible.org/?q=rev+1" style="font-size:14px;">(Title From LSB)</a></div>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V9">9&#160;</span> I John, your brother and partner with you in the oppression, Kingdom, and perseverance in Christ Jesus, was on the isle that is called Patmos because of God’s Word and the testimony of Jesus Christ. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V10">10&#160;</span> I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V11">11&#160;</span> saying,<a href="#FN7" class="notemark">†<span class="popup"> TR adds “I am the Alpha and the Omega, the First and the Last.”</span></a> <span class='wj'>“What you see, write in a book and send to the seven assemblies:</span><a href="#FN8" class="notemark">‡<span class="popup"> TR adds “which are in Asia”</span></a> <span class='wj'> to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”</span> </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V12">12&#160;</span> I turned to see the voice that spoke with me. Having turned, I saw seven golden lamp stands. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V13">13&#160;</span> And among the lamp stands was one like a son of man,<a href="#FN9" class="notemark">✡<span class="popup"> Daniel 7:13 </span></a> clothed with a robe reaching down to his feet, and with a golden sash around his chest. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V14">14&#160;</span> His head and his hair were white as white wool, like snow. His eyes were like a flame of fire. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V15">15&#160;</span> His feet were like burnished brass, as if it had been refined in a furnace. His voice was like the voice of many waters. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V16">16&#160;</span> He had seven stars in his right hand. Out of his mouth proceeded a sharp two-edged sword. His face was like the sun shining at its brightest. </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V17">17&#160;</span> When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, <span class='wj'>“Don’t be afraid. I am the first and the last, </span> </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V18">18&#160;</span> <span class='wj'> and the Living one. I was dead, and behold, I am alive forever and ever. Amen. I have the keys of Death and of Hades.</span><a href="#FN10" class="notemark">§<span class="popup"> or, Hell</span></a> </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V19">19&#160;</span> <span class='wj'> Write therefore the things which you have seen, and the things which are, and the things which will happen hereafter. </span> </div>
-
-</blockquote>
-
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
-
-<div class='p'> <span class="verse" id="V20">20&#160;</span> <span class='wj'> The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels</span><a href="#FN11" class="notemark">*<span class="popup"> or, messengers (here and wherever angels are mentioned)</span></a> <span class='wj'> of the seven assemblies. The seven lamp stands are seven assemblies.</span> </div>
-
-</blockquote>
-
-<!-- <div class="footnote">
-<hr />
-<p class="f" id="FN1"><span class="notemark">*</span><a class="notebackref" href="#V1">1:1</a>
- <span class="ft">“Christ” means “Anointed One”.</span></p>
-<p class="f" id="FN2"><span class="notemark">†</span><a class="notebackref" href="#V1">1:1</a>
- <span class="ft">or, messenger (here and wherever angel is mentioned)</span></p>
-<p class="x" id="FN3"><span class="notemark">✡</span><a class="notebackref" href="#V6">1:6</a>
- <span class="xt"><a href='EXO19.htm#V1'>Exodus 19:6</a>; <a href='ISA61.htm#V1'>Isaiah 61:6</a> </span></p>
-<p class="f" id="FN4"><span class="notemark">‡</span><a class="notebackref" href="#V7">1:7</a>
- <span class="ft">“Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.</span></p>
-<p class="f" id="FN5"><span class="notemark">§</span><a class="notebackref" href="#V8">1:8</a>
- <span class="ft">TR adds “the Beginning and the End”</span></p>
-<p class="f" id="FN6"><span class="notemark">*</span><a class="notebackref" href="#V8">1:8</a>
- <span class="ft">TR omits “God”</span></p>
-<p class="f" id="FN7"><span class="notemark">†</span><a class="notebackref" href="#V11">1:11</a>
- <span class="ft">TR adds “I am the Alpha and the Omega, the First and the Last.”</span></p>
-<p class="f" id="FN8"><span class="notemark">‡</span><a class="notebackref" href="#V11">1:11</a>
- <span class="ft">TR adds “which are in Asia”</span></p>
-<p class="x" id="FN9"><span class="notemark">✡</span><a class="notebackref" href="#V13">1:13</a>
- <span class="xt"><a href='DAN07.htm#V1'>Daniel 7:13</a> </span></p>
-<p class="f" id="FN10"><span class="notemark">§</span><a class="notebackref" href="#V18">1:18</a>
- <span class="ft">or, Hell</span></p>
-<p class="f" id="FN11"><span class="notemark">*</span><a class="notebackref" href="#V20">1:20</a>
- <span class="ft">or, messengers (here and wherever angels are mentioned)</span></p>
-
-<hr />
-</div> -->
-
-<hr style="margin-top:3em;margin-bottom:1em;" />
-<div class="copyright">
-<center><a href="https://ebible.org/web/REV01.htm">The World English Bible</a> (<a href="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">PDF</a>)<br>All blockquotes are WEB</center>
-<p align="center"><a href='https://ebible.org/web/copyright.htm'>Public Domain</a></p>
-</div>
-
-<script>
-    var refTagger = {
-        settings: {
-            bibleVersion: 'LEB'
-        }
-    }; 
-
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+// Additional settings
+BLB.Tagger.Translation = 'LSB';
+BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; // 'line' or 'par'
+BLB.Tagger.NoSearchTagNames = ''; // HTML element list
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
 </script>
