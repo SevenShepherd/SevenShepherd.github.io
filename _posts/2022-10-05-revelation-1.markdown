@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation: Chapter 1 📜"
-date: 2022-10-05 01:37:30 -0500
+date: 2022-10-05 01:39:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -133,6 +133,29 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 </blockquote>
 
 <div class="mt" style="color:Gold;">⚠️ Under Construction</div>
+
+
+<hr style="margin-top:3em;margin-bottom:1em;" />
+<div class="copyright">
+<center>Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. <a href="https://lsbible.org/">LSBible.org</a> and 316publishing.com.</center>
+</div>
+
+<!-- <script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script> -->
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
