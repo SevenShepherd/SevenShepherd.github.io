@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 01:50:30 -0500
+date: 2022-10-05 01:55:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -38,8 +38,10 @@ published: true
 
 <!-- <div class="mt" style="color:Gold;">⚠️ Under Construction</div> -->
 
-![Atmospheric Heaven](/assets/images/revelation/TheLastJudgement.jpg)
-<span style="font-style:italic;font-size:14px;color:grey">Gustave Doré's The Last Judgement</span>
+![Apostle John](/assets/images/revelation/St.JohnatPatmosDore.jpg)
+
+<!-- ![Atmospheric Heaven](/assets/images/revelation/TheLastJudgement.jpg) -->
+<!-- <span style="font-style:italic;font-size:14px;color:grey">Gustave Doré's The Last Judgement</span> -->
 
 <div class="mt">THE REVELATION OF JESUS CHRIST</div>
 
