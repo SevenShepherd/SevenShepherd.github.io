@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 01:57:30 -0500
+date: 2022-10-05 01:58:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -63,9 +63,9 @@ published: true
 
 <div class="mt" style="font-size:19px;">∴ Slaves ∴</div>
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
-
 The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
+
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
 
 Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
 
@@ -77,7 +77,7 @@ Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
 <div class="mt" style="font-size:19px;">∴ Revelation ∴</div>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
+The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
 
 <!-- <a href="#a" class="notemark">1<span class="popup">Schwandt, John, and Dr. C. John Collins. <span style="color:#660000;">The English-Greek Reverse Interlinear New Testament: English Standard Version.</span> 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).</span></a> <a href="#b" class="notemark">2<span class="popup">Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary.</span> Logos Bible Software, 2010.</span></a> <a href="#c" class="notemark">3<span class="popup">Mounce, Dr. William D. <span style="color:#660000;">Mounce Reverse Interlinear New Testament, and Mounce Concise Greek-English Dictionary of the New Testament.</span> Zondervan, 2011.</span></a> -->
 
