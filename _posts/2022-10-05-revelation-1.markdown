@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 01:55:30 -0500
+date: 2022-10-05 01:57:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -45,20 +45,27 @@ published: true
 
 <div class="mt">THE REVELATION OF JESUS CHRIST</div>
 
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙-𝟚 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1"> 
 
 <!-- <div class='p'> <span class="verse" id="V1">1&#160;</span> This is the Revelation of Jesus Christ,<a href="#FN1" class="notemark">*<span class="popup"> “Christ” means “Anointed One”.</span></a> which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel<a href="#FN2" class="notemark">†<span class="popup"> or, messenger (here and wherever angel is mentioned)</span></a> to his servant, John,</div> -->
 
-
-<div class='p'> <span class="verse" id="V1" style="font-weight:bold;color:black;">1&#160;</span> The Revelation of Jesus Christ, which God gave Him to show to His slaves the things which must soon happen; and He indicated this by sending it through His angel to His slave John, <span class="verse" id="V2" style="font-weight:bold;color:black;">2&#160;</span> who bore witness to the word of God and to the witness of Jesus Christ, even to all that he saw.</div>
+<div class='p'> <span class="verse" id="V1" style="font-weight:bold;color:black;">1&#160;</span> The Revelation of Jesus Christ, which God gave Him to show to His slaves the things which must soon happen; and He indicated this by sending it through His angel to His slave John, </div>
 
 </blockquote>
 
-<div class="mt" style="font-size:19px;">∴ Slave ∴</div>
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> (doulos) which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
+<div class='p'> <span class="verse" id="V2" style="font-weight:bold;color:black;">2&#160;</span> who bore witness to the word of God and to the witness of Jesus Christ, even to all that he saw.</div>
 
-The connotation in this context is one who has voluntarily sold himself into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
+</blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Slaves ∴</div>
+
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
+
+The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
 
 Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
 
@@ -88,7 +95,9 @@ With our newfound understanding of the underlying meaning of the word Revelation
 
 Jesus is simultaneously the One revealed and the Revealer. God The Father gives this Revelation (the unveiled truth) to Jesus (Mt 11:27; Re 5:7). This truth was then sent by Jesus to John (Re 10:9) through His angel to show His slaves in the Churches what will happen soon (Re 1:1), because the time is near (Re 1:3). This certainly pictures the present hour when signs pointing to Jesus' return are beginning to appear with alarming frequency. 
 
-The Book of Revelation is a study of signs. From the sign of the Holy Spirit presented as seven spirits Re 1:4, to the sign of the seven golden lampstands and the seven stars in Re 1:20. Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10; cf. Dan. 12:4). John’s visions are important for his first-century readers as well as for later generations of believers.
+The Book of Revelation is a study of signs. From the sign of the Holy Spirit presented as seven spirits (Re 1:4), to the sign of the seven golden lampstands and the seven stars (Re 1:20). Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. 
+
+In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10; cf. Dan. 12:4). John’s visions are important for his first-century readers as well as for later generations of believers.
 
 <!-- Secondly, we see that this revelation was given to Jesus Christ, as is everything, for Jesus said, *All things are delivered unto me of my Father* Mt 11:27. They are presented unto Him to *shew unto his servants things which must shortly come to pass.* The term *shortly* in the original means *"rapidity of action once there is a beginning."* This certainly pictures the present hour when signs pointing to His return are beginning to appear with alarming frequency. These truths, then, are sent and signified by Christ's angel unto John, the writer of the book, under the inspiration of the Holy Spirit. Notice that the four letters of the word *signified* spell SIGN. Why? The Book of Revelation is a study of signs. There is the sign of the Holy Spirit presented as seven spirits Re 1:4 and the sign of the seven golden candlesticks and the seven stars in Re 1:20. Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. -->
 
@@ -131,18 +140,24 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 <hr /><br>
 
+<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟛 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V3" style="font-weight:bold;color:black;">3&#160;</span> Blessed is he who reads and those who hear the words of the prophecy and keep the things which are written in it, for the time is near. </div>
 
 </blockquote>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
 
 <hr /><br>
 
-
 <div class="mt">MESSAGE TO THE SEVEN CHURCHES</div>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟜 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -150,11 +165,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟝 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V5" style="font-weight:bold;color:black;">5&#160;</span> and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To Him who loves us and released us from our sins by His blood⁠— </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟞 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -162,11 +189,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟟 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V7" style="font-weight:bold;color:black;">7&#160;</span> BEHOLD, HE IS COMING WITH THE CLOUDS, and EVERY EYE WILL SEE HIM, EVEN THOSE WHO PIERCED HIM; and all the tribes of the earth will MOURN OVER HIM. Yes, amen. </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟠 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -174,9 +213,15 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
 <!-- <div class="mt">The Vision of the Son of Man <a href="https://read.lsbible.org/?q=rev+1" style="font-size:14px;">(Title From LSB)</a></div> -->
 
 <div class="mt">THE VISION OF THE SON OF MAN</div>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟡 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -184,11 +229,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟘 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> I was in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet, </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟙 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -196,11 +253,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟚 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V12" style="font-weight:bold;color:black;">12&#160;</span> Then I turned to see the voice that was speaking with me. And having turned I saw seven golden lampstands; </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟛 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -208,11 +277,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟜 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V14" style="font-weight:bold;color:black;">14&#160;</span> And His head and His hair were white like white wool, like snow; and His eyes were like a flame of fire. </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟝 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -220,11 +301,23 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟞 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V16" style="font-weight:bold;color:black;">16&#160;</span> and having in His right hand seven stars, and a sharp two-edged sword which comes out of His mouth, and His face was like the sun shining in its power. </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟟-𝟙𝟠 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -238,6 +331,12 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 </blockquote>
 
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<hr /><br>
+
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟙𝟡-𝟚𝟘 ꧂</div>
+
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V19" style="font-weight:bold;color:black;">19&#160;</span> <span class='wj'>Therefore write the things which you have seen, and the things which are, and the things which will take place after these things.</span> </div>
@@ -249,6 +348,9 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 <div class='p'> <span class="verse" id="V20" style="font-weight:bold;color:black;">20&#160;</span> <span class='wj'>As for the mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.</span> </div>
 
 </blockquote>
+
+<div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
 
 <hr style="margin-top:3em;margin-bottom:1em;" />
 <div class="copyright">
