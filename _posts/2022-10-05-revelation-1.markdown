@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation: Chapter 1 📜"
-date: 2022-10-05 01:39:30 -0500
+date: 2022-10-05 01:47:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -81,7 +81,7 @@ The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-
 
 With our newfound understanding of the underlying meaning of the word Revelation, we can conclude that The Book of Revelation is about the unveiling of our great God and Savior Jesus Christ (2Pe 1:1; Tit 2:13). This unveiling takes place at the rapture (Re 4:1), as well as at the hour of His return to the earth when every eye shall see Him (Re 1:7).
 
-Jesus is simultaneously the One revealed and the Revealer. The Father gives this Revelation (the unveiled truth) to Jesus (Mt 11:27; Re 5:7). This truth was then sent by Jesus to John (Re 10:9) through His angel to show His slaves in the Churches what will happen soon (Re 1:1), because the time is near (Re 1:3). This certainly pictures the present hour when signs pointing to Jesus' return are beginning to appear with alarming frequency. 
+Jesus is simultaneously the One revealed and the Revealer. God The Father gives this Revelation (the unveiled truth) to Jesus (Mt 11:27; Re 5:7). This truth was then sent by Jesus to John (Re 10:9) through His angel to show His slaves in the Churches what will happen soon (Re 1:1), because the time is near (Re 1:3). This certainly pictures the present hour when signs pointing to Jesus' return are beginning to appear with alarming frequency. 
 
 The Book of Revelation is a study of signs. From the sign of the Holy Spirit presented as seven spirits Re 1:4, to the sign of the seven golden lampstands and the seven stars in Re 1:20. Thus, through signs, we come to an understanding of this gloriously revealed portion of Scripture. In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10; cf. Dan. 12:4). John’s visions are important for his first-century readers as well as for later generations of believers.
 
@@ -118,7 +118,7 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 <!-- The phrase &#8220;*Revelation of Jesus Christ*&#8221; is found in six other verses (1Pe 1:7, 13; 4:13; 1Co 1:7; 2Th 1:7; Ga 1:12) -->
 
-<!-- <blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf"> 
+<!-- <blockquote cite="https://read.lsbible.org/?q=Rev+1"> 
 
 <div class='p'> <span class="verse" id="V2">2&#160;</span> who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.</div> 
 
@@ -126,7 +126,7 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 <hr /><br>
 
-<blockquote cite="https://ebible.org/pdf/eng-web/eng-web_REV.pdf">
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V3" style="font-weight:bold;color:black;">3&#160;</span> Blessed is he who reads and those who hear the words of the prophecy and keep the things which are written in it, for the time is near. </div>
 
@@ -134,6 +134,116 @@ The Book of Revelation is a study of signs. From the sign of the Holy Spirit pre
 
 <div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
+<hr /><br>
+
+
+<div class="mt">MESSAGE TO THE SEVEN CHURCHES</div>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V4" style="font-weight:bold;color:black;">4&#160;</span> John to the seven churches that are in Asia: Grace to you and peace, from the One who is and who was and who is to come, and from the seven Spirits who are before His throne, </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V5" style="font-weight:bold;color:black;">5&#160;</span> and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To Him who loves us and released us from our sins by His blood⁠— </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V6" style="font-weight:bold;color:black;">6&#160;</span> and He has made us to be a kingdom, priests to His God and Father⁠—to Him be the glory and the might forever and ever. Amen. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V7" style="font-weight:bold;color:black;">7&#160;</span> BEHOLD, HE IS COMING WITH THE CLOUDS, and EVERY EYE WILL SEE HIM, EVEN THOSE WHO PIERCED HIM; and all the tribes of the earth will MOURN OVER HIM. Yes, amen. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span> <span class='wj'>“I am the Alpha and the Omega,”</span> says the Lord God, <span class='wj'>“who is and who was and who is to come, the Almighty.”</span> </div>
+
+</blockquote>
+
+<!-- <div class="mt">The Vision of the Son of Man <a href="https://read.lsbible.org/?q=rev+1" style="font-size:14px;">(Title From LSB)</a></div> -->
+
+<div class="mt">THE VISION OF THE SON OF MAN</div>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V9" style="font-weight:bold;color:black;">9&#160;</span> I, John, your brother and fellow partaker in the tribulation and kingdom and perseverance which are in Jesus, was on the island called Patmos because of the word of God and the witness of Jesus. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> I was in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet, </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V11" style="font-weight:bold;color:black;">11&#160;</span> saying, <span class='wj'>“Write in a scroll what you see, and send it to the seven churches: to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.”</span> </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V12" style="font-weight:bold;color:black;">12&#160;</span> Then I turned to see the voice that was speaking with me. And having turned I saw seven golden lampstands; </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V13" style="font-weight:bold;color:black;">13&#160;</span> and in the middle of the lampstands I saw one like a son of man, clothed in a robe reaching to the feet, and girded across His chest with a golden sash. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V14" style="font-weight:bold;color:black;">14&#160;</span> And His head and His hair were white like white wool, like snow; and His eyes were like a flame of fire. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V15" style="font-weight:bold;color:black;">15&#160;</span> His feet were like burnished bronze, when it has been made to glow in a furnace, and His voice was like the sound of many waters, </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V16" style="font-weight:bold;color:black;">16&#160;</span> and having in His right hand seven stars, and a sharp two-edged sword which comes out of His mouth, and His face was like the sun shining in its power. </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span> And when I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, <span class='wj'>“Do not fear; I am the first and the last,</span> </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V18" style="font-weight:bold;color:black;">18&#160;</span> <span class='wj'>and the living One; and I was dead, and behold, I am alive forever and ever, and I have the keys of death and of Hades.</span> </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V19" style="font-weight:bold;color:black;">19&#160;</span> <span class='wj'>Therefore write the things which you have seen, and the things which are, and the things which will take place after these things.</span> </div>
+
+</blockquote>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+1">
+
+<div class='p'> <span class="verse" id="V20" style="font-weight:bold;color:black;">20&#160;</span> <span class='wj'>As for the mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.</span> </div>
+
+</blockquote>
 
 <hr style="margin-top:3em;margin-bottom:1em;" />
 <div class="copyright">
