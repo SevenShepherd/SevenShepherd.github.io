@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:07:30 -0500
+date: 2022-10-05 02:08:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -169,30 +169,36 @@ Verse three demonstrates that the apocalypse is not some impossible to understan
 
 <!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
 
+<span style="font-size:19px;">Jesus Imminent Return</span>
+
 When the bible says that **the time is *near***, or that it is ***at hand***, this is telling us that the Return of Christ is imminent. Christ's return is the next event on Father God's calender and could happen at anytime. It could happen right now while I type this commentary, or in a few days from now when you're reading it, or decades from now, etc. 
 
 The Bible teaches us that only the Father in heaven knows the day and hour, not even the Son, or His angels (Mt 24:36). We are instructed to be alert and disciplined unto prayer, because the end of all things is at hand (1Pe 4:7 ESV). The Bible warns us that the day of the Lord will come suddenly, like a thief in the night! (1Th 5:2–4; 2Pe 3:10) 
 
 This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
 
-It is important that we let others observe our conduct as gentle, kind, considerate, and patient (Ph 4:5), because this is how we prove that we are truly of God, truly saved! (Mt 3:8 NLT) The Bible teaches that you will be able to identify a True Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
+<span style="font-size:19px;">Conduct of a True Christian</span>
+
+Because the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient (Ph 4:5). This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (James 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
 
 If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (James 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
 
-No one who makes a ***practice*** of sinning is a True Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they're the children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
+No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
 
-<!-- - Matthew 24:36 tells us that only the Father in heaven knows the day and hour, not even the Son, or His angels.
-- 1 Peter 4:7 ESV instructs that we should be alert and disciplined unto prayer, because the end of all things is at hand.
-- 1 Thessalonians 5:2–4; 2 Peter 3:10 warns us that the day of the Lord will come suddenly, like a thief in the night!
-- Romans 13:12 compares this fast approaching time to the dawn of a new day from a night that is almost gone.
-- Philippians 4:5 teaches us to let others see us as gentle, kind, considerate, and patient. 
-    - Matthew 3:8 NLT Prove by the way that you live that you are truly saved. 
-    - Matthew 7:16 A true Christian is identified by the way they act and by the their fruit Gal 5:22-23; Mt 3:10. 
-    - James 1:22 Don't fool yourselves, Mt 7:21 only those who do the will of the Father will enter heaven. 
-    - 1 John 3:9-10 ESV; Gal 5:19-21 No one who makes a ***practice*** of sinning will make it.
-- Titus 2:13; 2 Tim 4:8 a crown of righteousness awaits those of us who watch for our God's return. -->
+<span style="font-size:19px;">Teach with Kindness & Patience</span>
 
-Remember that when we see people setting dates for Christ's Return, or find someone who is Christian in name only who is slandering other people in the congregation (Pr 11:9 NLT, Pr 11:12 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT), sleeping around, doing drugs, or giving into other works of the flesh; teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:8).
+Make sure you're ready for the rapture & revelation. This includes being able to teach with patience and kindness. Remember that when we see people setting dates for Christ's Return, or find someone who is Christian in name only:
+
+- Speaking negatively about others (Pr 11:12 NLT; Mt 5:22 ESV).
+- Gossiping about others (Pr 16:28 NLT).
+- Slandering other people in the congregation (Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
+- Bringing false witness (Pr 6:16-19).
+- Hating, hatred is equivalent to murder (1Jn 3:15; Pr 11:9 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
+- Sleeping around, or doing [drugs](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; Gal 5:19-21)
+- Speaking profanities (James 1:26)
+- Demonstrating other works of the flesh. 
+
+Teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). If you find that they are inconsolable, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3)
 
 <hr /><br>
 
