@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 01:58:30 -0500
+date: 2022-10-05 02:00:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -61,13 +61,17 @@ published: true
 
 </blockquote>
 
-<div class="mt" style="font-size:19px;">∴ Slaves ∴</div>
+<div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
+
+<!-- The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
+
+The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another. -->
+
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19).
 
 The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
-
-Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
+Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
 
 <!-- Net -->
 
@@ -75,7 +79,7 @@ Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
 <!-- tn Grk “slaves.” Although this translation frequently renders δοῦλος (doulos) as “slave,” the connotation is often of one who has sold himself into slavery; in a spiritual sense, the idea is that of becoming a slave of God or of Jesus Christ voluntarily. The voluntary notion is conspicuous here; hence, the translation “servants.” In any case, the word does not bear the connotation of a free individual serving another. BDAG notes that “‘servant’ for ‘slave’ is largely confined to Biblical transl. and early American times…in normal usage at the present time the two words are carefully distinguished” (BDAG 260 s.v.). A good translation is “bondservant” (sometimes found in the ASV for δοῦλος), in that it often indicates one who sells himself into slavery to another. But as this is archaic, few today understand its force. -->
 
-<div class="mt" style="font-size:19px;">∴ Revelation ∴</div>
+<div class="mt" style="font-size:19px;">∴ Apokalypsis ∴</div>
 
 The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
 
@@ -140,9 +144,10 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 <hr /><br>
 
+<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟛 ꧂</div>
+
 <div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
-<div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟛 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
@@ -150,12 +155,26 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 </blockquote>
 
+<!-- <div class="mt" style="font-size:19px;">∴ Makarios ∴</div>
+
+The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as [happy](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=EXB;MOUNCE). 
+
+This is the first of seven blessings which are given to those who read or hear, as well as obey God’s Word. The remaining six blessings can be found in Revelation 14:13; 16:15; 19:9; 20:6; 22:7, 14.
+
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book. -->
+
+<!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
+
 
 
 <hr /><br>
 
 <div class="mt">MESSAGE TO THE SEVEN CHURCHES</div>
+
+<!-- <div class="mt" style="color:Gold;">⚠️ Under Construction</div> -->
+
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟜 ꧂</div>
 
