@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:00:30 -0500
+date: 2022-10-05 02:07:30 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -81,7 +81,12 @@ Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
 <div class="mt" style="font-size:19px;">∴ Apokalypsis ∴</div>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources:
+The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> ([Apokalypsis](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/), sometimes transliterated as [*apokalupsis*](https://biblehub.com/greek/602.htm)), and is pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM). It means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). Sources below:
+
+
+
+
+<!-- The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources: -->
 
 <!-- <a href="#a" class="notemark">1<span class="popup">Schwandt, John, and Dr. C. John Collins. <span style="color:#660000;">The English-Greek Reverse Interlinear New Testament: English Standard Version.</span> 28th Revised Edition, Crossway Bibles, (2006, 2016 ESV).</span></a> <a href="#b" class="notemark">2<span class="popup">Holmes, Michael W., and Dr. W. Hall Harris. <span style="color:#660000;">The Lexham English Bible English-Greek Reverse Interlinear New Testament: With Strongs Greek-English Glossary.</span> Logos Bible Software, 2010.</span></a> <a href="#c" class="notemark">3<span class="popup">Mounce, Dr. William D. <span style="color:#660000;">Mounce Reverse Interlinear New Testament, and Mounce Concise Greek-English Dictionary of the New Testament.</span> Zondervan, 2011.</span></a> -->
 
@@ -146,16 +151,13 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟛 ꧂</div>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
-
-
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
 
 <div class='p'> <span class="verse" id="V3" style="font-weight:bold;color:black;">3&#160;</span> Blessed is he who reads and those who hear the words of the prophecy and keep the things which are written in it, for the time is near. </div>
 
 </blockquote>
 
-<!-- <div class="mt" style="font-size:19px;">∴ Makarios ∴</div>
+<div class="mt" style="font-size:19px;">∴ Makarios ∴</div>
 
 The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as [happy](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=EXB;MOUNCE). 
 
@@ -163,17 +165,40 @@ This is the first of seven blessings which are given to those who read or hear, 
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book. -->
+Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book.
 
 <!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
 
+When the bible says that **the time is *near***, or that it is ***at hand***, this is telling us that the Return of Christ is imminent. Christ's return is the next event on Father God's calender and could happen at anytime. It could happen right now while I type this commentary, or in a few days from now when you're reading it, or decades from now, etc. 
 
+The Bible teaches us that only the Father in heaven knows the day and hour, not even the Son, or His angels (Mt 24:36). We are instructed to be alert and disciplined unto prayer, because the end of all things is at hand (1Pe 4:7 ESV). The Bible warns us that the day of the Lord will come suddenly, like a thief in the night! (1Th 5:2–4; 2Pe 3:10) 
+
+This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
+
+It is important that we let others observe our conduct as gentle, kind, considerate, and patient (Ph 4:5), because this is how we prove that we are truly of God, truly saved! (Mt 3:8 NLT) The Bible teaches that you will be able to identify a True Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
+
+If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (James 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
+
+No one who makes a ***practice*** of sinning is a True Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they're the children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
+
+<!-- - Matthew 24:36 tells us that only the Father in heaven knows the day and hour, not even the Son, or His angels.
+- 1 Peter 4:7 ESV instructs that we should be alert and disciplined unto prayer, because the end of all things is at hand.
+- 1 Thessalonians 5:2–4; 2 Peter 3:10 warns us that the day of the Lord will come suddenly, like a thief in the night!
+- Romans 13:12 compares this fast approaching time to the dawn of a new day from a night that is almost gone.
+- Philippians 4:5 teaches us to let others see us as gentle, kind, considerate, and patient. 
+    - Matthew 3:8 NLT Prove by the way that you live that you are truly saved. 
+    - Matthew 7:16 A true Christian is identified by the way they act and by the their fruit Gal 5:22-23; Mt 3:10. 
+    - James 1:22 Don't fool yourselves, Mt 7:21 only those who do the will of the Father will enter heaven. 
+    - 1 John 3:9-10 ESV; Gal 5:19-21 No one who makes a ***practice*** of sinning will make it.
+- Titus 2:13; 2 Tim 4:8 a crown of righteousness awaits those of us who watch for our God's return. -->
+
+Remember that when we see people setting dates for Christ's Return, or find someone who is Christian in name only who is slandering other people in the congregation (Pr 11:9 NLT, Pr 11:12 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT), sleeping around, doing drugs, or giving into other works of the flesh; teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:8).
 
 <hr /><br>
 
 <div class="mt">MESSAGE TO THE SEVEN CHURCHES</div>
 
-<!-- <div class="mt" style="color:Gold;">⚠️ Under Construction</div> -->
+<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟜 ꧂</div>
