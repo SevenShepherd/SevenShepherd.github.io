@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:20:00 -0500
+date: 2022-10-05 02:22:22 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -275,7 +275,86 @@ The firstborn of the dead, means Jesus has overcome or triumphed over death itse
 
 <span style="font-size:19px;">What about Lazarus?</span>
 
-<span style="font-size:19px;">Beware The Cults</span>
+So the next question you might ask is, *"Why is Christ the first begotten of the dead, when Lazarus and others were raised first?"* The answer is that others were raised from physical death to physical life only to eventually die again. Christ Jesus is the first to have been resurrected with a new immortal glorified body &mdash; never to die again! This is why Christ is the *"first of the resurrection from the dead"* (Ac 26:23).<sup>[JVI]</sup>
+
+<!-- This is why Christ *"should be the first that should rise from the dead"* (Ac 26:23 KJV) -->
+
+<span style="font-size:19px;">Beware The Cults "Firstborn"</span>
+
+The firstborn or first begotten is referring to the Resurrection of Christ Jesus.
+
+Educated scholars and professors of ancient Hebrew and Koine Greek have revealed that the word for **firstborn** in Heb 1:6; Col 1:15,18; Rom 8:29 is the Greek word <span style="font-weight:Bold;color:#00802b;">πρωτότοκος</span> ([prōtotokos](https://www.blueletterbible.org/lexicon/g4416/lsb/tr/0-1/)), pronounced [🔊 pro-tot-ok'-os](https://youtu.be/LUb6g3auXbQ), which means: <span style="font-style:italic;color:Green;">superior, preeminent in rank, and above</span>.
+
+Let's look at a few examples of how the cults have abandoned science, facts, and reason and denied sound scholarship by seeking out false teachers as the Bible foretold would happen (2Tim 4:3 ESV).
+
+The cults have twisted (2Pe 3:16) the underlying meaning of the word firstborn, from its true meaning as superior, or preeminent in rank when referring to the Resurrection of Jesus, to the ridiculously false meaning "first created" in a failed effort to attempt to strip Jesus of his [**deity**](https://sevenshepherd.github.io/deity/) and conform the holy scriptures to their unholy false doctrines.
+
+<!-- > And when He again brings the **firstborn** into the world, He says, “And let all the angels of God worship Him.” &mdash; Hebrews 1:6 -->
+
+> Who is the image of the invisible God, the **firstborn** of all creation. &mdash; Colossians 1:15
+
+<!-- > And He is the head of the body, the church; Who is the beginning, the **firstborn** from the dead, so that He Himself will come to have first place in everything. &mdash; Colossians 1:18
+
+> Because those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the **firstborn** among many brothers; Romans 8:29 -->
+
+<!-- Christ is *"from everlasting"* (Mi 5:2). Jesus is prophesied to be Mighty God in Isaiah 9:6.
+
+> For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, **Mighty God**, Eternal Father, Prince of Peace.
+
+God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 10:21 and Jeremiah 32:18, the same title that is ascribed to the Son of God, Jesus Christ. Remember that there is only ONE God (Is 43:10;44:6,8,24)! Do not let the cults deceive you. -->
+
+In this first example the word “firstborn” in Colossians 1:15 is the Greek word “prototokos.” It does not mean “first created” as the cults say. There’s another Greek word for ‘first created’ (protoktistos) and Paul did not use that word.
+
+📖 The **context** makes that clear. And that’s why it’s so important to always examine the context and allow Scripture to interpret Scripture. Why is Jesus superior over all creation? Well, the very next verse explains, that Jesus is superior to everything, because He is the One who made everything!
+
+- Colossians 1:16-17
+> 16 “For in Him **all things** were created, both in the heavens and on earth, visible and invisible, whether thrones or dominions or rulers or authorities⁠—**all things** have been created through Him and for Him.” 17 “And He is before **all things**, And in Him **all things** hold together.” 
+
+⚠️ To deal with the implications of these two verses (Col. 1:16–17) some cults have added four words ("other") into their false bible translations that are not in the original Greek to give people the impression that Jesus only made some things—not ALL things. They have been reproved and proved to be liars according to the Bible (Proverbs 30:5-6)
+
+<!-- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Col 1:16, in talking about Jesus, says that"... All [other] things have been created through him and FOR HIM". If Jesus were Michael the Archangel at the time of creation, would an angel have created all things for himself? Isa 43:7 says God created "everyone ... for my OWN glory ..."
+
+- Isaiah 43:7
+> Everyone who is called by My name,
+And whom I have created **for My glory**,
+Whom I have formed, even whom I have made.” -->
+
+Further, we can add insult to injury by observing that Jesus is God because [only God created all things!](https://sevenshepherd.github.io/deity-11/)
+
+> Thus says Yahweh, your Redeemer, and the one who formed you from the womb,
+“I, Yahweh, am the maker of **all things**, Stretching out the heavens **by Myself** And spreading out the earth **all alone**,
+
+Jesus made all things (Jn 1:3; Col 1:16-17), and Yahweh made all of those very same things. You better believe Jesus is Yahweh God! It's as plain as day. Undeniable, irrefutable, Indisputable proof that JESUS IS GOD.
+
+> In the beginning was the Word, and the Word was with God, and **the Word was God**. 2 He was in the beginning with God. 3 **All things came into being through Him, and apart from Him nothing came into being that has come into being.** ... 14 And **the Word became flesh, and dwelt among us,** and we beheld His glory, glory as of **the only begotten from the Father,** full of grace and truth.
+
+Is it any wonder that the Apostle John went through great lengths stating just that. 
+
+So, if the cults try to tell you that the term “firstborn” means Jesus was the first being God created, gently tell them that they’re mistaken and that the passage (Colossians 1:15) is actually teaching that Jesus is superior or above creation.
+
+<span style="font-size:19px;">Beware The Cults "Only Begotten"</span>
+
+Only begotten is referring to the incarnation of Christ Jesus.
+
+In an act of unparalleled bias, the cults have deliberately changed the underlying Greek manuscripts to conform to their false doctrines. Some of these cults have attempted to twist (2Pe 3:16) the meaning of the word ***begotten*** and force it to erroneously mean that Jesus was somehow “created” in a feeble attempt to strip Jesus of his [**deity**](https://sevenshepherd.github.io/deity/). Consider John 3:16 where Jesus is speaking to a Pharisee by the name of Nicodemus:
+
+> “For God so loved the world, that He gave His **only begotten** Son, that whoever believes in Him shall not perish, but have eternal life.”
+
+Educated scholars and professors in ancient Koine Greek reveal the word for ***only begotten*** to be <span style="font-weight:Bold;color:#00802b;">μονογενής</span>, transliterated as [monogenés](https://biblehub.com/greek/3439.htm), and pronounced [🔊 mon-og-en-ace'](https://youtu.be/DOnvb7dV-z0). It means <span style="font-style:italic;color:Green;">“unique,” “only,” or “one of its kind.”</span> and it comes from two Greek terms: <span style="font-style:italic;color:Green;">monos</span> meaning <span style="font-style:italic;color:Green;">“one”</span> and the noun <span style="font-style:italic;color:Green;">genes</span> which means <span style="font-style:italic;color:Green;">“kind” or “type.”</span>
+
+This is why over 100 scholars who translated the English Standard Version were justified in removing the traditional label of "only begotten Son" and going with the more literal "only Son".<sup>[[ESV/EXB/NET/NLT]](https://www.biblegateway.com/passage/?search=John%203:16&version=ESV;EXB;NET;NLT)</sup>
+
+> “For God so loved the world, that he gave his **only** Son, that whoever believes in him should not perish but have eternal life. &mdash; English Standard Version
+
+That’s what Jesus is talking about in John 3:16. He is not saying that God the Father created Him. He’s saying that He is God’s only, unique, one of a kind Savior! This is why only He has immortality (1Ti 6:16), and why Peter could boldly pronounce to the Sanhedrin in Acts 4:12:
+
+> “And **there is salvation in no one else**, for there is no other name under heaven that has been given among men by which we must be saved.”
+
+Jesus is the “monogenes,” the only, one of a kind Savior! There is salvation in no one else. Christ is *"from everlasting"* (Mi 5:2). Jesus is prophesied to be Mighty God in Isaiah 9:6.
+
+> For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, **Mighty God**, Eternal Father, Prince of Peace.
+
+God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 10:21 and Jeremiah 32:18, the same title that is ascribed to the Son of God, Jesus Christ. Remember that there is only ONE God (Is 43:10;44:6,8,24)! Do not let the cults deceive you.
 
 
 <hr /><br>
