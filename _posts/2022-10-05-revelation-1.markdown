@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:10:00 -0500
+date: 2022-10-05 02:15:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -230,7 +230,7 @@ The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers
 
 <!-- The translation has placed the “he who is” in quotation marks to indicate to the reader that the syntactical awkwardness is intentional. (For further comments, see ExSyn 63).  -->
 
-Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+BDAG (A Greek-English Lexicon of the New Testament) 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
 <!-- The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically. 
 
@@ -243,12 +243,6 @@ Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη �
 This is referring either to angels or to the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection (the number seven indicating completeness).<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
 
 The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup>[ESVSB]</sup>
-
-<!-- <span style="font-size:19px;">The Faithful Witness</span> 
-
-Witness (cf. “testimony,” Re 1:2) is central to the church’s calling amid suffering. As Jesus was the faithful witness even to death (1 Tim. 6:13), so must his followers be (Rev. 2:13; 12:11; 20:4). Christians are called to be faithful witnesses, but Jesus is “the” faithful witness par excellence. 
-
-John comforts his persecuted readers with the truth that Jesus has triumphed over death (the firstborn of the dead) and that he is sovereign over all earthly powers, even Caesar, since he is the ruler of kings on earth (cf. Re 19:16). made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation. -->
 
 <hr /><br>
 
@@ -263,6 +257,12 @@ John comforts his persecuted readers with the truth that Jesus has triumphed ove
 </blockquote>
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<span style="font-size:19px;">The Faithful Witness</span> 
+
+Witness (cf. “testimony,” Re 1:2) is central to the church’s calling amid suffering. As Jesus was the faithful witness even to death (1 Tim. 6:13), so must his followers be (Rev. 2:13; 12:11; 20:4). Christians are called to be faithful witnesses, but Jesus is “the” faithful witness par excellence. 
+
+John comforts his persecuted readers with the truth that Jesus has triumphed over death (the firstborn of the dead) and that he is sovereign over all earthly powers, even Caesar, since he is the ruler of kings on earth (cf. Re 19:16). made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.
 
 <hr /><br>
 
