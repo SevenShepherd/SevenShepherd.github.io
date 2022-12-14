@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:08:30 -0500
+date: 2022-10-05 02:10:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -63,15 +63,20 @@ published: true
 
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
 
-<!-- The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). 
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY). In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.
 
-The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another. -->
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19).
+The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
+
+The word does not bear the connotation of a free individual serving another. This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
+
+<!-- The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19).
 
 The connotation in this context is one who has ***voluntarily sold himself*** into slavery to Jesus Christ, in a spiritual sense. The word does not bear the connotation of a free individual serving another. A good translation is “bondservant”, in that it often indicates one who sells himself into slavery to another.
 
 Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
+
+<span style="font-size:12px;color:grey;">\*Source for the first and last paragraph is taken from: [Why does the LSB translate “doulos” as “slave”?](https://lsbible.org/faqs/) and the source for the paragraph in the center is an excerpt from: [NET translators' notes](https://www.biblegateway.com/passage/?search=Rev%201%3A1&version=NET)<span> -->
 
 <!-- Net -->
 
@@ -81,10 +86,7 @@ Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
 <div class="mt" style="font-size:19px;">∴ Apokalypsis ∴</div>
 
-The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> ([Apokalypsis](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/), sometimes transliterated as [*apokalupsis*](https://biblehub.com/greek/602.htm)), and is pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM). It means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). Sources below:
-
-
-
+The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span> ([Apokalypsis](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/), sometimes transliterated as [*apokalupsis*](https://biblehub.com/greek/602.htm)), and is pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM). It means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). Sources for transliteration below:
 
 <!-- The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-weight:Bold;color:#00802b;">Ἀποκάλυψις</span>, which means <span style="font-style:Italic;color:#00802b;">“Unveiling”</span> or <span style="font-style:Italic;color:#00802b;">“Disclosure”</span> and can often be found in the epistles (Ro 2:5; 8:19; 1Co 1:7; 2Th 1:7; 1Pe 1:7,13; 4:13; Lk 2:32). The transliteration [***Apokalypsis***](https://www.blueletterbible.org/lexicon/g602/mgnt/tr/0-1/) (sometimes [*apokalupsis*](https://biblehub.com/greek/602.htm)), pronounced [🔊 ap-ok-al'-oop-sis](https://youtu.be/ohNVe34B_BM), is taken from the following sources: -->
 
@@ -161,7 +163,7 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as [happy](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=EXB;MOUNCE). 
 
-This is the first of seven blessings which are given to those who read or hear, as well as obey God’s Word. The remaining six blessings can be found in Revelation 14:13; 16:15; 19:9; 20:6; 22:7, 14.
+This is the first of seven blessings which are given to those who read or hear, as well as obey God’s Word. The remaining six blessings can be found in Rev. 14:13; 16:15; 19:9; 20:6; 22:7, 14.
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
@@ -189,9 +191,9 @@ No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they
 
 Make sure you're ready for the rapture & revelation. This includes being able to teach with patience and kindness. Remember that when we see people setting dates for Christ's Return, or find someone who is Christian in name only:
 
-- Speaking negatively about others (Pr 11:12 NLT; Mt 5:22 ESV).
+- Speaking negatively about others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
 - Gossiping about others (Pr 16:28 NLT).
-- Slandering other people in the congregation (Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
+- Slandering other people in the congregation (James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
 - Bringing false witness (Pr 6:16-19).
 - Hating, hatred is equivalent to murder (1Jn 3:15; Pr 11:9 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
 - Sleeping around, or doing [drugs](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; Gal 5:19-21)
@@ -204,9 +206,6 @@ Teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:7-8,11-12;
 
 <div class="mt">MESSAGE TO THE SEVEN CHURCHES</div>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
-
-
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟜 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
@@ -217,7 +216,43 @@ Teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:7-8,11-12;
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
+<span style="font-size:19px;">The Seven Churches</span>
+
+Seven symbolizes completeness and implies that Christ addresses the whole church through these seven churches. Asia was a Roman province in what is now part of western Turkey, and is not referring to the continent of Asia.<sup>[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup>
+
+The Roman province of Asia made up about one-third of modern Asia Minor and was on the western side. Asia is situated to the west of the region of Phrygia and Galatia.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+
+<span style="font-size:19px;">The One Who Is And Who Was And Who Is To Come</span>
+
+John’s greeting comes “from” all three persons of the Trinity<sup>[ESVSB]</sup>. These three descriptions function like titles for God; Ex. 3:14–15.<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
+
+The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> 
+
+<!-- The translation has placed the “he who is” in quotation marks to indicate to the reader that the syntactical awkwardness is intentional. (For further comments, see ExSyn 63).  -->
+
+Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+
+<!-- The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically. 
+
+The translation has placed the “he who is” in quotation marks to indicate to the reader that the syntactical awkwardness is intentional. (For further comments, see ExSyn 63). 
+
+Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> -->
+
+<span style="font-size:19px;">The Seven Spirits</span> 
+
+This is referring either to angels or to the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection (the number seven indicating completeness).<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
+
+The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup>[ESVSB]</sup>
+
+<!-- <span style="font-size:19px;">The Faithful Witness</span> 
+
+Witness (cf. “testimony,” Re 1:2) is central to the church’s calling amid suffering. As Jesus was the faithful witness even to death (1 Tim. 6:13), so must his followers be (Rev. 2:13; 12:11; 20:4). Christians are called to be faithful witnesses, but Jesus is “the” faithful witness par excellence. 
+
+John comforts his persecuted readers with the truth that Jesus has triumphed over death (the firstborn of the dead) and that he is sovereign over all earthly powers, even Caesar, since he is the ruler of kings on earth (cf. Re 19:16). made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation. -->
+
 <hr /><br>
+
+<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟝 ꧂</div>
 
