@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:17:00 -0500
+date: 2022-10-05 02:20:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -215,15 +215,25 @@ Teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:7-8,11-12;
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
+
+
 <span style="font-size:19px;">The Seven Churches</span>
 
-Seven symbolizes completeness and implies that Christ addresses the whole church through these seven churches. Asia was a Roman province in what is now part of western Turkey, and is not referring to the continent of Asia.<sup>[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup>
+John now focuses his attention on seven local churches.<sup>[JVI]</sup> Seven symbolizes completeness (God's number of perfection) and implies that Christ addresses the whole church through these seven churches.<sup>[ESVSB]</sup> The number also pictures seven different sets of conditions reflecting the history of God's people through the church age.<sup>[JVI]</sup> Asia was a Roman province in what is now part of western Turkey,<sup>[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup> and is not referring to the continent of Asia.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
 The Roman province of Asia made up about one-third of modern Asia Minor and was on the western side. Asia is situated to the west of the region of Phrygia and Galatia.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
+<span style="font-size:19px;">Grace To You And Peace</span>
+
+God's salutation, found in 19/27 books in the NT is presented in this verse as well: *Grace be unto you and peace*, as the KJV puts it. Notice how *Grace* comes before *peace*, this is the order God shows his unmerited favor. Sinners cannot have peace without first receiving grace. This grace was shown at Calvary and is freely bestowed upon all who believe and receive Christ (Ep 2:8-9; Tit 2:11; Rom 5:1; Col 1:20; Rom 15:13).<sup>[JVI]</sup>
+
+<!-- We also find that the message of grace and peace is from the entire Trinity.  -->
+
+John’s greeting (the message of grace and peace) comes “from” all three persons of the Trinity.<sup>[ESVSB]</sup> First, the Father who is, and who was, and who is to come; then from the seven Spirits which are before the throne (a designation of the blessed Holy Spirit in all of His holiness, for seven means perfection).<sup>[JVI]</sup>
+
 <span style="font-size:19px;">The One Who Is And Who Was And Who Is To Come</span>
 
-John’s greeting comes “from” all three persons of the Trinity<sup>[ESVSB]</sup>. These three descriptions function like titles for God; Ex. 3:14–15.<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
+These three descriptions function like titles for God; Ex. 3:14–15.<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
 
 The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> 
 
@@ -262,6 +272,11 @@ In much the same way that Jesus was the faithful witness even unto death (1Ti 6:
 <span style="font-size:19px;">The Firstborn Of The Dead, And The Ruler Of The Kings Of The Earth.</span> 
 
 The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup>[ESVSB]</sup>
+
+<span style="font-size:19px;">What about Lazarus?</span>
+
+<span style="font-size:19px;">Beware The Cults</span>
+
 
 <hr /><br>
 
