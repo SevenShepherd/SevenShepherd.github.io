@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:22:22 -0500
+date: 2022-10-05 02:23:22 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -101,7 +101,7 @@ The term &#8220;*Revelation*&#8221; comes from the Greek word <span style="font-
 
 <!-- The Book of Revelation, then, concerns the unveiling or appearing of our precious Savior, the Lord Jesus Christ. It is not the unfolding of the story of St. John the Divine, or even of prophetical truth, but rather the message of the “appearing of Christ.” This appearing takes place at the Rapture in Re 4:1, as well as at the hour of His return to the earth when every eye shall see Him Re 1:7. -->
 
-With our newfound understanding of the underlying meaning of the word Revelation, we can conclude that The Book of Revelation is about the unveiling of our great God and Savior Jesus Christ (2Pe 1:1; Tit 2:13). This unveiling takes place at the rapture (Re 4:1), as well as at the hour of His return to the earth when every eye shall see Him (Re 1:7).
+With our newfound understanding of the underlying meaning of the word Revelation, we can conclude that The Book of Revelation is about the unveiling of [our great God and Savior Jesus Christ](https://sevenshepherd.github.io/deity-07/) (2Pe 1:1; Tit 2:13). This unveiling takes place at the rapture (Re 4:1), as well as at the hour of His return to the earth when every eye shall see Him (Re 1:7).
 
 Jesus is simultaneously the One revealed and the Revealer. God The Father gives this Revelation (the unveiled truth) to Jesus (Mt 11:27; Re 5:7). This truth was then sent by Jesus to John (Re 10:9) through His angel to show His slaves in the Churches what will happen soon (Re 1:1), because the time is near (Re 1:3). This certainly pictures the present hour when signs pointing to Jesus' return are beginning to appear with alarming frequency. 
 
@@ -273,6 +273,8 @@ In much the same way that Jesus was the faithful witness even unto death (1Ti 6:
 
 The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup>[ESVSB]</sup>
 
+The Lord Jesus Christ is also called the *"ruler of the kings of the earth"*. This is referring to the future when the *"Prince of Peace"* of Is 9:6 returns to earth as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:16). This glorious event will be the fulfillment of Psalm 2:6 ESV which states *"... I have set my King on Zion, my holy hill."* At that time the Lord Jesus shall *"have dominion from sea to sea And from the River to the ends of the earth."* (Ps 72:8)<sup>[JVI]</sup>
+
 <span style="font-size:19px;">What about Lazarus?</span>
 
 So the next question you might ask is, *"Why is Christ the first begotten of the dead, when Lazarus and others were raised first?"* The answer is that others were raised from physical death to physical life only to eventually die again. Christ Jesus is the first to have been resurrected with a new immortal glorified body &mdash; never to die again! This is why Christ is the *"first of the resurrection from the dead"* (Ac 26:23).<sup>[JVI]</sup>
@@ -287,7 +289,7 @@ Educated scholars and professors of ancient Hebrew and Koine Greek have revealed
 
 Let's look at a few examples of how the cults have abandoned science, facts, and reason and denied sound scholarship by seeking out false teachers as the Bible foretold would happen (2Tim 4:3 ESV).
 
-The cults have twisted (2Pe 3:16) the underlying meaning of the word firstborn, from its true meaning as superior, or preeminent in rank when referring to the Resurrection of Jesus, to the ridiculously false meaning "first created" in a failed effort to attempt to strip Jesus of his [**deity**](https://sevenshepherd.github.io/deity/) and conform the holy scriptures to their unholy false doctrines.
+The cults have twisted (2Pe 3:16) the underlying meaning of the word firstborn, from its true meaning as superior, or preeminent in rank when referring to the Resurrection of Jesus, to the ridiculously false meaning "first created" in a failed effort to strip Jesus of his [**deity**](https://sevenshepherd.github.io/deity/) and conform the holy scriptures to their unholy false doctrines.
 
 <!-- > And when He again brings the **firstborn** into the world, He says, “And let all the angels of God worship Him.” &mdash; Hebrews 1:6 -->
 
@@ -355,7 +357,6 @@ Jesus is the “monogenes,” the only, one of a kind Savior! There is salvation
 > For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, **Mighty God**, Eternal Father, Prince of Peace.
 
 God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 10:21 and Jeremiah 32:18, the same title that is ascribed to the Son of God, Jesus Christ. Remember that there is only ONE God (Is 43:10;44:6,8,24)! Do not let the cults deceive you.
-
 
 <hr /><br>
 
