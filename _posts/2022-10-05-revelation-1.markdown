@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:15:00 -0500
+date: 2022-10-05 02:17:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -64,7 +64,6 @@ published: true
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
 
 The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY). In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.
-
 
 The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
@@ -246,8 +245,6 @@ The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4
 
 <hr /><br>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
-
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟝 ꧂</div>
 
 <blockquote cite="https://read.lsbible.org/?q=Rev+1">
@@ -260,11 +257,15 @@ The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4
 
 <span style="font-size:19px;">The Faithful Witness</span> 
 
-Witness (cf. “testimony,” Re 1:2) is central to the church’s calling amid suffering. As Jesus was the faithful witness even to death (1 Tim. 6:13), so must his followers be (Rev. 2:13; 12:11; 20:4). Christians are called to be faithful witnesses, but Jesus is “the” faithful witness par excellence. 
+In much the same way that Jesus was the faithful witness even unto death (1Ti 6:13), Christians are called to be faithful witnesses as well (Re 2:13; 12:11; 20:4).<sup>[ESVSB]</sup> The Greek term translated witness can mean both “witness” and “martyr.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A5&version=NET)</sup> Jesus is “the” quintessential faithful witness.
 
-John comforts his persecuted readers with the truth that Jesus has triumphed over death (the firstborn of the dead) and that he is sovereign over all earthly powers, even Caesar, since he is the ruler of kings on earth (cf. Re 19:16). made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.
+<span style="font-size:19px;">The Firstborn Of The Dead, And The Ruler Of The Kings Of The Earth.</span> 
+
+The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup>[ESVSB]</sup>
 
 <hr /><br>
+
+<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟞 ꧂</div>
 
@@ -275,6 +276,8 @@ John comforts his persecuted readers with the truth that Jesus has triumphed ove
 </blockquote>
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
+
+<!-- made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation. -->
 
 <hr /><br>
 
