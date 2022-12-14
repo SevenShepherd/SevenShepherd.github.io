@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 📜"
-date: 2022-10-05 02:23:22 -0500
+date: 2022-10-05 02:24:22 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -195,7 +195,7 @@ Make sure you're ready for the rapture & revelation. This includes being able to
 - Slandering other people in the congregation (James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
 - Bringing false witness (Pr 6:16-19).
 - Hating, hatred is equivalent to murder (1Jn 3:15; Pr 11:9 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
-- Sleeping around, or doing [drugs](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; Gal 5:19-21)
+- Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; Gal 5:19-21)
 - Speaking profanities (James 1:26)
 - Demonstrating other works of the flesh. 
 
