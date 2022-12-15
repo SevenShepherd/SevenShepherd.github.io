@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 03:47:33 -0500
+date: 2022-10-05 03:48:44 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -473,7 +473,7 @@ Jesus' return is also described *“His feet will stand on the Mount of Olives�
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-It's important to note the alternate reading of this verse, so as to be thorough, and that this alternative reading is likely a later additon. As the WEB Bible notes, both the Majority Text & Critical text disagree with the Textus Receptus. TR adds “the Beginning and the End” and omits “God”.
+It's important to note the alternate reading of this verse, so as to be thorough, and that this alternative reading is likely a later addition. As the WEB Bible notes, both the Majority Text & Critical text disagree with the Textus Receptus. TR adds “the Beginning and the End” and omits “God”.
 
 > I am Alpha and Omega, **the beginning and the ending**, saith the Lord, which is, and which was, and which is to come, the Almighty. &mdash; King James Version
 
