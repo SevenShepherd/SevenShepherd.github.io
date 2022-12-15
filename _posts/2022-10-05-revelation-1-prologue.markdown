@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 02:37:22 -0500
+date: 2022-10-05 03:33:33 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -474,7 +474,7 @@ Jesus' return is also described *“His feet will stand on the Mount of Olives�
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-It's important to note the alternative reading of this verse, so as to be thorough, and that this alternative reading is likely a later additon. As the WEB Bible notes, both the Majority Text & Critical text disagree with the Textus Receptus. TR adds “the Beginning and the End” and omits “God”.
+It's important to note the alternate reading of this verse, so as to be thorough, and that this alternative reading is likely a later additon. As the WEB Bible notes, both the Majority Text & Critical text disagree with the Textus Receptus. TR adds “the Beginning and the End” and omits “God”.
 
 > I am Alpha and Omega, **the beginning and the ending**, saith the Lord, which is, and which was, and which is to come, the Almighty. &mdash; King James Version
 
@@ -496,7 +496,7 @@ Now here's the profound part, the *"Alpha and the Omega"* is *"THE FIRST AND THE
 
 > 12 “Behold, I am coming quickly, and My reward is with Me, to render to every man according to his work. 13 **I am the Alpha and the Omega, THE FIRST AND THE LAST**, the beginning and the end.” 14 Blessed are those who wash their robes, so that they may have the authority to the tree of life and may enter by the gates into the city. 15 Outside are the dogs and the sorcerers and the sexually immoral persons and the murderers and the idolaters, and everyone who loves and practices lying. 16 “**I, Jesus**, sent My angel to bear witness to you of these things for the churches. I am the root and the descendant of David, the bright morning star.”
 
-🤯 **Jesus is Almighty God** who is speaking in Revelation 1:8. Yahweh is also identified as the first and the last (Isaiah 41:4; 44:6; 48:12; Jn 1:49+Is 44:6). Jesus is Yahweh, Lord God, The Almighty Alpha and the Omega made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
+🤯 **Jesus is Almighty God** who is speaking in Revelation 1:8. Yahweh is also identified as the first and the last (Isaiah 41:4; 44:6; 48:12; Jn 1:49+Is 44:6). Jesus is Yahweh, Lord God, The Almighty, Alpha and the Omega, made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
 
 
 
