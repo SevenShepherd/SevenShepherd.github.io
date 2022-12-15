@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 03:48:44 -0500
+date: 2022-10-05 03:50:50 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -635,13 +635,13 @@ Now here's the profound part, the *"Alpha and the Omega"* is *"THE FIRST AND THE
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-
+-->
 <hr style="margin-top:3em;margin-bottom:1em;" />
 <div class="copyright">
 <center>Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. <a href="https://lsbible.org/">LSBible.org</a> and 316publishing.com.</center>
 </div> 
 
--->
+
 
 <!-- <script>
     var refTagger = {
