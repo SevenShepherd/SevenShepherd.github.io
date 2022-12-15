@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 02:25:22 -0500
+date: 2022-10-05 02:37:22 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -395,79 +395,72 @@ Israel’s roles now belong to those of all nations who are freed from sins by J
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-This verse announces the Lord's return to earth (the Coming King)<sup>[JVI/ESVSB]</sup>
+This verse announces the Lord's return to earth (the Coming King)<sup>[JVI/ESVSB]</sup> 
+
+<!-- Announcement of the Coming King. coming with the clouds. See note on 1 Thess. 4:16–17. Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14), though his subjects pierced him (Zech. 12:10). -->
 
 <span style="font-size:19px;">Coming With The Clouds</span>
 
 Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14).<sup>[ESVSB]</sup>
 
-<!-- 1 Thess. 4:16–17 cry of command … voice of an archangel … trumpet of God. The three noises summon the dead to wake from their slumber. The only “archangel” identified in the Bible is Michael (Jude 9). Trumpets in the OT proclaimed the Lord’s presence (Ex. 19:16; 1 Chron. 16:6; Ps. 47:5; Joel 2:1; Zech. 9:14); in Jewish tradition, the “trumpet” was associated with battle, the day of the Lord, and the resurrection (cf. 1 Cor. 15:52). first … Then. Dead Christians rise from their graves to the realm of the living, and then the living and the dead together are caught up from the earth into the air to meet Christ. The Greek for “caught up” (harpazō, “to grab or seize suddenly, to snatch, take away”) gives a sense of being forcibly and suddenly lifted upward (see John 6:15; Acts 8:39). together with. The dead Christians would suffer no disadvantage (cf. “we who are alive … will not precede,” 1 Thess. 4:15). clouds. Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). to meet. The Greek term apantēsis is often used of an important dignitary’s reception by the inhabitants of a city, who come out to greet and welcome their honored guest with fanfare and celebration, then accompany him into the city (cf. Matt. 25:6; Acts 28:15; a related term hypantēsis is used in Matt. 25:1; John 12:13). It may
+<!-- 1 Thess. 4:16–17 cry of command … voice of an archangel … trumpet of God. The three noises summon the dead to wake from their slumber. The only “archangel” identified in the Bible is Michael (Jude 9). Trumpets in the OT proclaimed the Lord’s presence (Ex. 19:16; 1 Chron. 16:6; Ps. 47:5; Joel 2:1; Zech. 9:14); in Jewish tradition, the “trumpet” was associated with battle, the day of the Lord, and the resurrection (cf. 1 Cor. 15:52). first … Then. Dead Christians rise from their graves to the realm of the living, and then the living and the dead together are caught up from the earth into the air to meet Christ. The Greek for “caught up” (harpazō, “to grab or seize suddenly, to snatch, take away”) gives a sense of being forcibly and suddenly lifted upward (see John 6:15; Acts 8:39). together with. The dead Christians would suffer no disadvantage (cf. “we who are alive … will not precede,” 1 Thess. 4:15). clouds.  -->
 
-indicate that the subsequent movement of the saints after meeting Christ “in the air” conforms to Christ’s direction, thus in a downward motion toward the earth. However, some interpreters caution that the vivid symbolism of apocalyptic language must be kept in mind to avoid over-interpretation of the apocalyptic details. in the air. The sky. -->
+Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). <sup>[ESVSB]</sup>
 
-<!-- <div class="mt" style="font-size:19px;">∴ Ophthalmos ∴</div> -->
+<!-- to meet. The Greek term apantēsis is often used of an important dignitary’s reception by the inhabitants of a city, who come out to greet and welcome their honored guest with fanfare and celebration, then accompany him into the city (cf. Matt. 25:6; Acts 28:15; a related term hypantēsis is used in Matt. 25:1; John 12:13).  -->
+
+<!-- It may indicate that the subsequent movement of the saints after meeting Christ “in the air” conforms to Christ’s direction, thus in a downward motion toward the earth. However, some interpreters caution that the vivid symbolism of apocalyptic language must be kept in mind to avoid over-interpretation of the apocalyptic details. in the air. The sky. -->
 
 <span style="font-size:19px;">Every Eye Will See Him</span>
 
-<!-- 1. Jehovah’s Witnesses falsely teach that Jesus’ Second Coming occurred spiritually and invisibly in 1914.
+Notice that every eye sees Him. That is why this great event is described as the "revealing" or "revelation" of Christ and occurs when He comes as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:11-16). This serves as a preview of what will happen when He returns with His saints in Revelation Chapter 19.<sup>[JVI]</sup>
 
-- `Yet, the Bible preaches that the entire world will see this event`
-    - Revelation 1:7
-    > "Behold, He is coming with clouds, **and every eye will see Him**, even they who pierced Him. And all the tribes of the earth will mourn because of Him. Even so, Amen."
+Isn't it thrilling to know that when *"the lightning comes from the east and appears even to the west"* (Mt 24:27 NET), that every eye will witness the spectacle of the ages?<sup>[JVI]</sup>
 
-    - Matthew 24:27
-    > "**For as the lightning** comes from the east and flashes to the west, so also will the coming of the Son of Man be.”
-
-- `Jesus warned us about the Jehovah's Witnesses directly`
-    - Matthew 24:23-27
-    > 23 “Then if anyone says to you, ‘Look, here is the Christ!’ [pointing to some person] or ‘There!’ do not believe it. 24 For false christs and false prophets will rise and show great signs and wonders to deceive, if possible, even the elect. 25 See, I have told you beforehand. 26 “Therefore if they say to you, ‘Look, He is in the desert!’ do not go out; or **‘Look, He is in the inner rooms!’ [i.e., somewhere you can’t see Him visibly] do not believe it.** 27 For as the lightning comes from the east and flashes to the west, so also will the coming of the Son of Man be.”
-
-- `John warned us about the Jehovah's Witnesses directly`
-    - 2 John 1:7
-    >  **"For many deceivers have gone out into the world who do not confess Jesus Christ as coming in the flesh. This is a deceiver and an antichrist."**
-
-- Interesting to note, that most witnesses are unaware of the fact that they've been lied to. Origially this cult claimed the date to be 1897. See section *'The Witnesses Are False Prophets Since The Late 1800’s'* above.
-    > **`1897`** “Our Lord, the appointed King, is now present, since October 1874,” (Studies in the Scriptures, vol. 4, p. 621).
-
-    **Q:** Did every eye see Jesus come back in 1914? No. Did any eye see Jesus come back in 1914? No. The Watchtower tries to get out of the clear implications of this verse (Rev. 1:7) by saying: ‘The eyes spoken of here speak of eyes of understanding….Those who had spiritual eyes to understand this is what took place in 1914, realize that Jesus did came back.’ (see You Can Live Forever in Paradise on Earth, p. 146)
-
-    **A:** That is an incorrect interpretation of Revelation 1:7. The word “eye” (Rev. 1:7) is the Greek word [“ophthalmos](https://www.blueletterbible.org/lexicon/g3788/lsb/mgnt/0-1/).” That is the same Greek word used for the literal physical eyes of the blind people Jesus healed (e.g., Matthew 20:34). The word “every” (Rev. 1:7) is the Greek word “pas” and it means just what it says: “every” or “all.” 
-
-❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> Jesus' return is described in Zechariah 14:4. If Jesus has no body and if his return was invisible, how do you explain this verse?
-- Zechariah 14:4
-> And in that day **His feet will stand on the Mount of Olives**, which is in front of Jerusalem on the east; and the Mount of Olives will be split in its middle from east to west by a very large valley so that half of the mountain will move toward the north and the other half toward the south.
-
-❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> In Acts 17:31 Paul says, "Because he has set a day in which he purposes to judge the inhabited earth in righteousness by a MAN whom he has appointed, and he has furnished a guarantee to all men in that he has resurrected him from the dead". Did Paul believe that the future judge of the world, Jesus Christ, would be an immortal MAN or an invisible spirit creature?
-
-- Acts 17:31 LSB
-> because He has fixed a day in which He will judge the world in righteousness through **a Man** whom He determined, having furnished proof to all by **raising Him from the dead**.” 
-
-***Conclusion: Jesus will return physically. The Second Coming is not going to be some mysterious, secret coming. The whole world will witness it.*** -->
-
-<!-- <div class="mt" style="font-size:19px;">∴ Commentary Continued ∴</div> -->
 
 <span style="font-size:19px;">Those Who Pierced Him</span>
 
-<!-- though his subjects pierced him (Zech. 12:10).<sup>[ESVSB]</sup>
+*"EVERY EYE WILL SEE HIM, EVEN THOSE WHO PIERCED HIM"* is a reference to a prophecy made in the Old Testament (Zechariah 12:10).
 
-[They Pierced Yahweh On The Cross!](https://sevenshepherd.github.io/deity-16/)
-
-Zechariah 12:10
 > “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of supplication, so that **they will look on <span style="font-size:23px;">Me</span> whom they have pierced;** and **they will mourn for Him, as one mourns for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.**
 
-The very first verse in Zec 12:1 reveals that Yahweh is the one who is talking. Verses 2 through 12 are a single discourse tied to the “Thus declares the LORD [Yahweh]” in verse 1.
+The very first verse in Zec 12:1 reveals that Yahweh is the one who is talking. Verses 2 through 12 are a single discourse tied to the “Thus declares the LORD [Yahweh]”.
 
 > The oracle of the word of **Yahweh** concerning Israel. **Thus declares Yahweh** who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him,
 
-The point is driven home in Revelation 1:7.
+The Hebrew term בְּכוֹר (bekhor, “firstborn”), translated usually in the LXX by πρωτότοκος (prōtotokos), has unmistakable messianic overtones as the use of the Greek term in the NT to describe Jesus makes clear (cf. Col 1:15, 18). Thus, the idea of God being pierced sets the stage for the fatal wounding of Jesus, the Messiah and the Son of God (cf. John 19:37; Rev 1:7). Note that some English translations supply “son” from the context (e.g., NIV, TEV, NLT).<sup>[[NET]](https://www.biblegateway.com/passage/?search=Zechariah+12%3A10&version=NET;NLT)</sup>
 
-> BEHOLD, HE IS COMING WITH THE CLOUDS, AND **EVERY EYE WILL SEE HIM, EVEN THOSE WHO PIERCED HIM;** and **all the tribes of the earth will mourn over Him.** Yes, amen. &mdash; Revelation 1:7 LSB (NASB '95 61.65% / 67.99%)
+We can conclude that Jesus is Yahweh God and that [they pierced Yahweh on the cross!](https://sevenshepherd.github.io/deity-16/) since Jesus is Yahweh God made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
 
-Jesus is Yahweh God!-->
 
 <span style="font-size:19px;">Mourn Over Him</span>
 
 Most scholars think the wailing is a reaction to judgment instead of the kind of grief that leads to salvation.<sup>[ESVSB]</sup> 
+
+When He comes in power and great glory to smite the nations *"and all the tribes of the earth will MOURN OVER HIM."* This is because He comes for judgement and none will escape. As John envisions the hour when *"Behold, the Lord came with *many thousands of His holy ones,"* (Jude 1:14-15), he victoriously cries, *"Amen! Amen!"* (Re 1:7 KJV) The Greek for *"even so"* is *"Amen,"* and *"Amen"* is the Hebrew for *"even so"*. John is literally shouting the praise or praises of God in two languages.<sup>[JVI]</sup> 
+
+<!-- as he says, *"Amen and Amen, He is coming!"* -->
+
+<div class="mt" style="font-size:19px;">∴ Ophthalmos ∴</div>
+
+<span style="font-size:19px;">Beware The Cults "EYE"</span>
+
+Some cults falsely teach that Jesus’ Second Coming occurred spiritually and invisibly. Yet, the Bible preaches that the entire world will see this event, *“EVERY EYE WILL SEE HIM”*. That the return of Christ will be *"as the lightning flashes in the east and shines to the west"* (Mt 24:27 NLT).
+
+Jesus warned about future cults that might try to teach that he was hiding or invisible when he said *“So if someone tells you, ‘Look, the Messiah is out in the desert,’ don’t bother to go and look. Or, **‘Look, he is hiding here,’** don’t believe it!"* (Mt 24:23-27 NLT).
+
+The Apostle John warned us as well when he said *"For many deceivers have gone out into the world, **those who do not confess the coming of Jesus Christ in the flesh.** Such a one is the **deceiver and the antichrist.**"* (2Jn 1:7)
+
+These same cultists will try to tell you falsely that the *“EYE”* in *“EVERY EYE WILL SEE HIM”* means 'eyes of understanding' or that these are 'spiritual eyes'... This is inccorect. The word *“EYE”* (Rev. 1:7) in Greek is <span style="font-weight:Bold;color:#00802b;">ὀφθαλμός</span> ([ophthalmós](https://www.blueletterbible.org/lexicon/g3788/lsb/mgnt/0-1/)), and pronounced [🔊 of-thal-mos'](https://youtu.be/I296_lIXf3Y). 
+
+This is the same Greek word used for the literal physical eyes of the blind people Jesus healed (Mt 20:34). The word *“EVERY”* is the Greek word “pas” and it means just what it says: “every” or “all.” 
+
+Jesus' return is also described *“His feet will stand on the Mount of Olives”* (Zec 14:4). So not only will every physical eye see His return, but Christ's literal physical feet will stand on the Mount of Olives.
+
+<!-- ❔ <span style="font-weight:bold;color:#3f33e8;">Questions For The Cults:</span> In Acts 17:31 Paul says, "Because he has set a day in which he purposes to judge the inhabited earth in righteousness by a MAN whom he has appointed, and he has furnished a guarantee to all men in that he has resurrected him from the dead". Did Paul believe that the future judge of the world, Jesus Christ, would be an immortal MAN or an invisible spirit creature?
+
+- Acts 17:31 LSB
+> because He has fixed a day in which He will judge the world in righteousness through **a Man** whom He determined, having furnished proof to all by **raising Him from the dead**.”  -->
 
 <hr /><br>
 
@@ -481,7 +474,33 @@ Most scholars think the wailing is a reaction to judgment instead of the kind of
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
+It's important to note the alternative reading of this verse, so as to be thorough, and that this alternative reading is likely a later additon. As the WEB Bible notes, both the Majority Text & Critical text disagree with the Textus Receptus. TR adds “the Beginning and the End” and omits “God”.
+
+> I am Alpha and Omega, **the beginning and the ending**, saith the Lord, which is, and which was, and which is to come, the Almighty. &mdash; King James Version
+
+The shorter reading “Omega” (ὦ, ō) has superior ms evidence (א1 A C 1611) to the longer reading which includes “the beginning and the end” (ἀρχὴ καὶ τέλος or ἡ ἀρχὴ καὶ τὸ τέλος, archē kai telos or hē archē kai to telos), found in א*,2 1854 2050 2329 2351 MA lat bo. There is little reason why a scribe would have deleted the words, but their clarifying value and the fact that they harmonize with Re 21:6 indicate that they are a secondary addition to the text.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Re+1%3A8&version=NET)</sup>
+
+<span style="font-size:19px;">Jesus Is The Alpha And The Omega</span>
+
 The coming one is the Lord God, Alpha and Omega (first and last letters of the Gk. alphabet) (see Rev. 1:17; 22:13). Jesus is the beginning of all history (the Creator) and also the goal for whom all things are made (all history is moving toward glorifying him).<sup>[ESVSB]</sup>
+
+There is no doubt that the title of *"Alpha and Omega"* belongs to Almighty God. There is also no doubt that the title of *"the first and the last"* is Jesus (Re 1:17-18).
+
+> And when I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, “Do not fear; **I am the first and the last**, 18 **and the living One; and I was dead, and behold, I am alive** forever and ever, and I have the keys of death and of Hades.
+
+The Father never died, the Holy Spirit never died, *"the first and the last"* is Jesus. This can also be found in other key verses (Re 2:8).
+
+> “And to the angel of the church in Smyrna write: This is what **THE FIRST AND THE LAST, who was dead, and has come to life**, says:
+
+Now here's the profound part, the *"Alpha and the Omega"* is *"THE FIRST AND THE LAST"* (Re 22:12-16).
+
+> 12 “Behold, I am coming quickly, and My reward is with Me, to render to every man according to his work. 13 **I am the Alpha and the Omega, THE FIRST AND THE LAST**, the beginning and the end.” 14 Blessed are those who wash their robes, so that they may have the authority to the tree of life and may enter by the gates into the city. 15 Outside are the dogs and the sorcerers and the sexually immoral persons and the murderers and the idolaters, and everyone who loves and practices lying. 16 “**I, Jesus**, sent My angel to bear witness to you of these things for the churches. I am the root and the descendant of David, the bright morning star.”
+
+🤯 **Jesus is Almighty God** who is speaking in Revelation 1:8. Yahweh is also identified as the first and the last (Isaiah 41:4; 44:6; 48:12; Jn 1:49+Is 44:6). Jesus is Yahweh, Lord God, The Almighty Alpha and the Omega made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
+
+
+
+
 
 <!-- <hr /><br>
 
