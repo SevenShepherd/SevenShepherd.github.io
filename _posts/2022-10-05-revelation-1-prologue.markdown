@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 03:37:33 -0500
+date: 2022-10-05 03:47:33 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -495,7 +495,7 @@ Now here's the profound part, the *"Alpha and the Omega"* is *"THE FIRST AND THE
 
 > 12 “Behold, I am coming quickly, and My reward is with Me, to render to every man according to his work. 13 **I am the Alpha and the Omega, THE FIRST AND THE LAST**, the beginning and the end.” 14 Blessed are those who wash their robes, so that they may have the authority to the tree of life and may enter by the gates into the city. 15 Outside are the dogs and the sorcerers and the sexually immoral persons and the murderers and the idolaters, and everyone who loves and practices lying. 16 “**I, Jesus**, sent My angel to bear witness to you of these things for the churches. I am the root and the descendant of David, the bright morning star.”
 
-🤯 **Jesus is Almighty God** who is speaking in Revelation 1:8. Yahweh is also identified as the first and the last (Isaiah 41:4; 44:6; 48:12; Jn 1:49+Is 44:6). Jesus is Yahweh, Lord God, The Almighty, Alpha and the Omega, made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
+🤯 **Jesus is Almighty God** who is speaking in Revelation 1:8. The covenant name Yahweh (Ex 3:14-16; John 8:56-59) is also identified as the first and the last (Isaiah 41:4; 44:6; 48:12; Jn 1:49+Is 44:6). Jesus is Yahweh, Lord God, The Almighty, Alpha and the Omega, made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
 
 
 
