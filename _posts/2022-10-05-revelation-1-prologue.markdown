@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Book of Revelation, Ch. 1 Prologue 📜"
-date: 2022-10-05 03:33:33 -0500
+date: 2022-10-05 03:37:33 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -364,7 +364,6 @@ God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 
 
 <hr /><br>
 
-<div class="mt" style="color:Gold;">⚠️ Under Construction</div>
 
 <div class="mt" style="font-size:21px;">꧁ 𝕍𝕖𝕣𝕤𝕖 𝟞 ꧂</div>
 
