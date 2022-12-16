@@ -104,12 +104,15 @@ The NLT is by far the easiest to read Bible version on Earth, without compromisi
 
 This section details more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
-- [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
+- Books
+    - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
+    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+- Courses
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-- [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
-    - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online.
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
     - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+
+<!-- - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online. -->
 
 
 <!-- <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
