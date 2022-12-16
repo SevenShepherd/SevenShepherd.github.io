@@ -14,7 +14,19 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
-> Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB
+<!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+
+<span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
+
+- [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
+- [A Through Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)
+- [A Detailed Look At The Three Heavens](https://sevenshepherd.github.io/heaven/)
+- [An In-Depth Study On Revelation's Prologue](https://sevenshepherd.github.io/revelation-1-prologue/)
+- [What Science Really Thinks About God](https://sevenshepherd.github.io/science/)
+- [Avoiding The Traps of The Cults](https://sevenshepherd.github.io/cults/)
+- [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/)
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
@@ -80,8 +92,9 @@ This section is dedicated to those who might have a hard time understanding the 
 
 <!-- - Readability 70.08%, Literalness 39.90% -->
 
-- [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+- [New Living Translation (NLT)](https://www.tyndale.com/nlt/)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 
 The NLT is by far the easiest to read Bible version on Earth, without compromising on any of the litmus tests I have put forth in my previous articles. It truly is a joy to read in parallel.
 
