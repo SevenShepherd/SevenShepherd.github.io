@@ -21,7 +21,7 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
-- [A Through Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)
+- [A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)
 - [A Detailed Look At The Three Heavens](https://sevenshepherd.github.io/heaven/)
 - [An In-Depth Study On Revelation's Prologue](https://sevenshepherd.github.io/revelation-1-prologue/)
 - [What Science Really Thinks About God](https://sevenshepherd.github.io/science/)
