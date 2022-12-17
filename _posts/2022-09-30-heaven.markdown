@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Heavens: First, Second, and Third 🌌"
-date: 2022-10-02 04:32:00 -0500
+title: "🌌 A Detailed Look At The Three Heavens"
+date: 2022-10-02 04:37:00 -0500
 categories: heaven bible
 published: true
 ---
