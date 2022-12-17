@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📖 A Thorough Examination On Bible Versions"
-date: 2022-09-10 20:27:00 -0500
+title: "📚 A Thorough Examination On Bible Versions"
+date: 2022-09-10 20:28:00 -0500
 categories: god jesus bible
 published: true
 ---
