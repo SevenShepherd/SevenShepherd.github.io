@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:44:44 -0500
+date: 2022-10-05 04:45:44 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -185,9 +185,9 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *Whoremongers*&mdash;those who engage in fornication or consort with prostitutes (Eph 5:5-8).
 - *Sorcerers*&mdash;those who practice witchcraft, demonism, and follow after the occult. Sorcery comes from the Greek word [pharmakeía](https://www.gotquestions.org/pharmakeia-in-the-Bible.html), meaning *"enchantment with drugs."* Thus, drug users as well as pushers are included in the guilty verdict for judgement (Re 21:8; 22:15; Gal 5:19-21).
 - *Idolaters*&mdash;those who worship or reverence anything other than the living and true God.
-- *Liars*&mdash; also bearing false witness (John 8:44; Proverbs 6:16-19)
+- *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
 - *Dogs*&mdash;false professors (2Pe 2:21-22)
-- *Homosexuals*&mdash;(Romans 1:18-32)
+- *Homosexuals*&mdash;[same sex relations](https://www.gotquestions.org/homosexuality-Bible.html) (1Co 6:9; 1Ti 1:10; Gen. 19:1–13; Lev. 18:22; 20:13; Ro 1:26–27) also *Abusers of themselves with mankind*&mdash;hardened homosexuals (Gen. 19:5).
 - *The unrighteous*&mdash;those who trust in self, works, a false religious system, or mere *"religion"* for salvation (Titus 3:5).
 - *Fornicators*&mdash;those who engage in premarital and extramarital sex (1Co 6:9,14-18).
 - *The wicked*&mdash;those who disregard all morality and moral standards.
@@ -197,14 +197,14 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *Debaters*&mdash;those who would rather argue with God than accept His truth.
 - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
 - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (James 3:2-3; Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
-- *Whisperers*&mdash;those who gossip (Pr 16:28 NLT).
+- *Whisperers*&mdash;those who gossip (Proverbs 16:28 NLT).
 - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them.
 - *Haters of God*&mdash;
 - *Despisers*&mdash;those filled with contempt toward God and man.
 - *The Proud*&mdash;those possessing an excessively high opinion of themselves.
 - *Boasters*&mdash;those who exalt self.
 - *Inventors of evil things*&mdash;
-- *The disobedient to parents*&mdash;
+- *The disobedient to parents*&mdash;(Eph 6:1–2)
 - *Those without understanding*&mdash;resulting from unconcern or rejection of truth.
 - *Covenant breakers*&mdash;those who do not keep their word.
 - *Those whose affections are contrary to the laws of God and nature*&mdash;
@@ -212,7 +212,6 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
 - *Adulterers*&mdash;those who practice extramarital sex (1Co 6:9-10)
 - *The effeminate*&mdash;generally younger persons in the process of becoming homosexuals or sodomites.
-- *Abusers of themselves with mankind*&mdash;hardened homosexuals (Gen. 19:5)
 - *Thieves*&mdash;(1Co 6:10)
 - *Drunkards*&mdash;those given to and overcome by alcohol (Pr 20:1; 23:20-21; Lk 21:34; Ro 13:13; 1Co 6:10; Gal 5:19-21; Eph 5:18).
 - *Revilers*&mdash;those who use abusive or contemptuous language (James 1:26).
@@ -232,7 +231,7 @@ A true believer is someone who has truly repented of their sins and turned to Go
 
 > **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and **he cannot keep on sinning**, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
 
-True believers are saved by grace (Eph 2:8-9). A true believer may sin during his life, but he never makes a practice of sin.
+True believers are saved by grace (Eph 2:8-9). A true believer may mistakenly sin during his life, but he never makes a practice of sin.
 
 <!-- ; James 2:23-25). -->
 
