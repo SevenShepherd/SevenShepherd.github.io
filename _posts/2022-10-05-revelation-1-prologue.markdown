@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 03:57:55 -0500
+date: 2022-10-05 04:04:04 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -63,11 +63,12 @@ published: true
 
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY). In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup>[BLB](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
 
-The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1). 
 
-The word does not bear the connotation of a free individual serving another. This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).
+The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1).<sup>[[Site]](https://lsbible.org/faqs/)</sup>
+
+The word does not bear the connotation of a free individual serving another.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup> This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).<sup>[[Site]](https://lsbible.org/faqs/)</sup>
 
 <!-- The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19).
 
@@ -170,7 +171,7 @@ Verse three demonstrates that the apocalypse is not some impossible to understan
 
 <!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
 
-<span style="font-size:19px;">Jesus Imminent Return</span>
+<span style="font-size:19px;">For The Time Is Near</span>
 
 When the bible says that **the time is *near***, or that it is ***at hand***, this is telling us that the Return of Christ is imminent. Christ's return is the next event on Father God's calender and could happen at anytime. It could happen right now while I type this commentary, or in a few days from now when you're reading it, or decades from now, etc. 
 
@@ -178,28 +179,84 @@ The Bible teaches us that only the Father in heaven knows the day and hour, not 
 
 This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
 
-<span style="font-size:19px;">Conduct of a True Christian</span>
+<span style="font-size:19px;">What Is Sin?</span>
 
-Because the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient (Ph 4:5). This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (James 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
+Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; Gal 5:19-21).<sup>[JVI]</sup>
+
+Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.
+
+- *The fearful*&mdash;those who do not accept Christ to escape being ridiculed (Matthew 10:32).
+- *Unbelievers*&mdash;those who do not believe in and recieve the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT).
+- *The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
+- *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
+- *Whoremongers*&mdash;those who engage in fornication or consort with prostitutes (Eph 5:5-8).
+- *Sorcerers*&mdash;those who practice witchcraft, demonism, and follow after the occult. Sorcery comes from the Greek word [pharmakeía](https://www.gotquestions.org/pharmakeia-in-the-Bible.html), meaning *"enchantment with drugs."* Thus, drug users as well as pushers are included in the guilty verdict for judgement (Re 21:8; 22:15; Gal 5:19-21).
+- *Idolaters*&mdash;those who worship or reverence anything other than the living and true God.
+- *Liars*&mdash; also bearing false witness (John 8:44; Proverbs 6:16-19)
+- *Dogs*&mdash;false professors (2Pe 2:21-22)
+- *Homosexuals*&mdash;(Romans 1:18-32)
+- *The unrighteous*&mdash;those who trust in self, works, a false religious system, or mere *"religion"* for salvation (Titus 3:5).
+- *Fornicators*&mdash;those who engage in premarital and extramarital sex (1Co 6:9,14-18).
+- *The wicked*&mdash;those who disregard all morality and moral standards.
+- *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
+- *The malicious*&mdash;those who willfully seek to destroy the person and property of others (James 1:26)
+- *The envious*&mdash;those resentful of others.
+- *Debaters*&mdash;those who would rather argue with God than accept His truth.
+- *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
+- *Maligners*&mdash;those who speak evil of, defame, or **slander** others (James 3:2-3; Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
+- *Whisperers*&mdash;those who gossip (Pr 16:28 NLT).
+- *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them.
+- *Haters of God*&mdash;
+- *Despisers*&mdash;those filled with contempt toward God and man.
+- *The Proud*&mdash;those possessing an excessively high opinion of themselves.
+- *Boasters*&mdash;those who exalt self.
+- *Inventors of evil things*&mdash;
+- *The disobedient to parents*&mdash;
+- *Those without understanding*&mdash;resulting from unconcern or rejection of truth.
+- *Covenant breakers*&mdash;those who do not keep their word.
+- *Those whose affections are contrary to the laws of God and nature*&mdash;
+- *The implacable*&mdash;those exhibiting extreme stubbornness to the point of refusing to yield to the convicting power of the Holy Spirit (Pr 1:24-28; Ac 7:51-52)
+- *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
+- *Adulterers*&mdash;those who practice extramarital sex (1Co 6:9-10)
+- *The effeminate*&mdash;generally younger persons in the process of becoming homosexuals or sodomites.
+- *Abusers of themselves with mankind*&mdash;hardened homosexuals (Gen. 19:5)
+- *Thieves*&mdash;(1Co 6:10)
+- *Drunkards*&mdash;those given to and overcome by alcohol (Pr 20:1; 23:20-21; Lk 21:34; Ro 13:13; 1Co 6:10; Gal 5:19-21; Eph 5:18).
+- *Revilers*&mdash;those who use abusive or contemptuous language (James 1:26).
+- *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
+
+People who **practice** these sins will be Judged before the Great White Throne. *"Is there any hope?"* you might be thinking to yourself. *"And such were some of you; ...but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."* (1Co 6:11; 1Jn 1:7; Jn 3:17).
+
+There is not a sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV). 
+
+<!-- If believers were left behind at the Rapture because of some sin in their lives, who would the *"ashamed"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17). -->
+
+<span style="font-size:19px;">What Is A True Believer?</span>
+
+A true believer is someone who does not make a **practice** of sin.
+
+> Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
+
+Because the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
+
+> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
+
+This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (James 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
 
 If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (James 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
 
 No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
 
-<span style="font-size:19px;">Teach with Kindness & Patience</span>
+If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
 
-Make sure you're ready for the rapture & revelation. This includes being able to teach with patience and kindness. Remember that when we see people setting dates for Christ's Return, or find someone who is Christian in name only:
-
-- Speaking negatively about others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
-- Gossiping about others (Pr 16:28 NLT).
-- Slandering other people in the congregation (James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV).
-- Bringing false witness (Pr 6:16-19).
-- Hating, hatred is equivalent to murder (1Jn 3:15; Pr 11:9 NLT; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
-- Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; Gal 5:19-21)
-- Speaking profanities (James 1:26)
-- Demonstrating other works of the flesh. 
-
-Teach them lovingly with kindness, and patience (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). If you find that they are inconsolable, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3)
+<!-- - Speaking negatively about or belittling others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT). -->
+<!-- - Gossiping about others (Pr 16:28 NLT). -->
+<!-- - Slandering other people in the congregation (Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV). -->
+<!-- - Bearing false witness & lying (Pr 6:16-19). -->
+<!-- - Hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT). -->
+<!-- - Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; 22:15; Gal 5:19-21) -->
+<!-- - Speaking profanities and reviling (James 1:26) -->
+<!-- - Demonstrating other works of the flesh.  -->
 
 <hr /><br>
 
@@ -450,7 +507,7 @@ Jesus warned about future cults that might try to teach that he was hiding or in
 
 The Apostle John warned us as well when he said *"For many deceivers have gone out into the world, **those who do not confess the coming of Jesus Christ in the flesh.** Such a one is the **deceiver and the antichrist.**"* (2Jn 1:7)
 
-These same cultists will try to tell you falsely that the *“EYE”* in *“EVERY EYE WILL SEE HIM”* means 'eyes of understanding' or that these are 'spiritual eyes'... This is inccorect. The word *“EYE”* (Rev. 1:7) in Greek is <span style="font-weight:Bold;color:#00802b;">ὀφθαλμός</span> ([ophthalmós](https://www.blueletterbible.org/lexicon/g3788/lsb/mgnt/0-1/)), and pronounced [🔊 of-thal-mos'](https://youtu.be/I296_lIXf3Y). 
+These same cultists will try to tell you falsely that the *“EYE”* in *“EVERY EYE WILL SEE HIM”* means 'eyes of understanding' or that these are 'spiritual eyes'... This is incorrect. The word *“EYE”* (Rev. 1:7) in Greek is <span style="font-weight:Bold;color:#00802b;">ὀφθαλμός</span> ([ophthalmós](https://www.blueletterbible.org/lexicon/g3788/lsb/mgnt/0-1/)), and pronounced [🔊 of-thal-mos'](https://youtu.be/I296_lIXf3Y). 
 
 This is the same Greek word used for the literal physical eyes of the blind people Jesus healed (Mt 20:34). The word *“EVERY”* is the Greek word “pas” and it means just what it says: “every” or “all.” 
 
