@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:04:04 -0500
+date: 2022-10-05 04:14:04 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -183,7 +183,7 @@ This fast approaching time is compared to the dawn of a new day, from a night th
 
 Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; Gal 5:19-21).<sup>[JVI]</sup>
 
-Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.
+**Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.**
 
 - *The fearful*&mdash;those who do not accept Christ to escape being ridiculed (Matthew 10:32).
 - *Unbelievers*&mdash;those who do not believe in and recieve the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT).
@@ -233,11 +233,13 @@ There is not a sin that can keep a **true believer** out of [Heaven](https://sev
 
 <span style="font-size:19px;">What Is A True Believer?</span>
 
-A true believer is someone who does not make a **practice** of sin.
+A true believer is someone who does not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and whose life is filled with the fruit of the spirit (Gal 5:22-23). True believers are saved by grace (Eph 2:8-9).
+
+<!-- ; James 2:23-25). -->
 
 > Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
 
-Because the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
+Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
 
 > A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
 
