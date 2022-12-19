@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:45:44 -0500
+date: 2022-10-05 04:55:55 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -63,12 +63,12 @@ published: true
 
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup>[BLB](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[BLB](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
 
 
-The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1).<sup>[[Site]](https://lsbible.org/faqs/)</sup>
+The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1).<sup style="font-size:10px;">[[Site]](https://lsbible.org/faqs/)</sup>
 
-The word does not bear the connotation of a free individual serving another.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup> This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).<sup>[[Site]](https://lsbible.org/faqs/)</sup>
+The word does not bear the connotation of a free individual serving another.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup> This underscores His great redemption in buying believers from slavery to sin (Ro 6:16, 1 Co 6:20; 7:23). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Ro 6:16-17).<sup style="font-size:10px;">[[Site]](https://lsbible.org/faqs/)</sup>
 
 <!-- The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY), which refers to the individuals who serve under the authority of another. The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19).
 
@@ -161,20 +161,20 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 <div class="mt" style="font-size:19px;">∴ Makarios ∴</div>
 
-The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as [happy](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=EXB;MOUNCE). 
+The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as happy.<sup style="font-size:10px;">[[NET/EXB/MOUNCE]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET;EXB;MOUNCE)</sup>
 
-This is the first of seven blessings which are given to those who read or hear, as well as obey God’s Word. The remaining six blessings can be found in Rev. 14:13; 16:15; 19:9; 20:6; 22:7, 14.
+This is the first of seven blessings which are given to those who read or hear (as well as obey<sup style="font-size:10px;">[[NET/EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET;EXB;NLT)</sup>) God’s Word. The remaining six blessings (Rev. 14:13; 16:15; 19:9; 20:6; 22:7, 14) commend purity and perseverance, even to the death.<sup style="font-size:10px;">[ESVSB]</sup>
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book.<sup>[JVI]</sup>
+Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book.<sup style="font-size:10px;">[JVI]</sup>
 
 <!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
 
 <!-- <span style="font-size:19px;">What Is Sin?</span> -->
-<span style="font-size:19px;">Blessed Are Those Who Hear And Obey</span><sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET)</sup>
+<span style="font-size:19px;">Blessed Are Those Who Hear And Obey</span><sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET)</sup>
 
-Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; **Gal 5:19-21**).<sup>[JVI]</sup>
+Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; **Gal 5:19-21**).<sup style="font-size:10px;">[JVI]</sup>
 
 **Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.**
 
@@ -292,39 +292,39 @@ If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 
 
 <span style="font-size:19px;">The Seven Churches</span>
 
-John now focuses his attention on seven local churches.<sup>[JVI]</sup> Seven symbolizes completeness (God's number of perfection) and implies that Christ addresses the whole church through these seven churches.<sup>[ESVSB]</sup> The number also pictures seven different sets of conditions reflecting the history of God's people through the church age.<sup>[JVI]</sup> Asia was a Roman province in what is now part of western Turkey,<sup>[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup> and is not referring to the continent of Asia.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+John now focuses his attention on seven local churches.<sup style="font-size:10px;">[JVI]</sup> Seven symbolizes completeness (God's number of perfection) and implies that Christ addresses the whole church through these seven churches.<sup style="font-size:10px;">[ESVSB]</sup> The number also pictures seven different sets of conditions reflecting the history of God's people through the church age.<sup style="font-size:10px;">[JVI]</sup> Asia was a Roman province in what is now part of western Turkey,<sup style="font-size:10px;">[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup> and is not referring to the continent of Asia.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
-The Roman province of Asia made up about one-third of modern Asia Minor and was on the western side. Asia is situated to the west of the region of Phrygia and Galatia.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+The Roman province of Asia made up about one-third of modern Asia Minor and was on the western side. Asia is situated to the west of the region of Phrygia and Galatia.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
 <span style="font-size:19px;">Grace To You And Peace</span>
 
-God's salutation, found in 19/27 books in the NT is presented in this verse as well: *Grace be unto you and peace*, as the KJV puts it. Notice how *Grace* comes before *peace*, this is the order God shows his unmerited favor. Sinners cannot have peace without first receiving grace. This grace was shown at Calvary and is freely bestowed upon all who believe and receive Christ (Ep 2:8-9; Tit 2:11; Rom 5:1; Col 1:20; Rom 15:13).<sup>[JVI]</sup>
+God's salutation, found in 19/27 books in the NT is presented in this verse as well: *Grace be unto you and peace*, as the KJV puts it. Notice how *Grace* comes before *peace*, this is the order God shows his unmerited favor. Sinners cannot have peace without first receiving grace. This grace was shown at Calvary and is freely bestowed upon all who believe and receive Christ (Ep 2:8-9; Tit 2:11; Rom 5:1; Col 1:20; Rom 15:13).<sup style="font-size:10px;">[JVI]</sup>
 
 <!-- We also find that the message of grace and peace is from the entire Trinity.  -->
 
-John’s greeting (the message of grace and peace) comes “from” all three persons of the Trinity.<sup>[ESVSB]</sup> First, the Father who is, and who was, and who is to come; then from the seven Spirits which are before the throne (a designation of the blessed Holy Spirit in all of His holiness, for seven means perfection).<sup>[JVI]</sup>
+John’s greeting (the message of grace and peace) comes “from” all three persons of the Trinity.<sup style="font-size:10px;">[ESVSB]</sup> First, the Father who is, and who was, and who is to come; then from the seven Spirits which are before the throne (a designation of the blessed Holy Spirit in all of His holiness, for seven means perfection).<sup style="font-size:10px;">[JVI]</sup>
 
 <span style="font-size:19px;">The One Who Is And Who Was And Who Is To Come</span>
 
-These three descriptions function like titles for God; Ex. 3:14–15.<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
+These three descriptions function like titles for God; Ex. 3:14–15.<sup style="font-size:10px;">[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
 
-The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> 
+The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> 
 
 <!-- The translation has placed the “he who is” in quotation marks to indicate to the reader that the syntactical awkwardness is intentional. (For further comments, see ExSyn 63).  -->
 
-BDAG (A Greek-English Lexicon of the New Testament) 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+BDAG (A Greek-English Lexicon of the New Testament) 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
 <!-- The passage appears to be an allusion to Exod 3:14 (in the LXX) where God refers to himself as “he who is” (ὁ ὤν), the same wording in Greek as here in Rev 1:4. Thus, it appears that John is wanting to leave the divine name untouched (perhaps to allude to God’s immutability, or as a pointer to the Old Testament as the key to unlocking the meaning of this book), irrespective of what it “looks” like grammatically. 
 
 The translation has placed the “he who is” in quotation marks to indicate to the reader that the syntactical awkwardness is intentional. (For further comments, see ExSyn 63). 
 
-Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> -->
+Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη ἀπὸ ‘ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος’ Rv 1:4 is quite extraordinary. It may be an interpretation of the name Yahweh already current, or an attempt to show reverence for the divine name by preserving it unchanged, or simply one more of the grammatical peculiarities so frequent in Rv.”<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup> -->
 
 <span style="font-size:19px;">The Seven Spirits</span> 
 
-This is referring either to angels or to the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection (the number seven indicating completeness).<sup>[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
+This is referring either to angels or to the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection (the number seven indicating completeness).<sup style="font-size:10px;">[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
 
-The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup>[ESVSB]</sup>
+The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup style="font-size:10px;">[ESVSB]</sup>
 
 <hr /><br>
 
@@ -340,17 +340,17 @@ The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4
 
 <span style="font-size:19px;">The Faithful Witness</span> 
 
-In much the same way that Jesus was the faithful witness even unto death (1Ti 6:13), Christians are called to be faithful witnesses as well (Re 2:13; 12:11; 20:4).<sup>[ESVSB]</sup> The Greek term translated witness can mean both “witness” and “martyr.”<sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A5&version=NET)</sup> Jesus is “the” quintessential faithful witness.
+In much the same way that Jesus was the faithful witness even unto death (1Ti 6:13), Christians are called to be faithful witnesses as well (Re 2:13; 12:11; 20:4).<sup style="font-size:10px;">[ESVSB]</sup> The Greek term translated witness can mean both “witness” and “martyr.”<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A5&version=NET)</sup> Jesus is “the” quintessential faithful witness.
 
 <span style="font-size:19px;">The Firstborn Of The Dead, And The Ruler Of The Kings Of The Earth.</span> 
 
-The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup>[ESVSB]</sup>
+The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup style="font-size:10px;">[ESVSB]</sup>
 
-The Lord Jesus Christ is also called the *"ruler of the kings of the earth"*. This is referring to the future when the *"Prince of Peace"* of Is 9:6 returns to earth as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:16). This glorious event will be the fulfillment of Psalm 2:6 ESV which states *"... I have set my King on Zion, my holy hill."* At that time the Lord Jesus shall *"have dominion from sea to sea And from the River to the ends of the earth."* (Ps 72:8)<sup>[JVI]</sup>
+The Lord Jesus Christ is also called the *"ruler of the kings of the earth"*. This is referring to the future when the *"Prince of Peace"* of Is 9:6 returns to earth as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:16). This glorious event will be the fulfillment of Psalm 2:6 ESV which states *"... I have set my King on Zion, my holy hill."* At that time the Lord Jesus shall *"have dominion from sea to sea And from the River to the ends of the earth."* (Ps 72:8)<sup style="font-size:10px;">[JVI]</sup>
 
 <span style="font-size:19px;">What about Lazarus?</span>
 
-So the next question you might ask is, *"Why is Christ the first begotten of the dead, when Lazarus and others were raised first?"* The answer is that others were raised from physical death to physical life only to eventually die again. Christ Jesus is the first to have been resurrected with a new immortal glorified body &mdash; never to die again! This is why Christ is the *"first of the resurrection from the dead"* (Ac 26:23).<sup>[JVI]</sup>
+So the next question you might ask is, *"Why is Christ the first begotten of the dead, when Lazarus and others were raised first?"* The answer is that others were raised from physical death to physical life only to eventually die again. Christ Jesus is the first to have been resurrected with a new immortal glorified body &mdash; never to die again! This is why Christ is the *"first of the resurrection from the dead"* (Ac 26:23).<sup style="font-size:10px;">[JVI]</sup>
 
 <!-- This is why Christ *"should be the first that should rise from the dead"* (Ac 26:23 KJV) -->
 
@@ -421,7 +421,7 @@ In an act of unparalleled bias, the cults have deliberately changed the underlyi
 
 Educated scholars and professors in ancient Koine Greek reveal the word for ***only begotten*** to be <span style="font-weight:Bold;color:#00802b;">μονογενής</span>, transliterated as [monogenés](https://biblehub.com/greek/3439.htm), and pronounced [🔊 mon-og-en-ace'](https://youtu.be/DOnvb7dV-z0). It means <span style="font-style:italic;color:Green;">“unique,” “only,” or “one of its kind.”</span> and it comes from two Greek terms: <span style="font-style:italic;color:Green;">monos</span> meaning <span style="font-style:italic;color:Green;">“one”</span> and the noun <span style="font-style:italic;color:Green;">genes</span> which means <span style="font-style:italic;color:Green;">“kind” or “type.”</span>
 
-This is why over 100 scholars who translated the English Standard Version were justified in removing the traditional label of "only begotten Son" and going with the more literal "only Son".<sup>[[ESV/EXB/NET/NLT]](https://www.biblegateway.com/passage/?search=John%203:16&version=ESV;EXB;NET;NLT)</sup>
+This is why over 100 scholars who translated the English Standard Version were justified in removing the traditional label of "only begotten Son" and going with the more literal "only Son".<sup style="font-size:10px;">[[ESV/EXB/NET/NLT]](https://www.biblegateway.com/passage/?search=John%203:16&version=ESV;EXB;NET;NLT)</sup>
 
 > “For God so loved the world, that he gave his **only** Son, that whoever believes in him should not perish but have eternal life. &mdash; English Standard Version
 
@@ -451,7 +451,7 @@ God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 
 
 <span style="font-size:19px;">He Made Us A Kingdom Of Priests</span>
 
-Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.<sup>[ESVSB]</sup>
+Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.<sup style="font-size:10px;">[ESVSB]</sup>
 
 <!-- made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation. -->
 
@@ -467,17 +467,17 @@ Israel’s roles now belong to those of all nations who are freed from sins by J
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-This verse announces the Lord's return to earth (the Coming King)<sup>[JVI/ESVSB]</sup> 
+This verse announces the Lord's return to earth (the Coming King)<sup style="font-size:10px;">[JVI/ESVSB]</sup> 
 
 <!-- Announcement of the Coming King. coming with the clouds. See note on 1 Thess. 4:16–17. Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14), though his subjects pierced him (Zech. 12:10). -->
 
 <span style="font-size:19px;">Coming With The Clouds</span>
 
-Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14).<sup>[ESVSB]</sup>
+Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14).<sup style="font-size:10px;">[ESVSB]</sup>
 
 <!-- 1 Thess. 4:16–17 cry of command … voice of an archangel … trumpet of God. The three noises summon the dead to wake from their slumber. The only “archangel” identified in the Bible is Michael (Jude 9). Trumpets in the OT proclaimed the Lord’s presence (Ex. 19:16; 1 Chron. 16:6; Ps. 47:5; Joel 2:1; Zech. 9:14); in Jewish tradition, the “trumpet” was associated with battle, the day of the Lord, and the resurrection (cf. 1 Cor. 15:52). first … Then. Dead Christians rise from their graves to the realm of the living, and then the living and the dead together are caught up from the earth into the air to meet Christ. The Greek for “caught up” (harpazō, “to grab or seize suddenly, to snatch, take away”) gives a sense of being forcibly and suddenly lifted upward (see John 6:15; Acts 8:39). together with. The dead Christians would suffer no disadvantage (cf. “we who are alive … will not precede,” 1 Thess. 4:15). clouds.  -->
 
-Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). <sup>[ESVSB]</sup>
+Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). <sup style="font-size:10px;">[ESVSB]</sup>
 
 <!-- to meet. The Greek term apantēsis is often used of an important dignitary’s reception by the inhabitants of a city, who come out to greet and welcome their honored guest with fanfare and celebration, then accompany him into the city (cf. Matt. 25:6; Acts 28:15; a related term hypantēsis is used in Matt. 25:1; John 12:13).  -->
 
@@ -485,9 +485,9 @@ Probably not earthly rain clouds but the clouds of glory that surround the prese
 
 <span style="font-size:19px;">Every Eye Will See Him</span>
 
-Notice that every eye sees Him. That is why this great event is described as the "revealing" or "revelation" of Christ and occurs when He comes as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:11-16). This serves as a preview of what will happen when He returns with His saints in Revelation Chapter 19.<sup>[JVI]</sup>
+Notice that every eye sees Him. That is why this great event is described as the "revealing" or "revelation" of Christ and occurs when He comes as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:11-16). This serves as a preview of what will happen when He returns with His saints in Revelation Chapter 19.<sup style="font-size:10px;">[JVI]</sup>
 
-Isn't it thrilling to know that when *"the lightning comes from the east and appears even to the west"* (Mt 24:27 NET), that every eye will witness the spectacle of the ages?<sup>[JVI]</sup>
+Isn't it thrilling to know that when *"the lightning comes from the east and appears even to the west"* (Mt 24:27 NET), that every eye will witness the spectacle of the ages?<sup style="font-size:10px;">[JVI]</sup>
 
 
 <span style="font-size:19px;">Those Who Pierced Him</span>
@@ -500,16 +500,16 @@ The very first verse in Zec 12:1 reveals that Yahweh is the one who is talking. 
 
 > The oracle of the word of **Yahweh** concerning Israel. **Thus declares Yahweh** who stretches out the heavens, lays the foundation of the earth, and forms the spirit of man within him,
 
-The Hebrew term בְּכוֹר (bekhor, “firstborn”), translated usually in the LXX by πρωτότοκος (prōtotokos), has unmistakable messianic overtones as the use of the Greek term in the NT to describe Jesus makes clear (cf. Col 1:15, 18). Thus, the idea of God being pierced sets the stage for the fatal wounding of Jesus, the Messiah and the Son of God (cf. John 19:37; Rev 1:7). Note that some English translations supply “son” from the context (e.g., NIV, TEV, NLT).<sup>[[NET]](https://www.biblegateway.com/passage/?search=Zechariah+12%3A10&version=NET;NLT)</sup>
+The Hebrew term בְּכוֹר (bekhor, “firstborn”), translated usually in the LXX by πρωτότοκος (prōtotokos), has unmistakable messianic overtones as the use of the Greek term in the NT to describe Jesus makes clear (cf. Col 1:15, 18). Thus, the idea of God being pierced sets the stage for the fatal wounding of Jesus, the Messiah and the Son of God (cf. John 19:37; Rev 1:7). Note that some English translations supply “son” from the context (e.g., NIV, TEV, NLT).<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Zechariah+12%3A10&version=NET;NLT)</sup>
 
 We can conclude that Jesus is Yahweh God and that [they pierced Yahweh on the cross!](https://sevenshepherd.github.io/deity-16/) since Jesus is Yahweh God made manifest in the flesh (Jn 1:1-3,14; Ph 2:5-8; Co 2:9).
 
 
 <span style="font-size:19px;">Mourn Over Him</span>
 
-Most scholars think the wailing is a reaction to judgment instead of the kind of grief that leads to salvation.<sup>[ESVSB]</sup> 
+Most scholars think the wailing is a reaction to judgment instead of the kind of grief that leads to salvation.<sup style="font-size:10px;">[ESVSB]</sup> 
 
-When He comes in power and great glory to smite the nations *"and all the tribes of the earth will MOURN OVER HIM."* This is because He comes for judgement and none will escape. As John envisions the hour when *"Behold, the Lord came with *many thousands of His holy ones,"* (Jude 1:14-15), he victoriously cries, *"Amen! Amen!"* (Re 1:7 KJV) The Greek for *"even so"* is *"Amen,"* and *"Amen"* is the Hebrew for *"even so"*. John is literally shouting the praise or praises of God in two languages.<sup>[JVI]</sup> 
+When He comes in power and great glory to smite the nations *"and all the tribes of the earth will MOURN OVER HIM."* This is because He comes for judgement and none will escape. As John envisions the hour when *"Behold, the Lord came with *many thousands of His holy ones,"* (Jude 1:14-15), he victoriously cries, *"Amen! Amen!"* (Re 1:7 KJV) The Greek for *"even so"* is *"Amen,"* and *"Amen"* is the Hebrew for *"even so"*. John is literally shouting the praise or praises of God in two languages.<sup style="font-size:10px;">[JVI]</sup> 
 
 <!-- as he says, *"Amen and Amen, He is coming!"* -->
 
@@ -550,11 +550,11 @@ It's important to note the alternate reading of this verse, so as to be thorough
 
 > I am Alpha and Omega, **the beginning and the ending**, saith the Lord, which is, and which was, and which is to come, the Almighty. &mdash; King James Version
 
-The shorter reading “Omega” (ὦ, ō) has superior ms evidence (א1 A C 1611) to the longer reading which includes “the beginning and the end” (ἀρχὴ καὶ τέλος or ἡ ἀρχὴ καὶ τὸ τέλος, archē kai telos or hē archē kai to telos), found in א*,2 1854 2050 2329 2351 MA lat bo. There is little reason why a scribe would have deleted the words, but their clarifying value and the fact that they harmonize with Re 21:6 indicate that they are a secondary addition to the text.<sup>[[NET]](https://www.biblegateway.com/passage/?search=Re+1%3A8&version=NET)</sup>
+The shorter reading “Omega” (ὦ, ō) has superior ms evidence (א1 A C 1611) to the longer reading which includes “the beginning and the end” (ἀρχὴ καὶ τέλος or ἡ ἀρχὴ καὶ τὸ τέλος, archē kai telos or hē archē kai to telos), found in א*,2 1854 2050 2329 2351 MA lat bo. There is little reason why a scribe would have deleted the words, but their clarifying value and the fact that they harmonize with Re 21:6 indicate that they are a secondary addition to the text.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Re+1%3A8&version=NET)</sup>
 
 <span style="font-size:19px;">Jesus Is The Alpha And The Omega</span>
 
-The coming one is the Lord God, Alpha and Omega (first and last letters of the Gk. alphabet) (see Rev. 1:17; 22:13). Jesus is the beginning of all history (the Creator) and also the goal for whom all things are made (all history is moving toward glorifying him).<sup>[ESVSB]</sup>
+The coming one is the Lord God, Alpha and Omega (first and last letters of the Gk. alphabet) (see Rev. 1:17; 22:13). Jesus is the beginning of all history (the Creator) and also the goal for whom all things are made (all history is moving toward glorifying him).<sup style="font-size:10px;">[ESVSB]</sup>
 
 There is no doubt that the title of *"Alpha and Omega"* belongs to Almighty God. There is also no doubt that the title of *"the first and the last"* is Jesus (Re 1:17-18).
 
