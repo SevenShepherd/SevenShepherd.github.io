@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:24:04 -0500
+date: 2022-10-05 04:34:04 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -167,29 +167,14 @@ This is the first of seven blessings which are given to those who read or hear, 
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
-Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book.
+Verse three demonstrates that the apocalypse is not some impossible to understand, esoteric book. In fact this verse proves the complete opposite. God is giving blessings to those who read, hear, and obey. If people were unable to comprehend what was written, there would be no one who could read or hear this book.<sup>[JVI]</sup>
 
 <!-- Revelation is understandable and fills the heart with joy once one sees its glorious message concerning the Saviour. -->
 
-<span style="font-size:19px;">For The Time Is Near</span>
+<!-- <span style="font-size:19px;">What Is Sin?</span> -->
+<span style="font-size:19px;">Blessed Are Those Who Hear And Obey</span><sup>[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET)</sup>
 
-When the bible says that **the time is *near***, or that it is ***at hand***, this is telling us that the Return of Christ is imminent. Christ's return is the next event on Father God's calender and could happen at anytime. It could happen right now while I type this commentary, or in a few days from now when you're reading it, or decades from now, etc. 
-
-The Bible teaches us that only the Father in heaven knows the day and hour, not even the Son, or His angels (Mt 24:36). We are instructed to be alert and disciplined unto prayer, because the end of all things is at hand (1Pe 4:7 ESV). The Bible warns us that the day of the Lord will come suddenly, like a thief in the night! (1Th 5:2–4; 2Pe 3:10) 
-
-This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
-
-> Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
-
-Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
-
-> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
-
-If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
-
-<span style="font-size:19px;">What Is Sin?</span>
-
-Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; Gal 5:19-21).<sup>[JVI]</sup>
+Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; **Gal 5:19-21**).<sup>[JVI]</sup>
 
 **Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.**
 
@@ -243,9 +228,9 @@ People who **practice** these sins will be Judged before the [Great White Throne
 
 <span style="font-size:19px;">What Is A True Believer?</span>
 
-A true believer is someone who does not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and whose life is filled with the fruit of the spirit (Gal 5:22-23). 
+A true believer is someone who has truly repented of their sins and turned to God. They do not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and their life is filled with the fruit of the spirit (Gal 5:22-23). 
 
-> **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and he cannot keep on sinning, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
+> **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and **he cannot keep on sinning**, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
 
 True believers are saved by grace (Eph 2:8-9). A true believer may sin during his life, but he never makes a practice of sin.
 
@@ -273,6 +258,22 @@ No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they
 <!-- - Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; 22:15; Gal 5:19-21) -->
 <!-- - Speaking profanities and reviling (James 1:26) -->
 <!-- - Demonstrating other works of the flesh.  -->
+
+<span style="font-size:19px;">For The Time Is Near</span>
+
+When the bible says that **the time is *near***, or that it is ***at hand***, this is telling us that the Return of Christ is imminent. Christ's return is the next event on Father God's calender and could happen at anytime. It could happen right now while I type this commentary, or in a few days from now when you're reading it, or decades from now, etc. 
+
+The Bible teaches us that only the Father in heaven knows the day and hour, not even the Son, or His angels (Mt 24:36). We are instructed to be alert and disciplined unto prayer, because the end of all things is at hand (1Pe 4:7 ESV). The Bible warns us that the day of the Lord will come suddenly, like a thief in the night! (1Th 5:2–4; 2Pe 3:10) 
+
+This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
+
+> Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
+
+Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
+
+> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
+
+If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
 
 <hr /><br>
 
