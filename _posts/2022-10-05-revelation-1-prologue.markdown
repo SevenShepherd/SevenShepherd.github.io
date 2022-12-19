@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:34:04 -0500
+date: 2022-10-05 04:44:44 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -193,7 +193,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *The wicked*&mdash;those who disregard all morality and moral standards.
 - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
 - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (James 1:26)
-- *The envious*&mdash;those resentful of others.
+- *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; James 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
 - *Debaters*&mdash;those who would rather argue with God than accept His truth.
 - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
 - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (James 3:2-3; Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
