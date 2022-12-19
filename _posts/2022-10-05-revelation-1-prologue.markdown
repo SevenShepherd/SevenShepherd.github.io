@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:14:04 -0500
+date: 2022-10-05 04:24:04 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -179,6 +179,14 @@ The Bible teaches us that only the Father in heaven knows the day and hour, not 
 
 This fast approaching time is compared to the dawn of a new day, from a night that is almost gone (Ro 13:12). Christians should fix their gaze heavenwards, as a crown of righteousness awaits those of us who watch for our God's return (Tit 2:13; 2Tim 4:8).
 
+> Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
+
+Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
+
+> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
+
+If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
+
 <span style="font-size:19px;">What Is Sin?</span>
 
 Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; Gal 5:19-21).<sup>[JVI]</sup>
@@ -225,23 +233,29 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *Revilers*&mdash;those who use abusive or contemptuous language (James 1:26).
 - *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
 
-People who **practice** these sins will be Judged before the Great White Throne. *"Is there any hope?"* you might be thinking to yourself. *"And such were some of you; ...but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."* (1Co 6:11; 1Jn 1:7; Jn 3:17).
+People who **practice** these sins will be Judged before the [Great White Throne](https://www.gotquestions.org/great-white-throne-judgment.html). 
 
-There is not a sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV). 
+<!-- *"Is there any hope?"* you might be thinking to yourself. *"And such were some of you; ...but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."* (1Co 6:11; 1Jn 1:7; Jn 3:17). -->
+
+<!-- There is not a sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV).  -->
 
 <!-- If believers were left behind at the Rapture because of some sin in their lives, who would the *"ashamed"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17). -->
 
 <span style="font-size:19px;">What Is A True Believer?</span>
 
-A true believer is someone who does not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and whose life is filled with the fruit of the spirit (Gal 5:22-23). True believers are saved by grace (Eph 2:8-9).
+A true believer is someone who does not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and whose life is filled with the fruit of the spirit (Gal 5:22-23). 
+
+> **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and he cannot keep on sinning, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
+
+True believers are saved by grace (Eph 2:8-9). A true believer may sin during his life, but he never makes a practice of sin.
 
 <!-- ; James 2:23-25). -->
 
-> Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
+<!-- > Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
 
 Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
 
-> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
+> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT -->
 
 This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (James 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
 
@@ -249,7 +263,7 @@ If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and in
 
 No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
 
-If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
+<!-- If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3). -->
 
 <!-- - Speaking negatively about or belittling others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT). -->
 <!-- - Gossiping about others (Pr 16:28 NLT). -->
