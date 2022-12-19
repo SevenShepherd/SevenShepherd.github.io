@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:55:55 -0500
+date: 2022-10-05 04:56:56 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -63,7 +63,7 @@ published: true
 
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
 
-The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/mgnt/tr/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[BLB](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
+The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[[BLB]](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
 
 
 The New Testament uses doulos to describe an individual who is totally subordinate to a master (cf. Mt 8:9; 24:46; 2Pe 2:19) and even owned by that master (Phile 1:16-19). Jesus is our Lord and master (2Co 4:5), and we are His slaves (Ro 1:1; Ph 1:1).<sup style="font-size:10px;">[[Site]](https://lsbible.org/faqs/)</sup>
@@ -179,7 +179,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 **Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.**
 
 - *The fearful*&mdash;those who do not accept Christ to escape being ridiculed (Matthew 10:32).
-- *Unbelievers*&mdash;those who do not believe in and recieve the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT).
+- *Unbelievers*&mdash;those who do not believe in and recieve the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT; Jn 3:36).
 - *The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
 - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
 - *Whoremongers*&mdash;those who engage in fornication or consort with prostitutes (Eph 5:5-8).
