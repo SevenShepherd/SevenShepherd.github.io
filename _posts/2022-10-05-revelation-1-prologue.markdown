@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:56:56 -0500
+date: 2022-10-05 04:57:57 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -192,11 +192,11 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *Fornicators*&mdash;those who engage in premarital and extramarital sex (1Co 6:9,14-18).
 - *The wicked*&mdash;those who disregard all morality and moral standards.
 - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
-- *The malicious*&mdash;those who willfully seek to destroy the person and property of others (James 1:26)
-- *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; James 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
+- *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Ja 1:26)
+- *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; Ja 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
 - *Debaters*&mdash;those who would rather argue with God than accept His truth.
 - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
-- *Maligners*&mdash;those who speak evil of, defame, or **slander** others (James 3:2-3; Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
+- *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ja 3:2-3; Pr 11:9 NLT; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
 - *Whisperers*&mdash;those who gossip (Proverbs 16:28 NLT).
 - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them.
 - *Haters of God*&mdash;
@@ -214,12 +214,14 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 - *The effeminate*&mdash;generally younger persons in the process of becoming homosexuals or sodomites.
 - *Thieves*&mdash;(1Co 6:10)
 - *Drunkards*&mdash;those given to and overcome by alcohol (Pr 20:1; 23:20-21; Lk 21:34; Ro 13:13; 1Co 6:10; Gal 5:19-21; Eph 5:18).
-- *Revilers*&mdash;those who use abusive or contemptuous language (James 1:26).
+- *Revilers*&mdash;those who use abusive or contemptuous language (Ja 1:26; 1Co 6:10).
 - *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
 
 People who **practice** these sins will be Judged before the [Great White Throne](https://www.gotquestions.org/great-white-throne-judgment.html). 
 
 <!-- *"Is there any hope?"* you might be thinking to yourself. *"And such were some of you; ...but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."* (1Co 6:11; 1Jn 1:7; Jn 3:17). -->
+
+> Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Corinthians 6:11 NET (1Jn 1:7; Jn 3:17)
 
 <!-- There is not a sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV).  -->
 
@@ -231,7 +233,7 @@ A true believer is someone who has truly repented of their sins and turned to Go
 
 > **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and **he cannot keep on sinning**, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
 
-True believers are saved by grace (Eph 2:8-9). A true believer may mistakenly sin during his life, but he never makes a practice of sin.
+**True believers are saved by grace (Eph 2:8-9). A true believer may mistakenly sin during his life, but he never makes a practice of sin.**
 
 <!-- ; James 2:23-25). -->
 
@@ -241,9 +243,9 @@ Since the ***Lord is near***, it is important that we let others observe our con
 
 > A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT -->
 
-This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (James 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
+This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (Tit 1:16; Ja 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
 
-If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (James 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
+If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (Ja 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
 
 No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
 
