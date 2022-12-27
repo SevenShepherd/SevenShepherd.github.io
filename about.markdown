@@ -106,9 +106,13 @@ This is the perfect version to use in parallel with one of the aforementioned ve
 
 This section details more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
+<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
+<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
+
+
 - Books
-    - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/)
-    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/)
+    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
 - Courses
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
