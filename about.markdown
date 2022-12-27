@@ -57,7 +57,8 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 <!-- - Readability 62.36%, Literalness 68.74% -->
 
-- [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/)
+<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
+- [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
@@ -68,7 +69,8 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 
 <!-- - Readability 66.28%, Literalness 53.94% -->
 
-- [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/)
+<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
+- [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
@@ -77,7 +79,8 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 
 The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
-- [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016)
+<!-- - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016) -->
+- [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
     - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
@@ -86,17 +89,16 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-<span style="font-style:Italic;font-size:19px;">Reading Comprehension</span>
+<span style="font-style:Italic;font-size:19px;">Parallel Bible</span>
 
-This section is dedicated to those who might have a hard time understanding the Bible, and might require something a bit gentler to read. For those of you in this position, or those of you who would perhaps like to expend the least amount of effort trying to understand the Bible, say for leisure reading, I would suggest the New Living Translation.
+This is the perfect version to use in parallel with one of the aforementioned versions above. The New Living Translation is perfect for leisure reading, or for those who might have a hard time understanding other versions.
 
 <!-- - Readability 70.08%, Literalness 39.90% -->
 
-- [New Living Translation (NLT)](https://www.tyndale.com/nlt/)
+<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+- [New Living Translation (NLT)](https://amzn.to/3PSHg3W)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-
-The NLT is by far the easiest to read Bible version on Earth, without compromising on any of the litmus tests I have put forth in my previous articles. It truly is a joy to read in parallel.
+    - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
