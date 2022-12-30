@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 22:32:42 -0500
+date: 2022-09-10 22:35:42 -0500
 categories: god jesus bible
 published: true
 ---
@@ -541,7 +541,7 @@ I make the light and create the darkness. I bring ·peace <span style="color:#bf
 
 <span style="font-style:Italic;font-size:34px;">X. Which Textual Criticism Methodology?</span>
 
-Because the last four sections removed the Textus Receptus, I think this is a good time to have that talk.
+Because the last five sections removed the Textus Receptus, I think this is a good time to have that talk.
 
 > There are approximately 300,000 textual variants among New Testament manuscripts. **The Majority Text differs from the Textus Receptus in almost 2,000 places.** So the agreement is better than 99 percent. But the Majority Text differs from the modern critical text in only about 6,500 places. In other words the two texts agree almost 98 percent of the time. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://bible.org/article/majority-text-and-original-text-are-they-identical#_ftn27)
 
@@ -1169,7 +1169,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are **4/6** contenders remaining in the corner of the Critical Text.
+- There are **5/7** contenders remaining in the corner of the Critical Text.
 - Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf).
 
 <span style="font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
