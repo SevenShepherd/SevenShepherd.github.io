@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 22:35:42 -0500
+date: 2022-09-10 22:45:42 -0500
 categories: god jesus bible
 published: true
 ---
@@ -55,9 +55,8 @@ Considering these things, in this article I will attempt to locate a version of 
 - XI. Gender Inclusivness?
 - XII. A Virgin or Young Woman?
 - XIII. Jesus Deity
-- XIV. A Quick Overview
-- XV. Bracketing, Footnotes, or Omission?
-- XVI. Conclusion
+- XIV. Bracketing, Footnotes, or Omission?
+- XV. Conclusion
 
 <!-- - XVI.
 - XVII.
@@ -1164,7 +1163,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 1. New American Standard Bible 1995 (NASB1995) © 1960, 1971, 1977, 1995
 1. Tree of Life Version (TLV) © 2015
 
-<span style="font-style:Italic;font-size:34px;">XIV. A Quick Overview</span>
+<!-- <span style="font-style:Italic;font-size:34px;">XIV. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
@@ -1187,7 +1186,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - Readability 60.32%, Literalness 65.21%
     - Copyright © 1982
 - **World English Bible (WEB)**
-    - Copyright Public Domain
+    - Copyright Public Domain -->
 
 <!-- - **Lexham English Bible (LEB)**
     - [14 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
@@ -1205,7 +1204,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [31 Scholars](https://tlvbiblesociety.org/pages/our-translation#translation-team)
     - Copyright © 2015 -->
 
-<span style="font-style:Italic;font-size:26px;">Optimal Equivalence</span>
+<!-- <span style="font-style:Italic;font-size:26px;">Optimal Equivalence</span>
 
 - **New English Translation (NET)**
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/)
@@ -1213,7 +1212,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - Copyright © 1996-2017
 - **Expanded Bible (EXB)** 
     - [53 Scholars Including NCV, otherwise 3](https://www.gotquestions.org/New-Century-Version-NCV.html)
-    - Copyright © 2011
+    - Copyright © 2011 -->
 
 <!-- 9. **Evangelical Heritage Version (EHV)**
     - Lutheran
@@ -1225,7 +1224,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 11. **International Standard Version (ISV)** © 1995-2014
     - High School -->
 
-*Notes: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
+<!-- *Notes: New English Translation (NET) is Functionally Equivalent in text, and Formally Equivalent in the Translator Notes.*
 
 *The Expanded Bible (EXB) should also fall into optimal equivalence, seeing as how it's text is based on the functionally equivalent NCV and it's expansions contain literal or formal equivalent readings.*
 
@@ -1234,7 +1233,7 @@ The only versions of the Bible on our list of 62 contenders that have survived t
 - **New Living Translation (NLT)**
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Readability 70.08%, Literalness 39.90%
-    - Copyright © 1996, 2004, 2015
+    - Copyright © 1996, 2004, 2015 -->
 
 <!-- <span style="font-style:Italic;font-size:26px;">Paraphrase "In Other Words"</span> -->
 
