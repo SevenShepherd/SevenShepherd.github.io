@@ -87,16 +87,19 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-<span style="font-style:Italic;font-size:19px;">Parallel Bible</span>
+<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
-This is the perfect version to use in parallel with one of the aforementioned versions above. The New Living Translation is perfect for leisure reading, or for those who might have a hard time understanding other versions.
+If a bible doesn't come with a commentary, it should be as readable as possible. This is the most readable bible on earth according to quantitative linguistic comparison of Bible translations using computerized statistical analysis, and the only acceptable version to sport without an included study.
 
 <!-- - Readability 70.08%, Literalness 39.90% -->
 
 <!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-- [New Living Translation (NLT)](https://amzn.to/3PSHg3W)
+<!-- - [New Living Translation (NLT)](https://amzn.to/3PSHg3W) -->
+
+- [New Living Translation (NLT)](https://amzn.to/3WVcPMQ)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - Accessories: [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
