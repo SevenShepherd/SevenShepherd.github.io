@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 22:45:42 -0500
+date: 2022-09-10 22:55:42 -0500
 categories: god jesus bible
 published: true
 ---
@@ -517,8 +517,9 @@ An explanation as to why this rendering is absurd should go without saying. The 
 
 > I am the one who forms light and creates darkness; the one who brings about peace and creates <span style="font-weight:Bold;color:Green;">calamity</span>. I am the Lord, who accomplishes all these things. &mdash; Isaiah 45:7 NET (New English Translation)
 
-> 
-I make the light and create the darkness. I bring ·peace <span style="color:#bfbfbf;">[prosperity; wholeness; <sup>C</sup> Hebrew shalom]</span>, and I ·cause <span style="color:#bfbfbf;">[create]</span> ·troubles <span style="color:#bfbfbf;">[disaster; <span style="font-weight:Bold;color:Green;">calamity</span>]</span>. I, the Lord, do all these things. &mdash; Isaiah 45:7 NET (New English Translation)
+> I make the light and create the darkness. I bring ·peace <span style="color:#bfbfbf;">[prosperity; wholeness; <sup>C</sup> Hebrew shalom]</span>, and I ·cause <span style="color:#bfbfbf;">[create]</span> ·troubles <span style="color:#bfbfbf;">[disaster; <span style="font-weight:Bold;color:Green;">calamity</span>]</span>. I, the Lord, do all these things. &mdash; Isaiah 45:7 EXB (Expanded Bible)
+
+> I create the light and make the darkness. I send good times and bad times. I, the Lord, am the one who does these things. &mdash; Isaiah 45:7 NLT (New Living Translation)
 
 
 # The following versions which contain 'evil' are eliminated:
