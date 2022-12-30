@@ -96,8 +96,10 @@ If a bible doesn't come with a commentary, it should be as readable as possible.
 <!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
 <!-- - [New Living Translation (NLT)](https://amzn.to/3PSHg3W) -->
 
-- [New Living Translation (NLT)](https://amzn.to/3WVcPMQ)
+- New Living Translation (NLT)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
+    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
     - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
     - Accessories: [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
@@ -109,7 +111,6 @@ This section details more advanced material for those who want to deep dive into
 
 <!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
 <!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
-
 
 - Books
     - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
