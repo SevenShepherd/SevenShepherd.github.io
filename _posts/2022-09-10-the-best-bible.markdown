@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 21:31:41 -0500
+date: 2022-09-10 22:32:42 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1302,7 +1302,7 @@ In my humble opinion, bracketing is preferable over footnotes and **omission is 
     - LEB,ESV,NLT [footnotes](https://www.biblegateway.com/passage/?search=Ro+16%3A23-24&version=LEB;ESV;NLT)
 
 
-<span style="font-style:Italic;font-size:26px;">Legacy Standard Bible Wins</span>
+<!-- <span style="font-style:Italic;font-size:26px;">Is The Legacy Standard Bible The Winner?</span> -->
 
 Only the Legacy Standard Bible (LSB), which is an update to the NASB '95 & '77, consistently brackets verses that do not appear in our oldest and best manuscripts (Critical Text).
 
@@ -1329,21 +1329,23 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 <span style="font-style:Italic;font-size:34px;">XVI. Conclusion</span>
 
+A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
+
+The bibles recommended below are the greatest ever produced by man. If the LSB should fix this issue, it would immediately be restored to this list.
+
 <span style="font-style:Italic;font-size:26px;">Winners</span>
 
-<span style="font-style:Italic;font-size:19px;">Primary Bible</span>
+<!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
 The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
 
-<!-- I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs.  -->
-
-<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
-<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
+- *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV.
+- Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater)
 
 - The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
     - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT) -->
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
