@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 22:55:42 -0500
+date: 2022-09-10 23:00:02 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1333,7 +1333,10 @@ A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently
 
 The bibles recommended below are the greatest ever produced by man. If the LSB should fix this issue, it would immediately be restored to this list.
 
-<span style="font-style:Italic;font-size:26px;">Winners</span>
+<span style="font-style:Italic;font-size:32px;">Winners</span>
+
+
+<span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
 <!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
@@ -1385,16 +1388,19 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-<span style="font-style:Italic;font-size:19px;">Parallel Bible</span>
+<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
-This is the perfect version to use in parallel with one of the aforementioned versions above. The New Living Translation is perfect for leisure reading, or for those who might have a hard time understanding other versions.
+If a bible doesn't come with a commentary, it should be as readable as possible. This is the most readable bible on earth according to quantitative linguistic comparison of Bible translations using computerized statistical analysis, and the only acceptable version to sport without an included study.
 
 <!-- - Readability 70.08%, Literalness 39.90% -->
 
 <!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-- [New Living Translation (NLT)](https://amzn.to/3PSHg3W)
+<!-- - [New Living Translation (NLT)](https://amzn.to/3PSHg3W) -->
+
+- [New Living Translation (NLT)](https://amzn.to/3WVcPMQ)
     - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - Accessories: [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <!-- - The [***Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
 
