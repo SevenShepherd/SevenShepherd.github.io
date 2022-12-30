@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 20:28:00 -0500
+date: 2022-09-10 21:31:41 -0500
 categories: god jesus bible
 published: true
 ---
@@ -39,6 +39,31 @@ Considering these things, in this article I will attempt to locate a version of 
 <!-- > as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures. &mdash; 2 Peter 3:16 ESV (English Standard Version) -->
 
 <!-- > as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught** and unstable distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 NASB '95 (New American Standard Bible 1995) -->
+
+<span style="font-style:Italic;font-size:34px;">Contents</span>
+
+- I. Occult Influence?
+- II. Behemoth or Hippopotamus?
+- III. Leviathan or Crocodile?
+- IV. Jehovah or Yahweh?
+- V. "Come" or "Come and see"?
+- VI. Book Of Life or Tree Of Life?
+- VII. Wash their robes or Do His commandments?
+- VIII. The Lucifer Problem
+- IX. Does God create evil or calamity?
+- X. Which Textual Criticism Methodology?
+- XI. Gender Inclusivness?
+- XII. A Virgin or Young Woman?
+- XIII. Jesus Deity
+- XIV. A Quick Overview
+- XV. Bracketing, Footnotes, or Omission?
+- XVI. Conclusion
+
+<!-- - XVI.
+- XVII.
+- XVIII.
+- XIX.
+- XX. -->
 
 <span style="font-style:Italic;font-size:34px;">Contenders</span>
 
@@ -106,30 +131,6 @@ I will be reviewing the follow versions of the Bible.
 1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998
 1. **Wycliffe Bible (WYC)** © 2001
 1. **Young's Literal Translation** (YLT) Public Domain
-
-<span style="font-style:Italic;font-size:34px;">Contents</span>
-
-- I. Occult Influence?
-- II. Behemoth or Hippopotamus?
-- III. Leviathan or Crocodile?
-- IV. Jehovah or Yahweh?
-- V. "Come" or "Come and see"?
-- VI. Book Of Life or Tree Of Life?
-- VII. Wash their robes or Do His commandments?
-- VIII. The Lucifer Problem
-- IX. Which Textual Criticism Methodology?
-- X. Gender Inclusivness?
-- XI. A Virgin or Young Woman?
-- XII. Jesus Deity
-- XIII. A Quick Overview
-- XIV. Bracketing, Footnotes, or Omission?
-- XV. Conclusion
-
-<!-- - XVI.
-- XVII.
-- XVIII.
-- XIX.
-- XX. -->
 
 <!-- <span style="font-style:Italic;font-size:34px;">I. Eliminating The Obvious</span>
 
@@ -505,7 +506,40 @@ In other words, **‘morning star’ or lucifer in the Latin Vulgate literally r
 - *Douay-Rheims 1899 American Edition (DRA) Public Domain*
 - *Wycliffe Bible (WYC) © 2001* -->
 
-<span style="font-style:Italic;font-size:34px;">IX. Which Textual Criticism Methodology?</span>
+<span style="font-style:Italic;font-size:34px;">IX. Does God Create Evil Or Calamity?</span>
+
+An explanation as to why this rendering is absurd should go without saying. The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
+
+<span style="font-style:Italic;font-size:26px;">Controversy</span>
+
+> I form the light, and create darkness: I make peace, and create <span style="font-weight:Bold;color:Red;">evil</span>: I the Lord do all these things. &mdash; Isaiah 45:7 KJV (King James Version)
+
+> I form light and create darkness; I make well-being and create <span style="font-weight:Bold;color:Green;">calamity</span>; I am the Lord, who does all these things. &mdash; Isaiah 45:7 ESV (English Standard Version)
+
+> I am the one who forms light and creates darkness; the one who brings about peace and creates <span style="font-weight:Bold;color:Green;">calamity</span>. I am the Lord, who accomplishes all these things. &mdash; Isaiah 45:7 NET (New English Translation)
+
+> 
+I make the light and create the darkness. I bring ·peace <span style="color:#bfbfbf;">[prosperity; wholeness; <sup>C</sup> Hebrew shalom]</span>, and I ·cause <span style="color:#bfbfbf;">[create]</span> ·troubles <span style="color:#bfbfbf;">[disaster; <span style="font-weight:Bold;color:Green;">calamity</span>]</span>. I, the Lord, do all these things. &mdash; Isaiah 45:7 NET (New English Translation)
+
+
+# The following versions which contain 'evil' are eliminated:
+
+1. **21st Century King James Version (KJ21)** © 1994 
+1. **American Standard Version (ASV)** Public Domain
+1. **Amplified Bible, Classic Edition (AMPC)** © 1954, 1958, 1962, 1964, 1965, 1987
+1. **BRG Bible (BRG)** Blue Red and Gold Letter Edition™ Copyright © 2012
+1. **Darby Translation (DARBY)** Public Domain
+1. **Douay-Rheims 1899 American Edition (DRA)** Public Domain
+1. **1599 Geneva Bible (GNV)**
+1. **Jubilee Bible 2000 (JUB)** © 2013, 2020
+1. **King James Version (KJV)** Public Domain
+1. **Authorized King James Version (AKJV)**
+1. **Lexham English Bible (LEB)** © 2012
+1. **Wycliffe Bible (WYC)** © 2001
+1. **Young's Literal Translation** (YLT) Public Domain
+
+
+<span style="font-style:Italic;font-size:34px;">X. Which Textual Criticism Methodology?</span>
 
 Because the last four sections removed the Textus Receptus, I think this is a good time to have that talk.
 
@@ -993,7 +1027,7 @@ More than 80% of minuscules represent the Byzantine text.
 
 *Source: [Byzantine text-type](https://en.wikipedia.org/wiki/Byzantine_text-type)*
 
-<span style="font-style:Italic;font-size:34px;">X. Gender Inclusivness?</span>
+<span style="font-style:Italic;font-size:34px;">XI. Gender Inclusivness?</span>
 
 The heresy of [political correctness](https://www.gotquestions.org/political-correctness.html) and gender inclusion has invaded the world of Bible translation and perverted God’s original message. There are times when [inclusiveness](https://www.gotquestions.org/gender-inclusive-Bible-translation.html) is appropriate and times when it absolutely is not. Let's look at some examples and remove some of the remaining versions that violate God's message.
 
@@ -1055,7 +1089,7 @@ See also Acts 5:35
 
 *Notes: The Expanded Bible (EXB) contains the literal translation even though it is derived from the NCV which was eliminated, It would otherwise have been eliminated.*
 
-<span style="font-style:Italic;font-size:34px;">XI. A Virgin or Young Woman?</span>
+<span style="font-style:Italic;font-size:34px;">XII. A Virgin or Young Woman?</span>
 
 This controversy doesn't necessarily take away from the prophecy of Christ's virgin birth, but it sure is suspect and I personally don't care for what some of the newer versions are doing. Here is a [comparison](https://www.biblegateway.com/verse/en/Isaiah%207:14).
 
@@ -1085,7 +1119,7 @@ NET Translator Notes:
 
 *Notes: The New English Translation (NET) expanded upon the literal interpretation and included 'Virgin' in it's translator notes. Otherwise it would have eliminated.*
 
-<span style="font-style:Italic;font-size:34px;">XII. Jesus Deity</span>
+<span style="font-style:Italic;font-size:34px;">XIII. Jesus Deity</span>
 
 I recently wrote an article covering most all of the verses in the Bible dealing with [Jesus deity](https://sevenshepherd.github.io/deity/). There are about 4 out of approximately 40 that are specific to textual basis. They should be represented in Bibles since they come from our oldest and best manuscripts. Let's look at a few.
 
@@ -1130,12 +1164,12 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 1. New American Standard Bible 1995 (NASB1995) © 1960, 1971, 1977, 1995
 1. Tree of Life Version (TLV) © 2015
 
-<span style="font-style:Italic;font-size:34px;">XIII. A Quick Overview</span>
+<span style="font-style:Italic;font-size:34px;">XIV. A Quick Overview</span>
 
 The only versions of the Bible on our list of 62 contenders that have survived the aforementioned litmus tests thus far are as follows:
 - The **New King James Version (NKJV)** is the only version of the Bible based on the Textus Receptus that remains. This is due to its footnotes.
 - The **World English Bible (WEB)** is the only version of the Bible in the entire list of contenders that uses the actual Majority Text. It also remains due to it's footnotes.
-- There are **5/7** contenders remaining in the corner of the Critical Text.
+- There are **4/6** contenders remaining in the corner of the Critical Text.
 - Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf).
 
 <span style="font-style:Italic;font-size:26px;">Formal Equivalence "Word-For-Word"</span>
@@ -1148,15 +1182,16 @@ The only versions of the Bible on our list of 62 contenders that have survived t
     - [100+ Scholars](https://www.esv.org/translation/)
     - Readability 62.36%, Literalness 68.74%
     - Copyright © 2001, 2016
-- **Lexham English Bible (LEB)**
-    - [14 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
-    - Copyright © 2012
 - **New King James Version (NKJV)**
     - [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm) including KJV, otherwise 130
     - Readability 60.32%, Literalness 65.21%
     - Copyright © 1982
 - **World English Bible (WEB)**
     - Copyright Public Domain
+
+<!-- - **Lexham English Bible (LEB)**
+    - [14 Scholars](https://lexhampress.com/product/6162/lexham-english-bible-leb-with-audio-new-testament)
+    - Copyright © 2012 -->
 
 <!-- 4. **New American Standard Bible (NASB)** 
     - [73 Scholars](https://www.lockman.org/new-american-standard-bible-nasb/) including NASB '95 & '77, otherwise 12
@@ -1229,7 +1264,7 @@ The Bibles below have made it this far, but are being honorably discharged for t
         - The EXB above is derived from the NCV
         - Copyright © 1986, 1988, 1999, 2015 -->
     
-<span style="font-style:Italic;font-size:34px;">XIV. Bracketing, Footnotes, or Omission?</span>
+<span style="font-style:Italic;font-size:34px;">XV. Bracketing, Footnotes, or Omission?</span>
 
 In my humble opinion, bracketing is preferable over footnotes and **omission is not an option** for a *Primary Bible*. Between bracketing and footnotes **there needs to be consistency**. Let's look at a few controversial verses that are not found in our oldest and best manuscripts. Here are the verses in question:
 
@@ -1277,10 +1312,11 @@ It should be noted, that the Expanded Bible (EXB) also does this with vertical b
 
 > Jesus answered, “Because ·your faith is too small [you have so little faith]. I tell you the truth, if your faith is ·as big as [as small as; the size of; <sup>L</sup> as; like] a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. ·All things will be possible [<sup>L</sup> Nothing would be impossible] for you. **\|21 That kind of spirit comes out only if you use prayer and fasting.\|**” &mdash; Mat 17:20-21 EXB (Expanded Bible)
 
-The Lexham English Bible (LEB), English Standard Version (ESV), New English Translation (NET), and New Living Translation (NLT) consistentantly footnotes said verses in the previous verse in which it appears.
+English Standard Version (ESV), New English Translation (NET), and New Living Translation (NLT) consistentantly footnotes said verses in the previous verse in which it appears.
 
+<!-- The Lexham English Bible (LEB), 
 - LEB footnotes
-    > Most later Greek manuscripts add **v. 21, “But this kind does not go out except by prayer and fasting.”**
+    > Most later Greek manuscripts add **v. 21, “But this kind does not go out except by prayer and fasting.”** -->
 
 - ESV footnotes
     > Some manuscripts insert verse **21: But this kind never comes out except by prayer and fasting**
@@ -1291,41 +1327,94 @@ The Lexham English Bible (LEB), English Standard Version (ESV), New English Tran
 - NET Translator Notes
     > d. Matthew 17:20 NET tc Many significant mss (א* B Θ 0281 33 579 892* e ff1 sys,c sa) do not include **17:21 “But this kind does not go out except by prayer and fasting.”** The verse is included in א2 C D L W Γ Δ ƒ1, 13 565 579 700 1241 1424 M al lat sy(p),h, but is almost certainly not original. As Metzger notes, “Since there is no satisfactory reason why the passage, if originally present in Matthew, should have been omitted in a wide variety of witnesses, and since copyists frequently inserted material derived from another Gospel, it appears that most manuscripts have been assimilated to the parallel in Mk 9.29” (TCGNT 35). The present translation follows NA28 in omitting the verse number as well, a procedure also followed by a number of other modern translations. 
 
-<span style="font-style:Italic;font-size:34px;">XV. Conclusion</span>
+<span style="font-style:Italic;font-size:34px;">XVI. Conclusion</span>
 
-<span style="font-style:Italic;font-size:26px;">Primary Selection</span>
+<span style="font-style:Italic;font-size:26px;">Winners</span>
 
-- The [***Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+<span style="font-style:Italic;font-size:19px;">Primary Bible</span>
 
-<!-- <span style="font-style:Italic;font-size:26px;">Alternate Primary Bible Selections</span> -->
+The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
 
-<span style="font-style:Italic;font-size:26px;">Parallel Selections</span>
+<!-- I generally leave the larger, weightier bibles in my private study, resorting to a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs.  -->
 
-When I study the Bible, I do so in parallel. Here is a list of recommended parallels.
+<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
+<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
 
-Notes & Expansions
+- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
+    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+
+<span style="font-style:Italic;font-size:19px;">Study Bible</span>
+
+The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
+
+<!-- - Readability 62.36%, Literalness 68.74% -->
+
+<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
+- [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
+    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
+    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+
+<span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
+
+The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
+
+<!-- - Readability 66.28%, Literalness 53.94% -->
+
+<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
+- [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
+    - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
+    - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    
+<span style="font-style:Italic;font-size:19px;">Expansions</span>
+
+The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
+
+<!-- - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016) -->
+- [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
+        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
+        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
+        - Daniel Taylor (Ph.D., Emory).
+    - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    
+<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
+
+<span style="font-style:Italic;font-size:19px;">Parallel Bible</span>
+
+This is the perfect version to use in parallel with one of the aforementioned versions above. The New Living Translation is perfect for leisure reading, or for those who might have a hard time understanding other versions.
+
+<!-- - Readability 70.08%, Literalness 39.90% -->
+
+<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+- [New Living Translation (NLT)](https://amzn.to/3PSHg3W)
+    - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+
+<!-- - The [***Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
+
+- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of omitted texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
 
 - The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
 
 - The ***Expanded Bible (EXB)*** The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
-Readability
+- The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise.  -->
 
-- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of omitted texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
-
-- The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise. 
-
-<span style="font-style:Italic;font-size:26px;">Honorable Mentions</span>
+<!-- <span style="font-style:Italic;font-size:26px;">Honorable Mentions</span> -->
 
 <!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
 
-- The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential.
+<!-- - The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential. -->
 
-- The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
+<!-- - The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
 
 - The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
 
-- The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text.
+- The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text. -->
 
 
 <script>
