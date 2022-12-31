@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 23:10:00 -0500
+date: 2022-09-10 23:21:21 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1331,24 +1331,30 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
 
-The bibles recommended below are the greatest ever produced by man. If the LSB should fix this issue, it would immediately be restored to this list.
+The bibles recommended below are the greatest ever produced. If the LSB should fix this issue, it would immediately be restored to this list.
 
 <span style="font-style:Italic;font-size:32px;">Winners</span>
 
+<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
+
+<!-- - Readability 70.08%, Literalness 39.90% -->
+<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+
+The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
+
+- New Living Translation (NLT)
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
+    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+- Accessories
+    - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
+    - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+    - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-<!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
-
-The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
-
-- *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV.
-- Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater)
-
-- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT) -->
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
@@ -1360,7 +1366,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
@@ -1372,7 +1378,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 - [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
@@ -1384,48 +1390,29 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
         - Daniel Taylor (Ph.D., Emory).
-    - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
+<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
-If a bible doesn't come with a commentary, it should be as readable as possible. This is the most readable bible on earth according to quantitative linguistic comparison of Bible translations using computerized statistical analysis, and the only acceptable version to sport without an included study.
+<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
 
-<!-- - Readability 70.08%, Literalness 39.90% -->
+This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
-<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-<!-- - [New Living Translation (NLT)](https://amzn.to/3PSHg3W) -->
+<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
+<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
 
-- New Living Translation (NLT)
-    - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
-    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
-    - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-    - Accessories: [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-
-<!-- - The [***Legacy Standard Bible (LSB)***](https://lsbible.org/) has secured the position of *Primary Bible*, which is very important and must adhere to every aforementioned litmus test. After reviewing 62 Bible versions I have concluded that the *The Legacy Standard Bible* is the closest to the original autograph while retaining every feature I could want personally. The LSB is an update to the NASB '95 & '77, which were already considered by scholars as the most accurate. The LSB succeeds where the NASB '20 fails.
-
-- The ***English Standard Version (ESV)*** remains the closest to unseating the LSB for *Primary Bible* selection. I ended up choosing the LSB over the ESV for the bracketing of omitted texts, and the restoration of the covenant name of God (Yahweh) in the Old Testament. The ESV lacks these features, but is one of the most readable formally equivalent translations of all time.
-
-- The ***NET Bible Full Translator Notes*** are absolutely indispensable, the text is functionally equivalent and alright, but the notes are formally equivalent and superb.
-
-- The ***Expanded Bible (EXB)*** The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
-
-- The ***New Living Translation (NLT)*** is the most readable version of the Bible on earth without compromise.  -->
-
-<!-- <span style="font-style:Italic;font-size:26px;">Honorable Mentions</span> -->
-
-<!-- *Note: Bibles in this section are the best for their respective textual basis or specific purpose, but otherwise are slightly inferior to the text of the above versions. Most of these would have been eliminated if it weren't for their footnotes, and some of them were eliminated.* -->
-
-<!-- - The ***Lexham English Bible (LEB)*** is almost good enough to be a *Primary Bible*, but its intended purpose is software based and no physical print exists. Dr. W. Hall Harris III, one of the worlds foremost scholars, known for his work in the NASB '95 & NET, also had a prominent role in the Lexham English Bible. This has incredible potential. -->
-
-<!-- - The ***New King James Version (NKJV)*** was the Bible I grew up with, it is the main version I look to when referring to the *Textus Receptus*.
-
-- The ***Tree of Life Version (TLV)*** is the most trustworthy *messianic bible translation* I've seen. It missed the final lineup by a hair.
-
-- The ***World English Bible (WEB)*** is the only Bible representing the actual *Majority Text*. Come on scholars get with the program, we need more versions based on the Majority text. -->
-
+- Interlinear
+    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
+- Biblical Hebrew
+    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+- Koine Greek
+    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
+- Courses
+    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
 
 <script>
     var refTagger = {
