@@ -28,9 +28,26 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 - [Avoiding The Traps of The Cults](https://sevenshepherd.github.io/cults/)
 - [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/)
 
+<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
+
+<!-- - Readability 70.08%, Literalness 39.90% -->
+<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+
+The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
+
+- New Living Translation (NLT)
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
+    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+- Accessories
+    - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
+    - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+    - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
+
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use.
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
 
 <!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
 
@@ -59,7 +76,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [English Standard Version (ESV) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
@@ -71,7 +88,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 - [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - [New English Translation (NET) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
@@ -83,38 +100,25 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
         - Daniel Taylor (Ph.D., Emory).
-    - [Expanded Bible (EXB) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
-
-<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
-
-If a bible doesn't come with a commentary, it should be as readable as possible. This is the most readable bible on earth according to quantitative linguistic comparison of Bible translations using computerized statistical analysis, and the only acceptable version to sport without an included study.
-
-<!-- - Readability 70.08%, Literalness 39.90% -->
-
-<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-<!-- - [New Living Translation (NLT)](https://amzn.to/3PSHg3W) -->
-
-- New Living Translation (NLT)
-    - [90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
-    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
-    - [New Living Translation (NLT) Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-    - Accessories: [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
 <!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
 
-This section details more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
 <!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
 <!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
 
-- Books
-    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+- Interlinear
     - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
+- Biblical Hebrew
+    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+- Koine Greek
+    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
 - Courses
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
