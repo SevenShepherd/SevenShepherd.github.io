@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 23:21:21 -0500
+date: 2022-09-10 23:23:23 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1354,7 +1354,7 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
+These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
