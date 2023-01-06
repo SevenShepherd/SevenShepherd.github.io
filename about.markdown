@@ -43,11 +43,11 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 - Accessories
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
+    <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
 
 <!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
 
