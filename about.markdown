@@ -35,12 +35,14 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
-- New Living Translation (NLT)
+<!-- - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ) -->
+<!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
+
+- [NLT Filament Compact](https://amzn.to/3ICUcJN)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
-    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
+    - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
     <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
@@ -76,7 +78,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
@@ -88,7 +90,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 - [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
@@ -100,7 +102,7 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
         - Daniel Taylor (Ph.D., Emory).
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
