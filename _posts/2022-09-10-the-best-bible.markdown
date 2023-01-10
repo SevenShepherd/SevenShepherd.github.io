@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 23:23:23 -0500
+date: 2022-09-10 24:23:23 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1342,15 +1342,13 @@ The bibles recommended below are the greatest ever produced. If the LSB should f
 
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
-- New Living Translation (NLT)
+- [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ)
-    - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu)
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
+    - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
