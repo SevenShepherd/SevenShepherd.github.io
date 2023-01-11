@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 01:00:00 -0500
+date: 2023-01-01 01:10:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -40,7 +40,7 @@ published: true
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
-The keyword here is <span style="font-size:24px;color:#595959;">practice</span>. A true Christian is incapable of practicing sin. Scholars have defined this as *"living in a continual pattern"*. This is not the same thing as making a mistake, this is talking about your habits and lifestyle.
+The keyword here is <span style="font-size:24px;color:#595959;">practice</span>. A true Christian is incapable of practicing sin. Scholars have defined this as *"living in a continual pattern"*. **This is not the same thing as making a mistake.** This is talking about your habits and lifestyle.
 
 <!-- <blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%203:8&version=ESV"> 
 
@@ -53,7 +53,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV"> 
 
-<div class='p'> <span class="verse" id="V9" style="font-weight:bold;color:black;">9&#160;</span> No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God. <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> <span style="color:#29a329;">By this it is evident who are the children of God</span>, and who are <span style="color:#C70039;">the children of the devil: whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. </div>
+<div class='p'> <span class="verse" id="V9" style="font-weight:bold;color:black;">9&#160;</span> No one born of God makes a <span style="font-size:30px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God. <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> <span style="color:#29a329;">By this it is evident who are the children of God</span>, and who are <span style="color:#C70039;">the children of the devil: whoever does not <span style="font-size:30px;">practice</span> righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; English Standard Version (ESV)</div>
 
 </blockquote>
 
@@ -67,7 +67,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 # [NET Translators' Notes](https://www.biblegateway.com/passage/?search=1+Jn+3%3A9&version=NET)
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
 
-> b. 1 John 3:9 **tn** The problem of the present tense of ποιεῖ (poiei) here is exactly that of the present tense of ἁμαρτάνει (hamartanei) in 1Jn 3:6. **Here in 3:9 the distinction is sharply drawn between “the one who practices sin” in 3:8, who is of the devil, and “the one who is fathered by God” in 3:9**, who “does not practice sin.” See S. Kubo (“I John 3:9: **Absolute or Habitual?**” AUSS 7 [1969]: 47-56) for a fuller discussion of the author’s argument as based on a **sharp antithesis between the recipients (true Christians) and the opponents (heretics)**. ...
+> b. 1 John 3:9 **tn** The problem of the present tense of ποιεῖ (poiei) here is exactly that of the present tense of ἁμαρτάνει (hamartanei) in 1Jn 3:6. **Here in 3:9 the distinction is sharply drawn between “the one who practices sin” in 3:8, who is of the devil, and “the one who is fathered by God” in 3:9, who “does not practice sin.”** See S. Kubo (“I John 3:9: **Absolute or Habitual?**” ... **sharp antithesis between the recipients (true Christians) and the opponents (heretics)**. ...
 
 # [Matthew Henry's Concise Commentary](https://www.biblehub.com/commentaries/1_john/3-9.htm)
 
@@ -78,6 +78,145 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 
 > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="color:#C70039;">If you are **practicing** sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
+
+<!-- <div class="mt">WHAT IS SIN AND HOW DO I AVOID PRACTICING IT?</div> -->
+
+<div class="mt">HOW DOES THE BIBLE DEFINE SIN?</div>
+
+<div class="mt" style="font-size:21px;">꧁ <a href="https://www.biblegateway.com/passage/?search=Rev.%2021%3A8%3B%2022%3A15%3B%20Rom.%201%3A24-32%3B%206%3A23%3B%201%20Cor.%206%3A9-10%3B%20Gal.%205%3A19-21&version=ESV;NET;EXB;NLT">Revelation 21:8</a> ꧂</div>
+
+<blockquote cite="https://read.lsbible.org/?q=Rev+21%3A8"> 
+
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span> But for the cowardly and unbelieving and abominable and murderers and sexually immoral persons and sorcerers and idolaters and all liars, <span style="color:#C70039;">their part will be in the lake that burns with fire and brimstone</span>, which is the second death.” &mdash; <a href="https://read.lsbible.org/?q=Rev+21%3A8">Legacy Standard Bible (LSB)</a></div>
+
+</blockquote>
+
+Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the [Great White Throne](https://www.gotquestions.org/great-white-throne-judgment.html) Judgement. 
+
+<div class="mt" style="font-size:21px;">꧁ Galatians 5:19-21 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Galatians+5%3A19-21&version=ESV;NET;EXB;NLT">
+
+<div class='p'> <span class="verse" id="V19" style="font-weight:bold;color:black;">19&#160;</span> Now the works of the flesh<span style="color:#bfbfbf;">[a]</span> are obvious:<span style="color:#bfbfbf;">[b]</span> sexual immorality, impurity, depravity, <span class="verse" id="V20" style="font-weight:bold;color:black;">20&#160;</span> idolatry, sorcery,<span style="color:#bfbfbf;">[c]</span> hostilities,<span style="color:#bfbfbf;">[d]</span> strife,<span style="color:#bfbfbf;">[e]</span> jealousy, outbursts of anger, selfish rivalries, dissensions,<span style="color:#bfbfbf;">[f]</span> factions, <span class="verse" id="V21" style="font-weight:bold;color:black;">21&#160;</span> envying,<span style="color:#bfbfbf;">[g]</span> murder,<span style="color:#bfbfbf;">[h]</span> drunkenness, carousing,<span style="color:#bfbfbf;">[i]</span> and similar things. I am warning you, as I had warned you before: <span style="color:#C70039;">Those who <span style="font-size:30px;">practice</span> such things will not inherit the kingdom of God!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Galatians+5%3A19-21&version=ESV;NET;EXB;NLT">New English Translation (NET)</a></div>
+
+</blockquote>
+
+**The Books of Revelation 21:8; 22:15; Romans 1:29-32; 1 Corinthians 6:9-10; and Galatians 5:19-21 paint a comprehensive picture of those who are damned for all eternity.**<sup style="font-size:10px;">[JVI]</sup>
+
+<!--<blockquote cite="https://www.biblegateway.com/passage/?search=Rev.+21%3A8&version=NET">
+
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">21:8&#160;</span> But as for the cowards, unbelievers, detestable persons, murderers, the sexually immoral, and those who practice magic spells,<span style="color:#bfbfbf;">[a]</span> idol worshipers,<span style="color:#bfbfbf;">[b]</span> and all those who lie, their place<span style="color:#bfbfbf;">[c]</span> will be in the lake that burns with fire and sulfur.<span style="color:#bfbfbf;">[d]</span> That<span style="color:#bfbfbf;">[e]</span> is the second death.” &mdash; <a href="https://www.biblegateway.com/passage/?search=Rev.+21%3A8&version=NET">New English Translation (NET)</a></div>
+
+</blockquote>
+
+> a. Revelation 21:8 **tn** On the term φαρμακεία (pharmakeia, “magic spells”) see L&N 53.100: “the use of magic, **often involving drugs** and the casting of spells upon people—‘to practice magic, to cast spells upon, to engage in sorcery, magic, sorcery.’ φαρμακεία: ἐν τῇ φαρμακείᾳ σου ἐπλανήθησαν πάντα τὰ ἔθνη ‘with your magic spells you deceived all the peoples (of the world)’ Re 18:23.”
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Rev.+22%3A15&version=NET">
+
+<div class='p'> <span class="verse" id="V15" style="font-weight:bold;color:black;">22:15&#160;</span> Outside are the dogs and the sorcerers<span style="color:#bfbfbf;">[a]</span> and the sexually immoral, and the murderers, and the idolaters and everyone who loves and practices falsehood!<span style="color:#bfbfbf;">[b]</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Rev.+22%3A15&version=NET">New English Translation (NET)</a></div>
+
+</blockquote> -->
+
+<!-- **Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.** -->
+
+- Sins of a verbal nature (Proverbs 18:21)
+    - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them. (Ro 1:30 NKJV; Mt 12:36 ESV)
+    - *Dogs*&mdash;false professors (2Pe 2:21-22)
+    - *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
+    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Ja 3:2-3; Pr 11:9 NLT; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
+    - *Whisperers*&mdash;those who gossip (Proverbs 16:28 NLT).
+    - *Revilers*&mdash;those who use abusive or contemptuous language (Ja 1:26; 1Co 6:10).
+- Prideful & arrogant (this isn't speaking of confidence)
+    - *The Proud*&mdash;those possessing an excessively high opinion of themselves.
+    - *Boasters*&mdash;those who exalt self.
+- False religions, cults, and occultists
+    - *Dogs*&mdash;false professors (2Pe 2:21-22)
+    - *Idolaters*&mdash;those who worship or reverence anything other than the living and true God.
+    - *Sorcerers*&mdash;those who practice witchcraft, demonism, and follow after the occult. Sorcery comes from the Greek word [pharmakeía](https://www.gotquestions.org/pharmakeia-in-the-Bible.html), meaning *"enchantment with drugs."* Thus, drug users as well as pushers are included in the guilty verdict for judgement (Re 21:8; 22:15; Gal 5:19-21).
+    - *The unrighteous*&mdash;those who trust in self, works, a false religious system, or mere *"religion"* for salvation (Titus 3:5).
+    - *Those without understanding*&mdash;resulting from unconcern or rejection of truth. (Ro 1:31)
+- Drug abusers & pushers
+    - *Magic Spells/Sorcerers*&mdash;those who practice witchcraft, demonism, and follow after the occult. Sorcery comes from the Greek word [pharmakeía](https://www.gotquestions.org/pharmakeia-in-the-Bible.html), meaning *"enchantment with drugs."* Thus, drug users as well as pushers are included in the guilty verdict for judgement (Re 21:8; 22:15; Gal 5:19-21).
+    - *Inventors of evil things*&mdash;
+    - *Drunkards*&mdash;those given to and overcome by alcohol (Pr 20:1; 23:20-21; Lk 21:34; Ro 13:13; 1Co 6:10; Gal 5:19-21; Eph 5:18).
+- Eternity is a long time to be wrong ...
+    - *Debaters*&mdash;those who would rather argue with God than accept His truth.
+    - *Despisers*&mdash;those filled with contempt toward God and man.
+    - *Haters of God*&mdash;self-explanatory
+    - *Those without understanding*&mdash;resulting from unconcern or rejection of truth. (Ro 1:31)
+    - *The implacable*&mdash;those exhibiting extreme stubbornness to the point of refusing to yield to the convicting power of the Holy Spirit (Pr 1:24-28; Ac 7:51-52)
+    - *Unbelievers*&mdash;those who do not believe in and receive the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT; Jn 3:36).
+- Violent & Murderous
+    - *Inventors of evil things*&mdash;
+    - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
+    - *Detestable/The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
+    - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Ja 1:26)
+    - *The wicked*&mdash;those who disregard all morality and moral standards.
+    - *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
+- Sexually Immoral
+    - *Adulterers*&mdash;those who practice extramarital sex (1Co 6:9-10)
+    - *Sexually Immoral/Whoremongers*&mdash;those who engage in fornication or consort with prostitutes (Eph 5:5-8).
+    - *Fornicators*&mdash;those who engage in premarital and extramarital sex (1Co 6:9,14-18).
+    - *The effeminate*&mdash;generally younger persons in the process of becoming homosexuals or sodomites.
+    - *Homosexuals*&mdash;[same sex relations](https://www.gotquestions.org/homosexuality-Bible.html) (1Co 6:9; 1Ti 1:10; Gen. 19:1–13; Lev. 18:22; 20:13; Ro 1:26–27)
+    - *Abusers of themselves with mankind*&mdash;hardened homosexuals (Gen. 19:5).
+    - *Those whose affections are contrary to the laws of God and nature*&mdash;
+- Other sinful behavior
+    - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
+    - *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; Ja 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
+    - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
+    - *Covenant breakers*&mdash;those who do not keep their word.
+    - *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
+    - *Cowards/The fearful*&mdash;those who do not accept Christ to escape being ridiculed (Matthew 10:32).
+    - *The disobedient to parents*&mdash;(Eph 6:1–2)
+    - *Thieves*&mdash;(1Co 6:10)
+
+<div class="mt">IS THERE ANY HOPE OF ESCAPE?</div>
+
+<div class="mt" style="font-size:21px;">꧁ 1 Corinthians 6:11 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A11&version=NET"> 
+
+<div class='p'> <span class="verse" id="V11" style="font-weight:bold;color:black;">11&#160;</span>Some of you once lived this way.<span style="color:#bfbfbf;">[a]</span> But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ<span style="color:#bfbfbf;">[b]</span> and by the Spirit of our God. &mdash; <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A11&version=ESV;NET;NLT">New English Translation (NET)</a> (1Jn 1:7; Jn 3:17)</div>
+
+</blockquote>
+
+There is no sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 NKJV).<sup style="font-size:10px;">[JVI]</sup>
+
+If believers were left behind at the Rapture because of some sin in their lives, who would the *"ashamed"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17).<sup style="font-size:10px;">[JVI]</sup>
+
+<!-- <div class="mt">WHAT IS THE PROPER CONDUCT OF A TRUE CHRISTIAN?</div> -->
+
+<!-- <div class="mt">WHAT IS THE FRUIT OF THE SPIRIT?</div> -->
+
+<div class="mt">HOW DO I RECEIVE SALVATION?</div>
+
+<div class="mt" style="font-size:21px;">꧁ Romans 6:23 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Rom.+6%3A23&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V23" style="font-weight:bold;color:black;">23&#160;</span>For the wages of sin is death, but the <span style="font-size:30px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord. &mdash; <a href="https://www.biblegateway.com/passage/?search=Rom.+6%3A23&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+<div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div>
+
+
+<!-- <div class="mt" style="font-size:21px;">꧁ John 20:31 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=John+20%3A31&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V31" style="font-weight:bold;color:black;">32&#160;</span>But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name. &mdash; <a href="https://www.biblegateway.com/passage/?search=John+20%3A31&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+<div class="mt" style="font-size:21px;">꧁ John 5:24 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=John+5%3A24&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V24" style="font-weight:bold;color:black;">24&#160;</span>I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life. &mdash; <a href="https://www.biblegateway.com/passage/?search=John+5%3A24&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote> -->
 
 <!-- > But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves. &mdash; James 1:22
 
