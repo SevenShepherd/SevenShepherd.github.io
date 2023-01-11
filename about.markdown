@@ -20,13 +20,23 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
-- [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
+- [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
+- [How Do You Know If You're Saved?](https://bit.ly/3kaNNLx)
+- [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
+- [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
+- [A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3)
+- [What Science Really Thinks About God](https://bit.ly/3PwFbuk)
+- [Avoiding The Traps of The Cults](https://bit.ly/3jbqQrh)
+- [A Logical Take On Christian Conduct](https://bit.ly/3FYsOEf)
+
+<!-- - [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
+- [How Do You Know If You're Saved?](https://sevenshepherd.github.io/true-christian/)
 - [An In-Depth Study On Revelation's Prologue](https://sevenshepherd.github.io/revelation-1-prologue/)
 - [A Detailed Look At The Three Heavens](https://sevenshepherd.github.io/heaven/)
 - [A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)
 - [What Science Really Thinks About God](https://sevenshepherd.github.io/science/)
 - [Avoiding The Traps of The Cults](https://sevenshepherd.github.io/cults/)
-- [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/)
+- [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
@@ -38,13 +48,14 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 <!-- - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ) -->
 <!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
 
-- [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN)
+<!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
+- [NLT Filament Compact Giant Print](https://amzn.to/3CcB5Cu)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
-    - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+    <!-- - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
     <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
