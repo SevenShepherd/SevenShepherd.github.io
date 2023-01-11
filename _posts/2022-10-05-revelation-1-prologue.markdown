@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 An In-Depth Study On Revelation’s Prologue"
-date: 2022-10-05 04:57:57 -0500
+date: 2022-10-05 05:0:00 -0500
 categories: jesus revelation apocalypse armageddon
 published: true
 ---
@@ -62,6 +62,8 @@ published: true
 </blockquote>
 
 <div class="mt" style="font-size:19px;">∴ Doulos ∴</div>
+
+<!-- For a Jew this concept did not connote drudgery, but honor and privilege. It was used of national Israel at times (Isa 43:10), but was especially associated with famous OT personalities, including such great men as Moses (Josh 14:7), David (Ps 89:3; cf. 2 Sam 7:5, 8) and Elijah (2 Kgs 10:10); all these men were “servants (or slaves) of the Lord.”<sup style="font-size:10px;">[[NET Jude 1:1]](https://www.biblegateway.com/passage/?search=Jude+1%3A1&version=NET)</sup> -->
 
 The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[[BLB]](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup> In a spiritual sense, the connotation of the word slaves in this context is one who has ***voluntarily*** sold himself into slavery to Jesus Christ. A good translation is the word “bondservant”, in that it often indicates one who sells himself into slavery to another.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A1&version=NET)</sup>
 
@@ -163,7 +165,7 @@ In the epilogue, John, unlike Daniel, is told not to seal his prophecy (Re 22:10
 
 The Greek word for Blessed is <span style="font-weight:Bold;color:#00802b;">μακάριος</span> ([makarios](https://www.blueletterbible.org/lexicon/g3107/lsb/mgnt/0-1/)), and is pronounced [🔊 mak-ar'-ee-os](https://youtu.be/QOIbiTKYyu4). This word can alternately be translated as happy.<sup style="font-size:10px;">[[NET/EXB/MOUNCE]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET;EXB;MOUNCE)</sup>
 
-This is the first of seven blessings which are given to those who read or hear (as well as obey<sup style="font-size:10px;">[[NET/EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET;EXB;NLT)</sup>) God’s Word. The remaining six blessings (Rev. 14:13; 16:15; 19:9; 20:6; 22:7, 14) commend purity and perseverance, even to the death.<sup style="font-size:10px;">[ESVSB]</sup>
+This is the first of seven blessings which are given to those who read or hear (as well as obey<sup style="font-size:10px;">[[NET/EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET;EXB;NLT)</sup>) God’s Word. The remaining six blessings (Rev. 14:13; 16:15; 19:9; 20:6; 22:7, 14) commend purity and perseverance, even to the death.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 <div class="mt" style="font-size:19px;">∴ Commentary ∴</div>
 
@@ -174,91 +176,7 @@ Verse three demonstrates that the apocalypse is not some impossible to understan
 <!-- <span style="font-size:19px;">What Is Sin?</span> -->
 <span style="font-size:19px;">Blessed Are Those Who Hear And Obey</span><sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A3&version=NET)</sup>
 
-Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the payoff is death and eventually, the Great White Throne Judgement (Ro 1:24-32; 6:23; 1 Co 6:9,10; **Gal 5:19-21**).<sup style="font-size:10px;">[JVI]</sup>
-
-**Revelation 21:8; 22:15 provides a comprehensive picture of those who are damned for all eternity.**
-
-- *The fearful*&mdash;those who do not accept Christ to escape being ridiculed (Matthew 10:32).
-- *Unbelievers*&mdash;those who do not believe in and recieve the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT; Jn 3:36).
-- *The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
-- *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
-- *Whoremongers*&mdash;those who engage in fornication or consort with prostitutes (Eph 5:5-8).
-- *Sorcerers*&mdash;those who practice witchcraft, demonism, and follow after the occult. Sorcery comes from the Greek word [pharmakeía](https://www.gotquestions.org/pharmakeia-in-the-Bible.html), meaning *"enchantment with drugs."* Thus, drug users as well as pushers are included in the guilty verdict for judgement (Re 21:8; 22:15; Gal 5:19-21).
-- *Idolaters*&mdash;those who worship or reverence anything other than the living and true God.
-- *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
-- *Dogs*&mdash;false professors (2Pe 2:21-22)
-- *Homosexuals*&mdash;[same sex relations](https://www.gotquestions.org/homosexuality-Bible.html) (1Co 6:9; 1Ti 1:10; Gen. 19:1–13; Lev. 18:22; 20:13; Ro 1:26–27) also *Abusers of themselves with mankind*&mdash;hardened homosexuals (Gen. 19:5).
-- *The unrighteous*&mdash;those who trust in self, works, a false religious system, or mere *"religion"* for salvation (Titus 3:5).
-- *Fornicators*&mdash;those who engage in premarital and extramarital sex (1Co 6:9,14-18).
-- *The wicked*&mdash;those who disregard all morality and moral standards.
-- *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
-- *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Ja 1:26)
-- *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; Ja 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
-- *Debaters*&mdash;those who would rather argue with God than accept His truth.
-- *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
-- *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ja 3:2-3; Pr 11:9 NLT; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
-- *Whisperers*&mdash;those who gossip (Proverbs 16:28 NLT).
-- *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them.
-- *Haters of God*&mdash;
-- *Despisers*&mdash;those filled with contempt toward God and man.
-- *The Proud*&mdash;those possessing an excessively high opinion of themselves.
-- *Boasters*&mdash;those who exalt self.
-- *Inventors of evil things*&mdash;
-- *The disobedient to parents*&mdash;(Eph 6:1–2)
-- *Those without understanding*&mdash;resulting from unconcern or rejection of truth.
-- *Covenant breakers*&mdash;those who do not keep their word.
-- *Those whose affections are contrary to the laws of God and nature*&mdash;
-- *The implacable*&mdash;those exhibiting extreme stubbornness to the point of refusing to yield to the convicting power of the Holy Spirit (Pr 1:24-28; Ac 7:51-52)
-- *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
-- *Adulterers*&mdash;those who practice extramarital sex (1Co 6:9-10)
-- *The effeminate*&mdash;generally younger persons in the process of becoming homosexuals or sodomites.
-- *Thieves*&mdash;(1Co 6:10)
-- *Drunkards*&mdash;those given to and overcome by alcohol (Pr 20:1; 23:20-21; Lk 21:34; Ro 13:13; 1Co 6:10; Gal 5:19-21; Eph 5:18).
-- *Revilers*&mdash;those who use abusive or contemptuous language (Ja 1:26; 1Co 6:10).
-- *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
-
-People who **practice** these sins will be Judged before the [Great White Throne](https://www.gotquestions.org/great-white-throne-judgment.html). 
-
-<!-- *"Is there any hope?"* you might be thinking to yourself. *"And such were some of you; ...but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God."* (1Co 6:11; 1Jn 1:7; Jn 3:17). -->
-
-> Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Corinthians 6:11 NET (1Jn 1:7; Jn 3:17)
-
-<!-- There is not a sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV).  -->
-
-<!-- If believers were left behind at the Rapture because of some sin in their lives, who would the *"ashamed"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17). -->
-
-<span style="font-size:19px;">What Is A True Believer?</span>
-
-A true believer is someone who has truly repented of their sins and turned to God. They do not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and their life is filled with the fruit of the spirit (Gal 5:22-23). 
-
-> **No one born of God makes a practice of sinning**, for God's[a] seed abides in him; and **he cannot keep on sinning**, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
-
-**True believers are saved by grace (Eph 2:8-9). A true believer may mistakenly sin during his life, but he never makes a practice of sin.**
-
-<!-- ; James 2:23-25). -->
-
-<!-- > Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
-
-Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
-
-> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT -->
-
-This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (Tit 1:16; Ja 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
-
-If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (Ja 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
-
-No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT).
-
-<!-- If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3). -->
-
-<!-- - Speaking negatively about or belittling others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT). -->
-<!-- - Gossiping about others (Pr 16:28 NLT). -->
-<!-- - Slandering other people in the congregation (Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV). -->
-<!-- - Bearing false witness & lying (Pr 6:16-19). -->
-<!-- - Hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT). -->
-<!-- - Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; 22:15; Gal 5:19-21) -->
-<!-- - Speaking profanities and reviling (James 1:26) -->
-<!-- - Demonstrating other works of the flesh.  -->
+Please refer to our article [How Do You Know If You're Saved?](https://sevenshepherd.github.io/true-christian/).
 
 <span style="font-size:19px;">For The Time Is Near</span>
 
@@ -275,6 +193,55 @@ Since the ***Lord is near***, it is important that we let others observe our con
 > A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT
 
 If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3).
+
+<!-- <span style="font-size:19px;">Salvation Message</span>
+
+People who **practice** these sins will be Judged before the [Great White Throne](https://www.gotquestions.org/great-white-throne-judgment.html). , because a true believer does not practice sinning (1Jn 3:9-10 ESV; Gal 5:19-21 NLT).
+
+God loves you.
+
+> For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. &mdash; Jn 3:16 ESV
+
+> but God shows his love for us in that while we were still sinners, Christ died for us. &mdash; Ro 5:8 ESV
+
+All are sinners.
+
+> for all have sinned and fall short of the glory of God &mdash; Rom. 3:23
+
+> as it is written, “There is none righteous, not even one; Ro 3:10
+
+
+
+A true believer is someone who has truly repented of their sins and turned to God. They do not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and their life is filled with the fruit of the spirit (Gal 5:22-23). The Bible makes it clear that everyone receives the Holy Spirit the moment he or she believes in Jesus Christ (Romans 8:9; 1 Corinthians 12:13; Ephesians 1:13-14).
+
+> **No one born of God makes a practice of sinning**, for God's seed abides in him; and **he cannot keep on sinning**, because he has been born of God. &mdash; 1Jn 3:9 English Standard Version
+
+**True believers are saved by grace (Eph 2:8-9). A true believer may mistakenly sin during his life, but he never makes a practice of sin.** -->
+
+<!-- ; James 2:23-25). -->
+
+<!-- > Let your considerate spirit be known to all men. **The Lord is near**. &mdash; Phil 4:5 LSB
+
+Since the ***Lord is near***, it is important that we let others observe our conduct as gentle, kind, considerate, and patient. This includes being able to teach with patience and kindness (2Tim 2:24 NLT; 1Jn 4:7-8,11-12; Gal 5:14; Jn 15:12; Ph 2:3; Heb 13:1-2 NET). 
+
+> A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. &mdash; 2 Timothy 2:24 NLT -->
+
+<!-- This is how we prove that we are truly of God (Mt 3:8 NLT), and that it wasn't just lip service (Tit 1:16; Ja 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT) when you asked God into your heart. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT). 
+
+If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal 5:19-21), these people have fooled themselves into believing that they are Christians (Ja 1:22 NLT). Remember that it is only those who do the will of the Father that will enter Heaven (Mt 7:21).
+
+No one who makes a ***practice*** of sin is a true Christian (1Jn 3:9 ESV), they will not make it to Heaven (Gal 5:19-21) because they've chosen to be children of the devil (1Jn 3:10 ESV). Every person who does not produce good fruit will be cut down and cast into fire (Mt 3:10 NLT). -->
+
+<!-- If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 2Ti 3:1-5 ESV; 2Th 2:3). -->
+
+<!-- - Speaking negatively about or belittling others (Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT). -->
+<!-- - Gossiping about others (Pr 16:28 NLT). -->
+<!-- - Slandering other people in the congregation (Pr 11:9 NLT; James 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV). -->
+<!-- - Bearing false witness & lying (Pr 6:16-19). -->
+<!-- - Hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT). -->
+<!-- - Premarital sex, or illicit [drug use](https://www.gotquestions.org/pharmakeia-in-the-Bible.html) (Re 21:8; 22:15; Gal 5:19-21) -->
+<!-- - Speaking profanities and reviling (James 1:26) -->
+<!-- - Demonstrating other works of the flesh.  -->
 
 <hr /><br>
 
@@ -294,7 +261,7 @@ If people are causing divisions among you, consider these verses (Tit 3:10 NLT; 
 
 <span style="font-size:19px;">The Seven Churches</span>
 
-John now focuses his attention on seven local churches.<sup style="font-size:10px;">[JVI]</sup> Seven symbolizes completeness (God's number of perfection) and implies that Christ addresses the whole church through these seven churches.<sup style="font-size:10px;">[ESVSB]</sup> The number also pictures seven different sets of conditions reflecting the history of God's people through the church age.<sup style="font-size:10px;">[JVI]</sup> Asia was a Roman province in what is now part of western Turkey,<sup style="font-size:10px;">[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup> and is not referring to the continent of Asia.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
+John now focuses his attention on seven local churches.<sup style="font-size:10px;">[JVI]</sup> Seven symbolizes completeness (God's number of perfection) and implies that Christ addresses the whole church through these seven churches.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup> The number also pictures seven different sets of conditions reflecting the history of God's people through the church age.<sup style="font-size:10px;">[JVI]</sup> Asia was a Roman province in what is now part of western Turkey,<sup style="font-size:10px;">[[EXB/NLT]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB;NLT)</sup> and is not referring to the continent of Asia.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
 The Roman province of Asia made up about one-third of modern Asia Minor and was on the western side. Asia is situated to the west of the region of Phrygia and Galatia.<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=NET)</sup>
 
@@ -304,7 +271,7 @@ God's salutation, found in 19/27 books in the NT is presented in this verse as w
 
 <!-- We also find that the message of grace and peace is from the entire Trinity.  -->
 
-John’s greeting (the message of grace and peace) comes “from” all three persons of the Trinity.<sup style="font-size:10px;">[ESVSB]</sup> First, the Father who is, and who was, and who is to come; then from the seven Spirits which are before the throne (a designation of the blessed Holy Spirit in all of His holiness, for seven means perfection).<sup style="font-size:10px;">[JVI]</sup>
+John’s greeting (the message of grace and peace) comes “from” all three persons of the Trinity.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup> First, the Father who is, and who was, and who is to come; then from the seven Spirits which are before the throne (a designation of the blessed Holy Spirit in all of His holiness, for seven means perfection).<sup style="font-size:10px;">[JVI]</sup>
 
 <span style="font-size:19px;">The One Who Is And Who Was And Who Is To Come</span>
 
@@ -326,7 +293,7 @@ Revelation 1:4 tn BDAG 106 s.v. ἀπό 5.d states: “The expr. εἰρήνη �
 
 This is referring either to angels or to the “sevenfold Spirit”—the Holy Spirit portrayed in his perfection (the number seven indicating completeness).<sup style="font-size:10px;">[[EXB]](https://www.biblegateway.com/passage/?search=Rev+1%3A4&version=EXB)</sup>
 
-The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup style="font-size:10px;">[ESVSB]</sup>
+The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4:4), but that he also appears as “seven spirits” (cf. Rev. 3:1; 4:5) which represent perfection, and as “seven torches of fire” (Re 4:5) and “seven eyes” (Re 5:6) to express his omnipresence and omniscience.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 <hr /><br>
 
@@ -342,11 +309,11 @@ The Holy Spirit is presented as one person in Revelation (Re 3:6, 13; cf. Eph. 4
 
 <span style="font-size:19px;">The Faithful Witness</span> 
 
-In much the same way that Jesus was the faithful witness even unto death (1Ti 6:13), Christians are called to be faithful witnesses as well (Re 2:13; 12:11; 20:4).<sup style="font-size:10px;">[ESVSB]</sup> The Greek term translated witness can mean both “witness” and “martyr.”<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A5&version=NET)</sup> Jesus is “the” quintessential faithful witness.
+In much the same way that Jesus was the faithful witness even unto death (1Ti 6:13), Christians are called to be faithful witnesses as well (Re 2:13; 12:11; 20:4).<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup> The Greek term translated witness can mean both “witness” and “martyr.”<sup style="font-size:10px;">[[NET]](https://www.biblegateway.com/passage/?search=Rev+1%3A5&version=NET)</sup> Jesus is “the” quintessential faithful witness.
 
 <span style="font-size:19px;">The Firstborn Of The Dead, And The Ruler Of The Kings Of The Earth.</span> 
 
-The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup style="font-size:10px;">[ESVSB]</sup>
+The firstborn of the dead, means Jesus has overcome or triumphed over death itself and that he is sovereign over all earthly powers (cf. Re 19:16). This fact was meant to comfort John's persecuted readers.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 The Lord Jesus Christ is also called the *"ruler of the kings of the earth"*. This is referring to the future when the *"Prince of Peace"* of Is 9:6 returns to earth as the *"KING OF KINGS, AND LORD OF LORDS"* (Re 19:16). This glorious event will be the fulfillment of Psalm 2:6 ESV which states *"... I have set my King on Zion, my holy hill."* At that time the Lord Jesus shall *"have dominion from sea to sea And from the River to the ends of the earth."* (Ps 72:8)<sup style="font-size:10px;">[JVI]</sup>
 
@@ -453,7 +420,7 @@ God the Father, in the Old Testament, is also called “Mighty God” in Isaiah 
 
 <span style="font-size:19px;">He Made Us A Kingdom Of Priests</span>
 
-Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.<sup style="font-size:10px;">[ESVSB]</sup>
+Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 <!-- made us a kingdom, priests. Israel’s roles now belong to those of all nations who are freed from sins by Jesus’ blood (Re 5:10; Ex. 19:6). From the outset, Jesus’ death is central to the message of Revelation. -->
 
@@ -475,11 +442,11 @@ This verse announces the Lord's return to earth (the Coming King)<sup style="fon
 
 <span style="font-size:19px;">Coming With The Clouds</span>
 
-Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14).<sup style="font-size:10px;">[ESVSB]</sup>
+Jesus will come as the Son of Man with universal dominion (cf. Dan. 7:13–14).<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 <!-- 1 Thess. 4:16–17 cry of command … voice of an archangel … trumpet of God. The three noises summon the dead to wake from their slumber. The only “archangel” identified in the Bible is Michael (Jude 9). Trumpets in the OT proclaimed the Lord’s presence (Ex. 19:16; 1 Chron. 16:6; Ps. 47:5; Joel 2:1; Zech. 9:14); in Jewish tradition, the “trumpet” was associated with battle, the day of the Lord, and the resurrection (cf. 1 Cor. 15:52). first … Then. Dead Christians rise from their graves to the realm of the living, and then the living and the dead together are caught up from the earth into the air to meet Christ. The Greek for “caught up” (harpazō, “to grab or seize suddenly, to snatch, take away”) gives a sense of being forcibly and suddenly lifted upward (see John 6:15; Acts 8:39). together with. The dead Christians would suffer no disadvantage (cf. “we who are alive … will not precede,” 1 Thess. 4:15). clouds.  -->
 
-Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). <sup style="font-size:10px;">[ESVSB]</sup>
+Probably not earthly rain clouds but the clouds of glory that surround the presence of God (cf. Ex. 13:21; 33:9–10; 40:38; Num. 12:5; 1 Kings 8:10–11; Ps. 97:2; Dan. 7:13; Matt. 17:5; Mark 13:26; Acts 1:9; Rev. 14:14). <sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 <!-- to meet. The Greek term apantēsis is often used of an important dignitary’s reception by the inhabitants of a city, who come out to greet and welcome their honored guest with fanfare and celebration, then accompany him into the city (cf. Matt. 25:6; Acts 28:15; a related term hypantēsis is used in Matt. 25:1; John 12:13).  -->
 
@@ -509,7 +476,7 @@ We can conclude that Jesus is Yahweh God and that [they pierced Yahweh on the cr
 
 <span style="font-size:19px;">Mourn Over Him</span>
 
-Most scholars think the wailing is a reaction to judgment instead of the kind of grief that leads to salvation.<sup style="font-size:10px;">[ESVSB]</sup> 
+Most scholars think the wailing is a reaction to judgment instead of the kind of grief that leads to salvation.<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup> 
 
 When He comes in power and great glory to smite the nations *"and all the tribes of the earth will MOURN OVER HIM."* This is because He comes for judgement and none will escape. As John envisions the hour when *"Behold, the Lord came with *many thousands of His holy ones,"* (Jude 1:14-15), he victoriously cries, *"Amen! Amen!"* (Re 1:7 KJV) The Greek for *"even so"* is *"Amen,"* and *"Amen"* is the Hebrew for *"even so"*. John is literally shouting the praise or praises of God in two languages.<sup style="font-size:10px;">[JVI]</sup> 
 
@@ -556,7 +523,7 @@ The shorter reading “Omega” (ὦ, ō) has superior ms evidence (א1 A C 1611
 
 <span style="font-size:19px;">Jesus Is The Alpha And The Omega</span>
 
-The coming one is the Lord God, Alpha and Omega (first and last letters of the Gk. alphabet) (see Rev. 1:17; 22:13). Jesus is the beginning of all history (the Creator) and also the goal for whom all things are made (all history is moving toward glorifying him).<sup style="font-size:10px;">[ESVSB]</sup>
+The coming one is the Lord God, Alpha and Omega (first and last letters of the Gk. alphabet) (see Rev. 1:17; 22:13). Jesus is the beginning of all history (the Creator) and also the goal for whom all things are made (all history is moving toward glorifying him).<sup style="font-size:10px;">[[ESVSB]](https://amzn.to/3WsN0Uw)</sup>
 
 There is no doubt that the title of *"Alpha and Omega"* belongs to Almighty God. There is also no doubt that the title of *"the first and the last"* is Jesus (Re 1:17-18).
 
