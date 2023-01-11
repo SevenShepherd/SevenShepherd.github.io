@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 00:00:00 -0500
+date: 2023-01-01 01:00:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -44,7 +44,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 <!-- <blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%203:8&version=ESV"> 
 
-<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span> <span style="color:#e65c00;">Whoever makes a <span style="font-size:32px;">practice</span> of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. </div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span> <span style="color:#C70039;">Whoever makes a <span style="font-size:32px;">practice</span> of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. </div>
 
 </blockquote>
 
@@ -53,11 +53,11 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV"> 
 
-<div class='p'> <span class="verse" id="V9" style="font-weight:bold;color:black;">9&#160;</span> No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God. <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> <span style="color:#29a329;">By this it is evident who are the children of God</span>, and who are <span style="color:#e65c00;">the children of the devil: whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. </div>
+<div class='p'> <span class="verse" id="V9" style="font-weight:bold;color:black;">9&#160;</span> No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God. <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span> <span style="color:#29a329;">By this it is evident who are the children of God</span>, and who are <span style="color:#C70039;">the children of the devil: whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. </div>
 
 </blockquote>
 
-<!-- > **No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God.** 10 By this it is evident who are the children of God, and who are <span style="color:#e65c00;">the children of the devil</span>: whoever <span style="color:#e65c00;">does not practice righteousness</span> is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:9-10 ([parallel](https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV;NET;EXB;NLT)) -->
+<!-- > **No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God.** 10 By this it is evident who are the children of God, and who are <span style="color:#C70039;">the children of the devil</span>: whoever <span style="color:#C70039;">does not practice righteousness</span> is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:9-10 ([parallel](https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV;NET;EXB;NLT)) -->
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
@@ -77,7 +77,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 
-> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="color:#e65c00;">If you are **practicing** sin, living in sin, you are not of God</span>; you are a part of that rebellion against God, led by Satan.
+> 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="color:#C70039;">If you are **practicing** sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
 
 <!-- > But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves. &mdash; James 1:22
 
