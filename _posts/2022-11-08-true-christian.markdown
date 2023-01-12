@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 01:30:00 -0500
+date: 2023-01-01 01:50:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -215,11 +215,11 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Rom.+6%3A1-2&version=NLT"> 
 
-<div class='p'> <span class="verse" id="V1" style="font-weight:bold;color:black;">1&#160;</span>Well then, <span style="font-weight:bold;">should we keep on sinning</span> so that God can show us more and more of his wonderful grace? <span class="verse" id="V2" style="font-weight:bold;color:black;">2&#160;</span> <span style="font-size:30px;color:#C70039;">Of course not!</span> Since we have died to sin, how can we continue to live in it? &mdash; <a href="https://www.biblegateway.com/passage/?search=Rom.+6%3A1-2&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V1" style="font-weight:bold;color:black;">1&#160;</span>Well then, <span style="font-weight:bold;">should we keep on sinning</span> so that God can show us more and more of his wonderful grace? <span class="verse" id="V2" style="font-weight:bold;color:black;">2&#160;</span> <span style="font-weight:bold;color:#C70039;">Of course not!</span> Since we have died to sin, how can we continue to live in it? &mdash; <a href="https://www.biblegateway.com/passage/?search=Rom.+6%3A1-2&version=NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
-**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) when we asked God into our hearts. The Bible teaches that you will be able to identify a true Christian by their fruit, that is by the way that they act (Mt 7:16 NLT).
+**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) when we asked God into our hearts.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
@@ -229,7 +229,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're in danger! The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5).
+The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Ja 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5).
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 7:21-23 ꧂</div>
 
@@ -237,7 +237,7 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 <!-- <div class='p'> <span class="verse" id="V21" style="font-weight:bold;color:black;">21&#160;</span>“Not everyone who calls out to me, ‘Lord! Lord!’ will enter the Kingdom of Heaven. <span style="color:#29a329;">Only those who actually do the will of my Father</span> in heaven will enter. &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A21&version=NLT">New Living Translation (NLT)</a></div> -->
 
-<div class='p'> <span class="verse" id="V21" style="font-weight:bold;color:black;">21&#160;</span>“<span style="font-weight:bold;color:#C70039;">Not everyone who calls out to me, ‘Lord! Lord!’ will enter the Kingdom of Heaven.</span> <span style="color:#29a329;">Only those who actually do the <span style="font-weight:bold;">will of my Father</span> in heaven will enter.</span> <span class="verse" id="V21" style="font-weight:bold;color:black;">22&#160;</span> On judgment day <span style="font-weight:bold;">many will say to me</span>, ‘Lord! Lord! We prophesied in your name and cast out demons in your name and performed many miracles in your name.’ <span class="verse" id="V21" style="font-weight:bold;color:black;">23&#160;</span> But I will reply, <span style="font-weight:bold;color:#C70039;">‘I never knew you. Get away from me, you who break God’s laws.’</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A21&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V21" style="font-weight:bold;color:black;">21&#160;</span>“<span style="color:#C70039;">Not everyone who calls out to me, ‘Lord! Lord!’ will enter the Kingdom of Heaven.</span> <span style="color:#29a329;">Only those who actually do the <span style="font-weight:bold;">will of my Father</span> in heaven will enter.</span> <span class="verse" id="V21" style="font-weight:bold;color:black;">22&#160;</span> On judgment day <span style="font-weight:bold;">many will say to me</span>, ‘Lord! Lord! We prophesied in your name and cast out demons in your name and performed many miracles in your name.’ <span class="verse" id="V21" style="font-weight:bold;color:black;">23&#160;</span> But I will reply, <span style="color:#C70039;">‘I never knew you. Get away from me, you who break God’s laws.’</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A21&version=NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
@@ -283,7 +283,8 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 <div class="mt">JESUS IS OUR LORD AND MASTER</div>
 
-<div class="mt" style="font-size:21px;">꧁ Luke 6:46 ꧂</div>
+
+<div class="mt" style="font-size:21px;">꧁ Luke 6:46; Rom. 6:17–18 ꧂</div>
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Luke+6%3A46&version=NLT"> 
 
@@ -291,7 +292,14 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 </blockquote>
 
+<blockquote cite="https://www.biblegateway.com/passage/?search=Rom.+6%3A17-18&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>Thank God! Once you were <span style="font-weight:Bold;color:#C70039;">slaves of sin</span>, but now you wholeheartedly obey this teaching we have given you. <span class="verse" id="V18" style="font-weight:bold;color:black;">18&#160;</span> Now you are free from your slavery to sin, and you have become <span style="font-weight:Bold;color:#29a329;">slaves to righteous living</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Rom.+6%3A17-18&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
 The Apostles are referred to as slaves in the Bible (Rom. 1:1 LSB; Rev. 1:1 LSB; Jude 1:1 LSB). The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[[BLB]](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup>
+
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
@@ -300,7 +308,7 @@ The Apostles are referred to as slaves in the Bible (Rom. 1:1 LSB; Rev. 1:1 LSB;
 
 > b. Revelation 1:1 **tn** Grk “slaves.” Although this translation frequently renders δοῦλος (doulos) as “slave,” **the connotation is often of one who has sold himself into slavery; in a spiritual sense, the idea is that of becoming a slave of God or of Jesus Christ voluntarily.** The voluntary notion is conspicuous here; hence, the translation “servants.” In any case, **the word does not bear the connotation of a free individual serving another.** BDAG notes that “‘servant’ for ‘slave’ is largely confined to Biblical transl. and early American times…in normal usage at the present time the two words are carefully distinguished” (BDAG 260 s.v.). **A good translation is “bondservant”** (sometimes found in the ASV for δοῦλος), **in that it often indicates one who sells himself into slavery to another.** But as this is archaic, few today understand its force.
 
-# Legacy Standard Bible (LSB) FAQ
+# [Legacy Standard Bible (LSB) FAQs](https://lsbible.org/faqs/)
 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/). The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced.
 
 > Why does the LSB translate “doulos” as “slave”?
@@ -313,9 +321,140 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 
 <div class="mt">SUMMARY</div>
 
-<div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div>
+<div class="mt" style="font-size:21px;">꧁ James 1:22 ꧂</div>
+<!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+<!-- <div class="mt" style="font-size:21px;">꧁ Galatians 5:22-23 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Gal.+5%3A22-23&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But the Holy Spirit produces this kind of fruit in our lives: love, joy, peace, patience, kindness, goodness, faithfulness, <span class="verse" id="V23" style="font-weight:bold;color:black;">23&#160;</span> gentleness, and self-control. There is no law against these things! &mdash; <a href="https://www.biblegateway.com/passage/?search=Gal.+5%3A22-23&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote> -->
+
+Faith without works is dead (James 2:26 NLT). If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal 5:19-21 NLT), is it possible that they have fooled themselves? (Ja 1:22 NLT).
+
+<!-- # [ESV Study Bible](https://amzn.to/3WsN0Uw)
+200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
+
+> James 1:22–25 Doers of the Word. Hearing the word without action is self-deceptive, while hearing that results in doing the word is a blessing.
+>
+James 1:22 Being doers of the word, and not hearers only is the only proper response to the Word of God (not only the gospel but the entirety of Scripture), allowing it to take root in one’s life (cf. v. 21). -->
+
+<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>This means that anyone who belongs to Christ has become a new person. <span style="font-weight:bold;color:#C70039;">The old life is gone</span>; <span style="font-weight:bold;color:#29a329;">a new life has begun!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
+
+> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT
+
+The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).
+
+<!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20 NLT
+
+For “Everyone who calls on the name of the Lord will be saved.” ~Romans 10:13 NLT
+
+"I passed on to you what was most important and what had also been passed on to me. Christ died for our sins, just as the Scriptures said. He was buried, and he was raised from the dead on the third day, just as the Scriptures said." ~1 Cor. 15:3-4 NLT
+
+"If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved." ~Romans 10:9 NLT
+
+“I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life." ~John 5:24 NLT
+
+"But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name." ~John 20:31 NLT -->
 
 
+<!-- <div class="mt" style="font-size:21px;">꧁ John 20:31 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=John+20%3A31&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V31" style="font-weight:bold;color:black;">32&#160;</span>But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name. &mdash; <a href="https://www.biblegateway.com/passage/?search=John+20%3A31&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+<div class="mt" style="font-size:21px;">꧁ John 5:24 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=John+5%3A24&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V24" style="font-weight:bold;color:black;">24&#160;</span>I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life. &mdash; <a href="https://www.biblegateway.com/passage/?search=John+5%3A24&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote> -->
+
+<!-- <span style="font-style:Italic;font-size:24px;">How Do I Know If I Am A Christian In Name Only?</span>
+
+
+Ti 3:10 NLT
+
+Jer 23:1-3
+
+James 1:12 NLT; 3:1; 4:11 NLT; 4:12 ESV
+
+John 1:11,26; 13:35 NLT; 16:1-3
+
+Lk 6:45 NLT
+
+Gal 5:14;19-21;22-23 LSB
+
+Phil 2:3
+
+Mt 5:22 NLT; 12:36 ESV; 24:10; 25:45
+
+Pr 10:18; 11:9,12; 16:28 NLT; 20:19 ESV; 23:9
+
+Ps 101:5 ESV
+
+1 Jn 2:6,9; 4:8 LSB; 4:20
+
+2 Tim 3:1-5
+
+1 Pe 2:1 NLT
+
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
+|Do not associate with the slanderer.|Proverbs 20:19|
+|Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
+|God will destroy the slanderer.|Psalm 101:5|
+|**Whoever utters slander is a fool.**|Proverbs 10:18|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
+|Every careless word will be judged.|Matthew 12:36|
+|By Judging others, you judge God's law.|James 4:11|
+|Who are you to judge another?|James 4:12|
+|Evil words come from an evil heart.|Lk 6:45 NLT|
+|Those who endure persecution will receive the crown of life.|James 1:12|
+|Insulting others has dire consequences.|Matthew 5:22|
+|An admonition to false teachers.|Jeremiah 23:1-3|
+
+
+
+<span style="font-style:Italic;font-size:24px;">The Apostasy</span>
+
+2 Thess 2:3 -->
+
+<!-- <script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script> -->
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
