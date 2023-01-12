@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:10:02 -0500
+date: 2023-01-01 02:12:02 -0500
 categories: god jesus bible christian salvation
-published: true
+published: false
 ---
 
 <style>
@@ -36,7 +36,7 @@ published: true
 
 </style>
 
-<div class="mt">TRUE CHRISTIANS DO NOT PRACTICE SIN</div>
+<div class="mt">DO CHRISTIANS PRACTICE SIN?</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
@@ -47,7 +47,6 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 <div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span> <span style="color:#C70039;">Whoever makes a <span style="font-size:32px;">practice</span> of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. </div>
 
 </blockquote>
-
 
 > **3:8** The reason the Son of God appeared restates v. 1Jn 3:5 but here specifies the connection of sin to the devil. **Knowing Christ means becoming involved in an all-out war against the works of the devil, that is, the practice of sinning.** -->
 
