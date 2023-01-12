@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:02:02 -0500
+date: 2023-01-01 02:10:02 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -219,7 +219,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) when we asked God into our hearts.
+**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) when we asked God into our hearts.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
@@ -359,7 +359,7 @@ The Bible tells us that all have sinned and fallen short of the glory of God (Ro
 
 > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT
 
-The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).
+The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).
 
 I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.**
 
