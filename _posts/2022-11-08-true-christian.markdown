@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 01:50:00 -0500
+date: 2023-01-01 02:02:02 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -360,6 +360,8 @@ The Bible tells us that all have sinned and fallen short of the glory of God (Ro
 > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT
 
 The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you will know His true followers by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).
+
+I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.**
 
 <!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20 NLT
 
