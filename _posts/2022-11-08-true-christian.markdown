@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:12:02 -0500
+date: 2023-01-01 02:20:20 -0500
 categories: god jesus bible christian salvation
-published: false
+published: true
 ---
 
 <style>
@@ -36,7 +36,29 @@ published: false
 
 </style>
 
-<div class="mt">DO CHRISTIANS PRACTICE SIN?</div>
+<!-- <div class="mt">OVERVIEW OF SOTERIOLOGY</div> -->
+<div class="mt">SALVATION IS BY GRACE</div>
+
+<!-- Before this article begins I'd like to make clear my soteriological stances, so that there is no misunderstandings about what this ministry is teaching. There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). -->
+
+<!-- Most of my material leans into lordship salvation but the other decent portion is free grace theology. Some of the brightest scholars you'll ever meet fall on both sides of the isle. So i've decided to remain neutral and allow the reader to decide for himself. -->
+
+<div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-9 ꧂</div>
+<!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>God saved you by his grace when you believed. And you can’t take credit for this; it is a gift from God. 9 Salvation is not a reward for the good things we have done, so none of us can boast about it. &mdash; <a href="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+The Bible teaches that **true believers** are saved by grace and justified through faith (Eph 2:8-9), and that faith is accounted for as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. 
+
+In this article we are not examining justification or glorification. We're examining sanctification vs lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT). If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal. 5:19-21 NLT), it is highly likely that they have fooled themselves (Ja 1:22 NLT).
+
+As Jesus reprimanded the pharisees, you must produce fruit that proves your repentance (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT). So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26).
+
+<div class="mt">TRUE CHRISTIANS DO NOT PRACTICE SIN</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
@@ -318,16 +340,7 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 > Jesus on another occasion said, "Why do you call me Lord and yet you don’t do the things that I command you?" You see, our problem is that we’ve come to think of the term "Lord" as a name and so we say, "The Lord Jesus Christ" and we think of Lord as His first name, Jesus His middle name and Christ His last name; He’s the Lord Jesus Christ. **But in reality when I say the Lord, you should put a comma there for Lord is not his name; it’s His title. The title that signifies my relationship to Him. <span style="color:#29a329;">He is my Lord, I am his slave; I am his servant, He is my Lord.</span>**
 
 
-<div class="mt">SUMMARY</div>
-
-<div class="mt" style="font-size:21px;">꧁ James 1:22 ꧂</div>
-<!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
-
-<blockquote cite="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT"> 
-
-<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT">New Living Translation (NLT)</a></div>
-
-</blockquote>
+<div class="mt">Conclusion</div>
 
 <!-- <div class="mt" style="font-size:21px;">꧁ Galatians 5:22-23 ꧂</div>
 
@@ -337,8 +350,6 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 
 </blockquote> -->
 
-Faith without works is dead (James 2:26 NLT). If a Christian's life is devoid of the fruit of the spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal 5:19-21 NLT), is it possible that they have fooled themselves? (Ja 1:22 NLT).
-
 <!-- # [ESV Study Bible](https://amzn.to/3WsN0Uw)
 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
 
@@ -346,21 +357,40 @@ Faith without works is dead (James 2:26 NLT). If a Christian's life is devoid of
 >
 James 1:22 Being doers of the word, and not hearers only is the only proper response to the Word of God (not only the gospel but the entirety of Scripture), allowing it to take root in one’s life (cf. v. 21). -->
 
-<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
+<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17; James 1:22 ꧂</div>
+
+<!-- <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>So then, if anyone is in Christ, he is a new creation; what is old has passed away<span style="color:#bfbfbf;">[a]</span>—look, what is new<span style="color:#bfbfbf;">[b]</span> has come!<span style="color:#bfbfbf;">[c]</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New English Translation (NET)</a></div>
+
+</blockquote> -->
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>This means that anyone who belongs to Christ has become a new person. <span style="font-weight:bold;color:#C70039;">The old life is gone</span>; <span style="font-weight:bold;color:#29a329;">a new life has begun!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>This means that anyone who belongs to Christ <span style="font-weight:bold;">has become</span> a new person. <span style="font-weight:bold;color:#C70039;">The old life is gone</span>; <span style="font-weight:bold;color:#29a329;">a new life has begun!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
-The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
+<!-- <div class="mt" style="font-size:21px;">꧁ James 1:22 ꧂</div> -->
+<!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT"> 
+
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+We believe that the **evidence** of your salvation by Grace is proven by the way that you live, and that works are the byproduct of salvation, not it's cause. There is a clear distinction between practicing sin and making mistakes. A true Christian does not practice sin.
+
+So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26)!
+
+<!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
 
 > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT
 
-The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).
+The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT). -->
 
-I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.**
+<!-- I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.** -->
 
 <!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20 NLT
 
