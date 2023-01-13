@@ -87,7 +87,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 <!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
 - [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
+    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
@@ -99,7 +99,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 
 <!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
 - [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
