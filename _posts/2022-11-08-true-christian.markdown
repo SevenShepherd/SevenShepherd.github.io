@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:00:00 -0500
+date: 2023-01-01 03:10:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -52,7 +52,7 @@ published: true
 
 </blockquote>
 
-The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,26). If your faith is dead, how can you be justified?
+The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,24,26). If your faith is dead, how can you be justified?
 
 John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10). Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
@@ -369,7 +369,7 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 >
 James 1:22 Being doers of the word, and not hearers only is the only proper response to the Word of God (not only the gospel but the entirety of Scripture), allowing it to take root in one’s life (cf. v. 21). -->
 
-<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17; James 1:22 ꧂</div>
+<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
 
 <!-- <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
 
@@ -386,15 +386,23 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 <!-- <div class="mt" style="font-size:21px;">꧁ James 1:22 ꧂</div> -->
 <!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
 
-<blockquote cite="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT"> 
+<!-- <blockquote cite="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=James+1%3A22&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote> -->
+
+<div class="mt" style="font-size:21px;">꧁ James 1:22; 2:20,22,24,26 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without good deeds is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. His <span style="font-weight:bold;color:#29a329;">actions made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God by what we do, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
-We believe that the **evidence** of your salvation by Grace is proven by the way that you live, and that works are the byproduct of salvation, not it's cause. There is a clear distinction between practicing sin and making mistakes. A true Christian does not practice sin.
+The **evidence** of your salvation by Grace is proven by the way that you live, and works are the byproduct of salvation, not it's cause. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
 
-So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:20,22,26)!
+So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7).
 
 <!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
 
