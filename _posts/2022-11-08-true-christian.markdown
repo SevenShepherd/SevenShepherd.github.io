@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:40:00 -0500
+date: 2023-01-01 02:45:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -54,7 +54,7 @@ published: true
 
 The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:26). If your faith is dead, how can you be justified?
 
-John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10 NLT). Jesus also taught that you could identify people by their actions (Matthew 7:16-20; 21-23 NLT). 
+John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10 NLT). Jesus also taught that you could identify people by their actions (Mt 7:16-23 NLT). 
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal. 5:19-21 NLT), it is possible that they have fooled themselves (Ja 1:22 NLT), becoming false professors (2Pe 2:21-22).
 
