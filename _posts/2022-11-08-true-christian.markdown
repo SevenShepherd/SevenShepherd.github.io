@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:50:00 -0500
+date: 2023-01-01 02:55:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -52,7 +52,7 @@ published: true
 
 </blockquote>
 
-The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:26). If your faith is dead, how can you be justified?
+The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,26). If your faith is dead, how can you be justified?
 
 John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10). Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
@@ -394,7 +394,7 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 We believe that the **evidence** of your salvation by Grace is proven by the way that you live, and that works are the byproduct of salvation, not it's cause. There is a clear distinction between practicing sin and making mistakes. A true Christian does not practice sin.
 
-So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26)!
+So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:20,22,26)!
 
 <!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
 
