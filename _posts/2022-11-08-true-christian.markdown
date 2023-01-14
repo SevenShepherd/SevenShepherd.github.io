@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:45:00 -0500
+date: 2023-01-01 02:50:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -54,17 +54,17 @@ published: true
 
 The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:26). If your faith is dead, how can you be justified?
 
-John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10 NLT). Jesus also taught that you could identify people by their actions (Mt 7:16-23 NLT). 
+John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10). Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal. 5:19-21 NLT), it is possible that they have fooled themselves (Ja 1:22 NLT), becoming false professors (2Pe 2:21-22).
+If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), it is possible that they have fooled themselves (Ja 1:22), becoming false professors (2Pe 2:21-22).
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
-<!-- In this article we are not examining justification or glorification. We're examining sanctification vs lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT).  -->
+<!-- In this article we are not examining justification or glorification. We're examining sanctification vs lip service (Tit 1:16; Is 29:13; Mt 15:8).  -->
 
 <!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
-In this article we examine the difference between lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) and justification. One path leads to the practice of sin and the other to soteriological sanctification. 
+In this article we examine the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path leads to the practice of sin and the other to soteriological sanctification. 
 
 <!-- Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified? -->
 
@@ -154,8 +154,8 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them. (Ro 1:30 NKJV; Mt 12:36 ESV)
     - *Dogs*&mdash;false professors (2Pe 2:21-22)
     - *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
-    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Ja 3:2-3; Pr 11:9 NLT; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12 NLT; Mt 5:22 ESV; Lk 6:45 NLT).
-    - *Whisperers*&mdash;those who gossip (Proverbs 16:28 NLT).
+    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Ja 3:2-3; Pr 11:9; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12; Mt 5:22 ESV; Lk 6:45).
+    - *Whisperers*&mdash;those who gossip (Proverbs 16:28).
     - *Revilers*&mdash;those who use abusive or contemptuous language (Ja 1:26; 1Co 6:10).
 - Prideful & arrogant (this isn't speaking of confidence)
     - *The Proud*&mdash;those possessing an excessively high opinion of themselves.
@@ -176,10 +176,10 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Haters of God*&mdash;self-explanatory
     - *Those without understanding*&mdash;resulting from unconcern or rejection of truth. (Ro 1:31)
     - *The implacable*&mdash;those exhibiting extreme stubbornness to the point of refusing to yield to the convicting power of the Holy Spirit (Pr 1:24-28; Ac 7:51-52)
-    - *Unbelievers*&mdash;those who do not believe in and receive the Lord Jesus Christ (Jn 8:24; Mt 12:32 NLT; Jn 3:36).
+    - *Unbelievers*&mdash;those who do not believe in and receive the Lord Jesus Christ (Jn 8:24; Mt 12:32; Jn 3:36).
 - Violent & Murderous
     - *Inventors of evil things*&mdash;
-    - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9 NLT; 1Jn 4:20 NLT).
+    - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9; 1Jn 4:20).
     - *Detestable/The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
     - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Ja 1:26)
     - *The wicked*&mdash;those who disregard all morality and moral standards.
@@ -194,7 +194,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Those whose affections are contrary to the laws of God and nature*&mdash;
 - Other sinful behavior
     - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
-    - *The envious*&mdash;those resentful of others (Mt 27:18 NLT; 1Pe 2:1; Ja 3:16 NLT; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
+    - *The envious*&mdash;those resentful of others (Mt 27:18; 1Pe 2:1; Ja 3:16; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
     - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
     - *Covenant breakers*&mdash;those who do not keep their word.
     - *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
@@ -219,7 +219,7 @@ In other words, you <span style="font-weight:bold;color:#29a329;">no longer live
 
 <!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10).  -->
 
-<!-- > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT -->
+<!-- > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 -->
 
 # Dr. Jack Van Impe
 
@@ -250,7 +250,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) when we asked God into our hearts.
+**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
@@ -272,6 +272,8 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 </blockquote>
 
+True believers are not judged under mosaic law like these people will be in the future. A scary thing if they thought they were saved!
+
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
 
@@ -279,9 +281,9 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 > **7:23** then will I declare to them. Jesus says that he will one day exercise the prerogative of condemning people to hell, something that only God can do (cf. note on John 5:22). Though these condemned prophets appeared to belong to Jesus, they were **never truly saved**, for Jesus never knew them (cf. note on Matt. 7:21–23).
 
-<!-- A true believer is someone who has truly repented of their sins and turned to God. They do not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21 NLT), and their life is filled with the fruit of the spirit (Gal 5:22-23). The Bible makes it clear that everyone receives the Holy Spirit the moment he or she believes in Jesus Christ (Romans 8:9; 1 Corinthians 12:13; Ephesians 1:13-14). -->
+<!-- A true believer is someone who has truly repented of their sins and turned to God. They do not make a **practice** of sin (1Jn 3:9-10 ESV; Gal 5:19-21), and their life is filled with the fruit of the spirit (Gal 5:22-23). The Bible makes it clear that everyone receives the Holy Spirit the moment he or she believes in Jesus Christ (Romans 8:9; 1 Corinthians 12:13; Ephesians 1:13-14). -->
 
-<!-- This is how we prove that we are truly of God (Mt 3:8 NLT), and that  -->
+<!-- This is how we prove that we are truly of God (Mt 3:8), and that  -->
 
 
 <!-- <blockquote cite="https://www.biblegateway.com/passage/?search=John+3%3A16&version=NLT"> 
@@ -290,7 +292,7 @@ The Bible goes even further and adds that not only should we be showing evidence
 
 </blockquote> -->
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.” — John 3:16 NLT <a href="https://twitter.com/hashtag/Jesus?src=hash&amp;ref_src=twsrc%5Etfw">#Jesus</a> <a href="https://twitter.com/hashtag/Bible?src=hash&amp;ref_src=twsrc%5Etfw">#Bible</a> <a href="https://t.co/LSnq4oH1QE">pic.twitter.com/LSnq4oH1QE</a></p>&mdash; 𝕊𝕙𝕖𝕡𝕙𝕖𝕣𝕕 𝕄𝕚𝕟𝕚𝕤𝕥𝕣𝕚𝕖𝕤 ✝️ (@SevenShepherd) <a href="https://twitter.com/SevenShepherd/status/1612536262434365454?ref_src=twsrc%5Etfw">January 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.” — John 3:16 <a href="https://twitter.com/hashtag/Jesus?src=hash&amp;ref_src=twsrc%5Etfw">#Jesus</a> <a href="https://twitter.com/hashtag/Bible?src=hash&amp;ref_src=twsrc%5Etfw">#Bible</a> <a href="https://t.co/LSnq4oH1QE">pic.twitter.com/LSnq4oH1QE</a></p>&mdash; 𝕊𝕙𝕖𝕡𝕙𝕖𝕣𝕕 𝕄𝕚𝕟𝕚𝕤𝕥𝕣𝕚𝕖𝕤 ✝️ (@SevenShepherd) <a href="https://twitter.com/SevenShepherd/status/1612536262434365454?ref_src=twsrc%5Etfw">January 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <!-- <div class="mt" style="font-size:21px;">꧁ Romans 6:23 ꧂</div>
 
@@ -396,23 +398,23 @@ So in conclusion, let us not give unrepentant sinners false hope; rather, let us
 
 <!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
 
-> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 NLT
+> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23
 
-The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT). -->
+The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21). -->
 
 <!-- I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.** -->
 
-<!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20 NLT
+<!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20
 
-For “Everyone who calls on the name of the Lord will be saved.” ~Romans 10:13 NLT
+For “Everyone who calls on the name of the Lord will be saved.” ~Romans 10:13
 
-"I passed on to you what was most important and what had also been passed on to me. Christ died for our sins, just as the Scriptures said. He was buried, and he was raised from the dead on the third day, just as the Scriptures said." ~1 Cor. 15:3-4 NLT
+"I passed on to you what was most important and what had also been passed on to me. Christ died for our sins, just as the Scriptures said. He was buried, and he was raised from the dead on the third day, just as the Scriptures said." ~1 Cor. 15:3-4
 
-"If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved." ~Romans 10:9 NLT
+"If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved." ~Romans 10:9
 
-“I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life." ~John 5:24 NLT
+“I tell you the truth, those who listen to my message and believe in God who sent me have eternal life. They will never be condemned for their sins, but they have already passed from death into life." ~John 5:24
 
-"But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name." ~John 20:31 NLT -->
+"But these are written so that you may continue to believe that Jesus is the Messiah, the Son of God, and that by believing in him you will have life by the power of his name." ~John 20:31 -->
 
 
 <!-- <div class="mt" style="font-size:21px;">꧁ John 20:31 ꧂</div>
@@ -434,23 +436,23 @@ For “Everyone who calls on the name of the Lord will be saved.” ~Romans 10:1
 <!-- <span style="font-style:Italic;font-size:24px;">How Do I Know If I Am A Christian In Name Only?</span>
 
 
-Ti 3:10 NLT
+Ti 3:10
 
 Jer 23:1-3
 
-James 1:12 NLT; 3:1; 4:11 NLT; 4:12 ESV
+James 1:12; 3:1; 4:11; 4:12 ESV
 
-John 1:11,26; 13:35 NLT; 16:1-3
+John 1:11,26; 13:35; 16:1-3
 
-Lk 6:45 NLT
+Lk 6:45
 
 Gal 5:14;19-21;22-23 LSB
 
 Phil 2:3
 
-Mt 5:22 NLT; 12:36 ESV; 24:10; 25:45
+Mt 5:22; 12:36 ESV; 24:10; 25:45
 
-Pr 10:18; 11:9,12; 16:28 NLT; 20:19 ESV; 23:9
+Pr 10:18; 11:9,12; 16:28; 20:19 ESV; 23:9
 
 Ps 101:5 ESV
 
@@ -458,18 +460,18 @@ Ps 101:5 ESV
 
 2 Tim 3:1-5
 
-1 Pe 2:1 NLT
+1 Pe 2:1
 
-|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10|
 |Do not associate with the slanderer.|Proverbs 20:19|
 |Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
 |God will destroy the slanderer.|Psalm 101:5|
 |**Whoever utters slander is a fool.**|Proverbs 10:18|
-|By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28|
 |Every careless word will be judged.|Matthew 12:36|
 |By Judging others, you judge God's law.|James 4:11|
 |Who are you to judge another?|James 4:12|
-|Evil words come from an evil heart.|Lk 6:45 NLT|
+|Evil words come from an evil heart.|Lk 6:45|
 |Those who endure persecution will receive the crown of life.|James 1:12|
 |Insulting others has dire consequences.|Matthew 5:22|
 |An admonition to false teachers.|Jeremiah 23:1-3|
@@ -483,7 +485,7 @@ Ps 101:5 ESV
 <!-- <script>
 	var refTagger = {
 		settings: {
-			bibleVersion: 'ESV'
+			bibleVersion: 'NLT'
 		}
 	}; 
 
@@ -500,7 +502,7 @@ Ps 101:5 ESV
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 // Additional settings
-BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.Translation = 'NLT';
 BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
 BLB.Tagger.HideTanslationAbbrev = false;
 BLB.Tagger.TargetNewWindow = true;
