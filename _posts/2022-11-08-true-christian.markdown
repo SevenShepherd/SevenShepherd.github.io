@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:55:00 -0500
+date: 2023-01-01 03:00:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -64,7 +64,7 @@ If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), a
 
 <!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
-In this article we examine the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path leads to the practice of sin and the other to soteriological sanctification. 
+In this article we examine the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path leads to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
 
 <!-- Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified? -->
 
