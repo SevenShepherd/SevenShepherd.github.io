@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 02:25:25 -0500
+date: 2023-01-01 02:30:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -52,17 +52,21 @@ published: true
 
 </blockquote>
 
-The Bible teaches that **true believers** are saved by grace and justified through faith (Eph 2:8-9), and that faith is accounted for as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. 
+The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1; Gal. 3:24), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:26). If your faith is dead, how can you be justified?
+
+Jesus reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8 NLT). Jesus also taught that you could identify people by their actions (Matthew 7:16-21 NLT). 
+
+If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal. 5:19-21 NLT), it is possible that they have fooled themselves (Ja 1:22 NLT), becoming false professors (2Pe 2:21-22).
+
+<!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
 <!-- In this article we are not examining justification or glorification. We're examining sanctification vs lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT).  -->
 
-In this article we're examining the difference between lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) and justification, the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification.
+<!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23 NLT), and instead is full of the works of the flesh (Gal. 5:19-21 NLT), it is highly likely that they have fooled themselves (Ja 1:22 NLT).
+In this article we examine the difference between lip service (Tit 1:16; Is 29:13 NLT; Mt 15:8 NLT) and justification. One path leads to the practice of sin and the other to soteriological sanctification. 
 
-As Jesus reprimanded the pharisees, who also believed in God, you must produce fruit that proves your repentance (Mt 3:8 NLT). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21 NLT). 
-
-So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified?
+<!-- Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified? -->
 
 <div class="mt">TRUE CHRISTIANS DO NOT PRACTICE SIN</div>
 
