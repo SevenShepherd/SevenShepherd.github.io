@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:25:00 -0500
+date: 2023-01-01 03:30:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -38,10 +38,6 @@ published: true
 
 <!-- <div class="mt">OVERVIEW OF SOTERIOLOGY</div> -->
 <div class="mt">SALVATION IS BY GRACE</div>
-
-<!-- Before this article begins I'd like to make clear my soteriological stances, so that there is no misunderstandings about what this ministry is teaching. There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). -->
-
-<!-- Most of my material leans into lordship salvation but the other decent portion is free grace theology. Some of the brightest scholars you'll ever meet fall on both sides of the isle. So i've decided to remain neutral and allow the reader to decide for himself. -->
 
 <div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-9 ꧂</div>
 <!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
@@ -386,25 +382,34 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 </blockquote>
 
+# [NLT Filament Study](https://amzn.to/3CcB5Cu)
+
+> Jas 2:20-26 James demonstrates from Scripture that genuine faith finds expression in action.
+>
+Jas 2:22 This verse explains Jas 2:21 so it won't be misunderstood: Abraham was not justified by **his actions** alone; instead, **his faith and his actions worked together**. This describes the full scope of Abraham's faithful response to God throughout his life (see Gen 12:1-4; 18:1-27).
+> 
+Jas 2:24 **not by faith alone:** That is, not like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17). Though some have thought that this teaching contradicts what Paul taught, it does not. Paul does not speak against good deeds themselves, but about trying to receive forgiveness of sins through good deeds (Rom 3:28; Gal 2:16). Just as Paul understands that love and generosity necessarily issue from a true faith (Gal 5:6), so also James knows that good deeds can result only from authentic faith that results in a commitment to God (Jas 2:18,26).
+>
+Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a physical body (Gen 2:7). We cannot have one without the other.
+
 # [FaithLife Study Bible](https://biblia.com/books/esv/Jas2.24)
 
 > 2:24 justified Here, the Greek term dikaioō means “to vindicate” or “to prove or demonstrate something to be true or just” (see Jas 2:21).
 >
 **by works and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s true conversion will be justified by deeds of Christian love; deeds are the proof of conversion to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
 >>
-In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds. **Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short.** James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
+**In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds.** Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
 
-<!-- <div class="mt">Free Grace Theology vs Lorship Salvation</div> -->
+<!-- <div class="mt">Free Grace Theology vs Lorship Salvation</div>
 
-<!-- <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
+There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other, for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is erroneously referred to as 'works righteousness'.
 
-<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>So then, if anyone is in Christ, he is a new creation; what is old has passed away<span style="color:#bfbfbf;">[a]</span>—look, what is new<span style="color:#bfbfbf;">[b]</span> has come!<span style="color:#bfbfbf;">[c]</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New English Translation (NET)</a></div>
+**Both sides believe that salvation is by grace alone through faith alone**.
 
-</blockquote> -->
+> Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7).
 
-
-<!-- # [CARM](https://carm.org/about-theology/what-is-lordship-salvation-and-is-it-biblical/) -->
-
+# [CARM](https://carm.org/about-theology/what-is-lordship-salvation-and-is-it-biblical/)
+ -->
 
 <div class="mt">Conclusion</div>
 
