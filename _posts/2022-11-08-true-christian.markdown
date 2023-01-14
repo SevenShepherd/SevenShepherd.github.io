@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:21:00 -0500
+date: 2023-01-01 03:25:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -52,11 +52,11 @@ published: true
 
 </blockquote>
 
-The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and that faith is credited to us as righteousness (Ro 4:3,9,22; Ja 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,26; Ja 2:24 ESV). If your faith is dead, how can you be justified?
+The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and that faith is credited to us as righteousness (Ro 4:3,9,22; Jam 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,26; Jam 2:24 ESV). If your faith is dead, how can you be justified?
 
 John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10). Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), it is possible that they have fooled themselves (Ja 1:22), becoming false professors (2Pe 2:21-22).
+If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), it is possible that they have fooled themselves (Jam 1:22), becoming false professors (2Pe 2:21-22).
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
@@ -154,9 +154,9 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them. (Ro 1:30 NKJV; Mt 12:36 ESV)
     - *Dogs*&mdash;false professors (2Pe 2:21-22)
     - *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
-    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Ja 3:2-3; Pr 11:9; Ja 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12; Mt 5:22 ESV; Lk 6:45).
+    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Jam 3:2-3; Pr 11:9; Jam 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12; Mt 5:22 ESV; Lk 6:45).
     - *Whisperers*&mdash;those who gossip (Proverbs 16:28).
-    - *Revilers*&mdash;those who use abusive or contemptuous language (Ja 1:26; 1Co 6:10).
+    - *Revilers*&mdash;those who use abusive or contemptuous language (Jam 1:26; 1Co 6:10).
 - Prideful & arrogant (this isn't speaking of confidence)
     - *The Proud*&mdash;those possessing an excessively high opinion of themselves.
     - *Boasters*&mdash;those who exalt self.
@@ -181,7 +181,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Inventors of evil things*&mdash;
     - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9; 1Jn 4:20).
     - *Detestable/The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
-    - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Ja 1:26)
+    - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Jam 1:26)
     - *The wicked*&mdash;those who disregard all morality and moral standards.
     - *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
 - Sexually Immoral
@@ -194,7 +194,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Those whose affections are contrary to the laws of God and nature*&mdash;
 - Other sinful behavior
     - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
-    - *The envious*&mdash;those resentful of others (Mt 27:18; 1Pe 2:1; Ja 3:16; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
+    - *The envious*&mdash;those resentful of others (Mt 27:18; 1Pe 2:1; Jam 3:16; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
     - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
     - *Covenant breakers*&mdash;those who do not keep their word.
     - *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
@@ -260,7 +260,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Ja 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5).
+The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Jam 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5).
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 7:21-23 ꧂</div>
 
@@ -352,7 +352,7 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 > Jesus on another occasion said, "Why do you call me Lord and yet you don’t do the things that I command you?" You see, our problem is that we’ve come to think of the term "Lord" as a name and so we say, "The Lord Jesus Christ" and we think of Lord as His first name, Jesus His middle name and Christ His last name; He’s the Lord Jesus Christ. **But in reality when I say the Lord, you should put a comma there for Lord is not his name; it’s His title. The title that signifies my relationship to Him. <span style="color:#29a329;">He is my Lord, I am his slave; I am his servant, He is my Lord.</span>**
 
 
-<div class="mt">Conclusion</div>
+<div class="mt">GRACE ALONE THROUGH FAITH ALONE</div>
 
 <!-- <div class="mt" style="font-size:21px;">꧁ Galatians 5:22-23 ꧂</div>
 
@@ -369,20 +369,6 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 >
 James 1:22 Being doers of the word, and not hearers only is the only proper response to the Word of God (not only the gospel but the entirety of Scripture), allowing it to take root in one’s life (cf. v. 21). -->
 
-<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
-
-<!-- <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
-
-<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>So then, if anyone is in Christ, he is a new creation; what is old has passed away<span style="color:#bfbfbf;">[a]</span>—look, what is new<span style="color:#bfbfbf;">[b]</span> has come!<span style="color:#bfbfbf;">[c]</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New English Translation (NET)</a></div>
-
-</blockquote> -->
-
-<blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
-
-<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>This means that anyone who belongs to Christ <span style="font-weight:bold;">has become</span> a new person. <span style="font-weight:bold;color:#C70039;">The old life is gone</span>; <span style="font-weight:bold;color:#29a329;">a new life has begun!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
-
-</blockquote>
-
 <!-- <div class="mt" style="font-size:21px;">꧁ James 1:22 ꧂</div> -->
 <!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
 
@@ -397,6 +383,37 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 <blockquote cite="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=ESV;NET;NLT"> 
 
 <div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without good deeds is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. His <span style="font-weight:bold;color:#29a329;">actions made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God by what we do, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
+
+</blockquote>
+
+# [FaithLife Study Bible](https://biblia.com/books/esv/Jas2.24)
+
+> 2:24 justified Here, the Greek term dikaioō means “to vindicate” or “to prove or demonstrate something to be true or just” (see Jas 2:21).
+>
+**by works and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s true conversion will be justified by deeds of Christian love; deeds are the proof of conversion to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
+>>
+In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds. **Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short.** James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
+
+<!-- <div class="mt">Free Grace Theology vs Lorship Salvation</div> -->
+
+<!-- <blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>So then, if anyone is in Christ, he is a new creation; what is old has passed away<span style="color:#bfbfbf;">[a]</span>—look, what is new<span style="color:#bfbfbf;">[b]</span> has come!<span style="color:#bfbfbf;">[c]</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New English Translation (NET)</a></div>
+
+</blockquote> -->
+
+
+<!-- # [CARM](https://carm.org/about-theology/what-is-lordship-salvation-and-is-it-biblical/) -->
+
+
+<div class="mt">Conclusion</div>
+
+<div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
+
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT"> 
+
+<div class='p'> <span class="verse" id="V17" style="font-weight:bold;color:black;">17&#160;</span>This means that anyone who belongs to Christ <span style="font-weight:bold;">has become</span> a new person. <span style="font-weight:bold;color:#C70039;">The old life is gone</span>; <span style="font-weight:bold;color:#29a329;">a new life has begun!</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=2Cor.+5%3A17&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
@@ -490,7 +507,7 @@ Ps 101:5 ESV
 
 2 Thess 2:3 -->
 
-<!-- <script>
+<script>
 	var refTagger = {
 		settings: {
 			bibleVersion: 'NLT'
@@ -505,9 +522,9 @@ Ps 101:5 ESV
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
-</script> -->
+</script>
 
-<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<!-- <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
 // Additional settings
 BLB.Tagger.Translation = 'NLT';
@@ -517,4 +534,4 @@ BLB.Tagger.TargetNewWindow = true;
 BLB.Tagger.Style = 'par'; // 'line' or 'par'
 BLB.Tagger.NoSearchTagNames = ''; // HTML element list
 BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
-</script>
+</script> -->
