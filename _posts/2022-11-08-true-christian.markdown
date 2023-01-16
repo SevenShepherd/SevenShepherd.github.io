@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:35:00 -0500
+date: 2023-01-01 03:40:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -79,9 +79,9 @@ The order of salvation (ordo salutis), plays a big role. Regeneration either pre
 - If **faith proceeds regeneration**, then salvation is obtained by faith in God **and** turning from sin (Mark 1:15). This is teaching that salvation is not by faith alone in Christ alone which amounts to keeping the Law. This is, obviously **false**.
 
 Free grace, on the other hand (systematized in the 1980s with traditional Baptist roots), teaches:
-- a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him. 
-- a sinner can spurn the lordship of Christ and yet lay claim to Him as Savior. 
-- Free grace teaches one can pray the “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”. 
+- A Christian can live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him. 
+- A sinner can spurn the lordship of Christ and yet lay claim to Him as Savior. 
+- One can pray the “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”. 
     
 This is, of course, **false**.
 
