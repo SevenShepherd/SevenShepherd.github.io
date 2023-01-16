@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:45:00 -0500
+date: 2023-01-01 03:50:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -60,7 +60,7 @@ However, the Bible also says that faith without works is dead (James 2:20,26). I
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
-The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to was “works” (erga) of Jewish law, while James was referring to showing one’s faith through doing good deeds.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
+The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of Jewish law, while James was referring to showing one’s faith through doing good deeds.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
 
 James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
 
