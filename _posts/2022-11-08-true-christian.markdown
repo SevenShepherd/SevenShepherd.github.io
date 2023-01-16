@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:50:00 -0500
+date: 2023-01-01 04:04:04 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -87,15 +87,11 @@ This is, of course, **false**.
 
 <!-- > Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7). -->
 
-# Conclusion
-
-I decided to write the conclusion first so there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
+So there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
 
 This comes from the latin phrases known as the *five solas* which represent the core positions of the Protestant Reformation in the 16th century. 
 
 Scripture alone (*Sola Scriptura*), **Christ** alone (*Solus Christus*), **Grace** alone (*Sola Gratia*), **Faith** alone (*Sola Fide*), and the Glory of God alone (*Soli Deo Gloria*). The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church.
-
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
@@ -104,8 +100,6 @@ If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), a
 <!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
 <div class="mt">CONTENT</div>
-
-In this article we examine the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path leads to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
 
 - I. Do Christians Practice Sin?
 - II. How The Bible Defines Sin
@@ -509,6 +503,10 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 </blockquote>
 
 The **evidence** of your salvation by Grace is proven by the way that you live, and works are the byproduct of salvation, not it's cause. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
+
+If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
+
+In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
 
 So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7).
 
