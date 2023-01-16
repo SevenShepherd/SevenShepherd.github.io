@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:30:00 -0500
+date: 2023-01-01 03:35:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -37,7 +37,7 @@ published: true
 </style>
 
 <!-- <div class="mt">OVERVIEW OF SOTERIOLOGY</div> -->
-<div class="mt">SALVATION IS BY GRACE</div>
+<div class="mt">SALVATION</div>
 
 <div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-9 ꧂</div>
 <!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
@@ -48,11 +48,54 @@ published: true
 
 </blockquote>
 
-The Bible teaches that believers are saved by grace (Eph 2:8-9) and justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and that faith is credited to us as righteousness (Ro 4:3,9,22; Jam 2:23; Gal. 3:9). However, the Bible also says, faith without works is dead (James 2:20,22,26; Jam 2:24 ESV). If your faith is dead, how can you be justified?
+The Bible teaches that all have sinned and fallen short of the glory of God (Rom. 3:23), and that no one is righteous (Rom. 3:10). *"God shows his love for us in that while we were still sinners, Christ died for us."* (Rom. 5:8 ESV).
 
-John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8,10). Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
+> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." &mdash; Romans 6:23
 
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), it is possible that they have fooled themselves (Jam 1:22), becoming false professors (2Pe 2:21-22).
+Salvation comes from the Grace of God when we believed (Jn 3:16), we were justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and faith was credited to us as righteousness (Ro 4:3,9,22; Jas 2:23; Gal. 3:9).
+
+# Faith Without Works Is Dead
+
+However, the Bible also says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified by works and not by faith alone."* (James 2:24 ESV). 
+
+<!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
+
+The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to was “works” (erga) of Jewish law, while James was referring to showing one’s faith through doing good deeds.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
+
+James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
+
+<!-- If your faith is dead, are you justified? -->
+
+# Lordship Salvation vs Free Grace Theology
+
+There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms, in a very unchristian fasion, to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'.
+
+I say **sometimes** because there are different variations of Lordship Salvation.
+- Salvation is by faith alone, and nothing more.
+- Salvation is by faith which is accompanied by a submission to the Lordship of Christ and repentance.
+
+The order of salvation (ordo salutis), plays a big role. Regeneration either precedes faith, or faith proceeds regeneration. 
+- If **regeneration precedes faith**, then God is changing the person and enabling him to believe the gospel and repent (2Cor. 5:17). Repentance is the result of God’s regenerative work in us.
+- If **faith proceeds regeneration**, then salvation is obtained by faith in God **and** turning from sin (Mark 1:15). This is teaching that salvation is not by faith alone in Christ alone which amounts to keeping the Law. This is, obviously **false**.
+
+Free grace, on the other hand (systematized in the 1980s with traditional Baptist roots), teaches:
+- a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him. 
+- a sinner can spurn the lordship of Christ and yet lay claim to Him as Savior. 
+- Free grace teaches one can pray the “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”. 
+    
+This is, of course, **false**.
+
+<!-- > Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7). -->
+
+# Conclusion
+
+I decided to write the conclusion fist so there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
+
+This comes from the latin phrases known as the *five solas* which represent the core positions of the Protestant Reformation in the 16th century. 
+
+Scripture alone (*Sola Scriptura*), **Christ** alone (*Solus Christus*), **Grace** alone (*Sola Gratia*), **Faith** alone (*Sola Fide*), and the Glory of God alone (*Soli Deo Gloria*). The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church.
+
+If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
@@ -60,11 +103,21 @@ If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), a
 
 <!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
+<div class="mt">CONTENT</div>
+
 In this article we examine the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path leads to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
+
+- I. Do Christians Practice Sin?
+- II. How The Bible Defines Sin
+- III. Habitual Or Absolute Cessation From Sin?
+- IV. The Way You Live Is Evidence Of Your Salvation
+- V. Jesus Is Our Lord And Master
+- VI. Grace Alone Through Faith Alone
+- VII. Conclusion
 
 <!-- Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified? -->
 
-<div class="mt">TRUE CHRISTIANS DO NOT PRACTICE SIN</div>
+<div class="mt">DO CHRISTIANS PRACTICE SIN?</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
@@ -108,7 +161,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 <!-- <div class="mt">WHAT IS SIN AND HOW DO I AVOID PRACTICING IT?</div> -->
 
-<div class="mt">HOW DOES THE BIBLE DEFINE SIN?</div>
+<div class="mt">HOW THE BIBLE DEFINES SIN</div>
 
 <div class="mt" style="font-size:21px;">꧁ <a href="https://www.biblegateway.com/passage/?search=Rev.%2021%3A8%3B%2022%3A15%3B%20Rom.%201%3A24-32%3B%206%3A23%3B%201%20Cor.%206%3A9-10%3B%20Gal.%205%3A19-21&version=ESV;NET;EXB;NLT">Revelation 21:8</a> ꧂</div>
 
@@ -150,9 +203,9 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them. (Ro 1:30 NKJV; Mt 12:36 ESV)
     - *Dogs*&mdash;false professors (2Pe 2:21-22)
     - *Liars*&mdash;also bearing false witness (John 8:44; Proverbs 6:16-19)
-    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Jam 3:2-3; Pr 11:9; Jam 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12; Mt 5:22 ESV; Lk 6:45).
+    - *Maligners*&mdash;those who speak evil of, defame, or **slander** others (Ro 14:10-11 NIV; Jas 3:2-3; Pr 11:9; Jas 4:11-12; Pr 10:18 ESV; 20:19; 1Pe 2:1; Ps 101:5 ESV; Pr 11:12; Mt 5:22 ESV; Lk 6:45).
     - *Whisperers*&mdash;those who gossip (Proverbs 16:28).
-    - *Revilers*&mdash;those who use abusive or contemptuous language (Jam 1:26; 1Co 6:10).
+    - *Revilers*&mdash;those who use abusive or contemptuous language (Jas 1:26; 1Co 6:10).
 - Prideful & arrogant (this isn't speaking of confidence)
     - *The Proud*&mdash;those possessing an excessively high opinion of themselves.
     - *Boasters*&mdash;those who exalt self.
@@ -177,7 +230,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Inventors of evil things*&mdash;
     - *Murderers*&mdash;those who kill others or ***hate*** as hatred is equivalent to murder (1Jn 3:15; 1Jn 2:9; 1Jn 4:20).
     - *Detestable/The abominable*&mdash;those who engage in wicked practices (Titus 1:16).
-    - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Jam 1:26)
+    - *The malicious*&mdash;those who willfully seek to destroy the person and property of others (Jas 1:26)
     - *The wicked*&mdash;those who disregard all morality and moral standards.
     - *Extortioners*&mdash;those who exact money from or take advantage of others through violence, threats, or misuse of authority.
 - Sexually Immoral
@@ -190,7 +243,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
     - *Those whose affections are contrary to the laws of God and nature*&mdash;
 - Other sinful behavior
     - *The covetous*&mdash;those who desire all things for themselves, especially that which belongs to others (Eph 5:5-8).
-    - *The envious*&mdash;those resentful of others (Mt 27:18; 1Pe 2:1; Jam 3:16; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
+    - *The envious*&mdash;those resentful of others (Mt 27:18; 1Pe 2:1; Jas 3:16; Pr 14:30 ESV; Pr 27:4; 1Co 13:4; Gal 5:26).
     - *Deceivers*&mdash;those who purposely mislead or betray others (2Ti 3:13).
     - *Covenant breakers*&mdash;those who do not keep their word.
     - *The unmerciful*&mdash;those who lack compassion (Eph 4:32)
@@ -201,7 +254,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 <!-- <div class="mt">IS THERE ANY HOPE OF ESCAPE?</div> -->
 <!-- <div class="mt">AM I A CHRISTIAN IF I'M PRACTICING SIN?</div> -->
 
-<div class="mt">ASHAMED OR FALSE CHRISTIANS PRACTICE SIN?</div>
+<div class="mt">HABITUAL OR ABSOLUTE CESSATION FROM SIN</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 Corinthians 6:11 ꧂</div>
 
@@ -250,13 +303,27 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
-<blockquote cite="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT"> 
+<blockquote cite="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span>Prove by the way you live that you have repented of your sins and turned to God. ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
+
+<!-- <div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT">New Living Translation (NLT)</a></div> -->
 
 </blockquote>
 
-The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Jam 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5).
+<!-- The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Jas 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5). -->
+
+John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8). 
+
+# [NLT Filament Study](https://amzn.to/3CcB5Cu)
+
+> 3:8 **Prove... that you have... turned to God** (literally make fruit that accords with repentence): John calls for action and true ethical change; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
+
+# [Faithlife Study Bible](https://biblia.com/books/nlt/Mt3.10)
+
+> 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of fruit as deeds (Jer 24:2).
+>
+fire A symbol of divine wrath. See note on Luke 3:9.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 7:21-23 ꧂</div>
 
@@ -269,6 +336,36 @@ The Bible goes even further and adds that not only should we be showing evidence
 </blockquote>
 
 True believers are not judged under mosaic law like these people will be in the future. A scary thing if they thought they were saved!
+
+# [Faithlife Study Bible](https://biblia.com/books/nlt/Mt7.21)
+
+Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
+
+> 7:16 by their fruits Refers to people’s deeds—the natural outcomes of their choices and inclinations.
+>
+grapes from thorn bushes or figs from thistles Images drawn from horticulture would have resonated with Jesus’ audience, as first-century Palestine was primarily an agrarian society. In the Greek text, this rhetorical question is phrased in a way that expects a negative answer (“Of course not!”).
+>
+7:17 every good tree produces good fruit In other words, teachers of righteousness act righteously.
+>
+a bad tree produces bad fruit False prophets act wickedly in accordance with the nature of their testimony. Jesus repeats these statements for emphasis in the following verse.
+>
+7:19 thrown into the fire See Matt 3:10 and note.
+>
+7:20 you will recognize them by their fruits See v. 16 and note.
+>
+7:21–23 Jesus continues the theme of false prophets, emphasizing the need for obedience to His teaching.
+>
+7:21 Not everyone who says to me, ‘Lord, Lord’ Those who say this acknowledge Jesus as master. The affirmation that Jesus is Lord is meaningless if it is not backed by obedience to God’s will.
+>
+my Father See note on 5:16.
+>
+7:22 On that day Refers to the day of judgment (compare Isa 2:11, 17; Zech 14:4–21; Rev 20:11–15).
+>
+did we not prophesy in your name The three activities mentioned in this verse are associated with the prophetic office.
+>
+7:23 I never knew you Communicates disassociation or estrangement.
+>
+Depart from me, you who practice lawlessness A citation of Psa 6:8.
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
@@ -400,17 +497,6 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 >>
 **In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds.** Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
 
-<!-- <div class="mt">Free Grace Theology vs Lorship Salvation</div>
-
-There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other, for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is erroneously referred to as 'works righteousness'.
-
-**Both sides believe that salvation is by grace alone through faith alone**.
-
-> Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7).
-
-# [CARM](https://carm.org/about-theology/what-is-lordship-salvation-and-is-it-biblical/)
- -->
-
 <div class="mt">Conclusion</div>
 
 <div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
@@ -426,13 +512,10 @@ The **evidence** of your salvation by Grace is proven by the way that you live, 
 
 So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7).
 
-<!-- The Bible tells us that all have sinned and fallen short of the glory of God (Rom. 3:23), and that there is no one who is righteous (Rom. 3:10). 
-
-> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23
+<!-- 
 
 The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21). -->
 
-<!-- I repeat, Christians are saved by Grace. The work of the Holy spirit in the lives of true believers will in fact bare fruit. If thats not happening, it's likely they didn't mean it, and were never really saved in the first place. **Works are the byproduct of salvation, not its cause, which is Grace.** -->
 
 <!-- “Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends." ~Revelation 3:20
 
