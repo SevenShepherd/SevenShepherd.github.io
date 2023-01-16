@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 03:40:00 -0500
+date: 2023-01-01 03:45:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -89,7 +89,7 @@ This is, of course, **false**.
 
 # Conclusion
 
-I decided to write the conclusion fist so there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
+I decided to write the conclusion first so there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
 
 This comes from the latin phrases known as the *five solas* which represent the core positions of the Protestant Reformation in the 16th century. 
 
