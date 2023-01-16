@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 04:04:04 -0500
+date: 2023-01-01 04:10:04 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -68,9 +68,9 @@ James was making the point that we should not be like the demons who merely beli
 
 # Lordship Salvation vs Free Grace Theology
 
-There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms, in a very unchristian fasion, to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'.
+There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'. I say **sometimes** because there are different variations of Lordship Salvation.
 
-I say **sometimes** because there are different variations of Lordship Salvation.
+The controversy is over these two positions on salvation
 - Salvation is by faith alone, and nothing more.
 - Salvation is by faith which is accompanied by a submission to the Lordship of Christ and repentance.
 
@@ -87,11 +87,11 @@ This is, of course, **false**.
 
 <!-- > Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7). -->
 
-So there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith** Lordship Salvation position.
-
-This comes from the latin phrases known as the *five solas* which represent the core positions of the Protestant Reformation in the 16th century. 
+So there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith**. The latin phrases known as the *five solas* represent the core positions of the Protestant Reformation in the 16th century. 
 
 Scripture alone (*Sola Scriptura*), **Christ** alone (*Solus Christus*), **Grace** alone (*Sola Gratia*), **Faith** alone (*Sola Fide*), and the Glory of God alone (*Soli Deo Gloria*). The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church.
+
+It is God who grants repentance (2 Timothy 2:25) and faith (Philippians 1:29). The Lordship of Christ and our repentance are both the natural result of the work of God – not the work of our faith and repentance.
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
