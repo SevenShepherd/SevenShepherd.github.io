@@ -56,12 +56,13 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 - NLT Filament Compact Giant Print
     - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT (Celtic Cross)](https://amzn.to/3knrMcK) + [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
+    - [NLT (Rose Metallic)](https://amzn.to/3kq15E4) + [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    <!-- - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
     <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
