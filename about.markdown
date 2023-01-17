@@ -18,6 +18,10 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
+<!-- <span style="font-style:Italic;font-size:24px;">Theological Positions</span>
+
+We take no hard stances in theological positions, because such positions are man made extrapolations. -->
+
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
@@ -49,7 +53,9 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 <!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
 
 <!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
-- [NLT Filament Compact Giant Print](https://amzn.to/3CcB5Cu)
+- NLT Filament Compact Giant Print
+    - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
@@ -86,7 +92,9 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 <!-- - Readability 62.36%, Literalness 68.74% -->
 
 <!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
-- [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
+- ESV Study Bible: English Standard Version
+    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
@@ -98,7 +106,9 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 <!-- - Readability 66.28%, Literalness 53.94% -->
 
 <!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
-- [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
+- The NET Bible, Full Notes Edition
+    - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
+    - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
