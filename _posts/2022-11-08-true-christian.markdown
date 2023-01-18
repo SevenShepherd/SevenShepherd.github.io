@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:45:45 -0500
+date: 2023-01-01 05:50:50 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -540,7 +540,7 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 </blockquote>
 
-The **evidence** of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes, and even backslide.
+The **evidence** of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
