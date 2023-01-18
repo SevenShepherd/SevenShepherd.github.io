@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:25:25 -0500
+date: 2023-01-01 05:30:30 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -114,7 +114,7 @@ So there is no misunderstandings on what this ministry is teaching; we champion 
 
 <!-- The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church. -->
 
-It is God who grants repentance (2 Timothy 2:25) and faith (Philippians 1:29). The Lordship of Christ and our repentance are both the natural result of the work of God – not the work of our faith and repentance.
+It is God who grants repentance (2Ti 2:25 NET) and faith (Phil 1:29 NET). The Lordship of Christ and our repentance are both the natural result of the work of God – not the work of our faith and repentance.
 
 # Purpose Of This Article
 
@@ -130,7 +130,7 @@ Lastly, let us not give unrepentant sinners false hope; rather, let us declare t
 
 <!-- the former leads to a lifestyle of practicing sin and the latter leads to soteriological sanctification. -->
 
-<div class="mt">CONTENT</div>
+<div class="mt">CONTENTS</div>
 
 - I. Do Christians Practice Sin?
 - II. How The Bible Defines Sin
