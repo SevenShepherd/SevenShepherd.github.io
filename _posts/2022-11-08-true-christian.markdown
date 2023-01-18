@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:50:50 -0500
+date: 2023-01-01 05:55:55 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -146,7 +146,7 @@ Lastly, let us not give unrepentant sinners false hope; rather, let us declare t
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
-The keyword here is <span style="font-size:24px;color:#595959;">practice</span>. A true Christian is incapable of practicing sin. Scholars have defined this as *"living in a continual pattern"*. **This is not the same thing as making a mistake.** This is talking about your habits and lifestyle.
+The keyword here is <span style="font-size:24px;color:#595959;">practice</span>. A true Christian is incapable of practicing sin. Scholars have defined this as *"living in a continual pattern"*. This is talking about your habits and lifestyle. **This is not the same thing as making a mistake.**
 
 <!-- <blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%203:8&version=ESV"> 
 
@@ -323,7 +323,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-**The evidence of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
+**The evidence of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
 <div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
 
@@ -540,7 +540,7 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 </blockquote>
 
-The **evidence** of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
+The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
