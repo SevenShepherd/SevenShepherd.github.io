@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 04:18:04 -0500
+date: 2023-01-01 05:21:21 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -66,7 +66,7 @@ James was making the point that we should not be like the demons who merely beli
 
 <!-- If your faith is dead, are you justified? -->
 
-# Lordship Salvation vs Free Grace Theology
+<!-- # Lordship Salvation vs Free Grace Theology
 
 There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'. I say **sometimes** because there are different versions.
 
@@ -83,15 +83,38 @@ Free grace, on the other hand (systematized in the 1980s with traditional Baptis
 - A sinner can spurn the lordship of Christ and yet lay claim to Him as Savior. 
 - One can pray the “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”. 
     
-This is, of course, **false**.
+This is, of course, **false**. -->
 
 <!-- > Is it possible to be a Christian and live in lifelong carnality, enjoying the pleasures of sin, and never seeking to glorify the Lord who bought him? Can a sinner spurn the lordship of Christ yet lay claim to Him as Savior? Can someone pray a “sinner’s prayer” and go about his life as if nothing had happened and still call himself a “Christian”? **Lordship salvation says “no.”** Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (John 3:7). -->
 
-So there is no misunderstandings on what this ministry is teaching. We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith**. The latin phrases known as the *five solas* represent the core positions of the Protestant Reformation in the 16th century. 
+# By Grace Alone, Through Faith Alone, In Christ Alone.
 
-Scripture alone (*Sola Scriptura*), **Christ** alone (*Solus Christus*), **Grace** alone (*Sola Gratia*), **Faith** alone (*Sola Fide*), and the Glory of God alone (*Soli Deo Gloria*). The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church.
+So there is no misunderstandings on what this ministry is teaching; we champion the core positions of the 16th century Protestant Reformation known as the *five solas*. These latin phrases were developed as a response to heresies found in the Roman Catholic Church, and are more commonly recognized in the Reformed perspective.
+
+<!-- We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith**. The latin phrases known as the *five solas* represent the core positions of the Protestant Reformation in the 16th century.  -->
+
+- Scripture alone (*Sola Scriptura*)
+    - 1Co 4:6
+- Christ alone (*Solus Christus*)
+    - Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18
+- Grace alone (*Sola Gratia*)
+    - Eph 2:8-9; Ti 3:5
+- Faith alone (*Sola Fide*)
+    - Ro 5:1 ESV; Gal. 3:24 ESV
+- Glory of God alone (*Soli Deo Gloria*)
+    - 1Pe 2:24; Is 43:7
+
+<!-- The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church. -->
 
 It is God who grants repentance (2 Timothy 2:25) and faith (Philippians 1:29). The Lordship of Christ and our repentance are both the natural result of the work of God – not the work of our faith and repentance.
+
+# Purpose Of This Article
+
+This articles purpose is to supply a guide for Christians to test themselves, their walk, and their faith as the Bible instructs. It is not written in judgement. We should all inspect ourselves for lip service (Tit 1:16; Is 29:13; Mt 15:8), and false professing (2Pe 2:21-22).
+
+> **Examine yourselves to see if your faith is genuine. Test yourselves.** Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:5&version=ESV;NET;NLT)
+
+Lastly, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
@@ -111,7 +134,7 @@ It is God who grants repentance (2 Timothy 2:25) and faith (Philippians 1:29). T
 
 <!-- Let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7). Faith without works is dead (James 2:26), and if your faith is dead, how can you be justified? -->
 
-<div class="mt">DO CHRISTIANS PRACTICE SIN?</div>
+<div class="mt">I. DO CHRISTIANS PRACTICE SIN?</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 John 3:9-10 ꧂</div>
 
@@ -155,7 +178,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 <!-- <div class="mt">WHAT IS SIN AND HOW DO I AVOID PRACTICING IT?</div> -->
 
-<div class="mt">HOW THE BIBLE DEFINES SIN</div>
+<div class="mt">II. HOW THE BIBLE DEFINES SIN</div>
 
 <div class="mt" style="font-size:21px;">꧁ <a href="https://www.biblegateway.com/passage/?search=Rev.%2021%3A8%3B%2022%3A15%3B%20Rom.%201%3A24-32%3B%206%3A23%3B%201%20Cor.%206%3A9-10%3B%20Gal.%205%3A19-21&version=ESV;NET;EXB;NLT">Revelation 21:8</a> ꧂</div>
 
@@ -248,7 +271,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 <!-- <div class="mt">IS THERE ANY HOPE OF ESCAPE?</div> -->
 <!-- <div class="mt">AM I A CHRISTIAN IF I'M PRACTICING SIN?</div> -->
 
-<div class="mt">HABITUAL OR ABSOLUTE CESSATION FROM SIN</div>
+<div class="mt">III. HABITUAL OR ABSOLUTE CESSATION FROM SIN</div>
 
 <div class="mt" style="font-size:21px;">꧁ 1 Corinthians 6:11 ꧂</div>
 
@@ -283,7 +306,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <!-- <div class="mt">WHAT IS THE FRUIT OF THE SPIRIT?</div> -->
 
-<div class="mt">THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
+<div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
 
 <div class="mt" style="font-size:21px;">꧁ Romans 6:1-2 ꧂</div>
 
@@ -293,7 +316,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-**The evidence of your salvation by Grace (Eph 2:8-9) is proven by the way you live (Mt 3:8). Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
+**The evidence of your repentance, which is the natural outcome of your salvation by Grace is proven by the way that you live (Mt 3:8), and works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
@@ -401,7 +424,7 @@ Depart from me, you who practice lawlessness A citation of Psa 6:8.
 
 </blockquote> -->
 
-<div class="mt">JESUS IS OUR LORD AND MASTER</div>
+<div class="mt">V. JESUS IS OUR LORD AND MASTER</div>
 
 
 <div class="mt" style="font-size:21px;">꧁ Luke 6:46; Rom. 6:17–18 ꧂</div>
@@ -439,7 +462,7 @@ The NT has a variety of terms that refer to the individuals who serve under the 
 > Jesus on another occasion said, "Why do you call me Lord and yet you don’t do the things that I command you?" You see, our problem is that we’ve come to think of the term "Lord" as a name and so we say, "The Lord Jesus Christ" and we think of Lord as His first name, Jesus His middle name and Christ His last name; He’s the Lord Jesus Christ. **But in reality when I say the Lord, you should put a comma there for Lord is not his name; it’s His title. The title that signifies my relationship to Him. <span style="color:#29a329;">He is my Lord, I am his slave; I am his servant, He is my Lord.</span>**
 
 
-<div class="mt">GRACE ALONE THROUGH FAITH ALONE</div>
+<div class="mt">VI. GRACE ALONE THROUGH FAITH ALONE</div>
 
 <!-- <div class="mt" style="font-size:21px;">꧁ Galatians 5:22-23 ꧂</div>
 
@@ -491,7 +514,7 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 >>
 **In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds.** Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
 
-<div class="mt">Conclusion</div>
+<div class="mt">VII. Conclusion</div>
 
 <div class="mt" style="font-size:21px;">꧁ 2Cor. 5:17 ꧂</div>
 
@@ -506,7 +529,7 @@ The **evidence** of your repentance, which is the natural outcome of your salvat
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
-In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
+<!-- In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12).  -->
 
 So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
 
