@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:35:35 -0500
+date: 2023-01-01 05:40:40 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -324,7 +324,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 </blockquote>
 
-**The evidence of your repentance, which is the natural outcome of your salvation by Grace, and is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
+**The evidence of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
 
@@ -533,7 +533,7 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 </blockquote>
 
-The **evidence** of your repentance, which is the natural outcome of your salvation by Grace, and is proven by the way that you live. Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes, and even backslide.
+The **evidence** of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes, and even backslide.
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
