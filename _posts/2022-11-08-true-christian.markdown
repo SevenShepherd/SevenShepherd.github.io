@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:40:40 -0500
+date: 2023-01-01 05:45:45 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -167,7 +167,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
 
-> **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning**. Thus the hearts of genuine Christians (those who are truly children of God) have been so transformed that **they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
+> **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians (those who are truly children of God) have been so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
@@ -183,6 +183,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 
 > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="color:#C70039;">If you are **practicing** sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
+
 
 <!-- <div class="mt">WHAT IS SIN AND HOW DO I AVOID PRACTICING IT?</div> -->
 
@@ -314,8 +315,6 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <!-- <div class="mt">WHAT IS THE FRUIT OF THE SPIRIT?</div> -->
 
-<div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
-
 <div class="mt" style="font-size:21px;">꧁ Romans 6:1-2 ꧂</div>
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Rom.+6%3A1-2&version=NLT"> 
@@ -326,11 +325,13 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 **The evidence of your repentance, which is the natural outcome of your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
-<div class="mt" style="font-size:21px;">꧁ Matthew 3:10 ꧂</div>
+<div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
+
+<div class="mt" style="font-size:21px;">꧁ Matthew 3:8,10 ꧂</div>
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span>Prove by the way you live that you have repented of your sins and turned to God. ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span><span style="font-weight:bold;color:#C70039;">Prove by the way you live that you have repented of your sins and turned to God.</span> ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
 
 <!-- <div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT">New Living Translation (NLT)</a></div> -->
 
@@ -340,15 +341,21 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8). 
 
+# Chuck Smith
+
+> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show fruit that demonstrates You have truly repented from your sin? ...
+
 # [NLT Filament Study](https://amzn.to/3CcB5Cu)
 
-> 3:8 **Prove... that you have... turned to God** (literally make fruit that accords with repentence): John calls for action and true ethical change; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
+> 3:8 **Prove... that you have... turned to God** (literally make fruit that accords with repentence): <span style="font-weight:bold;color:#29a329;">John calls for action and true ethical change</span>; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
 
 # [Faithlife Study Bible](https://biblia.com/books/nlt/Mt3.10)
 
 > 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of fruit as deeds (Jer 24:2).
 >
 fire A symbol of divine wrath. See note on Luke 3:9.
+
+<!-- <div class="mt">IV.  </div> -->
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 7:21-23 ꧂</div>
 
