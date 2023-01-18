@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:21:21 -0500
+date: 2023-01-01 05:25:25 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -93,7 +93,7 @@ So there is no misunderstandings on what this ministry is teaching; we champion 
 
 <!-- We believe that salvation is **by Grace alone, through faith alone, in Christ alone**. Our stance is that of the **regeneration precedes faith**. The latin phrases known as the *five solas* represent the core positions of the Protestant Reformation in the 16th century.  -->
 
-- Scripture alone (*Sola Scriptura*)
+<!-- - Scripture alone (*Sola Scriptura*)
     - 1Co 4:6
 - Christ alone (*Solus Christus*)
     - Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18
@@ -102,7 +102,15 @@ So there is no misunderstandings on what this ministry is teaching; we champion 
 - Faith alone (*Sola Fide*)
     - Ro 5:1 ESV; Gal. 3:24 ESV
 - Glory of God alone (*Soli Deo Gloria*)
-    - 1Pe 2:24; Is 43:7
+    - 1Pe 2:24; Is 43:7 -->
+
+|Five Solas||
+|:-:|:-:|
+|Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
+|Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
+|Grace alone<br>(*Sola Gratia*)|Eph 2:8-9; Ti 3:5|
+|Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
+|Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
 
 <!-- The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church. -->
 
