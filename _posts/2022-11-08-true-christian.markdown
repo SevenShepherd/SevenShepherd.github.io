@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 04:10:04 -0500
+date: 2023-01-01 04:18:04 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -60,7 +60,7 @@ However, the Bible also says that faith without works is dead (James 2:20,26). I
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
-The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of Jewish law, while James was referring to showing one’s faith through doing good deeds.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
+The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of **Jewish law**, while James was referring to showing one’s faith through doing good **deeds**.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
 
 James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
 
@@ -68,7 +68,7 @@ James was making the point that we should not be like the demons who merely beli
 
 # Lordship Salvation vs Free Grace Theology
 
-There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'. I say **sometimes** because there are different variations of Lordship Salvation.
+There is a very large debate between 'free grace theology', and ['lordship salvation'](https://www.gotquestions.org/lordship-salvation.html). Each extreme has resorted to derogatory terms to refer to the other; for instance 'free grace theology' is referred to as '[easy believism](https://www.gotquestions.org/easy-believism.html)' and 'lordship salvation' is **sometimes** erroneously referred to as 'works righteousness'. I say **sometimes** because there are different versions.
 
 The controversy is over these two positions on salvation
 - Salvation is by faith alone, and nothing more.
@@ -104,7 +104,7 @@ It is God who grants repentance (2 Timothy 2:25) and faith (Philippians 1:29). T
 - I. Do Christians Practice Sin?
 - II. How The Bible Defines Sin
 - III. Habitual Or Absolute Cessation From Sin?
-- IV. The Way You Live Is Evidence Of Your Salvation
+- IV. The Way You Live Is Evidence Of Your Repentance
 - V. Jesus Is Our Lord And Master
 - VI. Grace Alone Through Faith Alone
 - VII. Conclusion
@@ -283,7 +283,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <!-- <div class="mt">WHAT IS THE FRUIT OF THE SPIRIT?</div> -->
 
-<div class="mt">THE WAY YOU LIVE IS EVIDENCE OF YOUR SALVATION</div>
+<div class="mt">THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
 
 <div class="mt" style="font-size:21px;">꧁ Romans 6:1-2 ꧂</div>
 
@@ -335,9 +335,9 @@ True believers are not judged under mosaic law like these people will be in the 
 
 Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
-> 7:16 by their fruits Refers to people’s deeds—the natural outcomes of their choices and inclinations.
+> **7:16 by their fruits Refers to people’s deeds—the natural outcomes of their choices and inclinations.**
 >
-grapes from thorn bushes or figs from thistles Images drawn from horticulture would have resonated with Jesus’ audience, as first-century Palestine was primarily an agrarian society. In the Greek text, this rhetorical question is phrased in a way that expects a negative answer (“Of course not!”).
+grapes from thorn bushes or figs from thistles Images drawn from horticulture would have resonated with Jesus’ audience, as first-century Palestine was primarily an agrarian society. In the Greek text, this rhetorical question is phrased in a way that expects a negative answer (**“Of course not!”**).
 >
 7:17 every good tree produces good fruit In other words, teachers of righteousness act righteously.
 >
@@ -349,7 +349,7 @@ a bad tree produces bad fruit False prophets act wickedly in accordance with the
 >
 7:21–23 Jesus continues the theme of false prophets, emphasizing the need for obedience to His teaching.
 >
-7:21 Not everyone who says to me, ‘Lord, Lord’ Those who say this acknowledge Jesus as master. The affirmation that Jesus is Lord is meaningless if it is not backed by obedience to God’s will.
+**7:21 Not everyone who says to me, ‘Lord, Lord’ Those who say this acknowledge Jesus as master. The affirmation that Jesus is Lord is meaningless if it is not backed by obedience to God’s will.**
 >
 my Father See note on 5:16.
 >
@@ -418,7 +418,7 @@ Depart from me, you who practice lawlessness A citation of Psa 6:8.
 
 </blockquote>
 
-The Apostles are referred to as slaves in the Bible (Rom. 1:1 LSB; Rev. 1:1 LSB; Jude 1:1 LSB). The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[[BLB]](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup>
+The Apostles are referred to as slaves in the Bible (Rom. 1:1 NET; Rev. 1:1 LEB; Jude 1:1 NET). The Greek word for slaves is <span style="font-weight:Bold;color:#00802b;">δοῦλος</span> ([doulos](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)), and is pronounced [🔊 doo'-los](https://youtu.be/MKFLawatxlY).<sup style="font-size:10px;">[[BLB]](https://www.blueletterbible.org/lexicon/g1401/lsb/mgnt/0-1/)</sup>
 
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
@@ -433,7 +433,7 @@ The Apostles are referred to as slaves in the Bible (Rom. 1:1 LSB; Rev. 1:1 LSB;
 
 > Why does the LSB translate “doulos” as “slave”?
 >
-The NT has a variety of terms that refer to the individuals who serve under the authority of another. Doulos denotes a very specific form of servitude: slavery. **The NT uses doulos to describe an individual who is totally subordinate to a master (cf. Matt 8:9 LSB; Matt 24:46 LSB; 2 Pet 2:19 LSB) and even owned by that master (Phile 1:16-19 LSB)**, in contrast to one who is freed (Gal 3:28 LSB). For this reason, the NASB already translated the vast majority of this term as slave. The LSB made this consistent, which brings out how believers are to relate to Christ. **He is our Lord and master (2 Cor 4:5 LSB), and we are His slaves (Rom 1:1 LSB; Phil 1:1 LSB). This underscores His great redemption in buying believers from slavery to sin (Rom 6:16 LSB). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Rom 6:16-17 LSB).** A consistent translation of doulos, in effect, sharpens the very nature of the Christian life.
+The NT has a variety of terms that refer to the individuals who serve under the authority of another. Doulos denotes a very specific form of servitude: slavery. **The NT uses doulos to describe an individual who is totally subordinate to a master (cf. Matt 8:9 NET; Matt 24:46 NET; 2 Pet 2:19 NET) and even owned by that master (Phile 1:16-19 NET)**, in contrast to one who is freed (Gal 3:28 NET). For this reason, the NASB already translated the vast majority of this term as slave. The LSB made this consistent, which brings out how believers are to relate to Christ. **He is our Lord and master (2 Cor 4:5 NET), and we are His slaves (Rom 1:1 NET; Phil 1:1 NET). This underscores His great redemption in buying believers from slavery to sin (Rom 6:16 NET). This also underscores the believer’s absolute surrender to the Lord Jesus Christ (Rom 6:16-17 NET).** A consistent translation of doulos, in effect, sharpens the very nature of the Christian life.
 
 # Chuck Smith C2000
 > Jesus on another occasion said, "Why do you call me Lord and yet you don’t do the things that I command you?" You see, our problem is that we’ve come to think of the term "Lord" as a name and so we say, "The Lord Jesus Christ" and we think of Lord as His first name, Jesus His middle name and Christ His last name; He’s the Lord Jesus Christ. **But in reality when I say the Lord, you should put a comma there for Lord is not his name; it’s His title. The title that signifies my relationship to Him. <span style="color:#29a329;">He is my Lord, I am his slave; I am his servant, He is my Lord.</span>**
@@ -502,13 +502,13 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 </blockquote>
 
-The **evidence** of your salvation by Grace is proven by the way that you live, and works are the byproduct of salvation, not it's cause. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
+The **evidence** of your repentance, which is the natural outcome of your salvation by Grace is proven by the way that you live, and works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes, and even backslide.
 
 If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
 In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12). 
 
-So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: “You must be born again” (Jn 3:7).
+So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
 
 <!-- 
 
