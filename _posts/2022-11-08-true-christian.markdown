@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 6:10:10 -0500
+date: 2023-01-01 7:10:10 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -71,7 +71,7 @@ If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a
 
 <!-- Not only will they not inherit the Kingdom of God (Gal. 5:21), false professors will end up in the lake which burns with fire and brimstone forever. -->
 
-# Faith Without Works Is Dead
+# Faith Without Good Deeds Is Not Genuine Faith
 
 The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified **by works** and not by faith alone."* (James 2:24 ESV). 
 
