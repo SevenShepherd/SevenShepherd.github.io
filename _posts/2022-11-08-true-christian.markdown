@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:12:12 -0500
+date: 2023-01-01 7:20:20 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -200,6 +200,10 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
 
 > b. 1 John 3:9 **tn** The problem of the present tense of ποιεῖ (poiei) here is exactly that of the present tense of ἁμαρτάνει (hamartanei) in 1Jn 3:6. **Here in 3:9 the distinction is sharply drawn between “the one who practices sin” in 3:8, who is of the devil, and “the one who is fathered by God” in 3:9, who “does not practice sin.”** See S. Kubo (“I John 3:9: **Absolute or Habitual?**” ... **sharp antithesis between the recipients (true Christians) and the opponents (heretics)**. ...
+
+# New Oxford Annotated Bible
+
+> 3.1–10: God’s children are holy. 1–3: As God’s children, believers become like Christ (Jn 1.12–13; 13.15–16; 17.16–19). 4–6: Jesus’s coming has taken away the sin of those who remain faithful (1.5–2.2). 7–8: Those who are deceived about sin (2.1) become children of the devil (cf. Jn 8.44). 9–10: **God’s seed: the Holy Spirit (2.26–27) and mutual love (Jn 13.35) distinguish God’s children.**
 
 # [Matthew Henry's Concise Commentary](https://www.biblehub.com/commentaries/1_john/3-9.htm)
 
