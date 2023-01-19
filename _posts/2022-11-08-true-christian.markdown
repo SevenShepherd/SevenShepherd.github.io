@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 05:55:55 -0500
+date: 2023-01-01 6:06:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -50,19 +50,46 @@ published: true
 
 The Bible teaches that all have sinned and fallen short of the glory of God (Rom. 3:23), and that no one is righteous (Rom. 3:10). *"God shows his love for us in that while we were still sinners, Christ died for us."* (Rom. 5:8 ESV).
 
-> "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." &mdash; Romans 6:23
+> "For the wages of sin is death, but the <span style="font-weight:bold;font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." &mdash; Romans 6:23
 
 Salvation comes from the Grace of God when we believed (Jn 3:16), we were justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and faith was credited to us as righteousness (Ro 4:3,9,22; Jas 2:23; Gal. 3:9).
 
+# What Is The Fruit Of The Holy Spirit?
+
+> But the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law. &mdash; Galatians 5:22-23 ESV
+
+The Bible makes it crystal clear that we receive the indwelling of the Holy Spirit the moment we believe in Jesus Christ (Rom. 8:9; 1Cor. 12:13; Eph 1:13-14). The Holy Spirit conforms us to the image of Christ, making us more like Him. We see this manifest in our lives through the <span style="font-weight:bold;color:#e68a00;">fruit</span> that the presence of the Holy Spirit produces.
+
+> By this my Father is glorified, that you <span style="font-weight:bold;color:#e68a00;">bear much fruit and so prove to be my disciples</span>. &mdash; John 15:8 ESV
+
+<!-- >
+**True disciples** will experience a transformed, fruit-bearing life because they live in a relationship of love with both Jesus and the Father (Jn 15:9-10) &mdash; [Filament](https://amzn.to/3CcB5Cu) -->
+
+If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
+
+<!-- They did not lose their salvation, for this is impossible, they were just never saved to begin with. -->
+
+<!-- Not only will they not inherit the Kingdom of God (Gal. 5:21), false professors will end up in the lake which burns with fire and brimstone forever. -->
+
 # Faith Without Works Is Dead
 
-However, the Bible also says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified by works and not by faith alone."* (James 2:24 ESV). 
+The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified **by works** and not by faith alone."* (James 2:24 ESV). 
+
+> So you see, we are shown to be right with God **by what we do**, not by faith alone. &mdash; James 2:24 NLT
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
 The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of **Jewish law**, while James was referring to showing one’s faith through doing good **deeds**.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup> 
 
+> Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and his actions worked together**. ...
+
 James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
+
+<!-- > **8** Therefore produce <span style="font-weight:bold;color:#e68a00;">fruit</span><span style="color:#bfbfbf;">[a]</span> that proves your<span style="color:#bfbfbf;">[b]</span> repentance, ... **10** Even now the ax is laid at<span style="color:#bfbfbf;">[d]</span> the root of the trees, and every tree that does not produce good <span style="font-weight:bold;color:#e68a00;">fruit</span> will be cut down and thrown into the fire. &mdash; [Matt. 3:8-10 NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8-10&version=ESV;NET;NLT)
+>
+a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#e68a00;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#e68a00;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
+
+Not only is it dead, but both John the Baptist and Jesus ([God manifest](https://sevenshepherd.github.io/deity/)) warned that faith that was not accompanied by <span style="font-weight:bold;color:#e68a00;">good deeds</span> would lead to the lake of fire. -->
 
 <!-- If your faith is dead, are you justified? -->
 
@@ -120,7 +147,7 @@ It is God who grants repentance (2Ti 2:25 NET) and faith (Phil 1:29 NET). The Lo
 
 This articles purpose is to supply a guide for Christians to test themselves, their walk, and their faith as the Bible instructs. It is not written in judgement. We should all inspect ourselves for lip service (Tit 1:16; Is 29:13; Mt 15:8), and false professing (2Pe 2:21-22).
 
-> **Examine yourselves to see if your faith is genuine. Test yourselves.** Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:5&version=ESV;NET;NLT)
+> **Examine yourselves to see if your faith is genuine. Test yourselves.** Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2Cor. 13:5 [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:5&version=ESV;NET;NLT)
 
 Lastly, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
 
@@ -331,7 +358,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span><span style="font-weight:bold;color:#C70039;">Prove by the way you live that you have repented of your sins and turned to God.</span> ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span><span style="font-weight:bold;color:#C70039;">Prove by <span style="color:#e68a00;">the way you live</span> that you have repented of your sins and turned to God.</span> ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good <span style="font-weight:bold;color:#e68a00;">fruit</span> will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
 
 <!-- <div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT">New Living Translation (NLT)</a></div> -->
 
@@ -339,19 +366,24 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <!-- The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Jas 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5). -->
 
-John the Baptist reprimanded the pharisees, who also believed in God, that they must produce fruit that proves their repentance (Mt 3:8). 
+John the Baptist reprimanded the pharisees, who also believed in God, that they must produce <span style="font-weight:bold;color:#e68a00;">fruit</span> that proves their repentance (Mt 3:8). 
 
 # Chuck Smith
 
-> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show fruit that demonstrates You have truly repented from your sin? ...
+> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show <span style="font-weight:bold;color:#e68a00;">fruit</span> that demonstrates You have truly repented from your sin? ...
+
+# [NET Translators' Notes](https://amzn.to/3WLAgbr)
+[25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+
+> a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#e68a00;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#e68a00;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
 
 # [NLT Filament Study](https://amzn.to/3CcB5Cu)
 
-> 3:8 **Prove... that you have... turned to God** (literally make fruit that accords with repentence): <span style="font-weight:bold;color:#29a329;">John calls for action and true ethical change</span>; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
+> 3:8 **Prove... that you have... turned to God** (literally make <span style="font-weight:bold;color:#e68a00;">fruit</span> that accords with repentence): <span style="font-weight:bold;color:#29a329;">John calls for action and true ethical change</span>; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
 
 # [Faithlife Study Bible](https://biblia.com/books/nlt/Mt3.10)
 
-> 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of fruit as deeds (Jer 24:2).
+> 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of <span style="font-weight:bold;color:#e68a00;">fruit as deeds (Jer 24:2)</span>.
 >
 fire A symbol of divine wrath. See note on Luke 3:9.
 
@@ -377,13 +409,13 @@ Jesus also taught that you could identify people by their actions (Mt 7:16-20, 2
 >
 grapes from thorn bushes or figs from thistles Images drawn from horticulture would have resonated with Jesus’ audience, as first-century Palestine was primarily an agrarian society. In the Greek text, this rhetorical question is phrased in a way that expects a negative answer (**“Of course not!”**).
 >
-7:17 every good tree produces good fruit In other words, teachers of righteousness act righteously.
+7:17 every good tree produces good <span style="font-weight:bold;color:#e68a00;">fruit</span> In other words, teachers of righteousness act righteously.
 >
-a bad tree produces bad fruit False prophets act wickedly in accordance with the nature of their testimony. Jesus repeats these statements for emphasis in the following verse.
+a bad tree produces bad <span style="font-weight:bold;color:#e68a00;">fruit</span> False prophets act wickedly in accordance with the nature of their testimony. Jesus repeats these statements for emphasis in the following verse.
 >
 7:19 thrown into the fire See Matt 3:10 and note.
 >
-7:20 you will recognize them by their fruits See v. 16 and note.
+7:20 you will recognize them by their <span style="font-weight:bold;color:#e68a00;">fruits</span> See v. 16 and note.
 >
 7:21–23 Jesus continues the theme of false prophets, emphasizing the need for obedience to His teaching.
 >
@@ -542,7 +574,7 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone. A true Christian does not practice sin, but a christian going through sanctification can make mistakes.
 
-If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
+If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22).
 
 <!-- In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12).  -->
 
