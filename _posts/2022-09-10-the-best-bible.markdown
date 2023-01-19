@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:23:23 -0500
+date: 2022-09-10 24:34:24 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1101,7 +1101,9 @@ NET Translator Notes:
 
 > Isaiah 7:14 tn **Traditionally, “virgin.”** Because this verse from Isaiah is quoted in Matt 1:23 in connection with Jesus’ birth, the Isaiah passage has been regarded since the earliest Christian times as **a prophecy of Christ’s virgin birth**. Much debate has taken place over the best way to translate this Hebrew term, although ultimately one’s view of the doctrine of the virgin birth of Christ is unaffected. Though the Hebrew word used here (עַלְמָה, ʿalmah) can sometimes refer to a woman who is a virgin (Gen 24:43), it does not carry this meaning inherently. The word is simply the feminine form of the corresponding masculine noun עֶלֶם (ʿelem, “young man”; cf. 1 Sam 17:56; 20:22). The Aramaic and Ugaritic cognate terms are both used of women who are not virgins. The word seems to pertain to age, not sexual experience, and would normally be translated “young woman.” The LXX translator(s) who later translated the Book of Isaiah into Greek sometime between the second and first century b.c., however, rendered the Hebrew term by the more specific **Greek word παρθένος (parthenos), which does mean “virgin”** in a technical sense. This is the Greek term that also appears in the citation of Isa 7:14 in Matt 1:23. **Therefore, regardless of the meaning of the term in the OT context, in the NT Matthew’s usage of the Greek term παρθένος clearly indicates that from his perspective a virgin birth has taken place.**
 
-# The following versions have corrupted the word of God:
+# The following versions have been eliminated:
+
+<!-- # The following versions have corrupted the word of God: -->
 
 1. Common English Bible (CEB) © 2011
 1. Complete Jewish Bible (CJB) © 1998
@@ -1331,75 +1333,67 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
 
-The bibles recommended below are the greatest ever produced. If the LSB should fix this issue, it would immediately be restored to this list.
+Unfortunately this also removed the Expanded Bible from the finalists. It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters...
 
 <span style="font-style:Italic;font-size:32px;">Winners</span>
 
 <span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
-<!-- - Readability 70.08%, Literalness 39.90% -->
-<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
-- [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN)
+- **NLT Filament Compact Giant Print**
+    - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
+    - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
-    - [Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readablilty, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
+These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. The bibles recommended below are the greatest and most accurate ever produced. If the LSB & NRSVUE should fix their issues, they would immediately be restored to the list. <!--Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.-->
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
-<!-- - Readability 62.36%, Literalness 68.74% -->
-
-<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
-- [ESV Study Bible: English Standard Version](https://amzn.to/3WsN0Uw)
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities.
+- **ESV Study Bible: English Standard Version**
+    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
+    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
 
 The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
-<!-- - Readability 66.28%, Literalness 53.94% -->
-
-<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
-- [The NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95.
+- **The NET Bible, Full Notes Edition**
+    - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
+    - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
-<span style="font-style:Italic;font-size:19px;">Expansions</span>
+<!-- <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
 The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
-<!-- - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016) -->
 - [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
     - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
         - Daniel Taylor (Ph.D., Emory).
-    - [Online version](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB) -->
     
-<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
-
-<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
+<!-- <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
-
-<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
-<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
 
 - Interlinear
     - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
@@ -1410,7 +1404,7 @@ This section details even more advanced material for those who want to deep dive
 - Courses
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack) -->
 
 <script>
     var refTagger = {

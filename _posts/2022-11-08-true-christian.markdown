@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:10:10 -0500
+date: 2023-01-01 7:12:12 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -79,7 +79,7 @@ The Bible says that faith without works is dead (James 2:20,26). It even goes as
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
-The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of **Jewish law**, while James was referring to showing one’s faith through doing <span style="font-weight:bold;color:#e68a00;">good deeds</span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
+The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of <span style="font-weight:bold;color:#C70039;">Jewish law</span>, while James was referring to showing one’s faith through doing <span style="font-weight:bold;color:#e68a00;">good deeds</span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
 
 > Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and <span style="color:#e68a00;">his actions</span> worked together**. ...
 
@@ -574,9 +574,12 @@ Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a phys
 
 <!-- The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone.  -->
 # True Disciple of Christ
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> does not **practice** sin (1Jn 3:9-10; Gal. 5:19-21). They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin.
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14). This produces the <span style="font-weight:bold;color:#e68a00;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#e68a00;">prove</span> that you're a <span style="font-weight:bold;color:#800080;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#e68a00;">Fruit refers to deeds</span> not Jewish law (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+- A <span style="font-weight:bold;color:#800080;">True Christian</span> does not **practice** sin (1Jn 3:9-10; Gal. 5:19-21). 
+    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin.
+- A <span style="font-weight:bold;color:#800080;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
+    - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
+- A <span style="font-weight:bold;color:#800080;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
+    - This produces the <span style="font-weight:bold;color:#e68a00;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#e68a00;">prove</span> that you're a <span style="font-weight:bold;color:#800080;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#e68a00;">Fruit refers to deeds</span> not Jewish law (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
 
 <!-- If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22). -->
 

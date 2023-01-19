@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:23:00 -0700
+date: 2021-11-01 12:30:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -98,7 +98,7 @@ There is no one who does good. &mdash; Psalm 14:1 -->
         > "Do not correct a scoffer, lest he hate you;
         Rebuke a wise man, and he will love you.
         Give instruction to a wise man, and he will be still wiser;
-        Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9
+        Teach a just man, and he will increase in learning." &mdash; Proverbs 9:8-9; 29:9
 
         Not to be confused with: `Argumentum ad lapidem` or an `appeal to the stone` which is defined as, dismissing a claim as absurd without demonstrating proof for its absurdity. Ad lapidem is only a relevance fallacy and not of the red herring subtype. Notice the difference between ad absurdum and ad lapidem, one is ridiculing and irrelevant while the other is simply irrelevant.
 
