@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:20:20 -0500
+date: 2023-01-01 7:25:25 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -73,13 +73,14 @@ If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a
 
 # Faith Without Good Deeds Is Not Genuine Faith
 
-The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified **by works** and not by faith alone."* (James 2:24 ESV). 
+The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified <span style="font-weight:bold;color:#e68a00;">by works</span> and not by faith alone."* (James 2:24 ESV). 
 
 > So you see, we are shown to be right with God <span style="font-weight:bold;color:#e68a00;">by what we do</span>, not by faith alone. &mdash; James 2:24 NLT
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
-The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of <span style="font-weight:bold;color:#C70039;">Jewish law</span>, while James was referring to showing one’s faith through doing <span style="font-weight:bold;color:#e68a00;">good deeds</span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
+- <span style="color:#cc0000;">The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of <span style="font-weight:bold;">Jewish law</span></span>
+- <span style="color:#e68a00;">While James was referring to showing one’s faith through doing <span style="font-weight:bold;">good deeds</span></span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
 
 > Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and <span style="color:#e68a00;">his actions</span> worked together**. ...
 
@@ -543,7 +544,7 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must do what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without good deeds is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. His <span style="font-weight:bold;color:#29a329;">actions made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God by what we do, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must <span style="font-weight:bold;color:#e68a00;">do</span> what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without <span style="font-weight:bold;color:#e68a00;">good deeds</span> is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. <span style="font-weight:bold;color:#e68a00;">His actions</span> <span style="font-weight:bold;color:#29a329;">made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God <span style="font-weight:bold;color:#e68a00;">by what we do</span>, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without</span> <span style="font-weight:bold;color:#e68a00;">good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
@@ -551,19 +552,19 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 > Jas 2:20-26 James demonstrates from Scripture that genuine faith finds expression in action.
 >
-Jas 2:22 This verse explains Jas 2:21 so it won't be misunderstood: Abraham was not justified by **his actions** alone; instead, **his faith and his actions worked together**. This describes the full scope of Abraham's faithful response to God throughout his life (see Gen 12:1-4; 18:1-27).
+Jas 2:22 This verse explains Jas 2:21 so it won't be misunderstood: Abraham was not justified by <span style="font-weight:bold;color:#e68a00;">his actions</span> alone; instead, **his faith and his <span style="font-weight:bold;color:#e68a00;">actions</span> worked together**. This describes the full scope of Abraham's faithful response to God throughout his life (see Gen 12:1-4; 18:1-27).
 > 
-Jas 2:24 **not by faith alone:** That is, not like the demons who merely believe something is true (Jas 2:19), but by a belief that results in generous deeds like those of God himself (Jas 1:17). Though some have thought that this teaching contradicts what Paul taught, it does not. Paul does not speak against good deeds themselves, but about trying to receive forgiveness of sins through good deeds (Rom 3:28; Gal 2:16). Just as Paul understands that love and generosity necessarily issue from a true faith (Gal 5:6), so also James knows that good deeds can result only from authentic faith that results in a commitment to God (Jas 2:18,26).
+Jas 2:24 not by faith alone: That is, not like the demons who merely believe something is true (Jas 2:19), but by a belief that results in <span style="font-weight:bold;color:#e68a00;">generous deeds</span> like those of God himself (Jas 1:17). Though some have thought that this teaching contradicts what Paul taught, it does not. Paul does not speak against good deeds themselves, but about trying to receive forgiveness of sins through good deeds (Rom 3:28; Gal 2:16). Just as Paul understands that love and generosity necessarily issue from a true faith (Gal 5:6), so also James knows that <span style="font-weight:bold;color:#e68a00;">good deeds</span> can result only from authentic faith that results in a commitment to God (Jas 2:18,26).
 >
-Jas 2:26 **Good works** are as necessary to **faith** as **breath** is to a physical body (Gen 2:7). We cannot have one without the other.
+Jas 2:26 <span style="font-weight:bold;color:#e68a00;">Good works</span> are as necessary to **faith** as **breath** is to a physical body (Gen 2:7). We cannot have one without the other.
 
 # [FaithLife Study Bible](https://biblia.com/books/esv/Jas2.24)
 
 > 2:24 justified Here, the Greek term dikaioō means “to vindicate” or “to prove or demonstrate something to be true or just” (see Jas 2:21).
 >
-**by works and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s true conversion will be justified by deeds of Christian love; deeds are the proof of conversion to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
+<span style="font-weight:bold;color:#e68a00;">by works</span> **and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s <span style="font-weight:bold;color:#e68a00;">true conversion will be justified by deeds</span> of Christian love; <span style="font-weight:bold;color:#e68a00;">deeds are the proof of conversion</span> to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
 >>
-**In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12). In the context of James, erga refers to showing one’s faith through doing good deeds.** Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
+<span style="font-weight:bold;color:#C70039;">In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12).</span> <span style="font-weight:bold;color:#e68a00;">In the context of James, erga refers to showing one’s faith through doing good deeds.</span> Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
 
 <div class="mt">VII. Conclusion</div>
 
