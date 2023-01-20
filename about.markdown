@@ -53,7 +53,8 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 <!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
 
 <!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
-- NLT Filament Compact Giant Print
+
+- **NLT Filament Compact Giant Print**
     - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
@@ -94,10 +95,11 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 <!-- - Readability 62.36%, Literalness 68.74% -->
 
 <!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
-- ESV Study Bible: English Standard Version
+- **ESV Study Bible: English Standard Version**
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, Dallas, etc.
+    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
@@ -108,24 +110,36 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 <!-- - Readability 66.28%, Literalness 53.94% -->
 
 <!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
-- The NET Bible, Full Notes Edition
+
+- **The NET Bible, Full Notes Edition**
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
     
-<span style="font-style:Italic;font-size:19px;">Expansions</span>
+<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
+
+Those of you who would like a third party perspective, this is your Bible.
+
+- **New Oxford Annotated Bible, 5th Edition**
+    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
+    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
+    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
+    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
+    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
+    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
+    
+<!-- <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
 The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
 
-<!-- - [Expanded Bible, Expansions](https://faithgateway.com/products/the-expanded-bible-ebook?variant=33619637371016) -->
 - [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
     - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
         - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
         - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
         - Daniel Taylor (Ph.D., Emory).
-    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB) -->
     
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
