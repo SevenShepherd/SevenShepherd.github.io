@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:44:44 -0500
+date: 2022-09-10 24:45:44 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1147,15 +1147,16 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 
 > To them belong the patriarchs, and from them, by human descent, came <span style="font-weight:Bold;color:Green;">the Christ, who is God over all</span>, blessed forever! Amen. &mdash; Romans 9:5 NET (New English Translation)
 
-# The following versions have been eliminated:
+# The following versions **survived**:
 
-*Notes: These versions of the Bible are actually really good, they should just be looked at as outdated and not using the oldest and best manuscripts.*
+<!-- *Notes: These versions of the Bible are actually really good, they should just be looked at as outdated and not using the oldest and best manuscripts.* -->
 
-*The Expanded Bible (EXB) contains the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
+\**The Expanded Bible (**EXB**) contains the alternate reading of Jude 5 in the footnotes, It would otherwise have been eliminated.*
 
-1. Disciples’ Literal New Testament (DLNT) © 2011
+Of the entire list of 62 Bibles, everything failed the Jude 5 test except the following versions: CSB, DRA, **ESV**, ESVUK, **LSB**, LEB, **NET**, **NLT**, NRSVUE, and WYC.
+
+<!-- 1. Disciples’ Literal New Testament (DLNT) © 2011
 1. Evangelical Heritage Version (EHV) © 2019
-<!-- 1. Expanded Bible (EXB) © 2011 -->
 1. GOD’S WORD Translation (GW) © 1995, 2003, 2013, 2014, 2019, 2020
 1. Holman Christian Standard Bible (HCSB) © 1999, 2000, 2002, 2003, 2009
 1. International Children’s Bible (ICB) © 1986, 1988, 1999, 2015
@@ -1164,7 +1165,7 @@ Here is a [comparison](https://www.biblegateway.com/verse/en/Jude%205). Note: Ho
 1. Names of God Bible (NOG) © 2011
 1. New American Standard Bible (NASB) © 1960, 1971, 1977, 1995, 2020
 1. New American Standard Bible 1995 (NASB1995) © 1960, 1971, 1977, 1995
-1. Tree of Life Version (TLV) © 2015
+1. Tree of Life Version (TLV) © 2015 -->
 
 <!-- <span style="font-style:Italic;font-size:34px;">XIV. A Quick Overview</span>
 
