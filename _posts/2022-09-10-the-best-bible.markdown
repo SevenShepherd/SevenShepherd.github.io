@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:34:24 -0500
+date: 2022-09-10 24:44:44 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1333,7 +1333,7 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
 
-Unfortunately this also removed the Expanded Bible from the finalists. It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters...
+Unfortunately this also removed the Expanded Bible from the finalists. It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters... If The New Oxford Annotated Bible (NOAB) released an update with the NRSVUE, including the fix for Acts, this would be an incredible Bible.
 
 <span style="font-style:Italic;font-size:32px;">Winners</span>
 
@@ -1342,8 +1342,8 @@ Unfortunately this also removed the Expanded Bible from the finalists. It is wor
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
 - **NLT Filament Compact Giant Print**
-    - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
     - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
@@ -1355,7 +1355,24 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
-These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. The bibles recommended below are the greatest and most accurate ever produced. If the LSB & NRSVUE should fix their issues, they would immediately be restored to the list. <!--Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.-->
+These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
+
+<!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
+
+<!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
+<!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
+
+<!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
+
+The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+
+- *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV.
+- Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater)
+
+- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
+    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT) -->
 
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
@@ -1364,7 +1381,8 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - **ESV Study Bible: English Standard Version**
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. The additional 95 leading biblical scholars and teachers come from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, Dallas, etc.
+    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
@@ -1375,9 +1393,21 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 - **The NET Bible, Full Notes Edition**
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    
+<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
+
+Those of you who would like a third party perspective, this is your Bible.
+
+- **New Oxford Annotated Bible, 5th Edition**
+    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
+    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
+    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
+    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
+    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
+    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
     
 <!-- <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
@@ -1390,8 +1420,7 @@ The expansions provided in this Bible are incredibly useful and so I do use the 
         - Daniel Taylor (Ph.D., Emory).
     - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB) -->
     
-
-<!-- <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
@@ -1404,7 +1433,7 @@ This section details even more advanced material for those who want to deep dive
 - Courses
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack) -->
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
 
 <script>
     var refTagger = {

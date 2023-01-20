@@ -55,8 +55,8 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 <!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
 
 - **NLT Filament Compact Giant Print**
-    - [NLT Filament (Compact, Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Filament (Personal, Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
     - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
