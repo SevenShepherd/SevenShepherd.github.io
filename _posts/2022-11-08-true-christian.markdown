@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:25:25 -0500
+date: 2023-01-01 7:30:30 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -56,16 +56,16 @@ Salvation comes from the Grace of God when we believed (Jn 3:16), we were justif
 
 # What Is The Fruit Of The Holy Spirit?
 
-> But the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law. &mdash; Galatians 5:22-23 ESV
+> But the <span style="font-weight:bold;color:#800080;">fruit</span> of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law. &mdash; Galatians 5:22-23 ESV
 
-The Bible makes it crystal clear that we receive the indwelling of the Holy Spirit the moment we believe in Jesus Christ (Rom. 8:9; 1Cor. 12:13; Eph 1:13-14). The Holy Spirit conforms us to the image of Christ, making us more like Him. We see this manifest in our lives through the <span style="font-weight:bold;color:#e68a00;">fruit</span> that the presence of the Holy Spirit produces.
+The Bible makes it crystal clear that we receive the indwelling of the Holy Spirit the moment we believe in Jesus Christ (Rom. 8:9; 1Cor. 12:13; Eph 1:13-14). The Holy Spirit conforms us to the image of Christ, making us more like Him. We see this manifest in our lives through the <span style="font-weight:bold;color:#800080;">fruit</span> that the presence of the Holy Spirit produces.
 
-> By this my Father is glorified, that you <span style="font-weight:bold;color:#e68a00;">bear much fruit and so prove to be my disciples</span>. &mdash; John 15:8 ESV
+> By this my Father is glorified, that you <span style="font-weight:bold;color:#800080;">bear much fruit and so prove to be my disciples</span>. &mdash; John 15:8 ESV
 
 <!-- >
 **True disciples** will experience a transformed, fruit-bearing life because they live in a relationship of love with both Jesus and the Father (Jn 15:9-10) &mdash; [Filament](https://amzn.to/3CcB5Cu) -->
 
-If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
+If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
 
 <!-- They did not lose their salvation, for this is impossible, they were just never saved to begin with. -->
 
@@ -73,24 +73,24 @@ If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a
 
 # Faith Without Good Deeds Is Not Genuine Faith
 
-The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified <span style="font-weight:bold;color:#e68a00;">by works</span> and not by faith alone."* (James 2:24 ESV). 
+The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified <span style="font-weight:bold;color:#800080;">by works</span> and not by faith alone."* (James 2:24 ESV). 
 
-> So you see, we are shown to be right with God <span style="font-weight:bold;color:#e68a00;">by what we do</span>, not by faith alone. &mdash; James 2:24 NLT
+> So you see, we are shown to be right with God <span style="font-weight:bold;color:#800080;">by what we do</span>, not by faith alone. &mdash; James 2:24 NLT
 
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
 - <span style="color:#cc0000;">The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of <span style="font-weight:bold;">Jewish law</span></span>
-- <span style="color:#e68a00;">While James was referring to showing one’s faith through doing <span style="font-weight:bold;">good deeds</span></span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
+- <span style="color:#800080;">While James was referring to showing one’s faith through doing <span style="font-weight:bold;">good deeds</span></span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
 
-> Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and <span style="color:#e68a00;">his actions</span> worked together**. ...
+> Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and <span style="color:#800080;">his actions</span> worked together**. ...
 
-James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in <span style="font-weight:bold;color:#e68a00;">generous deeds</span> like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
+James was making the point that we should not be like the demons who merely believe something is true (Jas 2:19), but by a belief that results in <span style="font-weight:bold;color:#800080;">generous deeds</span> like those of God himself (Jas 1:17).<sup>[[Filament]](https://amzn.to/3CcB5Cu)</sup>
 
-<!-- > **8** Therefore produce <span style="font-weight:bold;color:#e68a00;">fruit</span><span style="color:#bfbfbf;">[a]</span> that proves your<span style="color:#bfbfbf;">[b]</span> repentance, ... **10** Even now the ax is laid at<span style="color:#bfbfbf;">[d]</span> the root of the trees, and every tree that does not produce good <span style="font-weight:bold;color:#e68a00;">fruit</span> will be cut down and thrown into the fire. &mdash; [Matt. 3:8-10 NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8-10&version=ESV;NET;NLT)
+<!-- > **8** Therefore produce <span style="font-weight:bold;color:#800080;">fruit</span><span style="color:#bfbfbf;">[a]</span> that proves your<span style="color:#bfbfbf;">[b]</span> repentance, ... **10** Even now the ax is laid at<span style="color:#bfbfbf;">[d]</span> the root of the trees, and every tree that does not produce good <span style="font-weight:bold;color:#800080;">fruit</span> will be cut down and thrown into the fire. &mdash; [Matt. 3:8-10 NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8-10&version=ESV;NET;NLT)
 >
-a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#e68a00;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#e68a00;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
+a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#800080;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#800080;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
 
-Not only is it dead, but both John the Baptist and Jesus ([God manifest](https://sevenshepherd.github.io/deity/)) warned that faith that was not accompanied by <span style="font-weight:bold;color:#e68a00;">good deeds</span> would lead to the lake of fire. -->
+Not only is it dead, but both John the Baptist and Jesus ([God manifest](https://sevenshepherd.github.io/deity/)) warned that faith that was not accompanied by <span style="font-weight:bold;color:#800080;">good deeds</span> would lead to the lake of fire. -->
 
 <!-- If your faith is dead, are you justified? -->
 
@@ -363,7 +363,7 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span><span style="font-weight:bold;color:#C70039;">Prove by <span style="color:#e68a00;">the way you live</span> that you have repented of your sins and turned to God.</span> ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good <span style="font-weight:bold;color:#e68a00;">fruit</span> will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span><span style="font-weight:bold;color:#C70039;">Prove by <span style="color:#800080;">the way you live</span> that you have repented of your sins and turned to God.</span> ... <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good <span style="font-weight:bold;color:#800080;">fruit</span> will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Mt+3%3A8%2C10&version=NLT">New Living Translation (NLT)</a></div>
 
 <!-- <div class='p'> <span class="verse" id="V10" style="font-weight:bold;color:black;">10&#160;</span>Even now <span style="font-weight:bold">the ax of God’s judgment</span> is poised, ready to sever the roots of the trees. <span style="color:#C70039;">Yes, every tree that does not produce good fruit will be chopped down and <span style="font-weight:bold">thrown into the fire</span>.</span> &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+3%3A10&version=NLT">New Living Translation (NLT)</a></div> -->
 
@@ -371,24 +371,24 @@ This is answered definitively by [25+ of the world’s foremost biblical scholar
 
 <!-- The Bible goes even further and adds that not only should we be showing evidence of our salvation by grace through how we live our lives, but that if we don't we're deceiveing ourselves (Jas 1:22). The Bible says that we should test ourselves to see if we're truly in the faith (2 Cor. 13:5). -->
 
-John the Baptist reprimanded the pharisees, who also believed in God, that they must produce <span style="font-weight:bold;color:#e68a00;">fruit</span> that proves their repentance (Mt 3:8). 
+John the Baptist reprimanded the pharisees, who also believed in God, that they must produce <span style="font-weight:bold;color:#800080;">fruit</span> that proves their repentance (Mt 3:8). 
 
 # Chuck Smith
 
-> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show <span style="font-weight:bold;color:#e68a00;">fruit</span> that demonstrates You have truly repented from your sin? ...
+> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show <span style="font-weight:bold;color:#800080;">fruit</span> that demonstrates You have truly repented from your sin? ...
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
 
-> a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#e68a00;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#e68a00;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
+> a. Matthew 3:8 **sn** <span style="font-weight:bold;color:#800080;">Fruit</span> that proves your repentance <span style="font-weight:bold;color:#800080;">refers to the deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers.
 
 # [NLT Filament Study](https://amzn.to/3CcB5Cu)
 
-> 3:8 **Prove... that you have... turned to God** (literally make <span style="font-weight:bold;color:#e68a00;">fruit</span> that accords with repentence): <span style="font-weight:bold;color:#e68a00;">John calls for action and true ethical change</span>; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
+> 3:8 **Prove... that you have... turned to God** (literally make <span style="font-weight:bold;color:#800080;">fruit</span> that accords with repentence): <span style="font-weight:bold;color:#800080;">John calls for action and true ethical change</span>; mere lip service will not do (see Luke 3:10-14; cp. Matthew 5:19-20,46; 7:21; 23:3)
 
 # [Faithlife Study Bible](https://biblia.com/books/nlt/Mt3.10)
 
-> 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of <span style="font-weight:bold;color:#e68a00;">fruit as deeds (Jer 24:2)</span>.
+> 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of <span style="font-weight:bold;color:#800080;">fruit as deeds (Jer 24:2)</span>.
 >
 fire A symbol of divine wrath. See note on Luke 3:9.
 
@@ -410,17 +410,17 @@ True believers are not judged under mosaic law like these people will be in the 
 
 Jesus also taught that you could identify people by their actions (Mt 7:16-20, 21-23). 
 
-> 7:16 <span style="font-weight:bold;color:#e68a00;">by their fruits Refers to people’s deeds</span>**—the natural outcomes of their choices and inclinations.**
+> 7:16 <span style="font-weight:bold;color:#800080;">by their fruits Refers to people’s deeds</span>**—the natural outcomes of their choices and inclinations.**
 >
 grapes from thorn bushes or figs from thistles Images drawn from horticulture would have resonated with Jesus’ audience, as first-century Palestine was primarily an agrarian society. In the Greek text, this rhetorical question is phrased in a way that expects a negative answer (**“Of course not!”**).
 >
-7:17 every good tree produces good <span style="font-weight:bold;color:#e68a00;">fruit</span> In other words, teachers of righteousness act righteously.
+7:17 every good tree produces good <span style="font-weight:bold;color:#800080;">fruit</span> In other words, teachers of righteousness act righteously.
 >
-a bad tree produces bad <span style="font-weight:bold;color:#e68a00;">fruit</span> False prophets act wickedly in accordance with the nature of their testimony. Jesus repeats these statements for emphasis in the following verse.
+a bad tree produces bad <span style="font-weight:bold;color:#800080;">fruit</span> False prophets act wickedly in accordance with the nature of their testimony. Jesus repeats these statements for emphasis in the following verse.
 >
 7:19 thrown into the fire See Matt 3:10 and note.
 >
-7:20 you will recognize them by their <span style="font-weight:bold;color:#e68a00;">fruits</span> See v. 16 and note.
+7:20 you will recognize them by their <span style="font-weight:bold;color:#800080;">fruits</span> See v. 16 and note.
 >
 7:21–23 Jesus continues the theme of false prophets, emphasizing the need for obedience to His teaching.
 >
@@ -544,7 +544,7 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=ESV;NET;NLT"> 
 
-<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must <span style="font-weight:bold;color:#e68a00;">do</span> what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without <span style="font-weight:bold;color:#e68a00;">good deeds</span> is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. <span style="font-weight:bold;color:#e68a00;">His actions</span> <span style="font-weight:bold;color:#29a329;">made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God <span style="font-weight:bold;color:#e68a00;">by what we do</span>, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without</span> <span style="font-weight:bold;color:#e68a00;">good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">1:22&#160;</span>But don’t just listen to God’s word. You must <span style="font-weight:bold;color:#800080;">do</span> what it says. <span style="font-weight:bold;">Otherwise, you are only fooling yourselves.</span> ... <span class="verse" id="V20" style="font-weight:bold;color:black;">2:20&#160;</span>How foolish! Can’t you see that faith without <span style="font-weight:bold;color:#800080;">good deeds</span> is useless? ... <span class="verse" id="V22" style="font-weight:bold;color:black;">2:22&#160;</span> You see, his faith and his actions worked together. <span style="font-weight:bold;color:#800080;">His actions</span> <span style="font-weight:bold;color:#29a329;">made his faith complete</span>. ... <span class="verse" id="V24" style="font-weight:bold;color:black;">2:24&#160;</span> So you see, we are shown to be right with God <span style="font-weight:bold;color:#800080;">by what we do</span>, <span style="font-weight:bold;color:#C70039;">not by faith alone</span>. ... <span class="verse" id="V26" style="font-weight:bold;color:black;">2:26&#160;</span> Just as the body is dead without breath,<span style="color:#bfbfbf;">[a]</span> so also <span style="font-weight:bold;color:#C70039;">faith is dead without</span> <span style="font-weight:bold;color:#800080;">good works</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=Jam+2%3A20%2C22%2C24%2C26&version=NLT">New Living Translation (NLT)</a></div>
 
 </blockquote>
 
@@ -552,19 +552,19 @@ James 1:22 Being doers of the word, and not hearers only is the only proper resp
 
 > Jas 2:20-26 James demonstrates from Scripture that genuine faith finds expression in action.
 >
-Jas 2:22 This verse explains Jas 2:21 so it won't be misunderstood: Abraham was not justified by <span style="font-weight:bold;color:#e68a00;">his actions</span> alone; instead, **his faith and his <span style="font-weight:bold;color:#e68a00;">actions</span> worked together**. This describes the full scope of Abraham's faithful response to God throughout his life (see Gen 12:1-4; 18:1-27).
+Jas 2:22 This verse explains Jas 2:21 so it won't be misunderstood: Abraham was not justified by <span style="font-weight:bold;color:#800080;">his actions</span> alone; instead, **his faith and his <span style="font-weight:bold;color:#800080;">actions</span> worked together**. This describes the full scope of Abraham's faithful response to God throughout his life (see Gen 12:1-4; 18:1-27).
 > 
-Jas 2:24 not by faith alone: That is, not like the demons who merely believe something is true (Jas 2:19), but by a belief that results in <span style="font-weight:bold;color:#e68a00;">generous deeds</span> like those of God himself (Jas 1:17). Though some have thought that this teaching contradicts what Paul taught, it does not. Paul does not speak against good deeds themselves, but about trying to receive forgiveness of sins through good deeds (Rom 3:28; Gal 2:16). Just as Paul understands that love and generosity necessarily issue from a true faith (Gal 5:6), so also James knows that <span style="font-weight:bold;color:#e68a00;">good deeds</span> can result only from authentic faith that results in a commitment to God (Jas 2:18,26).
+Jas 2:24 not by faith alone: That is, not like the demons who merely believe something is true (Jas 2:19), but by a belief that results in <span style="font-weight:bold;color:#800080;">generous deeds</span> like those of God himself (Jas 1:17). Though some have thought that this teaching contradicts what Paul taught, it does not. Paul does not speak against good deeds themselves, but about trying to receive forgiveness of sins through good deeds (Rom 3:28; Gal 2:16). Just as Paul understands that love and generosity necessarily issue from a true faith (Gal 5:6), so also James knows that <span style="font-weight:bold;color:#800080;">good deeds</span> can result only from authentic faith that results in a commitment to God (Jas 2:18,26).
 >
-Jas 2:26 <span style="font-weight:bold;color:#e68a00;">Good works</span> are as necessary to **faith** as **breath** is to a physical body (Gen 2:7). We cannot have one without the other.
+Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as necessary to **faith** as **breath** is to a physical body (Gen 2:7). We cannot have one without the other.
 
 # [FaithLife Study Bible](https://biblia.com/books/esv/Jas2.24)
 
 > 2:24 justified Here, the Greek term dikaioō means “to vindicate” or “to prove or demonstrate something to be true or just” (see Jas 2:21).
 >
-<span style="font-weight:bold;color:#e68a00;">by works</span> **and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s <span style="font-weight:bold;color:#e68a00;">true conversion will be justified by deeds</span> of Christian love; <span style="font-weight:bold;color:#e68a00;">deeds are the proof of conversion</span> to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
+<span style="font-weight:bold;color:#800080;">by works</span> **and not by faith alone** James is not saying that people must perform works in order for God to accept them. Rather, he is asserting that an individual’s <span style="font-weight:bold;color:#800080;">true conversion will be justified by deeds</span> of Christian love; <span style="font-weight:bold;color:#800080;">deeds are the proof of conversion</span> to other people, and they are the natural result of being faithful to God. Deeds demonstrate the validity of a person’s profession of faith.
 >>
-<span style="font-weight:bold;color:#C70039;">In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12).</span> <span style="font-weight:bold;color:#e68a00;">In the context of James, erga refers to showing one’s faith through doing good deeds.</span> Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
+<span style="font-weight:bold;color:#C70039;">In the context of Romans and Galatians, “works” (erga) means being obedient to the Jewish law (Rom 3:20, 28; Gal 2:16; 3:10–12).</span> <span style="font-weight:bold;color:#800080;">In the context of James, erga refers to showing one’s faith through doing good deeds.</span> Paul fights the idea that works are the way to be saved, arguing that no one can be saved by works, because all fall short. James is addressing the opposite problem: faith is being used as an excuse not to do any works (not to care for those on the underside of power). Paul also mentions this same problem, agreeing with James that salvation does not mean that Christians stop acting according to God’s standards and doing good by others (Rom 6:15–23). The ot law is not the way Christians come to salvation—salvation comes through belief in God’s faithfulness shown through Christ’s death and resurrection—but it does help Christians understand how to best treat other people.
 
 <div class="mt">VII. Conclusion</div>
 
@@ -579,14 +579,14 @@ Jas 2:26 <span style="font-weight:bold;color:#e68a00;">Good works</span> are as 
 
 <!-- The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone.  -->
 # True Disciple of Christ
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> does not **practice** sin (1Jn 3:9-10; Gal. 5:19-21). 
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10; Gal. 5:19-21). 
     - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin.
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
     - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
-- A <span style="font-weight:bold;color:#800080;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
-    - This produces the <span style="font-weight:bold;color:#e68a00;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#e68a00;">prove</span> that you're a <span style="font-weight:bold;color:#800080;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#e68a00;">Fruit refers to deeds</span> not Jewish law (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
+    - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> not Jewish law (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
 
-<!-- If a Christian's life is devoid of the <span style="font-weight:bold;color:#e68a00;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22). -->
+<!-- If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22). -->
 
 <!-- In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12).  -->
 
