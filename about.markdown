@@ -76,18 +76,6 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 <!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
 <!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
 
-<!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
-
-The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
-
-- *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV.
-- Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater)
-
-- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT) -->
-
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
@@ -117,30 +105,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
-    
-<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a third party perspective, this is your Bible.
-
-- **New Oxford Annotated Bible, 5th Edition**
-    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
-    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
-    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
-    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
-    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
-    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
-    
-<!-- <span style="font-style:Italic;font-size:19px;">Expansions</span>
-
-The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
-
-- [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
-        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
-        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
-        - Daniel Taylor (Ph.D., Emory).
-    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB) -->
-    
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
@@ -162,6 +127,54 @@ This section details even more advanced material for those who want to deep dive
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
     - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+
+
+<span style="font-style:Italic;font-size:24px;">Other Recommendations</span>
+
+I've decided to add this section, because these options, while not as perfect as those mentioned above, are still incredibly useful.
+
+<span style="font-style:Italic;font-size:19px;">Annotations</span>
+
+Those of you who would like a secular, university level, third party perspective, this is your Bible. This is the closest of the "Other recommendations" to being added to the main list, since all that separates it, it a footnote or two.
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
+
+- **New Oxford Annotated Bible, 5th Edition**
+    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
+    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
+    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
+    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
+    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
+    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach.
+    
+<span style="font-style:Italic;font-size:19px;">Expansions</span>
+
+The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions. 
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The Expanded Bible (EXB): 1) Not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes. 2) Deut. 32:8 should allude to the "sons of God" or "Heavenly assembly/court".</sup>
+
+- **Expanded Bible (EXB)**
+    - [Expanded Bible (Hardcover)](https://amzn.to/3vlMXy5)
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
+        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
+        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
+        - Daniel Taylor (Ph.D., Emory).
+    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    
+<span style="font-style:Italic;font-size:19px;">Primary NT w/ Psalms & Proverbs</span>
+
+The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was already considered by scholars as the most literal version of the Bible ever produced. I sometimes carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
+
+<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
+<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
+
+- **Legacy Standard Bible (LSB)**
+    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
+    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <!-- - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online. -->
 
