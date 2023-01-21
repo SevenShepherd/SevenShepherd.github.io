@@ -135,7 +135,7 @@ I've decided to add this section, because these options, while not as perfect as
 
 <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a secular, university level, third party perspective, this is your Bible. This is the closest of the "Other recommendations" to being added to the main list, since all that separates it, it a footnote or two.
+Those of you who would like a secular, university level, third party perspective, this is your Bible. Closest to being added to the main list, since all that separates it, is a footnote or two.
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
 
