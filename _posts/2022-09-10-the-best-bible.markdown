@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:45:44 -0500
+date: 2022-09-10 24:50:50 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1340,7 +1340,15 @@ Unfortunately this also removed the Expanded Bible from the finalists. It is wor
 
 <span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
+<!-- - Readability 70.08%, Literalness 39.90% -->
+<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
+
+<!-- - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ) -->
+<!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
+
+<!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
 
 - **NLT Filament Compact Giant Print**
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
@@ -1353,6 +1361,7 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
     - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
+    <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
@@ -1363,22 +1372,13 @@ These highly recommended versions and studies push the limits of our understandi
 <!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
 <!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
 
-<!-- <span style="font-style:Italic;font-size:19px;">Primary Bible</span>
-
-The Legacy Standard Bible is a worthy update to the NASB '95, which was already considered by scholars as the most accurate version of the Bible ever produced. I carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
-
-- *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV.
-- Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater)
-
-- The [Legacy Standard Bible (LSB)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT) -->
-
 <span style="font-style:Italic;font-size:19px;">Study Bible</span>
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
+<!-- - Readability 62.36%, Literalness 68.74% -->
+
+<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
 - **ESV Study Bible: English Standard Version**
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
@@ -1391,39 +1391,27 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
+<!-- - Readability 66.28%, Literalness 53.94% -->
+
+<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
+
 - **The NET Bible, Full Notes Edition**
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
     - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
-    
-<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a third party perspective, this is your Bible.
+<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
-- **New Oxford Annotated Bible, 5th Edition**
-    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
-    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
-    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
-    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
-    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
-    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
-    
-<!-- <span style="font-style:Italic;font-size:19px;">Expansions</span>
-
-The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions.
-
-- [Expanded Bible, Expansions](https://amzn.to/3vlMXy5)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
-        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
-        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
-        - Daniel Taylor (Ph.D., Emory).
-    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB) -->
-    
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
+<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
+
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+
+<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
+<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
 
 - Interlinear
     - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
@@ -1435,6 +1423,54 @@ This section details even more advanced material for those who want to deep dive
     - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
     - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
     - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+
+
+<span style="font-style:Italic;font-size:24px;">Other Recommendations</span>
+
+I've decided to add this section, because these options, while not as perfect as those mentioned above, are still incredibly useful.
+
+<span style="font-style:Italic;font-size:19px;">Annotations</span>
+
+Those of you who would like a secular, university level, third party perspective, this is your Bible. Closest to being added to the main list, since all that separates it, is a footnote or two.
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
+
+- **New Oxford Annotated Bible, 5th Edition**
+    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
+    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
+    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
+    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
+    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
+    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach.
+    
+<span style="font-style:Italic;font-size:19px;">Expansions</span>
+
+The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions. 
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The Expanded Bible (EXB): 1) Not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes. 2) Deut. 32:8 should allude to the "sons of God" or "Heavenly assembly/court".</sup>
+
+- **Expanded Bible (EXB)**
+    - [Expanded Bible (Hardcover)](https://amzn.to/3vlMXy5)
+    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
+        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
+        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
+        - Daniel Taylor (Ph.D., Emory).
+    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
+    
+<span style="font-style:Italic;font-size:19px;">Primary NT w/ Psalms & Proverbs</span>
+
+The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was already considered by scholars as the most literal version of the Bible ever produced. I sometimes carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
+
+<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
+
+<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
+<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
+
+- **Legacy Standard Bible (LSB)**
+    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
+    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
+    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <script>
     var refTagger = {
