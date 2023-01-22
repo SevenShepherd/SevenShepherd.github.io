@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:30:30 -0500
+date: 2023-01-01 7:35:35 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -65,7 +65,7 @@ The Bible makes it crystal clear that we receive the indwelling of the Holy Spir
 <!-- >
 **True disciples** will experience a transformed, fruit-bearing life because they live in a relationship of love with both Jesus and the Father (Jn 15:9-10) &mdash; [Filament](https://amzn.to/3CcB5Cu) -->
 
-If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
+If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
 
 <!-- They did not lose their salvation, for this is impossible, they were just never saved to begin with. -->
 
@@ -579,12 +579,17 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 
 <!-- The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone.  -->
 # True Disciple of Christ
-- A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10; Gal. 5:19-21). 
-    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin.
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> is saved by Grace when they believed (Eph 2:8-9), and they are justified [made right] by faith (Ro 5:1 ESV; Gal. 3:24 ESV).
+    - In other words, it's not by the works of <span style="font-weight:bold;color:#C70039;">Jewish law</span> that you're saved.
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
+    - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> <span style="font-weight:bold;color:#C70039;">not Jewish law</span> (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10 NET; Gal. 5:19-21). 
+    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>NOAB</sup>] resides in him.
+    - Seeds grow! Reminds me of the metaphor of trees that produce fruit.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
     - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
-- A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
-    - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> not Jewish law (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+
+<!-- ; however, if you're truly saved, your salvation will produce fruit, that is good deeds, behavior, actions that prove you're a <span style="font-weight:bold;color:#333399;">True Disciple</span>. This is the natural work of God and not of yourselves. -->
 
 <!-- If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely fooled themselves (James 1:22), becoming false professors (2Pe 2:21-22). -->
 
