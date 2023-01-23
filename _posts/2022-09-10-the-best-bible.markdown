@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:55:55 -0500
+date: 2022-09-11 01:00:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1433,7 +1433,7 @@ I've decided to add this section, because these options, while not as perfect as
 
 <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a more ecumenical, university level, third party perspective, from secular and nonreligious perspectives, this is your Bible. This can be useful in dispelling bias. 
+Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
 

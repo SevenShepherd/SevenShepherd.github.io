@@ -135,7 +135,7 @@ I've decided to add this section, because these options, while not as perfect as
 
 <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a more ecumenical, university level, third party perspective, from secular and nonreligious perspectives, this is your Bible. This can be useful in dispelling bias. 
+Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
 
 <!-- Closest to being added to the main list, since all that separates it, is a footnote or two. -->
 
