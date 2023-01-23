@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-10 24:50:50 -0500
+date: 2022-09-10 24:55:55 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1334,7 +1334,9 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
 
-Unfortunately this also removed the Expanded Bible from the finalists. It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters... If The New Oxford Annotated Bible (NOAB) released an update with the NRSVUE, including the fix for Acts, this would be an incredible Bible.
+Unfortunately this also removed the Expanded Bible from the finalists. 
+
+<!-- It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters... If The New Oxford Annotated Bible (NOAB) released an update with the NRSVUE, including the fix for Acts, this would be an incredible Bible. -->
 
 <span style="font-style:Italic;font-size:32px;">Winners</span>
 
@@ -1431,7 +1433,7 @@ I've decided to add this section, because these options, while not as perfect as
 
 <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
-Those of you who would like a secular, university level, third party perspective, this is your Bible. Closest to being added to the main list, since all that separates it, is a footnote or two.
+Those of you who would like a more ecumenical, university level, third party perspective, from secular and nonreligious perspectives, this is your Bible. This can be useful in dispelling bias. 
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
 
