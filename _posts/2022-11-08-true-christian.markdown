@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:35:35 -0500
+date: 2023-01-01 7:40:40 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -328,20 +328,32 @@ In other words, you <span style="font-weight:bold;color:#29a329;">no longer live
 
 <!-- > "For the wages of sin is death, but the <span style="font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." ~Romans 6:23 -->
 
+<div class="mt" style="font-size:21px;">꧁ 1 John 2:28 ꧂</div>
+
+<blockquote cite="https://www.biblegateway.com/passage/?search=1%20John%202:27-29&version=NKJV"> 
+
+<div class='p'> <span class="verse" id="V28" style="font-weight:bold;color:black;">28&#160;</span>And now, little children, abide in Him, that when He appears, we may have confidence <span style="font-weight:bold;">and not be <span style="color:#C70039;">ashamed</span> before Him at His coming</span>. &mdash; <a href="https://www.biblegateway.com/passage/?search=1%20John%202:27-29&version=NKJV">New King James Version (NKJV)</a></div>
+
+</blockquote>
+
 # Dr. Jack Van Impe
 
-Jack Van Impe makes and interesting statement which raises an important question. Are "Believers" who continue to practice sin, the "ashamed," at Christs coming, or were they never "True Believers" to begin with?
+Jack Van Impe makes and interesting statement which raises an important question. Are "believers" who continue to practice sin, the "<span style="color:#C70039;">ashamed</span>," at Christs coming, or were they never "true believers" to begin with?
 
-> There is no sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"ashamed"* in Christ's presence (1Jn 2:28 KJV).<sup style="font-size:10px;">[JVI]</sup>
+> There is no sin that can keep a **true believer** out of [Heaven](https://sevenshepherd.github.io/heaven/). God's Word clearly states that some Christians will be saved *"so as by fire."* They lose everything except their salvation. Because of it they will be *"<span style="color:#C70039;">ashamed</span>"* in Christ's presence (1Jn 2:28 KJV).<sup style="font-size:10px;">[JVI]</sup>
 >
-If believers were left behind at the Rapture because of some sin in their lives, who would the *"ashamed"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17).<sup style="font-size:10px;">[JVI]</sup>
+If believers were left behind at the Rapture because of some sin in their lives, who would the *"<span style="color:#C70039;">ashamed</span>"* be at that investigative session? Rewards are lost because of disobedience and disobedience is a sin (Ro 5:19; James 5:17).<sup style="font-size:10px;">[JVI]</sup>
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
-This is answered definitively by [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) of the [NET](https://www.biblegateway.com/passage/?search=1+John+2%3A28&version=NET) bible. Composed of scholars from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+[25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+
+The [NET](https://www.biblegateway.com/passage/?search=1+John+2%3A28&version=NET) Notes takes the context into consideration and also takes a harder stance than Impe. In either case do we really want to be living in a practice of continual sin when God returns?
 
 > d. 1 John 2:28 **tn** Grk “at his coming.” **sn** Have confidence…shrink away from him in shame when he comes back. Once again in the antithetical framework of Johannine thought (that is, the author’s tendency to think in terms of polar opposites), there are only two alternatives, just as there are only two alternatives in John 3:18-21, a key section for the understanding of the present passage in 1 John. **Anyone who does not ‘remain’ demonstrates (just as the opponents demonstrated by their departure from the community in 1Jn 2:19) that <span style="color:#C70039;">whatever profession he has made is false and he is not truly a believer</span>.**
 
+# New Oxford Annotated Bible
 
+> 28–29: At his coming refers to Christ coming in judgment. **Those who remain true to the [Johannine teaching](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Johannine-Theology) have nothing to fear (cf. Jn 3.36)**. 
 
 <!-- <div class="mt">WHAT IS THE PROPER CONDUCT OF A TRUE CHRISTIAN?</div> -->
 
@@ -391,6 +403,14 @@ John the Baptist reprimanded the pharisees, who also believed in God, that they 
 > 3:10 the ax is positioned at the root of the trees An image of impending judgment (compare Matt 7:17–20). It builds on the ot metaphors of a tree as a person (Psa 1:3; Jer 17:8) and of <span style="font-weight:bold;color:#800080;">fruit as deeds (Jer 24:2)</span>.
 >
 fire A symbol of divine wrath. See note on Luke 3:9.
+
+# [Matthew Poole's Commentary](https://www.biblehub.com/commentaries/matthew/3-8.htm)
+
+> You come here and thrust yourselves into a crowd of penitents, but this is not enough, true repentance is not a barren thing; neither are your leaves of external profession a sufficient indication of it, **you must bring forth the fruits of holiness, fruits that may answer the nature of true repentance**. The proper products of habits are called their fruits; thus we read of the fruit of sin, and the fruit of righteousness.
+>
+**Fruits meet** (answerable to amendment of life)
+>
+**for repentance** are works that are the proper product of repentance, or justly answering an external profession of repentance. As faith, so repentance, without works is dead.
 
 <!-- <div class="mt">IV.  </div> -->
 
@@ -583,8 +603,9 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
     - In other words, it's not by the works of <span style="font-weight:bold;color:#C70039;">Jewish law</span> that you're saved.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
     - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> <span style="font-weight:bold;color:#C70039;">not Jewish law</span> (Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET), [Filament](https://amzn.to/3CcB5Cu); Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.21); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+    -  Fruits, repentance and righteous behavior <sup>[Mt. 7:16 [NOAB](https://amzn.to/3XGvXPg)]</sup>
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10 NET; Gal. 5:19-21). 
-    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>NOAB</sup>] resides in him.
+    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>[NOAB](https://amzn.to/3XGvXPg)</sup>] resides in him.
     - Seeds grow! Reminds me of the metaphor of trees that produce fruit.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
     - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
