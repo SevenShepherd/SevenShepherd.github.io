@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:00:00 -0500
+date: 2022-09-11 01:10:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1332,7 +1332,7 @@ English Standard Version (ESV), New English Translation (NET), and New Living Tr
 
 <span style="font-style:Italic;font-size:34px;">XVI. Conclusion</span>
 
-A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "sons of God" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
+A recent update, as of 12/30/2022, has dethroned the LSB and it has subsequently relinquished its crown to the ESV. The litmus test in question has to do with Deut. 32:8 which should read "[sons of God](https://bit.ly/3De5m43)" according to our oldest and best manuscripts found in the DSS. The decision is defended by [Dr. Michael S. Heiser](https://youtu.be/H41Lw2YEY74), [NET Translators' Notes](https://www.biblegateway.com/passage/?search=Deut.%2032%3A8&version=NET), [ESV Study](https://amzn.to/3WsN0Uw), etc.
 
 Unfortunately this also removed the Expanded Bible from the finalists. 
 
