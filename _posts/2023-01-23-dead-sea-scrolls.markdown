@@ -1,0 +1,77 @@
+---
+layout: post
+title: "🫶 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
+date: 2023-01-23 03:00:00 -0500
+categories: methods families
+published: true
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jt8OoMLrAyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence In Deut. 32:8!</span>
+
+The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are much more reliable than the Masoretic Text (MT).
+
+> When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
+
+The only versions of the Bible that survived my previous [list of litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have this correct translation are the: ESV, NET, NOAB (NRSV), and NLT.
+
+# English Standard Version
+
+> When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders<span style="color:#bfbfbf;">[a]</span> of the peoples according to the number of the <span style="font-weight:bold;color:green;">sons of God</span>.<span style="color:#bfbfbf;">[b]</span>
+>
+b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
+>
+&mdash; [English Standard Version](https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A8&version=ESV)
+
+# ESV Study Bible 
+
+> 32:8–9 gave to the nations their inheritance. For example, Edom, Moab, and Ammon in 2:1–23, as well as Israel throughout the book. <span style="font-weight:bold;color:green;">According to the number of the sons of God may suggest that certain angels (“sons of God”; see Job 1:6) are responsible for specific nations, whereas the Lord himself cares for Israel.</span> See also the second esv footnote on v. 8. the LORD’s portion. A term of special affection. See notes on Deut. 4:20 and 18:1–2.
+
+# NET Full Translators' Notes
+
+> When the Most High<span style="color:#bfbfbf;">[a]</span> gave the nations their inheritance, when he divided up humankind,<span style="color:#bfbfbf;">[b]</span> he set the boundaries of the peoples, according to the number of the <span style="font-weight:bold;color:green;">heavenly assembly</span>.<span style="color:#bfbfbf;">[c]</span> 
+>
+&mdash; [New English Translation (NET)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NET)
+
+# NET Full Translators' Notes
+
+> c. Deuteronomy 32:8 tc Heb “the sons of Israel.” The idea, perhaps, is that Israel was central to Yahweh’s purposes and all other nations were arranged and distributed according to how they related to Israel. See S. R. Driver, Deuteronomy (ICC), 355-56. <span style="font-weight:bold;color:red;">For the MT יִשְׂרָאֵל בְּנֵי (bene yisraʾel, “sons of Israel”)</span> <span style="font-weight:bold;color:green;">a Qumran fragment has “sons of God,” while the LXX reads ἀγγέλων θεοῦ (angelōn theou, “angels of God”), presupposing בְּנֵי אֵל (bene ʾel) or בְּנֵי אֵלִים (bene ʾelim). “Sons of God” is undoubtedly the original reading;</span> the MT and LXX have each interpreted it differently. MT assumes that the expression “sons of God” refers to Israel (cf. Hos. 1:10), while LXX has assumed that the phrase refers to the angelic heavenly assembly (Pss 29:1; 89:6; cf. as well Ps 82). The phrase is also attested in Ugaritic, where it refers to the high god El’s divine assembly. According to the latter view, which is reflected in the translation, the Lord delegated jurisdiction over the nations to his angelic host (cf. Dan. 10:13-21), while reserving for himself Israel, over whom he rules directly. For a defense of the view taken here, see M. S. Heiser, “Deuteronomy 32:8 and the Sons of God,” BSac 158 (2001): 52-74.
+
+# New Oxford Annotated Bible, 5th (NRSV)
+
+> When the Most High<sup style="color:#bfbfbf;">a</sup> apportioned the nations, when he divided humankind, he fixed the boundaries of the peoples according to the number of the gods;<sup style="color:#bfbfbf;">b</sup>
+>
+<sup style="color:#bfbfbf;">a</sup>Traditional rendering of Heb Elyon<br>
+<sup style="color:#bfbfbf;">b</sup>QMs Compare Gk Tg: MT the Israelites
+>
+&mdash; [New Revised Standard Version (NRSV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NRSVA)
+
+# NOAB Annotations
+
+> 8: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation.
+
+# New Living Translation (NLT)
+
+> When the Most High assigned lands to the nations, when he divided up the human race, he established the boundaries of the peoples according to the number in his heavenly court.<span style="color:#bfbfbf;">[a]</span>
+>
+a. 32:8 As in Dead Sea Scrolls, which read the number of the <span style="font-weight:bold;color:green;">sons of God</span>, and Greek version, which reads the number of the <span style="font-weight:bold;color:green;">angels of God</span>; Masoretic Text reads the number of the <span style="font-weight:bold;color:red;">sons of Israel</span>.
+>
+&mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NLT)
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'ESV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
