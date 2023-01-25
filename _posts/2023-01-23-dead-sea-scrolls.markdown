@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:40:00 -0500
+date: 2023-01-23 03:45:00 -0500
 categories: methods families
 published: true
 ---
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Jt8OoMLrAyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence In Deut. 32:8!</span>
+<span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
 
-The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are more reliable than the Masoretic Text (MT).
+The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are more reliable than the Masoretic Text (MT). Deut. 32:8 is a reference to Gen. 11:1-9, a time before Israel.
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
