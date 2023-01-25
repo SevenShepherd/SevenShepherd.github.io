@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text"
-date: 2023-01-23 03:50:07 -0500
+title: "📜 The Dead Sea Scrolls And Septuagint Are More Reliable Than The Masoretic Text"
+date: 2023-01-23 04:00:00 -0500
 categories: methods families
 published: true
 ---
@@ -69,6 +69,10 @@ Scholars agree that **no cardinal doctrine is affected** by any viable variant. 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
 Now imagine how much less you have to worry about the OT.
+
+<span style="font-style:Italic;font-size:34px;">Dr. Michael S. Heiser's Peer Reviewed Research</span>
+
+Here is the PDF I located on his [research](/assets/docs/MSHD3217.pdf) mentioned in the video above.
 
 <script>
 	var refTagger = {
