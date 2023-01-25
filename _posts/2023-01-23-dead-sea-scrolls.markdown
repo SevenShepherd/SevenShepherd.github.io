@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:45:00 -0500
+title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text"
+date: 2023-01-23 03:50:07 -0500
 categories: methods families
 published: true
 ---
@@ -62,7 +62,7 @@ a. 32:8 As in Dead Sea Scrolls, which read the number of the <span style="font-w
 >
 &mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NLT)
 
-<span style="font-style:Italic;font-size:34px;">Reliability Of The OT Is Greater Than The NT</span>
+<span style="font-style:Italic;font-size:34px;">Textual Purity Of The OT Is Greater Than The NT's 99.8%</span>
 
 Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
