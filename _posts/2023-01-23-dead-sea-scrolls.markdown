@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:35:00 -0500
+date: 2023-01-23 03:40:00 -0500
 categories: methods families
 published: true
 ---
@@ -52,7 +52,7 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 # [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
 The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
 
-> 8: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation.
+> **8**: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation. **9**: The Lord’s own portion, NRSV has added own in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n.
 
 # [New Living Translation (NLT)](https://amzn.to/3CcB5Cu)
 
