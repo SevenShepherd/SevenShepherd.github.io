@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:00:00 -0500
+date: 2023-01-01 8:10:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -195,7 +195,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 <!-- > **No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God.** 10 By this it is evident who are the children of God, and who are <span style="color:#C70039;">the children of the devil</span>: whoever <span style="color:#C70039;">does not practice righteousness</span> is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:9-10 ([parallel](https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV;NET;EXB;NLT)) -->
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
-200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
+200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, and Dallas.
 
 > **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians (those who are truly children of God) have been so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
 
@@ -204,7 +204,8 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 
 > b. 1 John 3:9 **tn** The problem of the present tense of ποιεῖ (poiei) here is exactly that of the present tense of ἁμαρτάνει (hamartanei) in 1Jn 3:6. **Here in 3:9 the distinction is sharply drawn between “the one who practices sin” in 3:8, who is of the devil, and “the one who is fathered by God” in 3:9, who “does not practice sin.”** See S. Kubo (“I John 3:9: **Absolute or Habitual?**” ... **sharp antithesis between the recipients (true Christians) and the opponents (heretics)**. ...
 
-# New Oxford Annotated Bible
+# [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
+The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
 
 > 3.1–10: God’s children are holy. 1–3: As God’s children, believers become like Christ (Jn 1.12–13; 13.15–16; 17.16–19). 4–6: Jesus’s coming has taken away the sin of those who remain faithful (1.5–2.2). 7–8: Those who are deceived about sin (2.1) become children of the devil (cf. Jn 8.44). 9–10: **God’s seed: the Holy Spirit (2.26–27) and mutual love (Jn 13.35) distinguish God’s children.**
 
@@ -353,7 +354,8 @@ The [NET](https://www.biblegateway.com/passage/?search=1+John+2%3A28&version=NET
 
 > d. 1 John 2:28 **tn** Grk “at his coming.” **sn** Have confidence…shrink away from him in shame when he comes back. Once again in the antithetical framework of Johannine thought (that is, the author’s tendency to think in terms of polar opposites), there are only two alternatives, just as there are only two alternatives in John 3:18-21, a key section for the understanding of the present passage in 1 John. **Anyone who does not ‘remain’ demonstrates (just as the opponents demonstrated by their departure from the community in 1Jn 2:19) that <span style="color:#C70039;">whatever profession he has made is false and he is not truly a believer</span>.**
 
-# New Oxford Annotated Bible
+# [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
+The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
 
 > 28–29: At his coming refers to Christ coming in judgment. **Those who remain true to the [Johannine teaching](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Johannine-Theology) have nothing to fear (cf. Jn 3.36)**. 
 
@@ -459,7 +461,7 @@ did we not prophesy in your name The three activities mentioned in this verse ar
 Depart from me, you who practice lawlessness A citation of Psa 6:8.
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
-200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities; including Cambridge, London, Oxford, and Dallas.
+200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, and Dallas.
 
 > **7:21–23** The kingdom community must guard against not only false prophets (vv. 15–20) but also false disciples. Lord, Lord. **An oral confession of Jesus as Lord does not always indicate a repentant heart.**
 

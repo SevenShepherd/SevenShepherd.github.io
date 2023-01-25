@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:25:00 -0500
+date: 2023-01-23 03:30:00 -0500
 categories: methods families
 published: true
 ---
