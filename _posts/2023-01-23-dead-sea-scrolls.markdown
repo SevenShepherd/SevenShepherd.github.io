@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🫶 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:00:00 -0500
+title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
+date: 2023-01-23 03:12:00 -0500
 categories: methods families
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence In Deut. 32:8!</span>
 
-The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are much more reliable than the Masoretic Text (MT).
+The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are more reliable than the Masoretic Text (MT).
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
@@ -58,6 +58,14 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 a. 32:8 As in Dead Sea Scrolls, which read the number of the <span style="font-weight:bold;color:green;">sons of God</span>, and Greek version, which reads the number of the <span style="font-weight:bold;color:green;">angels of God</span>; Masoretic Text reads the number of the <span style="font-weight:bold;color:red;">sons of Israel</span>.
 >
 &mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NLT)
+
+<span style="font-style:Italic;font-size:34px;">Reliability Of The OT Is Greater Than The NT</span>
+
+Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://youtu.be/NikVdhp0YFs)
+
+Now imagine how much less you have to worry about the OT.
 
 <script>
 	var refTagger = {
