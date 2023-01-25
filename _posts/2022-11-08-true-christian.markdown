@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:40:40 -0500
+date: 2023-01-01 7:45:40 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -65,7 +65,9 @@ The Bible makes it crystal clear that we receive the indwelling of the Holy Spir
 <!-- >
 **True disciples** will experience a transformed, fruit-bearing life because they live in a relationship of love with both Jesus and the Father (Jn 15:9-10) &mdash; [Filament](https://amzn.to/3CcB5Cu) -->
 
-If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). This is what is known as a false professor (2Pe 2:21-22). 
+If a Christian's life is devoid of the <span style="font-weight:bold;color:#800080;">fruit</span> of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). 
+
+<!-- This is what is known as a false professor (2Pe 2:21-22).  -->
 
 <!-- They did not lose their salvation, for this is impossible, they were just never saved to begin with. -->
 
