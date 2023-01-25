@@ -25,6 +25,7 @@ We take no hard stances in theological positions, because such positions are man
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
+- [The DSS, And LXX Are > The Masoretic Text](https://bit.ly/3De5m43)
 - [How Do You Know If You're Saved?](https://bit.ly/3kaNNLx)
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
 - [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
