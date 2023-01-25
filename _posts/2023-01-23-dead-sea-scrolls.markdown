@@ -14,7 +14,7 @@ The fact that Israel didn't even exist at this point in the Bible proves that th
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
-The only versions of the Bible that survived my previous [list of litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have this correct translation are the: ESV, NET, NOAB (NRSV), and NLT.
+The only versions of the Bible that survived my previous [list of litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
 
 # [English Standard Version](https://amzn.to/3WsN0Uw)
 
