@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 7:50:50 -0500
+date: 2023-01-01 8:00:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -82,7 +82,7 @@ The Bible says that faith without works is dead (James 2:20,26). It even goes as
 <!-- Some have thought that this teaching contradicts what Paul taught, it does not.  -->
 
 - <span style="color:#cc0000;">The context reveals that Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) was referring to “works” (erga) of <span style="font-weight:bold;">Jewish law</span></span>
-- <span style="color:#800080;">While James was referring to showing one’s faith through doing <span style="font-weight:bold;">good deeds</span></span>.<sup>[[FaithLife]](https://biblia.com/books/esv/Jas2.24)</sup>
+- <span style="color:#800080;">While James was referring to showing one’s faith through doing <span style="font-weight:bold;">good deeds</span></span>.<sup>[[FSB]](https://biblia.com/books/esv/Jas2.24)</sup>
 
 > Jas 2:22 ... Abraham was not **justified** by his actions alone; instead, **his faith and <span style="color:#800080;">his actions</span> worked together**. ...
 
@@ -152,7 +152,7 @@ This articles purpose is to supply a guide for Christians to test themselves, th
 
 > **Examine yourselves to see if your faith is genuine. Test yourselves.** Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2Cor. 13:5 [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:5&version=ESV;NET;NLT)
 
-Lastly, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
+<!-- Lastly, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7). -->
 
 <!-- If you truly believe in Christ you have nothing to worry about, you cannot lose your salvation. End of story. -->
 
@@ -604,13 +604,13 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> is saved by Grace when they believed (Eph 2:8-9), and they are justified [made right] by faith (Ro 5:1 ESV; Gal. 3:24 ESV).
     - In other words, it's not by the works of <span style="font-weight:bold;color:#C70039;">Jewish law</span> that you're saved.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
-    - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> <span style="font-weight:bold;color:#C70039;">not Jewish law</span> (Mt 3:10 [Faithlife](https://biblia.com/books/nlt/Mt3.10); Jas 2:24 [FaithLife](https://biblia.com/books/esv/Jas2.24))
+    - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> <span style="font-weight:bold;color:#C70039;">not Jewish law</span> <sup>[Mt 3:10 [FSB](https://biblia.com/books/nlt/Mt3.10); Jas 2:24 [FSB](https://biblia.com/books/esv/Jas2.24)]</sup>
     - <span style="font-weight:bold;color:#800080;">deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers. <sup>[Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET)]</sup>
     - John calls for <span style="font-weight:bold;color:#800080;">action and true ethical change</span>; mere lip service will not do. <sup>[Mt 3:8 [Filament](https://amzn.to/3CcB5Cu)]</sup>
-    - by their <span style="font-weight:bold;color:#800080;">fruits Refers to people’s deeds</span>—the natural outcomes of their choices and inclinations.<sup>[Mt 7:16,21 [Faithlife](https://biblia.com/books/nlt/Mt7.16)]</sup>
+    - by their <span style="font-weight:bold;color:#800080;">fruits Refers to people’s deeds</span>—the natural outcomes of their choices and inclinations.<sup>[Mt 7:16,21 [FSB](https://biblia.com/books/nlt/Mt7.16)]</sup>
     -  <span style="font-weight:bold;color:#800080;">Fruits</span>, repentance and righteous behavior <sup>[Mt. 7:16 [NOAB](https://amzn.to/3XGvXPg)]</sup>
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10 NET; Gal. 5:19-21). 
-    - They cannot live in a pattern of continual sin<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>[NOAB](https://amzn.to/3XGvXPg)</sup>] resides in him.
+    - They cannot live in a pattern of continual sin<sup>[[ESVSB](https://amzn.to/3WsN0Uw)]</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>[NOAB](https://amzn.to/3XGvXPg)</sup>] resides in him.
     - Seeds grow! Reminds me of the metaphor of trees that produce fruit.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
     - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
@@ -621,7 +621,11 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 
 <!-- In this article we examined the difference between lip service (Tit 1:16; Is 29:13; Mt 15:8) and justification. One path lead to the practice of sin (1Jn 3:9-10) and the other to soteriological sanctification (Phil 2:12).  -->
 
-So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7).
+<!-- So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7). -->
+
+> And anyone who believes in God’s Son has eternal life. **Anyone who doesn’t obey the Son will never experience eternal life** but remains under God’s angry judgment.” &mdash; John 3:36 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
+
+> And we can be sure that we know him if we obey his commandments. 4 **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** 5 But those who **obey** God’s word truly show how completely they love him. That is how we know we are living in him. 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
 
 <!-- 
 
