@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls, And Septuagint Are More Reliable Than The Masoretic Text."
-date: 2023-01-23 03:12:00 -0500
+date: 2023-01-23 03:20:00 -0500
 categories: methods families
 published: true
 ---
@@ -38,7 +38,7 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 
 > c. Deuteronomy 32:8 tc Heb “the sons of Israel.” The idea, perhaps, is that Israel was central to Yahweh’s purposes and all other nations were arranged and distributed according to how they related to Israel. See S. R. Driver, Deuteronomy (ICC), 355-56. <span style="font-weight:bold;color:red;">For the MT יִשְׂרָאֵל בְּנֵי (bene yisraʾel, “sons of Israel”)</span> <span style="font-weight:bold;color:green;">a Qumran fragment has “sons of God,” while the LXX reads ἀγγέλων θεοῦ (angelōn theou, “angels of God”), presupposing בְּנֵי אֵל (bene ʾel) or בְּנֵי אֵלִים (bene ʾelim). “Sons of God” is undoubtedly the original reading;</span> the MT and LXX have each interpreted it differently. MT assumes that the expression “sons of God” refers to Israel (cf. Hos. 1:10), while LXX has assumed that the phrase refers to the angelic heavenly assembly (Pss 29:1; 89:6; cf. as well Ps 82). The phrase is also attested in Ugaritic, where it refers to the high god El’s divine assembly. According to the latter view, which is reflected in the translation, the Lord delegated jurisdiction over the nations to his angelic host (cf. Dan. 10:13-21), while reserving for himself Israel, over whom he rules directly. For a defense of the view taken here, see M. S. Heiser, “Deuteronomy 32:8 and the Sons of God,” BSac 158 (2001): 52-74.
 
-# New Oxford Annotated Bible, 5th (NRSV)
+# New Revised Standard Version (NOAB)
 
 > When the Most High<sup style="color:#bfbfbf;">a</sup> apportioned the nations, when he divided humankind, he fixed the boundaries of the peoples according to the number of the gods;<sup style="color:#bfbfbf;">b</sup>
 >
@@ -47,13 +47,13 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 >
 &mdash; [New Revised Standard Version (NRSV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NRSVA)
 
-# NOAB Annotations
+# New Oxford Annotated Bible, Fifth (NRSV)
 
 > 8: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation.
 
 # New Living Translation (NLT)
 
-> When the Most High assigned lands to the nations, when he divided up the human race, he established the boundaries of the peoples according to the number in his heavenly court.<span style="color:#bfbfbf;">[a]</span>
+> When the Most High assigned lands to the nations, when he divided up the human race, he established the boundaries of the peoples according to the number in his <span style="font-weight:bold;color:green;">heavenly court</span>.<span style="color:#bfbfbf;">[a]</span>
 >
 a. 32:8 As in Dead Sea Scrolls, which read the number of the <span style="font-weight:bold;color:green;">sons of God</span>, and Greek version, which reads the number of the <span style="font-weight:bold;color:green;">angels of God</span>; Masoretic Text reads the number of the <span style="font-weight:bold;color:red;">sons of Israel</span>.
 >
