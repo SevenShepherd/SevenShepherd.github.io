@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🛡️ How Do You Know If You're Saved? How Scholarship Led Me Near To The Positions Of My Grandfather"
-date: 2023-01-01 8:15:00 -0500
+title: "🛡️ How Do You Know If You're Saved?"
+date: 2023-01-01 8:20:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
