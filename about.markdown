@@ -19,7 +19,7 @@ I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) d
 - Optimal Equivalent: [NET Full Notes](https://amzn.to/3WLAgbr)
 - Formal Equivalent: [ESV Study Bible](https://amzn.to/3WsN0Uw)
 - Dynamic Equivalent: [NLT Filament](https://amzn.to/3CcB5Cu)
-- Paraphrase: N/A
+- Paraphrase: Not Recommended
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
