@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:10:00 -0500
+date: 2022-09-11 01:30:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1347,23 +1347,34 @@ Unfortunately this also removed the Expanded Bible from the finalists.
 
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
-<!-- - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ) -->
-<!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
+<!-- |NLT Filament Compact Giant Print||
+|:-:|:-|
+|Details|[Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)<br>Dynamic Equivalence "Thought-For-Thought"<br>**OT Textual Basis**: Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, and the Latin Vulgate.<br>**NT Textual Basis**: UBS (4th '93), NA (27th '93)
+|Options|[NLT Compact (Economical)](https://amzn.to/3CcB5Cu)<br>[NLT Personal (Premium)](https://amzn.to/3WVcPMQ)<br>[NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)<br>[NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)<br>[NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+|Accessories|[Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)<br>[Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)<br>[(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)| -->
 
-<!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
+<!-- - Textual Basis: **OT** Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch (SP), Syriac Peshitta (S), and the Latin Vulgate (Vg) **NT** UBS4 '93, NA27 '93. -->
 
 - **NLT Filament Compact Giant Print**
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
+    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
+    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+
+<!-- - Buying Options
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
     - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
-    <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
+    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
+
+<!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
@@ -1382,11 +1393,13 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 <!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
 - **ESV Study Bible: English Standard Version**
-    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
-    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
+    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
@@ -1398,34 +1411,16 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 <!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
 
 - **The NET Bible, Full Notes Edition**
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
+    - Translation Type: Optimal Equivalence
+    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
+    - Non-sectarian and "inter-denominational"
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
-    - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
 
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
-
-<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
-
-<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
-
-This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
-
-<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
-<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
-
-- Interlinear
-    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
-- Biblical Hebrew
-    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
-- Koine Greek
-    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
-- Courses
-    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
-
 
 <span style="font-style:Italic;font-size:24px;">Other Recommendations</span>
 
@@ -1434,6 +1429,8 @@ I've decided to add this section, because these options, while not as perfect as
 <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
 Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
+
+<!-- Closest to being added to the main list, since all that separates it, is a footnote or two. -->
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
 
@@ -1465,14 +1462,31 @@ The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was al
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
 
-<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
-<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
-
 - **Legacy Standard Bible (LSB)**
     - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
     - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
     - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
     - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+
+<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+
+<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
+
+This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+
+<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
+<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
+
+- Interlinear
+    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
+- Biblical Hebrew
+    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+- Koine Greek
+    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
+- Courses
+    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
 
 <script>
     var refTagger = {

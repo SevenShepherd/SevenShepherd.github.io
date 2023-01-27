@@ -10,13 +10,21 @@ permalink: /about/
     }
 </style> -->
 
-Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my Ministry. Please feel free to look around, read articles, or contact me below.
+Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below. 
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and highly recommend, the following versions as they are the best of their respective categories:
+
+- Optimal Equivalent: [NET Full Notes](https://amzn.to/3WLAgbr)
+- Formal Equivalent: [ESV Study Bible](https://amzn.to/3WsN0Uw)
+- Dynamic Equivalent: [NLT Filament](https://amzn.to/3CcB5Cu)
+- Paraphrase: N/A
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
 <!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
 <!-- <span style="font-style:Italic;font-size:24px;">Theological Positions</span>
 
@@ -43,157 +51,7 @@ We take no hard stances in theological positions, because such positions are man
 - [Avoiding The Traps of The Cults](https://sevenshepherd.github.io/cults/)
 - [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/) -->
 
-<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
 
-<!-- - Readability 70.08%, Literalness 39.90% -->
-<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
-
-The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
-
-<!-- |NLT Filament Compact Giant Print||
-|:-:|:-|
-|Details|[Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)<br>Dynamic Equivalence "Thought-For-Thought"<br>**OT Textual Basis**: Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, and the Latin Vulgate.<br>**NT Textual Basis**: UBS (4th '93), NA (27th '93)
-|Options|[NLT Compact (Economical)](https://amzn.to/3CcB5Cu)<br>[NLT Personal (Premium)](https://amzn.to/3WVcPMQ)<br>[NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)<br>[NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)<br>[NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-|Accessories|[Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)<br>[Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)<br>[(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)| -->
-
-<!-- - Textual Basis: **OT** Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch (SP), Syriac Peshitta (S), and the Latin Vulgate (Vg) **NT** UBS4 '93, NA27 '93. -->
-
-- **NLT Filament Compact Giant Print**
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
-    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
-    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-
-<!-- - Buying Options
-    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
-    - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-- Accessories
-    - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
-    - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
-
-<!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
-
-<span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
-
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
-
-<!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
-
-<!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
-<!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
-
-<span style="font-style:Italic;font-size:19px;">Study Bible</span>
-
-The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
-
-<!-- - Readability 62.36%, Literalness 68.74% -->
-
-<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
-- **ESV Study Bible: English Standard Version**
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
-    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
-    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
-    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
-    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
-
-<span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
-
-The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
-
-<!-- - Readability 66.28%, Literalness 53.94% -->
-
-<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
-
-- **The NET Bible, Full Notes Edition**
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - Translation Type: Optimal Equivalence
-    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; UBS4, NA28
-    - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
-    - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
-    - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
-
-<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
-
-<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
-
-<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
-
-This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
-
-<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
-<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
-
-- Interlinear
-    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
-- Biblical Hebrew
-    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
-- Koine Greek
-    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
-- Courses
-    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
-
-
-<span style="font-style:Italic;font-size:24px;">Other Recommendations</span>
-
-I've decided to add this section, because these options, while not as perfect as those mentioned above, are still incredibly useful.
-
-<span style="font-style:Italic;font-size:19px;">Annotations</span>
-
-Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
-
-<!-- Closest to being added to the main list, since all that separates it, is a footnote or two. -->
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
-
-- **New Oxford Annotated Bible, 5th Edition**
-    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
-    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
-    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
-    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
-    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
-    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach.
-    
-<span style="font-style:Italic;font-size:19px;">Expansions</span>
-
-The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions. 
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The Expanded Bible (EXB): 1) Not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes. 2) Deut. 32:8 should allude to the "sons of God" or "Heavenly assembly/court".</sup>
-
-- **Expanded Bible (EXB)**
-    - [Expanded Bible (Hardcover)](https://amzn.to/3vlMXy5)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
-        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
-        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
-        - Daniel Taylor (Ph.D., Emory).
-    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
-    
-<span style="font-style:Italic;font-size:19px;">Primary NT w/ Psalms & Proverbs</span>
-
-The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was already considered by scholars as the most literal version of the Bible ever produced. I sometimes carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
-
-<!-- - *Readability* is approximately 61.65% taken from the NASB score, while *literalness* to Koine Greek exceeds 68.74% since it's more literal than the ESV. -->
-<!-- - Readability 61.65%, Literalness 67.99% (NASB scores used, likely greater) -->
-
-- **Legacy Standard Bible (LSB)**
-    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <!-- - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online. -->
 
