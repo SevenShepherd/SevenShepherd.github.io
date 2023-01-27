@@ -62,7 +62,11 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
     - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
-- Buying Options
+    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+
+<!-- - Buying Options
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
@@ -71,7 +75,7 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 - Accessories
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
+    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
 
 <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
@@ -92,11 +96,13 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 <!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
 - **ESV Study Bible: English Standard Version**
-    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
-    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
+    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
@@ -108,10 +114,13 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 <!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
 
 - **The NET Bible, Full Notes Edition**
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
+    - Translation Type: Optimal Equivalence
+    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; UBS4, NA28
+    - Non-sectarian and "inter-denominational"
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. Non-sectarian and "inter-denominational".
-    - With over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
 
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
