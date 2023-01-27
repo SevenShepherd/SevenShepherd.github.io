@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:20:00 -0500
+date: 2023-01-01 8:25:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -625,7 +625,7 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 
 <!-- So in conclusion, let us not give unrepentant sinners false hope; rather, let us declare the whole counsel of God: *“You must be born again”* (Jn 3:7). -->
 
-> And anyone who believes in God’s Son has eternal life. **Anyone who doesn’t obey the Son will never experience eternal life** but remains under God’s angry judgment.” &mdash; John 3:36 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
+<!-- > And anyone who believes in God’s Son has eternal life. **Anyone who doesn’t obey the Son will never experience eternal life** but remains under God’s angry judgment.” &mdash; John 3:36 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT) -->
 
 > And we can be sure that we know him if we obey his commandments. 4 **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** 5 But those who **obey** God’s word truly show how completely they love him. That is how we know we are living in him. 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
 
