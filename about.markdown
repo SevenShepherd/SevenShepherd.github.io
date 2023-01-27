@@ -25,6 +25,10 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 - Paraphrase "In-Other-Words"
     - Not Recommended
 
+If you'd rather use something traditional, like a thousand years younger and more error prone mss used in the 16th century Textus Receptus from the **[Catholic priest Erasmus](https://en.wikipedia.org/wiki/Erasmus)**, instead of university level scholarship, there's always the KJV by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**.
+
+However, if instead you're looking for the only Bible that uses the full Majority text and it's thousands of mss, instead of the 3 mss that Erasmus used, then the [World English Bible (WEB)](https://worldenglish.bible/) is the only true Majority Text bible in existence.
+
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
 <!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
