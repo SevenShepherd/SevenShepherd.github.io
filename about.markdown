@@ -25,7 +25,7 @@ We take no hard stances in theological positions, because such positions are man
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
-- [The DSS And LXX Are > The Masoretic Text](https://bit.ly/3De5m43)
+- [The DSS And LXX Solve A Mystery](https://bit.ly/3De5m43)
 - [How Do You Know If You're Saved?](https://bit.ly/3kaNNLx)
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
 - [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
@@ -50,23 +50,30 @@ We take no hard stances in theological positions, because such positions are man
 
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
 
-<!-- - [NLT Filament (Personal)](https://amzn.to/3WVcPMQ) -->
-<!-- - [NLT Filament (Compact)](https://amzn.to/3CcB5Cu) -->
+<!-- |NLT Filament Compact Giant Print||
+|:-:|:-|
+|Details|[Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)<br>Dynamic Equivalence "Thought-For-Thought"<br>**OT Textual Basis**: Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, and the Latin Vulgate.<br>**NT Textual Basis**: UBS (4th '93), NA (27th '93)
+|Options|[NLT Compact (Economical)](https://amzn.to/3CcB5Cu)<br>[NLT Personal (Premium)](https://amzn.to/3WVcPMQ)<br>[NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)<br>[NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)<br>[NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+|Accessories|[Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)<br>[Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)<br>[(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)| -->
 
-<!-- - [NLT Filament Compact Giant Print](https://amzn.to/3ICUcJN) -->
+<!-- - Textual Basis: **OT** Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch (SP), Syriac Peshitta (S), and the Latin Vulgate (Vg) **NT** UBS4 '93, NA27 '93. -->
 
 - **NLT Filament Compact Giant Print**
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
+    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
+- Buying Options
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
     - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
 - Accessories
     - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
     - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
     - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)
-    <!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
+
+<!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
 
