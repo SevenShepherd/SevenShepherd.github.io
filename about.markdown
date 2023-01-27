@@ -14,6 +14,8 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
+<span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
+
 I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and **highly recommend**, the following versions as they are the best of their respective categories:
 
 - Optimal Equivalent
@@ -25,9 +27,15 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 - Paraphrase "In-Other-Words"
     - Not Recommended
 
-If you'd rather use something traditional, like a thousand years younger and more error prone mss used in the 16th century Textus Receptus from the **[Catholic priest Erasmus](https://en.wikipedia.org/wiki/Erasmus)**, instead of university level scholarship, there's always the KJV by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**.
+The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. If you'd rather depart from the Critical Text, and instead use the Byzantine Majority Text, the [World English Bible (WEB)](https://worldenglish.bible/) is only one Bible in existence to use the full MT.
 
-However, if instead you're looking for the only Bible that uses the full Majority text and it's thousands of mss, instead of the 3 mss that Erasmus used, then the [World English Bible (WEB)](https://worldenglish.bible/) is the only true Majority Text bible in existence.
+The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** Textus Receptus. This NT Textual Criticism Methodology only used around 3 mss from the MT and they are very young and error prone. 
+
+Either way, the best bible is the one you read, since we do have a 99.8% textual purity among all bibles with proven scholarship.
+
+<!-- If you'd rather use something traditional, like a thousand years younger and more error prone mss used in the 16th century Textus Receptus from the , instead of university level scholarship, there's always the KJV by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**. -->
+
+<!-- However, if instead you're looking for the only Bible that uses the full Majority text and it's thousands of mss, instead of the 3 mss that Erasmus used, then the [World English Bible (WEB)](https://worldenglish.bible/) is the only true Majority Text bible in existence. -->
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
