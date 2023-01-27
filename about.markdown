@@ -27,9 +27,9 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 - Paraphrase "In-Other-Words"
     - Not Recommended
 
-The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. If you'd rather depart from the Critical Text, and instead use the Byzantine Majority Text, the [World English Bible (WEB)](https://worldenglish.bible/) is only one Bible in existence to use the full MT.
+The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. If you'd rather depart from the scholarship of reasoned eclecticism, and instead use the Byzantine Majority Text, the [World English Bible (WEB)](https://worldenglish.bible/) is the only Bible in existence to use the full MT.
 
-The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** Textus Receptus. This NT Textual Criticism Methodology only used around 3 mss from the MT and they are very young and error prone. 
+The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** 16th century Textus Receptus. This NT Textual Criticism Methodology only used around 3 out of the thousands of mss from the MT and they are very young and error prone. 
 
 <!-- Either way, the best bible is the one you read, since we do have a 99.8% textual purity among all bibles with proven scholarship. -->
 
