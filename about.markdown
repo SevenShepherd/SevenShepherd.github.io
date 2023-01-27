@@ -14,12 +14,16 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
-I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and highly recommend, the following versions as they are the best of their respective categories:
+I recently wrote an [article](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and **highly recommend**, the following versions as they are the best of their respective categories:
 
-- Optimal Equivalent: [NET Full Notes](https://amzn.to/3WLAgbr)
-- Formal Equivalent: [ESV Study Bible](https://amzn.to/3WsN0Uw)
-- Dynamic Equivalent: [NLT Filament](https://amzn.to/3CcB5Cu)
-- Paraphrase: Not Recommended
+- Optimal Equivalent
+    - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
+- Formal Equivalent
+    - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), [NOAB Annotations](https://amzn.to/3XGvXPg), [LSB](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+- Dynamic Equivalent
+    - [**NLT Filament**](https://amzn.to/3CcB5Cu)
+- Paraphrase
+    - Not Recommended
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
 
