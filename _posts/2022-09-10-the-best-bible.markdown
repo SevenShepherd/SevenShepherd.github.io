@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:30:00 -0500
+date: 2022-09-11 01:40:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -14,7 +14,9 @@ published: true
 
 <span style="font-style:Italic;font-size:34px;">Hypotheses non fingo</span>
 
-Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+<!-- Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.**  -->
+
+Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
 <!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
 
