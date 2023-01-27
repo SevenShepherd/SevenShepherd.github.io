@@ -18,11 +18,11 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 
 - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
-- Formal Equivalent
+- Formal Equivalent "Word-For-Word"
     - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), [NOAB Annotations](https://amzn.to/3XGvXPg), [LSB](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-- Dynamic Equivalent
+- Dynamic Equivalent "Thought-For-Thought"
     - [**NLT Filament**](https://amzn.to/3CcB5Cu)
-- Paraphrase
+- Paraphrase "In-Other-Words"
     - Not Recommended
 
 <!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
