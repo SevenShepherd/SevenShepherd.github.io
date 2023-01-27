@@ -21,7 +21,7 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 - Formal Equivalent "Word-For-Word"
     - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), [NOAB Annotations](https://amzn.to/3XGvXPg), [LSB](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
 - Dynamic Equivalent "Thought-For-Thought"
-    - [**NLT Filament**](https://amzn.to/3CcB5Cu)
+    - [**NLT Filament**](https://amzn.to/3CcB5Cu) *Most Readable
 - Paraphrase "In-Other-Words"
     - Not Recommended
 
