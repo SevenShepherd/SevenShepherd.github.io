@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:40:00 -0500
+date: 2022-09-11 01:45:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1397,7 +1397,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - **ESV Study Bible: English Standard Version**
     - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
+    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
