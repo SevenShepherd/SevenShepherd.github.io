@@ -31,7 +31,13 @@ The recommendations above represent the very best university level scholarship u
 
 The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** Textus Receptus. This NT Textual Criticism Methodology only used around 3 mss from the MT and they are very young and error prone. 
 
-Either way, the best bible is the one you read, since we do have a 99.8% textual purity among all bibles with proven scholarship.
+<!-- Either way, the best bible is the one you read, since we do have a 99.8% textual purity among all bibles with proven scholarship. -->
+
+Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+
+<!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
 
 <!-- If you'd rather use something traditional, like a thousand years younger and more error prone mss used in the 16th century Textus Receptus from the , instead of university level scholarship, there's always the KJV by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**. -->
 
