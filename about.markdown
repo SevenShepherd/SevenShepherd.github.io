@@ -28,7 +28,7 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
-I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and **highly recommend**, the following versions as they are the best of their respective categories:
+I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and **highly recommend**, the following versions as they are the best of their respective [categories](https://wiki.logos.com/Bible_Translation_Spectrum):
 
 - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
