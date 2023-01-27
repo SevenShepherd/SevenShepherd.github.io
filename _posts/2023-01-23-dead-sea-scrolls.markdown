@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:12:00 -0500
+date: 2023-01-23 04:21:00 -0500
 categories: methods families
 published: true
 ---
@@ -14,9 +14,10 @@ The fact that Israel didn't even exist at this point in the Bible proves that th
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
-The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
+The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
 
 # [English Standard Version](https://amzn.to/3WsN0Uw)
+Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
 
 > When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders<span style="color:#bfbfbf;">[a]</span> of the peoples according to the number of the <span style="font-weight:bold;color:green;">sons of God</span>.<span style="color:#bfbfbf;">[b]</span>
 >
@@ -30,6 +31,7 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 > 32:8–9 gave to the nations their inheritance. For example, Edom, Moab, and Ammon in 2:1–23, as well as Israel throughout the book. <span style="font-weight:bold;color:green;">According to the number of the sons of God may suggest that certain angels (“sons of God”; see Job 1:6) are responsible for specific nations, whereas the Lord himself cares for Israel.</span> See also the second esv footnote on v. 8. the LORD’s portion. A term of special affection. See notes on Deut. 4:20 and 18:1–2.
 
 # [New English Translation (NET)](https://amzn.to/3WLAgbr)
+Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4.
 
 > When the Most High<span style="color:#bfbfbf;">[a]</span> gave the nations their inheritance, when he divided up humankind,<span style="color:#bfbfbf;">[b]</span> he set the boundaries of the peoples, according to the number of the <span style="font-weight:bold;color:green;">heavenly assembly</span>.<span style="color:#bfbfbf;">[c]</span> 
 >
@@ -55,6 +57,7 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 > **8**: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation. **9**: The Lord’s own portion, NRSV has added own in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n.
 
 # [New Living Translation (NLT)](https://amzn.to/3CcB5Cu)
+Dynamic Equivalence "Thought-For-Thought" NOT paraphrase. Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27.
 
 > When the Most High assigned lands to the nations, when he divided up the human race, he established the boundaries of the peoples according to the number in his <span style="font-weight:bold;color:green;">heavenly court</span>.<span style="color:#bfbfbf;">[a]</span>
 >
