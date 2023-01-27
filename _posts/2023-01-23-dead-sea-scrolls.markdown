@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📜 The Dead Sea Scrolls And Septuagint Are More Reliable Than The Masoretic Text"
-date: 2023-01-23 04:00:00 -0500
+title: "📜 The Dead Sea Scrolls And Septuagint Are More Reliable Than The Masoretic Text In This Passage"
+date: 2023-01-23 04:10:00 -0500
 categories: methods families
 published: true
 ---
@@ -14,7 +14,7 @@ The fact that Israel didn't even exist at this point in the Bible proves that th
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
-The only versions of the Bible that survived my previous [list of litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
+The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
 
 # [English Standard Version](https://amzn.to/3WsN0Uw)
 
@@ -62,13 +62,13 @@ a. 32:8 As in Dead Sea Scrolls, which read the number of the <span style="font-w
 >
 &mdash; [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A8&version=NLT)
 
-<span style="font-style:Italic;font-size:34px;">Textual Purity Of The OT Is Greater Than The NT's 99.8%</span>
+<!-- <span style="font-style:Italic;font-size:34px;">Textual Purity Of The OT Is Greater Than The NT's 99.8%</span>
 
 Scholars agree that **no cardinal doctrine is affected** by any viable variant. To be sure, minor doctrinal differences and matters of orthopraxy ("right action") are affected by variants, but regardless of what text one uses, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
-Now imagine how much less you have to worry about the OT.
+Now imagine how much less you have to worry about the OT. -->
 
 <span style="font-style:Italic;font-size:34px;">Dr. Michael S. Heiser's Peer Reviewed Research</span>
 
