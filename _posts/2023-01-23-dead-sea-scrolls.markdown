@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:21:00 -0500
+date: 2023-01-23 04:25:00 -0500
 categories: methods families
 published: true
 ---
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Jt8OoMLrAyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<span style="font-size:14px;">Refresh page if video does not load.</span>
 
 <span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
 
