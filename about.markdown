@@ -61,6 +61,7 @@ The KJV is still an option, but consider the following points:
 - Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
 - The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy.
 - KJV Onlyism is likely a budding cult. The idea that English speakers are required by God to use a Bible translation from 17th century England is ludicrous... God would have had to re-inspired the Bible through the KJV translators which is both insane.
+- God said knowledge would increase (Dan. 12:4), ergo modern translations should be more accurate.
 
 <!-- you could use the much younger and more error prone Textus Receptus which uses only around **3 manuscripts** out of the 5,600 scholars use. KJV -->
 
@@ -189,3 +190,20 @@ We take no hard stances in theological positions, because such positions are man
 > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
 
 > "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification) -->
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
