@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:45:00 -0500
+date: 2023-01-23 04:50:00 -0500
 categories: methods families
 published: true
 ---
@@ -11,9 +11,7 @@ published: true
 
 <span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
 
-The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
-
-<!-- that the Masoretic Text (MT) is inconsistent, consulting the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) is a good idea. Deut. 32:8 is a reference to Gen. 11:1-9, a time before Israel. -->
+The fact that Israel didn't even exist at this point in Gen. 11:1-9, as referenced by Deut. 32:8, proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
