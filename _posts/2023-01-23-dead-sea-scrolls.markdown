@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:30:00 -0500
+date: 2023-01-23 04:35:00 -0500
 categories: methods families
 published: true
 ---
@@ -78,7 +78,11 @@ Now imagine how much less you have to worry about the OT. -->
 
 <span style="font-style:Italic;font-size:34px;">Dr. Michael S. Heiser's Peer Reviewed Research</span>
 
-Here is the PDF I located on his [research](/assets/docs/MSHD3217.pdf) mentioned in the video above.
+Here is the [**PDF**](/assets/docs/MSHD3217.pdf) I located on his research mentioned in the video above. 
+
+> This article has argued that the best translation of Deut 32.17 involves rendering **אֱלֹ֔הַ** as a singular ("God"). Doing so results in a reading where the passage assumes the reality of the other gods as demonic spiritual entities. This rendering and its result are internally consistent with other statements in Deuteronomy where YHWH disinherits the nations to the governance of lesser gods who are qualitatively and ontologically inferior to YHWH, who is unique. The lexical, syntactic, and contextual data support rendering Deut 32.17 as, "They sacrificed to demons, not God, gods they had never known ... "
+
+From what I could glean from his videos, it would seem that Heiser uses the ESV quite often and is somewhat annoyed that the ESV would botch Deut. 32:17 by implying that there is some kind of pantheon.
 
 <script>
 	var refTagger = {
