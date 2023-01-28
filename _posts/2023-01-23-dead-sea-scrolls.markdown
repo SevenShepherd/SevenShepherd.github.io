@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:25:00 -0500
+date: 2023-01-23 04:30:00 -0500
 categories: methods families
 published: true
 ---
@@ -11,14 +11,16 @@ published: true
 
 <span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
 
-The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are more reliable than the Masoretic Text (MT). Deut. 32:8 is a reference to Gen. 11:1-9, a time before Israel.
+The fact that Israel didn't even exist at this point in the Bible proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
+
+<!-- that the Masoretic Text (MT) is inconsistent, consulting the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) is a good idea. Deut. 32:8 is a reference to Gen. 11:1-9, a time before Israel. -->
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
 The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
 
 # [English Standard Version](https://amzn.to/3WsN0Uw)
-Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS4, NA27
+Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
 
 > When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders<span style="color:#bfbfbf;">[a]</span> of the peoples according to the number of the <span style="font-weight:bold;color:green;">sons of God</span>.<span style="color:#bfbfbf;">[b]</span>
 >
