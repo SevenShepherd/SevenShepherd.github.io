@@ -59,7 +59,8 @@ The KJV is still an option, but consider the following points:
 - The Masoretic Text is insufficient to translate the book of Job correctly without the DSS, LXX, and Ugaritic. In fact there's evidence that the translators were guessing.
 - The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Is 12:2; Is 26:4.
 - Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
-- The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy. 
+- The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy.
+- KJV Onlyism is likely a budding cult. The idea that English speakers are required by God to use a Bible translation from 17th century England is ludicrous... God would have had to re-inspired the Bible through the KJV translators which is both insane.
 
 <!-- you could use the much younger and more error prone Textus Receptus which uses only around **3 manuscripts** out of the 5,600 scholars use. KJV -->
 
