@@ -14,6 +14,8 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
+You can also check out my custom programmed and automated a Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer.
+
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
