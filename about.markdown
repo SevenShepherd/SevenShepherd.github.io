@@ -55,6 +55,7 @@ The KJV is still an option, but consider the following points:
 - Only around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> are used from the ~5000 mss of the Byzantine MT. So it's not actually a Majority text bible.
 - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
 - The Masoretic Text is insufficient to translate the book of Job correctly without the DSS, LXX, and Ugaritic. In fact there's evidence that the translators were guessing.
+- The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Is 12:2; Is 26:4.
 - Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
 - The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy. 
 
