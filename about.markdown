@@ -39,9 +39,29 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 - Paraphrase "In-Other-Words"
     - Not Recommended
 
-The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. If you'd rather depart from the scholarship of reasoned eclecticism, and instead use the Byzantine Majority Text, the [World English Bible (WEB)](https://worldenglish.bible/) is the only Bible in existence to use the full MT.
+The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the originals.
 
-The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** 16th century Textus Receptus. This NT Textual Criticism Methodology only used around 3 out of the thousands of mss from the MT and they're among the youngest and most error prone. 
+> ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.) paraphrased.
+
+The KJV is still an option, but consider the following points:
+- Commissioned by the [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I).
+- Uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus.
+- The Textus Receptus was not historically received by all or even Erasmus himself.
+- There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
+- Only around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> are used from the ~5000 mss of the Byzantine MT. So it's not actually a Majority text bible.
+- Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
+- The Masoretic Text is insufficient to translate the book of Job correctly without the DSS, LXX, and Ugaritic. In fact there's evidence that the translators were guessing.
+- Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
+- The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy. 
+
+<!-- you could use the much younger and more error prone Textus Receptus which uses only around **3 manuscripts** out of the 5,600 scholars use. KJV -->
+
+
+<!-- If you'd rather depart from sound scholarship, you could use the KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, which uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** 16th century Textus Receptus. The TR is 1 of 27 different Textus Receptus' and only uses around **3 manuscripts** from the MT. Additionally they're among the youngest and most error prone.  -->
+
+<!-- , and instead use the Byzantine Majority Text, the [World English Bible (WEB)](https://worldenglish.bible/) is the only Bible in existence to use the full 5000 mss MT. -->
+
+<!-- The KJV, commissioned by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**, uses the **[Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus)** 16th century Textus Receptus. This NT Textual Criticism Methodology only used around 3 out of the thousands of mss from the MT and they're among the youngest and most error prone.  -->
 
 <!-- Either way, the best bible is the one you read, since we do have a 99.8% textual purity among all bibles with proven scholarship. -->
 
