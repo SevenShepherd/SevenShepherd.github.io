@@ -28,7 +28,11 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
-I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. I personally own, and **highly recommend**, the following versions as they are the best of their respective [categories](https://wiki.logos.com/Bible_Translation_Spectrum):
+I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. A half-year after writing the article, I was pleased to find that our findings matched [Dr. Heiser's](https://drmsh.com/bible-versions/) who created the Interlinears for Logos Bible Software. 
+
+> ... I recommend the ESV. For a study Bible, however, I like the NET Bible ...
+
+I personally own, and **highly recommend**, the following versions as they are the best of their respective [categories](https://wiki.logos.com/Bible_Translation_Spectrum):
 
 - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
