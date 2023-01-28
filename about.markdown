@@ -14,7 +14,7 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
-You can also check out my custom programmed and automated a Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer.
+You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer.
 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
@@ -34,7 +34,7 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 
 > ... I recommend the ESV. For a study Bible, however, I like the NET Bible ...
 
-I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
+I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
 
 - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
