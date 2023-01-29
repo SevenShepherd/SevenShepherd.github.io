@@ -14,7 +14,11 @@ Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
-You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer.
+You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
+
+<sup style="font-size:12px;">7 years, 2.6m tweets (~100 lifetimes), 7.6m likes & retweets.</sup>
+
+<!-- 2016 - 2023, 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
