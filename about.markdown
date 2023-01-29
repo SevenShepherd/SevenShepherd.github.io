@@ -10,15 +10,21 @@ permalink: /about/
     }
 </style> -->
 
+<!-- <style>
+    a.esv-crossref-link {
+        color: #72abbf !important;
+    }
+</style> -->
+
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below. 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
 You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
-<sup style="font-size:9px;font-family:monospace;">7 years, 2.6m tweets (~100 lifetimes), 7.6m likes & retweets.</sup>
+<sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets (~100 lifetimes), 7.6m likes & retweets.</sup>
 
-<!-- 2016 - 2023, 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
+<!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
@@ -40,14 +46,21 @@ I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible
 
 I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
 
-- Optimal Equivalent
+<!-- - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
 - Formal Equivalent "Word-For-Word"
     - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), [NOAB Annotations](https://amzn.to/3XGvXPg), [LSB](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
 - Dynamic Equivalent "Thought-For-Thought"
     - [**NLT Filament**](https://amzn.to/3CcB5Cu) *Most Readable
 - Paraphrase "In-Other-Words"
-    - Not Recommended
+    - Not Recommended -->
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Formal Equivalent<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[NOAB Annotations](https://amzn.to/3XGvXPg)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Optimal Equivalent<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+|Dynamic Equivalent<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Paraphrase<br>"In-Other-Words"|Not Recommended|
 
 The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the originals.
 
@@ -61,10 +74,10 @@ The KJV is still an option, but consider the following points:
 - Only around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> are used from the ~5000 mss of the Byzantine MT. So it's not actually a Majority text bible.
 - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
 - The Masoretic Text is insufficient to translate the book of Job correctly without the DSS, LXX, and Ugaritic. In fact there's evidence that the translators were guessing.
-- The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Is 12:2; Is 26:4.
+- The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Isa 12:2; Isa 26:4.
 - Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
 - The ESV & LSB are the most literal versions. The KJV is the most literal to the TR, but is outperformed by even the least literal modern translation in accuracy.
-- KJV Onlyism is likely a budding cult. The idea that English speakers are required by God to use a Bible translation from 17th century England is ludicrous... God would have had to re-inspired the Bible through the KJV translators which is insane.
+- The idea that English speakers are required by God to use a Bible translation from 17th century England is... preposterous.
 - God said knowledge would increase (Dan. 12:4), ergo modern translations should be more accurate.
 
 <!-- you could use the much younger and more error prone Textus Receptus which uses only around **3 manuscripts** out of the 5,600 scholars use. KJV -->
@@ -194,6 +207,26 @@ We take no hard stances in theological positions, because such positions are man
 > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
 
 > "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification) -->
+
+<!-- <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    border_color: 'CCCCCC',
+    header_font_color: '66a343',
+    body_font_color: '222325',
+    footer_font_color: 'a4a4a4',
+    header_background_color: 'F9F9F9',
+    body_background_color: 'FFFFFF',
+    footer_background_color: 'F9F9F9',
+    header_font_size: 15,
+    body_font_size: 14,
+    footer_font_size: 12,
+    header_font_family: 'Arial',
+    body_font_family: 'Times',
+    footer_font_family: 'Times'
+  };
+</script> -->
 
 <script>
     var refTagger = {
