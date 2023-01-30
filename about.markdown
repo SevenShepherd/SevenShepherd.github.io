@@ -42,7 +42,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. A half-year after writing the article, I was pleased to find that our findings matched [**Dr. Heiser's**](https://drmsh.com/bible-versions/) who created the Interlinears for Logos Bible Software. 
 
-> ... I recommend the ESV. For a study Bible, however, I like the NET Bible ...
+> ... I recommend the ESV. For a study Bible, however, I like the NET Bible ... &mdash; Dr. Michael S. Heiser
 
 I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
 
@@ -57,12 +57,12 @@ I've also taken into account quantitative linguistic comparison of Bible transla
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalent<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[NOAB Annotations](https://amzn.to/3XGvXPg)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
-|Optimal Equivalent<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
-|Dynamic Equivalent<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[NOAB Annotations](https://amzn.to/3XGvXPg)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
 
-The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the originals.
+The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the original manuscripts
 
 > ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.) paraphrased.
 
@@ -71,8 +71,8 @@ The KJV is still an option, but consider the following points:
 - Uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus.
 - The Textus Receptus was not historically received by all or even Erasmus himself.
 - There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
-- Only around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> are used from the ~5000 mss of the Byzantine MT. So it's not actually a Majority text bible.
-- Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
+- Only around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> are used from the ~5000 mss of the Byzantine MT. So it's not actually a Majority text bible by methodology.
+- Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
 - The Masoretic Text is insufficient to translate the book of Job correctly without the DSS, LXX, and Ugaritic. In fact there's evidence that the translators were guessing.
 - The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Isa 12:2; Isa 26:4.
 - Among the youngest and most error prone mss from the 12th-16th century as opposed to those in the CT which are mere decades from the crucifixion.
@@ -97,19 +97,16 @@ Scholarship has proven that **no cardinal doctrine is affected** by any viable v
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
 
-<!-- If you'd rather use something traditional, like a thousand years younger and more error prone mss used in the 16th century Textus Receptus from the , instead of university level scholarship, there's always the KJV by the **[lifelong doctrinal calvinist King James](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I)**. -->
 
-<!-- However, if instead you're looking for the only Bible that uses the full Majority text and it's thousands of mss, instead of the 3 mss that Erasmus used, then the [World English Bible (WEB)](https://worldenglish.bible/) is the only true Majority Text bible in existence. -->
+<!-- <span style="font-style:Italic;font-size:24px;">Doctrinal Positions</span>
 
-<!-- > Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV -->
+|Category|Position|
+|:-:|:-:|
+|Soteriology|Five solae<br>Reformed, with background in free grace (systematized in the 1980s)|
+|Spiritual Gifts|Open "but cautious" Continuationism,<br>maybe "Soft" Cessationism|
+||| -->
 
-<!-- > Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. &mdash; 2 Timothy 2:15 LSB -->
-
-
-<!-- <span style="font-style:Italic;font-size:24px;">Theological Positions</span>
-
-We take no hard stances in theological positions, because such positions are man made extrapolations. -->
-
+<!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
 
 <!-- - [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
 - [How Do You Know If You're Saved?](https://sevenshepherd.github.io/true-christian/)
