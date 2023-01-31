@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:50:00 -0500
+date: 2023-01-29 01:55:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -126,7 +126,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
-The idea that English speakers are required by God to use a Bible translation from 17th century England is... silly. The **Scriptures** are holy; however, the  translations of those holy scriptures are sometimes found wanting. Instead worshiping the creation (like the KJV Onlyists who are likely a cult), we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures. Here are the versions that are closest to the original autographs according to science.
+The idea that English speakers are required by God to use a Bible translation from 17th century England is... silly. The **Scriptures** are holy; however, the  translations of those holy scriptures are sometimes found wanting. Instead of worshiping the creation like the KJV Onlyists do (likely a cult), we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures. Here are the versions that are closest to the original autographs according to science.
 
 |Translation type|Recommendations|
 |:-:|:-:|
