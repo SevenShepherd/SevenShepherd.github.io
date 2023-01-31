@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:00:00 -0500
+date: 2023-01-23 05:10:00 -0500
 categories: methods families
 published: true
 ---
@@ -60,7 +60,7 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 > **8**: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation. **9**: The Lord’s own portion, NRSV has added own in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n. -->
 
 # [New Living Translation (NLT)](https://amzn.to/3CcB5Cu)
-Dynamic Equivalence "Thought-For-Thought" NOT paraphrase. Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27.
+Dynamic Equivalence "Thought-For-Thought" **NOT paraphrase**. Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27. Universities of Cambridge, Oxford, Columbia, Manchester, Dallas, etc.
 
 > When the Most High assigned lands to the nations, when he divided up the human race, he established the boundaries of the peoples according to the number in his <span style="font-weight:bold;color:green;">heavenly court</span>.<span style="color:#bfbfbf;">[a]</span>
 >
