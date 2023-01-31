@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:30:00 -0500
-categories: version bible ESV NET
+date: 2023-01-29 01:40:00 -0500
+categories: version bible ESV NET NLT KJV
 published: true
 ---
 
@@ -10,7 +10,7 @@ published: true
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-<span style="font-style:Italic;font-size:32px;">21 Times The ESV & NET Proved To Be Superior To The King James Version</span>
+<span style="font-style:Italic;font-size:32px;">22 Times The ESV & NET Proved To Be Superior To The King James Version</span>
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
@@ -36,13 +36,16 @@ published: true
         
         >  **I will never trust it** <span style="color:#bfbfbf;">[The KJV]</span> **again** in Job. ... The KJV translators had no access to that <span style="color:#bfbfbf;">[Ugaritic]</span>, nor did they have access to other cognate languages for the same purpose (like Akkadian), or the Dead Sea Scrolls. They did the best they could and did it well, but in books like Job, it is easy for someone like me to know **they are just simply guessing in places**. &mdash; [Dr. Michael S. Heiser](https://drmsh.com/bible-versions/) (created Logos Bible Software Interlinears for KJV, NIV, and NKJV)
 
-    5. The mss that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) had access to are among the youngest and most error prone mss from the 12th to 16th century as opposed to those in the Critical Text which are mere decades from the crucifixion.
+    5. Israel Wasn’t Even In Existence When the Most High Divided The Nations! The fact that Israel didn’t even exist at this point in Gen. 11:1-9, as referenced by Deut. 32:8 KJV, proves that the much older Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
+        > The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, and NLT** &mdash; [The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text](https://sevenshepherd.github.io/dead-sea-scrolls/).
+
+    6. The mss that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) had access to are among the youngest and most error prone mss from the 12th to 16th century as opposed to those in the Critical Text which are mere decades from the crucifixion.
 
 <span style="font-weight:Bold;font-size:24px;">🖋️ II. Translation</span>
 
 See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)."
 
-- <span style="font-style:Italic;font-size:19px;">Points 6 - 12</span>
+- <span style="font-style:Italic;font-size:19px;">Points 7 - 13</span>
 
     - Jehovah or Yahweh? The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Isa 12:2; Isa 26:4.
         
@@ -52,7 +55,7 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
         > The New Jewish Encyclopedia: “It is clear that the word Jehovah is an **artificial composite**.”
 
-- <span style="font-style:Italic;font-size:19px;">Points 13 - 17</span>
+- <span style="font-style:Italic;font-size:19px;">Points 14 - 18</span>
 
     - “Come” or “Come and see”?
         
@@ -99,7 +102,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <!-- - ❌ -->
 
-- <span style="font-style:Italic;font-size:19px;">Points 18 - 20</span>
+- <span style="font-style:Italic;font-size:19px;">Points 19 - 21</span>
 
     - Remember, that it is the “untaught” that ultimately end up twisting scripture and forming cults. Scholars are doing the Lord’s work, what they say has value. This is the primary reason everything I say is accompanied by heavy citation.
 
@@ -115,12 +118,11 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <span style="font-weight:Bold;font-size:24px;">👨‍💻 III. Quantitative Linguistic Comparison and Computerized Statistical Analysis</span>
 
-- <span style="font-style:Italic;font-size:19px;">Point 21</span>
+- <span style="font-style:Italic;font-size:19px;">Point 22</span>
 
     - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. It also happens to put the KJV's **48.83%** readability and comprehension score to shame with a whopping **62.36%**.
 
         Ever wonder why you have to read things multiple times? Does your congregation struggle to understand what they read? Are you wise enough to win souls by using the ESV **62.36%**, NET **66.28**, or NLT **70.08%**?
-
 
 <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
