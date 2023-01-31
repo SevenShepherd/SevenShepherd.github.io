@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:50:00 -0500
+date: 2023-01-23 04:55:00 -0500
 categories: methods families
 published: true
 ---
@@ -15,7 +15,9 @@ The fact that Israel didn't even exist at this point in Gen. 11:1-9, as referenc
 
 > When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the <span style="font-weight:bold;color:red;">children of Israel</span>. &mdash; Deuteronomy 32:8 King James Version (KJV)
 
-The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, NOAB (NRSV), and NLT**.
+The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, and NLT**.
+
+<!-- NOAB (NRSV), -->
 
 # [English Standard Version](https://amzn.to/3WsN0Uw)
 Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
@@ -43,7 +45,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 > c. Deuteronomy 32:8 tc Heb “the sons of Israel.” The idea, perhaps, is that Israel was central to Yahweh’s purposes and all other nations were arranged and distributed according to how they related to Israel. See S. R. Driver, Deuteronomy (ICC), 355-56. <span style="font-weight:bold;color:red;">For the MT יִשְׂרָאֵל בְּנֵי (bene yisraʾel, “sons of Israel”)</span> <span style="font-weight:bold;color:green;">a Qumran fragment has “sons of God,” while the LXX reads ἀγγέλων θεοῦ (angelōn theou, “angels of God”), presupposing בְּנֵי אֵל (bene ʾel) or בְּנֵי אֵלִים (bene ʾelim). “Sons of God” is undoubtedly the original reading;</span> the MT and LXX have each interpreted it differently. MT assumes that the expression “sons of God” refers to Israel (cf. Hos. 1:10), while LXX has assumed that the phrase refers to the angelic heavenly assembly (Pss 29:1; 89:6; cf. as well Ps 82). The phrase is also attested in Ugaritic, where it refers to the high god El’s divine assembly. According to the latter view, which is reflected in the translation, the Lord delegated jurisdiction over the nations to his angelic host (cf. Dan. 10:13-21), while reserving for himself Israel, over whom he rules directly. For a defense of the view taken here, see M. S. Heiser, “Deuteronomy 32:8 and the Sons of God,” BSac 158 (2001): 52-74.
 
-# [New Revised Standard Version (NOAB)](https://amzn.to/3XGvXPg)
+<!-- # [New Revised Standard Version (NOAB)](https://amzn.to/3XGvXPg)
 
 > When the Most High<sup style="color:#bfbfbf;">a</sup> apportioned the nations, when he divided humankind, he fixed the boundaries of the peoples according to the number of the gods;<sup style="color:#bfbfbf;">b</sup>
 >
@@ -55,7 +57,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 # [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
 The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
 
-> **8**: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation. **9**: The Lord’s own portion, NRSV has added own in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n.
+> **8**: Most High, or Elyon (text note b), is a title of El, the senior god who sat at the head of the divine council in the Ugaritic literature of ancient Canaan. The Bible applies El’s title to Israel’s God (Gen 14.18–22; Num 24.16; Pss 46.4; 47.2; esp. 78.35, where it is parallel to Rock). Gods, the lesser gods who make up the divine council (Pss 82.1; 89.6–7), to each of whom Elyon here assigns a foreign nation. **9**: The Lord’s own portion, NRSV has added own in order to identify Yahweh with Elyon and avoid the impression that Yahweh is merely a member of the pantheon; see also 4.19n. -->
 
 # [New Living Translation (NLT)](https://amzn.to/3CcB5Cu)
 Dynamic Equivalence "Thought-For-Thought" NOT paraphrase. Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27.
