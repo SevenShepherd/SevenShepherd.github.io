@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 02:30:30 -0500
+date: 2023-01-29 02:35:35 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -134,6 +134,10 @@ The idea that English speakers are required by God to use a Bible translation fr
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
 
 <script>
     var refTagger = {
