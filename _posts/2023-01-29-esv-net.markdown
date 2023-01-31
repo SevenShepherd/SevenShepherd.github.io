@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:20:00 -0500
+date: 2023-01-29 01:30:00 -0500
 categories: version bible ESV NET
 published: true
 ---
@@ -64,11 +64,11 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
     - Wash their robes or Do His commandments?
         
-        > ‘Blessed are they that do His commandments, that they may have right to the Tree of Life,’ **carries us back to the old law**... I might almost say it is **‘making the Cross of Christ of none effect.’** ... Not by works of righteousness which we have done, but by His mercy. He saved us.’ &mdash; MacLaren’s Expositions
+        > ‘Blessed are they that do His commandments, that they may have right to the Tree of Life,’ **carries us back to the old law**... I might almost say it is **‘making the Cross of Christ of none effect.’** ... Not by works of righteousness which we have done, but by His mercy. He saved us.’ &mdash; MacLaren’s Expositions (Rev. 22:14)
 
-    - The word Lucifer is not a proper name, but the Latin word for ‘morning star,’ which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. 
+    - The word Lucifer (Is 14:12 KJV) is not a proper name, but the Latin word for ‘morning star,’ (Is 14:12 ESV) which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. 
         
-        > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate &mdash; [](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
+        > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate ... Lucifer. **It is not a proper name but the Latin word for ‘morning star.’** &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
     
     - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
 
