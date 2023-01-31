@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:10:00 -0500
+date: 2023-01-29 01:20:00 -0500
 categories: version bible ESV NET
 published: true
 ---
@@ -113,7 +113,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
         > But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Daniel 12:4 KJV
 
-<span style="font-weight:Bold;font-size:24px;">🏫 III. Quantitative Linguistic Comparison and Computerized Statistical Analysis</span>
+<span style="font-weight:Bold;font-size:24px;">👨‍💻 III. Quantitative Linguistic Comparison and Computerized Statistical Analysis</span>
 
 - <span style="font-style:Italic;font-size:19px;">Point 21</span>
 
