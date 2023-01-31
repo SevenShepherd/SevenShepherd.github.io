@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:55:00 -0500
+date: 2023-01-29 02:02:02 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-- <span style="font-style:Italic;font-size:19px;">Points 1 - 5</span>
+- <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
     1. The King James Version was commissioned by [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) and uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus which was not historically received by all or even Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
 
