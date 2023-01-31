@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 04:55:00 -0500
+date: 2023-01-23 05:00:00 -0500
 categories: methods families
 published: true
 ---
@@ -86,7 +86,7 @@ From what I could glean from his videos, it would seem that Heiser uses the ESV 
 
 > ... I recommend the ESV. For a study Bible, however, I like the NET Bible ...
 
-You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), where he personally recommends the ESV, NET, NRSV, and NLT. These are the exact findings of our own research from this ministry over the past half year.
+You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), where he personally recommends the ESV, NET, and NLT. These are nearly identical findings to our own independent research over the past half year.
 
 <script>
 	var refTagger = {
