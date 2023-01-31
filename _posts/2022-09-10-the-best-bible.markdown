@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:45:00 -0500
+date: 2022-09-11 01:52:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1428,11 +1428,9 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 
 I've decided to add this section, because these options, while not as perfect as those mentioned above, are still incredibly useful.
 
-<span style="font-style:Italic;font-size:19px;">Annotations</span>
+<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
 
 Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
-
-<!-- Closest to being added to the main list, since all that separates it, is a footnote or two. -->
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
 
@@ -1442,7 +1440,7 @@ Those of you who would like a more ecumenical, university level, third party per
     - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
     - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
     - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
-    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach.
+    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
     
 <span style="font-style:Italic;font-size:19px;">Expansions</span>
 
