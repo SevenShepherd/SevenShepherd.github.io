@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 01:00:00 -0500
+date: 2023-01-29 01:10:00 -0500
 categories: version bible ESV NET
 published: true
 ---
@@ -40,7 +40,7 @@ published: true
 
 <span style="font-weight:Bold;font-size:24px;">🖋️ II. Translation</span>
 
-See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)." This accounts for 6 more major issues coming to a total of 11.
+See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)."
 
 - <span style="font-style:Italic;font-size:19px;">Points 6 - 12</span>
 
