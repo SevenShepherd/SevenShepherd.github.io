@@ -1,0 +1,144 @@
+---
+layout: post
+title: "🔖 The ESV Is Perhaps The Worlds Most Flawless Formal Equivalent Bible Version ..."
+date: 2023-01-29 01:00:00 -0500
+categories: version bible ESV NET
+published: true
+---
+
+<span style="font-style:Italic;font-size:32px;">... And It Achieved This Perfection By Using NET Full Translators' Notes During It's Creation</span>
+
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+
+<span style="font-style:Italic;font-size:32px;">21 Times The ESV & NET Proved To Be Superior To The King James Version</span>
+
+<span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
+
+- <span style="font-style:Italic;font-size:19px;">Points 1 - 5</span>
+
+    1. The King James Version was commissioned by [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) and uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus which was not historically received by all or even Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
+
+        <!-- > **Textus Receptus is the Greek text that stands behind the King James Bible.** Contrary to what its name suggests, it is not the text received by all. Even **Erasmus wasn't pleased** with the production. He never liked it. He admitted it was rushed, that it was precipitated rather than produced. He put in eight years of work. By the end, he was tired. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus) -->
+
+        > Textus Receptus is the Greek text that stands behind the King James Bible. **Contrary to what its name suggests, it is not the text received by all. Even Erasmus wasn't pleased** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus)
+
+    2. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) only used around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it's not actually a Majority text bible by methodology.
+
+        > ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.) paraphrased.
+
+        > If you could stack up all handwritten manuscripts of the New Testament—Greek, Syriac, Latin, Coptic, all languages—how tall would the stack be? ... I have said in many lectures that it would be the **equivalent of c. 4 & 1/2 Empire State Buildings stacked on top of each other**. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://danielbwallace.com/tag/number-of-new-testament-manuscripts/)
+
+    3. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
+
+        > The problem with Erasmus was that he only used really **three manuscripts**. In fact, **the manuscript Erasmus used for the book of Revelation lacked the last leaf**. He was in a rush to get his Greek New Testament published, because he knew there were others trying to get their editions out. Consequently, **he back translated from his defective copy of the Latin Vulgate into Greek for the last six verses of Revelation**. In the process, **he created twenty new textual variants that have not been found in any other manuscripts** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus)
+
+    4. The Masoretic Text is insufficient, by itself, to translate the book of Job correctly without Ugaritic and other cognate languages. In fact there's evidence that the translators were guessing.
+        
+        >  **I will never trust it** <span style="color:#bfbfbf;">[The KJV]</span> **again** in Job. ... The KJV translators had no access to that <span style="color:#bfbfbf;">[Ugaritic]</span>, nor did they have access to other cognate languages for the same purpose (like Akkadian), or the Dead Sea Scrolls. They did the best they could and did it well, but in books like Job, it is easy for someone like me to know **they are just simply guessing in places**. &mdash; [Dr. Michael S. Heiser](https://drmsh.com/bible-versions/) (created Logos Bible Software Interlinears for KJV, NIV, and NKJV)
+
+    5. The mss that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) had access to are among the youngest and most error prone mss from the 12th to 16th century as opposed to those in the Critical Text which are mere decades from the crucifixion.
+
+<span style="font-weight:Bold;font-size:24px;">🖋️ II. Translation</span>
+
+See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)." This accounts for 6 more major issues coming to a total of 11.
+
+- <span style="font-style:Italic;font-size:19px;">Points 6 - 12</span>
+
+    - Jehovah or Yahweh? The KJV uses a [fake pronunciation](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/) of the Hebrew tetragrammaton several times like the cults do: Ge 22:14; Ex 6:3; Ex 17:15; Jg 6:24; Ps 83:18; Isa 12:2; Isa 26:4.
+        
+        > The Jewish Encyclopedia: “Jehovah” — a mispronunciation of the Hebrew YHWH the name of God. This pronunciation is grammatically impossible. The form ‘Jehovah’ is a **philological impossibility**.”
+
+        > Encyclopedia Judaica: “the true pronunciation of the tetragrammaton YHWH was **never lost**. **The name was pronounced Yahweh**. It was regularly pronounced this way at least until 586 B.C., as is clear from the Lachish Letters written shortly before this date.”
+
+        > The New Jewish Encyclopedia: “It is clear that the word Jehovah is an **artificial composite**.”
+
+- <span style="font-style:Italic;font-size:19px;">Points 13 - 17</span>
+
+    - “Come” or “Come and see”?
+        
+        > Revelation 6:1 tc The addition of “and see” (καὶ ἴδε or καὶ βλέπε [kai ide or kai blepe]) to “come” (ἔρχου, erchou) in 6:1, 3-5, 7 is a gloss directed to John, i.e., “come and look at the seals and the horsemen!” But **the command ἔρχου is better interpreted as directed to each of the horsemen. The shorter reading also has the support of the better witnesses.** &mdash; NET Translators' Notes 
+
+    - Book Of Life or Tree Of Life?
+        
+        > Revelation 22:19 **tc** ... The most notorious of these is this reading. It is thus decidedly inauthentic, while **“the tree” of life, found in the best and virtually all Greek mss, is clearly authentic.** ... &mdash; NET Translators' Notes 
+
+    - Wash their robes or Do His commandments?
+        
+        > ‘Blessed are they that do His commandments, that they may have right to the Tree of Life,’ **carries us back to the old law**... I might almost say it is **‘making the Cross of Christ of none effect.’** ... Not by works of righteousness which we have done, but by His mercy. He saved us.’ &mdash; MacLaren’s Expositions
+
+    - The word Lucifer is not a proper name, but the Latin word for ‘morning star,’ which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. 
+        
+        > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate &mdash; [](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
+    
+    - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
+
+<span style="font-weight:Bold;font-size:24px;">🏫 III. Scolarship</span>
+
+<!-- “as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.”  -->
+
+<!-- - <span style="font-style:Italic;font-size:19px;">Proof</span> -->
+
+<!-- - ✔️ [ESV Study Bible](https://amzn.to/3WsN0Uw) Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **200+ biblical scholars** from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, Dallas, etc. -->
+
+- [**ESV Study Bible: English Standard Version**](https://amzn.to/3WsN0Uw)
+    - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
+    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
+    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
+    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+
+<!-- - ✔️ [NET Full Translators' Notes](https://amzn.to/3WLAgbr)
+Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. -->
+
+- [**The NET Bible, Full Notes Edition**](https://amzn.to/3WLAgbr)
+    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
+    - Translation Type: Optimal Equivalence
+    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
+    - Non-sectarian and "inter-denominational"
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+
+<!-- - ❌ -->
+
+- <span style="font-style:Italic;font-size:19px;">Points 18 - 20</span>
+
+    - Remember, that it is the “untaught” that ultimately end up twisting scripture and forming cults. Scholars are doing the Lord’s work, what they say has value. This is the primary reason everything I say is accompanied by heavy citation.
+
+        > As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are **unlearned** and unstable wrest, as they do also the other scriptures, unto their own destruction. &mdash; 2 Peter 3:16 KJV
+
+    - We are required to study and rightly divide the word of truth, or as some translations say *"Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth **accurately**."*
+
+        > **Study to shew thyself approved** unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. &mdash; 2 Timothy 2:15 KJV
+
+    - God said knowledge would increase; ergo, modern translations should be more accurate. We know for a fact that as time progresses, knowledge will increase, and so will the accuracy of Bible versions.
+
+        > But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and **knowledge shall be increased**. &mdash; Daniel 12:4 KJV
+
+<span style="font-weight:Bold;font-size:24px;">🏫 III. Quantitative Linguistic Comparison and Computerized Statistical Analysis</span>
+
+- <span style="font-style:Italic;font-size:19px;">Point 21</span>
+
+    - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. It also happens to put the KJV's **48.83%** readability and comprehension score to shame with a whopping **62.36%**.
+
+        Ever wonder why you have to read things multiple times? Does your congregation struggle to understand what they read? Are you wise enough to win souls by using the ESV **62.36%**, NET **66.28**, or NLT **70.08%**?
+
+
+<span style="font-style:Italic;font-size:32px;">Conclusion</span>
+
+- The idea that English speakers are required by God to use a Bible translation from 17th century England is... silly.
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
