@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 02:50:50 -0500
+date: 2023-01-29 02:55:50 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
 
-<span style="font-style:Italic;font-size:30px;">... Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation</span>
+<span style="font-style:Italic;font-size:32px;">... Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation</span>
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
