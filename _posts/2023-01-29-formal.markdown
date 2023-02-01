@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 02:45:40 -0500
+date: 2023-01-29 02:50:50 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-<span style="font-style:Italic;font-size:32px;">22 Times The ESV & NET Proved To Be Superior To The King James Version</span>
+<span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span>
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
@@ -75,6 +75,16 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
     
     - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
 
+- <span style="font-style:Italic;font-size:19px;">Points 19 - 20</span>
+
+    - The importance of Jude 5 and how it demonstrates the interaction between the personages of the Trinity in Gen. 19:24 proving that Jesus is Yahweh God yet again (1Co 10:4-5,9 Hosea 13:4). See [NET Notes](https://www.biblegateway.com/passage/?search=Jude%205&version=NET).
+        
+        > Now I want to remind you, although you once fully knew it, that <span style="font-weight:Bold;color:Green;">Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe.</span> &mdash; Jude 1:5 ESV (English Standard Version)
+
+    - The very potent John 1:18 that further showcases that Jesus is God made manifest in the flesh. This is from [Papyrus 75](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament#Gospel_of_John) ([𝔓75](https://en.wikipedia.org/wiki/Papyrus_75)) *"The most significant" papyrus of the New Testament to be discovered so far."* as well as [𝔓66](https://en.wikipedia.org/wiki/Papyrus_66).
+        
+        > No one has ever seen God, but <span style="font-weight:Bold;color:Green;">the one and only Son, who is himself God</span> and<span style="color:#bfbfbf;">[a]</span> is in closest relationship with the Father, has made him known. &mdash; [NIV, Parallel](https://www.biblegateway.com/passage/?search=John+1%3A18&version=ESV;NET;EXB;NIV;NLT)
+
 <span style="font-weight:Bold;font-size:24px;">🏫 III. Scholarship</span>
 
 <!-- “as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.”  -->
@@ -102,7 +112,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <!-- - ❌ -->
 
-- <span style="font-style:Italic;font-size:19px;">Points 19 - 21</span>
+- <span style="font-style:Italic;font-size:19px;">Points 21 - 23</span>
 
     - Remember, that it is the “untaught” that ultimately end up twisting scripture and forming cults. Scholars are doing the Lord’s work, what they say has value. This is the primary reason everything I say is accompanied by heavy citation.
 
@@ -118,7 +128,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <span style="font-weight:Bold;font-size:24px;">👨‍💻 III. Quantitative Linguistic Comparison and Computerized Statistical Analysis</span>
 
-- <span style="font-style:Italic;font-size:19px;">Point 22</span>
+- <span style="font-style:Italic;font-size:19px;">Point 24</span>
 
     - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. It also happens to put the KJV's <span style="font-weight:bold;color:red;">48.83%</span> readability and comprehension score to shame with a whopping <span style="font-weight:bold;color:green;">62.36%</span>.
 
