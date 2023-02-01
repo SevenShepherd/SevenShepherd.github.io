@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 03:00:00 -0500
+date: 2023-01-29 03:10:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -138,12 +138,22 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 The idea that English speakers are required by God to use a Bible translation from 17th century England is... silly. The **Scriptures** are holy; however, the  translations of those holy scriptures are sometimes found wanting. Instead of worshipping the creation like the KJV Onlyists do (likely a cult), we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures. Here are the versions that are closest to the original autographs according to science.
 
+<span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
+
+I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. A half-year after writing the article, I was pleased to find that our findings matched [**Dr. Heiser's**](https://drmsh.com/bible-versions/) who created the Interlinears for Logos Bible Software. 
+
+> ... I recommend the ESV. For a study Bible, however, I like the NET Bible ... &mdash; Dr. Michael S. Heiser
+
+I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
+
 |Translation type|Recommendations|
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the original manuscripts.
 
 Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
