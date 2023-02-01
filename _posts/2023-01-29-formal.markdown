@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 02:35:35 -0500
+date: 2023-01-29 02:40:40 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -75,7 +75,7 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
     
     - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
 
-<span style="font-weight:Bold;font-size:24px;">🏫 III. Scolarship</span>
+<span style="font-weight:Bold;font-size:24px;">🏫 III. Scholarship</span>
 
 <!-- “as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable people twist to their own destruction, as they do also the rest of the Scriptures.”  -->
 
