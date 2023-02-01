@@ -71,7 +71,7 @@ I've also taken into account quantitative linguistic comparison of Bible transla
 
 The recommendations above represent the very best university level scholarship using our oldest and best mss nearest to the original autographs. We recommend that you do not depart from the sound scholarship of reasoned eclecticism, which gave us the Greek Critical text that scholars have compiled as closest to the original manuscripts.
 
-You can read some of the reasons why I have moved from the KJV to the ESV, NET, an NLT in this [**article**](https://sevenshepherd.github.io/esv-net/). Keep in mind that scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+You can read some of the reasons why I have moved from the KJV to the ESV, NET, an NLT in this [**article**](https://sevenshepherd.github.io/formal/). Keep in mind that scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
 <!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
 
