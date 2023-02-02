@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 03:30:00 -0500
+date: 2023-01-29 03:35:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <!-- <span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span> -->
 
-<span style="font-style:Italic;font-size:32px;">24 Reasons Why I Left The KJV For The ESV, NET, & NLT</span>
+<span style="font-style:Italic;font-size:32px;">24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT</span>
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
