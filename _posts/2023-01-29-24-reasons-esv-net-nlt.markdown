@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:00:00 -0500
+date: 2023-01-29 04:10:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -15,6 +15,8 @@ published: true
 <!-- <span style="font-style:Italic;font-size:32px;">24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT</span> -->
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
+
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus is The Greek text that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) compiled and [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) used to create the King James Version (KJV).
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
@@ -75,7 +77,9 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
         
         > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate ... Lucifer. **It is not a proper name but the Latin word for ‘morning star.’** &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
     
-    - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? The word translated “evil” is from a Hebrew word that means “adversity, affliction, calamity, distress, misery.” Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity.
+    - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? 
+        
+        > The word translated “evil” is from a Hebrew word that means **“adversity, affliction, calamity, distress, misery.”** Modern scholarship in conjunction with our oldest and best manuscripts which predate those used in the TR by over a thousand years, reflect this sentiment. It is without a doubt, calamity. &mdash; [Point IX, A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3)
 
 - <span style="font-style:Italic;font-size:19px;">Points 19 - 20</span>
 
@@ -143,7 +147,13 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
-The idea that English speakers are required by God to use a Bible translation from 17th century England is... silly. The **Scriptures** are holy; however, the  translations of those holy scriptures are sometimes found wanting. Instead of worshipping the creation like the KJV Onlyists do (likely a cult), we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures. Here are the versions that are closest to the original autographs according to science.
+The above points dispel any distrust toward the Alexandrian text-type and give credence as to why we should listen to reason and scholarship instead of YouTube conspiracy theory.
+
+> Can you provide evidence or specific examples to back up your claims as I have done for you? It only takes one fact to prove something, and I just gave you over twenty.
+
+The idea that English speakers are required by God to use a Bible translation from 17th century England is utter nonsense. God would have had to re-inspired the Bible through the KJV translators In order for [KJV Onlyism](https://www.gotquestions.blog/KJV-onlyism.html) to be true. We should avoid the cults and YouTube conspiracy theorists and instead align ourselves with sound scholarship.
+
+**The Scriptures are holy**; however, the translations of those holy scriptures are sometimes *"weighed in the balances and found wanting."* Instead of worshipping the creation, we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures, not debate hard evidence and logic, clinging to the traditions of men.
 
 <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
