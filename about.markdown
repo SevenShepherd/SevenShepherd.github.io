@@ -29,6 +29,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
+- [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
 - [The DSS And LXX Solve A Mystery](https://bit.ly/3De5m43)
 - [How Do You Know If You're Saved?](https://bit.ly/3kaNNLx)
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
