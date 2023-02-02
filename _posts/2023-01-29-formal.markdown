@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 03:35:00 -0500
+date: 2023-01-29 03:40:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -110,7 +110,12 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
     - Translation Type: Optimal Equivalence
     - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
     - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.<br><br>
+    
+- [**NLT Filament Compact Giant Print**](https://amzn.to/3CcB5Cu)
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
+    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
 
 <!-- - ❌ -->
 
