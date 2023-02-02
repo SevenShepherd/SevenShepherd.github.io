@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 03:50:00 -0500
+date: 2023-01-29 03:55:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -79,7 +79,7 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
 - <span style="font-style:Italic;font-size:19px;">Points 19 - 20</span>
 
-    - The importance of Jude 5 and how it demonstrates the interaction between the personages of the Trinity in Gen. 19:24 proving that Jesus is Yahweh God yet again (1Co 10:4-5,9 Hosea 13:4). See [NET Notes](https://www.biblegateway.com/passage/?search=Jude%205&version=NET).
+    - The importance of Jude 5 and how it demonstrates the interaction between the personages of the Trinity in Gen. 19:24 LEB proving that Jesus is Yahweh God yet again (1Co 10:4-5,9 Hosea 13:4). See [NET Notes](https://www.biblegateway.com/passage/?search=Jude%205&version=NET).
         
         > Now I want to remind you, although you once fully knew it, that <span style="font-weight:Bold;color:Green;">Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe.</span> &mdash; Jude 1:5 ESV (English Standard Version)
 
