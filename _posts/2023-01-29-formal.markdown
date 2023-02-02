@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 03:15:00 -0500
+date: 2023-01-29 03:25:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -10,7 +10,9 @@ published: true
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-<span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span>
+<!-- <span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span> -->
+
+<span style="font-style:Italic;font-size:32px;">24 Reasons Why I Left The KJV For The ESV, NET, & NLT</span>
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
