@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:35:00 -0500
+date: 2023-01-29 04:45:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -143,7 +143,7 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
     - According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
 
-    - **He who wins souls is wise (Pr 11:30 NET)**. How much easier would it be to convey a message to someone with a high reading comprehension score?
+    - **He who wins souls is wise (Pr 11:30 NET)**. How much easier would it be to convey a message to someone with a high reading comprehension score? Especially considering that each of these versions are 99.8% textually pure.
 
 <!-- |Version|Readability|Literalness|Final|
 |:-:|:-:|:-:|:-:|
