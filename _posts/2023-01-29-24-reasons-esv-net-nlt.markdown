@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:20:00 -0500
+date: 2023-01-29 04:30:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -141,7 +141,9 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 - <span style="font-style:Italic;font-size:19px;">Point 24</span>
 
-    - **He who wins souls is wise (Pr 11:30 NET)**. According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
+    - According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
+
+    - **He who wins souls is wise (Pr 11:30 NET)**. How much easier would it be to convey a message to someone with a reading comprehension score greater than 60%?
 
 <!-- |Version|Readability|Literalness|Final|
 |:-:|:-:|:-:|:-:|
