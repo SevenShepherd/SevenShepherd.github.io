@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 The Worlds Most Flawless Formal Equivalent Bible Version ..."
-date: 2023-01-29 03:10:00 -0500
+date: 2023-01-29 03:15:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -130,9 +130,9 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 - <span style="font-style:Italic;font-size:19px;">Point 24</span>
 
-    - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. It also happens to put the KJV's <span style="font-weight:bold;color:red;">48.83%</span> readability and comprehension score to shame with a whopping <span style="font-weight:bold;color:green;">62.36%</span>.
-
-        Ever wonder why you have to read things multiple times? Does your congregation struggle to understand what they read? Are you wise enough to win souls by using the ESV **62.36%**, NET **66.28**, or NLT **70.08%**?
+    - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
+    
+        Readability and comprehension is important for those learning and reading the Bible: KJV <span style="font-weight:bold;color:red;">48.83%</span>, ESV <span style="font-weight:bold;color:green;">62.36%</span>, NET **66.28**, or NLT **70.08%**.
 
 <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
