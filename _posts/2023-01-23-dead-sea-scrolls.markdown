@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:25:00 -0500
+date: 2023-01-23 05:30:00 -0500
 categories: methods families
 published: true
 ---
@@ -93,6 +93,7 @@ You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), 
 |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
 |:-:|:-:||:-:|:-:|
 |ESV|✔️|✔️|❌|
+|NRSV|✔️|✔️|✔️|
 |NET|✔️|❌|✔️|
 |NLT|✔️|✔️|✔️|
 |KJV|❌|❌|✔️|
