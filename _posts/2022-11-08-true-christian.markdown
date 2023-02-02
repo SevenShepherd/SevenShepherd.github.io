@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:30:00 -0500
+date: 2023-01-01 8:35:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -628,6 +628,8 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 <!-- > And anyone who believes in God’s Son has eternal life. **Anyone who doesn’t obey the Son will never experience eternal life** but remains under God’s angry judgment.” &mdash; John 3:36 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT) -->
 
 > **If someone says, “I love God,” but hates a fellow believer,<span style="color:#bfbfbf;">[a]</span> that person is a liar**; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 (see 1Jn 2:9) [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=1+Jn+4%3A20&version=ESV;NET;NLT)
+
+> Well then, if we emphasize faith, does this mean that we can forget about the law? **Of course not!** In fact, **only when we have faith do we truly fulfill the law.** &mdash; Romans 3:31 NLT
 
 > And we can be sure that we know him if we obey his commandments. 4 **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** 5 But those who **obey** God’s word truly show how completely they love him. That is how we know we are living in him. 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
 
