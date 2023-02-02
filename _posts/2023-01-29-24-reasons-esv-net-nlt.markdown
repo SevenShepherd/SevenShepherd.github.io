@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:10:00 -0500
+date: 2023-01-29 04:20:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -141,9 +141,34 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 
 - <span style="font-style:Italic;font-size:19px;">Point 24</span>
 
-    - **He who wins souls is wise (Proverbs 11:30)** According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
+    - **He who wins souls is wise (Pr 11:30 NET)**. According to quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf) the English Standard Version (ESV) is the most literal formal equivalent bible version on Earth. 
+
+<!-- |Version|Readability|Literalness|Final|
+|:-:|:-:|:-:|:-:|
+|CSB|66.75%|64.83%|70.3%|
+|ESV|62.36%|<span style="font-weight:bold;color:green;">68.74%</span>|69.3%|
+|NASB|61.65%|67.99%|68.7%|
+|NKJV|60.32%|65.21%|67.3%|
+|NRSV|63.08%|60.51%|67.0%|
+|NET|66.28%|53.94%|63.9%|
+|NIV|67.20%|53.10%|63.6%|
+|KJV|<span style="font-weight:bold;color:red;">48.83%</span>|66.58%|61.0%|
+|NLT|70.08%|39.90%|56.6%| -->
+
+|Version|Readability|Literalness|
+|:-:|:-:|:-:|
+|NLT|<span style="font-weight:bold;color:green;">70.08%</span>|39.90%|
+|NIV|67.20%|53.10%|
+|CSB|66.75%|64.83%|
+|NET|66.28%|53.94%|
+|NRSV|63.08%|60.51%|
+|ESV|62.36%|<span style="font-weight:bold;color:green;">68.74%</span>|
+|NASB|61.65%|67.99%|
+|NKJV|60.32%|65.21%|
+|KJV|<span style="font-weight:bold;color:red;">48.83%</span>|66.58%|
+
     
-        Readability and comprehension is also important for those learning and reading the Bible: KJV <span style="font-weight:bold;color:red;">48.83%</span>, ESV <span style="font-weight:bold;color:green;">62.36%</span>, NET <span style="font-weight:bold;color:green;">66.28%</span>, or NLT <span style="font-weight:bold;color:green;">70.08%</span>.
+<!-- Readability and comprehension is also important for those learning and reading the Bible: KJV <span style="font-weight:bold;color:red;">48.83%</span>, ESV <span style="font-weight:bold;color:green;">62.36%</span>, NET <span style="font-weight:bold;color:green;">66.28%</span>, or NLT <span style="font-weight:bold;color:green;">70.08%</span>. -->
 
 <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
