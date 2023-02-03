@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:30:00 -0500
+date: 2023-01-23 05:35:00 -0500
 categories: methods families
 published: true
 ---
@@ -82,20 +82,28 @@ Here is the [**PDF**](/assets/docs/MSHD3217.pdf) I located on his research menti
 
 > This article has argued that the best translation of Deut 32.17 involves rendering **אֱלֹ֔הַ** as a singular ("God"). Doing so results in a reading where the passage assumes the reality of the other gods as demonic spiritual entities. This rendering and its result are internally consistent with other statements in Deuteronomy where YHWH disinherits the nations to the governance of lesser gods who are qualitatively and ontologically inferior to YHWH, who is unique. The lexical, syntactic, and contextual data support rendering Deut 32.17 as, "They sacrificed to demons, not God, gods they had never known ... "
 
-From what I could glean from his videos, it would seem that Heiser favors the ESV as well as Net Full Notes, and is seeking to further perfect the ESV in Deut. 32:17, especially after translating Deut. 32:8 so well. 
+From what I could glean from his videos, it would seem that Heiser favors the ESV as well as NET Full Notes, and is seeking to further perfect the ESV in Deut. 32:17, especially after translating Deut. 32:8 so well. 
 
 > ... I recommend the ESV. For a study Bible, however, I like the NET Bible ...
 
-You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), where he personally recommends the ESV, NET, and NLT. These are nearly identical findings to our own independent research over the past half year.
+You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), where he personally recommends the ESV, NET, NRSV, and NLT. These are nearly identical findings to our own independent research over the past half year.
 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (ESV; cp. “gods” in NRSV), or something like “heavenly beings” (NET Bible) or “heavenly court” (NLT) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.”
 
 |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
 |:-:|:-:||:-:|:-:|
-|ESV|✔️|✔️|❌|
 |NRSV|✔️|✔️|✔️|
-|NET|✔️|❌|✔️|
 |NLT|✔️|✔️|✔️|
+|ESV|👑|✔️|❌|
+|NET|✔️|❌|✔️|
+|CSB|🦶|🦶|✔️|
+|NIV|🦶|🦶|✔️|
+|NKJV|🦶|🦶|✔️|
+|EXB|🦶|❌|✔️|
+|LSB|🦶|❌|✔️|
+|NASB '20|🦶|❌|✔️|
+|WEB|❌|🦶|✔️|
+|NASB '95|❌|❌|✔️|
 |KJV|❌|❌|✔️|
 
 <script>
