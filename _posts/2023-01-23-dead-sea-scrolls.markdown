@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:40:00 -0500
+date: 2023-01-23 05:45:00 -0500
 categories: methods families
 published: true
 ---
@@ -92,20 +92,20 @@ You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), 
 
 |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
 |:-:|:-:||:-:|:-:|
-|NRSV|✔️|✔️|✔️|
-|NLT|✔️|✔️|✔️|
-|ESV|👑|✔️|❌|
-|NET|✔️|❌|✔️|
-|LEB|🦶|🦶|✔️|
-|CSB|🦶|🦶|✔️|
-|NIV|🦶|🦶|✔️|
-|NKJV|🦶|🦶|✔️|
-|EXB|🦶|❌|✔️|
-|LSB|🦶|❌|✔️|
-|NASB '20|🦶|❌|✔️|
-|WEB|❌|🦶|✔️|
-|NASB '95|❌|❌|✔️|
-|KJV|❌|❌|✔️|
+|<span style="font-weight:bold;color:green;">NRSV</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESV</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:green;">NET</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:orange;">LEB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:orange;">CSB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:orange;">NIV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:orange;">NKJV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:darkred;">EXB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">LSB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">NASB '20</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">WEB</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:darkred;">NASB '95</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|✔️|
 
 <script>
 	var refTagger = {
