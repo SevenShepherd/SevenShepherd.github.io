@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:45:00 -0500
+date: 2023-01-23 05:50:00 -0500
 categories: methods families
 published: true
 ---
@@ -91,7 +91,7 @@ You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (ESV; cp. “gods” in NRSV), or something like “heavenly beings” (NET Bible) or “heavenly court” (NLT) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.”
 
 |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
-|:-:|:-:||:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |<span style="font-weight:bold;color:green;">NRSV</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">ESV</span>|👑|✔️|❌|
