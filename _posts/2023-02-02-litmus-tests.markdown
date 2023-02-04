@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 01:11:11 -0500
+date: 2023-02-02 01:15:11 -0500
 categories: quick reference
 published: true
 ---
 
-This is a quick reference of the logic deduced from the articles: [24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT](https://bit.ly/3kVeunT), [The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text](https://bit.ly/3De5m43), and [A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3).
+This is a quick reference of the logic deduced from the articles: 
+- [24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT](https://bit.ly/3kVeunT)
+- [The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text](https://bit.ly/3De5m43)
+- [A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3).
 
 <!-- <span style="font-style:Italic;font-size:34px;color:Black;"><a herf="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
 
