@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 01:15:11 -0500
+date: 2023-02-02 01:20:11 -0500
 categories: quick reference
 published: true
 ---
@@ -281,7 +281,7 @@ This is a quick reference of the logic deduced from the articles:
 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (**ESV**; cp. “gods” in **NRSV**), or something like “heavenly beings” (**NET** Bible) or “heavenly court” (**NLT**) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.” -->
 
-|Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
+<!-- |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
 |:-:|:-:|:-:|:-:|
 |<span style="font-weight:bold;color:green;">NRSV</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
@@ -296,7 +296,123 @@ This is a quick reference of the logic deduced from the articles:
 |<span style="font-weight:bold;color:darkred;">NASB '20</span>|🦶|❌|✔️|
 |<span style="font-weight:bold;color:darkred;">WEB</span>|❌|🦶|✔️|
 |<span style="font-weight:bold;color:darkred;">NASB '95</span>|❌|❌|✔️|
-|<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|✔️| -->
+
+|Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
+|:-:|:-:|:-:|:-:|
+|<span style="font-weight:bold;color:green;">CEB</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>A</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>ACE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>CE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>UE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CEV</span>|✔️|✔️|❔|
+|<span style="font-weight:bold;color:#efcc00;">ESV</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">ESVUK</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">NCB</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">NABRE</span>|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">ERV</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIRV</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">TLB</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">VOICE</span>|👑|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">CSB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">HCSB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LEB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NIV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NIVUK</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NKJV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">EHV</span>|🦶|🦶|❔|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LSB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NASB '20</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">WEB</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">GNT</span>|✔️|❌|❔|
+|<span style="font-weight:bold;color:#E28D00;">ISV</span>|❔|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MSG</span>|✔️|❌|❔|
+|<span style="font-weight:bold;color:#E28D00;">WYC</span>|〰️|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">RSV</span>|👑|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">RSVCE</span>|👑|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">AKJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">AMP</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">AMPC</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">ASV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">BRG</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">DARBY</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">DRA</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">GNV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">GW</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">ICB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">JUB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">KJ21</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">KJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">MEV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NASB '95</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NCV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NLV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NOG</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">OJB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">CJB</span>|❌|❌|❔|
+|<span style="font-weight:bold;color:#BC3823;">TLV</span>|❌|❌|❔|
+|<span style="font-weight:bold;color:#BC3823;">YLT</span>|❌|❌|❔|
+
+<!-- |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
+|:-:|:-:|:-:|:-:|
+|AKJV|❌|❌|✔️|
+|AMP|❌|❌|✔️|
+|AMPC|❌|❌|✔️|
+|ASV|❌|❌|✔️|
+|BRG|❌|❌|✔️|
+|CEB|✔️|✔️|✔️|
+|CEV|✔️|✔️|❔|
+|CJB|❌|❌|❔|
+|CSB|🦶|🦶|✔️|
+|DARBY|❌|❌|✔️|
+|DRA|❌|❌|✔️|
+|EHV|🦶|🦶|❔|
+|ERV|✔️|❌|✔️|
+|ESV|✔️|✔️|❌|
+|ESVUK|✔️|✔️|❌|
+|EXB|🦶|❌|✔️|
+|GNT|✔️|❌|❔|
+|GNV|❌|❌|✔️|
+|GW|❌|❌|✔️|
+|HCSB|🦶|🦶|✔️|
+|ICB|❌|❌|✔️|
+|ISV|❔|❌|✔️|
+|JUB|❌|❌|✔️|
+|KJ21|❌|❌|✔️|
+|KJV|❌|❌|✔️|
+|LEB|🦶|🦶|✔️|
+|LSB|🦶|❌|✔️|
+|MEV|❌|❌|✔️|
+|MSG|✔️|❌|❔|
+|NABRE|✔️|✔️|❔|
+|NASB|🦶|❌|✔️|
+|NASB1995|❌|❌|✔️|
+|NCB|✔️|✔️|❔|
+|NCV|❌|❌|✔️|
+|NET|✔️|❌|✔️|
+|NIRV|✔️|❌|✔️|
+|NIV|🦶|🦶|✔️|
+|NIVUK|🦶|🦶|✔️|
+|NKJV|🦶|🦶|✔️|
+|NLT|✔️|✔️|✔️|
+|NLV|❌|❌|✔️|
+|NOG|❌|❌|✔️|
+|NRSVA|✔️|✔️|✔️|
+|NRSVACE|✔️|✔️|✔️|
+|NRSVCE|✔️|✔️|✔️|
+|NRSVUE|✔️|✔️|✔️|
+|OJB|❌|❌|✔️|
+|RSV|✔️|❌|❌|
+|RSVCE|✔️|❌|❌|
+|TLB|✔️|❌|✔️|
+|TLV|❌|❌|❔|
+|VOICE|✔️|🦶|✔️|
+|WEB|❌|🦶|✔️|
+|WYC|❌|❌|✔️|
+|YLT|❌|❌|❔| -->
 
 <script>
 	var refTagger = {
