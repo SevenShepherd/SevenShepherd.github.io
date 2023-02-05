@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:45:00 -0500
+date: 2023-01-29 04:50:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
 
 <span style="font-style:Italic;font-size:24px;">The Worlds Most Flawless Formal Equivalent Bible Version Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation</span>
+
+NET Translators' Notes are decidedly more formal and literal than any one Bible version on its own. I should also include the fact that the NLT has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible and decided to include it in this group.
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
@@ -90,6 +92,8 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
     - The very potent John 1:18 that further showcases that Jesus is God made manifest in the flesh. This is from [Papyrus 75](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament#Gospel_of_John) ([𝔓75](https://en.wikipedia.org/wiki/Papyrus_75)) *"The most significant" papyrus of the New Testament to be discovered so far."* as well as [𝔓66](https://en.wikipedia.org/wiki/Papyrus_66).
         
         > No one has ever seen God, but <span style="font-weight:Bold;color:Green;">the one and only Son, who is himself God</span> and<span style="color:#bfbfbf;">[a]</span> is in closest relationship with the Father, has made him known. &mdash; [NIV, Parallel](https://www.biblegateway.com/passage/?search=John+1%3A18&version=ESV;NET;EXB;NIV;NLT)
+
+        >  No one has ever seen God. <span style="font-weight:Bold;color:Green;">It is God the only Son</span>,<span style="color:#bfbfbf;">[a]</span> who is close to the Father’s heart,<span style="color:#bfbfbf;">[b]</span> who has made him known. &mdash; [NRSV, Parallel](https://www.biblegateway.com/passage/?search=John+1%3A18&version=ESV;NET;EXB;NRSV;NLT)
 
 <span style="font-weight:Bold;font-size:24px;">🏫 III. Scholarship</span>
 
