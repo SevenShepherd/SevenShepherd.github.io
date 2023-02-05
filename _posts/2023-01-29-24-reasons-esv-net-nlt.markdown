@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 04:55:00 -0500
+date: 2023-01-29 05:00:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available.
+I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, This is your Bible.
 
 <!-- <span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span> -->
 
