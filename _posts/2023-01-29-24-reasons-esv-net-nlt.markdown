@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:10:00 -0500
+date: 2023-01-29 05:20:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -20,7 +20,7 @@ I should also include the fact that the [**New Living Translation (NLT)**](https
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus is The Greek text that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) compiled and [King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) used to create the King James Version (KJV). King James was raised Calvinist, but departed sound teaching for anglicanism, a blend Catholicism and protestantism.
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus is The Greek text that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) compiled and [King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) used to create the King James Version (KJV). King James was raised Calvinist, but departed sound teaching for **anglicanism, which is part Catholic**.
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
