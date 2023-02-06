@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:00:00 -0500
+date: 2023-01-29 05:10:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, This is your Bible.
+I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible.
 
 <!-- <span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span> -->
 
@@ -20,11 +20,11 @@ I should also include the fact that the [**New Living Translation (NLT)**](https
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus is The Greek text that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) compiled and [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) used to create the King James Version (KJV).
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus is The Greek text that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) compiled and [King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) used to create the King James Version (KJV). King James was raised Calvinist, but departed sound teaching for anglicanism, a blend Catholicism and protestantism.
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
-    1. The King James Version was commissioned by [lifelong doctrinal calvinist King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) and uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus which was not historically received by all or even Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
+    1. The King James Version was commissioned by [King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) and uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus which was not historically received by all or even Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
 
         <!-- > **Textus Receptus is the Greek text that stands behind the King James Bible.** Contrary to what its name suggests, it is not the text received by all. Even **Erasmus wasn't pleased** with the production. He never liked it. He admitted it was rushed, that it was precipitated rather than produced. He put in eight years of work. By the end, he was tired. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus) -->
 
