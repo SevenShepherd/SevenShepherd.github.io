@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 01:45:11 -0500
+date: 2023-02-02 01:55:11 -0500
 categories: quick reference
 published: true
 ---
@@ -225,7 +225,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 
 "Come" (6:1) & "Tree of Life" (22:19) come from deductions made in NET Translator's Notes, a bible version wallace was directly involved in, and 14:12 from his [blog](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations). I decided to group these under this section with 22:14, a deduction made by MacLaren’s Expositions. -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Revelation</span>
+<span style="font-style:Italic;font-size:34px;color:Black;">Tree of Life, Wash Their Robes, Come!</span>
 
 <!-- |Version|Rev. 6:1|Rev. 22:14|Rev. 22:19|
 |:-:|:-:|:-:|:-:|:-:|
