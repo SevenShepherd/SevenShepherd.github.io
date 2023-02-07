@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 01:40:11 -0500
+date: 2023-02-02 01:45:11 -0500
 categories: quick reference
 published: true
 ---
@@ -89,7 +89,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:normal;color:black;">WYC</span>|〰️|✔️|✔️|❌|
 |<span style="font-weight:normal;color:black;">YLT</span>|❌|✔️|✔️|✔️|
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Jesus Deity</span>
+<span style="font-style:Italic;font-size:34px;color:Black;">Papyrus 75, Jesus, Granville Sharp Rule</span>
 
 <!-- |Version|John 1:18|Jude 1:5|Exo. 6:3|
 |:-:|:-:|:-:|:-:|
