@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 01:35:11 -0500
+date: 2023-02-02 01:40:11 -0500
 categories: quick reference
 published: true
 ---
@@ -39,7 +39,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:normal;color:black;">ASV</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">BRG</span>|❌|✔️|✔️|❌|
 |<span style="font-weight:normal;color:black;">CEB</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">CEV</span>|❔|❌|❔|✔️|
+|<span style="font-weight:normal;color:black;">CEV</span>|🦶|🦶|🦶|✔️|
 |<span style="font-weight:normal;color:black;">CJB</span>|✔️|✔️|🗺️|✔️|
 |<span style="font-weight:normal;color:black;">CSB</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">DARBY</span>|❌|✔️|✔️|❌|
@@ -82,7 +82,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:normal;color:black;">OJB</span>|❔|〰️|✔️|❌|
 |<span style="font-weight:normal;color:black;">RSV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">RSVCE</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">TLB</span>|❌|❌|❌|❌|
+|<span style="font-weight:normal;color:black;">TLB</span>|❌|🦶|❌|❌|
 |<span style="font-weight:normal;color:black;">TLV</span>|✔️|✔️|🗺️|✔️|
 |<span style="font-weight:normal;color:black;">VOICE</span>|❔|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">WEB</span>|👑|✔️|✔️|✔️|
