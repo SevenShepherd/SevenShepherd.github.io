@@ -18,7 +18,7 @@ permalink: /about/
 
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below. 
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
 You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
@@ -63,9 +63,11 @@ I've also taken into account quantitative linguistic comparison of Bible transla
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended| -->
 
+<!-- <br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin) -->
+
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
@@ -76,7 +78,7 @@ You can read some of the reasons why I have moved from the KJV to the ESV, NET, 
 
 <!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
 
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs)
 
 
 <!-- <span style="font-style:Italic;font-size:24px;">Doctrinal Positions</span>
@@ -89,19 +91,7 @@ You can read some of the reasons why I have moved from the KJV to the ESV, NET, 
 
 <!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
 
-<!-- - [A Comprehensive Study On Jesus Deity](https://sevenshepherd.github.io/deity/)
-- [How Do You Know If You're Saved?](https://sevenshepherd.github.io/true-christian/)
-- [An In-Depth Study On Revelation's Prologue](https://sevenshepherd.github.io/revelation-1-prologue/)
-- [A Detailed Look At The Three Heavens](https://sevenshepherd.github.io/heaven/)
-- [A Thorough Examination On Bible Versions](https://sevenshepherd.github.io/the-best-bible/)
-- [What Science Really Thinks About God](https://sevenshepherd.github.io/science/)
-- [Avoiding The Traps of The Cults](https://sevenshepherd.github.io/cults/)
-- [A Logical Take On Christian Conduct](https://sevenshepherd.github.io/rational-discourse/) -->
-
-
-
 <!-- - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online. -->
-
 
 <!-- <span style="font-style:Italic;font-size:19px;">Digital Tools</span>
 
@@ -188,7 +178,13 @@ You can read some of the reasons why I have moved from the KJV to the ESV, NET, 
 
 <!-- <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 
-<script type="text/javascript">
+-->
+
+<span style="font-style:Italic;font-size:24px;">Recommended Books</span>
+
+- [Systematic Theology, Second Edition: An Introduction to Biblical Doctrine](https://amzn.to/40QF8z5), Dr. Wayne Grudem (PhD, Cambridge).
+
+<!-- <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
     border_color: 'CCCCCC',
     header_font_color: '66a343',
