@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:15:15 -0500
+date: 2023-02-02 10:25:15 -0500
 categories: salvation
 published: true
 ---
 
-Ordo salutis is latin for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
+Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
@@ -74,6 +74,38 @@ Covenant
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ" style="color:darkgrey">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
 
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
+
+**Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
+
+<!-- The world, not only to the elect, not likely everyone in the world. -->
+
+1. Conviction
+2. Calling
+3. Regeneration
+4. Faith
+
+See Free Grace Theology below for expansion.
+
+<!-- 1. Conviction
+    - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
+    - Who?  &mdash; It must mean a large number of people, more than the elect, but not everybody (cf. John 12:19).
+    - How?  &mdash; We readily acknowledge that regeneration is the work of the Spirit... God must do even that.
+2. Calling
+    - General Call &mdash; God’s general invitation to men to come to Him.
+    - Effective Call &mdash; This is the call that only the elect respond to through faith and that results in their salvation (Rom. 8:30; 1 Cor. 1:2). This is God’s work
+3. Regeneration
+    - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
+    - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
+    - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
+    - **Fruit**: The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
+4. Faith
+    - Meaning &mdash; Faith means confidence, trust, to hold something as true.
+    - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
+    - Kinds &mdash; Intellectual / historical, miracle, temporary, saving. -->
+
+<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:darkgrey">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
+
 <span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
 
 **John MacArthur** (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
@@ -88,8 +120,6 @@ Covenant
 8. Glorification (receiving a resurrection body)
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:darkgrey">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
-
-
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Theology Comparisons</span>
 
@@ -168,7 +198,7 @@ These comparisons are supplied by Dr. Bruce Demarest's ["The Cross and Salvation
 3. **Justification**
     - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
 4. **Sanctification**
-    - Believers should seek that instantaneous, secondblessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
+    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
 
@@ -185,13 +215,28 @@ These comparisons are supplied by Dr. Bruce Demarest's ["The Cross and Salvation
 5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
     - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;">Ryrie</span>
+<span style="font-style:Italic;font-size:24px;color:Black;">Free Grace Theology</span>
 
-1. Conviction
-2. Calling
-3. Regeneration
-4. Faith -->
+Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in [Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation](https://amzn.to/3RLs9ue).
 
+> The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
+
+1. **Conviction**
+    - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
+    - Who?  &mdash; It must mean a large number of people, more than the elect, but not everybody (cf. John 12:19).
+    - How?  &mdash; We readily acknowledge that regeneration is the work of the Spirit... God must do even that.
+2. **Calling**
+    - General Call &mdash; God’s general invitation to men to come to Him.
+    - Effective Call &mdash; This is the call that only the elect respond to through faith and that results in their salvation (Rom. 8:30; 1 Cor. 1:2). This is God’s work
+3. **Regeneration**
+    - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
+    - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
+    - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
+    - **Fruit**: The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
+4. **Faith**
+    - Meaning &mdash; Faith means confidence, trust, to hold something as true.
+    - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
+    - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
 
 <script>
     var refTagger = {
