@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:10:10 -0500
+date: 2023-02-02 10:15:15 -0500
 categories: salvation
 published: true
 ---
 
-“Ordo salutis” is latin for “The Order of Salvation.” The Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century were the first to coin the phrase.
+Ordo salutis is latin for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
