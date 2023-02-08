@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:35:00 -0500
+date: 2023-01-29 05:40:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -20,11 +20,11 @@ I should also include the fact that the [**New Living Translation (NLT)**](https
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV  are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span>, and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GNV.
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV  are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span>, and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GB.
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
-    1. The King James Version was commissioned by [King James I](https://en.wikipedia.org/wiki/History_of_the_Puritans_under_King_James_I) and uses [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) 16th century Textus Receptus which was not historically received by all or even Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
+    1. The Textus Receptus was not historically received by all or even by Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
 
         <!-- > **Textus Receptus is the Greek text that stands behind the King James Bible.** Contrary to what its name suggests, it is not the text received by all. Even **Erasmus wasn't pleased** with the production. He never liked it. He admitted it was rushed, that it was precipitated rather than produced. He put in eight years of work. By the end, he was tired. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus) -->
 
@@ -198,7 +198,7 @@ I've also taken into account quantitative linguistic comparison of Bible transla
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
