@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:05:00 -0500
+date: 2023-02-02 02:10:00 -0500
 categories: quick reference
 published: true
 ---
@@ -182,7 +182,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:black;">ESVUK</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">EXB</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">GNT</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">GNV</span>|❌|🗺️|✔️|❌|
+|<span style="font-weight:normal;color:black;">GNV</span>|❌|🗺️|✔️|🆗|
 |<span style="font-weight:bold;color:black;">GW</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">HCSB</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">ICB</span>|✔️|✔️|✔️|✔️|
@@ -203,7 +203,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:black;">NIRV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">NIV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">NIVUK</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">NKJV</span>|✔️|✔️|✔️|❌|
+|<span style="font-weight:normal;color:black;">NKJV</span>|✔️|✔️|✔️|🦶|
 |<span style="font-weight:normal;color:black;">NLT</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">NLV</span>|✔️|❌|❌|✔️|
 |<span style="font-weight:normal;color:black;">NOG</span>|👑|✔️|✔️|✔️|
@@ -211,10 +211,10 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:black;">NRSV<br>ACE</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">NRSV<br>CE</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">NRSV<br>UE</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">OJB</span>|❔|〰️|✔️|❌|
+|<span style="font-weight:normal;color:black;">OJB</span>|❔|〰️|✔️|〰️|
 |<span style="font-weight:bold;color:black;">RSV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:black;">RSVCE</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:normal;color:black;">TLB</span>|❌|🦶|❌|❌|
+|<span style="font-weight:normal;color:black;">TLB</span>|❌|🦶|🦶|❌|
 |<span style="font-weight:normal;color:black;">TLV</span>|✔️|✔️|🗺️|✔️|
 |<span style="font-weight:normal;color:black;">VOICE</span>|❔|✔️|✔️|✔️|
 |<span style="font-weight:normal;color:black;">WEB</span>|👑|✔️|✔️|✔️|
