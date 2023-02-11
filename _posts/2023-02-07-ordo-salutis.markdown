@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:30:15 -0500
+date: 2023-02-02 10:40:15 -0500
 categories: salvation
 published: true
 ---
@@ -36,7 +36,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
-Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a herf="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a>
+Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
 
@@ -230,6 +230,14 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
     - Meaning &mdash; Faith means confidence, trust, to hold something as true.
     - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
     - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Conclusion</span>
+
+- Protestants compose the largest percent of [the greatest minds ever to have existed in the sciences](https://sevenshepherd.github.io/science/), especially for the last hundred years of nobel prize.
+- The [NET Bible Full Translators' Notes](https://amzn.to/3WLAgbr) as well as the [ESV Study Bible](https://amzn.to/3WsN0Uw) are the most accurate Bibles mankind has ever produced, and they come from those who have concluded a reformed theology.
+
+**For reasons like these, I do advocate for a return to the purity of historical protestant theologies.** The Bible does warn us of a coming apostasy, a great falling away from the faith. We see this in the cults which began springing up very late in church history, especially the 19th century and later. I do the believe reformers, who gave us the five solas, are in fact the safest and most historically consistent choice, and so I currently identify with reformed theology.
+
 
 <script>
     var refTagger = {
