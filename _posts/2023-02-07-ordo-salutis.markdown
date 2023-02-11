@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:40:15 -0500
+date: 2023-02-02 10:45:45 -0500
 categories: salvation
 published: true
 ---
@@ -236,7 +236,7 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
 - Protestants compose the largest percent of [the greatest minds ever to have existed in the sciences](https://sevenshepherd.github.io/science/), especially for the last hundred years of nobel prize.
 - The [NET Bible Full Translators' Notes](https://amzn.to/3WLAgbr) as well as the [ESV Study Bible](https://amzn.to/3WsN0Uw) are the most accurate Bibles mankind has ever produced, and they come from those who have concluded a reformed theology.
 
-**For reasons like these, I do advocate for a return to the purity of historical protestant theologies.** The Bible does warn us of a coming apostasy, a great falling away from the faith. We see this in the cults which began springing up very late in church history, especially the 19th century and later. I do the believe reformers, who gave us the five solas, are in fact the safest and most historically consistent choice, and so I currently identify with reformed theology.
+**For reasons like these, I do advocate for a return to the purity of historical protestant theologies.** The Bible does warn us of a coming apostasy, a great falling away from the faith. We see this in the cults which began springing up very late in church history, especially the 19th century and later. I do believe the reformers, who gave us the five solas, are in fact the safest and most historically consistent choice, and so I currently identify with reformed theology.
 
 
 <script>
