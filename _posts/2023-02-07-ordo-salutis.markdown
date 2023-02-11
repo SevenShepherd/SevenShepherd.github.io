@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:25:15 -0500
+date: 2023-02-02 10:30:15 -0500
 categories: salvation
 published: true
 ---
@@ -27,6 +27,16 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:darkgrey">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (PhD, Cambridge)</a></sup> -->
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:darkgrey">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
+
+**Daniel Baird Wallace** (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the NET Bible, which was used by Dr. Wayne Grudem of Harvard, Cambridge, and 200 other scholars when preparing the English Standard Version.
+
+> The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version. &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+
+He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
+
+Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a herf="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
 
@@ -74,38 +84,6 @@ Covenant
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ" style="color:darkgrey">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
-
-**Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
-
-<!-- The world, not only to the elect, not likely everyone in the world. -->
-
-1. Conviction
-2. Calling
-3. Regeneration
-4. Faith
-
-See Free Grace Theology below for expansion.
-
-<!-- 1. Conviction
-    - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
-    - Who?  &mdash; It must mean a large number of people, more than the elect, but not everybody (cf. John 12:19).
-    - How?  &mdash; We readily acknowledge that regeneration is the work of the Spirit... God must do even that.
-2. Calling
-    - General Call &mdash; God’s general invitation to men to come to Him.
-    - Effective Call &mdash; This is the call that only the elect respond to through faith and that results in their salvation (Rom. 8:30; 1 Cor. 1:2). This is God’s work
-3. Regeneration
-    - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
-    - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
-    - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
-    - **Fruit**: The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
-4. Faith
-    - Meaning &mdash; Faith means confidence, trust, to hold something as true.
-    - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
-    - Kinds &mdash; Intellectual / historical, miracle, temporary, saving. -->
-
-<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:darkgrey">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
-
 <span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
 
 **John MacArthur** (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
@@ -120,6 +98,21 @@ See Free Grace Theology below for expansion.
 8. Glorification (receiving a resurrection body)
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:darkgrey">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
+
+**Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
+
+<!-- The world, not only to the elect, not likely everyone in the world. -->
+
+1. Conviction
+2. Calling
+3. Regeneration
+4. Faith
+
+See Free Grace Theology below for expansion.
+
+<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:darkgrey">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Theology Comparisons</span>
 
