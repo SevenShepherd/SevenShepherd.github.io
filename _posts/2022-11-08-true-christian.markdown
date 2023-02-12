@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:45:00 -0500
+date: 2023-01-01 8:50:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -39,7 +39,7 @@ published: true
 <!-- <div class="mt">OVERVIEW OF SOTERIOLOGY</div> -->
 <div class="mt">SALVATION</div>
 
-<div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-9 ꧂</div>
+<div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-10 ꧂</div>
 <!-- <div class="mt" style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</div> -->
 
 <blockquote cite="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=ESV;NET;NLT"> 
