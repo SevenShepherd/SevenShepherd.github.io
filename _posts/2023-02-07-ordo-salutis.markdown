@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:55:55 -0500
+date: 2023-02-02 11:15:15 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
-**Wayne Grudem** (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw" style="color:darkgrey;">ESV Study Bible</a>, and the author of over twenty-five books.
+**Wayne Grudem** (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8;">ESV Study Bible</a>, and the author of over twenty-five books.
 
 1. Election (God’s choice of people to be saved)
 2. The gospel call (proclaiming the message of the gospel)
@@ -24,9 +24,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 9. Death (going to be with the Lord)
 10. Glorification (receiving a resurrection body)
 
-<!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:darkgrey">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (PhD, Cambridge)</a></sup> -->
+<!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (PhD, Cambridge)</a></sup> -->
 
-<sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:darkgrey">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
 
@@ -36,9 +36,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
-<!-- Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a> -->
+<!-- Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:#A8A8A8;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a> -->
 
-<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF" style="color:#A8A8A8;">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
 
@@ -84,7 +84,7 @@ Covenant
 7. Preservation and perseverance
 8. Glorification -->
 
-<sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ" style="color:darkgrey">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
 
@@ -99,7 +99,7 @@ Covenant
 7. Perseverance (remaining in Christ)
 8. Glorification (receiving a resurrection body)
 
-<sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:darkgrey">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:#A8A8A8">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
 
@@ -114,7 +114,7 @@ Covenant
 
 See Free Grace Theology below for expansion.
 
-<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:darkgrey">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Theology Comparisons</span>
 
@@ -235,8 +235,13 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Conclusion</span>
 
-- Protestants compose the largest percent of [the greatest minds ever to have existed in the sciences](https://sevenshepherd.github.io/science/), especially for the last hundred years of nobel prize.
-- The [NET Bible Full Translators' Notes](https://amzn.to/3WLAgbr) as well as the [ESV Study Bible](https://amzn.to/3WsN0Uw) are the most accurate Bibles mankind has ever produced, and they come from those who have concluded a reformed theology.
+- Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/" style="color:#A8A8A8">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
+- The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
+    - <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>
+    - <a href="https://amzn.to/3WLAgbr" style="color:#A8A8A8">NET Bible Full Translators' Notes</a>
+    - <a href="https://amzn.to/3XGvXPg" style="color:#A8A8A8">New Oxford Annotated (NRSV)</a>
+
+<!-- - The <a href="https://amzn.to/3WLAgbr" style="color:#A8A8A8">NET Bible Full Translators' Notes</a>, <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>, as well as <a href="https://amzn.to/3XGvXPg" style="color:#A8A8A8">Metzger's New Oxford Annotated (NRSV)</a>, are the <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced, and most come from those who have concluded a reformed theology. -->
 
 **For reasons like these, I do advocate for a return to the purity of historical protestant theologies.** The Bible does warn us of a coming apostasy, a great falling away from the faith. We see this in the cults which began springing up very late in church history, especially the 19th century and later. I do believe the reformers, who gave us the five solas, are in fact the safest and most historically consistent choice, and so I currently identify with reformed theology.
 
