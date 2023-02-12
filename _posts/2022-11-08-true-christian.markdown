@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:50:00 -0500
+date: 2023-01-01 8:55:00 -0500
 categories: god jesus bible christian salvation
 published: true
 ---
@@ -46,7 +46,7 @@ published: true
 
 <!-- <div class='p'> <span class="verse" id="V22" style="font-weight:bold;color:black;">22&#160;</span>God saved you by his grace when you believed. And you can’t take credit for this; it is a gift from God. 9 Salvation is not a reward for the good things we have done, so none of us can boast about it. &mdash; <a href="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=NLT">New Living Translation (NLT)</a></div> -->
 
-<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 <span style="font-weight:bold;color:#29a329;">not a result of works</span>, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus <span style="font-weight:bold;color:#800080;">for good works</span>, which God prepared beforehand, that we should walk in them. &mdash; <a href="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=ESV;NET;NLT">New Living Translation (NLT)</a></div>
+<div class='p'> <span class="verse" id="V8" style="font-weight:bold;color:black;">8&#160;</span>For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 <span style="font-weight:bold;color:#29a329;">not a result of works</span>, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus <span style="font-weight:bold;color:#800080;">for good works</span>, which God prepared beforehand, that we should walk in them. &mdash; <a href="https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=ESV;NET;NLT">English Standard Version (ESV)</a></div>
 
 </blockquote>
 
