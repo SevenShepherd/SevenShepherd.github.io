@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:15:15 -0500
+date: 2023-02-02 11:20:20 -0500
 categories: salvation
 published: true
 ---
@@ -236,10 +236,11 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
 <span style="font-style:Italic;font-size:34px;color:Black;">Conclusion</span>
 
 - Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/" style="color:#A8A8A8">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
-- The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
+
+<!-- - The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
     - <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>
     - <a href="https://amzn.to/3WLAgbr" style="color:#A8A8A8">NET Bible Full Translators' Notes</a>
-    - <a href="https://amzn.to/3XGvXPg" style="color:#A8A8A8">New Oxford Annotated (NRSV)</a>
+    - <a href="https://amzn.to/3XGvXPg" style="color:#A8A8A8">New Oxford Annotated (NRSV)</a> -->
 
 <!-- - The <a href="https://amzn.to/3WLAgbr" style="color:#A8A8A8">NET Bible Full Translators' Notes</a>, <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>, as well as <a href="https://amzn.to/3XGvXPg" style="color:#A8A8A8">Metzger's New Oxford Annotated (NRSV)</a>, are the <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced, and most come from those who have concluded a reformed theology. -->
 
