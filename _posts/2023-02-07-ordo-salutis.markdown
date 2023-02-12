@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 10:45:45 -0500
+date: 2023-02-02 10:55:55 -0500
 categories: salvation
 published: true
 ---
@@ -36,7 +36,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
-Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a>
+<!-- Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a> -->
+
+<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF" style="color:darkgrey;">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
 
