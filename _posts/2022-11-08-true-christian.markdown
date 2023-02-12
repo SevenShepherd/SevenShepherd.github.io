@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 8:55:00 -0500
-categories: god jesus bible christian salvation
+date: 2023-01-01 9:00:00 -0500
+categories: god Jesus bible christian salvation
 published: true
 ---
 
