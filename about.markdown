@@ -51,7 +51,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:24px;">Recommended Material</span>
 
-This ministry endorses the following educators, books, and bibles. We also recommend the [**NLT**](https://amzn.to/3CcB5Cu) for parallel and leisure reading.
+This ministry endorses the following educators, books, and bibles.
 
 <!-- |Professor|Books|Positions|
 |:-:|:-:|:-:|
@@ -81,7 +81,7 @@ This ministry endorses the following educators, books, and bibles. We also recom
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Interlinear](https://amzn.to/3vg7yUv)
+    - [ESV Reverse Interlinear](https://amzn.to/3vg7yUv)
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)<br><br>
 
 - <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
