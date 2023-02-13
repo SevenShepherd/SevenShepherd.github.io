@@ -26,6 +26,14 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
+<span style="font-style:Italic;font-size:24px;">Our Stances</span>
+
+- Theologically conservative
+- Champion the five solas
+- Reformed theology
+- Non/Soft Cessationism
+- Dispensational Eschatology
+
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
