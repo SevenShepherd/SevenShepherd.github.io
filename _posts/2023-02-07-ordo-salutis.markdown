@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:30:20 -0500
+date: 2023-02-02 11:35:20 -0500
 categories: salvation
 published: true
 ---
@@ -111,8 +111,9 @@ Covenant
 
 1. Conviction
 2. Calling
-3. Regeneration
-4. Faith
+3. Occurs simultaneously
+    - Regeneration
+    - Faith
 
 See Free Grace Theology below for expansion.
 
