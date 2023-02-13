@@ -49,9 +49,9 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
 
-<span style="font-style:Italic;font-size:24px;">Recommended Material</span>
+<span style="font-style:Italic;font-size:24px;">Highly Recommended Material</span>
 
-This ministry endorses the following educators, books, and bibles.
+This ministry **highly recommends** and endorses the following educators, books, and bibles.
 
 <!-- |Professor|Books|Positions|
 |:-:|:-:|:-:|
