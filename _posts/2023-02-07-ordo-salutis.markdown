@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:20:20 -0500
+date: 2023-02-02 11:25:20 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
-**Wayne Grudem** (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8;">ESV Study Bible</a>, and the author of over twenty-five books.
+[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8;">ESV Study Bible</a>, and the author of over twenty-five books.
 
 1. Election (God’s choice of people to be saved)
 2. The gospel call (proclaiming the message of the gospel)
@@ -30,7 +30,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
 
-**Daniel Baird Wallace** (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the NET Bible, which was used by Dr. Wayne Grudem of Harvard, Cambridge, and 200 other scholars when preparing the English Standard Version.
+**Daniel Baird Wallace** (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the NET Bible, which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
 
 > The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version. &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
