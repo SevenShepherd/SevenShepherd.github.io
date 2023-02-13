@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:35:20 -0500
+date: 2023-02-02 11:42:20 -0500
 categories: salvation
 published: true
 ---
@@ -32,9 +32,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
 
-**Daniel Baird Wallace** (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the NET Bible, which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
+[**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the NET Bible, which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
 
-> The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version. &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+> The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version. &mdash; Dr. Wayne Grudem
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
