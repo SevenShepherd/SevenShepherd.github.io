@@ -29,10 +29,11 @@ You can also check out my custom programmed and automated Twitter based Christia
 <span style="font-style:Italic;font-size:24px;">Our Stances</span>
 
 - Theologically conservative
-- Champion the five solas
 - Reformed theology
+    - Championing the five solas
 - Non/Soft Cessationism
 - Dispensational Eschatology
+    - Premillennial & Pretrib
 
 <span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
 
