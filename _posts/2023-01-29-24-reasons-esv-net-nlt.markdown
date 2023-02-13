@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:40:00 -0500
+date: 2023-01-29 05:45:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -107,6 +107,7 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
 - [**ESV Study Bible: English Standard Version**](https://amzn.to/3WsN0Uw)
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
     - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
@@ -120,12 +121,14 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
     - Translation Type: Optimal Equivalence
     - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
     - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.<br><br>
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. 
+    - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.<br><br>
     
 - [**NLT Filament Compact Giant Print**](https://amzn.to/3CcB5Cu)
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
     - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
+    - Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc.
 
 <!-- - ❌ -->
 
