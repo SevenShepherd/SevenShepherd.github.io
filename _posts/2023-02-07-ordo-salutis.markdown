@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:25:20 -0500
+date: 2023-02-02 11:30:20 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
-[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8;">ESV Study Bible</a>, and the author of over twenty-five books.
+[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
 1. Election (God’s choice of people to be saved)
 2. The gospel call (proclaiming the message of the gospel)
@@ -26,7 +26,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (PhD, Cambridge)</a></sup> -->
 
-<sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
+<!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup> -->
+
+<sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
 
@@ -114,11 +116,13 @@ Covenant
 
 See Free Grace Theology below for expansion.
 
-<sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup>
+<!-- <sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup> -->
+
+<sup style="font-size:14px;color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Theology Comparisons</span>
 
-These comparisons are supplied by Dr. Bruce Demarest's ["The Cross and Salvation: The Doctrine of Salvation"](https://amzn.to/3HMIbPZ)
+These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8;">"The Cross and Salvation: The Doctrine of Salvation"</a>
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Reformed theology</span>
 
@@ -212,7 +216,7 @@ These comparisons are supplied by Dr. Bruce Demarest's ["The Cross and Salvation
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Free Grace Theology</span>
 
-Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in [Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation](https://amzn.to/3RLs9ue).
+Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
