@@ -77,8 +77,9 @@ This ministry **highly recommends** and endorses the following educators, books,
 |:-:|:-:|:-:|
 |[**Dr. Wayne Grudem<br>(PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|Systematic Theology|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
 |[*](https://youtu.be/s9e3Y2SMXag)|Ethics|[Christian Ethics](https://amzn.to/3ImXmk8)|
-|[**Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|
+|[**Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
 |[**Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)**]()|Old Testament Textual Criticism||
+|[*]()|Divine Council Theory|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)|
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
