@@ -39,13 +39,39 @@ You can also check out my custom programmed and automated Twitter based Christia
 - [Avoiding The Traps of The Cults](https://bit.ly/3jbqQrh)
 - [A Logical Take On Christian Conduct](https://bit.ly/3FYsOEf)
 
-<span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
+<!-- <span style="font-style:Italic;font-size:24px;">Doctrinal Positions</span>
+
+|Category|Position|
+|:-:|:-:|
+|Soteriology|Reformed theology<br>Five solas|
+|Spiritual Gifts|Non-cessationism<br>Soft-cessationism<br>Open|
+||Theological conservatism| -->
+
+<!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
+
+<span style="font-style:Italic;font-size:24px;">Recommended Material</span>
+
+This ministry endorses the following educators, books, and bibles. We also recommend the [**NLT**](https://amzn.to/3CcB5Cu) for parallel and leisure reading.
+
+<!-- |Professor|Books|Positions|
+|:-:|:-:|:-:|
+|[**Dr. Wayne Grudem (PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, Second](https://amzn.to/40QF8z5)|Reformed<br>Non-cessationist|
+|[**Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|Reformed<br>Soft-cessationist|
+|[**Dr. Michael S. Heiser (PhD, University of Wisconsin)**]()|Old Testament Textual Criticism|| -->
+
+|Professor|Category|Bibles|
+|:-:|:-:|:-:|
+|[**Dr. Wayne Grudem (PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology](https://amzn.to/40QF8z5)|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)|
+|[**Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|[**NET Full Notes**](https://amzn.to/3WLAgbr)|
+|[**Dr. Michael S. Heiser (PhD, University of Wisconsin)**]()|Old Testament Textual Criticism|See above|
+
+<!-- <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
 I recently wrote an [**article**](https://sevenshepherd.github.io/the-best-bible/) detailing the reasoning behind my conclusions on which bible versions I use. A half-year after writing the article, I was pleased to find that our findings matched [**Dr. Heiser's**](https://drmsh.com/bible-versions/) who created the Interlinears for Logos Bible Software. 
 
 > ... I recommend the ESV. For a study Bible, however, I like the NET Bible ... &mdash; Dr. Michael S. Heiser
 
-I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum):
+I've also taken into account quantitative linguistic comparison of Bible translations using computerized statistical [**analysis**](/assets/docs/AnalysisGBI.pdf). I personally own, and **highly recommend**, the following versions as they are the best of their respective [**categories**](https://wiki.logos.com/Bible_Translation_Spectrum): -->
 
 <!-- - Optimal Equivalent
     - [**NET Full Notes**](https://amzn.to/3WLAgbr), [EXB Expansions](https://amzn.to/3vlMXy5)
@@ -65,7 +91,7 @@ I've also taken into account quantitative linguistic comparison of Bible transla
 
 <!-- <br>[LSB (NASB '95)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin) -->
 
-|Translation type|Recommendations|
+<!-- |Translation type|Recommendations|
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
@@ -76,20 +102,7 @@ The recommendations above represent the very best university level scholarship u
 
 You can read some of the reasons why I have moved from the KJV to the ESV, NET, an NLT in this [**article**](https://sevenshepherd.github.io/formal/). Keep in mind that scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
-<!-- Although we do not know the exact words of Scripture in every place, even the most disparate schools of thought agree on the vast majority. Depending on how we count, the level of agreement could be up to 98 percent! -->
-
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs)
-
-
-<!-- <span style="font-style:Italic;font-size:24px;">Doctrinal Positions</span>
-
-|Category|Position|
-|:-:|:-:|
-|Soteriology|Five solae<br>Reformed, with background in free grace (systematized in the 1980s)|
-|Spiritual Gifts|Open "but cautious" Continuationism,<br>maybe "Soft" Cessationism|
-||| -->
-
-<!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs) -->
 
 <!-- - I only have the physical book, so I end up using [MOUNCE](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=MOUNCE) when I'm online. -->
 
@@ -180,9 +193,10 @@ You can read some of the reasons why I have moved from the KJV to the ESV, NET, 
 
 -->
 
-<span style="font-style:Italic;font-size:24px;">Recommended Books</span>
+<!-- <span style="font-style:Italic;font-size:24px;">Recommended Books</span>
 
-- [Systematic Theology, Second Edition: An Introduction to Biblical Doctrine](https://amzn.to/40QF8z5), Dr. Wayne Grudem (PhD, Cambridge).
+- [Systematic Theology, Second Edition: An Introduction to Biblical Doctrine](https://amzn.to/40QF8z5) by Dr. Wayne Grudem (PhD, Cambridge).
+- [The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)](https://amzn.to/3HMIbPZ) by Dr. Bruce Demarest (PhD, University of Manchester) -->
 
 <!-- <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
