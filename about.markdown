@@ -31,6 +31,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 - Theologically conservative
 - Reformed theology
     - Championing the five solas
+    - Soteriology & Ordo Salutis
 - Non/Soft Cessationism
 - Dispensational Eschatology
     - Premillennial & Pretrib
