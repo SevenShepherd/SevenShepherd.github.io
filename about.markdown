@@ -26,17 +26,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
-<span style="font-style:Italic;font-size:24px;">Our Stances</span>
-
-- Theologically conservative
-- Reformed theology
-    - Championing the five solas
-    - Soteriology & Ordo Salutis
-- Non/Soft Cessationism
-- Dispensational Eschatology
-    - Premillennial & Pretrib
-
-<span style="font-style:Italic;font-size:24px;">Recommended Articles</span>
+<span style="font-style:Italic;font-size:32px;">Recommended Articles</span>
 
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
@@ -59,29 +49,29 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
 
-<span style="font-style:Italic;font-size:24px;">Highly Recommended Material</span>
+<!-- |Translation type|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Paraphrase<br>"In-Other-Words"|Not Recommended| -->
 
-This ministry **highly recommends** and endorses the following educators, books, and bibles.
+<span style="font-style:Italic;font-size:32px;">Recommended Material</span>
 
-<!-- |Professor|Books|Positions|
-|:-:|:-:|:-:|
-|[**Dr. Wayne Grudem (PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, Second](https://amzn.to/40QF8z5)|Reformed<br>Non-cessationist|
-|[**Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|Reformed<br>Soft-cessationist|
-|[**Dr. Michael S. Heiser (PhD, University of Wisconsin)**]()|Old Testament Textual Criticism|| -->
+|Professor|Books|
+|:-:|:-:|
+|[Dr. Wayne Grudem<br>(PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
+|[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)|
+|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)|
 
-<!-- |Professor|Category|Bibles|
-|:-:|:-:|:-:|
-|[**Dr. Wayne Grudem (PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology](https://amzn.to/40QF8z5)|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)|
-|[**Dr. Daniel B. Wallace (PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|[**NET Full Notes**](https://amzn.to/3WLAgbr)|
-|[**Dr. Michael S. Heiser (PhD, University of Wisconsin)**]()|Old Testament Textual Criticism|See above| -->
+<span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
 
-|Professor|Category|Books|
-|:-:|:-:|:-:|
-|[**Dr. Wayne Grudem<br>(PhD, Cambridge)**](https://youtu.be/s9e3Y2SMXag)|Systematic Theology|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|[*](https://youtu.be/s9e3Y2SMXag)|Ethics|[Christian Ethics](https://amzn.to/3ImXmk8)|
-|[**Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)**](https://youtu.be/NikVdhp0YFs)|New Testament Textual Criticism|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[**Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)**]()|Old Testament Textual Criticism||
-|[*]()|Divine Council Theory|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)|
+This ministry **highly recommends** and endorses the following Bibles.
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
@@ -93,7 +83,11 @@ This ministry **highly recommends** and endorses the following educators, books,
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - [ESV Reverse Interlinear](https://amzn.to/3vg7yUv)
-    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)<br><br>
+    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 
 - <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
@@ -104,8 +98,12 @@ This ministry **highly recommends** and endorses the following educators, books,
     - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)<br><br>
-    
+    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+
 - <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
@@ -114,6 +112,24 @@ This ministry **highly recommends** and endorses the following educators, books,
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
     - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
+
+<span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
+
+- Theologically conservative
+- Reformed theology
+    - Championing the five solas
+    - Soteriology & Ordo Salutis
+- Non/Soft Cessationism
+- Dispensational Premillennialism
+    - Pretribulational Rapture
+- Divine Council Theory
+    - Hybrid Offspring
 
 <!-- <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
