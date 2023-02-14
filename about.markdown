@@ -67,11 +67,15 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
 
-This ministry **highly recommends** and endorses the following Bibles.
+These **highly recommended** versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the ESV represents the worlds most accurate formal equivalent bible, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible.
+
+<!-- these versions excel in literalness to the Biblical Hebrew & Koine Greek. -->
 
 |Translation type|Recommendations|
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+
+The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
@@ -82,12 +86,13 @@ This ministry **highly recommends** and endorses the following Bibles.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Reverse Interlinear](https://amzn.to/3vg7yUv)
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 |Translation type|Recommendations|
 |:-:|:-:|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+
+The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
 - <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
@@ -103,6 +108,8 @@ This ministry **highly recommends** and endorses the following Bibles.
 |Translation type|Recommendations|
 |:-:|:-:|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+
+The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading.
 
 - <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)

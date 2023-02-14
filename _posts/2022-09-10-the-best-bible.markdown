@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 01:52:00 -0500
+date: 2022-09-11 02:00:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1342,85 +1342,66 @@ Unfortunately this also removed the Expanded Bible from the finalists.
 
 <span style="font-style:Italic;font-size:32px;">Winners</span>
 
-<span style="font-style:Italic;font-size:24px;">Recommended Primary Bible</span>
+<span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
 
-<!-- - Readability 70.08%, Literalness 39.90% -->
-<!-- - [New Living Translation (NLT)](https://www.tyndale.com/nlt/) -->
+These **highly recommended** versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the ESV represents the worlds most accurate formal equivalent bible, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible.
 
-The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis]((https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf)). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible would be the best version for church, leisure reading, or travel.
+<!-- these versions excel in literalness to the Biblical Hebrew & Koine Greek. -->
 
-<!-- |NLT Filament Compact Giant Print||
-|:-:|:-|
-|Details|[Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)<br>Dynamic Equivalence "Thought-For-Thought"<br>**OT Textual Basis**: Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch, Syriac Peshitta, and the Latin Vulgate.<br>**NT Textual Basis**: UBS (4th '93), NA (27th '93)
-|Options|[NLT Compact (Economical)](https://amzn.to/3CcB5Cu)<br>[NLT Personal (Premium)](https://amzn.to/3WVcPMQ)<br>[NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)<br>[NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)<br>[NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-|Accessories|[Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)<br>[Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)<br>[(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp)| -->
-
-<!-- - Textual Basis: **OT** Masoretic Text (BHS '77), Dead Sea Scrolls (DSS), Septuagint (LXX), Samaritan Pentateuch (SP), Syriac Peshitta (S), and the Latin Vulgate (Vg) **NT** UBS4 '93, NA27 '93. -->
-
-- **NLT Filament Compact Giant Print**
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
-    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
-    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-
-<!-- - Buying Options
-    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT (Unindexed Celtic Cross)](https://amzn.to/3knrMcK)
-    - [NLT (Unindexed Rose Metallic)](https://amzn.to/3kq15E4)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
-- Accessories
-    - [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
-    - [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-    - [(Unindexed) Earth Tone Bible Tabs](https://amzn.to/3vPgxfp) -->
-
-<!-- - [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj) -->
-
-<span style="font-style:Italic;font-size:24px;">Recommended Study Material</span>
-
-These highly recommended versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the NLT favors readability, these versions excel in literalness to the Biblical Hebrew & Koine Greek.
-
-<!-- Readability & literalness scores are based on quantitative linguistic comparison of Bible translations using computerized statistical analysis, developed by Dr. Andi Wu. See [Readability & literalness](https://csbible.com/wp-content/uploads/2017/01/Quantitative-Translation-Evaluation-by-GBI.pdf). These scores do not denote textual purity, all of the following translations can claim 99.5%+ NT textual purity. -->
-
-<!-- - [131 Scholars](https://lsbible.org/faqs/) including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise 70+ scholars. -->
-<!-- - Literalness to Koine Greek exceeds 68.74% since it's more literal than the ESV, while readability is approximately 61.65% taken from the NASB score. -->
-
-<span style="font-style:Italic;font-size:19px;">Study Bible</span>
+|Translation type|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
-<!-- - Readability 62.36%, Literalness 68.74% -->
-
-<!-- - [ESV Study Bible: English Standard Version](https://www.crossway.org/bibles/esv-study-bible-case/) -->
-- **ESV Study Bible: English Standard Version**
-    - Approximately 200 biblical scholars: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+- <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
+    - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
+    - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
+    - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
     - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
-<span style="font-style:Italic;font-size:19px;">Translators' Notes</span>
+|Translation type|Recommendations|
+|:-:|:-:|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 
 The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
-<!-- - Readability 66.28%, Literalness 53.94% -->
-
-<!-- - [The NET Bible, Full Notes Edition](https://netbible.com/buy-now/net-bible-full-notes-edition/) -->
-
-- **The NET Bible, Full Notes Edition**
+- <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - Translation Type: Optimal Equivalence
-    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
+    - Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
     - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
+    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. 
+    - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
     - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+
+The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading.
+
+- <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
+    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
+    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
+    - Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
+    - Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc.
+    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
+    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
 
 <!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
 
