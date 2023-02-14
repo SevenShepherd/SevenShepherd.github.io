@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🩹 How the Legacy Standard Bible Could Even Conquer The ESV With These Fixes"
-date: 2023-02-11 01:05:05 -0500
+title: "🩹 The Legacy Standard Bible Could Even Conquer The ESV With These Fixes"
+date: 2023-02-11 01:10:10 -0500
 categories: lsb legacy version
 published: true
 ---
