@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🩹 The Legacy Standard Bible Could Even Conquer The ESV With These Fixes"
-date: 2023-02-11 01:21:21 -0500
+date: 2023-02-11 01:25:25 -0500
 categories: lsb legacy version
 published: true
 ---
@@ -9,6 +9,8 @@ published: true
 <span style="font-style:Italic;font-size:34px;color:Black;">Legacy Standard Bible</span>
 
 The Legacy Standard Bible is a worthy update to the NASB '95 & '77, essentially becoming NASB 2021. The 1995 was already considered by scholars as the most literal version of the Bible ever produced. This ministry almost crowned the LSB [*"the ultimate Bible version"*](https://sevenshepherd.github.io/the-best-bible/) in my article; however, the following simple points below gave the win to the ESV.
+
+> The NASB 1995, NASB 2020, and LSB are all accurate, clear, and readable translations that complement each other by providing a well-rounded Bible translation family. &mdash; [Lockman Foundation](https://www.lockman.org/legacy-standard-bible-lsb/)
 
 <span style="font-size:32px">🩹</span> <span style="font-style:Italic;font-size:24px;color:Black;">Fixes #1 & #2</span>
 
