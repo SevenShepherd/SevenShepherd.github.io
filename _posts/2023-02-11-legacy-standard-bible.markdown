@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔬 The Legacy Standard Bible Could Even Surpass The ESV With These Fixes"
-date: 2023-02-11 01:30:30 -0500
+date: 2023-02-11 01:35:35 -0500
 categories: lsb legacy version
 published: true
 ---
@@ -28,7 +28,7 @@ Versions of the bible that call themselves literal or formal equivalent, should 
 
 The LSB, given the fixes above, would be even greater than the ESV because, not only would it contain the latest readings including those of Jn 1:18 and Jude 1:5 "Jesus", but would exceed the ESV in the sense that it brackets instead of footnotes alternative readings, like Mat 17:20-21, which is preferable.
 
-**If the makers of the LSB really wanted to impress us, not only would they fix these simple issues, but they would provide a version that supplies the translators' notes much like the [NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr).**
+**If the makers of the LSB really wanted to exemplify 2Ti 2:15, not only would they fix these simple issues, but they would provide a version that supplies the translators' notes much like the [NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr).**
 
 As it stands, this ministry can only recommend the [New Testament with Psalms and Proverbs](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin). Please fix these simple issues and I will personally endorse this version. I sometimes carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs.
 
