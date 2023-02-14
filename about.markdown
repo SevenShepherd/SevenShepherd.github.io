@@ -71,7 +71,7 @@ This ministry **highly recommends** and endorses the following Bibles.
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
@@ -120,6 +120,8 @@ This ministry **highly recommends** and endorses the following Bibles.
 This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
 
 <span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
+
+<!-- Essential doctrine was taught to me by Chuck Smith who dedicated me to God at birth, my pretribulational premillennialist views come from Dr. Jack Van Impe as a teen and young adult, as a preteen I deduced hybrid offspring theory on my own and this lines up with divine council theory from Dr. Michael S. Heiser. I have adopted a Non-cessationist stance from Dr. Wyane Grudem, but I held this stance since I was a child from my own experiences. My latest stance was leaving free grace theology for the original reformed theology where grace is also free but repentance & christian ethics is fully acknowledged. My interest in textual criticism is thanks to my own inquisitive nature as a self-taught computer programmer and only intensified by Dr's. Daniel B. Wallace & Michael S. Heiser. -->
 
 - Essential Doctrine
     - God is triune (The Trinity)
