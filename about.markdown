@@ -124,12 +124,12 @@ This ministry does not recommend a Bible of the paraphrase translation type. We 
 - Theologically conservative
 - Reformed theology
     - Championing the five solas
-    - Soteriology & Ordo Salutis
-- Non/Soft Cessationism
-- Dispensational Premillennialism
-    - Pretribulational Rapture
-- Divine Council Theory
-    - Hybrid Offspring
+    - Soteriology & Ordo salutis
+- Non/Soft cessationism
+- Dispensational premillennialism
+    - Pretribulational rapture
+- Divine council theory
+    - Hybrid offspring
 
 <!-- <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
