@@ -71,7 +71,7 @@ This ministry **highly recommends** and endorses the following Bibles.
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
