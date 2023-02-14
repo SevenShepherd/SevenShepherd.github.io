@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 02:00:00 -0500
+date: 2022-09-11 02:10:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1443,11 +1443,20 @@ The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was al
 
 <sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
 
-- **Legacy Standard Bible (LSB)**
-    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+<!-- |Translation type|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[**LSB NT Only**](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)| -->
+
+- <a href="https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin" style="font-style:Italic;font-size:19px;">Legacy Standard Bible</a>
     - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-    - [Legacy Standard Bible (LSB) Online](https://read.lsbible.org/?q=John+8%3A56-59)
-    - Accessories: [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj), [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd), [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
+	- Translation type: formal Equivalence "Word-For-Word"
+	- Textual Basis: Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta. Novum Testamentum Graece (28th ed., 2012).
+    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
+    - [LSB Online](https://read.lsbible.org/?q=John+8%3A56-59)
+- <span style="font-style:Italic;font-size:19px;">Accessories</span>
+	- [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
+	- [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
+	- [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
 
 <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
