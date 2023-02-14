@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:45:20 -0500
+date: 2023-02-02 11:50:20 -0500
 categories: salvation
 published: true
 ---
@@ -232,7 +232,7 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
     - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
     - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
     - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
-    - **Fruit**: The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
+    - **Fruit** &mdash; The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
 4. **Faith**
     - Meaning &mdash; Faith means confidence, trust, to hold something as true.
     - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
