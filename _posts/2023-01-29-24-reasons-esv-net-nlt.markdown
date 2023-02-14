@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:45:00 -0500
+date: 2023-01-29 05:50:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -189,7 +189,7 @@ The above points dispel any distrust toward the Alexandrian text-type and give c
 
 The idea that English speakers are required by God to use a Bible translation from 17th century England is utter nonsense. God would have had to re-inspired the Bible through the KJV translators In order for [KJV Onlyism](https://www.gotquestions.blog/KJV-onlyism.html) to be true. We should avoid the cults and YouTube conspiracy theorists and instead align ourselves with sound scholarship.
 
-**The Scriptures are holy**; however, the translations of those holy scriptures are sometimes *"weighed in the balances and found wanting."* Instead of worshipping the creation, we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures, not debate hard evidence and logic, clinging to the traditions of men.
+**The Scriptures are holy**; however, the translations of those holy scriptures are sometimes more or less accurate to them. Instead of worshipping the creation, we should be trying to get as close as possible to Christ's actual words in the Biblical Hebrew, and Koine Greek Scriptures, not debate hard evidence and logic, clinging to the traditions of men.
 
 <span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
 
