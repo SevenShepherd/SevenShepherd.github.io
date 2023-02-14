@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🩹 The Legacy Standard Bible Could Even Conquer The ESV With These Fixes"
-date: 2023-02-11 01:10:10 -0500
+date: 2023-02-11 01:15:15 -0500
 categories: lsb legacy version
 published: true
 ---
@@ -17,7 +17,7 @@ The Legacy Standard Bible should adopt the DSS & LXX reading, instead of the Mas
 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (ESV; cp. “gods” in NRSV), or something like “heavenly beings” (NET Bible) or “heavenly court” (NLT) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.” &mdash; [Dr. Michael S. Heiser](https://drmsh.com/bible-versions/)
 
-The NASB line of bible versions are extraordinarily literal to the wrong underlying text in this specific instance, all NASB bible versions prove that they are not using our oldest and best manuscripts.
+The NASB line of bible versions, while extraordinarily literal, are literal to the wrong underlying text in this specific instance, and prove that they are not using our oldest and best manuscripts.
 
 <span style="font-size:32px">🩹</span> <span style="font-style:Italic;font-size:24px;color:Black;">Fix #3</span>
 
