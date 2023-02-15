@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:00:00 -0500
+date: 2023-01-01 9:10:00 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -606,8 +606,8 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 <!-- The **evidence** of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it's cause, which is by Grace alone.  -->
 # True Disciple of Christ
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> is saved by Grace when they believed (Eph 2:8-9), and they are justified [made right] by faith (Ro 5:1 ESV; Gal. 3:24 ESV).
-    - In other words, it's not by the works of <span style="font-weight:bold;color:#C70039;">Jewish law</span> that you're saved.
-- A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14).
+    - In other words, it's not by the works of <span style="font-weight:bold;color:#C70039;">Jewish law</span> or <span style="font-weight:bold;color:#800080;">good deeds</span> that you're saved.
+- A <span style="font-weight:bold;color:#333399;">True Christian</span> will receive the indwelling of the Holy Spirit the moment they believe (Ro 8:9; 1Co 12:13; Eph 1:13-14), which will result in decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18).
     - This produces the <span style="font-weight:bold;color:#800080;">fruit of the Holy Spirit</span> (Ga 5:22-23). This works in tandem with faith to <span style="font-weight:bold;color:#800080;">prove</span> that you're a <span style="font-weight:bold;color:#333399;">True Disciple</span> of Christ (John 15:8 ESV; Mt 3:8,10, Jas 2:24). <span style="font-weight:bold;color:#800080;">Fruit refers to deeds</span> <span style="font-weight:bold;color:#C70039;">not Jewish law</span> <sup>[Mt 3:10 [FSB](https://biblia.com/books/nlt/Mt3.10); Jas 2:24 [FSB](https://biblia.com/books/esv/Jas2.24)]</sup>
     - <span style="font-weight:bold;color:#800080;">deeds</span> that indicate a change of attitude (heart) on the part of John’s hearers. <sup>[Mt 3:8 [NET](https://www.biblegateway.com/passage/?search=Mt+3%3A8&version=NET)]</sup>
     - John calls for <span style="font-weight:bold;color:#800080;">action and true ethical change</span>; mere lip service will not do. <sup>[Mt 3:8 [Filament](https://amzn.to/3CcB5Cu)]</sup>
@@ -615,6 +615,7 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
     -  <span style="font-weight:bold;color:#800080;">Fruits</span>, repentance and righteous behavior <sup>[Mt. 7:16 [NOAB](https://amzn.to/3XGvXPg)]</sup>
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> does not **practice** sin (1Jn 3:9-10 NET; Gal. 5:19-21). 
     - They cannot live in a pattern of continual sin<sup>[[ESVSB](https://amzn.to/3WsN0Uw)]</sup>. There is in fact a <span style="font-weight:bold;color:#29a329;">habitual cessation</span> from sin, because God's seed [Holy Spirit<sup>[NOAB](https://amzn.to/3XGvXPg)</sup>] resides in him.
+    - Murderers will stop murdering people, imagine that!
     - Seeds grow! Reminds me of the metaphor of trees that produce fruit.
 - A <span style="font-weight:bold;color:#333399;">True Christian</span> can make mistakes (1Jn 1:8-10<sup>[ESVSB](https://amzn.to/3WsN0Uw)</sup>). 
     - This means that there **IS NOT** an <span style="font-weight:bold;color:#C70039;">absolute cessation</span> of sin. You will struggle against your sin nature (Gal 5:17; Rom. 7:15-25).
@@ -629,11 +630,23 @@ Jas 2:26 <span style="font-weight:bold;color:#800080;">Good works</span> are as 
 
 <!-- > And anyone who believes in God’s Son has eternal life. **Anyone who doesn’t obey the Son will never experience eternal life** but remains under God’s angry judgment.” &mdash; John 3:36 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT) -->
 
+<!-- 1. Fellowship with the Father and the Son through the Holy Spirit (1 John 1:3; 5:1; cf. Ps. 34:8; 1 Cor. 1:9; Gal. 2:20; Heb. 4:16)
+2. The ministry of the Holy Spirit in the heart (1 John 2:27; 4:13; cf. 1 Cor. 2:10, 12; Gal. 5:22–23)
+3. Answered prayer (1 John 3:22; 5:14)
+4. Longing for Christ’s return (1 Cor. 16:22; Phil. 3:20–21; 1 John 3:1–3)
+5. Spiritual discernment (1 John 4:1–6; cf. 2:12–19)
+6. Acute awareness of the holiness of God and the guilt of sin (1 John 1:5–10; cf. Rom. 7:14–15; 2 Cor. 7:10)
+7. Decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18)
+8. Increasing patterns of obedience (1 John 2:3; cf. John 8:31)
+9. Rejection of worldliness (1 John 2:15; cf. James 4:4)
+10. Being rejected by the world (1 John 3:13; cf. Matt. 5:10–12; John 3:19–20; 15:18–21; Phil. 1:29; 2 Tim. 3:12; 1 Pet. 4:12–14)
+11. Love for fellow Christians (1 John 2:9–11; 3:10, 16–19; cf. John 13:35; 1 Thess. 4:9) -->
+
 > **If someone says, “I love God,” but hates a fellow believer,<span style="color:#bfbfbf;">[a]</span> that person is a liar**; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 (see 1Jn 2:9) [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=1+Jn+4%3A20&version=ESV;NET;NLT)
 
 > Well then, if we emphasize faith, does this mean that we can forget about the law? **Of course not!** In fact, **only when we have faith do we truly fulfill the law.** &mdash; Romans 3:31 NLT
 
-> And we can be sure that we know him if we obey his commandments. 4 **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** 5 But those who **obey** God’s word truly show how completely they love him. That is how we know we are living in him. 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
+> And we can be sure that we know him if we obey his commandments. 4 **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** 5 But those who **obey** God’s word truly show how completely they love him. **That is how we know** we are living in him. 6 <span style="font-weight:bold;color:green;">Those who say they live in God should live their lives as Jesus did.</span> &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
 
 <!-- 
 
