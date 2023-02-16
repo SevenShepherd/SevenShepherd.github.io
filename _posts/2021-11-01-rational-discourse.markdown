@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:30:00 -0700
+date: 2021-11-01 12:35:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -207,17 +207,19 @@ Let's take a closer look at slander. First understand that God righteously hates
 |Insulting others has dire consequences.|Matthew 5:22|
 |An admonition to false teachers.|Jeremiah 23:1-3|
 
-Let's look at the difference between a true follower of Christ, and one who is Christian in name only, from the context of slander. [This article](https://www.gotquestions.org/works-of-the-flesh.html) is fairly informative as well.
+<!-- Let's look at the difference between a true follower of Christ, and one who is Christian in name only, from the context of slander. [This article](https://www.gotquestions.org/works-of-the-flesh.html) is fairly informative as well. -->
 
 > If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
+
+Please see our article: [**How Do You Know If You're Saved?**](https://bit.ly/3kaNNLx)
 
 <!-- |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
 |**Signs of a true Christian that has the indwelling of the Holy Spirit.** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.<br>Galatians 5:22–23|**Signs of a false Christian with sin nature intact, and will not inherit the kingdom of God**. Hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, and envy. Ga 5:19-21 NLT| -->
 
-|True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
+<!-- |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
-|<span style="color: #828282; font-size: 18px; letter-spacing: -1px; font-style: italic;">"But the fruit of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law." &mdash; Galatians 5:22–23</span>|<span style="color: #828282; font-size: 18px; letter-spacing: -1px; font-style: italic;">"When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, idolatry, sorcery, **hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, envy**, drunkenness, wild parties, and other sins like these. **Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God.**" &mdash; Galatians 5:19-21</span>|
+|<span style="color: #828282; font-size: 18px; letter-spacing: -1px; font-style: italic;">"But the fruit of the Spirit is **love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control**; against such things there is no law." &mdash; Galatians 5:22–23</span>|<span style="color: #828282; font-size: 18px; letter-spacing: -1px; font-style: italic;">"When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, idolatry, sorcery, **hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, envy**, drunkenness, wild parties, and other sins like these. **Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God.**" &mdash; Galatians 5:19-21</span>| -->
 
 <!-- # True Christian (<span style="color:#009933;">Fruit of the Spirit</span>)
 
