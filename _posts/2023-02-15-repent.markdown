@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏛️ The True Meaning Of Repentance"
-date: 2023-02-11 03:15:15 -0500
+date: 2023-02-11 03:20:20 -0500
 categories: repent repentance
 published: true
 ---
@@ -14,13 +14,7 @@ As some of you know I am of the "historic Protestant" position (or sometimes cal
 
 This ministry shares this same conviction in the *five solae* (Anglicized as *five solas*). The information I am about to disseminate to you is sound so please take heed to what I am about to reveal.
 
-|Five Solas|Verses|
-|:-:|:-:|
-|Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
-|Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
-|Grace alone<br>(*Sola Gratia*)|Eph 2:8-9; Ti 3:5|
-|Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
-|Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
+![Five Solas](/assets/images/solas.jpg)
 
 <!-- <span style="font-style:Italic;font-size:19px;color:Black;">Five Solae</span>
 
