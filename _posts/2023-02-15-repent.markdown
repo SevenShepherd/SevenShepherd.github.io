@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏛️ The True Meaning Of Repentance"
-date: 2023-02-11 03:30:30 -0500
+date: 2023-02-11 03:35:35 -0500
 categories: repent repentance
 published: true
 ---
@@ -75,7 +75,7 @@ The confusion seems to have begun with a man named Charles Bing who made many fa
 
 <!-- What Bing failed to tell his readers is that *"change of mind."* -->
 
-> What Bing fails to tell his readers is that *"change of mind"* is just the first possible meaning of *metanoeō*, and that the editors of the BAGD lexicon do not put **any** New Testament passages in this first category. Rather, they put **every** New Testament passage under the second meaning, **"feel remorse, repent, be converted (in religio-ethical sense)."**
+> What Bing fails to tell his readers is that *"change of mind"* is just the first possible meaning of *metanoeō*, and that the editors of the BAGD lexicon do not put **any** New Testament passages in this first category. Rather, they put **every** New Testament passage under the second meaning, <span style="font-weight:bold;color:green;">"feel remorse, repent, be converted (in religio-ethical sense)."</span>
 >
 They then go on to give many New Testament examples, and they include this statement: "Since in metanoeō the negative impulse of turning away is dominant, it is also used with apo tinos [from something]: **repent and turn away from something** (examples given include repenting from wickedness, from lawlessness, and, with the similar phrase ek tinos, repenting of murders, sorceries, sexual immorality, and thefts)."
 >
@@ -87,9 +87,9 @@ The true meaning that Bing neglects to mention, involves a much stronger sense t
 
 <span style="font-style:Italic;font-size:19px;color:Black;">No Authoritative Greek Lexicon Or English Bible Agrees With The Free Grace Movement</span>
 
-No authoritative Greek lexicon or English translation of the Bible translates the Greek terms <span style="font-weight:bold;color:teal;">metanoeō (μετανοέω) [🔊](https://youtu.be/Ql4C5vMOns8)</span> and <span style="font-weight:bold;color:teal;">metanoia (μετάνοια) [🔊](https://youtu.be/3Y-9V38-RCI)</span> as *"change your mind"* for New Testament passages.
+No authoritative Greek lexicon or English translation of the Bible translates the Greek terms <span style="font-weight:bold;color:teal;">metanoeō (μετανοέω) [🔊](https://youtu.be/Ql4C5vMOns8)</span> and <span style="font-weight:bold;color:teal;">metanoia (μετάνοια) [🔊](https://youtu.be/3Y-9V38-RCI)</span> as <span style="font-style:italic;color:darkred;">"change your mind"</span> for New Testament passages.
 
-> This meaning finds no support in any authoritative Greek lexicon or in any modern English translation... It is a definition unique to Free Grace supporters, without scholarly support from the academic community or any standard Greek reference work. It also lacks support from any English translation of the Bible. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster)
+> This meaning finds **no support in any authoritative Greek lexicon or in any modern English translation**... It is a definition unique to Free Grace supporters, **without scholarly support from the academic community or any standard Greek reference work**. It also lacks support from any English translation of the Bible. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster)
 
 <!-- <span style="font-style:Italic;font-size:19px;color:Black;">Eerily Reminiscent Of The Cults</span> -->
 
