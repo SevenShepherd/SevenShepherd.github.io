@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 11:50:20 -0500
+date: 2023-02-02 11:55:20 -0500
 categories: salvation
 published: true
 ---
@@ -107,6 +107,8 @@ Covenant
 
 **Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
 
+[⚠️ Minority view with incorrect understandings of Greek via category error.](https://sevenshepherd.github.io/repent/)
+
 <!-- The world, not only to the elect, not likely everyone in the world. -->
 
 1. Conviction
@@ -126,6 +128,8 @@ See Free Grace Theology below for expansion.
 These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8;">"The Cross and Salvation: The Doctrine of Salvation"</a>
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Reformed theology</span>
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
@@ -153,6 +157,8 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Covenant Reformed theology</span>
 
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
+
 1. **Calling**
     - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
 2. **Regeneration**
@@ -171,6 +177,8 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Luthern Theology</span>
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. **Calling or vocation**
     - God offers forgiveness of sins and right standing with himself through the offer of the Gospel that brings with it sufficient grace for the unconverted to respond to the message.
@@ -191,6 +199,8 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Arminian theology</span>
 
+[⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+
 1. **Universal, external calling**
     - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. Prevenient or “exciting” grace, which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
 2. **Repentance and faith**
@@ -204,6 +214,8 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Roman Catholic Theology</span>
 
+[⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+
 1. **The sacrament of *baptism*** (Tit 3:5) 
     - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
 2. **The sacrament of *confirmation*** (Acts 8:15-17)
@@ -216,6 +228,8 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
     - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
 
 <span style="font-style:Italic;font-size:24px;color:Black;">Free Grace Theology</span>
+
+[⚠️ Minority view with incorrect understandings of Greek via category error.](https://sevenshepherd.github.io/repent/)
 
 Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
 
