@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:00:00 -0500
+date: 2023-02-02 12:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -11,6 +11,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
 [**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. Election (God’s choice of people to be saved)
 2. The gospel call (proclaiming the message of the gospel)
@@ -38,9 +40,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
-<!-- Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem's <a href="https://amzn.to/40Mo1hF" style="color:#A8A8A8;">"Free Grace" Theology: 5 Ways It Diminishes the Gospel</a> -->
-
-<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF" style="color:#A8A8A8;">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
 
@@ -49,6 +49,8 @@ He also pursued postdoctoral studies in a variety of places, **including in Camb
 <!-- > Moreover, saints are **elected** in Christ (Eph 1:4); they are **called** to Christ (1Cor 1:9); they **believe** the truth about Christ (Rom 10:9; 1 John 5:1, 5); they turn to Christ in **repentance** (1 Pet 2:25); they are **justified** by the blood of Christ (Heb 13:12); **regeneration** takes place in Christ (2 Cor 5:17; Tit 3:5-6); they are united with Christ (Gal 2:20); they are transformed into the image of Christ (2 Cor 3:18); they are kept and **preserved** by Christ (1 John 5:18); and they will receive the **glory** of Christ (2 Thess 2:14). -->
 
 > Conversion, regeneration, union with Christ, and justification occur simultaneously in the moment of decision for Christ, and not successively. p. 43
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. God’s sovereign elective decision for life
 made in eternity past.
@@ -92,6 +94,8 @@ Covenant
 
 **John MacArthur** (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
+
 1. Foreknowledge/predestination/election (God’s choice of some unto salvation)
 2. Effectual call/regeneration (the new birth)
 3. Conversion (repentance and faith)
@@ -107,7 +111,8 @@ Covenant
 
 **Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
 
-- [⚠️ Minority view with incorrect understandings of Greek via category error.](https://sevenshepherd.github.io/repent/)
+[⚠️ Minority view (Category mistakes in Greek)](https://sevenshepherd.github.io/repent/)<br>
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 <!-- The world, not only to the elect, not likely everyone in the world. -->
 
@@ -229,13 +234,12 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <span style="font-size:24px;color:Black;">⛪ Free Grace Theology</span>
 
-- [⚠️ Minority view with incorrect understandings of Greek via category error.](https://sevenshepherd.github.io/repent/)
-- [✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-
 Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
+
+[⚠️ Minority view (Category mistakes in Greek)](https://sevenshepherd.github.io/repent/)<br>
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. **Conviction**
     - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
