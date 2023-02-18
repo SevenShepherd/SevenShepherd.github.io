@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:15:00 -0500
+date: 2023-02-02 12:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -92,7 +92,7 @@ Covenant
 
 <span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
 
-**John MacArthur** (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
+[**John MacArthur**](https://youtu.be/b47CJlE-ut0) (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
