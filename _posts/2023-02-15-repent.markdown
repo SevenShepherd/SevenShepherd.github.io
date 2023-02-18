@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 03:42:42 -0500
+date: 2023-02-11 03:45:00 -0500
 categories: repent repentance
 published: true
 ---
 
-<span style="font-style:Italic;font-size:19px;color:Black;">Hello family and friends,</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Hello family and friends,</span>
 
 As some of you know I am of the "historic Protestant" position (or sometimes called the "non-Free Grace" position). Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation.
 
@@ -18,7 +18,7 @@ This ministry shares this same conviction in the Five solas (Latin *five solae*;
 
 The information I am about to disseminate to you is sound so please take heed to what I am about to reveal.
 
-<!-- <span style="font-style:Italic;font-size:19px;color:Black;">Five Solae</span>
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">Five Solae</span>
 
 This ministry ardently defends the *five solae* (*Anglicized as five solas*) which were developed by those of the Reformed perspective as a response to heresies found in the Roman Catholic Church.
 
@@ -30,7 +30,7 @@ This ministry ardently defends the *five solae* (*Anglicized as five solas*) whi
 |Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
 |Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7| -->
 
-<span style="font-style:Italic;font-size:19px;color:Black;">Purpose</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Purpose</span>
 
 <!-- > Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2Cor. 13:5 [New Living Translation (NLT)](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:5&version=ESV;NET;NLT) -->
 
@@ -44,12 +44,13 @@ I am writing this article with some hesitation as some of you who read my articl
 
 <!-- In this article I will be arguing for the viewpoint held historically by most influential leaders and statements of faith in historic protestantism. -->
 
-<span style="font-style:Italic;font-size:19px;color:Black;">Errors Discovered</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Errors Discovered</span>
 
-After some research I have discovered errors within Free Grace theology, which stems from a minority view among the faculty members at Dallas Theological Seminary, more specifically from a man named Zane Hodges who taught from 1959 to 1986. The two topics I would like to cover are as follows:
+After some research I have discovered errors within Free Grace theology, which stems from a minority view among the faculty members at Dallas Theological Seminary, more specifically from a man named Zane Hodges who taught from 1959 to 1986. The topics I would like to cover are as follows:
 
 1. The true meaning of repentance **IS NOT** *"change of mind"* in the NT.
-2. Historical *"Justification by faith alone"* differs from the Free Grace Movement.
+2. Faith is not merely an intellectual assent to facts.
+3. Historical *"Justification by faith alone"* differs from the Free Grace Movement.
 
 <!-- In this article I will be arguing for the viewpoint held historically by most influential leaders and statements of faith in historic protestantism. -->
 
@@ -57,7 +58,7 @@ In this article I will be arguing for the view shared by most of the influential
 
 <!-- and I am convinced that the theological positions held by this movement is inconsistent with historic protestant convictions. -->
 
-<span style="font-style:Italic;font-size:19px;color:Black;">Repentance</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Repentance</span>
 
 There are two camps that have developed within the "Free Grace" movement, one believes that repentance means *"a change of mind,"* and the other group says repentance means *"an inward resolve to turn from sin"* which is optional.
 
@@ -65,7 +66,7 @@ There are two camps that have developed within the "Free Grace" movement, one be
 
 The first is more prominent and the second more reasonable; however, it will soon be evident that this is a false dichotomy.
 
-<span style="font-style:Italic;font-size:19px;color:Black;">Metanoeō and Metanoia</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Metanoeō and Metanoia</span>
 
 <!-- <sup style="font-weight:bold;color:teal;">Metanoeō (μετανοέω)</sup> <sup>[🔊](https://youtu.be/Ql4C5vMOns8)</sup> <sup>and</sup> <sup style="font-weight:bold;color:teal;">Metanoia (μετάνοια)</sup> <sup>[🔊](https://youtu.be/3Y-9V38-RCI)</sup> -->
 
@@ -77,26 +78,88 @@ The confusion seems to have begun with a man named Charles Bing who made many fa
 >
 They then go on to give many New Testament examples, and they include this statement: "Since in metanoeō the negative impulse of turning away is dominant, it is also used with apo tinos [from something]: **repent and turn away from something** (examples given include repenting from wickedness, from lawlessness, and, with the similar phrase ek tinos, repenting of murders, sorceries, sexual immorality, and thefts)."
 >
-&mdash; Dr. Wyane Grudem (PhD, Cambridge; DDiv, Westminster)
+&mdash; Dr. Wyane Grudem (PhD, Cambridge; DDiv, Westminster Theological Seminary), ["Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD). pp. 57
 
 Grudem goes on to reveal, that while Bing misleads his readers to believe that the standard Greek lexicon defines this term as *"change one's mind,"* that is <span style="font-weight:bold;color:darkred;">not the meaning this lexicon gives to it for any New Testament examples</span>. 
 
 The true meaning that Bing neglects to mention, involves a much stronger sense that includes feeling remorse, being converted, and turning away from sin, in a religious-ethical sense and in view of responsibility to God.
 
-<span style="font-style:Italic;font-size:19px;color:Black;">No Authoritative Greek Lexicon Or English Bible Agrees With The Free Grace Movement</span>
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">No Authoritative Greek Lexicon Or English Bible Agrees With The Free Grace Movement</span> -->
+
+<span style="font-style:Italic;font-size:21px;color:Black;">A Category Mistake</span>
 
 No authoritative Greek lexicon or English translation of the Bible translates the Greek terms <span style="font-weight:bold;color:teal;">metanoeō (μετανοέω) [🔊](https://youtu.be/Ql4C5vMOns8)</span> and <span style="font-weight:bold;color:teal;">metanoia (μετάνοια) [🔊](https://youtu.be/3Y-9V38-RCI)</span> as <span style="font-style:italic;color:darkred;">"change your mind"</span> for New Testament passages.
 
-> This meaning finds **no support in any authoritative Greek lexicon or in any modern English translation**... It is a definition unique to Free Grace supporters, **without scholarly support from the academic community or any standard Greek reference work**. It also lacks support from any English translation of the Bible. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster)
+> This meaning finds **no support in any authoritative Greek lexicon or in any modern English translation**... <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, **without scholarly support from the academic community or any standard Greek reference work**. It also lacks support from any English translation of the Bible. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster), ["Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD). pp. 70
 
-<!-- <span style="font-style:Italic;font-size:19px;color:Black;">Eerily Reminiscent Of The Cults</span> -->
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">Eerily Reminiscent Of The Cults</span> -->
 
+<span style="font-style:Italic;font-size:21px;color:Black;">Faith Is Not Merely An Intellectual Assent To Facts</span>
 
-<!-- <span style="font-style:Italic;font-size:19px;color:Black;">The Truth Is Written On The Hearts Of Men</span> -->
+Knowledge about the facts of Jesus's life, death, burial, and bodily resurrection on it's own is not sufficient for saving faith. Saving faith includes knowledge, approval, and personal trust.
+
+> Of course It is necessary that we have some knowledge of who Christ is and what he has done, for "how are they to believe in him of whom they have never heard?" (Rom. 10:14). &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster Theological Seminary), [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5). p. 861
+
+Logically, we already know that there are people out there who exist that both understand God's laws but simply disagree with them to their own detriment. Such is the case in Romans 1:32 where Paul says *"Though they know God’s righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them."*
+
+> Even the demons know who God is and know the facts about Jesus' life and saving works, for James says, "You believe that God is one; you do well. Even the demons believe—and shudder!" (James 2:19). But that knowledge certainly does not mean that the demons are saved. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster Theological Seminary), [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5). pp. 861-862.
+
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">Repentance Is Necessary For Salvation</span>
+
+The Rich Man And Lazarus -->
+
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">The Truth Is Written On The Hearts Of Men</span> -->
+
+<span style="font-style:Italic;font-size:21px;color:Black;">We're Justified By Faith Alone, But The Faith That Saves Is Never Alone</span>
+
+Saving faith does not include obedience, saving faith results in obedience. If anyone attempts to say that we teach that *"faith includes obedience,"* they are criticizing a straw man.
+
+> We must guard jealously the fact that faith alone is what saves us, not faith plus obedience. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster), ["Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD). p. 71
+
+Protestant leaders throughout history have consistently disagreed with the Free Grace position. Genuine saving faith will always be accompanied by good works that come **after** justification.
+
+- <span style="font-size:18px;color:Black;">John Calvin (1509-1564)</span>
+
+    The first and most influential theologian in the Reformed tradition.
+
+    > Therefore Christ justifies no one whom he does not at the same time
+    **sanctify**. ... Thus it is clear how true it is that we are justified **not without works yet not through works**. &mdash; John Calvin, [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc)
+
+    > **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.](https://amzn.to/3KhLphl)
+
+- <span style="font-size:18px;color:Black;">Formula of Concord (1576)</span>
+
+    The great summary and consensus of Lutheran doctrine.
+
+    > III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118](https://amzn.to/3k5v2cZ)
+
+- <span style="font-size:18px;color:Black;">Thirty-Nine Articles of the Church of England (1571)</span>
+
+    Doctrinal standard for Anglican and Episcopalian churches.
+
+    > XII.  &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
+
+- <span style="font-size:18px;color:Black;">Westminster Confession of Faith (1646)</span>
+
+    Doctrinal standard for Presbyterian and Reformed churches.
+
+    > 11.2:  &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626](https://amzn.to/3k5v2cZ)
+
+- <span style="font-size:18px;color:Black;">New Hampshire Baptist Confession (1833)</span>
+
+    Statement for Baptist churches.
+
+    > VII. & VIII. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45](https://amzn.to/3k5v2cZ)
+
+- <span style="font-size:18px;color:Black;">John Wesley (1703-1791)</span>
+
+    Founder of Methodism.
+
+    > &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
-This article will be finished at a later time as bad weather has threatened the area. **Please refresh the page for updates in real time.**
+This article will be finished at a later time. **Please refresh the page for updates in real time.**
 
 <!-- <span style="font-weight:bold;color:darkgreen;">Metanoeō (μετανοέω)</span> [🔊](https://youtu.be/Ql4C5vMOns8) -->
 
