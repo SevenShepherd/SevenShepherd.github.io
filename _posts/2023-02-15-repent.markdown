@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 04:00:00 -0500
+date: 2023-02-11 04:10:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -58,7 +58,7 @@ In this article I will be arguing for the view shared by most of the influential
 
 <!-- and I am convinced that the theological positions held by this movement is inconsistent with historic protestant convictions. -->
 
-<span style="font-style:Italic;font-size:21px;color:Black;">Repentance</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">I. Repentance</span>
 
 There are two camps that have developed within the "Free Grace" movement, one believes that repentance means *"a change of mind,"* and the other group says repentance means *"an inward resolve to turn from sin"* which is optional.
 
@@ -96,7 +96,13 @@ No authoritative Greek lexicon or English translation of the Bible translates th
 
 <!-- <span style="font-style:Italic;font-size:21px;color:Black;">Eerily Reminiscent Of The Cults</span> -->
 
-<span style="font-style:Italic;font-size:21px;color:Black;">Faith Is Not Merely An Intellectual Assent To Facts</span>
+<span style="font-style:Italic;font-size:21px;color:Black;">Definition of Repentance</span>
+
+Repentance takes on the second meaning of: *"feel remorse, repent, be converted (in religio-ethical sense)."* in the New Testament. Just as there are multiple meanings for the word *"spirit"* in the dictionary (i.e. the non-physical part of a person; or a distilled beverage) we need to accurately apply the true meaning of Repentance (metanoeō).
+
+> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster), ["Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD). p. 42
+
+<span style="font-weight:bold;font-size:30px;color:Black;">II. Faith Is Not Merely An Intellectual Assent To Facts</span>
 
 Knowledge about the facts of Jesus's life, death, burial, and bodily resurrection on it's own is not sufficient for saving faith. Saving faith includes knowledge, approval, and personal trust.
 
@@ -114,7 +120,7 @@ The Rich Man And Lazarus -->
 
 <!-- <span style="font-style:Italic;font-size:21px;color:Black;">The Truth Is Written On The Hearts Of Men</span> -->
 
-<span style="font-style:Italic;font-size:21px;color:Black;">We're Justified By Faith Alone, But The Faith That Saves Is Never Alone</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">III. We're Justified By Faith Alone, But The Faith That Saves Is Never Alone</span>
 
 Saving faith does not include obedience, saving faith results in obedience. If anyone attempts to say that we teach that *"faith includes obedience,"* they are criticizing a straw man.
 
