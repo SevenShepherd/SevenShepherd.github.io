@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 03:45:00 -0500
+date: 2023-02-11 03:50:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -137,25 +137,42 @@ Protestant leaders throughout history have consistently disagreed with the Free 
 
     Doctrinal standard for Anglican and Episcopalian churches.
 
-    > XII.  &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
+    > XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit**. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
 
 - <span style="font-size:18px;color:Black;">Westminster Confession of Faith (1646)</span>
 
     Doctrinal standard for Presbyterian and Reformed churches.
 
-    > 11.2:  &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626](https://amzn.to/3k5v2cZ)
+    > 11.2: Faith, thus receiving and resting on Christand his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626](https://amzn.to/3k5v2cZ)
 
 - <span style="font-size:18px;color:Black;">New Hampshire Baptist Confession (1833)</span>
 
     Statement for Baptist churches.
 
-    > VII. & VIII. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45](https://amzn.to/3k5v2cZ)
+    > VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45](https://amzn.to/3k5v2cZ)
 
 - <span style="font-size:18px;color:Black;">John Wesley (1703-1791)</span>
 
     Founder of Methodism.
 
-    > &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
+    > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... So that if good works do not follow our faith, even all inward and outward holiness, it is plain our faith is nothing worth; we are yet in our sins. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
+
+- <span style="font-size:18px;color:Black;">Assemblies of God Statement of Fundamental Truths (1916)</span>
+
+    One of the oldest and largest Pentecostal denominations.
+
+    > Salvation is received through repentance toward God and faith toward the Lord Jesus Christ. ... The outward evidence to all men is a life of righteousness and true holiness (Eph. 4:24; Titus 2:12). &mdash; ["Assemblies of God Statement of Fundamental Truths," sec. 5]()
+
+We have concluded that the "Free Grace" movement is not upholding the Reformation doctrine of *"justification by faith alone"* and does not align with *sola fide*.
+
+<!-- <span style="font-style:Italic;font-size:21px;color:Black;">Conclusions</span> 
+
+- Repentance is a heartfelt sorrow for sin, a renouncing of it, and sincere commitment to forsake it and walk in obedience to Christ.
+- Faith is not merely an intellectual assent to facts.
+- The Free Grace movement does not teach the Reformation doctrine of  *"Justification by faith alone"* (*sola fide*).
+- Repentance from sin is necessary for saving faith.
+- Good works and continuing to believe follow saving faith. -->
+
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
