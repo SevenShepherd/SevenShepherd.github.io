@@ -16,6 +16,8 @@ permalink: /about/
     }
 </style> -->
 
+<!-- https://youtu.be/yumoqNlaPCE?t=120 -->
+
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below. 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
@@ -28,6 +30,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Articles</span>
 
+- [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
 - [The DSS And LXX Solve A Mystery](https://bit.ly/3De5m43)
@@ -126,6 +129,25 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
 
+<!-- <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+
+This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+
+- Interlinear
+    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
+- Hebrew & Greek Lexicons
+    - [The Hebrew and Aramaic Lexicon of the Old Testament](https://amzn.to/3S4JnTw)
+    - [A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.](https://amzn.to/3I4m4ES)
+    - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle)
+- OT In Biblical Hebrew
+    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
+- NT In Koine Greek
+    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
+- Courses
+    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
+    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
+    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack) -->
+
 <span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
 
 <!-- Essential doctrine was taught to me by Chuck Smith who dedicated me to God at birth, my pretribulational premillennialist views come from Dr. Jack Van Impe as a teen and young adult, as a preteen I deduced hybrid offspring theory on my own and this lines up with divine council theory from Dr. Michael S. Heiser. I have adopted a Non-cessationist stance from Dr. Wyane Grudem, but I held this stance since I was a child from my own experiences. My latest stance was leaving free grace theology for the original reformed theology where grace is also free but repentance & christian ethics is fully acknowledged. My interest in textual criticism is thanks to my own inquisitive nature as a self-taught computer programmer and only intensified by Dr's. Daniel B. Wallace & Michael S. Heiser. -->
@@ -135,6 +157,7 @@ This ministry does not recommend a Bible of the paraphrase translation type. We 
     - Jesus Is God made manifest
     - Bodily resurrection of Jesus
     - Ascended to heaven and will return
+    - Grace alone, faith alone
 - Theologically conservative
 - Reformed theology
     - Championing the five solas
