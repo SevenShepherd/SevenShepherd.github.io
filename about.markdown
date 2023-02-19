@@ -31,6 +31,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 <span style="font-style:Italic;font-size:32px;">Recommended Articles</span>
 
 - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
+- [The Order Of Salvation](https://bit.ly/3xzIZms)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
 - [The DSS And LXX Solve A Mystery](https://bit.ly/3De5m43)
@@ -61,12 +62,14 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Material</span>
 
-|Professor|Books|
+|Professor/Preacher|Books|
 |:-:|:-:|
 |[Dr. Wayne Grudem<br>(PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)|
+|Chuck Smith|[C2000](https://calvarychapel.com/posts/c2000/)|
 |[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
 |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF), [Unfiltered](https://amzn.to/3lyYGrq)|
+
+<!-- |[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)| -->
 
 <span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
 
