@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:50:50 -0500
+date: 2023-02-19 10:55:55 -0500
 categories: essential doctrine
 published: true
 ---
@@ -80,19 +80,27 @@ Jesus himself of his identity as Messiah. -->
 
 <sup>*See <a href="https://bit.ly/3xzIZms">Ordo Salutis</a> and <a href="https://bit.ly/3IchrbQ">Repentance</a> for nuances.</sup>
 
-The 16th century Protestant Reformation saw the development of the five latin phrases known as the Five solas (Latin *five solae*; Anglicized as *five solas*), which were developed as a response to heresies found in the Roman Catholic Church. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation.
+Salvation comes from the Grace of God when we believed (Jn 3:16), we were justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and faith was credited to us as righteousness (Ro 4:3,9,22; Jas 2:23; Gal. 3:9).
 
-<!-- > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 <span style="font-weight:bold;color:#29a329;">not a result of works</span>, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus <span style="font-weight:bold;color:#800080;">for good works</span>, which God prepared beforehand, that we should walk in them. &mdash; Ephesians 2:8-10 ESV -->
+> <sup style="font-weight:bold;">8</sup> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:green;">not a result of works</span>, so that no one may boast. <sup style="font-weight:bold;">10</sup> For we are his workmanship, created in Christ Jesus **for good works**, which God prepared beforehand, that we should walk in them. &mdash; Ephesians 2:8-10 ESV
 
-> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 **not a result of works**, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus **for good works**, which God prepared beforehand, that we should walk in them. &mdash; Ephesians 2:8-10 ESV
+The 16th century Protestant Reformation saw the development of the five latin phrases, known as the Five solas, as a response to heresies found in the Roman Catholic Church. 
 
-|Five Solas||
+<!-- > Roman Catholicism denies salvation by grace through faith alone in Christ alone. Therefore, Roman Catholicism is outside of Christianity. &mdash; Matt Slick (carm.org) -->
+
+
+<!-- (Latin *five solae*; Anglicized as *five solas*) -->
+<!-- We're saved by Grace alone (*Sola Gratia*), through Faith alone (*Sola Fide*), in Christ alone (*Solus Christus*), according to scripture alone (*Sola Scriptura*), for the Glory of God alone (*Soli Deo Gloria*). -->
+
+<!-- Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
+
+<!-- |Five Solas||
 |:-:|:-:|
-|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 5:4|
+|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4|
 |Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
 |In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
-|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
+|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7| -->
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
