@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:55:55 -0500
+date: 2023-02-19 11:00:00 -0500
 categories: essential doctrine
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <sup>*See <a href="https://bit.ly/3HIQIoK">A Comprehensive Study On Jesus Deity</a></sup>
 
-All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14; Phil 2:5-8; Co 2:9) as prophesied (Is 9:6). According to our *"most significant papyrus of the New Testament to be discovered so far,"* John reads:
+All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14; Phil 2:5-8; Co 2:9) as prophesied (Is 9:6; Zec. 12:10). According to our *"most significant papyrus of the New Testament to be discovered so far,"* John reads:
 
 <!-- <a href="https://en.wikipedia.org/wiki/Papyrus_75" style="font-style:Italic;font-size:21px;">The Most Significant Papyrus Of The New Testament</a>
 
@@ -101,6 +101,18 @@ The 16th century Protestant Reformation saw the development of the five latin ph
 |In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
 |For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7| -->
+
+<span style="font-weight:bold;font-size:30px;color:Black;">III. Death, Burial, And Bodily Resurrection</span>
+
+> <sup style="font-weight:bold;">14</sup> And if Christ has not been raised, then our preaching is in vain and your faith is in vain. ... <sup style="font-weight:bold;">17</sup> And if Christ has not been raised, your faith is futile and you are still in your sins. &mdash; 1Co 15:14,17 ESV
+
+Jesus would be raised in the same body he died in.
+
+> <sup style="font-weight:bold;">19</sup> Jesus answered them, “Destroy this temple, and in three days I will raise it up.” <sup style="font-weight:bold;">20</sup> The Jews then said, “It has taken forty-six years to build this temple, and will you raise it up in three days?” <sup style="font-weight:bold;">21</sup> But he was speaking about the temple of his body. &mdash; John 2:19-21 ESV
+
+> <sup style="font-weight:bold;">36</sup> As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” <sup style="font-weight:bold;">37</sup> But they were startled and frightened and thought they saw a spirit. <sup style="font-weight:bold;">38</sup> And he said to them, “Why are you troubled, and why do doubts arise in your hearts? <sup style="font-weight:bold;">39</sup> See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.” &mdash; Luke 24:36-39 ESV
+
+> <sup style="font-weight:bold;">27</sup> 27 Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” <sup style="font-weight:bold;">28</sup> Thomas answered him, “My Lord and my God!” &mdash; John 20:27 ESV
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
