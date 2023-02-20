@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:20:20 -0500
+date: 2023-02-19 11:25:25 -0500
 categories: essential doctrine
 published: true
 ---
@@ -41,7 +41,7 @@ This fact is even irrefutable by secular and Jewish scholarship when analyzing w
 > **58: I am, see 4.26n**; 4.26: I am (see note c) **implying a theophany** as in Ex 3.14; Isa 41.4; 43.10; 46.4. This is the first announcement by
 Jesus himself of his identity as Messiah. &mdash; [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
 
-<a href="https://www.biblegateway.com/passage/?search=2Pe+1%3A1%3B+Titus+2%3A13&version=ESV;NET;EXB;NLT" style="font-style:Italic;font-size:19px;">The Apostles Own Words</a>
+<a href="https://www.biblegateway.com/passage/?search=2Pe+1%3A1%3B+Titus+2%3A13&version=ESV;NET;EXB;NLT" style="font-style:Italic;font-size:19px;">Granville Sharp Rule Greek Construction</a>
 
 The Apostle Peter and the Apostle Paul called Jesus God in two *"... of the clearest statements in the NT concerning the deity of Christ."* according to [the worlds foremost scholars](https://amzn.to/3WLAgbr).
 
@@ -50,13 +50,15 @@ The Apostle Peter and the Apostle Paul called Jesus God in two *"... of the clea
 <sup style="font-weight:bold;">13</sup> waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ**, &mdash; Titus 2:13 NET
 
 *"The construction in Greek is known as the **Granville Sharp rule**"*, this Greek construction has been around for over 200 years, and proves that *"The terms “God and Savior” both refer to the same person, Jesus Christ."*
+
+<a href="https://sevenshepherd.github.io/deity-11/" style="font-style:Italic;font-size:19px;">Logic & Deductive Reasoning</a>
+
+Remember also, that [there is no savior but Yahweh](https://sevenshepherd.github.io/deity-18/). The bible reveals in Titus 2:13 and 2 Peter 1:1 that Jesus is our savior as well as our God, ergo, Jesus is Yahweh.
+
 <!-- >
 **e.** 2 Peter 1:1 & **b.** Titus 2:13 NET tn The terms “God and Savior” both refer to the same person, Jesus Christ. This is one of the clearest statements in the NT concerning the deity of Christ. The construction in Greek is known as the **Granville Sharp rule**, named after the English philanthropist-linguist who first clearly articulated the rule in 1798. Sharp pointed out that in the construction article-noun-καί-noun (where καί [kai] = “and”), when two nouns are singular, personal, and common (i.e., not proper names), they always had the same referent. &mdash; [NET Translators' Notes](https://amzn.to/3WLAgbr) -->
 
 > I, even I, am Yahweh, And there is no savior besides Me. — Isaiah 43:11 LSB
-
-Remember also, that there is no savior but Yahweh. The bible reveals in Titus 2:13 and 2 Peter 1:1 that Jesus is our savior as well as our God, ergo, Jesus is Yahweh.
-
 
 <!-- > No one has ever seen God. **It is God the only Son**, who is close to the Father’s heart, who has made him known. &mdash; John 1:18 NRSV -->
 
