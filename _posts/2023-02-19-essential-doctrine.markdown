@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:20:20 -0500
+date: 2023-02-19 10:25:25 -0500
 categories: essential doctrine
 published: true
 ---
@@ -14,8 +14,8 @@ published: true
 
 <sup>*See <a href="https://bit.ly/3HIQIoK">A Comprehensive Study On Jesus Deity</a></sup>
 
-# [Papyrus 75](https://en.wikipedia.org/wiki/Papyrus_75)
-All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14) in the line of King David as prophesied (Is 9:6). [𝔓75](https://en.wikipedia.org/wiki/Papyrus_75) *"The most significant" papyrus of the New Testament to be discovered so far,"* as well as [𝔓66](https://en.wikipedia.org/wiki/Papyrus_66), further showcases this fact in John. 
+# [The Most Significant Papyrus Of The New Testament](https://en.wikipedia.org/wiki/Papyrus_75)
+All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14) in the line of King David as prophesied (Is 9:6). [Papyrus 75 (𝔓75)](https://en.wikipedia.org/wiki/Papyrus_75) *"The most significant" papyrus of the New Testament to be discovered so far,"* as well as [𝔓66](https://en.wikipedia.org/wiki/Papyrus_66), further showcases this fact in John. 
 
 <!-- https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament#Gospel_of_John -->
 
@@ -46,9 +46,8 @@ Jesus declared Himself to be the Great “I AM” (John 8:56-59), the Old Testam
 
 > JOHN—NOTE ON 8:58 If there had been any uncertainty about Jesus’ identity in other passages where he said, “I am” (e.g., 6:35; 9:5; 11:25), there was no confusion here because **Jesus is claiming to be the one who was alive before Abraham was, that is, more than 2,000 years earlier.** Jesus does not simply say, “Before Abraham was, I was,” which would simply mean that he is more than 2,000 years old. Rather, **he uses the present tense “I am” in speaking of existence more than 2,000 years earlier, thus claiming a kind of transcendence over time that could only be true of God.** The words “I am” in Greek use the same expression (Egō eimi) found in the Septuagint in the first half of God’s self-identification in Ex. 3:14, “I AM WHO I AM.” **Jesus is thus claiming not only to be eternal but also to be the God who appeared to Moses at the burning bush.** His Jewish opponents understood his meaning immediately and they “picked up stones” to stone him to death for blasphemy (see John 8:59). See notes on 6:20; 8:24.
 
-
 # [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
-This fact is even irrefutable by secular and Jewish scholarship when anaylizing what the New Testament teaches in John. As is evidenced by the [New Oxford Annotated Bible's annotations](https://amzn.to/3XGvXPg). The study Bible from Oxford University Press. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
+This fact is even irrefutable by secular and Jewish scholarship when analyzing what the New Testament teaches in John. As is evidenced by the [New Oxford Annotated Bible's annotations](https://amzn.to/3XGvXPg). The study Bible from Oxford University Press. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority.
 
 > <sup style="font-weight:bold;">25</sup> The woman said to him, ‘I know that Messiah is coming’ (who is called Christ). ‘When he comes, he will proclaim all things to us.’ <sup style="font-weight:bold;">26</sup> **Jesus said to her, ‘I am** he,<span style="color:#A7A7A7;">[**Gk I am**]</span> the one who is speaking to you.’ ... &mdash; John 4:25-26 NOAB (NRSV)
 >
