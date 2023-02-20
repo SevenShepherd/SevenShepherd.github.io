@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:35:35 -0500
+date: 2023-02-19 10:40:40 -0500
 categories: essential doctrine
 published: true
 ---
@@ -72,18 +72,17 @@ Jesus himself of his identity as Messiah.
 
 The 16th century Protestant Reformation saw the development of the five latin phrases known as the Five solas (Latin *five solae*; Anglicized as *five solas*), which were developed as a response to heresies found in the Roman Catholic Church. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation.
 
-|Five Solas||
-|:-:|:-:|
-|Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
-|Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
-|Grace alone<br>(*Sola Gratia*)|Eph 2:8-9; Ti 3:5|
-|Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
-|Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
-
 <!-- > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 <span style="font-weight:bold;color:#29a329;">not a result of works</span>, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus <span style="font-weight:bold;color:#800080;">for good works</span>, which God prepared beforehand, that we should walk in them. &mdash; Ephesians 2:8-10 ESV -->
 
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, 9 **not a result of works**, so that no one may boast. 10 For we are his workmanship, created in Christ Jesus **for good works**, which God prepared beforehand, that we should walk in them. &mdash; Ephesians 2:8-10 ESV
 
+|Five Solas||
+|:-:|:-:|
+|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5|
+|Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
+|In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
+|According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
+|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
