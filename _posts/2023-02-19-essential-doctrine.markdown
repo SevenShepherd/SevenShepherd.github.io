@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:10:00 -0500
+date: 2023-02-19 11:15:00 -0500
 categories: essential doctrine
 published: true
 ---
@@ -86,21 +86,22 @@ Salvation comes from the Grace of God when we believed (Jn 3:16), we were justif
 
 The 16th century Protestant Reformation saw the development of the five latin phrases, known as the Five solas, as a response to heresies found in the Roman Catholic Church. 
 
-<!-- > Roman Catholicism denies salvation by grace through faith alone in Christ alone. Therefore, Roman Catholicism is outside of Christianity. &mdash; Matt Slick (carm.org) -->
+> <sup style="font-weight:bold;">2:21</sup> I do not nullify the grace of God; for **if justification<span style="color:#A7A7A7;">[a]</span> comes through the law, then Christ died for nothing**. ... <sup style="font-weight:bold;">5:4</sup> You who want to be justified by the law have **cut yourselves off from Christ**; you have fallen away from grace. &mdash; Gal. 2:21;5:4 NRSV. a. Galatians 2:21 Or righteousness
 
+Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened.
 
 <!-- (Latin *five solae*; Anglicized as *five solas*) -->
 <!-- We're saved by Grace alone (*Sola Gratia*), through Faith alone (*Sola Fide*), in Christ alone (*Solus Christus*), according to scripture alone (*Sola Scriptura*), for the Glory of God alone (*Soli Deo Gloria*). -->
 
 <!-- Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
 
-<!-- |Five Solas||
+|Five Solas||
 |:-:|:-:|
 |Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4|
 |Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
 |In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
-|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7| -->
+|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
 
 <span style="font-weight:bold;font-size:30px;color:Black;">III. Death, Burial, And Bodily Resurrection</span>
 
