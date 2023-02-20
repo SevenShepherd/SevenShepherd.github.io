@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:00:00 -0500
+date: 2023-02-19 11:10:00 -0500
 categories: essential doctrine
 published: true
 ---
@@ -110,9 +110,9 @@ Jesus would be raised in the same body he died in.
 
 > <sup style="font-weight:bold;">19</sup> Jesus answered them, “Destroy this temple, and in three days I will raise it up.” <sup style="font-weight:bold;">20</sup> The Jews then said, “It has taken forty-six years to build this temple, and will you raise it up in three days?” <sup style="font-weight:bold;">21</sup> But he was speaking about the temple of his body. &mdash; John 2:19-21 ESV
 
-> <sup style="font-weight:bold;">36</sup> As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” <sup style="font-weight:bold;">37</sup> But they were startled and frightened and thought they saw a spirit. <sup style="font-weight:bold;">38</sup> And he said to them, “Why are you troubled, and why do doubts arise in your hearts? <sup style="font-weight:bold;">39</sup> See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.” &mdash; Luke 24:36-39 ESV
+> <sup style="font-weight:bold;">36</sup> As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” <sup style="font-weight:bold;">37</sup> But they were startled and frightened and thought they saw a spirit. <sup style="font-weight:bold;">38</sup> And he said to them, “Why are you troubled, and why do doubts arise in your hearts? <sup style="font-weight:bold;">39</sup> **See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.**” &mdash; Luke 24:36-39 ESV
 
-> <sup style="font-weight:bold;">27</sup> 27 Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” <sup style="font-weight:bold;">28</sup> Thomas answered him, “My Lord and my God!” &mdash; John 20:27 ESV
+> <sup style="font-weight:bold;">27</sup> Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” <sup style="font-weight:bold;">28</sup> Thomas answered him, “My Lord and my God!” &mdash; John 20:27 ESV
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
