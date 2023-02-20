@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:40:40 -0500
+date: 2023-02-19 10:45:45 -0500
 categories: essential doctrine
 published: true
 ---
@@ -78,7 +78,7 @@ The 16th century Protestant Reformation saw the development of the five latin ph
 
 |Five Solas||
 |:-:|:-:|
-|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5|
+|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 5:4|
 |Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
 |In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
