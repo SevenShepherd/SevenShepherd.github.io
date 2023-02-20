@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:25:25 -0500
+date: 2023-02-19 11:30:30 -0500
 categories: essential doctrine
 published: true
 ---
 
-<!-- 🈴➰ -->
+<!-- 🈴➰ mande instead of made typo-->
 
 <!-- <span style="font-weight:bold;font-size:30px;color:Black;">Essential Doctrine</span> -->
+
+Sometime we need to pull our heads out of the man made theological sand, and simply read the Bible and absorb essential doctrine. Here is what it means to be Christian.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">I. Jesus Is God Made Manifest In The Flesh</span>
 
@@ -46,10 +48,10 @@ Jesus himself of his identity as Messiah. &mdash; [New Oxford Annotated Bible, F
 The Apostle Peter and the Apostle Paul called Jesus God in two *"... of the clearest statements in the NT concerning the deity of Christ."* according to [the worlds foremost scholars](https://amzn.to/3WLAgbr).
 
 > <sup style="font-weight:bold;">1</sup> Simeon<span style="color:#A7A7A7;">[a]</span> Peter, a servant<span style="color:#A7A7A7;">[b]</span> and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of **our God and Savior Jesus Christ**: &mdash; 2Pet. 1:1 NET
->
-<sup style="font-weight:bold;">13</sup> waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ**, &mdash; Titus 2:13 NET
 
 *"The construction in Greek is known as the **Granville Sharp rule**"*, this Greek construction has been around for over 200 years, and proves that *"The terms “God and Savior” both refer to the same person, Jesus Christ."*
+
+> <sup style="font-weight:bold;">13</sup> waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ**, &mdash; Titus 2:13 NET
 
 <a href="https://sevenshepherd.github.io/deity-11/" style="font-style:Italic;font-size:19px;">Logic & Deductive Reasoning</a>
 
