@@ -30,6 +30,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Articles</span>
 
+- [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
 - [The Order Of Salvation "Ordo Salutis"](https://bit.ly/3xzIZms)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
