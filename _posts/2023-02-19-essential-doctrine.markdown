@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 10:10:10 -0500
-categories: repent repentance
+date: 2023-02-19 10:15:15 -0500
+categories: essential doctrine
 published: true
 ---
 
