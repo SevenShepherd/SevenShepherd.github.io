@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:15:00 -0500
+date: 2023-02-19 11:20:20 -0500
 categories: essential doctrine
 published: true
 ---
@@ -14,9 +14,11 @@ published: true
 
 <sup>*See <a href="https://bit.ly/3HIQIoK">A Comprehensive Study On Jesus Deity</a></sup>
 
+<a href="https://en.wikipedia.org/wiki/Papyrus_75" style="font-style:Italic;font-size:19px;">The Most Significant Papyrus Of The New Testament</a>
+
 All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14; Phil 2:5-8; Co 2:9) as prophesied (Is 9:6; Zec. 12:10). According to our *"most significant papyrus of the New Testament to be discovered so far,"* John reads:
 
-<!-- <a href="https://en.wikipedia.org/wiki/Papyrus_75" style="font-style:Italic;font-size:21px;">The Most Significant Papyrus Of The New Testament</a>
+<!-- 
 
 All Christians acknowledge the deity of Christ. Jesus is God made manifest in the flesh (Jn 1:1-3,14) in the line of King David as prophesied (Is 9:6). [Papyrus 75 (𝔓75)](https://en.wikipedia.org/wiki/Papyrus_75) *"The most significant" papyrus of the New Testament to be discovered so far,"* as well as [𝔓66](https://en.wikipedia.org/wiki/Papyrus_66), further showcases this fact in John.  -->
 
@@ -24,16 +26,37 @@ All Christians acknowledge the deity of Christ. Jesus is God made manifest in th
 
 > <sup style="font-weight:bold;">18</sup> No one has seen God at any time; **the only begotten God** who is in the bosom of the Father, He has explained Him. &mdash; John 1:18 LSB
 
-<!-- According to the worlds foremost biblical scholars in the [NET Translators' Notes](https://amzn.to/3WLAgbr), and over 200 biblical scholars of the [ESV Study Bible](https://amzn.to/3WsN0Uw),  -->
+<a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The Worlds Foremost Biblical Scholars</a>
+
+<!-- According to the worlds foremost biblical scholars in the [NET Translators' Notes](https://amzn.to/3WLAgbr), and over 200 biblical scholars of the [ESV Study Bible](https://amzn.to/3WsN0Uw), -->
 
 According to the worlds foremost biblical scholars, Jesus declared Himself to be the Great “I AM” (John 8:56-59) the Old Testament name for God (Ex 3:14-16). He’s saying that He is the God of the Old Testament Yahweh! 
 
 > *"I am! is **an explicit claim to deity**;"* The *"Jewish listeners understood his **claim to deity**"* and attempted to stone Jesus *"for what they considered blasphemy."* *"Jesus is thus claiming not only to be eternal but also to be **the God who appeared to Moses** at the burning bush."* &mdash; [NET Translators' Notes](https://amzn.to/3WLAgbr), [ESV Study Bible](https://amzn.to/3WsN0Uw)
 
+<a href="https://amzn.to/3XGvXPg" style="font-style:Italic;font-size:19px;">Secular, Jewish, & Ecumenical Scholarship</a>
+
 This fact is even irrefutable by secular and Jewish scholarship when analyzing what the New Testament teaches in John 4:25-26.
 
 > **58: I am, see 4.26n**; 4.26: I am (see note c) **implying a theophany** as in Ex 3.14; Isa 41.4; 43.10; 46.4. This is the first announcement by
 Jesus himself of his identity as Messiah. &mdash; [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
+
+<a href="https://www.biblegateway.com/passage/?search=2Pe+1%3A1%3B+Titus+2%3A13&version=ESV;NET;EXB;NLT" style="font-style:Italic;font-size:19px;">The Apostles Own Words</a>
+
+The Apostle Peter and the Apostle Paul called Jesus God in two *"... of the clearest statements in the NT concerning the deity of Christ."* according to [the worlds foremost scholars](https://amzn.to/3WLAgbr).
+
+> <sup style="font-weight:bold;">1</sup> Simeon<span style="color:#A7A7A7;">[a]</span> Peter, a servant<span style="color:#A7A7A7;">[b]</span> and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of **our God and Savior Jesus Christ**: &mdash; 2Pet. 1:1 NET
+>
+<sup style="font-weight:bold;">13</sup> waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ**, &mdash; Titus 2:13 NET
+
+*"The construction in Greek is known as the **Granville Sharp rule**"*, this Greek construction has been around for over 200 years, and proves that *"The terms “God and Savior” both refer to the same person, Jesus Christ."*
+<!-- >
+**e.** 2 Peter 1:1 & **b.** Titus 2:13 NET tn The terms “God and Savior” both refer to the same person, Jesus Christ. This is one of the clearest statements in the NT concerning the deity of Christ. The construction in Greek is known as the **Granville Sharp rule**, named after the English philanthropist-linguist who first clearly articulated the rule in 1798. Sharp pointed out that in the construction article-noun-καί-noun (where καί [kai] = “and”), when two nouns are singular, personal, and common (i.e., not proper names), they always had the same referent. &mdash; [NET Translators' Notes](https://amzn.to/3WLAgbr) -->
+
+> I, even I, am Yahweh, And there is no savior besides Me. — Isaiah 43:11 LSB
+
+Remember also, that there is no savior but Yahweh. The bible reveals in Titus 2:13 and 2 Peter 1:1 that Jesus is our savior as well as our God, ergo, Jesus is Yahweh.
+
 
 <!-- > No one has ever seen God. **It is God the only Son**, who is close to the Father’s heart, who has made him known. &mdash; John 1:18 NRSV -->
 
