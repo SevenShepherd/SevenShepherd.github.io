@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 05:25:25 -0500
+date: 2023-02-11 05:30:30 -0500
 categories: repent repentance
 published: true
 ---
@@ -77,7 +77,7 @@ The confusion seems to have begun with a man named Charles Bing who made many fa
 
 <!-- What Bing failed to tell his readers is that *"change of mind."* -->
 
-> What Bing fails to tell his readers is that *"change of mind"* is just the first possible meaning of *metanoeō*, and that the editors of the BAGD lexicon do not put **any** New Testament passages in this first category. Rather, they put **every** New Testament passage under the second meaning, <span style="font-weight:bold;color:green;">"feel remorse, repent, be converted (in religio-ethical sense)."</span>
+> What Bing fails to tell his readers is that *"change of mind"* is just the first possible meaning of *metanoeō*, and that **the editors of the BAGD lexicon do not put any New Testament passages in this first category. Rather, they put every New Testament passage under the second meaning**, <span style="font-weight:bold;color:green;">"feel remorse, repent, be converted (in religio-ethical sense)."</span>
 >
 They then go on to give many New Testament examples, and they include this statement: "Since in metanoeō the negative impulse of turning away is dominant, it is also used with apo tinos [from something]: **repent and turn away from something** (examples given include repenting from wickedness, from lawlessness, and, with the similar phrase ek tinos, repenting of murders, sorceries, sexual immorality, and thefts)."
 >
@@ -86,6 +86,12 @@ They then go on to give many New Testament examples, and they include this state
 Grudem goes on to reveal, that while Bing misleads his readers to believe that the standard Greek lexicon defines this term as *"change one's mind,"* that is <span style="font-weight:bold;color:darkred;">not the meaning this lexicon gives to it for any New Testament examples</span>. 
 
 The true meaning that Bing neglects to mention, involves a much stronger sense that includes feeling remorse, being converted, and turning away from sin, in a religious-ethical sense and in view of responsibility to God.
+
+<span style="font-style:Italic;font-size:21px;color:Black;">Epistrephó</span>
+
+> In the New Testament, the Greek words from which we get “repentance” and “repent” are metanoia and metanoeō. It is closely linked to epistrephó (“turn around”) found in several places (Acts 3:19; 26:20; 2 Cor 3:16). Thus repentance is more than an expression of sorrow for sins committed; it encompasses a change of verdict and a turning of one’s self to God.98 Jesus called individuals to repent of their sins and to return to covenant righteousness (Luke 5:32; 15:10).
+>
+&mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 593.](https://amzn.to/3xFJhrY)
 
 <!-- <span style="font-style:Italic;font-size:21px;color:Black;">No Authoritative Greek Lexicon Or English Bible Agrees With The Free Grace Movement</span> -->
 
