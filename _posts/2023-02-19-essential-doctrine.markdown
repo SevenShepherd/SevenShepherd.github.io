@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:45:45 -0500
+date: 2023-02-19 11:50:50 -0500
 categories: essential doctrine
 published: true
 ---
@@ -150,7 +150,7 @@ The Bible reveals that all three persons of the Trinity were involved in the res
 
 <span style="font-weight:bold;font-size:30px;color:Black;">IV. Monotheism</span>
 
-There is one one God. The scriptures speak for themselves.
+The scriptures speak for themselves. There is only one God.
 
 > <sup style="font-weight:bold;">5</sup> I am the Lord, and there is no other, **besides me there is no God**; I equip you, though you do not know me, &mdash; Isaiah 45:5 ESV
 
