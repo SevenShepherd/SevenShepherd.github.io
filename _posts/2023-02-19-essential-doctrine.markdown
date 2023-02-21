@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:40:40 -0500
+date: 2023-02-19 11:45:45 -0500
 categories: essential doctrine
 published: true
 ---
@@ -103,7 +103,9 @@ This fact is even irrefutable by secular and Jewish scholarship when analyzing w
 **58: I am, see 4.26n**; 4.26: I am (see note c) **implying a theophany** as in Ex 3.14; Isa 41.4; 43.10; 46.4. This is the first announcement by
 Jesus himself of his identity as Messiah. -->
 
-<span style="font-weight:bold;font-size:30px;color:Black;">II. Salvation Is By Grace</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">II. Salvation Is By Grace Alone, Through Faith Alone, In Christ Alone</span>
+
+<!-- <span style="font-weight:bold;font-size:30px;color:Black;">II. Grace, Faith, & Christ Alone</span> -->
 
 <sup>*See <a href="https://bit.ly/3xzIZms">Ordo Salutis</a> and <a href="https://bit.ly/3IchrbQ">Repentance</a> for nuances.</sup>
 
@@ -122,11 +124,13 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 <!-- Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
 
+<!-- Jn 1:1-3,14,18 -->
+
 |Five Solas||
 |:-:|:-:|
 |Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4|
 |Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
-|In Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
+|In Christ alone<br>(*Solus Christus*)|Jn 14:6; Ac 4:12; 1Ti 2:5|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
 |For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
 
@@ -143,6 +147,20 @@ This is the Gospel message (1 Cor. 15:1-4). According to scripture, Jesus was ra
 > <sup style="font-weight:bold;">27</sup> Then he said to Thomas, “Put your finger here, and see my hands; and **put out your hand, and place it in my side**. Do not disbelieve, but **believe**.” <sup style="font-weight:bold;">28</sup> Thomas answered him, **“My Lord and my God!”** &mdash; John 20:27 ESV
 
 The Bible reveals that all three persons of the Trinity were involved in the resurrection. The Father (Ac 2:24; Ro 10:9; Gal. 1:1), The Son (Jn 2:19; 10:18), and the Holy Spirit (Rom. 8:11).
+
+<span style="font-weight:bold;font-size:30px;color:Black;">IV. Monotheism</span>
+
+There is one one God. The scriptures speak for themselves.
+
+> <sup style="font-weight:bold;">5</sup> I am the Lord, and there is no other, **besides me there is no God**; I equip you, though you do not know me, &mdash; Isaiah 45:5 ESV
+
+> <sup style="font-weight:bold;">6</sup> **one God** and Father of all, who is over all and through all and in all. &mdash; Ephesians 4:6 ESV
+
+> <sup style="font-weight:bold;">6</sup> This is what the Lord, Israel’s king, says, their Protector,<span style="color:#A7A7A7;">[a]</span> the Lord of Heaven’s Armies: “I am the first and I am the last, **there is no God but me**. &mdash; Isaiah 44:6 NET
+
+> <sup style="font-weight:bold;">10</sup> “But you are my witnesses, O Israel!” says the Lord. “You are my servant. You have been chosen to know me, believe in me, and understand that **I alone am God. There is no other God—there never has been, and there never will be.** &mdash; Isaiah 43:10 NLT
+
+> <sup style="font-weight:bold;">19</sup> You say you have faith, for you believe that **there is one God**.<span style="color:#A7A7A7;">[a]</span> Good for you! Even the demons believe this, and they tremble in terror. &mdash; James 2:19 NLT
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
