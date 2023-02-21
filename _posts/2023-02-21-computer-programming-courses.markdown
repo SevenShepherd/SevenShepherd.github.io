@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "💻👨‍💻 Computer Programming Courses For Ministry Automation"
-date: 2023-02-21 01:05:05 -0500
+title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
+date: 2023-02-21 01:10:10 -0500
 categories: computer programming python ministry
 published: true
 ---
 
-<!-- 💻🐱‍💻👨‍💻 -->
+<!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
 
 <span style="font-style:Italic;font-size:21px;color:Black;">Hello and welcome,</span>
 
@@ -24,7 +24,7 @@ I've decided to teach my hard won computer programming experience to others in h
 
 <span style="font-weight:bold;font-size:30px;color:Black;">I. A Basic Introduction To Computer Programming</span>
 
-After much deliberation, all articles pertaining to the Bible will remain free and accessible to everyone at anytime [through our blog](https://bit.ly/3G0CTAO). Instead the way I've decided to support and grow this ministry is by offering courses on computer programming and ministry automation through Patreon.
+After much deliberation, all articles pertaining to the Bible will remain free and accessible to everyone at anytime [through our blog](https://bit.ly/3G0CTAO). Instead the way I've decided to support and grow this ministry is by offering courses on computer programming and ministry automation.
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
