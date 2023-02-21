@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:35:35 -0500
+date: 2023-02-19 11:40:40 -0500
 categories: essential doctrine
 published: true
 ---
@@ -132,15 +132,17 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">III. Death, Burial, And Bodily Resurrection</span>
 
-> <sup style="font-weight:bold;">14</sup> And if Christ has not been raised, then our preaching is in vain and your faith is in vain. ... <sup style="font-weight:bold;">17</sup> And if Christ has not been raised, your faith is futile and you are still in your sins. &mdash; 1Co 15:14,17 ESV
+This is the Gospel message (1 Cor. 15:1-4). According to scripture, Jesus was raised physically in the very same body that he died in. Accursed is he that brings a contrary gospel, even if he be an angel of light (Gal. 1:8-9).
 
-Jesus would be raised in the same body he died in.
+> <sup style="font-weight:bold;">14</sup> And **if Christ has not been raised**, then our preaching is in vain and **your faith is in vain**. ... <sup style="font-weight:bold;">17</sup> And **if Christ has not been raised**, your faith is futile and **you are still in your sins**. &mdash; 1Co 15:14,17 ESV
 
-> <sup style="font-weight:bold;">19</sup> Jesus answered them, “Destroy this temple, and in three days I will raise it up.” <sup style="font-weight:bold;">20</sup> The Jews then said, “It has taken forty-six years to build this temple, and will you raise it up in three days?” <sup style="font-weight:bold;">21</sup> But he was speaking about the temple of his body. &mdash; John 2:19-21 ESV
+> <sup style="font-weight:bold;">19</sup> **Jesus answered them, “Destroy this temple, and in three days I will raise it up.”** <sup style="font-weight:bold;">20</sup> The Jews then said, “It has taken forty-six years to build this temple, and will you raise it up in three days?” <sup style="font-weight:bold;">21</sup> But **he was speaking about the temple of his body**. &mdash; John 2:19-21 ESV
 
 > <sup style="font-weight:bold;">36</sup> As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!” <sup style="font-weight:bold;">37</sup> But they were startled and frightened and thought they saw a spirit. <sup style="font-weight:bold;">38</sup> And he said to them, “Why are you troubled, and why do doubts arise in your hearts? <sup style="font-weight:bold;">39</sup> **See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.**” &mdash; Luke 24:36-39 ESV
 
-> <sup style="font-weight:bold;">27</sup> Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” <sup style="font-weight:bold;">28</sup> Thomas answered him, “My Lord and my God!” &mdash; John 20:27 ESV
+> <sup style="font-weight:bold;">27</sup> Then he said to Thomas, “Put your finger here, and see my hands; and **put out your hand, and place it in my side**. Do not disbelieve, but **believe**.” <sup style="font-weight:bold;">28</sup> Thomas answered him, **“My Lord and my God!”** &mdash; John 20:27 ESV
+
+The Bible reveals that all three persons of the Trinity were involved in the resurrection. The Father (Ac 2:24; Ro 10:9; Gal. 1:1), The Son (Jn 2:19; 10:18), and the Holy Spirit (Rom. 8:11).
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
