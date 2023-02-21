@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:50:50 -0500
+date: 2023-02-19 11:55:55 -0500
 categories: essential doctrine
 published: true
 ---
@@ -136,7 +136,7 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">III. Death, Burial, And Bodily Resurrection</span>
 
-This is the Gospel message (1 Cor. 15:1-4). According to scripture, Jesus was raised physically in the very same body that he died in. Accursed is he that brings a contrary gospel, even if he be an angel of light (Gal. 1:8-9).
+The death, burial, and bodily resurrection of Christ Jesus is the Gospel message (1 Cor. 15:1-4). According to scripture, Jesus was raised physically in the very same body that he died in. Accursed is he that brings a contrary gospel, even if he be an angel of light (Gal. 1:8-9).
 
 > <sup style="font-weight:bold;">14</sup> And **if Christ has not been raised**, then our preaching is in vain and **your faith is in vain**. ... <sup style="font-weight:bold;">17</sup> And **if Christ has not been raised**, your faith is futile and **you are still in your sins**. &mdash; 1Co 15:14,17 ESV
 
