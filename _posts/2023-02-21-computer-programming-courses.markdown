@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:10:10 -0500
+date: 2023-02-21 01:12:12 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -20,7 +20,7 @@ In 2016 I created a custom programmed and automated Twitter based Christian mini
 
 > <sup style="font-weight:bold;">19</sup> Go therefore and make disciples of all nations, baptizing them in<span style="color:#A7A7A7;">[a]</span> the name of the Father and of the Son and of the Holy Spirit, <sup style="font-weight:bold;">20</sup> teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” &mdash; Matthew 28:19-20 ESV
 
-I've decided to teach my hard won computer programming experience to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the darkness which is at our very doorsteps, threatening the very fabric of our society.
+I've decided to teach my hard won computer programming experience to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorsteps, threatening the very fabric of our society.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">I. A Basic Introduction To Computer Programming</span>
 
