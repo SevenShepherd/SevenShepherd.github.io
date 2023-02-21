@@ -156,15 +156,16 @@ This section details even more advanced material for those who want to deep dive
 
 <!-- Essential doctrine was taught to me by Chuck Smith who dedicated me to God at birth, my pretribulational premillennialist views come from Dr. Jack Van Impe as a teen and young adult, as a preteen I deduced hybrid offspring theory on my own and this lines up with divine council theory from Dr. Michael S. Heiser. I have adopted a Non-cessationist stance from Dr. Wyane Grudem, but I held this stance since I was a child from my own experiences. My latest stance was leaving free grace theology for the original reformed theology where grace is also free but repentance & christian ethics is fully acknowledged. My interest in textual criticism is thanks to my own inquisitive nature as a self-taught computer programmer and only intensified by Dr's. Daniel B. Wallace & Michael S. Heiser. -->
 
-- Essential Doctrine
-    - God is triune (The Trinity)
+- [Essential Doctrine](https://bit.ly/3XJY5AB)
+    - There is only one God
     - Jesus Is God made manifest
+    - Sola Gratia, Sola Fide, Solus Christus
     - Bodily resurrection of Jesus
     - Ascended to heaven and will return
-    - Grace alone, faith alone
+    - God is triune (The Trinity)
 - Theologically conservative
 - Reformed theology
-    - Championing the five solas
+    - Championing the Five Solas
     - Soteriology & Ordo salutis
 - Non/Soft cessationism
 - Dispensational premillennialism

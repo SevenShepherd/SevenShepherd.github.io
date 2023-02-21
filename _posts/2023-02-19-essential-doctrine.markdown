@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:12:12 -0500
+date: 2023-02-19 12:15:15 -0500
 categories: essential doctrine
 published: true
 ---
@@ -105,6 +105,8 @@ Jesus himself of his identity as Messiah. -->
 
 <span style="font-weight:bold;font-size:30px;color:Black;">II. Salvation Is By Grace Alone, Through Faith Alone, In Christ Alone</span>
 
+<!-- ![Five Solas](/assets/images/solas.jpg) -->
+
 <!-- <span style="font-weight:bold;font-size:30px;color:Black;">II. Grace, Faith, & Christ Alone</span> -->
 
 <sup>*See <a href="https://bit.ly/3xzIZms">Ordo Salutis</a> and <a href="https://bit.ly/3IchrbQ">Repentance</a> for nuances.</sup>
@@ -136,6 +138,8 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">III. Death, Burial, And Bodily Resurrection</span>
 
+<!-- ![Resurrection](/assets/images/resurrection.jpg) -->
+
 The death, burial, and bodily resurrection of Christ Jesus is the Gospel message (1 Cor. 15:1-4). According to scripture, Jesus was raised physically in the very same body that he died in. Accursed is he that brings a contrary gospel, even if he be an angel of light (Gal. 1:8-9).
 
 > <sup style="font-weight:bold;">14</sup> And **if Christ has not been raised**, then our preaching is in vain and **your faith is in vain**. ... <sup style="font-weight:bold;">17</sup> And **if Christ has not been raised**, your faith is futile and **you are still in your sins**. &mdash; 1Co 15:14,17 ESV
@@ -162,9 +166,9 @@ Scripture speaks for itself. There is only one God.
 
 > <sup style="font-weight:bold;">19</sup> You say you have faith, for you believe that **there is one God**.<span style="color:#A7A7A7;">[a]</span> Good for you! Even the demons believe this, and they tremble in terror. &mdash; James 2:19 NLT
 
-<span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
+<!-- <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
-**Refresh page for updates in real time**
+**Refresh page for updates in real time** -->
 
 <script>
     var refTagger = {
