@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 11:30:30 -0500
+date: 2023-02-19 11:35:35 -0500
 categories: essential doctrine
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <!-- <span style="font-weight:bold;font-size:30px;color:Black;">Essential Doctrine</span> -->
 
-Sometime we need to pull our heads out of the man made theological sand, and simply read the Bible and absorb essential doctrine. Here is what it means to be Christian.
+<!-- Sometimes we need to pull our heads out of the man made theological sand, and simply read the Bible and absorb essential doctrine. Here is what it means to be Christian. -->
 
 <span style="font-weight:bold;font-size:30px;color:Black;">I. Jesus Is God Made Manifest In The Flesh</span>
 
