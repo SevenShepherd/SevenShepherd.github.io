@@ -159,7 +159,7 @@ This section details even more advanced material for those who want to deep dive
 - [Essential Doctrine](https://bit.ly/3XJY5AB)
     - There is only one God
     - Jesus Is God made manifest
-    - Sola Gratia, Sola Fide, Solus Christus
+    - *Sola Gratia, Sola Fide, Solus Christus*
     - Bodily resurrection of Jesus
     - Ascended to heaven and will return
     - God is triune (The Trinity)
