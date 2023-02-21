@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:15:15 -0500
+date: 2023-02-19 12:25:25 -0500
 categories: essential doctrine
 published: true
 ---
@@ -156,13 +156,17 @@ The Bible reveals that all three persons of the Trinity were involved in the res
 
 Scripture speaks for itself. There is only one God.
 
-> <sup style="font-weight:bold;">5</sup> I am the Lord, and there is no other, **besides me there is no God**; I equip you, though you do not know me, &mdash; Isaiah 45:5 ESV
+> <sup style="font-weight:bold;">4</sup> “Hear, O Israel! <span style="color:#A7A7A7;">[a]</span>Yahweh is our God, Yahweh is one! &mdash; Deuteronomy 6:4 LSB
+
+> <sup style="font-weight:bold;">5</sup> I am the LORD, and there is no other, **besides me there is no God**; I equip you, though you do not know me, &mdash; Isaiah 45:5 ESV
+
+> <sup style="font-weight:bold;">39</sup> “‘See now that I, even I, am he, and **there is no god beside me**; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand. &mdash; Deuteronomy 32:39 ESV
 
 > <sup style="font-weight:bold;">6</sup> **one God** and Father of all, who is over all and through all and in all. &mdash; Ephesians 4:6 ESV
 
-> <sup style="font-weight:bold;">6</sup> This is what the Lord, Israel’s king, says, their Protector,<span style="color:#A7A7A7;">[a]</span> the Lord of Heaven’s Armies: “I am the first and I am the last, **there is no God but me**. &mdash; Isaiah 44:6 NET
+> <sup style="font-weight:bold;">6</sup> This is what the LORD, Israel’s king, says, their Protector,<span style="color:#A7A7A7;">[a]</span> the LORD of Heaven’s Armies: “I am the first and I am the last, **there is no God but me**. &mdash; Isaiah 44:6 NET
 
-> <sup style="font-weight:bold;">10</sup> “But you are my witnesses, O Israel!” says the Lord. “You are my servant. You have been chosen to know me, believe in me, and understand that **I alone am God. There is no other God—there never has been, and there never will be.** &mdash; Isaiah 43:10 NLT
+> <sup style="font-weight:bold;">10</sup> “But you are my witnesses, O Israel!” says the LORD. “You are my servant. You have been chosen to know me, believe in me, and understand that **I alone am God. There is no other God—there never has been, and there never will be.** &mdash; Isaiah 43:10 NLT
 
 > <sup style="font-weight:bold;">19</sup> You say you have faith, for you believe that **there is one God**.<span style="color:#A7A7A7;">[a]</span> Good for you! Even the demons believe this, and they tremble in terror. &mdash; James 2:19 NLT
 
