@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💻👨‍💻 Computer Programming Introduction For Ministry Automation"
-date: 2023-02-21 01:01:01 -0500
+title: "💻👨‍💻 Computer Programming Courses For Ministry Automation"
+date: 2023-02-21 01:05:05 -0500
 categories: computer programming python ministry
 published: true
 ---
