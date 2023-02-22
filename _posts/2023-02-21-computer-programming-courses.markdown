@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:15:15 -0500
+date: 2023-02-21 01:20:20 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -22,9 +22,17 @@ In 2016 I created a custom programmed and automated Twitter based Christian mini
 
 I've decided to teach my hard won computer programming experience to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
 
-<span style="font-weight:bold;font-size:30px;color:Black;">I. A Basic Introduction To Computer Programming</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">I. Content Overview</span>
 
 After much deliberation, all articles pertaining to the Bible will remain free and accessible to everyone at anytime [through our blog](https://bit.ly/3G0CTAO). Instead the way I've decided to support and grow this ministry is by offering courses on computer programming and ministry automation.
+
+> <sup style="font-weight:bold;">16</sup> “·Listen <span style="color:#A7A7A7;">[<sup>L</sup> Look; <sup>T</sup> Behold]</span>, I am sending you out like sheep among wolves. So be as ·clever <span style="color:#A7A7A7;">[wise; shrewd; cunning]</span> as ·snakes <span style="color:#A7A7A7;">[serpents]</span> and as ·innocent <span style="color:#A7A7A7;">[harmless]</span> as doves. &mdash; Matthew 10:16 <a href="https://amzn.to/3vlMXy5" style="color:MediumPurple;">Expanded Bible (EXB)</a>
+
+I have decided to use the Python programming language to teach fundamental programming concepts. This is a language suitable for the beginner, as well as the most advanced computer programmers. Python is used by organizations such as: Google, CERN, NASA, Facebook, Amazon, Instagram, Spotify, Reddit, and Wikipedia.
+
+Some of the more advanced topics and skills that will eventually be covered are as follows: data analysis, botting and automation, machine learning and chatbots, deep learning and neural networks, web programming and blog development, and software development and GUI programming. With the initial emphasis on fundamentals and ministry automation.
+
+<span style="font-weight:bold;font-size:30px;color:Black;">II. A Basic Introduction To Computer Programming</span>
 
 <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
 
