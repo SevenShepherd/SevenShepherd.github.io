@@ -1,12 +1,27 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:25:00 -0500
+date: 2023-02-02 12:30:30 -0500
 categories: salvation
 published: true
 ---
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
+
+<span style="font-style:Italic;font-size:34px;color:Black;">The Apostle Paul</span>
+
+👑 The Golden Chain Of Redemption
+
+> <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
+
+<!-- [✅ Monergistic](https://carm.org/dictionary/monergism/) -->
+
+> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY)
+
+<!-- 1. Foreknew / Predestined
+2. Called
+3. Justified
+4. Glorified -->
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
