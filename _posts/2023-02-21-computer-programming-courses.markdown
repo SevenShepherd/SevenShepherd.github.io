@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:25:25 -0500
+date: 2023-02-21 01:30:30 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -24,7 +24,7 @@ In 2016 I created a custom programmed and automated Twitter based Christian mini
 
 I've decided to teach my hard won computer programming experience to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
 
-<span style="font-weight:bold;font-size:30px;color:Black;">I. Content Overview</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">Content Overview</span>
 
 After much deliberation, all articles pertaining to the Bible will remain free and accessible to everyone at anytime [through our blog](https://bit.ly/3G0CTAO). Instead the way I've decided to support and grow this ministry is by offering courses on computer programming and ministry automation.
 
@@ -34,7 +34,7 @@ I have decided to use the Python programming language to teach fundamental progr
 
 Some of the more advanced topics and skills that will eventually be covered are as follows: data analysis, botting and automation, machine learning and chatbots, deep learning and neural networks, web programming and blog development, and software development and GUI programming. With the initial emphasis on fundamentals and ministry automation.
 
-<span style="font-weight:bold;font-size:30px;color:Black;">II. A Basic Introduction To Computer Programming</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">A Basic Introduction To Computer Programming</span>
 
 <span style="font-style:italic;font-size:21px;">What Is Programming?</span>
 
@@ -84,7 +84,7 @@ Once IDLE has been opened, type or copy & paste the code above into the program,
 
 ![Notepad++](/assets/images/code/Notepad++.png)
 
-If you chose the second method, once having installed [Python Interpreter](https://www.python.org/downloads/) and [Notepad++](https://notepad-plus-plus.org/). Open [Notepad++](https://notepad-plus-plus.org/), type or copy & paste `print("Hello, World!")` to the editor and save the file to your Desktop, naming it anything you want as long as it ends in *".py"* (less the quotations). main.py or hello.py for example.
+If you chose the second method, once having installed the [Python Interpreter](https://www.python.org/downloads/) and [Notepad++](https://notepad-plus-plus.org/). Open [Notepad++](https://notepad-plus-plus.org/), type or copy & paste `print("Hello, World!")` to the editor and save the file to your Desktop, naming it anything you want as long as it ends in *".py"* (less the quotations). main.py or hello.py for example.
 
 Click the start menu and type `cmd.exe` and hit enter or click to run the commandline interface. change the directory to the Desktop where you saved the *.py file. You can do this within the commandline with the `cd` command. Type `cd Desktop`. If that does not work, try `cd %USERPROFILE%\Desktop`.
 
@@ -110,7 +110,7 @@ If you run into problems, ask yourself these questions:
 4. If you need to run the program again, you don't need to include `cd Desktop` since the directory has already been changed. 
     - Instead simply type `python main.py` -->
 
-<span style="font-weight:bold;font-size:30px;color:Black;">III. Understanding Data Types And Variables</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">I. Understanding Data Types And Variables</span>
 
 I wanted you all to experience positive feedback before I taught the details to you. The rest of this article will function as the true tutorial starting with data types and variables. If you had issues with the second method, the first method is recommend for this article.
 
