@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:20:20 -0500
+date: 2023-02-21 01:25:25 -0500
 categories: computer programming python ministry
 published: true
 ---
+
+<!-- I know you've waited a long time *unknown* blessed *unknown* *unknown* -->
 
 <!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
 
@@ -34,7 +36,110 @@ Some of the more advanced topics and skills that will eventually be covered are 
 
 <span style="font-weight:bold;font-size:30px;color:Black;">II. A Basic Introduction To Computer Programming</span>
 
-<span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
+<span style="font-style:italic;font-size:21px;">What Is Programming?</span>
+
+This will be a very gentle introduction to fundamental concepts of computer programming with the Python programming language. This article will assume the reader is starting from zero. For those of you who may not understand what *"programming is"*, let's start with what *"it is not"*:
+
+- ❌ Programming **is not** repairing computers, printers, or installing software (i.e. operating systems), or hardware (i.e. HDDs, SSDs, GPUs, MOBOs, ...). 
+- ✅ Programming **is** a creative process where we create hand written instructions for a computer to complete a task. We achieve this by utilizing a programming language. 
+
+<!-- - ❌ Programming **is not** Computer Science. While all Computer Scientists are Computer Programmers, not all Programmers are Computer Scientists. -->
+    
+Computers require programmers to tell them what to do, otherwise it will just sit there like a rock. Everything you see and interact with on your phone or PC had a programmer sit down and work out what should happen when you click a button, visit a webpage, or scroll down with your thumb to read the rest of this article.
+
+There are many different types of programming languages, but the best for our purposes is the high-level, multi-paradigm, dynamically typed, garbage collected, cross-platform, "batteries-included" programming language known as Python. Understanding the technical jargon is not required, but looking it up is encouraged. Python's core philosophy is summarized aphoristically in a document called [*"The Zen of Python (PEP 20)."*](https://peps.python.org/pep-0020/) A few of the points are mentioned below:
+
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Readability counts.
+- In the face of ambiguity, refuse the temptation to guess.
+- There should be one&mdash; and preferably only one &mdash;obvious way to do it.
+
+<span style="font-style:italic;font-size:21px;">Prerequisites</span>
+
+There are two ways you can follow along, both of which require you to install the [Python Interpreter](https://www.python.org/downloads/). For this lesson, the first method is easier. 
+
+- The first method, once you have installed the interpreter, is to use the program called **IDLE** that comes packaged with the interpreter.
+- The second way is to run our code from a file. If you decided to use the second way, you'll need to install [Notepad++](https://notepad-plus-plus.org/), which is a very simplistic sourcecode editor that is both free and provides syntax highlighting.
+
+<!-- I want you all to download the program called [Notepad++](https://notepad-plus-plus.org/), which is a very simplistic sourcecode editor that is both free and provides syntax highlighting. I will sometimes use this for small scripts and as an upgrade to notepad. The other program you need to install is the actual [Python Interpreter](https://www.python.org/downloads/). Eventually, you will be required to install [Visual Studio Code](https://code.visualstudio.com/Download); however, this article does not require it. -->
+
+✔️ When installing the [Python Interpreter](https://www.python.org/downloads/), make sure you select the checkbox labeled Add Python to PATH.
+
+<span style="font-style:italic;font-size:21px;">Instructions For First Method</span>
+
+![IDLE](/assets/images/code/IDLE.png)
+
+If you chose the first method, click the start menu in your Windows operating system, and type *"IDLE"* (less quotations) to search for the *"Integrated Development and Learning Environment"* that came bundled with the [Python Interpreter](https://www.python.org/downloads/) you should have installed by this point.
+
+```py
+print("Hello, World!")
+```
+
+Once IDLE has been opened, type or copy & paste the code above into the program, and then hit enter. You should see something similar to the screenshot above. **Congratulations on running your first program!**
+
+<span style="font-style:italic;font-size:21px;">Instructions For Second Method</span>
+
+![Notepad++](/assets/images/code/Notepad++.png)
+
+If you chose the second method, once having installed [Python Interpreter](https://www.python.org/downloads/) and [Notepad++](https://notepad-plus-plus.org/). Open [Notepad++](https://notepad-plus-plus.org/), type or copy & paste `print("Hello, World!")` to the editor and save the file to your Desktop, naming it anything you want as long as it ends in *".py"* (less the quotations). main.py or hello.py for example.
+
+Click the start menu and type `cmd.exe` and hit enter or click to run the commandline interface. change the directory to the Desktop where you saved the *.py file. You can do this within the commandline with the `cd` command. Type `cd Desktop`. If that does not work, try `cd %USERPROFILE%\Desktop`.
+
+![CMD](/assets/images/code/cmd.png)
+
+Now you just need to run the code snippet. Type `python main.py` or whatever you have named your file followed by a `.py` within the commandline's black terminal window. If you were successful congratulations on running your first program. In the commandline, you should see *"Hello, World!"* appear in the commandline.
+
+<!-- <span style="font-style:italic;font-size:21px;">Troubleshooting</span>
+
+If you run into problems, ask yourself these questions:
+
+1. Did I save the file to my Desktop?
+    - If not the commandline wont be able to find it.
+    - You can change directory to wherever you saved it.
+    - Just resave to desktop and run the same command.
+2. Did I specify to the commandline the correct program name?
+    - `python main.py` only works with main.py
+    - If you named your program something else, specify it.
+3. Did I paste the correct code in the file?
+    - Don't forget to paste `print("Hello, World!")`
+    - If you saved an empty file nothing will happen.
+    - Improper code will result in an error.
+4. If you need to run the program again, you don't need to include `cd Desktop` since the directory has already been changed. 
+    - Instead simply type `python main.py` -->
+
+<span style="font-weight:bold;font-size:30px;color:Black;">III. Understanding Data Types And Variables</span>
+
+I wanted you all to experience positive feedback before I taught the details to you. The rest of this article will function as the true tutorial starting with data types and variables. If you had issues with the second method, the first method is recommend for this article.
+
+<!-- When you installed the [Python Interpreter](https://www.python.org/downloads/) it came packaged with something called IDLE.
+
+```py
+    Text Type:      str
+    Numeric Types:  int, float, complex
+    Sequence Types: list, tuple, range
+    Mapping Type:   dict
+    Set Types:      set, frozenset
+    Boolean Type:   bool
+    Binary Types:   bytes, bytearray, memoryview
+``` -->
+
+<!-- <span style="font-style:italic;font-size:21px;">Running The Script</span> -->
+
+
+<!-- ```py
+import os
+
+def main():
+    print("")
+
+if __name__ == "__main__":
+    main()
+``` -->
+
+<span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
 **Refresh page for updates in real time.** We will eventually provide links to the courses, but we will need time to prepare the full curriculum. Please be patient and bare with us while we methodically create a friendly end user experience. A free introduction will appear here in this article so bookmark and check back every couple days for updates. We will also present the courses on our [twitter page](https://twitter.com/SevenShepherd).
 
@@ -52,18 +157,18 @@ I stumbled upon a verse, that when correctly rendered, essentially said that I w
 
 
 <script>
-	var refTagger = {
-		settings: {
-			bibleVersion: 'ESV'
-		}
-	}; 
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
 
-	(function(d, t) {
-		var n=d.querySelector('[nonce]');
-		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-		g.nonce = refTagger.settings.nonce;
-		s.parentNode.insertBefore(g, s);
-	}(document, 'script'));
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
 </script>
