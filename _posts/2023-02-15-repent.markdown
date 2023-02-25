@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 05:40:40 -0500
+date: 2023-02-11 05:50:45 -0500
 categories: repent repentance
 published: true
 ---
@@ -113,7 +113,7 @@ Yes, the word for repent existed long before the New Testament Greek. The word u
 
 <span style="font-style:Italic;font-size:21px;color:Black;">Epistrephó</span>
 
-> In the New Testament, the Greek words from which we get “repentance” and “repent” are metanoia and metanoeō. It is closely linked to epistrephó (“turn around”) found in several places (Acts 3:19; 26:20; 2 Cor 3:16). Thus repentance is more than an expression of sorrow for sins committed; it encompasses a change of verdict and a turning of one’s self to God.98 Jesus called individuals to repent of their sins and to return to covenant righteousness (Luke 5:32; 15:10).
+> In the New Testament, the Greek words from which we get “repentance” and “repent” are metanoia and metanoeō. It is closely linked to epistrephó (“turn around”) found in several places (Acts 3:19; 26:20; 2 Cor 3:16). Thus repentance is more than an expression of sorrow for sins committed; it encompasses a change of verdict and a turning of one’s self to God. Jesus called individuals to repent of their sins and to return to covenant righteousness (Luke 5:32; 15:10).
 >
 &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 593.](https://amzn.to/3xFJhrY)
 
@@ -208,7 +208,7 @@ Pay attention to the context of whom James is speaking; James is not talking abo
 
 The context shows that James was referring to showing one’s faith through doing good deeds<sup>[[FSB]](https://biblia.com/books/esv/Jas2.24)</sup>. This is not to be confused with Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) when he was referring to “works” (erga) of Jewish law.
 
-> “I am the true vine, and my Father is the vinedresser. 2 Every branch in me that does not bear fruit he [takes away](https://www.biblegateway.com/passage/?search=John+15%3A1-2&version=NET;EXB;NLT), and every branch that does bear fruit he prunes, that it may bear more fruit. &mdash; John 15:1-2 ESV
+> <sup style="font-weight:bold;">1</sup> “I am the true vine, and my Father is the vinedresser. <sup style="font-weight:bold;">2</sup> Every branch in me that does not bear fruit he [takes away](https://www.biblegateway.com/passage/?search=John+15%3A1-2&version=NET;EXB;NLT), and every branch that does bear fruit he prunes, that it may bear more fruit. &mdash; John 15:1-2 ESV
 
 <span style="font-weight:bold;font-size:30px;color:Black;">Conclusions</span>
 
