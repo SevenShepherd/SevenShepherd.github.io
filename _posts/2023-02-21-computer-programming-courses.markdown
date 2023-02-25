@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:30:30 -0500
+date: 2023-02-21 01:35:35 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -114,17 +114,104 @@ If you run into problems, ask yourself these questions:
 
 I wanted you all to experience positive feedback before I taught the details to you. The rest of this article will function as the true tutorial starting with data types and variables. If you had issues with the second method, the first method is recommend for this article.
 
-<!-- When you installed the [Python Interpreter](https://www.python.org/downloads/) it came packaged with something called IDLE.
+There are many built-in data types in Python, and while it is true that Python is dynamically typed, and that we do not have to declare the type of a variable statically, we still need to understand what is being assigned on the right hand side of the assignment operator. I understand that I've used some words that you do not understand yet, just bare with me as I explain the aforementioned terms.
+
+Before moving on to variables an assignment, let's look at a few of the built in data types that are available to us in the Python programming language. According to the [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html) the principal built-in types are numerics, sequences, mappings, classes, instances and exceptions.
+
+|Data Type|Built-in|
+|:-:|:-:|
+|Numerics|[int, float, complex](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)|
+|Sequences|[list, tuple, range](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)|
+|Text Sequence|[str](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)|
+|Binary Sequence|[bytes, bytearray, memoryview](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)|
+|Set Types|[set, frozenset](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)|
+|Mappings|[dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)|
+|Boolean Type|bool|
+
+For thoroughness, the aforementioned types can further be subdivided. You don't really need to understand everything in this second chart, nor use everything in the first chart for this tutorial; however, you should know the difference between mutability (modifiable) and immutability (unmodifiable).
+
+<!-- **mutable** (list, set, dict) and **immutable** (tuple, range, str, frozenset). -->
+
+|||
+|:-:|:-:|
+|Mutable|list, set, dict, bytearray|
+|Immutable|int, float, complex, str, bool, bytes, tuple, range, frozenset|
+|Ordered|list, tuple, str, dict|
+|Unordered|set|
+|Hashable|str, int, float, complex, bool, bytes, ranges, frozensets, functions, classes, both [built-in](https://docs.python.org/3/library/functions.html) and user-defined|
+|Unhashable|list, dict, set, bytearray|
+
+<!-- Let me provide you with some examples of working with these basic building blocks within IDLE or your script. Try copying and pasting some of the lines below. You don't need to use the print function with IDLE, but if you are following with the second method by running your code from a file you will need to wrap the code below in the print function. -->
+
+<!-- Python has many ways of working with output withing the Print function. One such way is string variable interpolation. -->
+
+Let me show you how to work with variables now. You can think of a variable as a named container that you can put things in and store away for another time. Let's create a variable, we'll call it x for simplicity. In order to store a value of data type int within x, we will need to assign the integer to the variable. 
 
 ```py
-    Text Type:      str
-    Numeric Types:  int, float, complex
-    Sequence Types: list, tuple, range
-    Mapping Type:   dict
-    Set Types:      set, frozenset
-    Boolean Type:   bool
-    Binary Types:   bytes, bytearray, memoryview
-``` -->
+x = 100
+```
+
+The statement reads: ***"x is assigned one-hundred"***. The assignment operator in Python and most all other programming languages is the `=` operator. This is not the equality operator like it is in mathematics. In Python we would use `==` for equality. For example, if I wanted to see if the value that now resided in x (100) is *"equal to"* another integer, see below.
+
+```py
+x == 10
+```
+
+Since x contains that integer 100 from the previous assignment, this comparison will result in a **False** boolean because 100 is not equal to 10. Another thing you should keep in mind, is that strings are not the same as integers. For instance what do you think will happen if we test the following expression.
+
+```py
+100 == '100'
+```
+
+The result is yet again **False** because the integer 100 is not equal to a string of letters that say "100". Before getting too in-depth into the inner workings of arithmetic and operators, let's digress and speak once more on variables and data types.
+
+```py
+a_number  = 100
+a_string  = "Hello"
+a_list    = [1,2,3,4]
+all_above = [a_number, a_string, a_list]
+a_dict    = {"all": all_above, "bool": True}
+```
+
+<!-- You'll notice that I spelt the List & Dict variables with capital letters, and this is because -->
+
+There are rules; however, as to how variables are to be named.
+
+- Variable names must start with a letter or the underscore character and cannot start with a number, only containing alpha-numeric characters and underscores.
+- Variable names are case-sensitive, so cool, coOL, and COOL are all different variables.
+
+Python reserves the following identifiers or [keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords) which cannot be used as ordinary identifiers. When thinking up names for your variables, you will have to avoid the following keywords. You'll also want to avoid accidentally overriding [built-in functions](https://docs.python.org/3/library/functions.html), as this can really make things difficult for you.
+
+|||||
+|:-:|:-:|:-:|:-:|
+|False|await|else|import|
+|pass|None|break|except
+|in|raise|True|class|
+|finally|is|return|and|
+|continue|for|lambda|try|
+|as|def|from|nonlocal|
+|while|assert|del|global|
+|not|with|async|elif|
+|if|or|yield||
+
+In addition to avoiding the use of keywords as variable names, you will also be expected to write python idiomatically, that is, to conform to a sort of analogous orthopraxy commonly understood by Python programmers. [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/#function-and-variable-names) lists acceptable conventions in which you should name your variables and function names.
+
+> <a href="https://peps.python.org/pep-0008/#function-and-variable-names" style="font-size:21px;">Function and Variable Names</a>
+>
+Function names should be lowercase, with words separated by underscores as necessary to improve readability.
+>
+Variable names follow the same convention as function names.
+>
+mixedCase is allowed only in contexts where that’s already the prevailing style (e.g. threading.py), to retain backwards compatibility.
+
+
+<span style="font-weight:bold;font-size:30px;color:Black;">II. Arithmetic And Operators</span>
+
+
+<!-- for this article we will focus on only the most frequently used for basic tasks. int, list, range, str, dict, and bool. -->
+
+<!-- When you installed the [Python Interpreter](https://www.python.org/downloads/) it came packaged with something called IDLE.
+-->
 
 <!-- <span style="font-style:italic;font-size:21px;">Running The Script</span> -->
 
