@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:35:35 -0500
+date: 2023-02-21 01:40:40 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -198,15 +198,105 @@ In addition to avoiding the use of keywords as variable names, you will also be 
 
 > <a href="https://peps.python.org/pep-0008/#function-and-variable-names" style="font-size:21px;">Function and Variable Names</a>
 >
-Function names should be lowercase, with words separated by underscores as necessary to improve readability.
+Function names should be **lowercase, with words separated by underscores** as necessary to improve readability.
 >
 Variable names follow the same convention as function names.
 >
 mixedCase is allowed only in contexts where that’s already the prevailing style (e.g. threading.py), to retain backwards compatibility.
 
 
-<span style="font-weight:bold;font-size:30px;color:Black;">II. Arithmetic And Operators</span>
+<span style="font-weight:bold;font-size:30px;color:Black;">II. Operators And Precedence</span>
 
+The [Python Language Reference](https://docs.python.org/3/reference/lexical_analysis.html#operators) provides us with the following tokens as operators. Let's organize the operators into categories so we can understand them better.
+
+<!-- ```
++       -       *       **      /       //      %      @
+<<      >>      &       |       ^       ~       :=
+<       >       <=      >=      ==      !=
+``` -->
+
+<!-- |Arithmetic Operators||
+|:-:|:-:|
+|Addition|`x + y`|
+|Subtraction|`x - y`|
+|Multiplication|`x * y`|
+|Division|`x / y`|
+|Division (Floor)|`x // y`|
+|Modulus|`x % y`|
+|Exponent|`x ** y`| -->
+
+|Arithmetic|Operators|
+|:-:|:-:|
+|Addition|`a + b`|
+|Subtraction|`a - b`|
+|Multiplication|`a * b`|
+|Division|`a / b`|
+|Division (Floor)|`a // b`|
+|Modulus|`a % b`|
+|Exponent|`a ** b`|
+|||
+|**Relational or Comparison**|Operators|
+|Equality (Equal)|`a == b`|
+|Inequality (Not Equal)|`a != b`|
+|Greater than|`a > b`|
+|Greater than or equal to|`a >= b`|
+|Less than|`a < b`|
+|Less than or equal to|`a <= b`|
+|||
+|**Logical**|Operators|
+|Logical AND|`a and b`|
+|Logical OR|`a or b`|
+|Logical NOT|`not(a or b)`<br>`not a and not b`|
+|||
+|**Identity**|Operators|
+|Same object|`a is b`|
+|Not the same object|`a is not b`|
+|||
+|**Membership**|Operators|
+|True if sequence a is in b|`a in b`|
+|True if sequence a is not in b|`a not in b`|
+|||
+|**Bitwise**|Operators|
+|Bitwise AND|`a & b`|
+|Bitwise OR|`a | b`|
+|Bitwise XOR|`a ^ b`|
+|Bitwise NOT|`a ~ b`|
+|Left-shift (Zero-fill)|`a << b`|
+|Right-shift (Signed)|`a >> b`|
+|||
+|**Compound Assignment**|Operators|
+|a = a + b|`a += b`|
+|a = a - b|`a -= b`|
+|a = a * b|`a *= b`|
+|a = a / b|`a /= b`|
+|a = a % b|`a %= b`|
+|a = a // b|`a //= b`|
+|a = a ** b|`a **= b`|
+|a = a & b|`a &= b`|
+|a = a \| b|`a |= b`|
+|a = a ^ b|`a ^= b`|
+|a = a >> b|`a >>= b`|
+|a = a << b|`a <<= b`|
+
+Just like in mathematics when you learned about PEMDAS and the order of operations, Python also has an order of operations, it's just a little bit bigger. You'll find that you wont have to concern yourself with this as much as you might think, but when in doubt, use parentheses.
+
+<!-- you should keep this in mind when errors start popping up in your own coding adventures. -->
+
+|**Precedence**|Order|
+|:-:|:-:|
+|Parentheses|`()`|
+|Exponentation|`**`|
+|Unary plus, unary minus, and bitwise NOT|`+x -x ~x`|
+|Multiplication, division, floor division, and modulus|`* / // %`|
+|Addition and subtraction|`+ -`|
+|Bitwise left and right shifts|`<< >>`|
+|Bitwise AND|`&`|
+|Bitwise XOR|`^`|
+|Bitwise OR|`|`|
+|Comparisons, identity, and membership operators|`== != > >= < <= is 'is not' in 'not in'`|
+|Logical NOT|`not`|
+|Logical AND|`and`|
+|Logical OR|`or`|
 
 <!-- for this article we will focus on only the most frequently used for basic tasks. int, list, range, str, dict, and bool. -->
 
