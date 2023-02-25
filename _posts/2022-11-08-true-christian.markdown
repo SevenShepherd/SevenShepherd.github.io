@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:10:00 -0500
+date: 2023-01-01 9:15:00 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -244,7 +244,7 @@ Sin separates us from God (Is 59:2). All sin results in judgement &mdash; the pa
 
 </blockquote>
 
-**The Books of Revelation 21:8; 22:15; Romans 1:29-32; 1 Corinthians 6:9-10; and Galatians 5:19-21 paint a comprehensive picture of those who are damned for all eternity.**<sup style="font-size:10px;">[JVI]</sup>
+**The Books of Revelation 21:8; 22:15; Romans 1:29-32; 1 Corinthians 6:9-10; Galatians 5:19-21; and Ephesians 5:3-5 paint a comprehensive picture of those who are damned for all eternity.**<sup style="font-size:10px;">[JVI]</sup>
 
 <!--<blockquote cite="https://www.biblegateway.com/passage/?search=Rev.+21%3A8&version=NET">
 

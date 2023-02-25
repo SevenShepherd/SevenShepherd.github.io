@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:40:40 -0500
+date: 2023-02-21 01:45:45 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -137,7 +137,7 @@ For thoroughness, the aforementioned types can further be subdivided. You don't 
 |Mutable|list, set, dict, bytearray|
 |Immutable|int, float, complex, str, bool, bytes, tuple, range, frozenset|
 |Ordered|list, tuple, str, dict|
-|Unordered|set|
+|Unordered|set, frozenset|
 |Hashable|str, int, float, complex, bool, bytes, ranges, frozensets, functions, classes, both [built-in](https://docs.python.org/3/library/functions.html) and user-defined|
 |Unhashable|list, dict, set, bytearray|
 
@@ -286,14 +286,14 @@ Just like in mathematics when you learned about PEMDAS and the order of operatio
 |:-:|:-:|
 |Parentheses|`()`|
 |Exponentation|`**`|
-|Unary plus, unary minus, and bitwise NOT|`+x -x ~x`|
-|Multiplication, division, floor division, and modulus|`* / // %`|
-|Addition and subtraction|`+ -`|
-|Bitwise left and right shifts|`<< >>`|
+|Unary plus, unary minus, and bitwise NOT|`+x` `-x` `~x`|
+|Multiplication, division, floor division, and modulus|`*` `/` `//` `%`|
+|Addition and subtraction|`+` `-`|
+|Bitwise left and right shifts|`<<` `>>`|
 |Bitwise AND|`&`|
 |Bitwise XOR|`^`|
 |Bitwise OR|`|`|
-|Comparisons, identity, and membership operators|`== != > >= < <= is 'is not' in 'not in'`|
+|Comparisons, identity, and membership operators|`==` `!=` `>` `>=` `<` `<=` `is` `is not` `in` `not in`|
 |Logical NOT|`not`|
 |Logical AND|`and`|
 |Logical OR|`or`|
