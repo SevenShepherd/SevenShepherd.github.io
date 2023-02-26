@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:35:35 -0500
+date: 2023-02-19 12:40:40 -0500
 categories: essential doctrine
 published: true
 ---
@@ -59,9 +59,9 @@ Remember also, that [there is no savior but Yahweh](https://sevenshepherd.github
 
 > I, even I, am Yahweh, And there is no savior besides Me. — Isaiah 43:11 LSB
 
-<a href="https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/" style="font-style:Italic;font-size:19px;">The Students of the Apostles Taught Jesus Is God</a>
+<a href="https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/" style="font-style:Italic;font-size:19px;">The Students of the Apostles</a>
 
-The Apostolic Fathers corroborate the teachings of the Apostle John.
+The Apostolic Fathers corroborate the teachings of the Apostle John by teaching that Jesus was and is God made manifest in the flesh.
 
 > <sup style="font-weight:bold;">1</sup> In the beginning was the Word, and the Word was with God, and **the Word was God**. <sup style="font-weight:bold;">2</sup> He was in the beginning with God. <sup style="font-weight:bold;">3</sup> All things were made through him, and without him was not any thing made that was made. ... <sup style="font-weight:bold;">14</sup> And **the Word became flesh and dwelt among us**, and we have seen his glory, glory as of **the only Son** from the Father, full of grace and truth. <sup style="font-weight:bold;">18</sup> No one has ever seen God; **the only God, who is at the Father's side**, he has made him known. &mdash; John 1:1-3,14,18 ESV
 
