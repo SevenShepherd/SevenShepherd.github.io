@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:45:45 -0500
+date: 2023-02-21 01:50:50 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -116,7 +116,7 @@ I wanted you all to experience positive feedback before I taught the details to 
 
 There are many built-in data types in Python, and while it is true that Python is dynamically typed, and that we do not have to declare the type of a variable statically, we still need to understand what is being assigned on the right hand side of the assignment operator. I understand that I've used some words that you do not understand yet, just bare with me as I explain the aforementioned terms.
 
-Before moving on to variables an assignment, let's look at a few of the built in data types that are available to us in the Python programming language. According to the [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html) the principal built-in types are numerics, sequences, mappings, classes, instances and exceptions.
+Before moving on to variables and assignment, let's look at a few of the built in data types that are available to us in the Python programming language. According to the [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html) the principal built-in types are numerics, sequences, mappings, classes, instances and exceptions.
 
 |Data Type|Built-in|
 |:-:|:-:|
@@ -315,6 +315,154 @@ def main():
 if __name__ == "__main__":
     main()
 ``` -->
+
+<span style="font-weight:bold;font-size:30px;color:Black;">II. Strings</span>
+
+Strings in Python are written as a sequence of characters embedded between two single or double quotation marks. Many programs seek to gather and process data. Strings are incredibly effective at supplying progammers with a powerful way of easily manipulating many forms of data.
+
+<span style="font-weight:italic;font-size:21px;color:Black;">Concatenation</span>
+
+Strings can be added together, the term for this is called "concatenation." The `+` operator is the main way we concatenate strings, here are some examples.
+
+```py
+# Mailbox
+"Mail" + "box"
+# Moonlight
+"Moon" + "light"
+# Sunshine
+"Sun" + "shine"
+# Cream cheese
+"Cream" + " cheese"
+# Hello World
+"Hello" + " " + "World"
+# Dishwasher
+x = "Dish"
+y = "washer"
+print(x + y)
+```
+
+You might have noticed text beginning with a `#` sign. These are called **comments** and are not executed by the interpreter. In other words, comments help you take notes and keep your code clean and organized. We will be using them throughout the remainder of the walkthrough.
+
+<span style="font-weight:italic;font-size:21px;color:Black;">String Formatting</span>
+
+Strings can be formatted in a number of ways, but the two best ways would be to use the string [format()](https://docs.python.org/3/library/string.html#formatstrings) method, or to use [formatted string literals](https://docs.python.org/3/reference/lexical_analysis.html#f-strings) otherwise known as f-strings. The latter of which is the preferred method since the release of Python version 3.6 and up.
+
+```py
+replacement_field ::=  "{" [field_name] ["!" conversion] [":" format_spec] "}"
+field_name        ::=  arg_name ("." attribute_name | "[" element_index "]")*
+arg_name          ::=  [identifier | digit+]
+attribute_name    ::=  identifier
+element_index     ::=  digit+ | index_string
+index_string      ::=  <any source character except "]"> +
+conversion        ::=  "r" | "s" | "a"
+format_spec       ::=  <described in the next section>
+```
+
+The [Format Specification Mini-Language](https://docs.python.org/3/library/string.html#format-specification-mini-language) further expands format_spec.
+
+```go
+format_spec     ::=  [[fill]align][sign][z][#][0][width][grouping_option][.precision][type]
+fill            ::=  <any character>
+align           ::=  "<" | ">" | "=" | "^"
+sign            ::=  "+" | "-" | " "
+width           ::=  digit+
+grouping_option ::=  "_" | ","
+precision       ::=  digit+
+type            ::=  "b" | "c" | "d" | "e" | "E" | "f" | "F" | "g" | "G" | "n" | "o" | "s" | "x" | "X" | "%"
+```
+
+The most common types that will be used most frequently is `f` (Fixed-point notation), `d` (Decimal Integer in base 10), `x` or `X` (Hex format in base 16), and maybe `e` (Scientific notation).
+
+|Option|Meaning|
+|:-:|:-:|
+|`'f'`|Fixed-point notation. For a given precision p, formats the number as a decimal number with exactly p digits following the decimal point. With no precision given, uses a precision of 6 digits after the decimal point for float, and uses a precision large enough to show all coefficient digits for Decimal. If no digits follow the decimal point, the decimal point is also removed unless the # option is used.|
+|`'d'`|Decimal Integer. Outputs the number in base 10.|
+|`'x'`|Hex format. Outputs the number in base 16, using lower-case letters for the digits above 9.|
+|`'X'`|Hex format. Outputs the number in base 16, using upper-case letters for the digits above 9. In case `'#'` is specified, the prefix `'0x'` will be upper-cased to '0X' as well.|
+|`'e'`|Scientific notation. For a given precision p, formats the number in scientific notation with the letter `‘e’` separating the coefficient from the exponent. The coefficient has one digit before and p digits after the decimal point, for a total of p + 1 significant digits. With no precision given, uses a precision of 6 digits after the decimal point for float, and shows all coefficient digits for Decimal. If no digits follow the decimal point, the decimal point is also removed unless the # option is used.|
+|`'s'`|String format. This is the default type for strings and may be omitted.|
+|`'None'`|Default for integer presentation is `'d'`, for strings `'s'`, for float this is the same as `'g'` which is general format.|
+
+<!-- |Option|Meaning|
+|:-:|:-:|
+|`'<'`|Forces the field to be left-aligned within the available space (this is the default for most objects).|
+|`'>'`|Forces the field to be right-aligned within the available space (this is the default for numbers).|
+|`'='`|Forces the padding to be placed after the sign (if any) but before the digits. This is used for printing fields in the form ‘+000000120’. This alignment option is only valid for numeric types. It becomes the default for numbers when ‘0’ immediately precedes the field width.|
+|`'^'`|Forces the field to be centered within the available space.| -->
+
+Within the format_spec, which comes after the `:` in the replacement field, we can toy with the precision of any floating point number. In the example below, we've set the precision to 3 digits after the decimal point. The default precision for the fixed-point notation is 6.
+
+```py
+golden_ratio = 1.61803398874989484820
+
+# String format() method
+"{:.03f}".format(golden_ratio)
+
+# Formatted string literal (f-string)
+f"{golden_ratio:.03f}"
+```
+
+<span style="font-weight:italic;font-size:21px;color:Black;">Escape Characters</span>
+
+The Python Language Reference's [Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html#string-and-bytes-literals) documentation supplies us with a list of escape sequences. There are only a handful that you'll use frequently.
+
+<!-- |||
+|:-:|:-:|
+|`\<newline>`|Backslash and newline ignored|
+|`\\`|Backslash (\)|
+|`\'`|Single quote (')|
+|`\"`|Double quote (")|
+|`\a`|ASCII Bell (BEL)|
+|`\b`|ASCII Backspace (BS)|
+|`\f`|ASCII Formfeed (FF)|
+|`\n`|ASCII Linefeed (LF)|
+|`\r`|ASCII Carriage Return (CR)|
+|`\t`|ASCII Horizontal Tab (TAB)|
+|`\v`|ASCII Vertical Tab (VT)|
+|`\ooo`|Character with octal value ooo|
+|`\xhh`|Character with hex value hh|
+|`\N{name}`|Character named name in the Unicode database|
+|`\uxxxx`|Character with 16-bit hex value xxxx|
+|`\Uxxxxxxxx`|Character with 32-bit hex value xxxxxxxx| -->
+
+|||
+|:-:|:-:|
+|`\\`|Backslash (\\)|
+|`\'`|Single quote (')|
+|`\"`|Double quote (")|
+|`\n`|ASCII Linefeed (LF)|
+|`\t`|ASCII Horizontal Tab (TAB)|
+
+Some examples might be escaping a single quote in a single quoted string. This prevents the line from breaking and throwing an error. Another example would be a nested quote using the same outer quotes. One way to get around needing to escape the quotes is to mix them, like in the forth and fifth examples.
+
+```py
+'That\'s Interesting'
+'I\'d\'ve gone.'
+"A nested \"quote\""
+# Mixing quotation marks
+# to avoid the need to escape
+"It's great."
+'A nested "quote"'
+# Newlines are the most
+# frequently used
+"Run this\nstring in IDLE."
+```
+
+<!-- ```py
+f"{x}, {y}"
+"{}".format(x, y)
+"%d %f" % (x, y)
+``` -->
+
+<!-- <span style="font-weight:italic;font-size:21px;color:Black;">Slicing Strings</span>
+
+<span style="font-weight:italic;font-size:21px;color:Black;">String Methods</span> -->
+
+
+
+<!-- or at least, to become so much more difficult as to be a real pain [Format Specification Mini-Language](https://docs.python.org/3/library/string.html#format-specification-mini-language) -->
+
+
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
