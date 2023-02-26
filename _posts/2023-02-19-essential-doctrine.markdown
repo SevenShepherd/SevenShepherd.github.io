@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:25:25 -0500
+date: 2023-02-19 12:30:30 -0500
 categories: essential doctrine
 published: true
 ---
@@ -57,10 +57,31 @@ The Apostle Peter and the Apostle Paul called Jesus God in two *"... of the clea
 
 Remember also, that [there is no savior but Yahweh](https://sevenshepherd.github.io/deity-18/). The bible reveals in Titus 2:13 and 2 Peter 1:1 that Jesus is our savior as well as our God, ergo, Jesus is Yahweh.
 
+> I, even I, am Yahweh, And there is no savior besides Me. — Isaiah 43:11 LSB
+
+<a href="https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/" style="font-style:Italic;font-size:19px;">The Students of the Apostles Taught Jesus Is God</a>
+
+The Apostolic Fathers corroborate the teachings of the Apostle John.
+
+> <sup style="font-weight:bold;">1</sup> In the beginning was the Word, and the Word was with God, and **the Word was God**. <sup style="font-weight:bold;">2</sup> He was in the beginning with God. <sup style="font-weight:bold;">3</sup> All things were made through him, and without him was not any thing made that was made. ... <sup style="font-weight:bold;">14</sup> And **the Word became flesh and dwelt among us**, and we have seen his glory, glory as of **the only Son** from the Father, full of grace and truth. <sup style="font-weight:bold;">18</sup> No one has ever seen God; **the only God, who is at the Father's side**, he has made him known. &mdash; John 1:1-3,14,18 ESV
+
+- [Ignatius of Antioch (Disciple of The Apostle John)](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/)
+    - ["Jesus Christ, our God"](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.ii.html) (Letter to the Ephesians, Chapter 1)
+    - ["Jesus Christ, our God"](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.v.html) (Letter to the Romans, Chapter 1)
+    - ["Christ our God"](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.vii.x.html) (Letter to the Smyrnaeans, Chapter 10)
+    - ["Our God, Jesus Christ"](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.ii.xviii.html) (Letter to the Ephesians, Chapter 18)
+    - ["Our God, Jesus Christ"](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.viii.viii.html) (Letter to Polycarp, Chapter 8)
+    - [God Himself being manifested in human form](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.ii.xix.html) (Letter to the Ephesians, Chapter 19).
+    - [God existing in Flesh](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.ii.vii.html) (Letter to the Ephesians, Chapter 7)
+    - [who became visible for our sakes](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.viii.iii.html) (Letter to Polycarp, Chapter 3)
+- Polycarp (Disciple of The Apostle John)
+	- [our Lord and God Jesus Christ]() (Polycarp, Letter to the Philippians, Chapter 12)
+- Aristides (The Early Apologist of the Apostolic Fathers)
+	- [God came down from heaven, and from a Hebrew virgin assumed and clothed himself with flesh]() (Apology of Aristides, Chapter 2)
+
 <!-- >
 **e.** 2 Peter 1:1 & **b.** Titus 2:13 NET tn The terms “God and Savior” both refer to the same person, Jesus Christ. This is one of the clearest statements in the NT concerning the deity of Christ. The construction in Greek is known as the **Granville Sharp rule**, named after the English philanthropist-linguist who first clearly articulated the rule in 1798. Sharp pointed out that in the construction article-noun-καί-noun (where καί [kai] = “and”), when two nouns are singular, personal, and common (i.e., not proper names), they always had the same referent. &mdash; [NET Translators' Notes](https://amzn.to/3WLAgbr) -->
 
-> I, even I, am Yahweh, And there is no savior besides Me. — Isaiah 43:11 LSB
 
 <!-- > No one has ever seen God. **It is God the only Son**, who is close to the Father’s heart, who has made him known. &mdash; John 1:18 NRSV -->
 
@@ -119,7 +140,7 @@ The 16th century Protestant Reformation saw the development of the five latin ph
 
 > <sup style="font-weight:bold;">2:21</sup> I do not nullify the grace of God; for **if justification<span style="color:#A7A7A7;">[a]</span> comes through the law, then Christ died for nothing**. ... <sup style="font-weight:bold;">5:4</sup> You who want to be justified by the law have **cut yourselves off from Christ**; you have fallen away from grace. &mdash; Gal. 2:21;5:4 NRSV. a. Galatians 2:21 Or righteousness
 
-Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened.
+Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened. The antinomianism & hyper-grace heresies are on the opposite end of extreme (See Jude 4; Ro 6:1-2; 1Jn 2:3-6).
 
 <!-- (Latin *five solae*; Anglicized as *five solas*) -->
 <!-- We're saved by Grace alone (*Sola Gratia*), through Faith alone (*Sola Fide*), in Christ alone (*Solus Christus*), according to scripture alone (*Sola Scriptura*), for the Glory of God alone (*Soli Deo Gloria*). -->
@@ -127,6 +148,20 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 <!-- Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. -->
 
 <!-- Jn 1:1-3,14,18 -->
+
+> <sup style="font-weight:bold;">4</sup> For certain men <span style="color:#A7A7A7;">[a]</span> have secretly slipped in among you<span style="color:#A7A7A7;">[b]</span>—men who long ago<span style="color:#A7A7A7;">[c]</span> were marked out<span style="color:#A7A7A7;">[d]</span> for the condemnation I am about to describe<span style="color:#A7A7A7;">[e]</span>—**ungodly men who have turned the grace of our God into a license for evil**<span style="color:#A7A7A7;">[f]</span> **and who deny our only Master**<span style="color:#A7A7A7;">[g]</span> **and Lord,**<span style="color:#A7A7A7;">[h]</span> **Jesus Christ**. &mdash; Jude 1:4 NET
+
+<a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Expositor's Greek Testament</a>
+
+> Jude 1:4. Nature of the Threatened Danger. It is stealthy; it is serious enough to have been predicted long ago; its characteristic is impiety, showing itself in the **antinomian** misuse of the Gospel of God’s free grace, and in the denial of God and Christ.
+
+<a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Barnes' Notes on the Bible</a>
+
+> Turning the grace of our God into lasciviousness - Abusing the doctrines of grace so as to give indulgence to corrupt and carnal propensities. That is, probably, they gave this form to their teaching, as **Antinomians** have often done, that by the gospel they were released from the obligations of the law, and might give indulgence to their sinful passions in order that grace might abound. **Antinomianism** began early in the world, and has always had a wide prevalence. The liability of the doctrines of grace to be thus abused was foreseen by Paul, and against such abuse he earnestly sought to guard the Christians of his time, Romans 6:1, following.
+
+<!-- > <sup style="font-weight:bold;">4</sup> For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ. &mdash; Jude 1:4 ESV -->
+
+These heresies can be avoided by adopting the Five Solas of the "historic Protestant" position which have been a sanctuary away from heresy for over 500 years. Evangelical theology also seems to be a bastion of safety as long as the nuances favor historic protestant theologies.
 
 |Five Solas||
 |:-:|:-:|
