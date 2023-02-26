@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:30:30 -0500
+date: 2023-02-19 12:35:35 -0500
 categories: essential doctrine
 published: true
 ---
@@ -149,7 +149,7 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 <!-- Jn 1:1-3,14,18 -->
 
-> <sup style="font-weight:bold;">4</sup> For certain men <span style="color:#A7A7A7;">[a]</span> have secretly slipped in among you<span style="color:#A7A7A7;">[b]</span>—men who long ago<span style="color:#A7A7A7;">[c]</span> were marked out<span style="color:#A7A7A7;">[d]</span> for the condemnation I am about to describe<span style="color:#A7A7A7;">[e]</span>—**ungodly men who have turned the grace of our God into a license for evil**<span style="color:#A7A7A7;">[f]</span> **and who deny our only Master**<span style="color:#A7A7A7;">[g]</span> **and Lord,**<span style="color:#A7A7A7;">[h]</span> **Jesus Christ**. &mdash; Jude 1:4 NET
+> <sup style="font-weight:bold;">4</sup> For certain men <span style="color:#A7A7A7;">[a]</span> have secretly slipped in among you<span style="color:#A7A7A7;">[b]</span>—men who long ago<span style="color:#A7A7A7;">[c]</span> were marked out<span style="color:#A7A7A7;">[d]</span> for the condemnation I am about to describe<span style="color:#A7A7A7;">[e]</span>—**ungodly men who have turned the grace of our God into a license for evil**<span style="color:#A7A7A7;">[[f](https://www.biblegateway.com/passage/?search=Jude+1%3A4&version=NET)]</span> **and who deny our only Master**<span style="color:#A7A7A7;">[g]</span> **and Lord,**<span style="color:#A7A7A7;">[h]</span> **Jesus Christ**. &mdash; Jude 1:4 NET
 
 <a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Expositor's Greek Testament</a>
 
