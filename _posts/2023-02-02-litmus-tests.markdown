@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:40:40 -0500
+date: 2023-02-02 02:45:45 -0500
 categories: quick reference
 published: true
 ---
@@ -439,14 +439,14 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:green;">CEB</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">CEV</span>|✔️|✔️|❌|
 |<span style="font-weight:bold;color:darkred;">CJB</span>|❌|❌|❌|
-|<span style="font-weight:bold;color:#E28D00;">CSB</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">CSB</span>|🦶|🦶|✔️|
 |<span style="font-weight:bold;color:#E28D00;">DARBY</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">DRA</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#BC3823;">EHV</span>|❌|🦶|❌|
 |<span style="font-weight:bold;color:#efcc00;">ERV</span>|✔️|❌|✔️|
 |<span style="font-weight:bold;color:#efcc00;">ESV</span>|👑|✔️|❌|
 |<span style="font-weight:bold;color:#efcc00;">ESVUK</span>|👑|✔️|❌|
-|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|🦶|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">GNT</span>|✔️|❌|❌|
 |<span style="font-weight:bold;color:#E28D00;">GNV</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">GW</span>|❌|❌|✔️|
@@ -456,20 +456,20 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#E28D00;">JUB</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">KJ21</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">KJV</span>|❌|❌|✔️|
-|<span style="font-weight:bold;color:#E28D00;">LEB</span>|❌|🦶|✔️|
-|<span style="font-weight:bold;color:#E28D00;">LSB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LEB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LSB</span>|🦶|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">MEV</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">MSG</span>|✔️|❌|❔|
 |<span style="font-weight:bold;color:#efcc00;">NABRE</span>|✔️|✔️|❌|
-|<span style="font-weight:bold;color:#E28D00;">NASB '20</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NASB '20</span>|🦶|❌|✔️|
 |<span style="font-weight:bold;color:#E28D00;">NASB '95</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NCB</span>|👑|✔️|❌|
 |<span style="font-weight:bold;color:#E28D00;">NCV</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|❌|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIRV</span>|✔️|❌|✔️|
-|<span style="font-weight:bold;color:#E28D00;">NIV</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NIV</span>|🦶|🦶|✔️|
 |<span style="font-weight:bold;color:#E28D00;">NIVUK</span>|❌|🦶|✔️|
-|<span style="font-weight:bold;color:#E28D00;">NKJV</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NKJV</span>|🦶|🦶|✔️|
 |<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#E28D00;">NLV</span>|❌|❌|✔️|
 |<span style="font-weight:bold;color:darkred;">NOG</span>|❌|❌|❌|

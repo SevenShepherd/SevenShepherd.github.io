@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 05:50:00 -0500
+date: 2023-01-23 06:00:00 -0500
 categories: methods families
 published: true
 ---
@@ -90,7 +90,7 @@ You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), 
 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (ESV; cp. “gods” in NRSV), or something like “heavenly beings” (NET Bible) or “heavenly court” (NLT) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.”
 
-|Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
+<!-- |Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
 |:-:|:-:|:-:|:-:|
 |<span style="font-weight:bold;color:green;">NRSV</span>|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
@@ -105,7 +105,65 @@ You can read Michael S. Heiser's [**blog**](https://drmsh.com/bible-versions/), 
 |<span style="font-weight:bold;color:darkred;">NASB '20</span>|🦶|❌|✔️|
 |<span style="font-weight:bold;color:darkred;">WEB</span>|❌|🦶|✔️|
 |<span style="font-weight:bold;color:darkred;">NASB '95</span>|❌|❌|✔️|
-|<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|✔️| -->
+
+|Version|Deut. 32:8|Deut. 32:43|Deut. 32:17|
+|:-:|:-:|:-:|:-:|
+|<span style="font-weight:bold;color:#E28D00;">AKJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">AMP</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">AMPC</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">ASV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">BRG</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:green;">CEB</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CEV</span>|✔️|✔️|❌|
+|<span style="font-weight:bold;color:darkred;">CJB</span>|❌|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">CSB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">DARBY</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">DRA</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">EHV</span>|❌|🦶|❌|
+|<span style="font-weight:bold;color:#efcc00;">ERV</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">ESV</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">ESVUK</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">GNT</span>|✔️|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">GNV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">GW</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">HCSB</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">ICB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">ISV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">JUB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">KJ21</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">KJV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LEB</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">LSB</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MEV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MSG</span>|✔️|❌|❔|
+|<span style="font-weight:bold;color:#efcc00;">NABRE</span>|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">NASB '20</span>|🦶|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NASB '95</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NCB</span>|👑|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">NCV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIRV</span>|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NIV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NIVUK</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NKJV</span>|🦶|🦶|✔️|
+|<span style="font-weight:bold;color:green;">NLT</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NLV</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">NOG</span>|❌|❌|❌|
+|<span style="font-weight:bold;color:green;">NRSV<br>A</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>ACE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>CE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NRSV<br>UE</span>|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">OJB</span>|❌|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">RSV</span>|👑|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">RSVCE</span>|👑|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">TLB</span>|✔️|❌|❌|
+|<span style="font-weight:bold;color:darkred;">TLV</span>|❌|❌|❌|
+|<span style="font-weight:bold;color:#efcc00;">VOICE</span>|👑|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">WEB</span>|❌|🦶|✔️|
+|<span style="font-weight:bold;color:#E28D00;">WYC</span>|〰️|❌|✔️|
+|<span style="font-weight:bold;color:darkred;">YLT</span>|❌|❌|❌|
 
 <script>
 	var refTagger = {
