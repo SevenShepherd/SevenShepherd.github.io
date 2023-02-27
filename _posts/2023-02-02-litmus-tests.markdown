@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:35:35 -0500
+date: 2023-02-02 02:40:40 -0500
 categories: quick reference
 published: true
 ---
@@ -562,7 +562,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#BC3823;">TLV</span>|❌|❌|❔|
 |<span style="font-weight:bold;color:#BC3823;">YLT</span>|❌|❌|❔| -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, & Calamity</span>
+<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin</span>
 
 |Version|Acts 1:16|Is 7:14|
 |:-:|:-:|:-:|
