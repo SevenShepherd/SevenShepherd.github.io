@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:30:30 -0500
+date: 2023-02-02 12:35:35 -0500
 categories: salvation
 published: true
 ---
@@ -17,6 +17,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <!-- [✅ Monergistic](https://carm.org/dictionary/monergism/) -->
 
 > "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY)
+
+<!-- 👑 ...
+
+Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
+
 
 <!-- 1. Foreknew / Predestined
 2. Called
@@ -147,7 +152,28 @@ See Free Grace Theology below for expansion.
 
 These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8;">"The Cross and Salvation: The Doctrine of Salvation"</a>
 
-<span style="font-size:24px;color:Black;">⛪ Reformed theology</span>
+<span style="font-size:24px;color:Black;">⛪ Covenant Reformed theology</span>
+
+- [✅ Monergistic](https://carm.org/dictionary/monergism/)
+
+1. **Calling**
+    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
+2. **Regeneration**
+    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
+3. **Faith**
+    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
+4. **Repentance**
+    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
+5. **Justification**
+    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
+6. **Sanctification**
+    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
+7. **Preservation and perseverance**
+    - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
+8. **Glorification**
+    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
+
+<span style="font-size:24px;color:Black;">⛪ Evangelicals In The Broadly Reformed Tradition</span>
 
 - [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -173,28 +199,6 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
     - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
-
-
-<span style="font-size:24px;color:Black;">⛪ Covenant Reformed theology</span>
-
-- [✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-1. **Calling**
-    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
-2. **Regeneration**
-    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
-3. **Faith**
-    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
-4. **Repentance**
-    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
-5. **Justification**
-    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
-6. **Sanctification**
-    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
-7. **Preservation and perseverance**
-    - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
-8. **Glorification**
-    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
 
 <span style="font-size:24px;color:Black;">⛪ Luthern Theology</span>
 
