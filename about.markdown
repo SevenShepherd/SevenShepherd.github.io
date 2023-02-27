@@ -66,10 +66,14 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Professor/Preacher|Books|
 |:-:|:-:|
 |[Dr. Wayne Grudem<br>(PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)|[C2000](https://calvarychapel.com/posts/c2000/)|
 |[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF), [Unfiltered](https://amzn.to/3lyYGrq)|
+|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O)|
+|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)|[C2000](https://calvarychapel.com/posts/c2000/)|
 
+<!-- |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
+
+
+<!-- [Unfiltered](https://amzn.to/3lyYGrq) -->
 <!-- |[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)| -->
 
 <span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
@@ -133,24 +137,20 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
 
-<!-- <span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
 
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
-- Interlinear
-    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
-- Hebrew & Greek Lexicons
-    - [The Hebrew and Aramaic Lexicon of the Old Testament](https://amzn.to/3S4JnTw)
-    - [A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.](https://amzn.to/3I4m4ES)
-    - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle)
-- OT In Biblical Hebrew
-    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
-- NT In Koine Greek
-    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
-- Courses
-    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack) -->
+<!-- - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle) -->
+
+|||
+|:-:|:-:|
+|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)|
+|Hebrew Lexicon|[The Hebrew and Aramaic Lexicon of the Old Testament](https://amzn.to/3S4JnTw)|
+|Greek Lexicon|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.](https://amzn.to/3I4m4ES)
+|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)|
+|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)|
+|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
 <span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
 
