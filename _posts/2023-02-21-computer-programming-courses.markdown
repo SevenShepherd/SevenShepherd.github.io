@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:50:50 -0500
+date: 2023-02-21 01:55:55 -0500
 categories: computer programming python ministry
 published: true
 ---
@@ -454,15 +454,68 @@ f"{x}, {y}"
 "%d %f" % (x, y)
 ``` -->
 
-<!-- <span style="font-weight:italic;font-size:21px;color:Black;">Slicing Strings</span>
+<span style="font-weight:italic;font-size:21px;color:Black;">Indexing & Slicing Strings</span>
 
+<!-- https://docs.python.org/3/tutorial/introduction.html#strings -->
+
+Strings can be indexed (subscripted); the first character has an index of 0. There is no separate character type as a single character is just a string of size one. Just like arrays in the C programming language, lists and sequences in Python start with a zeroth index, so if you want to index the second character, you'll need to select position 1 since that comes after the zeroth element.
+
+```py
+>>> string = "Hello"
+
+>>> # 'H' is the "Zeroth element," first character
+>>> # 'e' is the first element, second character
+>>> string[1]
+'e'
+```
+
+|0|<span style="font-weight:bold;font-size:21px;color:teal;">1</span>|2|3|4|
+|:-:|:-:|:-:|:-:|:-:|
+|H|<span style="font-weight:bold;font-size:21px;color:teal;">e</span>|l|l|o|
+
+You can also use negative numbers as indices, which begins counting from the right. So an index of `[-1]` would be the last element in the sequence. It should be noted that because -0 is the same as 0, negative indices must start from -1. 
+
+```py
+>>> string = "Hello"
+
+>>> # 'H' is the "Zeroth element," first character
+>>> # 'e' is the first element, second character
+>>> string[-1]
+'o'
+>>> string[-4]
+'e'
+```
+
+|-5|<span style="font-weight:bold;font-size:21px;color:teal;">-4</span>|-3|-2|-1|
+|:-:|:-:|:-:|:-:|:-:|
+|H|<span style="font-weight:bold;font-size:21px;color:teal;">e</span>|l|l|o|
+
+Slicing strings with *slice notation* can provide a convenient way to extract specific characters from strings. The ability to target a *substring* within text will prove to be a useful skill to add to your toolbox. 
+
+```py
+# Strings can be sliced
+>>> string = "Encouragement"
+>>> # string[include:exclude]
+>>> string[7:9+1] # or string[7:10]
+'gem'
+>>> string[2:8+1]
+'courage'
+>>> # Negative slices are also a thing
+>>> string[-6:-4+1]
+'gem'
+>>> # You can also concatenate
+>>> string[7:9+1] + " of " + string[2:8+1]
+'gem of courage'
+```
+
+|6|<span style="font-weight:bold;font-size:21px;color:teal;">7</span>|<span style="font-weight:bold;font-size:21px;color:teal;">8</span>|<span style="font-weight:bold;font-size:21px;color:teal;">9</span>|10|
+|:-:|:-:|:-:|:-:|:-:|
+|...a|<span style="font-weight:bold;font-size:21px;color:teal;">g</span>|<span style="font-weight:bold;font-size:21px;color:teal;">e</span>|<span style="font-weight:bold;font-size:21px;color:teal;">m</span>|e...|
+
+A potential gotcha of *slice notation* is that the position specified on the left side of the semicolon is included in the slice, while the position on the right hand side of the semicolon is excluded. If your target *substring* is elements 7, 8, and 9, you'll have to consider that `[7:9]` will leave out the 9th element unless you account for this with `[7:9+1]` or `[7:10]`.
+
+<!-- 
 <span style="font-weight:italic;font-size:21px;color:Black;">String Methods</span> -->
-
-
-
-<!-- or at least, to become so much more difficult as to be a real pain [Format Specification Mini-Language](https://docs.python.org/3/library/string.html#format-specification-mini-language) -->
-
-
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 

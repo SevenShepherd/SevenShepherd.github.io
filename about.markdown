@@ -65,10 +65,10 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 |Professor/Preacher|Books|
 |:-:|:-:|
-|[Dr. Wayne Grudem<br>(PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O)|
-|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)|[C2000](https://calvarychapel.com/posts/c2000/)|
+|[Dr. Wayne Grudem<br>(PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
+|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[The Unseen Realm](https://amzn.to/40Rak0O)|
+|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[C2000](https://calvarychapel.com/posts/c2000/)|
 
 <!-- |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
 
