@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "👨‍💻 Digital Discipleship 101"
-date: 2023-02-21 02:30:32 -0500
-categories: computer programming python ministry
+date: 2023-02-21 02:35:32 -0500
+categories: digital computer programming python ministry
 published: true
 ---
 
