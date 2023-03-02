@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "💻👨‍💻 Computer Programming Courses And Digital Discipleship"
-date: 2023-02-21 01:55:55 -0500
+title: "👨‍💻 Digital Discipleship 101"
+date: 2023-02-21 02:00:00 -0500
 categories: computer programming python ministry
 published: true
 ---
 
+<!-- If anyone says you're lazy for working for God instead of money, they are simply projecting their own intellectual state. -->
+
+<!-- "Never take investment advice from someone who has to work for a living." -->
+
+<!-- "Those who malign others are projecting their own insecurities and limitations upon those whom they envy." -->
+
 <!-- I know you've waited a long time *unknown* blessed *unknown* *unknown* -->
+
+<!-- 💻👨‍💻 Computer Programming Courses And Digital Discipleship -->
 
 <!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
 
@@ -178,7 +186,7 @@ a_dict    = {"all": all_above, "bool": True}
 There are rules; however, as to how variables are to be named.
 
 - Variable names must start with a letter or the underscore character and cannot start with a number, only containing alpha-numeric characters and underscores.
-- Variable names are case-sensitive, so cool, coOL, and COOL are all different variables.
+- Variable names are case-sensitive, so lord, Lord, LoRd, and LORD are all different variables.
 
 Python reserves the following identifiers or [keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords) which cannot be used as ordinary identifiers. When thinking up names for your variables, you will have to avoid the following keywords. You'll also want to avoid accidentally overriding [built-in functions](https://docs.python.org/3/library/functions.html), as this can really make things difficult for you.
 
@@ -514,8 +522,225 @@ Slicing strings with *slice notation* can provide a convenient way to extract sp
 
 A potential gotcha of *slice notation* is that the position specified on the left side of the semicolon is included in the slice, while the position on the right hand side of the semicolon is excluded. If your target *substring* is elements 7, 8, and 9, you'll have to consider that `[7:9]` will leave out the 9th element unless you account for this with `[7:9+1]` or `[7:10]`.
 
-<!-- 
-<span style="font-weight:italic;font-size:21px;color:Black;">String Methods</span> -->
+<span style="font-weight:italic;font-size:21px;color:Black;">String Methods</span>
+
+Previously you were introduced to the `format()` string method and alternative formatted string literals (f-strings). Let's look at the other extraordinarily useful [string methods](https://docs.python.org/3/library/stdtypes.html#string-methods) available to us.
+
+<!-- |Description|Method|
+|:-:|:-:|
+||[`capitalize()`](https://docs.python.org/3/library/stdtypes.html#str.capitalize)|
+||`casefold()`|
+||`center()`|
+||`count()`|
+||`encode()`|
+||`endswith()`|
+||`expandtabs()`|
+||`find()`|
+||`format()`|
+||`format_map()`|
+||`index()`|
+||`isalnum()`|
+||`isalpha()`|
+||`isascii()`|
+||`isdecimal()`|
+||`isdigit()`|
+||`isidentifier()`|
+||`islower()`|
+||`isnumeric()`|
+||`isprintable()`|
+||`isspace()`|
+||`istitle()`|
+||`isupper()`|
+||`join()`|
+||`ljust()`|
+||`lower()`|
+||`lstrip()`|
+||`maketrans()`|
+||`partition()`|
+||`removeprefix()`|
+||`removesuffix()`|
+||`replace()`|
+||`rfind()`|
+||`rindex()`|
+||`rjust()`|
+||`rpartition()`|
+||`rsplit()`|
+||`rstrip()`|
+||`split()`|
+||`splitlines()`|
+||`startswith()`|
+||`strip()`|
+||`swapcase()`|
+||`title()`|
+||`translate()`|
+||`upper()`| -->
+
+|Description|Method|
+|:-:|:-:|
+|Returns a copy of the string with its first character capitalized and the rest lowercased.|[`capitalize()`](https://docs.python.org/3/library/stdtypes.html#str.capitalize)|
+|Returns a titlecased version of the string where words start with an uppercase character and the remaining characters are lowercase.|[`title()`](https://docs.python.org/3/library/stdtypes.html#str.title)|
+|Returns a copy of the string converted to lowercase.|[`lower()`](https://docs.python.org/3/library/stdtypes.html#str.lower)|
+|Returns a copy of the string converted to uppercase.|[`upper()`](https://docs.python.org/3/library/stdtypes.html#str.upper)|
+|Returns a copy of the string with uppercase characters converted to lowercase and vice versa.|[`swapcase()`](https://docs.python.org/3/library/stdtypes.html#str.swapcase)|
+
+```py
+>>> "solomon".capitalize()
+'Solomon'
+>>> "digital discipleship".title()
+'Digital Discipleship'
+>>> "exit".upper()
+'EXIT'
+>>> "QUIETLY".lower()
+'quietly'
+```
+
+The next set of string methods are normally used in conjunction with control flow statements like the `if` statement, but since we haven't reached that part of this tutorial I'll list them out with some basic examples.
+
+<!-- |Description|Method|
+|:-:|:-:|
+|Returns True if all characters in the string are alphanumeric and there is at least one character, False otherwise. A character c is alphanumeric if one of the following returns True: c.isalpha(), c.isdecimal(), c.isdigit(), or c.isnumeric().|[`isalnum()`](https://docs.python.org/3/library/stdtypes.html#str.isalnum)|
+|Return True if all characters in the string are alphabetic and there is at least one character, False otherwise.|[`isalpha()`](https://docs.python.org/3/library/stdtypes.html#str.isalpha)|
+|Return True if the string is empty or all characters in the string are ASCII, False otherwise. ASCII characters have code points in the range U+0000-U+007F.|[`isascii()`](https://docs.python.org/3/library/stdtypes.html#str.isascii)|
+|Return True if all characters in the string are decimal characters and there is at least one character, False otherwise.|[`isdecimal()`](https://docs.python.org/3/library/stdtypes.html#str.isdecimal)|
+|Return True if all characters in the string are digits and there is at least one character, False otherwise. Formally, a digit is a character that has the property value Numeric_Type=Digit or Numeric_Type=Decimal.|[`isdigit()`](https://docs.python.org/3/library/stdtypes.html#str.isdigit)|
+|Return True if the string is a valid identifier according to the language definition. Call keyword.iskeyword() to test whether string s is a **reserved** identifier, such as def and class.|[`isidentifier()`](https://docs.python.org/3/library/stdtypes.html#str.isidentifier)|
+|Return True if all cased characters 4 in the string are lowercase and there is at least one cased character, False otherwise.|[`islower()`](https://docs.python.org/3/library/stdtypes.html#str.islower)|
+|Return True if all characters in the string are numeric characters, and there is at least one character, False otherwise. Formally, numeric characters are those with the property value of digit, decimal, or numeric.|[`isnumeric()`](https://docs.python.org/3/library/stdtypes.html#str.isnumeric)|
+|Return True if all characters in the string are printable or the string is empty, False otherwise.|[`isprintable()`](https://docs.python.org/3/library/stdtypes.html#str.isprintable)|
+|Return True if there are only whitespace characters in the string and there is at least one character, False otherwise.|[`isspace()`](https://docs.python.org/3/library/stdtypes.html#str.isspace)|
+|Return True if the string is a titlecased string and there is at least one character, for example uppercase characters may only follow uncased characters and lowercase characters only cased ones. Return False otherwise.|[`istitle()`](https://docs.python.org/3/library/stdtypes.html#str.istitle)|
+|Return True if all cased characters 4 in the string are uppercase and there is at least one cased character, False otherwise.|[`isupper()`](https://docs.python.org/3/library/stdtypes.html#str.isupper)| -->
+
+|Description|Method|
+|:-:|:-:|
+|Return True if all characters in the string are alphabetic and there is at least one character, False otherwise.|[`isalpha()`](https://docs.python.org/3/library/stdtypes.html#str.isalpha)|
+|Return True if all characters in the string are decimal characters and there is at least one character, False otherwise.|[`isdecimal()`](https://docs.python.org/3/library/stdtypes.html#str.isdecimal)|
+|Return True if all cased characters in the string are lowercase and there is at least one cased character, False otherwise.|[`islower()`](https://docs.python.org/3/library/stdtypes.html#str.islower)|
+|Return True if there are only whitespace characters in the string and there is at least one character, False otherwise.|[`isspace()`](https://docs.python.org/3/library/stdtypes.html#str.isspace)|
+|Return True if all cased characters in the string are uppercase and there is at least one cased character, False otherwise.|[`isupper()`](https://docs.python.org/3/library/stdtypes.html#str.isupper)|
+
+```py
+"abcdefg".isalpha()
+True
+"abc123".isalpha()
+False
+"1234567".isdecimal()
+True
+"123AllEyesOnMe".isdecimal()
+False
+```
+
+|Description|Method|
+|:-:|:-:|
+|Return True if string starts with the prefix, otherwise return False. prefix can also be a tuple of prefixes to look for. With optional start, test string beginning at that position. With optional end, stop comparing string at that position.|[`startswith()`](https://docs.python.org/3/library/stdtypes.html#str.startswith)|
+|Return True if the string ends with the specified suffix, otherwise return False. suffix can also be a tuple of suffixes to look for. With optional start, test beginning at that position. With optional end, stop comparing at that position.|[`endswith()`](https://docs.python.org/3/library/stdtypes.html#str.endswith)|
+|Return the lowest index in the string where substring sub is found within the slice s[start:end]. Optional arguments start and end are interpreted as in slice notation. Like `find()`, but instead of returning -1 if sub is not found it raises ValueError instead.|[`index()`](https://docs.python.org/3/library/stdtypes.html#str.index)|
+
+```py
+>>> psalm23_1 = "The LORD is my shepherd, I lack nothing."
+>>> psalm23_1.startswith("The LORD")
+True
+>>> psalm23_1.startswith(("LORD", "The"))
+True
+>>> psalm23_1.endswith("I lack nothing.")
+True
+>>> start = psalm23_1.index("LORD")
+>>> end   = start + len("LORD")
+>>> start, end
+(4, 8)
+>>> psalm23_1[start:end]
+'LORD'
+```
+
+|Description|Method|
+|:-:|:-:| 
+|Return centered in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`center()`](https://docs.python.org/3/library/stdtypes.html#str.center)|
+|Return the string left justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`ljust()`](https://docs.python.org/3/library/stdtypes.html#str.ljust)|
+|Return the string right justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`rjust()`](https://docs.python.org/3/library/stdtypes.html#str.rjust)|
+
+```py
+# Same as: f"{'Knight':♘^12}"
+>>> "Knight".center(12,'♘')
+'♘♘♘Knight♘♘♘'
+# Same as: f"{'Knight':♘<12}"
+>>> "Knight".ljust(12,'♘')
+'Knight♘♘♘♘♘♘'
+# Same as: f"{'Knight':♘>12}"
+>>> "Knight".rjust(12,'♘')
+'♘♘♘♘♘♘Knight'
+```
+
+|Description|Method|
+|:-:|:-:|
+|Return a copy of the string with the leading and trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a prefix or suffix; rather, all combinations of its values are stripped|[`strip()`](https://docs.python.org/3/library/stdtypes.html#str.strip)|
+|Return a copy of the string with leading characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a prefix; rather, all combinations of its values are stripped:|[`lstrip()`](https://docs.python.org/3/library/stdtypes.html#str.lstrip)|
+|Return a copy of the string with trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a suffix; rather, all combinations of its values are stripped|[`rstrip()`](https://docs.python.org/3/library/stdtypes.html#str.rstrip)|
+
+```py
+knight = '♘♘♘Knight♘♘♘'
+>>> knight.rstrip('♘')
+'♘♘♘Knight'
+>>> knight.lstrip('♘')
+'Knight♘♘♘'
+>>> knight.strip('♘')
+'Knight'
+```
+
+|Description|Method|
+|:-:|:-:|
+|If the string starts with the prefix string, return string[len(prefix):]. Otherwise, return a copy of the original string|[`removeprefix()`](https://docs.python.org/3/library/stdtypes.html#str.removeprefix)|
+|If the string ends with the suffix string and that suffix is not empty, return string[:-len(suffix)]. Otherwise, return a copy of the original string|[`removesuffix()`](https://docs.python.org/3/library/stdtypes.html#str.removesuffix)|
+|Return a copy of the string with all occurrences of substring old replaced by new. If the optional argument count is given, only the first count occurrences are replaced.|[`replace()`](https://docs.python.org/3/library/stdtypes.html#str.replace)|
+
+```py
+>>> knight = '♘♘♘Knight♘♘♘'
+>>> knight.removeprefix('♘')
+'♘♘Knight♘♘♘'
+>>> "Mr. Doctor".removeprefix("Mr.")
+' Doctor'
+>>> "Mr. Doctor".removeprefix("Mr.").lstrip()
+'Doctor'
+>>> king = knight.replace('♘', '♔')
+>>> king = king.replace('Knight', 'King')
+>>> king
+'♔♔♔King♔♔♔'
+```
+
+|Description|Method|
+|:-:|:-:|
+|Return a string which is the concatenation of the strings in iterable. A TypeError will be raised if there are any non-string values in iterable, including bytes objects. The separator between elements is the string providing this method.|[`join()`](https://docs.python.org/3/library/stdtypes.html#str.join)|
+|Return a list of the words in the string, using sep as the delimiter string. If maxsplit is given, at most maxsplit splits are done (thus, the list will have at most maxsplit+1 elements). If maxsplit is not specified or -1, then there is no limit on the number of splits (all possible splits are made).|[`split()`](https://docs.python.org/3/library/stdtypes.html#str.split)|
+|Split the string at the first occurrence of sep, and return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. If the separator is not found, return a 3-tuple containing the string itself, followed by two empty strings.|[`partition()`](https://docs.python.org/3/library/stdtypes.html#str.partition)|
+
+```py
+>>> veritas = "Quid est veritas?".split()
+>>> veritas
+['Quid', 'est', 'veritas?']
+>>> " ".join(['Quid', 'est', 'veritas?'])
+'Quid est veritas?'
+>>> " ".join(veritas)
+'Quid est veritas?'
+>>> "Hello, World!".partition(", ")
+('Hello', ', ', 'World!')
+```
+
+|Description|Method|
+|:-:|:-:|
+|This static method returns a translation table usable for str.translate().|[`maketrans()`](https://docs.python.org/3/library/stdtypes.html#str.maketrans)|
+|Return a copy of the string in which each character has been mapped through the given translation table.|[`translate()`](https://docs.python.org/3/library/stdtypes.html#str.translate)|
+
+```py
+# ROT-13 Encryption
+msg   = "Hello"
+trans = str.maketrans(
+    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ", 
+    "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM"
+)
+
+# Encrypted message
+>>> msg.translate(trans)
+'Uryyb'
+```
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
