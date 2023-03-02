@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "👨‍💻 Digital Discipleship 101"
-date: 2023-02-21 02:25:25 -0500
+date: 2023-02-21 02:30:32 -0500
 categories: computer programming python ministry
 published: true
 ---
+
+<span style="font-style:Italic;font-size:21px;color:Black;">Hello and welcome,</span>
 
 <!-- If anyone says you're lazy for working for God instead of money, they are simply projecting their own intellectual state. -->
 
@@ -17,8 +19,6 @@ published: true
 <!-- 💻👨‍💻 Computer Programming Courses And Digital Discipleship -->
 
 <!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
-
-<span style="font-style:Italic;font-size:21px;color:Black;">Hello and welcome,</span>
 
 My name is Ryan and my philosophy is known as autodidacticism. I have been a programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you’ll see me implement in this blog is of the imperative rather than declarative variety.
 
