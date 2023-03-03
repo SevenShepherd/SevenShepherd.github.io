@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:25:00 -0500
+date: 2023-02-21 03:30:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -24,7 +24,7 @@ In 2016 I created a custom programmed and automated Twitter based Christian mini
 
 > <sup style="font-weight:bold;">19</sup> Go therefore and make disciples of all nations, baptizing them in<span style="color:#A7A7A7;">[a]</span> the name of the Father and of the Son and of the Holy Spirit, <sup style="font-weight:bold;">20</sup> teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” &mdash; Matthew 28:19-20 ESV
 
-I've decided to teach my hard won computer programming experience to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
+I've decided to teach the computer programming experience God has given me to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">Content Overview</span>
 
@@ -463,11 +463,11 @@ f"{x}, {y}"
 Strings can be indexed (subscripted); the first character has an index of 0. There is no separate character type as a single character is just a string of size one. Just like arrays in the C programming language, lists and sequences in Python start with a zeroth index, so if you want to index the second character, you'll need to select position 1 since that comes after the zeroth element.
 
 ```py
->>> string = "Hello"
+string = "Hello"
 
->>> # 'H' is the "Zeroth element," first character
->>> # 'e' is the first element, second character
->>> string[1]
+# 'H' is the "Zeroth element," first character
+# 'e' is the first element, second character
+string[1]
 'e'
 ```
 
@@ -478,13 +478,13 @@ Strings can be indexed (subscripted); the first character has an index of 0. The
 You can also use negative numbers as indices, which begins counting from the right. So an index of `[-1]` would be the last element in the sequence. It should be noted that because -0 is the same as 0, negative indices must start from -1. 
 
 ```py
->>> string = "Hello"
+string = "Hello"
 
->>> # 'H' is the "Zeroth element," first character
->>> # 'e' is the first element, second character
->>> string[-1]
+# 'H' is the "Zeroth element," first character
+# 'e' is the first element, second character
+string[-1]
 'o'
->>> string[-4]
+string[-4]
 'e'
 ```
 
@@ -496,17 +496,21 @@ Slicing strings with *slice notation* can provide a convenient way to extract sp
 
 ```py
 # Strings can be sliced
->>> string = "Encouragement"
->>> # string[include:exclude]
->>> string[7:9+1] # or string[7:10]
+string = "Encouragement"
+
+# string[include:exclude]
+string[7:9+1] # or string[7:10]
 'gem'
->>> string[2:8+1]
+
+string[2:8+1]
 'courage'
->>> # Negative slices are also a thing
->>> string[-6:-4+1]
+
+# Negative slices are also a thing
+string[-6:-4+1]
 'gem'
->>> # You can also concatenate
->>> string[7:9+1] + " of " + string[2:8+1]
+
+# You can also concatenate
+string[7:9+1] + " of " + string[2:8+1]
 'gem of courage'
 ```
 
@@ -578,13 +582,16 @@ Previously you were introduced to the `format()` string method and alternative f
 |Returns a copy of the string with uppercase characters converted to lowercase and vice versa.|[`swapcase()`](https://docs.python.org/3/library/stdtypes.html#str.swapcase)|
 
 ```py
->>> "solomon".capitalize()
+"solomon".capitalize()
 'Solomon'
->>> "digital discipleship".title()
+
+"digital discipleship".title()
 'Digital Discipleship'
->>> "exit".upper()
+
+"exit".upper()
 'EXIT'
->>> "QUIETLY".lower()
+
+"QUIETLY".lower()
 'quietly'
 ```
 
@@ -631,18 +638,22 @@ False
 |Return the lowest index in the string where substring sub is found within the slice s[start:end]. Optional arguments start and end are interpreted as in slice notation. Like `find()`, but instead of returning -1 if sub is not found it raises ValueError instead.|[`index()`](https://docs.python.org/3/library/stdtypes.html#str.index)|
 
 ```py
->>> psalm23_1 = "The LORD is my shepherd, I lack nothing."
->>> psalm23_1.startswith("The LORD")
+psalm23_1 = "The LORD is my shepherd, I lack nothing."
+psalm23_1.startswith("The LORD")
 True
->>> psalm23_1.startswith(("LORD", "The"))
+
+psalm23_1.startswith(("LORD", "The"))
 True
->>> psalm23_1.endswith("I lack nothing.")
+
+psalm23_1.endswith("I lack nothing.")
 True
->>> start = psalm23_1.index("LORD")
->>> end   = start + len("LORD")
->>> start, end
+
+start = psalm23_1.index("LORD")
+end   = start + len("LORD")
+start, end
 (4, 8)
->>> psalm23_1[start:end]
+
+psalm23_1[start:end]
 'LORD'
 ```
 
@@ -654,13 +665,15 @@ True
 
 ```py
 # Same as: f"{'Knight':♘^12}"
->>> "Knight".center(12,'♘')
+"Knight".center(12,'♘')
 '♘♘♘Knight♘♘♘'
+
 # Same as: f"{'Knight':♘<12}"
->>> "Knight".ljust(12,'♘')
+"Knight".ljust(12,'♘')
 'Knight♘♘♘♘♘♘'
+
 # Same as: f"{'Knight':♘>12}"
->>> "Knight".rjust(12,'♘')
+"Knight".rjust(12,'♘')
 '♘♘♘♘♘♘Knight'
 ```
 
@@ -672,11 +685,13 @@ True
 
 ```py
 knight = '♘♘♘Knight♘♘♘'
->>> knight.rstrip('♘')
+knight.rstrip('♘')
 '♘♘♘Knight'
->>> knight.lstrip('♘')
+
+knight.lstrip('♘')
 'Knight♘♘♘'
->>> knight.strip('♘')
+
+knight.strip('♘')
 'Knight'
 ```
 
@@ -687,16 +702,19 @@ knight = '♘♘♘Knight♘♘♘'
 |Return a copy of the string with all occurrences of substring old replaced by new. If the optional argument count is given, only the first count occurrences are replaced.|[`replace()`](https://docs.python.org/3/library/stdtypes.html#str.replace)|
 
 ```py
->>> knight = '♘♘♘Knight♘♘♘'
->>> knight.removeprefix('♘')
+knight = '♘♘♘Knight♘♘♘'
+knight.removeprefix('♘')
 '♘♘Knight♘♘♘'
->>> "Mr. Doctor".removeprefix("Mr.")
+
+"Mr. Doctor".removeprefix("Mr.")
 ' Doctor'
->>> "Mr. Doctor".removeprefix("Mr.").lstrip()
+
+"Mr. Doctor".removeprefix("Mr.").lstrip()
 'Doctor'
->>> king = knight.replace('♘', '♔')
->>> king = king.replace('Knight', 'King')
->>> king
+
+king = knight.replace('♘', '♔')
+king = king.replace('Knight', 'King')
+king
 '♔♔♔King♔♔♔'
 ```
 
@@ -707,14 +725,17 @@ knight = '♘♘♘Knight♘♘♘'
 |Split the string at the first occurrence of sep, and return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. If the separator is not found, return a 3-tuple containing the string itself, followed by two empty strings.|[`partition()`](https://docs.python.org/3/library/stdtypes.html#str.partition)|
 
 ```py
->>> veritas = "Quid est veritas?".split()
->>> veritas
+veritas = "Quid est veritas?".split()
+veritas
 ['Quid', 'est', 'veritas?']
->>> " ".join(['Quid', 'est', 'veritas?'])
+
+" ".join(['Quid', 'est', 'veritas?'])
 'Quid est veritas?'
->>> " ".join(veritas)
+
+" ".join(veritas)
 'Quid est veritas?'
->>> "Hello, World!".partition(", ")
+
+"Hello, World!".partition(", ")
 ('Hello', ', ', 'World!')
 ```
 
@@ -732,7 +753,7 @@ trans = str.maketrans(
 )
 
 # Encrypted message
->>> msg.translate(trans)
+msg.translate(trans)
 'Uryyb'
 ```
 
