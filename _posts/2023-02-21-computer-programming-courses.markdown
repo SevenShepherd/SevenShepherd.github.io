@@ -1,18 +1,12 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:15:00 -0500
+date: 2023-02-21 03:25:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
 
 <span style="font-style:Italic;font-size:21px;color:Black;">Hello and welcome,</span>
-
-<!-- If anyone says you're lazy for working for God instead of money, they are simply projecting their own intellectual state. -->
-
-<!-- "Never take investment advice from someone who has to work for a living." -->
-
-<!-- "Those who malign others are projecting their own insecurities and limitations upon those whom they envy." -->
 
 <!-- I know you've waited a long time *unknown* blessed *unknown* *unknown* -->
 
