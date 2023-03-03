@@ -137,7 +137,7 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
 
-<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
+<span style="font-style:Italic;font-size:32px;">Advanced Study Material</span>
 
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
@@ -157,21 +157,22 @@ This section details even more advanced material for those who want to deep dive
 <!-- Essential doctrine was taught to me by Chuck Smith who dedicated me to God at birth, my pretribulational premillennialist views come from Dr. Jack Van Impe as a teen and young adult, as a preteen I deduced hybrid offspring theory on my own and this lines up with divine council theory from Dr. Michael S. Heiser. I have adopted a Non-cessationist stance from Dr. Wyane Grudem, but I held this stance since I was a child from my own experiences. My latest stance was leaving free grace theology for the original reformed theology where grace is also free but repentance & christian ethics is fully acknowledged. My interest in textual criticism is thanks to my own inquisitive nature as a self-taught computer programmer and only intensified by Dr's. Daniel B. Wallace & Michael S. Heiser. -->
 
 - [Essential Doctrine](https://bit.ly/3XJY5AB)
-    - There is only one God
-    - Jesus Is God made manifest
-    - *Sola Gratia, Sola Fide, Solus Christus*
-    - Bodily resurrection of Jesus
-    - Ascended to heaven and will return
-    - God is triune (The Trinity)
-- Theologically conservative
-- Reformed theology
+- Historic Protestant, Evangelical, Reformed
     - Championing the Five Solas
     - Soteriology & Ordo salutis
+- Theologically conservative
 - Non/Soft cessationism
 - Dispensational premillennialism
     - Pretribulational rapture
 - Divine council theory
     - Hybrid offspring
+
+<!-- - There is only one God
+- Jesus Is God made manifest
+- *Sola Gratia, Sola Fide, Solus Christus*
+- Bodily resurrection of Jesus
+- Ascended to heaven and will return
+- God is triune (The Trinity) -->
 
 <!-- <span style="font-style:Italic;font-size:28px;">Recommended Courses</span> -->
 
