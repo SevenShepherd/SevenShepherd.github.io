@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:40:00 -0500
+date: 2023-02-21 03:45:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -14,17 +14,17 @@ published: true
 
 <!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
 
-My name is Ryan and my philosophy is known as autodidacticism. I have been a programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you’ll see me implement in this blog is of the imperative rather than declarative variety.
+My name is Ryan and my philosophy is known as autodidacticism. I have been a programmer since the turn of the millennium. In the past, for reasons not entirely clear to me at the time, I successfully taught myself how to program. I started with C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you’ll see me implement in this blog is of the imperative rather than declarative variety.
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
 
-In 2016 I created a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to the January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
+In 2016 I was compelled to create a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
 
 <!-- From 2016 to the January 2023, this ministry has posted over 2.7 million tweets, and received more than 7.6 million likes & retweets. This is approximately 100 lifetimes of preaching the gospel message within a 7 year period. -->
 
 > <sup style="font-weight:bold;">19</sup> Go therefore and make disciples of all nations, baptizing them in<span style="color:#A7A7A7;">[a]</span> the name of the Father and of the Son and of the Holy Spirit, <sup style="font-weight:bold;">20</sup> teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” &mdash; Matthew 28:19-20 ESV
 
-I've decided to teach the computer programming experience God has given me to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
+God has put it on my heart and mind to teach the computer programming experience He has given me to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
 
 <span style="font-weight:bold;font-size:30px;color:Black;">Content Overview</span>
 
