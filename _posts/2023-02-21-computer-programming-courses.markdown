@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:35:00 -0500
+date: 2023-02-21 03:40:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -18,7 +18,7 @@ My name is Ryan and my philosophy is known as autodidacticism. I have been a pro
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
 
-In 2016 God inspired me to created a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to the January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
+In 2016 I created a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to the January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
 
 <!-- From 2016 to the January 2023, this ministry has posted over 2.7 million tweets, and received more than 7.6 million likes & retweets. This is approximately 100 lifetimes of preaching the gospel message within a 7 year period. -->
 
