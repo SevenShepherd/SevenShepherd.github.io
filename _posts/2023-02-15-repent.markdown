@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 06:10:00 -0500
+date: 2023-02-11 06:18:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -50,7 +50,9 @@ After some research I have discovered errors within Free Grace theology, which s
 2. Faith is not merely an intellectual assent to facts.
 3. Historical *"Justification by faith alone"* differs from the Free Grace Movement. -->
 
-1. The true meaning of repentance, according to the worlds most authoritative Greek lexicons, is *"feel remorse, repent, be converted (in religio-ethical sense)."* The first meaning of *"change of mind"* is a category mistake and applies to no instance of repentance in the NT.
+<!-- without scholarly support from the academic community or any standard Greek reference work  Applying the meaning *"change of mind"* to any instance of repentance would be a category mistake. -->
+
+1. The true meaning of repentance, according to the worlds most authoritative Greek lexicons, is *"feel remorse, repent, be converted (in religio-ethical sense)."* Applying the meaning *"change of mind"* to any instance of repentance would be a category mistake.
 2. Faith is not merely an intellectual assent to facts. Saving faith includes knowledge, approval, and personal trust.
 3. Historical *"Justification by faith alone,"* true saving faith, always results in obedience and good deeds after justification.
 
