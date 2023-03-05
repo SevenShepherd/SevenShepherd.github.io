@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:45:00 -0500
+date: 2023-02-21 03:50:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -26,7 +26,7 @@ In 2016 I was compelled to create a custom programmed and automated Twitter base
 
 God has put it on my heart and mind to teach the computer programming experience He has given me to others in hopes that they would be able to spread the gospel message more efficiently, and in doing so, curb the tides of darkness which is at our very doorstep, threatening the very fabric of our society.
 
-<span style="font-weight:bold;font-size:30px;color:Black;">Content Overview</span>
+<span style="font-weight:italic;font-size:32px;color:Black;">Content Overview</span>
 
 After much deliberation, all articles pertaining to the Bible will remain free and accessible to everyone at anytime [through our blog](https://bit.ly/3G0CTAO). Instead the way I've decided to support and grow this ministry is by offering courses on computer programming and ministry automation.
 
@@ -36,7 +36,7 @@ I have decided to use the Python programming language to teach fundamental progr
 
 Some of the more advanced topics and skills that will eventually be covered are as follows: data analysis, botting and automation, machine learning and chatbots, deep learning and neural networks, web programming and blog development, and software development and GUI programming. With the initial emphasis on fundamentals and ministry automation.
 
-<span style="font-weight:bold;font-size:30px;color:Black;">A Basic Introduction To Computer Programming</span>
+<span style="font-weight:italic;font-size:32px;color:Black;">A Basic Introduction To Computer Programming</span>
 
 <span style="font-style:italic;font-size:21px;">What Is Programming?</span>
 
@@ -112,7 +112,7 @@ If you run into problems, ask yourself these questions:
 4. If you need to run the program again, you don't need to include `cd Desktop` since the directory has already been changed. 
     - Instead simply type `python main.py` -->
 
-<span style="font-weight:bold;font-size:30px;color:Black;">I. Understanding Data Types And Variables</span>
+<span style="font-weight:italic;font-size:32px;color:Black;">I. Understanding Data Types And Variables</span>
 
 I wanted you all to experience positive feedback before I taught the details to you. The rest of this article will function as the true tutorial starting with data types and variables. If you had issues with the second method, the first method is recommend for this article.
 
@@ -207,7 +207,7 @@ Variable names follow the same convention as function names.
 mixedCase is allowed only in contexts where that’s already the prevailing style (e.g. threading.py), to retain backwards compatibility.
 
 
-<span style="font-weight:bold;font-size:30px;color:Black;">II. Operators And Precedence</span>
+<span style="font-weight:italic;font-size:32px;color:Black;">II. Operators And Precedence</span>
 
 The [Python Language Reference](https://docs.python.org/3/reference/lexical_analysis.html#operators) provides us with the following tokens as operators. Let's organize the operators into categories so we can understand them better.
 
@@ -318,7 +318,7 @@ if __name__ == "__main__":
     main()
 ``` -->
 
-<span style="font-weight:bold;font-size:30px;color:Black;">II. Strings</span>
+<span style="font-weight:italic;font-size:32px;color:Black;">II. Strings</span>
 
 Strings in Python are written as a sequence of characters embedded between two single or double quotation marks. Many programs seek to gather and process data. Strings are incredibly effective at supplying progammers with a powerful way of easily manipulating many forms of data.
 
@@ -757,6 +757,153 @@ msg.translate(trans)
 'Uryyb'
 ```
 
+<span style="font-weight:italic;font-size:32px;color:Black;">Lists</span>
+
+A [list](https://docs.python.org/3/library/stdtypes.html#lists) is an ordered mutable sequence of values enclosed in square brackets, and one of the four collection data types in the Python programming language, including tuples, sets, and dictionaries. Most sequence types share the [Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations).
+
+|Operation|Result|
+|:-:|:-:|
+|`x in s`|True if an item of s is equal to x, else False|
+|`x not in s`|False if an item of s is equal to x, else True|
+|`s + t`|the concatenation of s and t|
+|`s * n` or `n * s`|equivalent to adding s to itself n times|
+|`s[i]`|ith item of s, origin 0|
+|`s[i:j]`|slice of s from i to j|
+|`s[i:j:k]`|slice of s from i to j with step k|
+|`len(s)`|length of s|
+|`min(s)`|smallest item of s|
+|`max(s)`|largest item of s|
+|`s.index(x[, i[, j]])`|index of the first occurrence of x in s (at or after index i and before index j)|
+|`s.count(x)`|total number of occurrences of x in s|
+
+```py
+list_of_strings = ["forward", "backward", "left", "right"]
+list_random     = ["up", "down", 6, 7.8, True]
+
+"up" in list_of_strings
+False
+
+"up" not in list_of_strings
+True
+
+"up" in list_random
+True
+
+"up" not in list_random
+False
+
+list_of_strings + list_random
+['forward', 'backward', 'left', 'right', 'up', 'down', 6, 7.8, True]
+
+list_random*2
+['up', 'down', 6, 7.8, True, 'up', 'down', 6, 7.8, True]
+
+list_random[3]
+7.8
+
+# Same as ...[0:5+1]
+(list_of_strings + list_random)[:5+1]
+['forward', 'backward', 'left', 'right', 'up', 'down']
+
+l = list_of_strings + list_random
+l[:5+1:2]
+['forward', 'left', 'up']
+
+len(l)
+9
+
+min(l[:5+1])
+'backward'
+
+max(l[:5+1])
+'up'
+
+min([1,2,3,4,5,6,7])
+1
+
+max([1,2,3,4,5,6,7])
+7
+
+l.index('up')
+4
+
+l.count(7.8)
+1
+```
+
+Lists implement all of the common and [mutable Sequence operations](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types). Lists also provide the additional [`sort()`](https://docs.python.org/3/library/stdtypes.html#list.sort) method.
+
+|Operation|Result|
+|:-:|:-:|
+|`s[i] = x`|item i of s is replaced by x|
+|`s[i:j] = t`|slice of s from i to j is replaced by the contents of the iterable t|
+|`del s[i:j]`|same as `s[i:j] = []`|
+|`s[i:j:k] = t`|the elements of `s[i:j:k]` are replaced by those of t|
+|`del s[i:j:k]`|removes the elements of `s[i:j:k]` from the list|
+|`s.append(x)`|appends x to the end of the sequence (same as `s[len(s):len(s)] = [x]`)|
+|`s.clear()`|removes all items from s (same as `del s[:]`)|
+|`s.copy()`|creates a shallow copy of s (same as `s[:]`)|
+|`s.extend(t)` or `s += t`|extends s with the contents of t (for the most part the same as `s[len(s):len(s)] = t`)|
+|`s *= n`|updates s with its contents repeated n times|
+|`s.insert(i, x)`|inserts x into s at the index given by i (same as `s[i:i] = [x]`)|
+|`s.pop()` or `s.pop(i)`|retrieves the item at i and also removes it from s|
+|`s.remove(x)`|remove the first item from s where `s[i]` is equal to x|
+|`s.reverse()`|reverses the items of s in place|
+
+```py
+# All three elements of [[]] * 3 are references to this single empty list. 
+lists = [[]] * 3
+lists
+[[], [], []]
+
+# Modifying any of the elements of lists modifies this single list.
+lists[0].append(7)
+lists
+[[7], [7], [7]]
+
+# To create a list of different lists you'll need to use a list comprehension.
+lists = [[] for i in range(3)]
+lists[0].append(7)
+lists
+[[7], [], []]
+
+# reverse reverses in place
+lists.reverse()
+lists
+[[], [], [7]]
+
+x = [1, 2, 3]
+x.reverse()
+x
+[3, 2, 1]
+
+x.pop()       
+1
+x       
+[3, 2]
+
+x.clear()
+x
+[]
+
+x += [1,2,3]
+x.extend([4,5,6])
+x += [7,8,9]
+x.append(10)
+x
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+x.remove(1)
+del x[2:7+1:2]
+x
+[2, 3, 5, 7, 9, 10]
+
+y = [4,1,3,9,7,8,3,7,]
+y.sort()
+y
+[1, 3, 3, 4, 7, 7, 8, 9]
+```
+
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
 **Refresh page for updates in real time.** We will eventually provide links to the courses, but we will need time to prepare the full curriculum. Please be patient and bare with us while we methodically create a friendly end user experience. A free introduction will appear here in this article so bookmark and check back every couple days for updates. We will also present the courses on our [twitter page](https://twitter.com/SevenShepherd).
@@ -765,7 +912,7 @@ Sincerely,
 
 ~ [SevenShepherd](https://twitter.com/SevenShepherd)
 
-<!-- <span style="font-weight:bold;font-size:30px;color:Black;">I. Work Smarter Not Harder</span>
+<!-- <span style="font-weight:italic;font-size:32px;color:Black;">I. Work Smarter Not Harder</span>
 
 In my youth I often asked myself &mdash; whilst in deep reflection &mdash; *"... are my options really only between poverty or slavery?"* Not knowing the answers I meditated on the perplexing question for years until simple truths hit me. During the process of dire contemplation I became monastic (secluded and contemplative) in my Christianity.
 
