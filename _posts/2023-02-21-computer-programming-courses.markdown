@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:50:00 -0500
+date: 2023-02-21 03:55:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -14,11 +14,11 @@ published: true
 
 <!-- 💻🐱‍💻👨‍💻 For Ministry Automation-->
 
-My name is Ryan and my philosophy is known as autodidacticism. I have been a programmer since the turn of the millennium. In the past, for reasons not entirely clear to me at the time, I successfully taught myself how to program. I started with C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you’ll see me implement in this blog is of the imperative rather than declarative variety.
+My name is Ryan and my philosophy is known as autodidacticism. I have been a programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you’ll see me implement in this blog is of the imperative rather than declarative variety.
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
 
-In 2016 I was compelled to create a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
+In 2016 I created a custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully ever since, from a custom built raspberry pi single-board computer. From 2016 to January 2023, this ministry has posted over 2,639,234 tweets, and received more than 7,597,960 likes & retweets. This is approximately [100 lifetimes](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT) of preaching the gospel message within a 7 year period.
 
 <!-- From 2016 to the January 2023, this ministry has posted over 2.7 million tweets, and received more than 7.6 million likes & retweets. This is approximately 100 lifetimes of preaching the gospel message within a 7 year period. -->
 
@@ -34,7 +34,7 @@ After much deliberation, all articles pertaining to the Bible will remain free a
 
 I have decided to use the Python programming language to teach fundamental programming concepts. This is a language suitable for the beginner, as well as the most advanced computer programmers. Python is used by organizations such as: Google, CERN, NASA, Facebook, Amazon, Instagram, Spotify, Reddit, and Wikipedia.
 
-Some of the more advanced topics and skills that will eventually be covered are as follows: data analysis, botting and automation, machine learning and chatbots, deep learning and neural networks, web programming and blog development, and software development and GUI programming. With the initial emphasis on fundamentals and ministry automation.
+<!-- Some of the more advanced topics and skills that will eventually be covered are as follows: data analysis, botting and automation, machine learning and chatbots, deep learning and neural networks, web programming and blog development, and software development and GUI programming. With the initial emphasis on fundamentals and ministry automation. -->
 
 <span style="font-weight:italic;font-size:32px;color:Black;">A Basic Introduction To Computer Programming</span>
 
@@ -903,6 +903,168 @@ y.sort()
 y
 [1, 3, 3, 4, 7, 7, 8, 9]
 ```
+
+<span style="font-weight:italic;font-size:32px;color:Black;">Compound Statements & Control Flow</span>
+
+[compund statements](https://docs.python.org/3/reference/compound_stmts.html)
+
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-if-statement" style="font-weight:italic;font-size:21px;">The If Statement</a>
+
+The if statement is used for conditional execution. It selects exactly one of the suites by evaluating the expressions one by one until one is found to be true then that suite is executed. If all expressions are false, the suite of the else clause, if present, is executed.
+
+```py
+if condition_is_true:
+    print("print this message")
+
+if False:
+    print("The If clause will never be executed")
+else:
+    print("The else clause was executed")
+
+if True:
+    print("The If clause was executed")
+else:
+    print("The else clause will never be executed")
+
+if False:
+    print("The If clause will NEVER executed")
+elif True:
+    print("The elif clause IS executed")
+else:
+    print("The else clause will NEVER be executed")
+
+if True:
+    print("The If clause IS executed")
+elif True:
+    print("The elif clause is NEVER reached")
+else:
+    print("The else clause will NEVER be executed")
+
+if 1 + 1 == 2:
+    print("One plus one is two!")
+
+list_of_ints = [1,3,5,7,9]
+
+if 2 in list_of_ints:
+    print("Two was found in the list!")
+elif 4 in list_of_ints:
+    print("Two was found in the list!")
+else:
+    print("Neither 2 or 4 was found in the List!")
+```
+
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-match-statement" style="font-weight:italic;font-size:21px;">The Match Statement</a>
+
+While you can use as many elif clauses as you like, once you go beyond needing the if, elif, and else, and onto using many elifs, you may want to utilize the match statement. This compound statement is reminiscent of the switch statement in the C programming language, and is new in version 3.10 of the Python programming language.
+
+```py
+subject_expr = "hello"
+
+# This will execute the case sensitive code block
+match subject_expr:
+    case "Hello":
+        print("case insensitive")
+    case "hello":
+        print("case sensitive")
+    case _:
+        print("matches everything")
+```
+
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-while-statement" style="font-weight:italic;font-size:21px;">The While Statement</a>
+
+The while statement is used for repeated execution as long as an expression is true. The [break](https://docs.python.org/3/reference/simple_stmts.html#break) and [continue](https://docs.python.org/3/reference/simple_stmts.html#continue) keywords come in handy for granular control over the loop. While can also be used with the [walrus operator](https://docs.python.org/3/reference/expressions.html#assignment-expressions) which is new to Python version 3.8.
+
+```py
+# Infinite loop
+while True:
+    print("press ctrl+c to stop")
+
+# Infinite loop w/ count
+count = 0
+while count := count + 1:
+    print(f"[{count}] press ctrl+c to stop")
+
+# Infinite loop w/ break at 10
+count = 0
+while count := count + 1:
+    print(f"[{count}] press ctrl+c to stop")
+    if count > 9:
+        break
+
+# Infinite loop w/ continue
+# skips printing on 3
+count = 0
+while count := count + 1:
+    if count == 3:
+        continue
+
+    print(f"[{count}] press ctrl+c to stop")
+    if count > 9:
+        break
+
+# The first run will countdown from 10 ... to 1
+x = 10 + 1
+while x := x - 1:
+    print(x)
+
+# However if you tried the loop again it would go negative
+# to prevent this you can compare the current value to
+# see if it is greater than zero, if not the condition
+# will be false and it will not countdown negatively
+while (x := x - 1) > 0:
+    print(x)
+
+# To restart the count, remember to reassign 10+1 to x
+x = 10 + 1
+while (x := x - 1) > 0:
+    if x != 1:
+        print(x, end=", ")
+    else:
+        print(x)
+
+# One-liner if statement
+x = 10 + 1
+while (x := x - 1) > 0:
+    print(x, end=", ") if x != 1 else print(x)
+
+# Alternatively
+x = 10 + 1
+while (x := x - 1) > 0:
+    print(f"{x}, " if x != 1 else f"{x}\n", end="")
+```
+
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-for-statement" style="font-weight:italic;font-size:21px;">The For Statement</a>
+
+The majority of the time, the for loop statement is more frequently used. Especially if infinite loops are not needed. For loops are very often used with the [range](https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges) built-in.
+
+```py
+for i in range(1, 10+1):
+    print(i, end=" ")
+
+# this while loop is the same as ...
+c = 0
+while (c := c + 1) <= 10:
+    print(f"{c}, " if c != 10 else f"{c}\n", end="")
+
+# ... this for loop
+for i in range(1, 10+1):
+    print(f"{i}, " if i != 10 else f"{i}\n", end="")
+
+# counting down can be achieved like so
+x = 10 + 1
+while (x := x - 1) > 0:
+    print(f"{x}, " if x != 1 else f"{x}\n", end="")
+
+# the equivalent using the for loop is as follows
+for i in range(10, 0, -1):
+    print(f"{i}, " if i != 1 else f"{i}\n", end="")
+```
+
+<!-- <span style="font-weight:italic;font-size:21px;color:Black;">The Try Statement</span>
+
+<span style="font-weight:italic;font-size:21px;color:Black;">The With Statement</span> -->
+
+
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
