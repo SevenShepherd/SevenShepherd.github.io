@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 03:55:00 -0500
+date: 2023-02-21 04:10:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -906,7 +906,7 @@ y
 
 <span style="font-weight:italic;font-size:32px;color:Black;">Compound Statements & Control Flow</span>
 
-[compund statements](https://docs.python.org/3/reference/compound_stmts.html)
+[Compound statements](https://docs.python.org/3/reference/compound_stmts.html) contain groups of other statements and consist of one or more ‘clauses’ which span multiple lines. The clauses control and manipulate the other statements.
 
 <a href="https://docs.python.org/3/reference/compound_stmts.html#the-if-statement" style="font-weight:italic;font-size:21px;">The If Statement</a>
 
@@ -1060,10 +1060,74 @@ for i in range(10, 0, -1):
     print(f"{i}, " if i != 1 else f"{i}\n", end="")
 ```
 
-<!-- <span style="font-weight:italic;font-size:21px;color:Black;">The Try Statement</span>
+<span style="font-weight:italic;font-size:21px;color:Black;">The Try Statement</span>
 
-<span style="font-weight:italic;font-size:21px;color:Black;">The With Statement</span> -->
+Exception handling is much more easy in Python than it is in many older languages. The try and except keywords make catching errors a breeze. We can simulate an error with the [raise](https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement) statement. We can also use the simpler [assert](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement) statement.
 
+```py
+# Raise
+try:
+    if not isinstance(x, int):
+        raise TypeError("The variable needs to be an integer!")
+except TypeError as error:
+    print(error)
+    
+# Assert
+try:
+    assert isinstance(x, int), "Integers only!"
+except AssertionError as error:
+    print(error)
+```
+
+We can also make use of an else clause like we can with the compound if statement.
+
+```py
+# Raise
+try:
+    if not isinstance(x, int):
+        raise TypeError("The variable needs to be an integer!")
+except TypeError as error:
+    print(error)
+else:
+    print("The variable has passed type inspection.")
+
+# Assert
+try:
+    assert isinstance(x, int), "Integers only!"
+except AssertionError as error:
+    print(error)
+else:
+    print("The variable has passed type inspection.")
+```
+
+Python's exception handling also supplies us with a finally clause which gets executed without fail no matter the outcome of the try, except, and else.
+
+```py
+# Raise
+try:
+    if not isinstance(x, int):
+        raise TypeError("The variable needs to be an integer!")
+except TypeError as error:
+    print(error)
+else:
+    print("The variable has passed type inspection.")
+finally:
+    print("This will run either way")
+
+# Assert
+try:
+    assert isinstance(x, int), "Integers only!"
+except AssertionError as error:
+    print(error)
+else:
+    print("The variable has passed type inspection.")
+finally:
+    print("This will run either way")
+```
+
+<!-- <span style="font-weight:italic;font-size:21px;color:Black;">The With Statement</span> -->
+
+<!-- <span style="font-weight:italic;font-size:32px;color:Black;">Dictionaries</span> -->
 
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
