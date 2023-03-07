@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 04:10:00 -0500
+date: 2023-02-21 04:15:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -904,6 +904,43 @@ y
 [1, 3, 3, 4, 7, 7, 8, 9]
 ```
 
+<span style="font-weight:italic;font-size:32px;color:Black;">Dictionaries</span>
+
+[Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) provide the only standard mapping type avaliable to Python. A mapping objects are mutable and they map hashable values to arbitrary objects.
+
+```py
+
+# Either will achieve the same result
+d = dict(key = "value")
+d = {"key":"value"}
+
+# Either will do, the first returns None
+# if the key is not found. The second
+# throws a KeyError that can be caught
+d.get("key")
+d["key"]
+
+# Output
+"value"
+
+d = dict(key = "value")
+"value"
+```
+
+```py
+d = {
+    "key1": 1,
+    "key2": 2,
+    "key3": 3,
+    "key4": 4,
+    "key5": 5,
+    "key6": 6,
+    "key7": 7
+}
+d
+{'key1': 1, 'key2': 2, 'key3': 3, 'key4': 4, 'key5': 5, 'key6': 6, 'key7': 7}
+```
+
 <span style="font-weight:italic;font-size:32px;color:Black;">Compound Statements & Control Flow</span>
 
 [Compound statements](https://docs.python.org/3/reference/compound_stmts.html) contain groups of other statements and consist of one or more ‘clauses’ which span multiple lines. The clauses control and manipulate the other statements.
@@ -968,6 +1005,19 @@ match subject_expr:
         print("case sensitive")
     case _:
         print("matches everything")
+```
+
+It used to be fun to create your own switch or match statement since Python was devoid of one, but luckily they brought match to Python.
+
+```py
+def switch(opt):
+    return {
+        "key": "value",
+        "k2" : "etc."
+    }.get(opt)
+
+switch("k2")
+'etc.'
 ```
 
 <a href="https://docs.python.org/3/reference/compound_stmts.html#the-while-statement" style="font-weight:italic;font-size:21px;">The While Statement</a>
@@ -1060,7 +1110,7 @@ for i in range(10, 0, -1):
     print(f"{i}, " if i != 1 else f"{i}\n", end="")
 ```
 
-<span style="font-weight:italic;font-size:21px;color:Black;">The Try Statement</span>
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-try-statement" style="font-weight:italic;font-size:21px;">The Try Statement</a>
 
 Exception handling is much more easy in Python than it is in many older languages. The try and except keywords make catching errors a breeze. We can simulate an error with the [raise](https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement) statement. We can also use the simpler [assert](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement) statement.
 
@@ -1126,9 +1176,6 @@ finally:
 ```
 
 <!-- <span style="font-weight:italic;font-size:21px;color:Black;">The With Statement</span> -->
-
-<!-- <span style="font-weight:italic;font-size:32px;color:Black;">Dictionaries</span> -->
-
 
 <span style="font-weight:bold;color:darkorange;font-size:21px;">Under Construction</span>
 
