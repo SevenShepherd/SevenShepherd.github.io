@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 04:15:00 -0500
+date: 2023-02-21 04:20:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -907,6 +907,31 @@ y
 <span style="font-weight:italic;font-size:32px;color:Black;">Dictionaries</span>
 
 [Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) provide the only standard mapping type avaliable to Python. A mapping objects are mutable and they map hashable values to arbitrary objects.
+
+|Operations||
+|:-:|:-:|
+|`list(d)`|Return a list of all the keys used in the dictionary d.|
+|`len(d)`|Return the number of items in the dictionary d.|
+|`d[key]`|Return the item of d with key key. Raises a KeyError if key is not in the map.|
+|`d[key] = value`|Set d[key] to value.|
+|`del d[key]`|Remove d[key] from d. Raises a KeyError if key is not in the map.|
+|`key in d`|Return True if d has a key key, else False.|
+|`key not in d`|Equivalent to not key in d.|
+|`iter(d)`|Return an iterator over the keys of the dictionary. This is a shortcut for `iter(d.keys())`.|
+|`clear()`|Remove all items from the dictionary.|
+|`copy()`|Return a shallow copy of the dictionary.|
+|`fromkeys(iterable[, value])`|Create a new dictionary with keys from iterable and values set to value.|
+|`get(key[, default])`|Return the value for key if key is in the dictionary, else default. If default is not given, it defaults to None, so that this method never raises a KeyError.|
+|`items()`|Return a new view of the dictionary’s items ((key, value) pairs). See the documentation of view objects.|
+|`keys()`|Return a new view of the dictionary’s keys. See the documentation of view objects.|
+|`pop(key[, default])`|If key is in the dictionary, remove it and return its value, else return default. If default is not given and key is not in the dictionary, a KeyError is raised.|
+|`popitem()`|Remove and return a (key, value) pair from the dictionary. Pairs are returned in LIFO order.|
+|`reversed(d)`|Return a reverse iterator over the keys of the dictionary. This is a shortcut for reversed(d.keys()).|
+|`setdefault(key[, default])`|If key is in the dictionary, return its value. If not, insert key with a value of default and return default. default defaults to None.|
+|`update([other])`|Update the dictionary with the key/value pairs from other, overwriting existing keys. Return None.|
+|`values()`|Return a new view of the dictionary’s values.|
+|`d | other`|Create a new dictionary with the merged keys and values of d and other, which must both be dictionaries. The values of other take priority when d and other share keys. `{**d, **other}`|
+|`d |= other`|Update the dictionary d with keys and values from other, which may be either a mapping or an iterable of key/value pairs. The values of other take priority when d and other share keys. `d = {**d, **other}`|
 
 ```py
 
