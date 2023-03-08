@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:35:35 -0500
+date: 2023-02-02 12:40:40 -0500
 categories: salvation
 published: true
 ---
@@ -108,7 +108,27 @@ Covenant
 7. Preservation and perseverance
 8. Glorification -->
 
-<sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Michael F. Bird</span>
+
+Michael F. Bird (PhD, University of Queensland) is Academic Dean and a Lecturer in Theology and New Testament at Ridley College (Melbourne), having previously taught at Brisbane School of Theology and Highland Theological College. He studied at Malyon College and the University of Queensland. He is also Distinguished Research Professor of Theology at Houston Baptist University.
+
+> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird, [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY)
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
+
+Sequence of salvation
+1. Predestination
+2. Calling
+3. Regeneration
+4. Faith & Repentance
+5. Justification
+6. Transformation
+7. Glorification
+
+<sup style="font-size:14px;"><a href="https://amzn.to/3xFJhrY">*Evangelical Theology. 2nd ed. 5.3 Order of Salvation. pp. 564-602.</a></sup>
+
 
 <span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
 
