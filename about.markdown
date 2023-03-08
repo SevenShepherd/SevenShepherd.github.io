@@ -72,17 +72,25 @@ You can also check out my custom programmed and automated Twitter based Christia
 |[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
 |[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)| -->
 
-|Professor/Preacher|Books|
+|Professor|Books|
 |:-:|:-:|
 |**Theology**||
-|[Dr. Wayne Grudem<br>(PhD, Cambridge; DDiv, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|Dr. Michael F. Bird (PhD, University of Queensland)<br>November 18, 1974-Present|[Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)|
+|[Dr. Wayne Grudem<br>(PhD, Cambridge; DDiv, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
+|Dr. Bruce Demarest (PhD, University of Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |||
 |**Textual Criticism**||
-|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[The Unseen Realm](https://amzn.to/40Rak0O)|
-|[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
-|[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)|
+|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes](https://amzn.to/3Yz7L0Z)|
+|||
+|**Divine Council Theory**<br>**OT Textual Criticism**||
+|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
+
+<!-- |[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
+
+
+<!-- |Dr. Michael F. Bird (PhD, University of Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus](https://amzn.to/3YJQlzb)| -->
+
+<!-- |Dr. Michael F. Bird (PhD, University of Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)| -->
 
 <!-- |||
 |**Apologetics**||
@@ -173,9 +181,7 @@ This section details even more advanced material for those who want to deep dive
 |Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)|
 |Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
-<span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
-
-<!-- Essential doctrine was taught to me by Chuck Smith who dedicated me to God at birth, my pretribulational premillennialist views come from Dr. Jack Van Impe as a teen and young adult, as a preteen I deduced hybrid offspring theory on my own and this lines up with divine council theory from Dr. Michael S. Heiser. I have adopted a Non-cessationist stance from Dr. Wyane Grudem, but I held this stance since I was a child from my own experiences. My latest stance was leaving free grace theology for the original reformed theology where grace is also free but repentance & christian ethics is fully acknowledged. My interest in textual criticism is thanks to my own inquisitive nature as a self-taught computer programmer and only intensified by Dr's. Daniel B. Wallace & Michael S. Heiser. -->
+<!-- <span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
 
 - [Essential Doctrine](https://bit.ly/3XJY5AB)
 - Historic Protestant, Evangelical, Reformed
@@ -185,8 +191,9 @@ This section details even more advanced material for those who want to deep dive
 - Non/Soft cessationism
 - Dispensational premillennialism
     - Pretribulational rapture
-- Divine council theory
-    - Hybrid offspring
+- Divine council theory -->
+
+<!-- - Hybrid offspring -->
 
 <!-- - There is only one God
 - Jesus Is God made manifest
