@@ -68,6 +68,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 |[Dr. Wayne Grudem<br>(PhD, Cambridge; DDiv, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
 |[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
 |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[The Unseen Realm](https://amzn.to/40Rak0O)|
+|[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
 |[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)|
 
 <!-- |[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[C2000](https://calvarychapel.com/posts/c2000/)| -->
