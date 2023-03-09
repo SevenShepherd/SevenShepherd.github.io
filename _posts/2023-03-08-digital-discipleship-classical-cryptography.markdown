@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔑 Exercises In Digital Discipleship, Puzzle II: Classical Cryptography"
-date: 2023-03-08 2:10:00 -0500
+date: 2023-03-08 2:15:00 -0500
 categories: cryptography
 published: true
 ---
@@ -23,6 +23,8 @@ published: true
 <!-- I thought this would be a fun article to write, seeing as how the recent move across the country has been extraordinarily time consuming and has prevented me from writing for some time. Classical cryptography was always a very interesting topic for me when I was growing up, and I spent my youth learning how to code on topics like these. This article will be a good introductory programming corse for the curious. -->
 
 This article provides a series of **easy** exercises originally written 11/10/2022 on a separate blog, and repurposed for the digital discipleship program created by SevenShepherd. If you are new or haven't gone through our fundamentals course, you may want to check that out before attempting this exercise.
+
+This article encrypts a famous movie quote from the movie "The Princess Bride" in dozens of ways using classical cryptography. This was written for fun. This ministry does not condone violence or vengeance.
 
 ## ⚠️ Under Construction
 
