@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔬 The Legacy Standard Bible Could Even Surpass The ESV With These Fixes"
-date: 2023-02-11 01:35:35 -0500
+date: 2023-02-11 01:40:35 -0500
 categories: lsb legacy version
 published: true
 ---
@@ -26,7 +26,7 @@ Versions of the bible that call themselves literal or formal equivalent, should 
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Conclusion</span>
 
-The LSB, given the fixes above, would be even greater than the ESV because, not only would it contain the latest readings including those of Jn 1:18 and Jude 1:5 "Jesus", but would exceed the ESV in the sense that it brackets instead of footnotes alternative readings, like Mat 17:20-21, which is preferable.
+The LSB, given the fixes above, would be on even footing with the ESV. Not only would it contain the latest readings including those of Jn 1:18 and Jude 1:5 "Jesus", but would exceed the ESV in the sense that it brackets instead of footnotes alternative readings, like Mat 17:20-21, which is preferable. It would also have other great features like the capitalization of text referring to OT passages in the New Testament, and the covenant name Yahweh.
 
 **If the makers of the LSB really wanted to exemplify 2Ti 2:15, not only would they fix these simple issues, but they would provide a version that supplies the translators' notes much like the [NET Bible, Full Notes Edition](https://amzn.to/3WLAgbr).**
 
