@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔑 Exercises In Digital Discipleship, Puzzle II: Classical Cryptography"
-date: 2023-03-08 2:15:00 -0500
+title: "🔑 Exercises In Digital Discipleship, Part II: Classical Cryptography"
+date: 2023-03-08 2:20:00 -0500
 categories: cryptography
 published: true
 ---

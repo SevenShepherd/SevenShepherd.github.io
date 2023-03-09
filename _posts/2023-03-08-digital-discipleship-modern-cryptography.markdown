@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔒 Exercises In Digital Discipleship, Puzzle III: Modern Cryptography"
-date: 2023-03-08 3:10:00 -0500
+title: "🔒 Exercises In Digital Discipleship, Part III: Modern Cryptography"
+date: 2023-03-08 3:15:00 -0500
 categories: cryptography aes rijndael
 published: true
 ---
