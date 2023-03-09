@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-09 10:00:00 -0500
+date: 2023-03-09 10:15:15 -0500
 categories: digital computer programming python ministry
 published: true
 ---
+
+<!-- 🕯️ -->
 
 ## ⚠️ Under Construction
 **Refresh page for updates.**
@@ -26,6 +28,24 @@ The goal is to create erudite individuals capable of ministry automation.
 - VIII. Statements & Control Flow
 - IX. 
 - X.  -->
+
+<!-- 🧮 -->
+
+<!-- |Chapter|Exercise|Difficulty|
+|:-:|:-|:-:|
+|I.|⚙️ Setup & Installation|🟩|
+|II.|🟰 Data Types & Variables|🟩|
+|III.|🔣 Operators And Precedence|🟩|
+|IV.|🧶 String Manipulation|🟩|
+|V.|🔢 List, Tuple, & Range|🟩|
+|VI.|🔱 Sets|🟩|
+|VII.|📔 Dictionaries|🟩|
+|VIII.|🌊 Statements & Control Flow|🟩|
+|IX.|🔁 Iteration|🟩|
+|X.|🪀 Function Definitions|🟩|
+|XI.|🗜️ Classes & OOP|🟩|
+|XII.|💾 File Handling|🟩|
+|XIII.|🚫 Exception Handling|🟩| -->
 
 |Chapter|Exercise|Difficulty|
 |:-:|:-|:-:|
@@ -50,7 +70,7 @@ The goal is to create erudite individuals capable of ministry automation.
 
 <span style="font-style:Italic;font-size:1.7em;">Exercises & Puzzles</span>
 
-This section is analogous to body builders lifting weights what mental exercise is to computer programmers. Practice and exercise.
+This section is analogous to what lifting weights is to body builders, mental exercise is to computer programmers. Practice and exercise. This section is optional and not required to advance to our ministry automation course.
 
 <!-- <span style="font-style:Italic;font-size:1.4em;">❍ Easy</span>
 <span style="font-style:Italic;font-size:1.4em;">❍ Intermediate</span> -->
@@ -69,11 +89,11 @@ This section is analogous to body builders lifting weights what mental exercise 
 
 |Lesson|Exercise|Difficulty|
 |:-:|:-|:-:|
-|I.|[Einstein's Riddle](https://bit.ly/3J4ZXOP)|🟧|
-|II.|[Classical Cryptography](http://bit.ly/3kZ2D8V)|🟨|
-|III.|[Modern Cryptography](http://bit.ly/3mKveiw)|🟥|
-|IV.|[Plotting](http://bit.ly/3mDZtYz)|🟧|
-|V.|[GUI Programming](http://bit.ly/3mE14hc)|🟧|
+|I.|[🐟 Einstein's Riddle](https://bit.ly/3J4ZXOP)|🟧|
+|II.|[🔑 Classical Cryptography](http://bit.ly/3kZ2D8V)|🟨|
+|III.|[🔒 Modern Cryptography](http://bit.ly/3mKveiw)|🟥|
+|IV.|[📈 Plotting](http://bit.ly/3mDZtYz)|🟧|
+|V.|[💻 GUI Programming](http://bit.ly/3mE14hc)|🟧|
 
 <!-- <span style="font-style:Italic;font-size:1.4em;">❍ Advanced</span> -->
 
