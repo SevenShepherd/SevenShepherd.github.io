@@ -113,7 +113,7 @@ These **highly recommended** versions and studies push the limits of our underst
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[☩ **ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
 The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
 
@@ -130,7 +130,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[☩ **NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 
 The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
 
@@ -147,7 +147,7 @@ The NET Translator notes lend an extraordinarily unique perspective, namely, the
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[☩ **NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 
 The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading.
 
