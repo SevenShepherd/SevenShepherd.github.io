@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "🐟 Exercises In Digital Discipleship, Puzzle I: Einstein's Riddle"
-date: 2023-03-08 01:10:00 -0500
+date: 2023-03-08 01:15:15 -0500
 categories: logic riddle einstein
 published: true
 ---
 
 
-This is an **intermediate** exercise written for the digital discipleship program created by SevenShepherd. If you are new or haven't gone through our fundamentals course, you may want to check that out before attempting to understand this exercise.
+This is an **intermediate** exercise originally written in 2016, later published 09/28/2020 on a separate blog, and repurposed for the digital discipleship program created by SevenShepherd. If you are new or haven't gone through our fundamentals course, you may want to check that out before attempting this exercise.
 
 This is a fun puzzle that was allegedly created by Albert Einstein as a boy. Einstein said that only 2% of the world could solve it. Considering that there are 5!^5 or 24,883,200,000 combinations with only 1 correct solution, you might find the task daunting but I can assure you that anyone who has gone through our class successfully can understand all 3 solutions below.
 
