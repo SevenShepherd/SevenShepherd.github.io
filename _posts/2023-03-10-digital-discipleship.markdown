@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-09 01:10:10 -0500
+date: 2023-03-10 01:40:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -15,7 +15,9 @@ The goal is to create erudite thinkers capable of ministry automation.
 
 <!-- <span style="font-style:Italic;font-size:2em;">Computer Programming Courses</span> -->
 
-<span style="font-style:Italic;font-size:1.7em;">Fundamentals</span>
+<span style="font-style:Italic;font-size:2em;">Fundamentals</span>
+
+<!-- <span style="font-size:1.4em;">Basics</span> -->
 
 <!-- - I. Setup & Installation
 - II. Understanding Data Types And Variables
@@ -47,12 +49,13 @@ The goal is to create erudite thinkers capable of ministry automation.
 |XII.|💾 File Handling|🟩|
 |XIII.|🚫 Exception Handling|🟩| -->
 
-|Chapter|Exercise|Difficulty|
+<!-- |Chapter|Exercise|Difficulty|
 |:-:|:-|:-:|
 |I.|Setup & Installation|🟩|
 |II.|Data Types & Variables|🟩|
 |III.|Operators And Precedence|🟩|
 |IV.|String Manipulation|🟩|
+||Output & User Input||
 |V.|Lists, Tuples, & Ranges|🟩|
 |VI.|Sets|🟩|
 |VII.|Dictionaries|🟩|
@@ -62,6 +65,48 @@ The goal is to create erudite thinkers capable of ministry automation.
 |XI.|Classes & OOP|🟩|
 |XII.|File Handling|🟩|
 |XIII.|Exception Handling|🟩|
+||Metaprogramming|| -->
+
+|Chapter|Setup & Installation|Difficulty|
+|:-:|:-|:-:|
+|I.|Python|🟩|
+|II.|Notepad++|🟩|
+|III.|VSCode|🟩|
+
+|Chapter|Basics|Difficulty|
+|:-:|:-|:-:|
+|IV.|Setup & Installation|🟩|
+|V.|Data Types & Variables|🟩|
+|VI.|Operators And Precedence|🟩|
+|VII.|String Manipulation|🟩|
+|VIII.|Output & User Input||
+
+<!-- <span style="font-size:1.4em;">Container Types</span> -->
+
+|Chapter|Container Types|Difficulty|
+|:-:|:-|:-:|
+|IX.|Lists & Tuples|🟩|
+|X.|Sets|🟩|
+|XI.|Dictionaries|🟩|
+
+<!-- <span style="font-size:1.4em;">Compound Statements</span> -->
+
+|Chapter|Compound Statements|Difficulty|
+|:-:|:-|:-:|
+|XII.|The If Statement|🟩|
+|XIII.|The Match Statement|🟩|
+|XIV.|The While Statement|🟩|
+|XV.|The For Statement|🟩|
+
+<!-- <span style="font-size:1.4em;">???</span> -->
+
+|Chapter|???|Difficulty|
+|:-:|:-|:-:|
+|XVI.|Function Definitions|🟩|
+|XVII.|Classes & OOP|🟩|
+|XVIII.|File Handling|🟩|
+|XIX.|Exception Handling|🟩|
+|XX.|Metaprogramming|🟩|
 
 <!-- The control flow of a Python program is regulated by conditional statements, loops, and function calls. -->
 
@@ -70,12 +115,12 @@ The goal is to create erudite thinkers capable of ministry automation.
 
 <!-- **Sets** - Membership testing, removing duplicates, and computing mathematical operations -->
 
-<span style="font-style:Italic;font-size:1.7em;">Exercises & Puzzles</span>
+<span style="font-style:Italic;font-size:2em;">Exercises & Puzzles</span>
 
 This section is analogous to what lifting weights is to body builders, mental exercise is to computer programmers. Practice and exercise. This section is optional and not required to advance to our ministry automation course.
 
-<!-- <span style="font-style:Italic;font-size:1.4em;">❍ Easy</span>
-<span style="font-style:Italic;font-size:1.4em;">❍ Intermediate</span> -->
+<!-- <span style="font-style:Italic;font-size:1.4em;">Easy</span>
+<span style="font-style:Italic;font-size:1.4em;">Intermediate</span> -->
 
 <!-- - I. <span style="color:darkorange;">Einstein's Riddle</span> 🟠
 - II. <span style="color:darkgreen;">Classical Cryptography</span> 🟢
@@ -97,7 +142,7 @@ This section is analogous to what lifting weights is to body builders, mental ex
 |IV.|[📈 Plotting](http://bit.ly/3mDZtYz)|🟧|
 |V.|[💻 GUI Programming](http://bit.ly/3mE14hc)|🟧|
 
-<!-- <span style="font-style:Italic;font-size:1.4em;">❍ Advanced</span> -->
+<!-- <span style="font-style:Italic;font-size:1.4em;">Advanced</span> -->
 
 
 <script>
