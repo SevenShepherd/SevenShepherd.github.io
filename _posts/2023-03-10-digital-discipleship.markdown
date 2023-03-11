@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-09 10:15:15 -0500
+date: 2023-03-09 01:10:10 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -11,7 +11,7 @@ published: true
 ## ⚠️ Under Construction
 **Refresh page for updates.**
 
-The goal is to create erudite individuals capable of ministry automation.
+The goal is to create erudite thinkers capable of ministry automation.
 
 <!-- <span style="font-style:Italic;font-size:2em;">Computer Programming Courses</span> -->
 
@@ -53,15 +53,17 @@ The goal is to create erudite individuals capable of ministry automation.
 |II.|Data Types & Variables|🟩|
 |III.|Operators And Precedence|🟩|
 |IV.|String Manipulation|🟩|
-|V.|List, Tuple, & Range|🟩|
+|V.|Lists, Tuples, & Ranges|🟩|
 |VI.|Sets|🟩|
 |VII.|Dictionaries|🟩|
-|VIII.|Statements & Control Flow|🟩|
-|IX.|Iteration|🟩|
+|VIII.|Conditional Statements|🟩|
+|IX.|Iteration (loops)|🟩|
 |X.|Function Definitions|🟩|
 |XI.|Classes & OOP|🟩|
 |XII.|File Handling|🟩|
 |XIII.|Exception Handling|🟩|
+
+<!-- The control flow of a Python program is regulated by conditional statements, loops, and function calls. -->
 
 <!-- |XIV.||🟩|
 |XV.||🟩| -->
