@@ -86,7 +86,9 @@ You can also check out my custom programmed and automated Twitter based Christia
 |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
 |||
 |**Apologetics**||
-|[Dr. Frank Turek](https://youtu.be/XjHhtWL_3Og)<br>Dr. Norman L. Geisler|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
+|[Dr. Frank Turek](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
+
+<!-- <br>Dr. Norman L. Geisler -->
 
 <!-- |[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
 
