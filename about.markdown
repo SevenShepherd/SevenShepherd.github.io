@@ -87,7 +87,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 |||
 |**Apologetics**||
 |[Dr. Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
-|Matt Slick<br>(MDiv, Westminster Theological Seminary)|[CARM](https://carm.org/)|
+|Matt Slick<br>(MDiv, Westminster Theological Seminary)|[☩ CARM](https://carm.org/)|
 
 <!-- <br>Dr. Norman L. Geisler -->
 
