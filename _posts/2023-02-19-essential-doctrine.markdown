@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚓ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 13:10:00 -0500
+date: 2023-02-19 13:12:00 -0500
 categories: essential doctrine
 published: true
 ---
