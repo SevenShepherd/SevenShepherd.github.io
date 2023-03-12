@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔑 Exercises In Digital Discipleship, Part II: Classical Cryptography"
-date: 2023-03-08 2:20:00 -0500
+date: 2023-03-08 2:25:25 -0500
 categories: cryptography
 published: true
 ---
@@ -24,7 +24,7 @@ published: true
 
 This article provides a series of **easy** exercises originally written 11/10/2022 on a separate blog, and repurposed for the digital discipleship program created by SevenShepherd. If you are new or haven't gone through our fundamentals course, you may want to check that out before attempting this exercise.
 
-This article encrypts a famous movie quote from the movie "The Princess Bride" in dozens of ways using classical cryptography. This was written for fun. This ministry does not condone violence or vengeance.
+<!-- This article encrypts a famous movie quote from the movie "The Princess Bride" in dozens of ways using classical cryptography. This was written for fun. This ministry does not condone violence or vengeance. -->
 
 ## ⚠️ Under Construction
 
@@ -160,7 +160,7 @@ def expanded(self, msg, decrypt=False, rotation=None):
 from ciphers.monoalphabetic import MonoalphabeticSubstitutionCipher
 
 def main():
-    plaintext = "My name is Inigo Montoya. You killed my father. Prepare to die."
+    plaintext = "The LORD is my shepherd, I lack nothing."
 
     monoalphabetic = MonoalphabeticSubstitutionCipher()
 
@@ -176,6 +176,36 @@ if __name__ == "__main__":
 ```
 
 ```
+ROT01: Uif MPSE jt nz tifqifse, J mbdl opuijoh.
+ROT02: Vjg NQTF ku oa ujgrjgtf, K ncem pqvjkpi.
+ROT03: Wkh ORUG lv pb vkhskhug, L odfn qrwklqj.
+ROT04: Xli PSVH mw qc wlitlivh, M pego rsxlmrk.
+ROT05: Ymj QTWI nx rd xmjumjwi, N qfhp stymnsl.
+ROT06: Znk RUXJ oy se ynkvnkxj, O rgiq tuznotm.
+ROT07: Aol SVYK pz tf zolwolyk, P shjr uvaopun.
+ROT08: Bpm TWZL qa ug apmxpmzl, Q tiks vwbpqvo.
+ROT09: Cqn UXAM rb vh bqnyqnam, R ujlt wxcqrwp.
+ROT10: Dro VYBN sc wi crozrobn, S vkmu xydrsxq.
+ROT11: Esp WZCO td xj dspaspco, T wlnv yzestyr.
+ROT12: Ftq XADP ue yk etqbtqdp, U xmow zaftuzs.
+ROT13: Gur YBEQ vf zl furcureq, V ynpx abguvat.
+ROT14: Hvs ZCFR wg am gvsdvsfr, W zoqy bchvwbu.
+ROT15: Iwt ADGS xh bn hwtewtgs, X aprz cdiwxcv.
+ROT16: Jxu BEHT yi co ixufxuht, Y bqsa dejxydw.
+ROT17: Kyv CFIU zj dp jyvgyviu, Z crtb efkyzex.
+ROT18: Lzw DGJV ak eq kzwhzwjv, A dsuc fglzafy.
+ROT19: Max EHKW bl fr laxiaxkw, B etvd ghmabgz.
+ROT20: Nby FILX cm gs mbyjbylx, C fuwe hinbcha.
+ROT21: Ocz GJMY dn ht nczkczmy, D gvxf ijocdib.
+ROT22: Pda HKNZ eo iu odaldanz, E hwyg jkpdejc.
+ROT23: Qeb ILOA fp jv pebmeboa, F ixzh klqefkd.
+ROT24: Rfc JMPB gq kw qfcnfcpb, G jyai lmrfgle.
+ROT25: Sgd KNQC hr lx rgdogdqc, H kzbj mnsghmf.
+
+secret message: Gur YBEQ vf zl furcureq, V ynpx abguvat.
+```
+
+<!-- ```
 ROT01: Nz obnf jt Jojhp Npoupzb. Zpv ljmmfe nz gbuifs. Qsfqbsf up ejf.
 ROT02: Oa pcog ku Kpkiq Oqpvqac. Aqw mknngf oa hcvjgt. Rtgrctg vq fkg.
 ROT03: Pb qdph lv Lqljr Prqwrbd. Brx nloohg pb idwkhu. Suhsduh wr glh.
@@ -203,7 +233,7 @@ ROT24: Kw lykc gq Glgem Kmlrmwy. Wms igjjcb kw dyrfcp. Npcnypc rm bgc.
 ROT25: Lx mzld hr Hmhfn Lnmsnxz. Xnt jhkkdc lx ezsgdq. Oqdozqd sn chd.
 
 secret message: Zl anzr vf Vavtb Zbagbln. Lbh xvyyrq zl sngure. Cercner gb qvr.
-```
+``` -->
 
 <span style="font-style:italic;font-size:1.5em;">❍ Affine Cipher</span>
 
@@ -266,7 +296,7 @@ from ciphers.affine import AffineCipher
 
 def main():
 
-    plaintext = "My name is Inigo Montoya. You killed my father. Prepare to die."
+    plaintext = "The LORD is my shepherd, I lack nothing."
     affine    = AffineCipher()
 
     ciphertext1 = affine.succinct(plaintext, 7, 8)
@@ -284,12 +314,21 @@ if __name__ == "__main__":
 ```
 
 ```
+ciphertext: Lfk HCXD me ou efkjfkxd, M hiwa vclfmvy.
+ciphertext: Lfk HCXD me ou efkjfkxd, M hiwa vclfmvy.
+
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
+```
+
+<!-- ```
 ciphertext: Ou viok me Mvmyc Ocvlcui. Ucs amhhkd ou rilfkx. Jxkjixk lc dmk.
 ciphertext: Ou viok me Mvmyc Ocvlcui. Ucs amhhkd ou rilfkx. Jxkjixk lc dmk.
 
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
-```
+``` -->
+
 <span style="font-style:italic;font-size:1.5em;">❍ Atbash</span>
 
 These methods belong to the same `AffineCipher` class in the previous section.
@@ -315,7 +354,7 @@ from ciphers.affine import AffineCipher
 
 def main():
 
-    plaintext = "My name is Inigo Montoya. You killed my father. Prepare to die."
+    plaintext = "The LORD is my shepherd, I lack nothing."
     affine    = AffineCipher()
 
     ciphertext1 = affine.succinct(plaintext, 25, 25)
@@ -341,6 +380,18 @@ if __name__ == "__main__":
 ```
 
 ```
+ciphertext: Gsv OLIW rh nb hsvksviw, R ozxp mlgsrmt.
+ciphertext: Gsv OLIW rh nb hsvksviw, R ozxp mlgsrmt.
+ciphertext: Gsv OLIW rh nb hsvksviw, R ozxp mlgsrmt.
+ciphertext: Gsv OLIW rh nb hsvksviw, R ozxp mlgsrmt.
+
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
+```
+
+<!-- ```
 ciphertext: Nb mznv rh Rmrtl Nlmglbz. Blf proovw nb uzgsvi. Kivkziv gl wrv.
 ciphertext: Nb mznv rh Rmrtl Nlmglbz. Blf proovw nb uzgsvi. Kivkziv gl wrv.
 ciphertext: Nb mznv rh Rmrtl Nlmglbz. Blf proovw nb uzgsvi. Kivkziv gl wrv.
@@ -350,7 +401,7 @@ plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
-```
+``` -->
 
 <!-- <table class="cogitotable"><tbody><tr style="vertical-align:top"><th scope="row">  Plain</th><td>  A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td></tr><tr style="vertical-align:top"><th scope="row">  Cipher</th><td> Z</td><td>Y</td><td>X</td><td>W</td><td>V</td><td>U</td><td>T</td><td>S</td><td>R</td><td>Q</td><td>P</td><td>O</td><td>N</td><td>M</td><td>L</td><td>K</td><td>J</td><td>I</td><td>H</td><td>G</td><td>F</td><td>E</td><td>D</td><td>C</td><td>B</td><td>A</td></tr></tbody></table> -->
 
@@ -681,6 +732,28 @@ from ciphers.vigenere import VigenereCipher
 
 def main():
 
+    plaintext = "The LORD is my shepherd, I lack nothing."
+    vigenere  = VigenereCipher()
+
+    ciphertext1 = vigenere.succinct(plaintext, "Psalm 23:1")
+    ciphertext2 = vigenere.expanded(plaintext, "Psalm 23:1")
+    print(f"ciphertext: {ciphertext1}")
+    print(f"ciphertext: {ciphertext2}")
+    
+    plaintext1 = vigenere.succinct(ciphertext1, "Psalm 23:1", True)
+    plaintext2 = vigenere.expanded(ciphertext2, "Psalm 23:1", True)
+    print(f"plaintext: {plaintext1}")
+    print(f"plaintext: {plaintext2}")
+
+if __name__ == "__main__":
+    main()
+```
+
+<!-- ```py
+from ciphers.vigenere import VigenereCipher
+
+def main():
+
     plaintext = "My name is Inigo Montoya. You killed my father. Prepare to die."
     vigenere  = VigenereCipher()
 
@@ -696,14 +769,23 @@ def main():
 
 if __name__ == "__main__":
     main()
+``` -->
+
 ```
+ciphertext: Ize WAEI of qn khpbujxq, M ascv zbynvrv.
+ciphertext: Ize WAEI of qn khpbujxq, M ascv zbynvrv.
+
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
 ```
+
+<!-- ```
 ciphertext: Pp rapt qj Igmxc Nsemgbr. Cox zqclxh dm gekawu. Gvespzv th hzs.
 ciphertext: Pp rapt qj Igmxc Nsemgbr. Cox zqclxh dm gekawu. Gvespzv th hzs.
 
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
-```
+``` -->
 
 <span style="font-style:italic;font-size:1.5em;">❍ Vigenère Cipher Beaufort Variant</span>
 
@@ -758,6 +840,32 @@ from ciphers.vigenere import VigenereCipher
 
 def main():
 
+    plaintext = "The LORD is my shepherd, I lack nothing."
+    vigenere  = VigenereCipher()
+
+    ciphertext1 = vigenere.beaufort(plaintext, "Psalm 23:1")
+    ciphertext2 = vigenere.succinct(plaintext, "Psalm 23:1", True)
+    ciphertext3 = vigenere.expanded(plaintext, "Psalm 23:1", True)
+    print(f"ciphertext: {ciphertext1}")
+    print(f"ciphertext: {ciphertext2}")
+    print(f"ciphertext: {ciphertext3}")
+
+    plaintext1 = vigenere.beaufort(ciphertext1, "Psalm 23:1", True)
+    plaintext2 = vigenere.succinct(ciphertext2, "Psalm 23:1")
+    plaintext3 = vigenere.expanded(ciphertext3, "Psalm 23:1")
+    print(f"plaintext: {plaintext1}")
+    print(f"plaintext: {plaintext2}")
+    print(f"plaintext: {plaintext3}")
+
+if __name__ == "__main__":
+    main()
+```
+
+<!-- ```py
+from ciphers.vigenere import VigenereCipher
+
+def main():
+
     plaintext = "My name is Inigo Montoya. You killed my father. Prepare to die."
     vigenere  = VigenereCipher()
 
@@ -777,8 +885,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+``` -->
+
 ```
+ciphertext: Epe ACEY cf ij ahtduzlq, E wicz bbobvjr.
+ciphertext: Epe ACEY cf ij ahtduzlq, E wicz bbobvjr.
+ciphertext: Epe ACEY cf ij ahtduzlq, E wicz bbobvjr.
+
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing.
+plaintext: The LORD is my shepherd, I lack nothing
 ```
+
+<!-- ```
 ciphertext: Jh jajp ab Iuepa Lkwawvj. Uor vaullz vk ewcomo. Ynemljn tv zrq.
 ciphertext: Jh jajp ab Iuepa Lkwawvj. Uor vaullz vk ewcomo. Ynemljn tv zrq.
 ciphertext: Jh jajp ab Iuepa Lkwawvj. Uor vaullz vk ewcomo. Ynemljn tv zrq.
@@ -786,7 +905,7 @@ ciphertext: Jh jajp ab Iuepa Lkwawvj. Uor vaullz vk ewcomo. Ynemljn tv zrq.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
 plaintext: My name is Inigo Montoya. You killed my father. Prepare to die.
-```
+``` -->
 
 <span style="font-style:italic;font-size:1.5em;">❍ Running key</span>
 
