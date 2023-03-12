@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♾️ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 12:45:40 -0500
+date: 2023-02-19 12:55:40 -0500
 categories: essential doctrine
 published: true
 ---
@@ -140,7 +140,9 @@ The 16th century Protestant Reformation saw the development of the five latin ph
 
 > <sup style="font-weight:bold;">2:21</sup> I do not nullify the grace of God; for **if justification<span style="color:#A7A7A7;">[a]</span> comes through the law, then Christ died for nothing**. ... <sup style="font-weight:bold;">5:4</sup> You who want to be justified by the law have **cut yourselves off from Christ**; you have fallen away from grace. &mdash; Gal. 2:21;5:4 NRSV. a. Galatians 2:21 Or righteousness
 
-Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened. The antinomianism & hyper-grace heresies are on the opposite end of extreme (See Jude 4; Ro 6:1-2; 1Jn 2:3-6).
+Roman Catholicism and Antinomianism are opposite sides of the coin of heresy. The former denies salvation by grace through faith alone in Christ alone, and the latter abuses grace to nauseating and appalling levels of heresy. You need to acknowledge Grace. This is why the protestant reformation happened. You also cannot abuse the grace of our God (See Jude 4; Ro 6:1-2; 1Jn 2:3-6).
+
+<!-- Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened. The antinomianism & hyper-grace heresies are on the opposite end of extreme (See Jude 4; Ro 6:1-2; 1Jn 2:3-6). -->
 
 <!-- (Latin *five solae*; Anglicized as *five solas*) -->
 <!-- We're saved by Grace alone (*Sola Gratia*), through Faith alone (*Sola Fide*), in Christ alone (*Solus Christus*), according to scripture alone (*Sola Scriptura*), for the Glory of God alone (*Soli Deo Gloria*). -->
@@ -151,13 +153,13 @@ Roman Catholicism denies salvation by grace through faith alone in Christ alone.
 
 > <sup style="font-weight:bold;">4</sup> For certain men <span style="color:#A7A7A7;">[a]</span> have secretly slipped in among you<span style="color:#A7A7A7;">[b]</span>—men who long ago<span style="color:#A7A7A7;">[c]</span> were marked out<span style="color:#A7A7A7;">[d]</span> for the condemnation I am about to describe<span style="color:#A7A7A7;">[e]</span>—**ungodly men who have turned the grace of our God into a license for evil**<span style="color:#A7A7A7;">[[f](https://www.biblegateway.com/passage/?search=Jude+1%3A4&version=NET)]</span> **and who deny our only Master**<span style="color:#A7A7A7;">[g]</span> **and Lord,**<span style="color:#A7A7A7;">[h]</span> **Jesus Christ**. &mdash; Jude 1:4 NET
 
-<a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Expositor's Greek Testament</a>
+<!-- <a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Expositor's Greek Testament</a>
 
 > Jude 1:4. Nature of the Threatened Danger. It is stealthy; it is serious enough to have been predicted long ago; its characteristic is impiety, showing itself in the **antinomian** misuse of the Gospel of God’s free grace, and in the denial of God and Christ.
 
 <a href="https://www.biblehub.com/commentaries/jude/1-4.htm" style="font-style:Italic;font-size:19px;">Barnes' Notes on the Bible</a>
 
-> Turning the grace of our God into lasciviousness - Abusing the doctrines of grace so as to give indulgence to corrupt and carnal propensities. That is, probably, they gave this form to their teaching, as **Antinomians** have often done, that by the gospel they were released from the obligations of the law, and might give indulgence to their sinful passions in order that grace might abound. **Antinomianism** began early in the world, and has always had a wide prevalence. The liability of the doctrines of grace to be thus abused was foreseen by Paul, and against such abuse he earnestly sought to guard the Christians of his time, Romans 6:1, following.
+> Turning the grace of our God into lasciviousness - Abusing the doctrines of grace so as to give indulgence to corrupt and carnal propensities. That is, probably, they gave this form to their teaching, as **Antinomians** have often done, that by the gospel they were released from the obligations of the law, and might give indulgence to their sinful passions in order that grace might abound. **Antinomianism** began early in the world, and has always had a wide prevalence. The liability of the doctrines of grace to be thus abused was foreseen by Paul, and against such abuse he earnestly sought to guard the Christians of his time, Romans 6:1, following. -->
 
 <!-- > <sup style="font-weight:bold;">4</sup> For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ. &mdash; Jude 1:4 ESV -->
 
