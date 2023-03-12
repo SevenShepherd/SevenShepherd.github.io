@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:15:00 -0500
+date: 2023-01-01 9:20:20 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -138,11 +138,11 @@ So there is no misunderstandings on what this ministry is teaching; we champion 
 
 |Five Solas||
 |:-:|:-:|
-|Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
-|Christ alone<br>(*Solus Christus*)|Jn 14:6; 1Ti 2:5; Jn 1:1-3,14,18|
-|Grace alone<br>(*Sola Gratia*)|Eph 2:8-9; Ti 3:5|
-|Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
-|Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
+|Saved by Grace alone<br>(*Sola Gratia*)|Eph 2:8-10; Ti 3:5; Gal. 2:21;5:4|
+|Through Faith alone<br>(*Sola Fide*)|Ro 5:1 ESV; Gal. 3:24 ESV|
+|In Christ alone<br>(*Solus Christus*)|Jn 14:6; Ac 4:12; 1Ti 2:5|
+|According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
+|For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
 
 <!-- The *five solas* are more commonly recognized in the Reformed perspective and were developed in that time period as a response to heresies found in the Roman Catholic Church. -->
 
@@ -391,9 +391,11 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 John the Baptist reprimanded the pharisees, who also believed in God, that they must produce <span style="font-weight:bold;color:#800080;">fruit</span> that proves their repentance (Mt 3:8). 
 
-# Chuck Smith
+# [Chuck Smith](https://youtu.be/kP8rIIps4Sk?t=130)
 
-> <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation</span> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show <span style="font-weight:bold;color:#800080;">fruit</span> that demonstrates You have truly repented from your sin? ...
+> You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. <span style="font-weight:bold;color:#29a329;">Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.</span> If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. <span style="font-weight:bold;color:#29a329;">Repentance is the first step to salvation.</span>
+
+> ... it is the goodness of God that leads us to repentance... Your sin is a failure of true repentance, and not turning from that sin, discredits the gospel of Jesus Christ... **True repentance will be manifested by the <span style="color:#C70039;">complete ceasing</span> of that sin, the renouncing of it, and hatred toward it**... I wonder in your life can you show <span style="font-weight:bold;color:#800080;">fruit</span> that demonstrates You have truly repented from your sin? ...
 
 # [NET Translators' Notes](https://amzn.to/3WLAgbr)
 [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
@@ -430,7 +432,13 @@ fire A symbol of divine wrath. See note on Luke 3:9.
 
 </blockquote>
 
-True believers are not judged under mosaic law like these people will be in the future. A scary thing if they thought they were saved!
+<!-- True believers are not judged under mosaic law like these people will be in the future. A scary thing if they thought they were saved! -->
+
+I am reminded of how [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130) once said *"... we are deeply concerned over the words of Jesus in Matthew 7:21-23:"*
+
+> "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity."
+>
+**Apparently there are many who claim to be believers that in fact are not.** ... We do believe in perseverance of the saints (true believers), but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians." &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130), [Calvinism, Arminianism, & The Word Of God; Perseverence, p. 13-14](https://amzn.to/3KgwOCz)
 
 # [Faithlife Study Bible](https://biblia.com/books/nlt/Mt7.21)
 
