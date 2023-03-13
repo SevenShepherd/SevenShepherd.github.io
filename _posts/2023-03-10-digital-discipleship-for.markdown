@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 01:47:00 -0500
+date: 2023-03-10 01:49:49 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -311,6 +311,24 @@ for i, leaf in enumerate(leaves, start=1):
 13 poplar
 14 tulip tree
 15 dogwood
+'''
+```
+
+Aside from [range](https://docs.python.org/3/library/functions.html#func-range), [reversed](https://docs.python.org/3/library/functions.html#reversed), and [enumerate](https://docs.python.org/3/library/functions.html#enumerate), there is another built-in function called [zip](https://docs.python.org/3/library/functions.html#zip) that comes in handy quite often.
+
+```py
+x = [1, 3, 5, 7, 9 ]
+y = [2, 4, 6, 8, 10]
+
+for i,j in zip(x,y):
+    print(i, j)
+
+'''
+1 2
+3 4
+5 6
+7 8
+9 10
 '''
 ```
 
