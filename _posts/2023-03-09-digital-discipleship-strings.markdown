@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧶 Fundamentals Of Digital Discipleship, Part VII: Strings"
-date: 2023-03-09 03:10:00 -0500
+date: 2023-03-09 03:15:15 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -265,13 +265,13 @@ Previously you were introduced to the `format()` string method and alternative f
 ||`translate()`|
 ||`upper()`| -->
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|Returns a copy of the string with its first character capitalized and the rest lowercased.|[`capitalize()`](https://docs.python.org/3/library/stdtypes.html#str.capitalize)|
-|Returns a titlecased version of the string where words start with an uppercase character and the remaining characters are lowercase.|[`title()`](https://docs.python.org/3/library/stdtypes.html#str.title)|
-|Returns a copy of the string converted to lowercase.|[`lower()`](https://docs.python.org/3/library/stdtypes.html#str.lower)|
-|Returns a copy of the string converted to uppercase.|[`upper()`](https://docs.python.org/3/library/stdtypes.html#str.upper)|
-|Returns a copy of the string with uppercase characters converted to lowercase and vice versa.|[`swapcase()`](https://docs.python.org/3/library/stdtypes.html#str.swapcase)|
+|[`capitalize()`](https://docs.python.org/3/library/stdtypes.html#str.capitalize)|Returns a copy of the string with its first character capitalized and the rest lowercased.|
+|[`title()`](https://docs.python.org/3/library/stdtypes.html#str.title)|Returns a title cased version of the string where words start with an uppercase character and the remaining characters are lowercase.|
+|[`lower()`](https://docs.python.org/3/library/stdtypes.html#str.lower)|Returns a copy of the string converted to lowercase.|
+|[`upper()`](https://docs.python.org/3/library/stdtypes.html#str.upper)|Returns a copy of the string converted to uppercase.|
+|[`swapcase()`](https://docs.python.org/3/library/stdtypes.html#str.swapcase)|Returns a copy of the string with uppercase characters converted to lowercase and vice versa.|
 
 ```py
 "solomon".capitalize()
@@ -304,13 +304,13 @@ The next set of string methods are normally used in conjunction with control flo
 |Return True if the string is a titlecased string and there is at least one character, for example uppercase characters may only follow uncased characters and lowercase characters only cased ones. Return False otherwise.|[`istitle()`](https://docs.python.org/3/library/stdtypes.html#str.istitle)|
 |Return True if all cased characters 4 in the string are uppercase and there is at least one cased character, False otherwise.|[`isupper()`](https://docs.python.org/3/library/stdtypes.html#str.isupper)| -->
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|Return True if all characters in the string are alphabetic and there is at least one character, False otherwise.|[`isalpha()`](https://docs.python.org/3/library/stdtypes.html#str.isalpha)|
-|Return True if all characters in the string are decimal characters and there is at least one character, False otherwise.|[`isdecimal()`](https://docs.python.org/3/library/stdtypes.html#str.isdecimal)|
-|Return True if all cased characters in the string are lowercase and there is at least one cased character, False otherwise.|[`islower()`](https://docs.python.org/3/library/stdtypes.html#str.islower)|
-|Return True if there are only whitespace characters in the string and there is at least one character, False otherwise.|[`isspace()`](https://docs.python.org/3/library/stdtypes.html#str.isspace)|
-|Return True if all cased characters in the string are uppercase and there is at least one cased character, False otherwise.|[`isupper()`](https://docs.python.org/3/library/stdtypes.html#str.isupper)|
+|[`isalpha()`](https://docs.python.org/3/library/stdtypes.html#str.isalpha)|Return True if all characters in the string are alphabetic and there is at least one character, False otherwise.|
+|[`isdecimal()`](https://docs.python.org/3/library/stdtypes.html#str.isdecimal)|Return True if all characters in the string are decimal characters and there is at least one character, False otherwise.|
+|[`islower()`](https://docs.python.org/3/library/stdtypes.html#str.islower)|Return True if all cased characters in the string are lowercase and there is at least one cased character, False otherwise.|
+|[`isspace()`](https://docs.python.org/3/library/stdtypes.html#str.isspace)|Return True if there are only whitespace characters in the string and there is at least one character, False otherwise.|
+|[`isupper()`](https://docs.python.org/3/library/stdtypes.html#str.isupper)|Return True if all cased characters in the string are uppercase and there is at least one cased character, False otherwise.|
 
 ```py
 "abcdefg".isalpha()
@@ -323,11 +323,11 @@ True
 False
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|Return True if string starts with the prefix, otherwise return False. prefix can also be a tuple of prefixes to look for. With optional start, test string beginning at that position. With optional end, stop comparing string at that position.|[`startswith()`](https://docs.python.org/3/library/stdtypes.html#str.startswith)|
-|Return True if the string ends with the specified suffix, otherwise return False. suffix can also be a tuple of suffixes to look for. With optional start, test beginning at that position. With optional end, stop comparing at that position.|[`endswith()`](https://docs.python.org/3/library/stdtypes.html#str.endswith)|
-|Return the lowest index in the string where substring sub is found within the slice s[start:end]. Optional arguments start and end are interpreted as in slice notation. Like `find()`, but instead of returning -1 if sub is not found it raises ValueError instead.|[`index()`](https://docs.python.org/3/library/stdtypes.html#str.index)|
+|[`startswith()`](https://docs.python.org/3/library/stdtypes.html#str.startswith)|Return True if string starts with the prefix, otherwise return False.|
+|[`endswith()`](https://docs.python.org/3/library/stdtypes.html#str.endswith)|Return True if the string ends with the specified suffix, otherwise return False.|
+|[`index()`](https://docs.python.org/3/library/stdtypes.html#str.index)|Return the lowest index in the string where substring sub is found within the slice s[start:end]. Optional arguments start and end are interpreted as in slice notation. Like `find()`, but instead of returning -1 if sub is not found it raises ValueError instead.|
 
 ```py
 psalm23_1 = "The LORD is my shepherd, I lack nothing."
@@ -349,11 +349,11 @@ psalm23_1[start:end]
 'LORD'
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:| 
-|Return centered in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`center()`](https://docs.python.org/3/library/stdtypes.html#str.center)|
-|Return the string left justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`ljust()`](https://docs.python.org/3/library/stdtypes.html#str.ljust)|
-|Return the string right justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space). The original string is returned if width is less than or equal to len(s).|[`rjust()`](https://docs.python.org/3/library/stdtypes.html#str.rjust)|
+|[`center()`](https://docs.python.org/3/library/stdtypes.html#str.center)|Return centered in a string of length width. Padding is done using the specified fillchar (default is an ASCII space).|
+|[`ljust()`](https://docs.python.org/3/library/stdtypes.html#str.ljust)|Return the string left justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space).|
+|[`rjust()`](https://docs.python.org/3/library/stdtypes.html#str.rjust)|Return the string right justified in a string of length width. Padding is done using the specified fillchar (default is an ASCII space).|
 
 ```py
 # Same as: f"{'Knight':♘^12}"
@@ -369,11 +369,11 @@ psalm23_1[start:end]
 '♘♘♘♘♘♘Knight'
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|Return a copy of the string with the leading and trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a prefix or suffix; rather, all combinations of its values are stripped|[`strip()`](https://docs.python.org/3/library/stdtypes.html#str.strip)|
-|Return a copy of the string with leading characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a prefix; rather, all combinations of its values are stripped:|[`lstrip()`](https://docs.python.org/3/library/stdtypes.html#str.lstrip)|
-|Return a copy of the string with trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace. The chars argument is not a suffix; rather, all combinations of its values are stripped|[`rstrip()`](https://docs.python.org/3/library/stdtypes.html#str.rstrip)|
+|[`strip()`](https://docs.python.org/3/library/stdtypes.html#str.strip)|Return a copy of the string with the leading and trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace.|
+|[`lstrip()`](https://docs.python.org/3/library/stdtypes.html#str.lstrip)|Return a copy of the string with leading characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace.|
+|[`rstrip()`](https://docs.python.org/3/library/stdtypes.html#str.rstrip)|Return a copy of the string with trailing characters removed. The chars argument is a string specifying the set of characters to be removed. If omitted or None, the chars argument defaults to removing whitespace.|
 
 ```py
 knight = '♘♘♘Knight♘♘♘'
@@ -387,11 +387,11 @@ knight.strip('♘')
 'Knight'
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|If the string starts with the prefix string, return string[len(prefix):]. Otherwise, return a copy of the original string|[`removeprefix()`](https://docs.python.org/3/library/stdtypes.html#str.removeprefix)|
-|If the string ends with the suffix string and that suffix is not empty, return string[:-len(suffix)]. Otherwise, return a copy of the original string|[`removesuffix()`](https://docs.python.org/3/library/stdtypes.html#str.removesuffix)|
-|Return a copy of the string with all occurrences of substring old replaced by new. If the optional argument count is given, only the first count occurrences are replaced.|[`replace()`](https://docs.python.org/3/library/stdtypes.html#str.replace)|
+|[`removeprefix()`](https://docs.python.org/3/library/stdtypes.html#str.removeprefix)|If the string starts with the prefix string, return string[len(prefix):]. Otherwise, return a copy of the original string|
+|[`removesuffix()`](https://docs.python.org/3/library/stdtypes.html#str.removesuffix)|If the string ends with the suffix string and that suffix is not empty, return string[:-len(suffix)]. Otherwise, return a copy of the original string|
+|[`replace()`](https://docs.python.org/3/library/stdtypes.html#str.replace)|Return a copy of the string with all occurrences of substring old replaced by new. If the optional argument count is given, only the first count occurrences are replaced.|
 
 ```py
 knight = '♘♘♘Knight♘♘♘'
@@ -410,11 +410,11 @@ king
 '♔♔♔King♔♔♔'
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|Return a string which is the concatenation of the strings in iterable. A TypeError will be raised if there are any non-string values in iterable, including bytes objects. The separator between elements is the string providing this method.|[`join()`](https://docs.python.org/3/library/stdtypes.html#str.join)|
-|Return a list of the words in the string, using sep as the delimiter string. If maxsplit is given, at most maxsplit splits are done (thus, the list will have at most maxsplit+1 elements). If maxsplit is not specified or -1, then there is no limit on the number of splits (all possible splits are made).|[`split()`](https://docs.python.org/3/library/stdtypes.html#str.split)|
-|Split the string at the first occurrence of sep, and return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. If the separator is not found, return a 3-tuple containing the string itself, followed by two empty strings.|[`partition()`](https://docs.python.org/3/library/stdtypes.html#str.partition)|
+|[`join()`](https://docs.python.org/3/library/stdtypes.html#str.join)|Return a string which is the concatenation of the strings in iterable. A TypeError will be raised if there are any non-string values in iterable, including bytes objects. The separator between elements is the string providing this method.|
+|[`split()`](https://docs.python.org/3/library/stdtypes.html#str.split)|Return a list of the words in the string, using sep as the delimiter string. If maxsplit is given, at most maxsplit splits are done (thus, the list will have at most maxsplit+1 elements). If maxsplit is not specified or -1, then there is no limit on the number of splits (all possible splits are made).|
+|[`partition()`](https://docs.python.org/3/library/stdtypes.html#str.partition)|Split the string at the first occurrence of sep, and return a 3-tuple containing the part before the separator, the separator itself, and the part after the separator. If the separator is not found, return a 3-tuple containing the string itself, followed by two empty strings.|
 
 ```py
 veritas = "Quid est veritas?".split()
@@ -431,10 +431,12 @@ veritas
 ('Hello', ', ', 'World!')
 ```
 
-|Description|Method|
+|Method|Description|
 |:-:|:-:|
-|This static method returns a translation table usable for str.translate().|[`maketrans()`](https://docs.python.org/3/library/stdtypes.html#str.maketrans)|
-|Return a copy of the string in which each character has been mapped through the given translation table.|[`translate()`](https://docs.python.org/3/library/stdtypes.html#str.translate)|
+|[`maketrans()`](https://docs.python.org/3/library/stdtypes.html#str.maketrans)|This static method returns a translation table usable for str.translate().|
+|[`translate()`](https://docs.python.org/3/library/stdtypes.html#str.translate)|Return a copy of the string in which each character has been mapped through the given translation table.|
+
+For more on fun [Classical Cryptography](http://bit.ly/3kZ2D8V) puzzles, check out our exercise.
 
 ```py
 # ROT-13 Encryption
