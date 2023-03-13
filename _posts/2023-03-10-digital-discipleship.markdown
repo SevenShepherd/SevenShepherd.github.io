@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-10 01:50:00 -0500
+date: 2023-03-10 02:00:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -78,7 +78,7 @@ The goal is to create erudite thinkers capable of ministry automation.
 |IV.|Data Types|🟩|
 |V.|Variables|🟩|
 |VI.|Operators & Precedence|🟩|
-|VII.|String Manipulation|🟩|
+|VII.|[Strings](http://bit.ly/429ULly)|🟩|
 |VIII.|Output & User Input|🟩|
 
 <!-- <span style="font-size:1.4em;">Container Types</span> -->
