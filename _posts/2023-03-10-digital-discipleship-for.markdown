@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 01:49:49 -0500
+date: 2023-03-10 01:55:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -334,7 +334,28 @@ for i,j in zip(x,y):
 
 <span style="font-size:1.6em;">Working With Dictionaries</span>
 
-If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this. Descriptions provided by the [U.S. Food & Drug Administration](https://www.fda.gov/consumers/consumer-updates/outsmarting-poison-ivy-and-other-poisonous-plants).
+If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this. Dictionaries are another useful data type built into Python, and are sometimes called *“associative arrays”* in other languages. Whereas sequences (lists, tuples, etc.) are indexed by a range of numbers, dictionaries are indexed by keys. Keys can be any immutable type (i.e. strings and numbers).
+
+```py
+# These are equivalent assignments
+x = dict(one=1, two=2, three=3)
+x = {"one": 1, "two": 2, "three": 3}
+
+x["two"]
+2
+
+for i,j in x.items():
+    print(f"{i.capitalize():<5} {j}")
+
+'''
+One   1
+Two   2
+Three 3
+'''
+```
+
+
+Here is another example, continuing on from the previous leaf theme. Descriptions provided by the [U.S. Food & Drug Administration](https://www.fda.gov/consumers/consumer-updates/outsmarting-poison-ivy-and-other-poisonous-plants).
 
 > The objects returned by dict.keys(), dict.values() and dict.items() are view objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes. &mdash; [Dictionary view objects](https://docs.python.org/3/library/stdtypes.html#dict-views)
 
