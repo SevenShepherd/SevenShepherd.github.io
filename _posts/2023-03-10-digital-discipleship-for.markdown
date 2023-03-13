@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 01:45:00 -0500
+date: 2023-03-10 01:47:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -262,7 +262,7 @@ while (count := count - 1) >= 0:
 
 <span style="font-size:1.6em;">Working With Lists</span>
 
-Iterating through a list is a somewhat effortless process with the for statement.
+Iterating through a list is a somewhat effortless process with the for statement. If you haven't already gone through our article on the list built-in type, you may want to do that before tackling this.
 
 ```py
 leaves = ["maple", "chestnut", "birch", "walnut", "oak", "sassafras", "ash", "sumac", "red maple", "beech", "aspen", "cherry", "poplar", "tulip tree", "dogwood"]
@@ -316,7 +316,7 @@ for i, leaf in enumerate(leaves, start=1):
 
 <span style="font-size:1.6em;">Working With Dictionaries</span>
 
-Descriptions provided by the [U.S. Food & Drug Administration](https://www.fda.gov/consumers/consumer-updates/outsmarting-poison-ivy-and-other-poisonous-plants).
+If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this. Descriptions provided by the [U.S. Food & Drug Administration](https://www.fda.gov/consumers/consumer-updates/outsmarting-poison-ivy-and-other-poisonous-plants).
 
 > The objects returned by dict.keys(), dict.values() and dict.items() are view objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes. &mdash; [Dictionary view objects](https://docs.python.org/3/library/stdtypes.html#dict-views)
 
@@ -332,12 +332,28 @@ yikes = {
 for name, description in yikes.items():
     print(f"{name}: {description}", end="\n"*2)
 
+# We can use pprint to "prettify" the output
+from pprint import pprint as pp
+
+for name, description in yikes.items():
+    pp(f"{name}: {description}")
+
 '''
-Poison Ivy: Found throughout the United States except Alaska, Hawaii, and parts of the West Coast. Can grow as a vine or small shrub trailing along the ground or climbing on low plants, trees and poles. Each leaf has three glossy leaflets, with smooth or toothed edges. Leaves are reddish in spring, green in summer, and yellow, orange, or red in fall. May have greenish-white flowers and whitish-yellow berries.
-
-Poison Oak: Grows as a low shrub in the Eastern and Southern United States, and in tall clumps or long vines on the Pacific Coast. Fuzzy green leaves in clusters of three are lobed or deeply toothed with rounded tips. May have yellow-white berries.
-
-Poison Sumac: Grows as a tall shrub or small tree in bogs or swamps in the Northeast, Midwest, and parts of the Southeast. Each leaf has clusters of seven to 13 smooth-edged leaflets. Leaves are orange in spring, green in summer, and yellow, orange, or red in fall. May have yellow-greenish flowers and whitish-green fruits hang in loose clusters.
+('Poison Ivy: Found throughout the United States except Alaska, Hawaii, and '
+ 'parts of the West Coast. Can grow as a vine or small shrub trailing along '
+ 'the ground or climbing on low plants, trees and poles. Each leaf has three '
+ 'glossy leaflets, with smooth or toothed edges. Leaves are reddish in spring, '
+ 'green in summer, and yellow, orange, or red in fall. May have greenish-white '
+ 'flowers and whitish-yellow berries.')
+('Poison Oak: Grows as a low shrub in the Eastern and Southern United States, '
+ 'and in tall clumps or long vines on the Pacific Coast. Fuzzy green leaves in '
+ 'clusters of three are lobed or deeply toothed with rounded tips. May have '
+ 'yellow-white berries.')
+('Poison Sumac: Grows as a tall shrub or small tree in bogs or swamps in the '
+ 'Northeast, Midwest, and parts of the Southeast. Each leaf has clusters of '
+ 'seven to 13 smooth-edged leaflets. Leaves are orange in spring, green in '
+ 'summer, and yellow, orange, or red in fall. May have yellow-greenish flowers '
+ 'and whitish-green fruits hang in loose clusters.')
 '''
 ```
 
@@ -356,12 +372,27 @@ Poison Sumac
 for description in yikes.values():
     print(description, end="\n"*2)
 
+# We can use pprint to "prettify" the output
+from pprint import pprint as pp
+
+for description in yikes.values():
+    pp(description)
 '''
-Found throughout the United States except Alaska, Hawaii, and parts of the West Coast. Can grow as a vine or small shrub trailing along the ground or climbing on low plants, trees and poles. Each leaf has three glossy leaflets, with smooth or toothed edges. Leaves are reddish in spring, green in summer, and yellow, orange, or red in fall. May have greenish-white flowers and whitish-yellow berries.
-
-Grows as a low shrub in the Eastern and Southern United States, and in tall clumps or long vines on the Pacific Coast. Fuzzy green leaves in clusters of three are lobed or deeply toothed with rounded tips. May have yellow-white berries.
-
-Grows as a tall shrub or small tree in bogs or swamps in the Northeast, Midwest, and parts of the Southeast. Each leaf has clusters of seven to 13 smooth-edged leaflets. Leaves are orange in spring, green in summer, and yellow, orange, or red in fall. May have yellow-greenish flowers and whitish-green fruits hang in loose clusters.
+('Found throughout the United States except Alaska, Hawaii, and parts of the '
+ 'West Coast. Can grow as a vine or small shrub trailing along the ground or '
+ 'climbing on low plants, trees and poles. Each leaf has three glossy '
+ 'leaflets, with smooth or toothed edges. Leaves are reddish in spring, green '
+ 'in summer, and yellow, orange, or red in fall. May have greenish-white '
+ 'flowers and whitish-yellow berries.')
+('Grows as a low shrub in the Eastern and Southern United States, and in tall '
+ 'clumps or long vines on the Pacific Coast. Fuzzy green leaves in clusters of '
+ 'three are lobed or deeply toothed with rounded tips. May have yellow-white '
+ 'berries.')
+('Grows as a tall shrub or small tree in bogs or swamps in the Northeast, '
+ 'Midwest, and parts of the Southeast. Each leaf has clusters of seven to 13 '
+ 'smooth-edged leaflets. Leaves are orange in spring, green in summer, and '
+ 'yellow, orange, or red in fall. May have yellow-greenish flowers and '
+ 'whitish-green fruits hang in loose clusters.')
 '''
 ```
 
