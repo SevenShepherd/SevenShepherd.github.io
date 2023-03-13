@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧶 Fundamentals Of Digital Discipleship, Part VII: Strings"
-date: 2023-03-09 03:15:15 -0500
+date: 2023-03-09 03:20:20 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -69,11 +69,13 @@ The most common types that will be used most frequently is `f` (Fixed-point nota
 
 |Option|Meaning|
 |:-:|:-:|
-|`'f'`|Fixed-point notation. For a given precision p, formats the number as a decimal number with exactly p digits following the decimal point. With no precision given, uses a precision of 6 digits after the decimal point for float, and uses a precision large enough to show all coefficient digits for Decimal. If no digits follow the decimal point, the decimal point is also removed unless the # option is used.|
+|`'f'`|Fixed-point notation. For a given precision p, formats the number as a decimal number with exactly p digits following the decimal point. With no precision given, uses a precision of 6 digits after the decimal point.|
 |`'d'`|Decimal Integer. Outputs the number in base 10.|
+|`'c'`|Character. Converts the integer to the corresponding unicode character before printing.|
 |`'x'`|Hex format. Outputs the number in base 16, using lower-case letters for the digits above 9.|
 |`'X'`|Hex format. Outputs the number in base 16, using upper-case letters for the digits above 9. In case `'#'` is specified, the prefix `'0x'` will be upper-cased to '0X' as well.|
-|`'e'`|Scientific notation. For a given precision p, formats the number in scientific notation with the letter `‘e’` separating the coefficient from the exponent. The coefficient has one digit before and p digits after the decimal point, for a total of p + 1 significant digits. With no precision given, uses a precision of 6 digits after the decimal point for float, and shows all coefficient digits for Decimal. If no digits follow the decimal point, the decimal point is also removed unless the # option is used.|
+|`'b'`|Binary format. Outputs the number in base 2.|
+|`'e'`|Scientific notation. For a given precision p, formats the number in scientific notation with the letter `‘e’` separating the coefficient from the exponent.|
 |`'s'`|String format. This is the default type for strings and may be omitted.|
 |`'None'`|Default for integer presentation is `'d'`, for strings `'s'`, for float this is the same as `'g'` which is general format.|
 
