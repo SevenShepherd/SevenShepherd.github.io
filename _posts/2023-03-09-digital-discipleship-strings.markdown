@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧶 Fundamentals Of Digital Discipleship, Part VII: Strings"
-date: 2023-03-09 03:20:20 -0500
+date: 2023-03-09 03:25:25 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -149,6 +149,34 @@ f"{x}, {y}"
 "{}".format(x, y)
 "%d %f" % (x, y)
 ``` -->
+
+<span style="font-weight:italic;font-size:21px;color:Black;">Raw Strings</span>
+
+There are other conflicts you may come across, such as, accidentally using an escape sequence in a directory path. 
+
+```py
+print("C:\Users\Christian\Desktop\new")
+
+# \n where \new is would be interpreted as a newline
+# C:\Users\Christian\Desktop
+# ew
+'''
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+'''
+```
+
+One way you can fix this is to preface your backslashes.
+
+```py
+print('C:\\Users\\Christian\\Desktop\\new')
+```
+
+The simpler way is to use raw strings by adding an `r` before the first quote.
+
+```py
+print(r"C:\Users\Christian\Desktop\new")
+```
+
 
 <span style="font-weight:italic;font-size:21px;color:Black;">Indexing & Slicing Strings</span>
 
