@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 01:55:00 -0500
+date: 2023-03-10 02:00:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -258,6 +258,64 @@ while (count := count - 1) >= 0:
         continue
 
     print(f"{count}", end=" ")
+```
+
+<span style="font-size:1.6em;">Else Within For Loop</span>
+
+When an else is used with a for loop, this specifies a block of code that will be executed if the loop is NOT stopped by a break statement. So, in other words, if no breaks were encountered, the block of code after the else clause is executed.
+
+One way you can think of it is as a successful run where no problems were encountered, problems you assign with the break keyword.
+
+```py
+# The else clause's code block will execute
+for i in range(1, 10+1):
+    print(i)
+else:
+    print("Encountered no break")
+
+# break was encountered, else will not execute
+for i in range(1, 10+1):
+    print(i)
+    if i == 7:
+        break
+else:
+    print("Encountered no break")
+```
+
+You could also view it in this way. If an element or value is missing from a list or data structure of some kind, the fact that the break was never encountered, would signal the raise of an exception to be handled.
+
+```py
+# example using a range
+try:
+    for i in range(1, 10+1):
+        print(i)
+        if i == 100:
+            break
+    else:
+        raise ValueError("Missing value")
+
+except ValueError as error:
+    print(f"[!] {error}: 100 not found")
+
+```
+
+Because the break was never encountered, the waffle was not found. Put another way, because waffle was not found, and the break never encountered, the else clause's code block is executed, signaling the absence of the... waffle.
+
+```py
+# example using a list
+food = ["cake", "donut", "pancake"]
+want = "waffle"
+
+try:
+    for i in food:
+        print(i.capitalize())
+        if i == want:
+            break
+    else:
+        raise ValueError("Missing food")
+
+except ValueError as error:
+    print(f"[!] {error}: {want.capitalize()} not found")
 ```
 
 <span style="font-size:1.6em;">Working With Lists</span>
