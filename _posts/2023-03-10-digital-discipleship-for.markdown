@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 02:00:00 -0500
+date: 2023-03-10 02:10:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -372,7 +372,95 @@ for i, leaf in enumerate(leaves, start=1):
 '''
 ```
 
-Aside from [range](https://docs.python.org/3/library/functions.html#func-range), [reversed](https://docs.python.org/3/library/functions.html#reversed), and [enumerate](https://docs.python.org/3/library/functions.html#enumerate), there is another built-in function called [zip](https://docs.python.org/3/library/functions.html#zip) that comes in handy quite often.
+<span style="font-size:1.6em;">Nested Loops</span>
+
+
+Nested loops provide a simple method for comparing one list against another. For each iteration of the outer loop, the inner loop will be executed sequentially. In this example, each element in the outer loop is tested against every element in the inner loop.
+
+
+```py
+for i in  [1, 2, 3]:
+    for j in ["a","b","c"]:
+        print(i, j)
+'''
+1 a
+1 b
+1 c
+2 a
+2 b
+2 c
+3 a
+3 b
+3 c
+'''
+```
+
+There is also a few ways we can carry out a cartesian product of input iterables. One way is with a nested for loop and the other is with the itertools product method.
+
+```py
+x = ["a", "b", "c"]
+
+for i in x:
+    for j in x:
+        for k in x:
+            print(i,j,k)
+
+# alternatively
+from itertools import product
+
+for i, j, k in it.product(x, repeat=3):
+    print(i,j,k)
+
+'''
+a a a
+a a b
+a a c
+a b a
+a b b
+a b c
+a c a
+a c b
+a c c
+b a a
+b a b
+b a c
+b b a
+b b b
+b b c
+b c a
+b c b
+b c c
+c a a
+c a b
+c a c
+c b a
+c b b
+c b c
+c c a
+c c b
+c c c
+'''
+```
+
+Permutations are also very useful.
+
+```py
+from itertools import permutations as perm
+
+for i in perm(["a","b","c"]):
+    print(i)
+
+'''
+('a', 'b', 'c')
+('a', 'c', 'b')
+('b', 'a', 'c')
+('b', 'c', 'a')
+('c', 'a', 'b')
+('c', 'b', 'a')
+'''
+```
+
+Aside from [range](https://docs.python.org/3/library/functions.html#func-range), [reversed](https://docs.python.org/3/library/functions.html#reversed), and [enumerate](https://docs.python.org/3/library/functions.html#enumerate), there is another built-in function called [zip](https://docs.python.org/3/library/functions.html#zip) that comes in handy quite often. This is really useful when you want to compare the elements in separate lists, sequentially.
 
 ```py
 x = [1, 3, 5, 7, 9 ]
@@ -380,6 +468,36 @@ y = [2, 4, 6, 8, 10]
 
 for i,j in zip(x,y):
     print(i, j)
+
+'''
+1 2
+3 4
+5 6
+7 8
+9 10
+'''
+```
+
+The zip built-in function prevents us from having to code something like this.
+
+```py
+x = [1, 3, 5, 7, 9 ]
+y = [2, 4, 6, 8, 10]
+
+for i in range(len(min([x, y]))):
+    print(x[i], y[i])
+
+'''
+1 2
+3 4
+5 6
+7 8
+9 10
+'''
+
+# alternatively
+for i,_ in enumerate(min([x, y])):
+    print(x[i], y[i])
 
 '''
 1 2
