@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-10 02:00:00 -0500
+date: 2023-03-10 02:05:05 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -93,7 +93,7 @@ The goal is to create erudite thinkers capable of ministry automation.
 
 |Chapter|Compound Statements|Difficulty|
 |:-:|:-|:-:|
-|XII.|The If Statement|🟩|
+|XII.|[The If Statement](http://bit.ly/3YUrZm0)|🟩|
 |XIII.|The Match Statement|🟩|
 |XIV.|[The While Statement](http://bit.ly/426oyvm)|🟩|
 |XV.|[The For Statement](http://bit.ly/3ZYw2Pk)|🟩|
