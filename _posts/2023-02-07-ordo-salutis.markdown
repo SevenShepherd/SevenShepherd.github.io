@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:45:40 -0500
+date: 2023-02-02 12:47:47 -0500
 categories: salvation
 published: true
 ---
@@ -58,7 +58,18 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 [**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
-- Election: God chooses his own (Romans 9:15-16)
+- Election (Romans 9:15-16)
+- Effectual calling  (2Th 2:13-14)
+- Regeneration (John 3:3)
+- Works: **expression of faith** (James 2:24)
+- Repentance (Acts 26:20)
+- Justification (Galatians 3:11)
+- Adoption (Galatians 4:4–5)
+- Sanctification (1Co. 6:9, 11)
+- Perseverance (Romans 8:30)
+- Glorification (Phil. 3:20-21; 1 Cor. 15:49-53)
+
+<!-- - Election: God chooses his own (Romans 9:15-16)
 - Effectual calling: God draws his people to himself (2Th 2:13-14)
 - Illumination: The Holy Spirit gives spiritual understanding (1Co. 2:14)
 - Regeneration: The Christian is born again (John 3:3)
@@ -68,7 +79,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 - Adoption: God makes his people his children (Galatians 4:4–5)
 - Sanctification: The Christian grows in grace (1Co. 6:9, 11)
 - Perseverance: God keeps his people safe (Romans 8:30)
-- Glorification (Phil. 3:20-21; 1 Cor. 15:49-53)
+- Glorification (Phil. 3:20-21; 1 Cor. 15:49-53) -->
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3JOaVKp">*Concise Theology: A Guide to Historic Christian Beliefs. Part Three: God Revealed as Lord of Grace & Part Four: God Revealed as Lord of Destiny.</a></sup>
 
