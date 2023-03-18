@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:50:50 -0500
+date: 2023-02-02 12:55:55 -0500
 categories: salvation
 published: true
 ---
@@ -34,6 +34,8 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 [**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
+> We must guard jealously the fact that faith alone is what saves us, not faith plus obedience. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
+
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. Election (God’s choice of people to be saved)
@@ -57,6 +59,9 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. J. I. Packer</span>
 
 [**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+
+> **Justification by works (things we have done) is the heresy of legalism.**
+Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; Chapter 59 Works.
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65.
 
