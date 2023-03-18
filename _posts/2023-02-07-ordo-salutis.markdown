@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:55:55 -0500
+date: 2023-02-02 1:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,29 @@ published: true
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;">The Apostle Paul</span>
+<a name="contents" style="font-style:Italic;font-size:2.1em;color:Black;">Contents</a>
+
+This article continues to grow. I decided to add anchors so you can skip to the place you want to read. To get back, once you get to the target location, just click the name and you'll be transported back to the contents.
+
+- Theologians
+    - <a href="#grudem">Wyane Grudem (PhD, Cambridge)</a>
+    - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
+    - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
+    - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
+    - <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
+    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
+    - <a href="#macarthur">John MacArthur (DD, Talbot)</a>
+    - <a href="#ryrie">Charles C. Ryrie (PhD, Edinburgh)</a>
+- Theologies
+    - <a href="#reformed">Covenant Reformed</a>
+    - <a href="#evangelical">Evangelical</a>
+    - <a href="#luthern">Luthern</a>
+    - <a href="#arminian">Arminian</a>
+    - <a href="#roman">Roman Catholic</a>
+    - <a href="#free">Free Grace</a>
+    
+
+<!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">The Apostle Paul</span>
 
 👑 The Golden Chain Of Redemption
 
@@ -30,7 +52,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 3. Justified
 4. Glorified -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
+<a name="grudem" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Wyane Grudem</a>
 
 [**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
@@ -56,17 +78,18 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. J. I. Packer</span>
+<a name="packer" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. J. I. Packer</a>
 
 [**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
 Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; Chapter 59 Works.
 
-[✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65.
+[✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65. This is the chapter order, that's why it's bulleted instead of numbered.
 
 - Election (Romans 9:15-16)
 - Effectual calling  (2Th 2:13-14)
+- Illumination (1Co. 2:14)
 - Regeneration (John 3:3)
 - Works: **expression of faith** (James 2:24)
 - Repentance (Acts 26:20)
@@ -90,7 +113,7 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3JOaVKp">*Concise Theology: A Guide to Historic Christian Beliefs. Part Three: God Revealed as Lord of Grace & Part Four: God Revealed as Lord of Destiny.</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
+<a name="wallace" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Daniel B. Wallace</a>
 
 [**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the [NET Bible](https://amzn.to/3WLAgbr), which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
 
@@ -100,7 +123,7 @@ He also pursued postdoctoral studies in a variety of places, **including in Camb
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Bruce Demarest</span>
+<a name="demarest" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Bruce Demarest</a>
 
 **Bruce Demarest** (PhD, University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum.
 
@@ -148,7 +171,7 @@ Covenant
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Michael F. Bird</span>
+<a name="bird" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Michael F. Bird</a>
 
 Michael F. Bird (PhD, University of Queensland) is Academic Dean and a Lecturer in Theology and New Testament at Ridley College (Melbourne), having previously taught at Brisbane School of Theology and Highland Theological College. He studied at Malyon College and the University of Queensland. He is also Distinguished Research Professor of Theology at Houston Baptist University.
 
@@ -167,7 +190,7 @@ Sequence of salvation
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3xFJhrY">*Evangelical Theology. 2nd ed. 5.3 Order of Salvation. pp. 564-602.</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. R. C. Sproul</span>
+<a name="sproul" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. R. C. Sproul</a>
 
 [**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
@@ -195,7 +218,7 @@ Sequence of salvation
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3FyUAqx">*Essential Truths Of The Christian Faith. Part VII Salvation. 60 Rebirth.</a></sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. John MacArthur</span>
+<a name="macarthur" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. John MacArthur</a>
 
 [**John MacArthur**](https://youtu.be/b47CJlE-ut0) (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
@@ -212,13 +235,13 @@ Sequence of salvation
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:#A8A8A8">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Marcus J. Serven</span>
+<!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Marcus J. Serven</span>
 
 [**Marcus J. Serven**](https://thegenevanfoundation.com/about-me/) ()
 
 <a href="https://thegenevanfoundation.com/the-order-of-salvation/"><img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"></a> -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
+<a name="ryrie" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Charles C. Ryrie</a>
 
 **Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
 
@@ -239,11 +262,11 @@ See Free Grace Theology below for expansion.
 
 <sup style="font-size:14px;color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</sup>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Theology Comparisons</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Theology Comparisons</span>
 
 These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8;">"The Cross and Salvation: The Doctrine of Salvation"</a>
 
-<span style="font-size:24px;color:Black;">⛪ Covenant Reformed theology</span>
+<a name="reformed" href="#contents" style="font-size:24px;color:Black;">⛪ Covenant Reformed theology</a>
 
 - [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -264,7 +287,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 8. **Glorification**
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
 
-<span style="font-size:24px;color:Black;">⛪ Evangelicals In The Broadly Reformed Tradition</span>
+<a name="evangelical" href="#contents" style="font-size:24px;color:Black;">⛪ Evangelicals In The Broadly Reformed Tradition</a>
 
 - [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -291,7 +314,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
-<span style="font-size:24px;color:Black;">⛪ Luthern Theology</span>
+<a name="luthern" href="#contents" style="font-size:24px;color:Black;">⛪ Luthern Theology</a>
 
 - [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -312,7 +335,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 8. **Conservation**
     - Provided that the justified continue to heed biblical warnings about defection and persist in faith, God will preserve them safely to the end. The unbelieving, however, may fall away from grace and forfeit salvation. Christians must not presume on the Spirit’s grace.
 
-<span style="font-size:24px;color:Black;">⛪ Arminian theology</span>
+<a name="arminian" href="#contents" style="font-size:24px;color:Black;">⛪ Arminian theology</a>
 
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
 
@@ -327,7 +350,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
 
-<span style="font-size:24px;color:Black;">⛪ Roman Catholic Theology</span>
+<a name="roman" href="#contents" style="font-size:24px;color:Black;">⛪ Roman Catholic Theology</a>
 
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
 
@@ -342,7 +365,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
     - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
 
-<span style="font-size:24px;color:Black;">⛪ Free Grace Theology</span>
+<a name="free" href="#contents" style="font-size:24px;color:Black;">⛪ Free Grace Theology</a>
 
 Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
 
@@ -368,7 +391,7 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
     - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
     - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Conclusion</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Conclusion</span>
 
 - Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/" style="color:#A8A8A8">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
 
