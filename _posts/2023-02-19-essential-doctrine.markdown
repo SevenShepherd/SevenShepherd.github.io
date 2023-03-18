@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚓ Christians Are Unified By Essential Doctrine"
-date: 2023-02-19 13:12:00 -0500
+date: 2023-02-19 13:15:15 -0500
 categories: essential doctrine
 published: true
 ---
@@ -140,7 +140,9 @@ The 16th century Protestant Reformation saw the development of the five latin ph
 
 > <sup style="font-weight:bold;">2:21</sup> I do not nullify the grace of God; for **if justification<span style="color:#A7A7A7;">[a]</span> comes through the law, then Christ died for nothing**. ... <sup style="font-weight:bold;">5:4</sup> You who want to be justified by the law have **cut yourselves off from Christ**; you have fallen away from grace. &mdash; Gal. 2:21;5:4 NRSV. a. Galatians 2:21 Or righteousness
 
-Roman Catholicism and Antinomianism are opposite sides of the same heretical coin. The former is works righteous and the latter abuses grace to nauseating and appalling levels of heresy. You need to acknowledge that salvation is by grace alone, through faith alone, in Christ alone. This is why the protestant reformation happened. You also must not abuse the grace of our God (See Jude 4; Ro 6:1-2; 1Jn 2:3-6).
+Legalism and Antinomianism are opposite sides of the same heretical coin. Whereas antinomianism denies the significance of law, abusing grace to nauseating and appalling levels of heresy; legalism exalts law above grace. You need to acknowledge that salvation is by grace alone, through faith alone, in Christ alone. This is why the protestant reformation happened. You also must not abuse the grace of our God (See Jude 4; Ro 6:1-2; 1Jn 2:3-6).
+
+<!-- The former is works righteous and the latter abuses grace to nauseating and appalling levels of heresy.  -->
 
 <!-- Roman Catholicism denies salvation by grace through faith alone in Christ alone. You need to acknowledge Grace. This is why the protestant reformation happened. The antinomianism & hyper-grace heresies are on the opposite end of extreme (See Jude 4; Ro 6:1-2; 1Jn 2:3-6). -->
 
