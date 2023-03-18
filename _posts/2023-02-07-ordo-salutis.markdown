@@ -1,22 +1,24 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:40:40 -0500
+date: 2023-02-02 12:45:40 -0500
 categories: salvation
 published: true
 ---
 
+<img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
+
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
-<span style="font-style:Italic;font-size:34px;color:Black;">The Apostle Paul</span>
+<!-- <span style="font-style:Italic;font-size:34px;color:Black;">The Apostle Paul</span>
 
 👑 The Golden Chain Of Redemption
 
 > <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
 
-<!-- [✅ Monergistic](https://carm.org/dictionary/monergism/) -->
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
 
-> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY)
+> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY) -->
 
 <!-- 👑 ...
 
@@ -30,7 +32,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Wyane Grudem</span>
 
-[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
+[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -51,6 +53,24 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup> -->
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. J. I. Packer</span>
+
+[**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+
+- Election: God chooses his own (Romans 9:15-16)
+- Effectual calling: God draws his people to himself (2Th 2:13-14)
+- Illumination: The Holy Spirit gives spiritual understanding (1Co. 2:14)
+- Regeneration: The Christian is born again (John 3:3)
+- Works: Good works are an **expression of faith** (James 2:24)
+- Repentance: A Christian changes radically (Acts 26:20)
+- Justification: Salvation is by grace through faith (Galatians 3:11)
+- Adoption: God makes his people his children (Galatians 4:4–5)
+- Sanctification: The Christian grows in grace (1Co. 6:9, 11)
+- Perseverance: God keeps his people safe (Romans 8:30)
+- Glorification (Phil. 3:20-21; 1 Cor. 15:49-53)
+
+<sup style="font-size:14px;"><a href="https://amzn.to/3JOaVKp">*Concise Theology: A Guide to Historic Christian Beliefs. Part Three: God Revealed as Lord of Grace & Part Four: God Revealed as Lord of Destiny.</a></sup>
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Daniel B. Wallace</span>
 
@@ -129,8 +149,35 @@ Sequence of salvation
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3xFJhrY">*Evangelical Theology. 2nd ed. 5.3 Order of Salvation. pp. 564-602.</a></sup>
 
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. R. C. Sproul</span>
 
-<span style="font-style:Italic;font-size:34px;color:Black;">John MacArthur</span>
+[**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+
+
+<!-- R. C. Sproul is referred to as *"the greatest and most influential proponent of the recovery of Reformed theology in the last century."* -->
+
+|Part VII Salvation. 67.||
+|:-:|:-:|
+|Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith + Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith = Justification - Works|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith = Justification + Works|<span style="font-weight:bold;color:green;">True</span>|
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
+
+- Predestination & Reprobation (57,58)
+- Effectual Calling (59)
+- Rebirth / Regeneration (60)
+- Repentance is the fruit of regeneration (68)
+- Faith / Saving faith (64,65)
+- Justification by faith (66)
+- Sanctification (67,71)
+- Perseverance (70)
+- Glorification (74)
+
+<sup style="font-size:14px;"><a href="https://amzn.to/3FyUAqx">*Essential Truths Of The Christian Faith. Part VII Salvation. 60 Rebirth.</a></sup>
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Dr. John MacArthur</span>
 
 [**John MacArthur**](https://youtu.be/b47CJlE-ut0) (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
@@ -146,6 +193,12 @@ Sequence of salvation
 8. Glorification (receiving a resurrection body)
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3YdNY8h" style="color:#A8A8A8">*Biblical Doctrine: A Systematic Summary of Bible Truth</a></sup>
+
+<!-- <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Marcus J. Serven</span>
+
+[**Marcus J. Serven**](https://thegenevanfoundation.com/about-me/) ()
+
+<a href="https://thegenevanfoundation.com/the-order-of-salvation/"><img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"></a> -->
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. Charles C. Ryrie</span>
 
@@ -314,7 +367,7 @@ Free grace theology was systematized by theologians such as Dr.’s Charles Ryri
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
