@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 12:47:47 -0500
+date: 2023-02-02 12:50:50 -0500
 categories: salvation
 published: true
 ---
@@ -57,6 +57,8 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 <span style="font-style:Italic;font-size:34px;color:Black;">Dr. J. I. Packer</span>
 
 [**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65.
 
 - Election (Romans 9:15-16)
 - Effectual calling  (2Th 2:13-14)
