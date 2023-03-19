@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔢 Fundamentals Of Digital Discipleship, Part VIII: Lists & Tuples"
-date: 2023-03-09 02:12:00 -0500
+date: 2023-03-09 02:15:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -375,42 +375,52 @@ lists
 
 <span style="font-size:1.6em;">Inserting & Popping</span>
 
-I personally would resort to using slice notation, indexing, and del; however, you should know how to use these methods as well.
+The `pop()` or `pop(i)` method retrieves the item at i and also removes it from s. If `i` is not specified, pop will perform this same operation on the last element of the list. So in this example, a list composed of 3, 2, 1 when applying the pop method, returns 1, and changes x in-line to contain only 3, 2.
+
+<!-- I personally would resort to using slice notation, indexing, and del; however, you should know how to use these methods as well. -->
 
 ```py
 x = [3, 2, 1]
 
+# [3, 2]
 x.pop()       
 1
-x       
-[3, 2]
+```
 
+The insert method is another way apart from slice notation for inserting values. This method `s.insert(i, x)` inserts x into s at the index given by i (same as s[i:i] = [x]). In simple terms, it inserts an object before the index.
+
+```py
+x = [1, 3, 3, 4, 7, 7, 8, 9]
+
+# [1, 3, 3, 4, 'INSERTED', 7, 7, 8, 9]
+x.insert(4, "INSERTED")
+```
+
+<!-- Let's continue with this example by clearing the list and concatenating a new list 1, 2, 3 in a compound assignment, then extending it with 4, 5, 6, and performing another concatenation of 7, 8, 9, and finally appending 10. Yes we could have just assigned [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] instead, but then we would not be having any fun.
+
+```py
+# []
 x.clear()
-x
-[]
 
+# [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 x += [1,2,3]
 x.extend([4,5,6])
 x += [7,8,9]
 x.append(10)
-x
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
+# [2, 3, 5, 7, 9, 10]
 x.remove(1)
 del x[2:7+1:2]
-x
-[2, 3, 5, 7, 9, 10]
-```
+``` -->
 
 <span style="font-size:1.6em;">Sorting</span>
 
 Sorting can be achieved in a number of different ways. The list data type provides us with it's own sort method which sorts the items within the list in-place so no assignment need take place.
 
 ```py
+# [1, 3, 3, 4, 7, 7, 8, 9]
 y = [4,1,3,9,7,8,3,7]
 y.sort()
-y
-[1, 3, 3, 4, 7, 7, 8, 9]
 
 # alternatively
 # [9, 8, 7, 7, 4, 3, 3, 1]
