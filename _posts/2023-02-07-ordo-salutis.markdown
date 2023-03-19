@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:00:00 -0500
+date: 2023-02-02 1:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -206,6 +206,9 @@ Sequence of salvation
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
+<!-- - <a href="https://youtu.be/1NxjBI5b8Uk" style="color:darkviolet">Foreknowledge</a> -->
+
+- [Foreknowledge](https://youtu.be/1NxjBI5b8Uk)
 - Predestination & Reprobation (57,58)
 - Effectual Calling (59)
 - Rebirth / Regeneration (60)
