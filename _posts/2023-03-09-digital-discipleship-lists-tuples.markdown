@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔢 Fundamentals Of Digital Discipleship, Part VIII: Lists & Tuples"
-date: 2023-03-09 03:40:00 -0500
+date: 2023-03-09 03:42:42 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -10,9 +10,11 @@ published: true
 
 <span style="font-style:Italic;font-size:24px;">Sub Chapter Header</span> -->
 
-<span style="font-weight:italic;font-size:2em;color:Black;">Lists</span>
+<span style="font-weight:italic;font-size:2em;color:Black;">Common Sequence Operations</span>
 
-A [list](https://docs.python.org/3/library/stdtypes.html#lists) is an ordered mutable sequence of values enclosed in square brackets, and one of the four collection data types in the Python programming language, including tuples, sets, and dictionaries. Most sequence types share the [common sequence operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations).
+A [list](https://docs.python.org/3/library/stdtypes.html#lists) is an ordered **mutable** sequence of values enclosed in square brackets, and one of the four collection data types in the Python programming language, including tuples, sets, and dictionaries. Most sequence types share the [common sequence operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations).
+
+[Tuples](https://docs.python.org/3/library/stdtypes.html#tuples) are **immutable** sequences and implement all of the common sequence operations.
 
 |Operation|Result|
 |:-:|:-:|
@@ -190,6 +192,8 @@ min(list_one, list_two)
 # [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]
 max(list_one, list_two)
 ```
+
+<span style="font-weight:italic;font-size:2em;color:Black;">Mutable Sequence Operations</span>
 
 Lists implement all of the [mutable sequence operations](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types) in addition to the common sequence operations. Lists also provide the additional [`sort()`](https://docs.python.org/3/library/stdtypes.html#list.sort) method.
 
