@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❓ Fundamentals Of Digital Discipleship, Part XI: The If Statement"
-date: 2023-03-09 02:15:00 -0500
+date: 2023-03-09 04:30:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
