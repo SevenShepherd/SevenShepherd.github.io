@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔢 Fundamentals Of Digital Discipleship, Part IV: Lists & Tuples"
-date: 2023-03-09 02:10:00 -0500
+title: "🔢 Fundamentals Of Digital Discipleship, Part VIII: Lists & Tuples"
+date: 2023-03-09 02:12:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
