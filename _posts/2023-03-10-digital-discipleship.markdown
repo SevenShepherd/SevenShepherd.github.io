@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-10 02:05:05 -0500
+date: 2023-03-10 03:00:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -75,37 +75,37 @@ The goal is to create erudite thinkers capable of ministry automation.
 
 |Chapter|Basics|Difficulty|
 |:-:|:-|:-:|
-|IV.|Data Types|🟩|
-|V.|Variables|🟩|
-|VI.|Operators & Precedence|🟩|
-|VII.|[Strings](http://bit.ly/429ULly)|🟩|
-|VIII.|Output & User Input|🟩|
+|IV.|Data Types & Variables|🟩|
+|V.|Operators & Precedence|🟩|
+|VI.|[Strings](http://bit.ly/429ULly)|🟩|
+|VII.|I/O & File Handling|🟩|
 
 <!-- <span style="font-size:1.4em;">Container Types</span> -->
 
 |Chapter|Container Types|Difficulty|
 |:-:|:-|:-:|
-|IX.|Lists & Tuples|🟩|
-|X.|Sets|🟩|
-|XI.|Dictionaries|🟩|
+|VIII.|Lists & Tuples|🟩|
+|IX.|Sets|🟩|
+|X.|Dictionaries|🟩|
 
 <!-- <span style="font-size:1.4em;">Compound Statements</span> -->
 
 |Chapter|Compound Statements|Difficulty|
 |:-:|:-|:-:|
-|XII.|[The If Statement](http://bit.ly/3YUrZm0)|🟩|
-|XIII.|The Match Statement|🟩|
-|XIV.|[The While Statement](http://bit.ly/426oyvm)|🟩|
-|XV.|[The For Statement](http://bit.ly/3ZYw2Pk)|🟩|
-|XVI.|Exception Handling|🟩|
-|XVII.|Function Definitions|🟩|
-|XVIII.|Class Definitions|🟩|
+|XI.|[The If Statement](http://bit.ly/3YUrZm0)|🟩|
+|XII.|The Match Statement|🟩|
+|XIII.|[The While Statement](http://bit.ly/426oyvm)|🟩|
+|XIV.|[The For Statement](http://bit.ly/3ZYw2Pk)|🟩|
+|XV.|Exception Handling|🟩|
+|XVI.|Function Definitions|🟩|
 
 <!-- <span style="font-size:1.4em;">???</span> -->
 
-|Chapter||Difficulty|
+|Chapter|Object Oriented Programming|Difficulty|
 |:-:|:-|:-:|
-|XIX.|File Handling|🟩|
+|XVII.|Class Definitions|🟩|
+|XVIII.|Inheritance|🟩|
+|XIX.|Operator Overloading|🟩|
 |XX.|Metaprogramming|🟩|
 
 <!-- The control flow of a Python program is regulated by conditional statements, loops, and function calls. -->

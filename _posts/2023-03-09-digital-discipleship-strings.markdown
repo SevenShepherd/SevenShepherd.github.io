@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🧶 Fundamentals Of Digital Discipleship, Part VII: Strings"
-date: 2023-03-09 03:25:25 -0500
+title: "🧶 Fundamentals Of Digital Discipleship, Part VI: Strings"
+date: 2023-03-09 03:30:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔁 Fundamentals Of Digital Discipleship, Part XV: The For Statement"
-date: 2023-03-10 02:10:00 -0500
+title: "🔁 Fundamentals Of Digital Discipleship, Part XIV: The For Statement"
+date: 2023-03-10 02:15:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -296,7 +296,6 @@ try:
 
 except ValueError as error:
     print(f"[!] {error}: 100 not found")
-
 ```
 
 Because the break was never encountered, the waffle was not found. Put another way, because waffle was not found, and the break never encountered, the else clause's code block is executed, signaling the absence of the... waffle.

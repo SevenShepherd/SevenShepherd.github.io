@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔁 Fundamentals Of Digital Discipleship, Part XIV: The While Statement"
-date: 2023-03-10 01:35:00 -0500
+title: "🔁 Fundamentals Of Digital Discipleship, Part XIII: The While Statement"
+date: 2023-03-10 01:40:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
