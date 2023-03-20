@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:15:15 -0500
+date: 2023-02-02 1:20:20 -0500
 categories: salvation
 published: true
 ---
@@ -85,7 +85,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 > **Justification by works (things we have done) is the heresy of legalism.**
 Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; Chapter 59 Works.
 
-[✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65. This is the chapter order, that's why it's bulleted instead of numbered. J. I. Packer is a low-church Anglican and reformed.
+[✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65 and against antinomianism in chapter 66. This is the chapter order, that's why it's bulleted instead of numbered. J. I. Packer is a low-church Anglican and reformed.
 
 <!-- Packer is a Anglican, so part catholic and part reformed. As long as we place our trust on God's grace we are correct. He does seem to have -->
 
@@ -232,7 +232,7 @@ Sequence of salvation
 |Faith = Justification - Works|<span style="font-weight:bold;color:darkred;">False</span>|
 |Faith = Justification + Works|<span style="font-weight:bold;color:green;">True</span>|
 
-[✅ Monergistic](https://carm.org/dictionary/monergism/)
+[✅ Monergistic](https://carm.org/dictionary/monergism/), Dr. Sproul argues against legalism in chapter 91 and against antinomianism in chapter 90.
 
 <!-- - <a href="https://youtu.be/1NxjBI5b8Uk" style="color:darkviolet">Foreknowledge</a> -->
 
