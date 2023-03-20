@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:10:00 -0500
+date: 2023-02-02 1:12:12 -0500
 categories: salvation
 published: true
 ---
@@ -88,6 +88,31 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 [✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65. This is the chapter order, that's why it's bulleted instead of numbered.
 
 - Election (Romans 9:15-16)
+    - God chooses his own
+- Effectual calling  (2Th 2:13-14)
+    - God draws his people to himself
+- Illumination (1Co. 2:14)
+    - The Holy Spirit gives spiritual understanding
+- Regeneration (John 3:3)
+    - The Christian is born again
+- Works (James 2:24; 2:14-26)
+    - Good works are an **expression of faith**
+    - James rejects salvation by dead faith
+- Repentance (Acts 26:20)
+    - A Christian changes radically
+- Justification (Galatians 3:11)
+    - Salvation is by grace through faith
+- Adoption (Galatians 4:4–5)
+    - God makes his people his children
+- Sanctification (1Co. 6:9, 11)
+    - The Christian grows in grace
+    - Glorification Begun (2Cor. 3:18)
+- Perseverance (Romans 8:30)
+    - God keeps his people safe
+- Glorification Completed (Phil. 3:20-21; 1 Cor. 15:49-53)
+    - Physical transformation
+
+<!-- - Election (Romans 9:15-16)
 - Effectual calling  (2Th 2:13-14)
 - Illumination (1Co. 2:14)
 - Regeneration (John 3:3)
@@ -96,8 +121,9 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 - Justification (Galatians 3:11)
 - Adoption (Galatians 4:4–5)
 - Sanctification (1Co. 6:9, 11)
+    - Glorification Begun (2Cor. 3:18)
 - Perseverance (Romans 8:30)
-- Glorification (Phil. 3:20-21; 1 Cor. 15:49-53)
+- Glorification Completed (Phil. 3:20-21; 1 Cor. 15:49-53) -->
 
 <!-- - Election: God chooses his own (Romans 9:15-16)
 - Effectual calling: God draws his people to himself (2Th 2:13-14)
