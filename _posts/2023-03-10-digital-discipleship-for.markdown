@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔁 Fundamentals Of Digital Discipleship, Part XIV: The For Statement"
-date: 2023-03-10 02:15:00 -0500
+date: 2023-03-10 02:20:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -509,7 +509,11 @@ for i,_ in enumerate(min([x, y])):
 
 <span style="font-size:1.6em;">Working With Dictionaries</span>
 
-If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this. Dictionaries are another useful data type built into Python, and are sometimes called *“associative arrays”* in other languages. Whereas sequences (lists, tuples, etc.) are indexed by a range of numbers, dictionaries are indexed by keys. Keys can be any immutable type (i.e. strings and numbers).
+<!-- If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this. Dictionaries are another useful data type built into Python, and are sometimes called *“associative arrays”* in other languages. Whereas sequences (lists, tuples, etc.) are indexed by a range of numbers, dictionaries are indexed by keys. Keys can be any immutable type (i.e. strings and numbers). -->
+
+[Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict), sometimes called *“associative arrays”* in other languages, provide the only standard mapping type available to Python. Mapping objects are mutable and they map hashable values to arbitrary objects. Whereas sequences (lists, tuples, etc.) are indexed by a range of numbers, dictionaries are indexed by keys. Keys can be any immutable type (i.e. strings and numbers).
+
+If you haven't already gone through our article on the dictionary built-in type, you may want to do that before tackling this.
 
 ```py
 # These are equivalent assignments
