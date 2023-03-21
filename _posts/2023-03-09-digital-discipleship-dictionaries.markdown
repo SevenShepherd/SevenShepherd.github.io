@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗺️ Fundamentals Of Digital Discipleship, Part X: Dictionaries"
-date: 2023-03-09 04:00:00 -0500
+date: 2023-03-09 04:05:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -225,7 +225,7 @@ for value in combined.values():
 '''
 ```
 
-An extra example with some fancy formatting. We search for the longest word in the words list using the max built-in tweaked with a lambda expression that instructs it what we are measures as max. The longest word *'three'* is returned, we then measure the length and place it within formatted literal string's (f-string) format specification (format_spec) in order to forces the words field to be left-aligned. All this for the sake of cleanliness.
+An extra example with some fancy formatting. We search for the longest word in the words list using the max built-in, which we tweaked with a lambda expression that defines how we want max to measure the items in the words list. The longest word *'three'* is returned, we then measure the length and place it within a formatted literal string's format specification in order to force the words field to be left-aligned. All this for the sake of cleanliness.
 
 ```py
 words    = ["one", "two", "three", "four", "five"]
