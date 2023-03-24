@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:22:22 -0500
+date: 2023-02-02 1:25:25 -0500
 categories: salvation
 published: true
 ---
@@ -52,11 +52,11 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 3. Justified
 4. Glorified -->
 
-<a name="grudem" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Wyane Grudem</a>
+<a name="grudem" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Wayne Grudem</a>
 
 [**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
-> We must guard jealously the fact that faith alone is what saves us, not faith plus obedience. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wyane Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
+> We must guard jealously the fact that faith alone is what saves us, not faith plus obedience. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -149,7 +149,7 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
-<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF">*Wallace is a Presbyterian who has endorsed Dr. Wyane Grudem</a></sup>
+<sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF">*Wallace is a Presbyterian who has endorsed Dr. Wayne Grudem</a></sup>
 
 <a name="demarest" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Bruce Demarest</a>
 
