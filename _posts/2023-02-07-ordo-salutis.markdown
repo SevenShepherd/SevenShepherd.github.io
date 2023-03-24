@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:20:20 -0500
+date: 2023-02-02 1:22:22 -0500
 categories: salvation
 published: true
 ---
@@ -15,7 +15,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 This article continues to grow. I decided to add anchors so you can skip to the place you want to read. To get back, once you get to the target location, just click the name and you'll be transported back to the contents.
 
 - Theologians
-    - <a href="#grudem">Wyane Grudem (PhD, Cambridge)</a>
+    - <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
     - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
     - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
     - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
