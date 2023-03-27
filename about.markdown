@@ -18,6 +18,8 @@ permalink: /about/
 
 <!-- https://youtu.be/yumoqNlaPCE?t=120 -->
 
+<!-- I don't think I will be able to advocate for my position correctly, unless I delineate my position clearly. -->
+
 Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below.
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
@@ -75,7 +77,9 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Professor|Books|
 |:-:|:-:|
 |**Theology**||
-|[Dr. Wayne Grudem<br>(PhD, Cambridge; DDiv, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
+|[Dr. Wayne Grudem<br>(PhD, University of Cambridge; DD, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
+|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology</a>|
+|[Dr. R. C. Sproul<br>(PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
 |Dr. Bruce Demarest (PhD, University of Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |||
 |**Textual Criticism**||
@@ -88,6 +92,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 |**Apologetics**||
 |[Dr. Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
 |Matt Slick<br>(MDiv, Westminster Theological Seminary)|[☩ CARM](https://carm.org/)|
+
 
 <!-- <br>Dr. Norman L. Geisler -->
 
@@ -126,6 +131,7 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
     - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
+    - Including [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
     - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
