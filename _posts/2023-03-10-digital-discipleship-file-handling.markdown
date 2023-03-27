@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💾 Fundamentals Of Digital Discipleship, Part XVII: File Handling & The With Statement"
-date: 2023-03-10 02:50:00 -0500
+date: 2023-03-10 03:00:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -188,7 +188,7 @@ with open("pi_1k.txt", 'w+') as file_handle:
         if not bytesRead:
             break
 
-        print(f"[{bytesRead:02,d}-bytes]: {buffer}")
+        print(f"[{bytesRead}-bytes]: {buffer}")
 
 '''
 [25-bytes]: 3.14159265358979323846264
@@ -248,7 +248,7 @@ with open("pi_1m.txt", "rb") as file_handle:
         if not buffer:
             break
 
-        print(f"[{bytesRead:02,d}-bytes]: {buffer}")
+        print(f"[{bytesRead}-bytes]: {buffer}")
 ```
 
 We can further condense our code by implementing an assignment expression via walrus operator.
@@ -259,17 +259,17 @@ buffer, bufSize = None, 100
 # example using length comparison in condition
 with open("pi_1m.txt", "rb") as file_handle:
     while len(buffer := file_handle.read(bufSize)) != 0:
-        print(f"[{len(buffer):02,d}-bytes]: {buffer}")
+        print(f"[{len(buffer)}-bytes]: {buffer}")
 
 # example using EOF from read method return (string)
 with open("pi_1m.txt", "r") as file_handle:
     while (buffer := file_handle.read(bufSize)) != '':
-        print(f"[{len(buffer):02,d}-bytes]: {buffer}")
+        print(f"[{len(buffer)}-bytes]: {buffer}")
 
 # example using EOF from read method return (bytes)
 with open("pi_1m.txt", "rb") as file_handle:
     while (buffer := file_handle.read(bufSize)) != b'':
-        print(f"[{len(buffer):02,d}-bytes]: {buffer}")
+        print(f"[{len(buffer)}-bytes]: {buffer}")
 ```
 
 Instead of showing the size of the buffer every time, we could prompt the total amount of bytes read.
@@ -320,7 +320,7 @@ with open("pi_1m.txt", "rb") as file_handle:
 
         sha256.update(buffer)
 
-        print(f"[{bytesRead:02,d}-bytes]: {buffer}", end="\n\n")
+        print(f"[{bytesRead}-bytes]: {buffer}", end="\n\n")
 
     size = len(sha256.digest())
     hexdigest = sha256.hexdigest()
@@ -342,9 +342,9 @@ sha256 = hashlib.sha256()
 with open("pi_1m.txt", "rb") as file_handle:
     while (buffer := file_handle.read(2**10)) != b'':
         sha256.update(buffer)
-        print(f"[{len(buffer):02,d}-bytes]: {buffer}", end="\n\n")
+        print(f"[{len(buffer)}-bytes]: {buffer}", end="\n\n")
 
-    size = len(sha256.digest())
+    size      = len(sha256.digest())
     hexdigest = sha256.hexdigest()
     print(f"[{size}-bytes]: {hexdigest}")
 
