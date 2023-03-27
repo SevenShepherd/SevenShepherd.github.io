@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-10 03:12:12 -0500
+date: 2023-03-10 03:15:15 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -78,7 +78,7 @@ The goal is to create erudite thinkers capable of ministry automation.
 |IV.|Data Types & Variables|🟩|
 |V.|Operators & Precedence|🟩|
 |VI.|[Strings](http://bit.ly/429ULly)|🟩|
-|VII.|I/O & File Handling|🟩|
+|VII.|Input & Output|🟩|
 
 <!-- <span style="font-size:1.4em;">Container Types</span> -->
 
@@ -97,16 +97,16 @@ The goal is to create erudite thinkers capable of ministry automation.
 |XIII.|[The While Statement](http://bit.ly/426oyvm)|🟩|
 |XIV.|[The For Statement](http://bit.ly/3ZYw2Pk)|🟩|
 |XV.|Exception Handling|🟩|
-|XVI.|Function Definitions|🟩|
+|XVI.|Functions & Decorators|🟩|
+|XVII.|[File Handling & The With Statement](http://bit.ly/40xUxTC)|🟩|
 
 <!-- <span style="font-size:1.4em;">???</span> -->
 
 |Chapter|Object Oriented Programming|Difficulty|
 |:-:|:-|:-:|
-|XVII.|Class Definitions|🟩|
-|XVIII.|Inheritance|🟩|
+|XVIII.|Class Definitions & Inheritance|🟩|
 |XIX.|Operator Overloading|🟩|
-|XX.|Metaprogramming|🟩|
+|XX.||🟩|
 
 <!-- The control flow of a Python program is regulated by conditional statements, loops, and function calls. -->
 
