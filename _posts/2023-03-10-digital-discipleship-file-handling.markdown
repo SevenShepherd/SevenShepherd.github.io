@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💾 Fundamentals Of Digital Discipleship, Part XVII: File Handling & The With Statement"
-date: 2023-03-10 02:45:00 -0500
+date: 2023-03-10 02:50:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -303,7 +303,7 @@ with open("pi_1m.txt", "rb") as file_handle:
 
 <span style="font-size:1.4em;">Hash Checking With SHA256</span>
 
-Another useful way we can used buffered read is by applying a one-way cryptographic hash algorithm to our file to check for integrity. That is, to "see if it has changed."
+Another useful way we can use a buffered read is by applying a one-way cryptographic hash algorithm to our file to check for integrity. That is, to "see if it has changed."
 
 ```py
 import hashlib
