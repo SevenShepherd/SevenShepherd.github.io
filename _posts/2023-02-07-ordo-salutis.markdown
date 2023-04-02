@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:25:25 -0500
+date: 2023-02-02 1:30:30 -0500
 categories: salvation
 published: true
 ---
@@ -17,10 +17,10 @@ This article continues to grow. I decided to add anchors so you can skip to the 
 - Theologians
     - <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
     - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
+    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
     - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
     - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
     - <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
-    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
     - <a href="#macarthur">John MacArthur (DD, Talbot)</a>
     - <a href="#ryrie">Charles C. Ryrie (PhD, Edinburgh)</a>
 - Theologies
@@ -141,6 +141,63 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3JOaVKp">*Concise Theology: A Guide to Historic Christian Beliefs. Part Three: God Revealed as Lord of Grace & Part Four: God Revealed as Lord of Destiny.</a></sup>
 
+<a name="sproul" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. R. C. Sproul</a>
+
+[**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+
+<!-- > When we talk about the order of salvation, we talk about the ordo salutis, we are talking not so much about the temporal order of things but rather a logical order of things. The difference between temporal priority and logical priority is this, when we say that justification is by faith alone we do not mean by that that a person has faith and then five years later is justified. No, the second that you have faith you are counted righteous by God and are covered with the robes of the righteousness of Christ and have all the benefits of justification. There is no time lapse in there, but yet we say that justification is by faith, meaning that faith comes logically before justification or we would say “faith is by  justification alone.” We know that justification does not precede faith, but faith precedes justification in terms of its logical order. -->
+
+> When someone is brought to faith by the Holy Spirit, he undergoes a conversion. His life turns around. This turning around is called “repentance,” and it is an immediate fruit of genuine faith. &mdash; <a href="https://amzn.to/3m2RPXR">Everyone's a Theologian, Part Six: Soteriology. Chapter 42: Saving Fath.</a>
+
+<!-- R. C. Sproul is referred to as *"the greatest and most influential proponent of the recovery of Reformed theology in the last century."* -->
+
+|Part VII Salvation. 67.||
+|:-:|:-:|
+|Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith + Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith = Justification - Works|<span style="font-weight:bold;color:darkred;">False</span>|
+|Faith = Justification + Works|<span style="font-weight:bold;color:green;">True</span>|
+
+[✅ Monergistic](https://carm.org/dictionary/monergism/). Dr. Sproul argues against legalism in chapter 91 and against antinomianism in chapter 90. I've had to piece together his ordo salutis in its entirety from two books and a couple [Ligonier](https://www.youtube.com/@LigonierMinistries) videos. R.C. Sproul's Complete Ordo Salutis is as follows:
+
+1. [Foreknowledge](https://youtu.be/1NxjBI5b8Uk)
+2. Predestination & Reprobation
+3. Effectual Calling
+4. Regeneration
+5. Saving faith
+6. Repentance
+7. Justification
+8. Adoption
+9. Sanctification
+10. Perseverance
+11. Glorification
+
+<!-- - <a href="https://youtu.be/1NxjBI5b8Uk" style="color:darkviolet">Foreknowledge</a> -->
+
+<a href="https://amzn.to/3FyUAqx">Essential Truths Of The Christian Faith. Part VII Salvation. 60 Rebirth.</a> was used to reconstruct most of his ordo salutis.
+
+- Predestination & Reprobation (57,58)
+- Effectual Calling (59)
+- Rebirth / **Regeneration** (60)
+- **Faith** / Saving faith (64,65)
+- Repentance is the fruit of regeneration (68)
+- **Justification** by faith (66)
+- **Sanctification** (67,71)
+- Perseverance (70)
+- **Glorification** (74)
+
+<a href="https://amzn.to/3m2RPXR">Everyone's a Theologian, Part Six: Soteriology. Chapter 42: Saving Fath. The Fruits of Conversion.</a> helped further piece together his ordo salutis.
+
+- Repentance: *"... an immediate fruit of genuine faith."*
+- Adoption: *"When God declares us just in Jesus Christ, He adopts us into His household. ..."*
+
+<!-- |The Fruits of Conversion||
+|:-:|:-:|
+|Repentance|When someone is brought to faith by the Holy Spirit, he undergoes a conversion. His life turns around. This turning around is called “repentance,” and it is an immediate fruit of genuine faith.|
+|Adoption|When God declares us just in Jesus Christ, He adopts us into His household. His only true son is Christ, but Christ becomes our elder brother by way of adoption.|
+|Peace|The first fruit of justification is peace with God. We were enemies, but the war is over. God declares a peace treaty with all those who put their faith in Christ.|
+|Access to God| God does not allow His enemies into an intimate relationship with Him, but once we have been reconciled to God through Christ, we have access into His presence, and we have joy in the glory of who He is. (Rom. 5:2)| -->
+
 <a name="wallace" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Daniel B. Wallace</a>
 
 [**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the [NET Bible](https://amzn.to/3WLAgbr), which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
@@ -217,37 +274,6 @@ Sequence of salvation
 7. Glorification
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3xFJhrY">*Evangelical Theology. 2nd ed. 5.3 Order of Salvation. pp. 564-602.</a></sup>
-
-<a name="sproul" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. R. C. Sproul</a>
-
-[**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
-
-
-<!-- R. C. Sproul is referred to as *"the greatest and most influential proponent of the recovery of Reformed theology in the last century."* -->
-
-|Part VII Salvation. 67.||
-|:-:|:-:|
-|Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
-|Faith + Works = Justification|<span style="font-weight:bold;color:darkred;">False</span>|
-|Faith = Justification - Works|<span style="font-weight:bold;color:darkred;">False</span>|
-|Faith = Justification + Works|<span style="font-weight:bold;color:green;">True</span>|
-
-[✅ Monergistic](https://carm.org/dictionary/monergism/), Dr. Sproul argues against legalism in chapter 91 and against antinomianism in chapter 90.
-
-<!-- - <a href="https://youtu.be/1NxjBI5b8Uk" style="color:darkviolet">Foreknowledge</a> -->
-
-- [Foreknowledge](https://youtu.be/1NxjBI5b8Uk)
-- Predestination & Reprobation (57,58)
-- Effectual Calling (59)
-- Rebirth / Regeneration (60)
-- Repentance is the fruit of regeneration (68)
-- Faith / Saving faith (64,65)
-- Justification by faith (66)
-- Sanctification (67,71)
-- Perseverance (70)
-- Glorification (74)
-
-<sup style="font-size:14px;"><a href="https://amzn.to/3FyUAqx">*Essential Truths Of The Christian Faith. Part VII Salvation. 60 Rebirth.</a></sup>
 
 <a name="macarthur" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. John MacArthur</a>
 
