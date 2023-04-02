@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:30:30 -0500
+date: 2023-02-02 1:35:35 -0500
 categories: salvation
 published: true
 ---
@@ -373,6 +373,9 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <a name="luthern" href="#contents" style="font-size:24px;color:Black;">⛪ Luthern Theology</a>
 
+<!-- > **The man who most adamantly defended the Augustinian view of predestination was Martin Luther.** ... Shortly after Luther's death, the Lutheran body, under the leadership of Philip Melancthon took a different turn and did not follow Martin Luther in his articulation of the view of predestination. But I think it's safe to say that Luther wrote more on predestination than Calvin ever dreamed of. &mdash; [R. C. Sproul (PhD, Whitefield Theological Seminary)](https://youtu.be/--fafICBts8?t=983) -->
+
+- [⚠️ Deviated from Luther who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983)
 - [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 1. **Calling or vocation**
@@ -409,7 +412,11 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 
 <a name="roman" href="#contents" style="font-size:24px;color:Black;">⛪ Roman Catholic Theology</a>
 
+The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
+
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
+- [⚠️ Deviated from St. Thomas Aquinas :)](https://youtu.be/--fafICBts8?t=983)
 
 1. **The sacrament of *baptism*** (Tit 3:5) 
     - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
