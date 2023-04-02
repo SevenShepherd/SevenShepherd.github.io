@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:35:35 -0500
+date: 2023-02-02 1:40:40 -0500
 categories: salvation
 published: true
 ---
@@ -398,6 +398,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 <a name="arminian" href="#contents" style="font-size:24px;color:Black;">⛪ Arminian theology</a>
 
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
 
 1. **Universal, external calling**
     - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. Prevenient or “exciting” grace, which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
@@ -415,6 +416,7 @@ These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/
 The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
 
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
 - [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
 - [⚠️ Deviated from St. Thomas Aquinas :)](https://youtu.be/--fafICBts8?t=983)
 
