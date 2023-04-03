@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "👨‍💻 Computer Programming And Digital Discipleship 101"
-date: 2023-02-21 04:20:00 -0500
+title: "👨‍💻 Introduction To Computer Programming"
+date: 2023-02-21 04:30:00 -0500
 categories: digital computer programming python ministry
-published: true
+published: false
 ---
 
 <span style="font-style:Italic;font-size:21px;color:Black;">Hello and welcome,</span>
