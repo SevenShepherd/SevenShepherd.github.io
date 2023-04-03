@@ -78,8 +78,8 @@ You can also check out my custom programmed and automated Twitter based Christia
 |:-:|:-:|
 |**Theology**||
 |[Dr. Wayne Grudem<br>(PhD, University of Cambridge; DD, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
-|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology</a>|
-|[Dr. R. C. Sproul<br>(PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
+|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology (ESV) Hardcover](https://amzn.to/40RYx1A)|
+|[Dr. R. C. Sproul<br>(PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
 |Dr. Bruce Demarest (PhD, University of Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |||
 |**Textual Criticism**||
