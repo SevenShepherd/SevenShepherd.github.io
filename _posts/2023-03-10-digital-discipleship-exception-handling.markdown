@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚫 Fundamentals Of Digital Discipleship, Part XIII: Exception Handling"
-date: 2023-03-10 02:25:00 -0500
+date: 2023-03-10 02:30:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -20,6 +20,7 @@ Exceptions break out of the normal control flow of a program and indicate that a
 |:-:|:-:|
 |[`AssertionError`](https://docs.python.org/3/library/exceptions.html#AssertionError)|Raised when an assert statement fails.|
 |[`AttributeError`](https://docs.python.org/3/library/exceptions.html#AttributeError)|Raised when an [attribute reference](https://docs.python.org/3/reference/expressions.html#attribute-references) or assignment fails.|
+|[`EOFError`](https://docs.python.org/3/library/exceptions.html#EOFError)|Raised when the input() function hits an end-of-file condition (EOF) without reading any data.|
 |[`IndexError`](https://docs.python.org/3/library/exceptions.html#IndexError)|Raised when a sequence subscript is out of range.|
 |[`KeyError`](https://docs.python.org/3/library/exceptions.html#KeyError)|Raised when a mapping (dictionary) key is not found in the set of existing keys.|
 |[`KeyboardInterrupt`](https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt)|Raised when the user hits the interrupt key (normally Control-C or Delete).|
@@ -29,8 +30,6 @@ Exceptions break out of the normal control flow of a program and indicate that a
 |[`TypeError`](https://docs.python.org/3/library/exceptions.html#TypeError)|Raised when an operation or function is applied to an object of inappropriate type.|
 |[`ValueError`](https://docs.python.org/3/library/exceptions.html#ValueError)|Raised when an operation or function receives an argument that has the right type but an inappropriate value.|
 |[`ZeroDivisionError`](https://docs.python.org/3/library/exceptions.html#ValueError)|Raised when the second argument of a division or modulo operation is zero.|
-
-<!-- |[`EOFError`](https://docs.python.org/3/library/exceptions.html#EOFError)|Raised when the input() function hits an end-of-file condition (EOF) without reading any data.| -->
 
 <a href="https://docs.python.org/3/library/exceptions.html#os-exceptions" style="font-weight:italic;font-size:1.6em;">OS exceptions</a>
 
@@ -213,9 +212,10 @@ except NameError:
     print("This variable does not exist.")
 ```
 
-<span style="font-weight:italic;font-size:1.4em;">KeyboardInterrupt</span>
 
-KeyboardInterrupt is raised when the user hits the interrupt key (normally Control-C or Delete). 
+<span style="font-weight:italic;font-size:1.4em;">KeyboardInterrupt & EOFError</span>
+
+KeyboardInterrupt is raised when the user hits the interrupt key (normally Control-C or Delete). Note that the input() function itself already includes a built-in try-except block that catches EOFError and raises a KeyboardInterrupt instead. This is because in a console or terminal window, the user can signal the end of the input by pressing the Ctrl-C key combination, which normally raises a KeyboardInterrupt.
 
 <!-- EOFError is raised when the input() function hits an end-of-file condition (EOF) without reading any data. -->
 
@@ -229,6 +229,16 @@ try:
 
 except KeyboardInterrupt:
     print("Control-C or Delete pressed.")
+```
+
+For EOFError, the open() function is used to open a file called input.txt, and then the readline() method is used to read the first line of input from the file. If the end of the file is reached unexpectedly before the first line of input is read, an EOFError is raised and the corresponding except block is executed.
+
+```py
+try:
+    with open('input.txt') as f:
+        user_input = f.readline()
+except EOFError:
+    print("Error: Reached end of input unexpectedly.")
 ```
 
 <span style="font-weight:italic;font-size:1.4em;">IndexError & KeyError</span>
