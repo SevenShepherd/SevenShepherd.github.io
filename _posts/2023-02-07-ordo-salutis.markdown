@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:40:40 -0500
+date: 2023-02-02 1:45:45 -0500
 categories: salvation
 published: true
 ---
@@ -418,7 +418,7 @@ The order of salvation in Roman Catholic theology is usually expressed in terms 
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
 - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
 - [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
-- [⚠️ Deviated from St. Thomas Aquinas :)](https://youtu.be/--fafICBts8?t=983)
+- [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
 
 1. **The sacrament of *baptism*** (Tit 3:5) 
     - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
