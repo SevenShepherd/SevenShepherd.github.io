@@ -90,7 +90,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Texts</span>
 
-When I study theology in-depth, I consider Dr. Wayne Grudem's [*Systematic Theology, 2nd ed.*](https://amzn.to/40QF8z5) to be the most authoritative and accurate. When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* So I consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness.
+When I study theology in-depth, I consider Dr. Wayne Grudem's [*Systematic Theology, 2nd ed.*](https://amzn.to/40QF8z5) to be the most authoritative and accurate. When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness.
 
 <!-- There're quite a few recommendations here, but if I could only pick one, I think I'd choose J. I. Packer's Concise Theology in it's hardcover ESV edition from Crossway. The reason being is because it is concise. -->
 
