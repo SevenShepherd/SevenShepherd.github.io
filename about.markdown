@@ -20,7 +20,32 @@ permalink: /about/
 
 <!-- I don't think I will be able to advocate for my position correctly, unless I delineate my position clearly. -->
 
-Hello and welcome, I am Seven Shepherd. I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below.
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I created this blog as a temporary site while I build my ministry. Please feel free to look around, read articles, or contact me below. 
+
+<!-- I've listed a succinct selection of materials below as my EDC so to speak. -->
+
+<!-- |Travel|Highly Recommended|
+|:-:|:-:|
+|Bible|[☩ ESV Compact Bible](https://amzn.to/3U695YI)|
+|Study Bible|[☩ ESV Study Bible](https://amzn.to/3WsN0Uw)|
+|Theology|[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
+|Software|[☩ Logos Bible Software](https://www.logos.com/)| -->
+
+<!-- |Essentials|Highly Recommended|
+|:-:|:-:|
+|Bible|[☩ ESV Compact Bible](https://amzn.to/3U695YI)|
+|Study Bible|[☩ ESV Study Bible](https://amzn.to/3WsN0Uw)|
+|Theology|[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
+|Software|[☩ Logos Bible Software](https://www.logos.com/)| -->
+
+<!-- |Essentials||
+|:-:|:-:|
+|Bible|[☩ ESV Large Print Compact Bible](https://amzn.to/3U695YI)<br>[☩ LSB NT w/ Psalms & Proverbs](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)|
+|Study Bible|[☩ ESV Study Bible](https://amzn.to/3WsN0Uw)<br>[☩ NET Full Notes](https://amzn.to/3WLAgbr)|
+|Theology|[☩ Concise Theology (ESV) Hardcover](https://amzn.to/40RYx1A)|
+|Software|[☩ Logos Bible Software](https://www.logos.com/)| -->
+
+<!-- This is an ESV Study Bible, and NET Bible: Full Notes Edition based ministry. -->
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
@@ -63,7 +88,11 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended| -->
 
-<span style="font-style:Italic;font-size:32px;">Recommended Material</span>
+<span style="font-style:Italic;font-size:32px;">Recommended Texts</span>
+
+When I study theology in-depth, I consider Dr. Wayne Grudem's [*Systematic Theology, 2nd ed.*](https://amzn.to/40QF8z5) to be the most authoritative and accurate. When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* So I consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness.
+
+<!-- There're quite a few recommendations here, but if I could only pick one, I think I'd choose J. I. Packer's Concise Theology in it's hardcover ESV edition from Crossway. The reason being is because it is concise. -->
 
 <!-- |Professor/Preacher|Books|
 |:-:|:-:|
@@ -78,7 +107,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 |:-:|:-:|
 |**Theology**||
 |[Dr. Wayne Grudem<br>(PhD, University of Cambridge; DD, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
-|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology (ESV) Hardcover](https://amzn.to/40RYx1A)|
+|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
 |[Dr. R. C. Sproul<br>(PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
 |Dr. Bruce Demarest (PhD, University of Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |||
@@ -90,8 +119,9 @@ You can also check out my custom programmed and automated Twitter based Christia
 |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
 |||
 |**Apologetics**||
-|[Dr. Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
 |Matt Slick<br>(MDiv, Westminster Theological Seminary)|[☩ CARM](https://carm.org/)|
+
+<!-- |[Dr. Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)| -->
 
 
 <!-- <br>Dr. Norman L. Geisler -->
@@ -118,7 +148,9 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
 
-These **highly recommended** versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the ESV represents the worlds most accurate formal equivalent bible, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible.
+These **highly recommended** versions and studies push our understanding far beyond our previous limitations. I study with the [ESV Study Bible](https://amzn.to/3WsN0Uw) & [Net Bible, Full Notes Edition](https://amzn.to/3WLAgbr). I read leisurely with the NLT. If I'm traveling, I'll use something small like the LSB NT w/ Psalms & Proverbs.
+
+<!-- Whereas the ESV represents the worlds most accurate formal equivalent bible, accuracy and literalness not being completely equal, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible. -->
 
 <!-- these versions excel in literalness to the Biblical Hebrew & Koine Greek. -->
 
@@ -126,7 +158,7 @@ These **highly recommended** versions and studies push the limits of our underst
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[☩ **ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
-The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
+A study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award. In addition to this, the ESV is one of the most literal Bible versions on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). In addition to being literal and accurate, the ESV is easy to read, poetic, and memorizable.
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
@@ -144,7 +176,9 @@ The study bible is an indispensible tool. This is the best-of-breed, having won 
 |:-:|:-:|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[☩ **NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
 
-The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
+The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
+
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
 - <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
