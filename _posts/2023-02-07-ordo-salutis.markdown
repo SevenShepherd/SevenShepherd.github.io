@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:50:50 -0500
+date: 2023-02-02 1:55:55 -0500
 categories: salvation
 published: true
 ---
@@ -211,7 +211,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
-<a name="free" href="#contents" style="font-size:2.1em;">"Free Grace" Theology</a>
+<a name="free" href="#contents" style="font-size:2em;">VI. "Free Grace" Theology</a>
 
 Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. 
 
