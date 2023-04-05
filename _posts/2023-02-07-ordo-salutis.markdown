@@ -1,36 +1,255 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:45:45 -0500
+date: 2023-02-02 1:50:50 -0500
 categories: salvation
 published: true
 ---
+
+<!-- will you really let your anger and pride blind you from the truth; hatred and ignorance go hand in hand -->
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
-<a name="contents" style="font-style:Italic;font-size:2.1em;color:Black;">Contents</a>
+<a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
-This article continues to grow. I decided to add anchors so you can skip to the place you want to read. To get back, once you get to the target location, just click the name and you'll be transported back to the contents.
+- <a href="#reformed">I. Reformed Theology</a>
+- <a href="#roman">II. Roman Catholic Theology</a>
+- <a href="#lutheran">III. Lutheran Theology</a>
+- <a href="#arminian">IV. Arminian Theology</a>
+- <a href="#evangelical">V. Evangelical Theology</a>
+- <a href="#free">VI. Free Grace Theology</a>
 
-- Theologians
-    - <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
-    - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
-    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
-    - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
-    - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
-    - <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
-    - <a href="#macarthur">John MacArthur (DD, Talbot)</a>
-    - <a href="#ryrie">Charles C. Ryrie (PhD, Edinburgh)</a>
-- Theologies
-    - <a href="#reformed">Covenant Reformed</a>
-    - <a href="#evangelical">Evangelical</a>
-    - <a href="#luthern">Luthern</a>
-    - <a href="#arminian">Arminian</a>
-    - <a href="#roman">Roman Catholic</a>
-    - <a href="#free">Free Grace</a>
-    
+
+<a name="reformed" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Reformed Theology & Augustinianism</a>
+
+Calvinism is a somewhat misleading label since it draws heavily from the writings of the early church father [St. Augustine of Hippo (354 – 430)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) who lived during the 4th and 5th centuries, twelve hundred years prior to John Calvin (1509 – 1564) and the 16th century Protestant [Reformation](https://en.wikipedia.org/wiki/Reformation). Theologians who followed the Augustinian tradition on this point included St. Thomas Aquinas and Martin Luther, an Augustinian monk. Everyone in this category can call themselves *Augustinian-Pauline Christians*.
+
+> The man who most adamantly defended the Augustinian view of predestination was Martin Luther. ... Shortly after Luther's death, the Lutheran body, under the leadership of Philip Melancthon took a different turn and did not follow Martin Luther in his articulation of the view of predestination. But I think it's safe to say that Luther wrote more on predestination than Calvin ever dreamed of. &mdash; [R. C. Sproul (PhD, Whitefield Theological Seminary)](https://youtu.be/--fafICBts8?t=983)
+
+✅ Reformed theology is securely [monergistic](https://carm.org/dictionary/monergism/). Denominations associated with this theological tradition of Christianity are Presbyterianism, Reformed Churches, Reformed Baptists, etc.
+
+<!-- Dr. Packer is an evangelical theologian in the low-church Anglican and Calvinist traditions. -->
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+<!-- - John Calvin (1559)
+- *1703 - 1758 Jonathan Edwards (Yale)
+    - The greatest theological mind that the New World has ever produced.
+- *1797 - 1878 Charles Hodge (Principal, Princeton)
+- 1820 - 1898 Robert L. Dabney (Prof., Union)
+- *1892 - 1932 Geerhardus J. Vos (PhD, Strasburg; Prof., Princeton & Amsterdam)
+- *1851 - 1921 B. B. Warfield (Prof., Princeton)
+- Shedd (Prof., Union)
+- Herman Bavinck
+- Murray (Prof., Westminister)
+- *1873 - 1957 Louis Berkhof (BD, Princeton)
+- 1623 - 1687 Francis Turretin (Prof., Geneva)
+- 2013 Robert Reymond
+- Van Genderen & Velema
+- *Michael Horton (PhD, Oxford)
+- *Robert Duncan Culver
+
+> The basic difference may be said to boil down to the question: Who determines who are to be
+saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on
+human choice. In a strange way, so agrees Norman Geisler, who in an effort to avoid what he calls
+extreme Calvinism manages to become not a moderate Calvinist but a pretty good synergist, i.e. an
+Arminian.
+1 According to the Augustinian scheme (including all the leading Reformers), God does. He
+not only provides the Savior but makes ‘his people’ desire to receive Him. And this modifies one
+way or another many other aspects of doctrine and of Christian life, personal and corporate.
+
+- *Frame
+- *Dr. R. Michael Allen & Dr. Scott R. Swain
+- *Barret book with horton
+- *Robert Letham (PhD, Aberdeen) -->
+
+- <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
+- <a href="#packer">J. I. Packer (PhD, Oxford)</a>
+- <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
+- <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
+- <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
+- <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
+- <a href="#macarthur">John MacArthur (DD, Talbot)</a>
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+
+1. **Calling**
+    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
+2. **Regeneration**
+    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
+3. **Faith**
+    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
+4. **Repentance**
+    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
+5. **Justification**
+    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
+6. **Sanctification**
+    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
+7. **Preservation and perseverance**
+    - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
+8. **Glorification**
+    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
+
+<a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Roman Catholicism</a>
+
+The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
+
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
+- [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
+
+1. **The sacrament of *baptism*** (Tit 3:5) 
+    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
+2. **The sacrament of *confirmation*** (Acts 8:15-17)
+    - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
+3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
+    - imparts spiritual nourishment as the worshiper feeds on the body and blood of Christ in the transubstantiated wafer. “This sacrament is nourishment. It is for the divine life of the soul what food and drink are for the life of the body. This life, the state of grace, is maintained by it, preserved from ruin, strengthened and augmented.”13
+4. **The sacrament of *penance*, or the “second pardon,”** 
+    - remits the guilt and punishment of post-baptismal, mortal sins (apostasy, murder, adultery). The sacrament requires of the penitent contrition for sins, confession, and works of satisfaction (almsgiving, fasting, etc.).
+5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
+    - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
+
+<a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheran Theology</a>
+
+Still debating if I should call this Melancthonism instead of Lutheranism, since what Lutherans believe today [deviated from Luther, and Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+- Francis Pieper (DD, Northwestern)
+- John Theodore Mueller (ThD, Xenia)
+
+<!-- - <a href="#pieper">Francis Pieper (DD, Northwestern; Prof. Concordia)</a>
+- <a href="#mueller">John Theodore Mueller (ThD, Xenia; Prof. Concordia)</a> -->
+
+<!-- - [⚠️ Deviated from Luther, and Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983)
+- [✅ Monergistic](https://carm.org/dictionary/monergism/) -->
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+
+1. **Calling or vocation**
+    - God offers forgiveness of sins and right standing with himself through the offer of the Gospel that brings with it sufficient grace for the unconverted to respond to the message.
+2. **Illumination**
+    - The Gospel call universally imparts a certain illumination and quickening that enables the hearer to comprehend the benefits of accepting the Gospel and the consequences of rejecting it. 
+3. **Conversion or repentance** 
+    - This involves the work of the Spirit that leads sinners to remorse for their sins and to knowledge that they may be saved on the basis of Christ’s merits.
+4. **Regeneration**
+    - Repentance may result in the kindling of faith in the Gospel and then the transformation known as the new birth.
+5. **Justification**
+    - In response to a person’s faith God forgives sins, reck­ons the perfect righteousness of Christ, and bestows right standing with himself. 
+6. **Mystical union**
+    - By this step the believing soul is brought into a supernatural union of love with the triune God
+7. **Renovation or sanctification**
+    - Assisted by the Spirit, the justified advance in holiness and bring forth the supernatural fruits of the new life.
+8. **Conservation**
+    - Provided that the justified continue to heed biblical warnings about defection and persist in faith, God will preserve them safely to the end. The unbelieving, however, may fall away from grace and forfeit salvation. Christians must not presume on the Spirit’s grace.
+
+<a name="arminian" href="#contents" style="font-size:2.1em;">IV. Arminian theology</a>
+
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+
+1. **Universal, external calling**
+    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. Prevenient or “exciting” grace, which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
+2. **Repentance and faith**
+    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a synergistic activity.
+3. **Justification**
+    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
+4. **Sanctification**
+    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
+5. **Perseverance**
+    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
+
+<a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Evangelicalism</a>
+
+✅ [Monergistic](https://carm.org/dictionary/monergism/). This section represents Evangelicals in the broadly reformed tradition. The truth is every tradition mentioned in this article is evangelical. This is where I put people who don't fall into the other categories. Theologians listed here may or may not agree with every point of the ordo salutis presented.
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+- Chuck Smith (BA, Life Bible College)
+- Dr. Jack Van Impe (PhD, PIU)
+
+<!-- - <a href="#smith">Chuck Smith (BA, Life Bible College)</a>
+- <a href="#impe">Dr. Jack Van Impe (PhD, PIU)</a> -->
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+
+1. **Election**
+    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
+2. **Effectual calling**
+    - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
+3. **Belief in the Gospel**
+    - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
+4. **Repentance**
+    - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
+5. **Trust in Christ**
+    - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
+6. **Regeneration**
+    - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
+7. **Union with Christ**
+    - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
+8. **Justification**
+    - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
+9. **Sanctification**
+    - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
+10. **Preservation and perseverance**
+    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
+11. **Glorification**
+    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
+
+<a name="free" href="#contents" style="font-size:2.1em;">"Free Grace" Theology</a>
+
+Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. 
+
+> The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
+
+[⚠️ Category mistakes in Greek](https://sevenshepherd.github.io/repent/)<br>
+[✅ Monergistic](https://carm.org/dictionary/monergism/)
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+- <a href="#ryrie">Charles C. Ryrie (PhD, Edinburgh)</a>
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
+
+1. **Conviction**
+    - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
+    - Who?  &mdash; It must mean a large number of people, more than the elect, but not everybody (cf. John 12:19).
+    - How?  &mdash; We readily acknowledge that regeneration is the work of the Spirit... God must do even that.
+2. **Calling**
+    - General Call &mdash; God’s general invitation to men to come to Him.
+    - **Effective Call** &mdash; This is the call that only the elect respond to through faith and that results in their salvation (Rom. 8:30; 1 Cor. 1:2). This is God’s work
+3. **Regeneration**
+    - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
+    - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
+    - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
+    - **Fruit** &mdash; The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
+4. **Faith**
+    - Meaning &mdash; Faith means confidence, trust, to hold something as true.
+    - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
+    - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
+
+<!-- <a href="#amyraldism" style="font-style:Italic;font-size:1.6em;">Amyraldism "Moderate Calvinism"</a>
+
+- <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
+
+
 
 <!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">The Apostle Paul</span>
 
@@ -318,144 +537,6 @@ See Free Grace Theology below for expansion.
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup> -->
 
 <sup style="font-size:14px;color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</sup>
-
-<span style="font-style:Italic;font-size:2.1em;color:Black;">Theology Comparisons</span>
-
-These comparisons are supplied by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ" style="color:#A8A8A8;">"The Cross and Salvation: The Doctrine of Salvation"</a>
-
-<a name="reformed" href="#contents" style="font-size:24px;color:Black;">⛪ Covenant Reformed theology</a>
-
-- [✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-1. **Calling**
-    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
-2. **Regeneration**
-    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
-3. **Faith**
-    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
-4. **Repentance**
-    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
-5. **Justification**
-    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
-6. **Sanctification**
-    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
-7. **Preservation and perseverance**
-    - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
-8. **Glorification**
-    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
-
-<a name="evangelical" href="#contents" style="font-size:24px;color:Black;">⛪ Evangelicals In The Broadly Reformed Tradition</a>
-
-- [✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-1. **Election**
-    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
-2. **Effectual calling**
-    - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
-3. **Belief in the Gospel**
-    - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
-4. **Repentance**
-    - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
-5. **Trust in Christ**
-    - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
-6. **Regeneration**
-    - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
-7. **Union with Christ**
-    - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
-8. **Justification**
-    - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
-9. **Sanctification**
-    - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
-10. **Preservation and perseverance**
-    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
-11. **Glorification**
-    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
-
-<a name="luthern" href="#contents" style="font-size:24px;color:Black;">⛪ Luthern Theology</a>
-
-<!-- > **The man who most adamantly defended the Augustinian view of predestination was Martin Luther.** ... Shortly after Luther's death, the Lutheran body, under the leadership of Philip Melancthon took a different turn and did not follow Martin Luther in his articulation of the view of predestination. But I think it's safe to say that Luther wrote more on predestination than Calvin ever dreamed of. &mdash; [R. C. Sproul (PhD, Whitefield Theological Seminary)](https://youtu.be/--fafICBts8?t=983) -->
-
-- [⚠️ Deviated from Luther who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983)
-- [✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-1. **Calling or vocation**
-    - God offers forgiveness of sins and right standing with himself through the offer of the Gospel that brings with it sufficient grace for the unconverted to respond to the message.
-2. **Illumination**
-    - The Gospel call universally imparts a certain illumination and quickening that enables the hearer to comprehend the benefits of accepting the Gospel and the consequences of rejecting it. 
-3. **Conversion or repentance** 
-    - This involves the work of the Spirit that leads sinners to remorse for their sins and to knowledge that they may be saved on the basis of Christ’s merits.
-4. **Regeneration**
-    - Repentance may result in the kindling of faith in the Gospel and then the transformation known as the new birth.
-5. **Justification**
-    - In response to a person’s faith God forgives sins, reck­ons the perfect righteousness of Christ, and bestows right standing with himself. 
-6. **Mystical union**
-    - By this step the believing soul is brought into a supernatural union of love with the triune God
-7. **Renovation or sanctification**
-    - Assisted by the Spirit, the justified advance in holiness and bring forth the supernatural fruits of the new life.
-8. **Conservation**
-    - Provided that the justified continue to heed biblical warnings about defection and persist in faith, God will preserve them safely to the end. The unbelieving, however, may fall away from grace and forfeit salvation. Christians must not presume on the Spirit’s grace.
-
-<a name="arminian" href="#contents" style="font-size:24px;color:Black;">⛪ Arminian theology</a>
-
-- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
-- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
-
-1. **Universal, external calling**
-    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. Prevenient or “exciting” grace, which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
-2. **Repentance and faith**
-    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a synergistic activity.
-3. **Justification**
-    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
-4. **Sanctification**
-    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
-5. **Perseverance**
-    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-
-<a name="roman" href="#contents" style="font-size:24px;color:Black;">⛪ Roman Catholic Theology</a>
-
-The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
-
-- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
-- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
-- [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
-- [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
-
-1. **The sacrament of *baptism*** (Tit 3:5) 
-    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
-2. **The sacrament of *confirmation*** (Acts 8:15-17)
-    - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
-3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
-    - imparts spiritual nourishment as the worshiper feeds on the body and blood of Christ in the transubstantiated wafer. “This sacrament is nourishment. It is for the divine life of the soul what food and drink are for the life of the body. This life, the state of grace, is maintained by it, preserved from ruin, strengthened and augmented.”13
-4. **The sacrament of *penance*, or the “second pardon,”** 
-    - remits the guilt and punishment of post-baptismal, mortal sins (apostasy, murder, adultery). The sacrament requires of the penitent contrition for sins, confession, and works of satisfaction (almsgiving, fasting, etc.).
-5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
-    - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
-
-<a name="free" href="#contents" style="font-size:24px;color:Black;">⛪ Free Grace Theology</a>
-
-Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. The following description was supplied by Dr. Charles C. Ryrie in <span style="color:#A8A8A8;">Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation.</span>
-
-> The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
-
-[⚠️ Minority view (Category mistakes in Greek)](https://sevenshepherd.github.io/repent/)<br>
-[✅ Monergistic](https://carm.org/dictionary/monergism/)
-
-1. **Conviction**
-    - What? &mdash; The Lord promised that after Pentecost the Holy Spirit would convict the world of sin, righteousness, and judgment (John 16:8–11).
-    - Who?  &mdash; It must mean a large number of people, more than the elect, but not everybody (cf. John 12:19).
-    - How?  &mdash; We readily acknowledge that regeneration is the work of the Spirit... God must do even that.
-2. **Calling**
-    - General Call &mdash; God’s general invitation to men to come to Him.
-    - Effective Call &mdash; This is the call that only the elect respond to through faith and that results in their salvation (Rom. 8:30; 1 Cor. 1:2). This is God’s work
-3. **Regeneration**
-    - Meaning &mdash; The word, used only twice in the New Testament (Matt. 19:28; Titus 3:5), means to be born again.
-    - Means &mdash; God regenerates (John 1:13) according to His will (James 1:18) through the Holy Spirit (John 3:5) when a person believes (1:12) the Gospel as revealed in the Word (1 Pet. 1:23).
-    - Relation &mdash; In the Reformed statement of the ordo salutis, regeneration precedes faith... this is admittedly stated only as a logical order... both regeneration and faith have to occur at the same moment. To be sure, faith is also part of the total package of salvation that is the gift of God (Eph. 2:9); yet faith is commanded in order to be saved (Acts 16:31). Both are true.
-    - **Fruit** &mdash; The new life will bear new fruit. In 1 John 2:29; 3:9; 4:7; 5:1, 4, and 18, some of the results of the new life include righteousness, not committing sin, loving one another, and overcoming the world.
-4. **Faith**
-    - Meaning &mdash; Faith means confidence, trust, to hold something as true.
-    - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
-    - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
 
 <span style="font-style:Italic;font-size:2.1em;color:Black;">Conclusion</span>
 
