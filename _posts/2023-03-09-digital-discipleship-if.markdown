@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❓ Fundamentals Of Digital Discipleship, Part XI: The If Statement"
-date: 2023-03-09 04:30:00 -0500
+date: 2023-03-09 04:35:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -227,7 +227,7 @@ if 0 <= x and x <= 9:
     pass
 
 # acceptable 0-9
-if 0 <= i <= 9:
+if 0 <= x <= 9:
     pass
 ```
 
