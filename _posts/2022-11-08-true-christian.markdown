@@ -36,7 +36,27 @@ published: true
 
 </style>
 
-<!-- <div class="mt">OVERVIEW OF SOTERIOLOGY</div> -->
+<!-- This article will represent two selves, both mine, one before any theological studies took place in my life and one after studying theology. This is so you can see the difference. This first part will represent my current self after having studied soteriology. The second part is a time capsule of my past self and understandings without any influence or bias other than the random studies I agreed with from my own experience reading the bible.
+
+> "... all physical theories, their mathematical expressions apart ought to lend themselves to so simple a description 'that even a child could understand them.'" &mdash; Einstein: His Life and Times (1972). p. 418. -->
+
+<!-- <div class="mt">CONTENTS</div> -->
+<!-- <span style="font-style:Italic;font-size:2em;">CONTENTS</span>
+
+<a href="#studied" style="font-style:Italic;font-size:1.6em;">Part I : Having Studied Soteriology</a>
+- Something
+- Something
+
+<a href="#nostudy" style="font-style:Italic;font-size:1.6em;">Part II: Not Having Studied Soteriology</a>
+- Something
+- Something
+
+<a name="studied"></a>
+
+<span style="font-style:Italic;font-size:2em;">How Do You Know If You Believe?</span> -->
+
+
+<a name="nostudy"></a>
 <div class="mt">SALVATION</div>
 
 <div class="mt" style="font-size:21px;">꧁ Ephesians 2:8-10 ꧂</div>
@@ -55,6 +75,9 @@ The Bible teaches that all have sinned and fallen short of the glory of God (Rom
 > "For the wages of sin is death, but the <span style="font-weight:bold;font-size:21px;color:#29a329;">free gift</span> of God is eternal life through Christ Jesus our Lord." &mdash; Romans 6:23
 
 Salvation comes from the Grace of God when we believed (Jn 3:16), we were justified through faith (Ro 5:1 ESV; Gal. 3:24 ESV), and faith was credited to us as righteousness (Ro 4:3,9,22; Jas 2:23; Gal. 3:9).
+
+> The Roman Catholic Church says that God does not declare people just until, under analysis, they are just. Protestants say that people are just synthetically, because they have something added to them, the righteousness of Jesus. So, for Catholics, righteousness must inhere, whereas **for Protestants, righteousness is extra nos, or “outside of us.”** It is, properly speaking, not our own. It counts for us only when we lay hold of Christ by faith. &mdash; [R. C. Sproul (PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q), [Everyone's a Theologian](https://amzn.to/3m2RPXR)
+
 
 # What Is The Fruit Of The Holy Spirit?
 
@@ -75,7 +98,7 @@ If a Christian's life is devoid of the <span style="font-weight:bold;color:#8000
 
 <!-- Not only will they not inherit the Kingdom of God (Gal. 5:21), false professors will end up in the lake which burns with fire and brimstone forever. -->
 
-# Faith Without Good Deeds Is Not Genuine Faith
+# True Saving Faith Always RESULTS In Good Works
 
 The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified <span style="font-weight:bold;color:#800080;">by works</span> and not by faith alone."* (James 2:24 ESV). 
 
@@ -373,7 +396,7 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 </blockquote>
 
-**The evidence of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the byproduct of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
+**The evidence of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the result of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
 <div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
 
