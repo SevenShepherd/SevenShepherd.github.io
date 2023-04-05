@@ -55,7 +55,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
-<span style="font-style:Italic;font-size:32px;">Recommended Articles</span>
+<span style="font-style:Italic;font-size:2.1em;">Recommended Articles</span>
 
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
@@ -88,9 +88,13 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended| -->
 
-<span style="font-style:Italic;font-size:32px;">Recommended Texts</span>
+<span style="font-style:Italic;font-size:2.1em;">Recommended Texts</span>
 
-When I study theology in-depth, I consider Dr. Wayne Grudem's [*Systematic Theology, 2nd ed.*](https://amzn.to/40QF8z5) to be the most authoritative and accurate. When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness.
+I consider Dr. Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much smaller and more useful for travel. 
+
+I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
+
+<!-- When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness. -->
 
 <!-- There're quite a few recommendations here, but if I could only pick one, I think I'd choose J. I. Packer's Concise Theology in it's hardcover ESV edition from Crossway. The reason being is because it is concise. -->
 
@@ -146,9 +150,9 @@ When I study theology in-depth, I consider Dr. Wayne Grudem's [*Systematic Theol
 <!-- [Unfiltered](https://amzn.to/3lyYGrq) -->
 <!-- |[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)| -->
 
-<span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
+<span style="font-style:Italic;font-size:2.1em;">Recommended Bibles</span>
 
-These **highly recommended** versions and studies push our understanding far beyond our previous limitations. I study with the [ESV Study Bible](https://amzn.to/3WsN0Uw) & [Net Bible, Full Notes Edition](https://amzn.to/3WLAgbr). I read leisurely with the NLT. If I'm traveling, I'll use something small like the LSB NT w/ Psalms & Proverbs.
+These highly recommended versions and studies push our understanding far beyond our previous limitations. I study with the [ESV Study Bible](https://amzn.to/3WsN0Uw) and [Net Full Notes](https://amzn.to/3WLAgbr). I read leisurely with the NLT. If I'm traveling, I'll use something small like the LSB NT w/ Psalms & Proverbs.
 
 <!-- Whereas the ESV represents the worlds most accurate formal equivalent bible, accuracy and literalness not being completely equal, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible. -->
 
@@ -214,7 +218,7 @@ The New Living Translation (NLT) is the most readable Bible version on earth acc
 
 This ministry does not recommend a Bible of the paraphrase type. We would instead direct you to dynamic equivalence. Paraphrases are NOT translations.
 
-<span style="font-style:Italic;font-size:32px;">Advanced Study Material</span>
+<span style="font-style:Italic;font-size:2.1em;">Advanced Study Material</span>
 
 This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
 
@@ -229,7 +233,7 @@ This section details even more advanced material for those who want to deep dive
 |Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)|
 |Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
-<!-- <span style="font-style:Italic;font-size:32px;">Doctrinal Positions</span>
+<!-- <span style="font-style:Italic;font-size:2.1em;">Doctrinal Positions</span>
 
 - [Essential Doctrine](https://bit.ly/3XJY5AB)
 - Historic Protestant, Evangelical, Reformed
