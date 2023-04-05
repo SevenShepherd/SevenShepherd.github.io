@@ -90,7 +90,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Texts</span>
 
-I consider Dr. Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much smaller and more useful for travel. 
+I consider Dr. Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much more succinct and useful for travel. 
 
 I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
 
