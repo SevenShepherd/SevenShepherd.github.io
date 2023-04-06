@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:10:00 -0500
+date: 2023-02-02 2:12:12 -0500
 categories: salvation
 published: true
 ---
@@ -218,7 +218,7 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
 - Chuck Smith (BA, Life Bible College)
-- Dr. Jack Van Impe (PhD, PIU)
+- Dr. Jack Van Impe (PhD, Pacific)
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -616,7 +616,7 @@ See Free Grace Theology below for expansion.
 <span style="font-style:Italic;font-size:2.1em;color:Black;">Conclusion</span>
 
 - Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
-- The Reformed traditions consistantly produce some of the finest minds theology has ever produced throughout history all the way down to modern times. They single handedly are responsible for some of the most accurate Bible versions (i.e. ESV, NET, etc.) on eath.
+- The Reformed traditions consistantly produce some of the finest minds theology has ever produced throughout history all the way down to modern times. They single handedly are responsible for some of the most accurate Bible versions (i.e. ESV, NET, etc.) on earth.
 
 <!-- - The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
     - <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>
