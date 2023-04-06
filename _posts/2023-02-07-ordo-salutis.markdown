@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:15:15 -0500
+date: 2023-02-02 2:20:20 -0500
 categories: salvation
 published: true
 ---
@@ -10,18 +10,18 @@ published: true
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
 
-Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
+Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz BuD.D.eus and Jacob Carpov in the first half of the eighteenth century.
 
 <a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
 - <a href="#reformed">I. Reformed Theology</a>
-    - <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
-    - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
-    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
-    - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
-    - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
-    - <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
-    - <a href="#macarthur">John MacArthur (DD, Talbot)</a>
+    - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
+    - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+    - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+    - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+    - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+    - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
 - <a href="#roman">II. Roman Catholicism</a>
 - <a href="#lutheran">III. Lutheran Theology</a>
 - <a href="#arminian">IV. Arminian Theology</a>
@@ -35,52 +35,48 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 Calvinism is a somewhat misleading label since it draws heavily from the writings of the early church father [St. Augustine of Hippo (354 – 430)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) who lived during the 4th and 5th centuries, twelve hundred years prior to John Calvin (1509 – 1564) and the 16th century Protestant [Reformation](https://en.wikipedia.org/wiki/Reformation). Theologians who followed the Augustinian tradition on this point included St. Thomas Aquinas and Martin Luther, an Augustinian monk. Everyone in this category can call themselves *Augustinian-Pauline Christians*.
 
-> The man who most adamantly defended the Augustinian view of predestination was Martin Luther. ... Shortly after Luther's death, the Lutheran body, under the leadership of Philip Melancthon took a different turn and did not follow Martin Luther in his articulation of the view of predestination. But I think it's safe to say that Luther wrote more on predestination than Calvin ever dreamed of. &mdash; [R. C. Sproul (PhD, Whitefield Theological Seminary)](https://youtu.be/--fafICBts8?t=983)
+> The man who most adamantly defended the Augustinian view of predestination was Martin Luther. ... Shortly after Luther's death, the Lutheran body, under the leadership of Philip Melancthon took a different turn and did not follow Martin Luther in his articulation of the view of predestination. But I think it's safe to say that Luther wrote more on predestination than Calvin ever dreamed of. &mdash; [R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/--fafICBts8?t=983)
 
-✅ Reformed theology is securely [monergistic](https://carm.org/dictionary/monergism/). Denominations associated with this theological tradition of Christianity are Presbyterianism, Reformed Churches, Reformed Baptists, etc.
+✅ Reformed theology is securely [monergistic](https://carm.org/dictionary/monergism/). Denominations associated with this theological tradition of Christianity are Presbyterianism, Reformed Churches, Reformed Baptists, some Anglican etc.
 
 <!-- Dr. Packer is an evangelical theologian in the low-church Anglican and Calvinist traditions. -->
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
-<!-- - John Calvin (1559)
-- *1703 - 1758 Jonathan Edwards (Yale)
-    - The greatest theological mind that the New World has ever produced.
-- *1797 - 1878 Charles Hodge (Principal, Princeton)
-- 1820 - 1898 Robert L. Dabney (Prof., Union)
-- *1892 - 1932 Geerhardus J. Vos (PhD, Strasburg; Prof., Princeton & Amsterdam)
-- *1851 - 1921 B. B. Warfield (Prof., Princeton)
-- Shedd (Prof., Union)
+<!-- 
 - Herman Bavinck
-- Murray (Prof., Westminister)
-- *1873 - 1957 Louis Berkhof (BD, Princeton)
-- 1623 - 1687 Francis Turretin (Prof., Geneva)
-- 2013 Robert Reymond
 - Van Genderen & Velema
-- *Michael Horton (PhD, Oxford)
-- *Robert Duncan Culver
-
-> The basic difference may be said to boil down to the question: Who determines who are to be
-saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on
-human choice. In a strange way, so agrees Norman Geisler, who in an effort to avoid what he calls
-extreme Calvinism manages to become not a moderate Calvinist but a pretty good synergist, i.e. an
-Arminian.
-1 According to the Augustinian scheme (including all the leading Reformers), God does. He
-not only provides the Savior but makes ‘his people’ desire to receive Him. And this modifies one
-way or another many other aspects of doctrine and of Christian life, personal and corporate.
-
 - *Frame
-- *Dr. R. Michael Allen & Dr. Scott R. Swain
-- *Barret book with horton
-- *Robert Letham (PhD, Aberdeen) -->
+-->
 
-- <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
-- <a href="#packer">J. I. Packer (PhD, Oxford)</a>
-- <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
-- <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
-- <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
-- <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
-- <a href="#macarthur">John MacArthur (DD, Talbot)</a>
+- Contemporary scholars
+    - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
+    - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+    - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+    - <a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a>
+    - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+    - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+    - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - <a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a>
+    - <a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a>
+    - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+    - <a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a>
+    - <a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a>
+    - <a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a>
+    - <a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a>
+    - <a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a>
+- Historical Scholars
+    - (1509 - 1564) John Calvin
+    - (1623 - 1687) Francis Turretin (Prof., Geneva)
+    - (1703 - 1758) Jonathan Edwards (Pres., Princeton) 
+        - The greatest theological mind the New World ever produced.
+    - (1797 - 1878) Charles Hodge (Prof. & Prin., Princeton)
+    - (1820 - 1894) W. G. T. Shedd (Prof., Vermont, Auburn, Andover)
+    - (1820 - 1898) Robert L. Dabney (Prof., Union)
+    - (1851 - 1921) B. B. Warfield (Prof. & Prin., Princeton)
+    - (1873 - 1957) Louis Berkhof (Prof., Calvin)
+    - (1892 - 1932) Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)
+    - (1898 - 1975) John Murray (Prof., Westminister)
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -111,7 +107,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 - [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
 - [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
 - Traditional
     - Ludwig Ott
@@ -125,7 +121,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
 
 1. **The sacrament of *baptism*** (Tit 3:5) 
-    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
+    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in aD.D.ition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
 2. **The sacrament of *confirmation*** (Acts 8:15-17)
     - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
 3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
@@ -141,12 +137,12 @@ The order of salvation in Roman Catholic theology is usually expressed in terms 
 
 Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell, with hints of [sacerdotalism](https://carm.org/dictionary/sacerdotalism/) without being sacerdotalist.
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
-- Francis Pieper (DD, Northwestern)
+- Francis Pieper (D.D., Northwestern)
 - John Theodore Mueller (ThD, Xenia)
 
-<!-- - <a href="#pieper">Francis Pieper (DD, Northwestern; Prof. Concordia)</a>
+<!-- - <a href="#pieper">Francis Pieper (D.D., Northwestern; Prof. Concordia)</a>
 - <a href="#mueller">John Theodore Mueller (ThD, Xenia; Prof. Concordia)</a> -->
 
 <!-- - [⚠️ Deviated from Luther, and Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983)
@@ -179,7 +175,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 🚫 Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Denominations associated with this theological tradition are Wesleyan and Methodist.
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
@@ -202,7 +198,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
+        >⚠️  In aD.D.ition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
 
 ---
 
@@ -213,15 +209,15 @@ The truth is every tradition mentioned in this article, except Roman Catholicism
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of
 God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
-✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in addition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
+✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in aD.D.ition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
 
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
 - Chuck Smith (BA, Life Bible College)
-- Skip Heitzig (PhD, Trinity Southwest)
-- Jack Van Impe (PhD, Pacific)
+- Skip Heitzig (Ph.D., Trinity Southwest)
+- Jack Van Impe (Ph.D., Pacific)
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -261,9 +257,9 @@ Free Grace Theology is a minority view among the faculty members at Dallas Theol
 [⚠️ Category mistakes in Greek](https://sevenshepherd.github.io/repent/)<br>
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
-- <a href="#ryrie">Charles C. Ryrie (PhD, Edinburgh)</a>
+- <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -294,13 +290,13 @@ Amyraldism, also known as Amyraldianism, is an attempt to reconcile the doctrine
 
 > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
 
-> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
+> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
 ⚠️ Amyraldianism seems to be [Synergistic](https://carm.org/dictionary/synergism/).
 
 <!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
 - <span>Norman Geisler (MA, Wheaton)</span>
 
@@ -319,7 +315,7 @@ Amyraldism, also known as Amyraldianism, is an attempt to reconcile the doctrine
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
-> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (PhD, University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY) -->
+> "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird (Ph.D., University of Queensland) Academic Dean and Lecturer in Theology and New Testament, Ridley College (Melbourne), [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY) -->
 
 <!-- 👑 ...
 
@@ -335,9 +331,9 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 <a name="grudem" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Wayne Grudem</a>
 
-[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
+[**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
-> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
+> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD)
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -353,7 +349,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 9. Death (going to be with the Lord)
 10. Glorification (receiving a resurrection body)
 
-<!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (PhD, Cambridge)</a></sup> -->
+<!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine by Wayne Grudem (Ph.D., Cambridge)</a></sup> -->
 
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup> -->
 
@@ -363,7 +359,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 <a name="packer" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. J. I. Packer</a>
 
-[**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+[**James Innell Packer**](https://youtu.be/gExLXpPJD.D.8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
 Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
@@ -428,7 +424,7 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <a name="sproul" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. R. C. Sproul</a>
 
-[**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+[**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
 <!-- > When we talk about the order of salvation, we talk about the ordo salutis, we are talking not so much about the temporal order of things but rather a logical order of things. The difference between temporal priority and logical priority is this, when we say that justification is by faith alone we do not mean by that that a person has faith and then five years later is justified. No, the second that you have faith you are counted righteous by God and are covered with the robes of the righteousness of Christ and have all the benefits of justification. There is no time lapse in there, but yet we say that justification is by faith, meaning that faith comes logically before justification or we would say “faith is by  justification alone.” We know that justification does not precede faith, but faith precedes justification in terms of its logical order. -->
 
@@ -487,7 +483,7 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <a name="wallace" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Daniel B. Wallace</a>
 
-[**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the [NET Bible](https://amzn.to/3WLAgbr), which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
+[**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (Ph.D., Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the [NET Bible](https://amzn.to/3WLAgbr), which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
 
 > The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version. &mdash; Dr. Wayne Grudem
 
@@ -499,7 +495,7 @@ He also pursued postdoctoral studies in a variety of places, **including in Camb
 
 <a name="demarest" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Bruce Demarest</a>
 
-**Bruce Demarest** (PhD, University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum.
+**Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum.
 
 <!-- > Moreover, saints are **elected** in Christ (Eph 1:4); they are **called** to Christ (1Cor 1:9); they **believe** the truth about Christ (Rom 10:9; 1 John 5:1, 5); they turn to Christ in **repentance** (1 Pet 2:25); they are **justified** by the blood of Christ (Heb 13:12); **regeneration** takes place in Christ (2 Cor 5:17; Tit 3:5-6); they are united with Christ (Gal 2:20); they are transformed into the image of Christ (2 Cor 3:18); they are kept and **preserved** by Christ (1 John 5:18); and they will receive the **glory** of Christ (2 Thess 2:14). -->
 
@@ -549,7 +545,7 @@ Covenant
 
 <a name="bird" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Michael F. Bird</a>
 
-Michael F. Bird (PhD, University of Queensland) is Academic Dean and a Lecturer in Theology and New Testament at Ridley College (Melbourne), having previously taught at Brisbane School of Theology and Highland Theological College. He studied at Malyon College and the University of Queensland. He is also Distinguished Research Professor of Theology at Houston Baptist University.
+Michael F. Bird (Ph.D., University of Queensland) is Academic Dean and a Lecturer in Theology and New Testament at Ridley College (Melbourne), having previously taught at Brisbane School of Theology and Highland Theological College. He studied at Malyon College and the University of Queensland. He is also Distinguished Research Professor of Theology at Houston Baptist University.
 
 > "Understandably the verbs in Romans 8:29-30 (foreknown, predestined, called, justified, and glorified) have **proven to be the building blocks for theologians to trace salvation** from God’s election of believers to their glorification in heaven." &mdash; Michael F. Bird, [Evangelical Theology. 2nd ed. 5.3 Order of Salvation, p. 565.](https://amzn.to/3xFJhrY)
 
@@ -570,7 +566,7 @@ Sequence of salvation
 
 <a name="macarthur" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. John MacArthur</a>
 
-[**John MacArthur**](https://youtu.be/b47CJlE-ut0) (DDiv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
+[**John MacArthur**](https://youtu.be/b47CJlE-ut0) (D.D.iv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -595,7 +591,7 @@ Sequence of salvation
 
 <a name="ryrie" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Charles C. Ryrie</a>
 
-**Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
+**Charles Caldwell Ryrie** (Ph.D., University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
 
 [⚠️ Minority view (Category mistakes in Greek)](https://sevenshepherd.github.io/repent/)<br>
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
