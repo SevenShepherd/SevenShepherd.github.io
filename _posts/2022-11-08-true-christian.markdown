@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:25:20 -0500
+date: 2023-01-01 9:30:20 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -36,9 +36,9 @@ published: true
 
 </style>
 
-<!-- This article will represent two selves, both mine, one before any theological studies took place in my life and one after studying theology. This is so you can see the difference. This first part will represent my current self after having studied soteriology. The second part is a time capsule of my past self and understandings without any influence or bias other than the random studies I agreed with from my own experience reading the bible.
+<!-- This article will represent two selves, both mine, one before any theological studies took place in my life and one after studying theology. This is so you can see the difference. This first part will represent my current self after having studied soteriology. The second part is a time capsule of my past self and understandings without any influence or bias other than the random studies I agreed with from my own experience reading the bible. -->
 
-> "... all physical theories, their mathematical expressions apart ought to lend themselves to so simple a description 'that even a child could understand them.'" &mdash; Einstein: His Life and Times (1972). p. 418. -->
+<!-- > "... all physical theories, their mathematical expressions apart ought to lend themselves to so simple a description 'that even a child could understand them.'" &mdash; Einstein: His Life and Times (1972). p. 418. -->
 
 <!-- <div class="mt">CONTENTS</div> -->
 <!-- <span style="font-style:Italic;font-size:2em;">CONTENTS</span>
@@ -98,7 +98,7 @@ If a Christian's life is devoid of the <span style="font-weight:bold;color:#8000
 
 <!-- Not only will they not inherit the Kingdom of God (Gal. 5:21), false professors will end up in the lake which burns with fire and brimstone forever. -->
 
-# True Saving Faith Always RESULTS In Good Works
+# True Saving Faith Always Results In Obedience To God
 
 The Bible says that faith without works is dead (James 2:20,26). It even goes as far as to say *"... a person is justified <span style="font-weight:bold;color:#800080;">by works</span> and not by faith alone."* (James 2:24 ESV). 
 

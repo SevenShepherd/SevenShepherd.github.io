@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:00:00 -0500
+date: 2023-02-02 2:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -107,11 +107,22 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Roman Catholicism</a>
 
-The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
-
 - [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
 - [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
 - [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+- Traditional
+    - Ludwig Ott
+- Post-Vatican II
+    - Richard P. McBrien
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+
+The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
 
 1. **The sacrament of *baptism*** (Tit 3:5) 
     - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
@@ -128,7 +139,7 @@ The order of salvation in Roman Catholic theology is usually expressed in terms 
 
 <a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheran Theology</a>
 
-Still debating if I should call this Melancthonism instead of Lutheranism, since Lutherans [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
+Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
@@ -197,15 +208,17 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Evangelicalism</a>
 
-✅ [Monergistic](https://carm.org/dictionary/monergism/). This section represents Evangelicals in the broadly reformed tradition. The truth is every tradition mentioned in this article is evangelical. This is where I put people who don't fall into the other categories. Theologians listed here may or may not agree with every point of the ordo salutis presented.
+The truth is every tradition mentioned in this article, except Roman Catholicism, is evangelical. This section represents Evangelicals in the broadly reformed tradition, who don't fall into the other categories. Theologians listed here may or may not agree with every point of the ordo salutis presented, I'll eventually cover them individually.
+
+> Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of
+God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
+
+✅ [Monergistic](https://carm.org/dictionary/monergism/). This is what I grew up in before recently becoming Reformed.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
 - Chuck Smith (BA, Life Bible College)
 - Dr. Jack Van Impe (PhD, PIU)
-
-<!-- - <a href="#smith">Chuck Smith (BA, Life Bible College)</a>
-- <a href="#impe">Dr. Jack Van Impe (PhD, PIU)</a> -->
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -238,7 +251,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="free" href="#contents" style="font-size:2em;">VI. "Free Grace" Theology</a>
 
-Free Grace Theology is a minority view among the faculty members at Dallas Theological Seminary, more specifically this view comes from a man named Zane Hodges who taught from 1959 to 1986. Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to "Lordship Salvation."
+Free Grace Theology is a minority view among the faculty members at Dallas Theological Seminary, more specifically this view comes from a man named Zane Hodges who taught from 1959 to 1986. Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to "Lordship Salvation." Many of them claim their teachings come from Lewis Sperry Chafer who wrote his systematic theology in 1947-48 and his abridged work in 1988.
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
@@ -274,12 +287,15 @@ The following description was supplied by Dr. Charles C. Ryrie in <span style="c
 
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">VII. Amyraldism</a>
 
-Amyraldism, also known as Amyraldianism, seems to me to be a failed attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. This view is also known as moderate calvinism, and "four-point" calvinism.
+Amyraldism, also known as Amyraldianism, is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. This view is also known as moderate calvinism, and "four-point" calvinism.
 
-> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a moderate Calvinist but a pretty good **synergist**, i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
 
-- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
-- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
+> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
+
+⚠️ Amyraldianism seems to be [Synergistic](https://carm.org/dictionary/synergism/).
+
+<!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
