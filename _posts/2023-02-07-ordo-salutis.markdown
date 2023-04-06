@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:12:12 -0500
+date: 2023-02-02 2:15:15 -0500
 categories: salvation
 published: true
 ---
@@ -139,7 +139,7 @@ The order of salvation in Roman Catholic theology is usually expressed in terms 
 
 <a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheran Theology</a>
 
-Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
+Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell, with hints of [sacerdotalism](https://carm.org/dictionary/sacerdotalism/) without being sacerdotalist.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
@@ -177,7 +177,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="arminian" href="#contents" style="font-size:2.1em;">IV. Arminian theology</a>
 
-🚫 Arminians are thrice [Synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Descriptions provided by Dr. Bruce Demarest. Denominations associated with this theological tradition are Wesleyan and Methodist.
+🚫 Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Denominations associated with this theological tradition are Wesleyan and Methodist.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
@@ -188,7 +188,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 1. **Universal, external calling**
     - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
-        >⚠️ [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) is a modification of the Pelagianism heresy. This doctrine was officially condemned by the Council of Orange in 529 A.D. 
+        >⚠️ [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) is a modification of the Pelagianism heresy which was officially condemned by the church at the Council of Ephesus in A.D. 431. Semi-Pelagianism was also condemned by the Council of Orange in 529 A.D. 
 
 2. **Repentance and faith**
     - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
@@ -208,17 +208,20 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Evangelicalism</a>
 
-The truth is every tradition mentioned in this article, except Roman Catholicism, is evangelical. This section represents Evangelicals in the broadly reformed tradition, who don't fall into the other categories. Theologians listed here may or may not agree with every point of the ordo salutis presented, I'll eventually cover them individually.
+The truth is every tradition mentioned in this article, except Roman Catholicism, is evangelical. This section represents Evangelicals in the broadly reformed tradition, who don't fall into the other categories. **Theologians listed here may or may not agree with every point of the ordo salutis presented**, I'll eventually cover them individually.
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of
 God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
-✅ [Monergistic](https://carm.org/dictionary/monergism/). This is what I grew up in before recently becoming Reformed.
+✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in addition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
+
+<!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
 - Chuck Smith (BA, Life Bible College)
-- Dr. Jack Van Impe (PhD, Pacific)
+- Skip Heitzig (PhD, Trinity Southwest)
+- Jack Van Impe (PhD, Pacific)
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -334,7 +337,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 [**Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
-> We must guard jealously the fact that faith alone is what saves us, not faith plus obedience. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
+> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD)
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -363,7 +366,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 [**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
-Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; Chapter 59 Works.
+Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/). Argues against legalism in chapter 65 and against antinomianism in chapter 66. This is the chapter order, that's why it's bulleted instead of numbered. J. I. Packer is a low-church Anglican and reformed.
 
