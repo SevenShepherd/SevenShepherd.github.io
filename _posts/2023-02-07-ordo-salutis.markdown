@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 1:55:55 -0500
+date: 2023-02-02 2:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -15,14 +15,23 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
 - <a href="#reformed">I. Reformed Theology</a>
-- <a href="#roman">II. Roman Catholic Theology</a>
+    - <a href="#grudem">Wayne Grudem (PhD, Cambridge)</a>
+    - <a href="#packer">J. I. Packer (PhD, Oxford)</a>
+    - <a href="#sproul">R. C. Sproul (PhD, Whitefield)</a>
+    - <a href="#wallace">Daniel B. Wallace (PhD, Dallas)</a>
+    - <a href="#demarest">Bruce Demarest (PhD, Manchester)</a>
+    - <a href="#bird">Michael F. Bird (PhD, Queensland)</a>
+    - <a href="#macarthur">John MacArthur (DD, Talbot)</a>
+- <a href="#roman">II. Roman Catholicism</a>
 - <a href="#lutheran">III. Lutheran Theology</a>
 - <a href="#arminian">IV. Arminian Theology</a>
 - <a href="#evangelical">V. Evangelical Theology</a>
 - <a href="#free">VI. Free Grace Theology</a>
+- <a href="#amyraldism">VII. Amyraldism</a>
 
+---
 
-<a name="reformed" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Reformed Theology & Augustinianism</a>
+<a name="reformed" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Reformed Theology</a>
 
 Calvinism is a somewhat misleading label since it draws heavily from the writings of the early church father [St. Augustine of Hippo (354 – 430)](https://en.wikipedia.org/wiki/Augustine_of_Hippo) who lived during the 4th and 5th centuries, twelve hundred years prior to John Calvin (1509 – 1564) and the 16th century Protestant [Reformation](https://en.wikipedia.org/wiki/Reformation). Theologians who followed the Augustinian tradition on this point included St. Thomas Aquinas and Martin Luther, an Augustinian monk. Everyone in this category can call themselves *Augustinian-Pauline Christians*.
 
@@ -75,7 +84,7 @@ way or another many other aspects of doctrine and of Christian life, personal an
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
 
 1. **Calling**
     - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
@@ -93,6 +102,8 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
     - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
 8. **Glorification**
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
+
+---
 
 <a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Roman Catholicism</a>
 
@@ -113,9 +124,11 @@ The order of salvation in Roman Catholic theology is usually expressed in terms 
 5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
     - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
 
+---
+
 <a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheran Theology</a>
 
-Still debating if I should call this Melancthonism instead of Lutheranism, since what Lutherans believe today [deviated from Luther, and Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
+Still debating if I should call this Melancthonism instead of Lutheranism, since Lutherans [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination.](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
@@ -130,7 +143,7 @@ Still debating if I should call this Melancthonism instead of Lutheranism, since
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
 
 1. **Calling or vocation**
     - God offers forgiveness of sins and right standing with himself through the offer of the Gospel that brings with it sufficient grace for the unconverted to respond to the message.
@@ -149,28 +162,38 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 8. **Conservation**
     - Provided that the justified continue to heed biblical warnings about defection and persist in faith, God will preserve them safely to the end. The unbelieving, however, may fall away from grace and forfeit salvation. Christians must not presume on the Spirit’s grace.
 
+---
+
 <a name="arminian" href="#contents" style="font-size:2.1em;">IV. Arminian theology</a>
 
-- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
-- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
+🚫 Arminians are thrice [Synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Descriptions provided by Dr. Bruce Demarest. Denominations associated with this theological tradition are Wesleyan and Methodist.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians</span>
 
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
 
 1. **Universal, external calling**
-    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. Prevenient or “exciting” grace, which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
+    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
+        >⚠️ [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) is a modification of the Pelagianism heresy. This doctrine was officially condemned by the Council of Orange in 529 A.D. 
+
 2. **Repentance and faith**
-    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a synergistic activity.
+    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
+        >⚠️ Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. p. 35.
+
 3. **Justification**
     - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
 4. **Sanctification**
     - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
+        >⚠️ Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” p. 35.
+
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
+        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
+
+---
 
 <a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Evangelicalism</a>
 
@@ -186,7 +209,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation"</a>
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
 
 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
@@ -211,9 +234,11 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
+---
+
 <a name="free" href="#contents" style="font-size:2em;">VI. "Free Grace" Theology</a>
 
-Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to Lordship Salvation. 
+Free Grace Theology is a minority view among the faculty members at Dallas Theological Seminary, more specifically this view comes from a man named Zane Hodges who taught from 1959 to 1986. Free grace theology was systematized by theologians such as Dr.’s Charles Ryrie and Zane Hodges in the 1980s as a response to "Lordship Salvation."
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
@@ -245,11 +270,27 @@ The following description was supplied by Dr. Charles C. Ryrie in <span style="c
     - Necessity &mdash; Salvation is always through faith, not because of faith (Eph. 2:8). Faith is the channel through which we receive God’s gift of eternal life; it is not the cause...
     - Kinds &mdash; Intellectual / historical, miracle, temporary, saving.
 
-<!-- <a href="#amyraldism" style="font-style:Italic;font-size:1.6em;">Amyraldism "Moderate Calvinism"</a>
+---
 
-- <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
+<a name="amyraldism" href="#contents" style="font-size:2.1em;">VII. Amyraldism</a>
+
+Amyraldism, also known as Amyraldianism, seems to me to be a failed attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. This view is also known as moderate calvinism, and "four-point" calvinism.
+
+> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a moderate Calvinist but a pretty good **synergist**, i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/)
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians</span>
+
+- <span>Norman Geisler (MA, Wheaton)</span>
+
+<!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
 
 
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+?
 
 <!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">The Apostle Paul</span>
 
@@ -270,6 +311,8 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 2. Called
 3. Justified
 4. Glorified -->
+
+---
 
 <a name="grudem" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Wayne Grudem</a>
 
@@ -296,6 +339,8 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5" style="color:#A8A8A8">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup> -->
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40QF8z5">*Systematic Theology, Second Edition: An Introduction to Biblical Doctrine</a></sup>
+
+---
 
 <a name="packer" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. J. I. Packer</a>
 
@@ -360,6 +405,8 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3JOaVKp">*Concise Theology: A Guide to Historic Christian Beliefs. Part Three: God Revealed as Lord of Grace & Part Four: God Revealed as Lord of Destiny.</a></sup>
 
+---
+
 <a name="sproul" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. R. C. Sproul</a>
 
 [**Robert Charles Sproul**](https://youtu.be/-HMb9YjRq8Q) (PhD, Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
@@ -417,6 +464,8 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 |Peace|The first fruit of justification is peace with God. We were enemies, but the war is over. God declares a peace treaty with all those who put their faith in Christ.|
 |Access to God| God does not allow His enemies into an intimate relationship with Him, but once we have been reconciled to God through Christ, we have access into His presence, and we have joy in the glory of who He is. (Rom. 5:2)| -->
 
+---
+
 <a name="wallace" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Daniel B. Wallace</a>
 
 [**Daniel Baird Wallace**](https://youtu.be/NikVdhp0YFs) (PhD, Dallas Theological Seminary) is a Senior Research Professor of New Testament Studies, as well as founder and executive director of the Center for the Study of New Testament Manuscripts, and senior New Testament editor for the [NET Bible](https://amzn.to/3WLAgbr), which was used by Dr. Wayne Grudem of Harvard, and Cambridge, as well as 200 other scholars when preparing the English Standard Version.
@@ -426,6 +475,8 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 He also pursued postdoctoral studies in a variety of places, **including in Cambridge** at Tyndale House, Christ's College, Clare College, and Westminster College, in Germany at the Institute for New Testament Textual Research, University of Tübingen, and the Bavarian State Library, and in Greece at the National Library in Athens.
 
 <sup style="font-size:14px;"><a href="https://amzn.to/40Mo1hF">*Wallace is a Presbyterian who has endorsed Dr. Wayne Grudem</a></sup>
+
+---
 
 <a name="demarest" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Bruce Demarest</a>
 
@@ -475,6 +526,8 @@ Covenant
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3HMIbPZ">*The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology). pp. 36-44</a></sup>
 
+---
+
 <a name="bird" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Michael F. Bird</a>
 
 Michael F. Bird (PhD, University of Queensland) is Academic Dean and a Lecturer in Theology and New Testament at Ridley College (Melbourne), having previously taught at Brisbane School of Theology and Highland Theological College. He studied at Malyon College and the University of Queensland. He is also Distinguished Research Professor of Theology at Houston Baptist University.
@@ -493,6 +546,8 @@ Sequence of salvation
 7. Glorification
 
 <sup style="font-size:14px;"><a href="https://amzn.to/3xFJhrY">*Evangelical Theology. 2nd ed. 5.3 Order of Salvation. pp. 564-602.</a></sup>
+
+---
 
 <a name="macarthur" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. John MacArthur</a>
 
@@ -517,6 +572,8 @@ Sequence of salvation
 
 <a href="https://thegenevanfoundation.com/the-order-of-salvation/"><img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"></a> -->
 
+---
+
 <a name="ryrie" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Charles C. Ryrie</a>
 
 **Charles Caldwell Ryrie** (PhD, University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
@@ -538,9 +595,12 @@ See Free Grace Theology below for expansion.
 
 <sup style="font-size:14px;color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</sup>
 
+---
+
 <span style="font-style:Italic;font-size:2.1em;color:Black;">Conclusion</span>
 
-- Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/" style="color:#A8A8A8">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
+- Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
+- The Reformed traditions consistantly produce some of the finest minds theology has ever produced throughout history all the way down to modern times. They single handedly are responsible for some of the most accurate Bible versions (i.e. ESV, NET, etc.) on eath.
 
 <!-- - The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
     - <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>
