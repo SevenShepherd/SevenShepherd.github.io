@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:35:35 -0500
+date: 2023-02-02 2:37:37 -0500
 categories: salvation
 published: true
 ---
@@ -271,8 +271,12 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 <span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
 - Chuck Smith (BA, Life Bible College)
+    - Arminian view of Election: *"God clearly does choose, but man must also accept God's invitation to salvation."* 
+    - Calvist view of Perserverence: *"Apparently there are many who claim to be believers that in fact are not. ... We do believe in perseverance of the saints (true believers), but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."*
 - Skip Heitzig (Ph.D., Trinity Southwest)
+    - Probably the same as Chuck Smith.
 - Jack Van Impe (Ph.D., Pacific)
+    - Saved so as by fire kind of preacher.
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
