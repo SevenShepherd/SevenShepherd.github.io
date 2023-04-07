@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:25:20 -0500
+date: 2023-02-02 2:27:27 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
 
-Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz BuD.D.eus and Jacob Carpov in the first half of the eighteenth century.
+Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
 <a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
