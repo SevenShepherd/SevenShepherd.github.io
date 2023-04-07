@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:20:20 -0500
+date: 2023-02-02 2:25:20 -0500
 categories: salvation
 published: true
 ---
@@ -49,6 +49,36 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
 - *Frame
 -->
 
+<!-- | Historical Scholars | Years | Positions | 
+| --- | :-: | --- |
+| John Calvin | 1509 - 1564 |  | 
+| Francis Turretin | 1623 - 1687 | Prof., Geneva | 
+| Jonathan Edwards | 1703 - 1758 | Pres., Princeton | 
+| Charles Hodge | 1797 - 1878 | Prof. & Prin., Princeton | 
+| W. G. T. Shedd | 1820 - 1894 | Prof., Vermont, Auburn, Andover | 
+| Robert L. Dabney | 1820 - 1898 | Prof., Union | 
+| B. B. Warfield | 1851 - 1921 | Prof. & Prin., Princeton | 
+| Louis Berkhof | 1873 - 1957 | Prof., Calvin | 
+| Geerhardus J. Vos | 1892 - 1932 | Prof., Princeton; Ph.D., Strasburg | 
+| John Murray | 1898 - 1975 | Prof., Westminster |
+||| 
+|**Contemporary Scholars**|Years|Degrees|
+|Wayne Grudem |b. 1948 - |Ph.D., Cambridge|
+|J. I. Packer |1926 - 2020|Ph.D., Oxford|
+|R. C. Sproul |1939 - 2017|Ph.D., Whitefield|
+|D. A. Carson |b. 1946 -|Ph.D., Cambridge|
+|Daniel B. Wallace |b. 1952 -|Ph.D., Dallas|
+|Bruce Demarest |1937 - 2014|Ph.D., Manchester|
+|Michael F. Bird |b. 1973 -|Ph.D., Queensland|
+|Michael Horton |b. 1964 -|Ph.D., Oxford|
+|Matthew Barrett |b. 1980 -|Ph.D., SBTS|
+|John MacArthur |b. 1939 -|D.D., Talbot|
+|Robert Letham |b. 1957 -|Ph.D., Aberdeen|
+|R. Michael Allen |b. 1972 -|Ph.D., Wheaton|
+|Scott R. Swain |b. 1976 -|Ph.D., Trinity|
+|Robert Duncan Culver |1916 - 2015|Th.D., Grace|
+|Robert L. Reymond |1932 - 2013|Ph.D., Bob Jones| -->
+
 - Contemporary scholars
     - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
     - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
@@ -77,6 +107,20 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
     - (1873 - 1957) Louis Berkhof (Prof., Calvin)
     - (1892 - 1932) Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)
     - (1898 - 1975) John Murray (Prof., Westminister)
+
+
+<!-- | Historical Scholars | Years | Positions | 
+| --- | --- | --- |
+| John Calvin | 1509 - 1564 |  | 
+| Francis Turretin | 1623 - 1687 | Prof., Geneva | 
+| Jonathan Edwards | 1703 - 1758 | Pres., Princeton | 
+| Charles Hodge | 1797 - 1878 | Prof. & Prin., Princeton | 
+| W. G. T. Shedd | 1820 - 1894 | Prof., Vermont, Auburn, Andover | 
+| Robert L. Dabney | 1820 - 1898 | Prof., Union | 
+| B. B. Warfield | 1851 - 1921 | Prof. & Prin., Princeton | 
+| Louis Berkhof | 1873 - 1957 | Prof., Calvin | 
+| Geerhardus J. Vos | 1892 - 1932 | Prof., Princeton; Ph.D., Strasburg | 
+| John Murray | 1898 - 1975 | Prof., Westminster |  -->
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
@@ -121,7 +165,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
 
 1. **The sacrament of *baptism*** (Tit 3:5) 
-    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in aD.D.ition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
+    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
 2. **The sacrament of *confirmation*** (Acts 8:15-17)
     - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
 3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
@@ -198,7 +242,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-        >⚠️  In aD.D.ition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
+        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
 
 ---
 
@@ -209,7 +253,7 @@ The truth is every tradition mentioned in this article, except Roman Catholicism
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of
 God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
-✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in aD.D.ition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
+✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in addition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
 
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
