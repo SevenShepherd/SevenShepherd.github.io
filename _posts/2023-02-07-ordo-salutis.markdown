@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:27:27 -0500
+date: 2023-02-02 2:30:30 -0500
 categories: salvation
 published: true
 ---
 
 <!-- will you really let your anger and pride blind you from the truth; hatred and ignorance go hand in hand -->
+
+<!-- You'll be proving yourself until the day you die if you give more precedence to the opinions of others rather than God -->
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
 
@@ -79,25 +81,43 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
 |Robert Duncan Culver |1916 - 2015|Th.D., Grace|
 |Robert L. Reymond |1932 - 2013|Ph.D., Bob Jones| -->
 
-- Contemporary scholars
+<!-- - Contemporary scholars
     - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
     - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
     - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
-    - <a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a>
-    - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
     - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+        - <a href="https://amzn.to/3HMIbPZ">The Cross and Salvation</a>
+    - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+        - [NET Bible: Full Notes Edition](https://amzn.to/3WLAgbr)
+        - [Reinventing Jesus](https://amzn.to/3jOlQJX)
+    - <a href="#gurry">Peter J. Gurry (Ph.D., Cambridge)</a>
+        - [Myths and Mistakes](https://amzn.to/3Yz7L0Z)
+    - <a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a>
+        - [Biblical Theology Study Bible](https://amzn.to/417o3A0)
     - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+        - [Evangelical Theology](https://amzn.to/3xFJhrY)
     - <a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a>
+        - [Reformation Theology: A Systematic Summary](https://amzn.to/3GmDCMn)
+        - [The Christian Faith: A Systematic Theology for Pilgrims on the Way](https://amzn.to/3ZL2tjT)
     - <a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a>
+        - [Reformation Theology: A Systematic Summary](https://amzn.to/3GmDCMn)
     - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+        - <a href="https://amzn.to/3YdNY8h">Biblical Doctrine: A Systematic Summary of Bible Truth</a>
     - <a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a>
+        - [Systematic Theology](https://amzn.to/3KjTQai)
     - <a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a>
+        - [Christian Dogmatics: Reformed Theology for the Church Catholic](https://amzn.to/41b8FCQ)
     - <a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a>
+        - [Christian Dogmatics: Reformed Theology for the Church Catholic](https://amzn.to/41b8FCQ)
     - <a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a>
+        - [Systematic Theology: Biblical and Historical](https://amzn.to/3nPf9IZ)
     - <a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a>
+        [A New Systematic Theology of the Christian Faith: 2nd Edition](https://amzn.to/3Mn1Qdf)
 - Historical Scholars
     - (1509 - 1564) John Calvin
+        - [Institutes of the Christian Religion](https://amzn.to/3Uln25b)
     - (1623 - 1687) Francis Turretin (Prof., Geneva)
+        - [Institutes of Elenctic Theology (3 Volumes)](https://amzn.to/3nXJeWN)
     - (1703 - 1758) Jonathan Edwards (Pres., Princeton) 
         - The greatest theological mind the New World ever produced.
     - (1797 - 1878) Charles Hodge (Prof. & Prin., Princeton)
@@ -106,7 +126,41 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
     - (1851 - 1921) B. B. Warfield (Prof. & Prin., Princeton)
     - (1873 - 1957) Louis Berkhof (Prof., Calvin)
     - (1892 - 1932) Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)
-    - (1898 - 1975) John Murray (Prof., Westminister)
+    - (1898 - 1975) John Murray (Prof., Westminister)  -->
+
+|Early Church Fathers||
+|:-:|:-:|
+|354 – 430|St. Augustine of Hippo|
+|||
+|**Historical Scholars**||
+|1509 – 1564|John Calvin|
+|1623 – 1687|Francis Turretin (Prof., Geneva)|
+|1703 – 1758|Jonathan Edwards (Pres., Princeton) The greatest theological mind the New World ever produced.|
+|1797 – 1878|Charles Hodge (Prof. & Prin., Princeton)|
+|1820 – 1894|W. G. T. Shedd (Prof., Vermont, Auburn, Andover)|
+|1820 – 1898|Robert L. Dabney (Prof., Union)|
+|1851 – 1921|B. B. Warfield (Prof. & Prin., Princeton)|
+|1873 – 1957|Louis Berkhof (Prof., Calvin)|
+|1892 – 1932|Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)|
+|1898 – 1975|John Murray (Prof., Westminister)|
+|||
+|**Contemporary Scholars**||
+|1916 – 2015|<a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a>|
+|1926 – 2020|<a href="#packer">J. I. Packer (Ph.D., Oxford)</a>|
+|1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a>|
+|1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="https://amzn.to/3HMIbPZ">The Cross and Salvation</a>|
+|1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>|
+|1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a>|
+|1946 – Present|<a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[Biblical Theology Study Bible](https://amzn.to/417o3A0)|
+|1948 – Present|<a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>|
+|1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a>|
+|1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[NET Bible: Full Notes Edition](https://amzn.to/3WLAgbr)<br>[Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|1964 – Present|<a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a>|
+|1974 – Present|<a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>|
+|? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a>|
+|? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a>|
+|? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a>|
+    
 
 
 <!-- | Historical Scholars | Years | Positions | 
