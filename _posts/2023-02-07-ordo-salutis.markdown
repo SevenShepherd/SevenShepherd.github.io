@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:12:00 -0500
+date: 2023-02-02 3:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -350,7 +350,7 @@ Free Grace Theology is a minority view among the faculty members at Dallas Theol
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
-[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [✅ Monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
+[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [Monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
 - If you said *"change of mind"* you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
 Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
@@ -400,13 +400,25 @@ I have placed Lordship Salvation below Free Grace Theology because it may be a f
 |||
 |:-:|:-:|
 |Legalism<br><span style="font-weight:bold;color:darkred;">False</span>|`Works = Justification`<br>Pharisees and Judaizers|
-|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>[Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) & Cults<br>Roman Catholicism<br>**Possibly "Lordship Salvation"**|
-|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**|
-|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`<br>**Possibly "Free Grace" Theology**|
+|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>[Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) & Cults<br>Roman Catholicism|
+|Grey Zone closer to synergism|**"Lordship Salvation"**|
+|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**<br>Augustinianism / Reformed|
+|Grey Zone closer to antinomianism|**"Free Grace" Theology**|
+|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`|
 
 <!-- <br>Augustinianism / Calvinism<br> -->
 
-The reason I describe both lordship salvation and chaferanism ("free grace" theology) with the word "possibly" is because it "allows" for the possibility to fall into heresy, not that the groups as a whole are heretic, as many who are a part of these groups are not in the extreme. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
+
+<!-- |||
+|:-:|:-:|
+|Legalism<br><span style="font-weight:bold;color:darkred;">False</span>|`Works = Justification`<br>Pharisees and Judaizers|
+|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>[Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) & Cults<br>Roman Catholicism<br>**Possibly "Lordship Salvation"**|
+|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**|
+|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`<br>**Possibly "Free Grace" Theology**| -->
+
+<!-- <br>Augustinianism / Calvinism<br> -->
+
+The reason I describe both lordship salvation and chaferanism ("free grace" theology) in grey zones is because they allow for the possibility to fall into heresy and false assurance, not that they always do. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
 
 1. Does true saving faith ***include*** obedience or ***result*** in obedience?
     - If you said *"includes"* you're not historical in your Christianity as no historic Protestant confession says that saving faith includes obedience. The safe answer is that it naturally *"results"* in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism.
