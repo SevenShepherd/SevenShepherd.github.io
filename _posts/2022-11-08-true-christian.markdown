@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:30:20 -0500
+date: 2023-01-01 9:32:32 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -190,7 +190,7 @@ This articles purpose is to supply a guide for Christians to test themselves, th
 - I. Do Christians Practice Sin?
 - II. How The Bible Defines Sin
 - III. Habitual Or Absolute Cessation From Sin?
-- IV. The Way You Live Is Evidence Of Your Repentance
+- IV. Repentance Is Evidence Of Your Salvation
 - V. Jesus Is Our Lord And Master
 - VI. Grace Alone Through Faith Alone
 - VII. Conclusion
@@ -398,7 +398,7 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 **The evidence of your repentance, which precedes your salvation by Grace, is proven by the way that you live (Mt 3:8). Works are the result of salvation, not it’s cause, which is by Grace alone. Jesus taught that you could identify people by their fruit, that is by the way that they act (Matthew 7:16-21).** This is how we know it wasn't just lip service (Tit 1:16; Is 29:13; Mt 15:8) when we asked God into our hearts.
 
-<div class="mt">IV. THE WAY YOU LIVE IS EVIDENCE OF YOUR REPENTANCE</div>
+<div class="mt">IV. REPENTANCE IS EVIDENCE OF YOUR SALVATION</div>
 
 <div class="mt" style="font-size:21px;">꧁ Matthew 3:8,10 ꧂</div>
 
