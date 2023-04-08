@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:00:00 -0500
+date: 2023-02-02 3:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -350,8 +350,19 @@ Free Grace Theology is a minority view among the faculty members at Dallas Theol
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
-[⚠️ Category mistakes in Greek](https://sevenshepherd.github.io/repent/)<br>
-[✅ Monergistic](https://carm.org/dictionary/monergism/)
+[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [✅ Monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
+- If you said *"change of mind"* you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+
+Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
+
+> Repentance is a **heartfelt sorrow** for sin, a renouncing of it, and a **sincere commitment to forsake it and walk in obedience to Christ**. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD).
+
+It should be noted that one can apply the correct meaning of sorrow and contrition to *"change of mind"*. Instead of stopping at an intellectual assent to facts. These quotes are still applying the correct meaning. While Dr. Grudem is most correct, these are acceptable definitions.
+
+> The New Testament word for repentance means changing one’s mind so
+that one’s views, values, goals, and ways are changed and **one’s whole life is lived differently**. **The change is radical**, both inwardly and outwardly; mind and judgment, will and affections, behaviour and lifestyle, motives and purposes, are all involved. **Repenting means starting to live a new life.** &mdash; [J. I. Packer (Ph.D., Oxford)](https://youtu.be/gExLXpPJDd8). [Concise Theology](https://amzn.to/3JOaVKp).
+
+> In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx).
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
@@ -404,10 +415,18 @@ The reason I describe both lordship salvation and chaferanism ("free grace" theo
 3. Is repentance ***evidence*** of our salvation or is it ***proof*** of our salvation?
     - If you answered *"proof"* then your views are contrary to historical Christianity which states that it is *"evidence"* of our salvation, a way to have assurance.
 4. Extra Credit: Does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
-    - If you said *"change of mind"* you have deviated from Christianity as a whole. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, and any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+    - If you said *"change of mind"* you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
+Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
 
+> Repentance is a **heartfelt sorrow** for sin, a renouncing of it, and a **sincere commitment to forsake it and walk in obedience to Christ**. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/3k3gESD).
 
+It should be noted, that on point 4, one can apply the correct meaning of sorrow, contrition to *"change of mind"*. Instead of stopping at an intellectual assent to facts. These quotes are still applying the correct meaning. While Dr. Grudem is most correct, these are acceptable definitions.
+
+> The New Testament word for repentance means changing one’s mind so
+that one’s views, values, goals, and ways are changed and **one’s whole life is lived differently**. **The change is radical**, both inwardly and outwardly; mind and judgment, will and affections, behaviour and lifestyle, motives and purposes, are all involved. **Repenting means starting to live a new life.** &mdash; [J. I. Packer (Ph.D., Oxford)](https://youtu.be/gExLXpPJDd8). [Concise Theology](https://amzn.to/3JOaVKp).
+
+> In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx).
 
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Amyraldism</a>
 
