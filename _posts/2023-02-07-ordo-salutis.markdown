@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:45:45 -0500
+date: 2023-02-02 2:50:50 -0500
 categories: salvation
 published: true
 ---
@@ -29,7 +29,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - <a href="#arminian">IV. Arminian Theology</a>
 - <a href="#evangelical">V. Evangelical Theology</a>
 - <a href="#free">VI. Free Grace Theology</a>
-- <a href="#amyraldism">VII. Amyraldism</a>
+- <a href="#lordship">VII. Lordship Salvation</a>
+- <a href="#amyraldism">VIII. Amyraldism</a>
 
 ---
 
@@ -344,7 +345,36 @@ The following description was supplied by Dr. Charles C. Ryrie in <span style="c
 
 ---
 
-<a name="amyraldism" href="#contents" style="font-size:2.1em;">VII. Amyraldism</a>
+<a name="lordship" href="#contents" style="font-size:2.1em;">VII. Lordship Salvation</a>
+
+I have placed Lordship Salvation below Free Grace Theology because it may be a fabricated term, as historical protestant theologies have always stated that *"sola fide"* naturally results in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism; however, lordship salvation may be a concern and distinct from any other theology listed in this article, let's look at some concerns.
+
+<!-- > I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster) Historical Protestant Position](https://amzn.to/3k3gESD) -->
+
+|||
+|:-:|:-:|
+|Legalism<br><span style="font-weight:bold;color:darkred;">False</span>|`Works = Justification`<br>Pharisees and Judaizers|
+|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>[Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) & Cults<br>Roman Catholicism<br>**Possibly "Lordship Salvation"**|
+|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**|
+|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`<br>**Possibly "Free Grace" Theology**|
+
+<!-- <br>Augustinianism / Calvinism<br> -->
+
+The reason I describe both lordship salvation and chaferanism ("free grace" theology) with the word "possibly" is because it "allows" for the possibility to fall into heresy, not that the groups as a whole are heretic, as many who are a part of these groups are not in the extreme. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
+
+1. Does true saving faith ***include*** obedience or ***result*** in obedience?
+    - If you said *"includes"* you're not historical in your christianity as no historic Protestant confession says that saving faith includes obedience. The safe answer is that it naturally *"results"* in obedience to God.
+2. Does scripture connect faith with obedience or does it equate faith with obedience?
+    - If you said *"equate"* you've deiated from historical Christianity. The answer is that scripture *"connects"* faith with obedience.
+3. Is repentance evidence of our salvation or is it proof of our salvation?
+    - If you answered *"proof"* then your views are contrary to historical Christianity which states that it is *"evidence"* of our salvation, a way to have assurance.
+4. Extra Credit: Does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
+    - If you said *"change of mind"* you have deviated from Christianity as a whole. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, and any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+
+
+
+
+<a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Amyraldism</a>
 
 Amyraldism, also known as Amyraldianism, is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. This view is also known as moderate calvinism, and "four-point" calvinism.
 
