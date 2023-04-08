@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:42:42 -0500
+date: 2023-02-02 2:45:45 -0500
 categories: salvation
 published: true
 ---
@@ -45,11 +45,13 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
+Wallace, Carson, & Demarest listed below technically have not written a systematic theology, but they have contributed works of equal caliber.
+
 <!-- 
 - Herman Bavinck
 - Van Genderen & Velema
 - *Frame
--->
+--> 
 
 <!-- | Historical Scholars | Years | Positions | 
 | --- | :-: | --- |
@@ -97,8 +99,9 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
 |1820 – 1894|W. G. T. Shedd (Prof., Vermont, Auburn, Andover)|
 |1820 – 1898|Robert L. Dabney (Prof., Union)|
 |1851 – 1921|B. B. Warfield (Prof. & Prin., Princeton)|
-|1873 – 1957|Louis Berkhof (Prof., Calvin)|
-|1892 – 1932|Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)|
+|1854 - 1921|Herman Bavinck (Prof., Kampen; Ph.D., Leiden)<br>[▫️ Reformed Dogmatics (4 Volume Set)](https://amzn.to/3KsMlxU)<br>[▫️ Reformed Dogmatics: Abridged](https://amzn.to/3ZSjDvK)|
+|1873 – 1957|Louis Berkhof (Prof., Calvin)<br>[▫️ A Summary of Christian Doctrine](https://amzn.to/417xDmw)|
+|1892 – 1932|Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)<br>[▫️ Reformed Dogmatics](https://amzn.to/3KJtyj0)|
 |1898 – 1975|John Murray (Prof., Westminister)|
 |||
 |**Contemporary Scholars**||
@@ -118,8 +121,6 @@ Calvinism is a somewhat misleading label since it draws heavily from the writing
 |? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
 |? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
     
-
-
 <!-- | Historical Scholars | Years | Positions | 
 | --- | --- | --- |
 | John Calvin | 1509 - 1564 |  | 
@@ -271,8 +272,8 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 <span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
 - Chuck Smith (BA, Life Bible College)
-    - Election: *"God clearly does choose, but man must also accept God's invitation to salvation."* 
-    - Perseverance: *"Apparently there are many who claim to be believers that in fact are not. ... We do believe in perseverance of the saints (true believers), but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."*
+    - Election: *"**God clearly does choose**, but man must also accept God's invitation to salvation."* 
+    - Perseverance: *"Apparently there are many who claim to be believers that in fact are not. ... **We do believe in perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."*
 - Skip Heitzig (Ph.D., Trinity Southwest)
     - Probably the same as Chuck Smith.
 - Jack Van Impe (Ph.D., Pacific)
@@ -418,7 +419,7 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 
 <a name="packer" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. J. I. Packer</a>
 
-[**James Innell Packer**](https://youtu.be/gExLXpPJD.D.8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+[**James Innell Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
 Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
@@ -625,7 +626,7 @@ Sequence of salvation
 
 <a name="macarthur" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. John MacArthur</a>
 
-[**John MacArthur**](https://youtu.be/b47CJlE-ut0) (D.D.iv, Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
+[**John MacArthur**](https://youtu.be/b47CJlE-ut0) (D.D., Talbot Theological Seminary) holds a Masters of Divinity from Talbot Theological Seminary, with honors; and two honorary degrees, one from Talbot Theological Seminary (Doctor of Divinity, 1977) and the other from Grace Graduate School (1976). He is also president of The Master's College and Seminary and has written more than 150 books.
 
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
@@ -674,7 +675,7 @@ See Free Grace Theology below for expansion.
 <span style="font-style:Italic;font-size:2.1em;color:Black;">Conclusion</span>
 
 - Protestants compose the largest percent of the <a href="https://sevenshepherd.github.io/science/">greatest minds</a> ever to have existed in the sciences, especially for the last hundred years of nobel prize.
-- The Reformed traditions consistantly produce some of the finest minds theology has ever produced throughout history all the way down to modern times. They single handedly are responsible for some of the most accurate Bible versions (i.e. ESV, NET, etc.) on earth.
+- The Reformed traditions consistantly produce some of the finest minds theology has ever produced throughout history all the way down to modern times. They single handedly are responsible for some of the most accurate Bible versions on earth.
 
 <!-- - The <a href="https://sevenshepherd.github.io/24-reasons-esv-net-nlt/" style="color:#A8A8A8">most accurate</a> Bibles mankind has ever produced come from those who have concluded a reformed theology. Metzger's NOAB being the most ecumenical.
     - <a href="https://amzn.to/3WsN0Uw" style="color:#A8A8A8">ESV Study Bible</a>
