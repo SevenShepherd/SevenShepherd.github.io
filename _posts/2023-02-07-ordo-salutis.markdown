@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:10:00 -0500
+date: 2023-02-02 3:12:00 -0500
 categories: salvation
 published: true
 ---
@@ -64,7 +64,7 @@ This article will not cover the following groups because they are not legitimate
     - Those who abuse grace and practice lawlessness.
     - Jude 4; Ro 6:1-2; 1Jn 2:3-6; Mt 7:21,23
     - Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5.
-- Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Oneness Pentecostal)
+- Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Islam)
     - [Those who reject essential doctrine.](https://bit.ly/3XJY5AB)
 
 ---
