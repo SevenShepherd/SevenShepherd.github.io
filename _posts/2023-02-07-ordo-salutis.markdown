@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 2:55:55 -0500
+date: 2023-02-02 3:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -31,6 +31,41 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - <a href="#free">VI. Free Grace Theology</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
 - <a href="#amyraldism">VIII. Amyraldism</a>
+
+<span style="font-size:1.4em;">Organized By Orthodoxy</span>
+
+- Monergistic & Orthodox (Sound Doctrine)
+    - <a href="#reformed">Reformed Theology</a>
+        - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
+        - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+        - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+        - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+        - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+        - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+        - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+    - <a href="#lutheran">Lutheran Theology</a>
+    - <a href="#evangelical">Evangelical Theology</a>
+- Heterodoxy (Questionable)
+    - <a href="#amyraldism">Amyraldism</a>
+    - <a href="#lordship">Lordship Salvation</a>
+    - <a href="#free">Free Grace Theology</a>
+- Synergistic
+    - <a href="#roman">Roman Catholicism</a>
+    - <a href="#arminian">Arminian Theology</a>
+
+<span style="font-size:1.4em;">Heresy & Apostasy</span>
+
+This article will not cover the following groups because they are not legitimate. Heresy (Warped or No Essential Doctrine), Apostasy (Secular & Occult Groups).
+
+- Legalism (Pharisees & Judaizers)
+    - Ephesians 2:8-10; Galatians 2:21;5:4
+    - Rom 3:20,28; Gal 2:16; 3:10-12
+- Antinomianism (Ungodly & Condemned)
+    - Those who abuse grace and practice lawlessness.
+    - Jude 4; Ro 6:1-2; 1Jn 2:3-6; Mt 7:21,23
+    - Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5.
+- Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Oneness Pentecostal)
+    - [Those who reject essential doctrine.](https://bit.ly/3XJY5AB)
 
 ---
 
