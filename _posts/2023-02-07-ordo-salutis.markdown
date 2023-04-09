@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:15:00 -0500
+date: 2023-02-02 3:20:00 -0500
 categories: salvation
 published: true
 ---
@@ -32,9 +32,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - <a href="#lordship">VII. Lordship Salvation</a>
 - <a href="#amyraldism">VIII. Amyraldism</a>
 
-<span style="font-size:1.4em;">Organized By Orthodoxy</span>
+<!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
-- Monergistic & Orthodox (Sound Doctrine)
+<!-- - Monergistic & Orthodox (Sound Doctrine)
     - <a href="#reformed">Reformed Theology</a>
         - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
         - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
@@ -51,11 +51,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - <a href="#free">Free Grace Theology</a>
 - Synergistic
     - <a href="#roman">Roman Catholicism</a>
-    - <a href="#arminian">Arminian Theology</a>
+    - <a href="#arminian">Arminian Theology</a> -->
 
 <span style="font-size:1.4em;">Heresy & Apostasy</span>
 
-This article will not cover the following groups because they are not legitimate. Heresy (Warped or No Essential Doctrine), Apostasy (Secular & Occult Groups).
+This article will not cover the following groups because they are not legitimate. Heretics (warped cults or no essential doctrine), or apostates (secular & occult Groups).
 
 - Legalism (Pharisees & Judaizers)
     - Ephesians 2:8-10; Galatians 2:21;5:4
@@ -350,8 +350,8 @@ Free Grace Theology is a minority view among the faculty members at Dallas Theol
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
-[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [Monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
-- If you said *"change of mind"* you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
+- If you said *"change of mind,"* in the sense of an intellectual assent to facts, you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
 Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
 
@@ -418,7 +418,7 @@ I have placed Lordship Salvation below Free Grace Theology because it may be a f
 
 <!-- <br>Augustinianism / Calvinism<br> -->
 
-The reason I describe both lordship salvation and chaferanism ("free grace" theology) in grey zones is because they allow for the possibility to fall into heresy and false assurance, not that they always do. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
+The reason I describe both lordship salvation and chaferanism ("free grace" theology) in grey zones is because they may allow for the possibility to fall into heresy and false assurance, not that they always do. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
 
 1. Does true saving faith ***include*** obedience or ***result*** in obedience?
     - If you said *"includes"* you're not historical in your Christianity as no historic Protestant confession says that saving faith includes obedience. The safe answer is that it naturally *"results"* in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism.
@@ -427,7 +427,7 @@ The reason I describe both lordship salvation and chaferanism ("free grace" theo
 3. Is repentance ***evidence*** of our salvation or is it ***proof*** of our salvation?
     - If you answered *"proof"* then your views are contrary to historical Christianity which states that it is *"evidence"* of our salvation, a way to have assurance.
 4. Extra Credit: Does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
-    - If you said *"change of mind"* you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+    - If you said *"change of mind,"* in the sense of an intellectual assent to facts, you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
 Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
 
