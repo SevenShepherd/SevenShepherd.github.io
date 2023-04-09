@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:20:00 -0500
+date: 2023-02-02 3:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -442,19 +442,19 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Amyraldism</a>
 
-Amyraldism, also known as Amyraldianism, is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. This view is also known as moderate calvinism, and "four-point" calvinism.
-
-> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
 > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
-⚠️ Amyraldianism seems to be [Synergistic](https://carm.org/dictionary/synergism/).
+⚠️ Further investigation is necessary to determine whether or not it is [Synergistic](https://carm.org/dictionary/synergism/).
+
+> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
 
 <!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
-- <span>Norman Geisler (MA, Wheaton)</span>
+- <span>Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)</span>
 
 <!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
 
