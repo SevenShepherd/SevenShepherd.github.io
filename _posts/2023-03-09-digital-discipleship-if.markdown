@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❓ Fundamentals Of Digital Discipleship, Part XI: The If Statement"
-date: 2023-03-09 04:35:00 -0500
+date: 2023-03-09 04:37:00 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -43,7 +43,7 @@ When people first attempt to pick up a programming language they usually notice 
 ```py
 x, y = 1000, 10
 
-# testing two numbers for equality inside the condition of an if statement. The code block in the if statement is never reached because 100 is not equal to 10.
+# testing two numbers for equality inside the condition of an if statement. The code block in the if statement is never reached because 1000 is not equal to 10.
 if x == y:
     print(f"{x} is equal to {y}")
 

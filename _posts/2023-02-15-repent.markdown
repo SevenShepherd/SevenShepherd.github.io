@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-02-11 06:40:40 -0500
+date: 2023-02-11 06:45:45 -0500
 categories: repent repentance
 published: true
 ---
@@ -52,7 +52,7 @@ After some research I have discovered errors within Free Grace theology, which s
 
 <!-- without scholarly support from the academic community or any standard Greek reference work  Applying the meaning *"change of mind"* to any instance of repentance would be a category mistake. -->
 
-1. The true meaning of repentance, according to the worlds most authoritative Greek lexicons, is *"feel remorse, repent, be converted (in religio-ethical sense)."* Applying the meaning *"change of mind,"* exclusively, to any instance of repentance would be a category mistake.
+1. The true meaning of repentance, according to the worlds most authoritative Greek lexicons, is *"feel remorse, repent, be converted (in religio-ethical sense)."* Applying the meaning *"change of mind,"* exclusively, to any instance of repentance in the NT, would be a category mistake.
 2. Faith is not merely an intellectual assent to facts. Saving faith includes knowledge, approval, and personal trust.
 3. Historical *"Justification by faith alone,"* true saving faith, always **results** in obedience and good deeds **after** justification. Faith alone, never justification by faith plus works. <!--144-->
 
@@ -253,6 +253,28 @@ I think it's important to state that ***"Free Grace" theology isn't a false gosp
 > My conclusion... is that **the Free Grace movement preaches a weakened gospel** because it avoids any call to people to repent of their sins. &mdash; Dr. Wayne Grudem (PhD, Cambridge; DDiv, Westminster Theological Seminary), ["Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD). p. 74.
 
 Keep in mind that [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130) taught for 20 years before "Free Grace" theology was ever systematized, and stressed repentance and grace, as well as obedience and holiness in the lives of Christians **after justification** just as this ministry does. 
+
+<a href="https://amzn.to/40bZAbM" style="font-weight:bold;font-size:30px;color:Black;">Theological Dictionary of the New Testament: Abridged in One Volume</a>
+
+TDNT is one of the world's most authoritative Greek Lexicon's. This lexicon is repeatedly taken out of context by false teachers on the word repentance. For instance, when they give the secular Greek meaning instead of the meanings applied to OT and NT contexts. Here is the correct context within TDNT. pp. 574-575.
+
+> <span style="font-size:1.2em;font-weight:bold;">E. metanoéō and metánoia in the NT.</span><br><br>
+>**1. The Linguistic Understanding.** The two words are most common in the Synoptics and Acts (the verb 21 times, the noun 14). Paul has the verb only once, and the noun four times. The verb occurs 12 times in Revelation, the noun three times in Hebrews and once in 2 Peter. The popular sense occurs in Lk. 17:3-4 and 2 Cor. 7:9-10 (―regret‖ or ―remorse‖). The usual meaning is ―change of mind‖ or ―conversion‖ with the full OT nuance. This nuance is important, for it makes a big difference whether the call of Jesus to repent is a call to total conversion or simply a call to sorrow for sin, a change of mind, or acts of restitution.
+>
+>**2. The Concept of Conversion.**<br>
+>>**(1) John the Baptist.** Conversion is the core of the message of John, who proclaims the imminence of judgment and demands a turning to God as God is turning to us. The summons acquires new urgency inasmuch as it stands in the light of eschatological revelation. This is a once-for-all conversion, an inner change, that is required even of the righteous and must find expression in acts of love. A baptism of conversion signifies that God is at work to change our nature for the new aeon. God himself grants conversion as both gift and task; it is for us to let it be given and to authenticate it as the divine basis of a new being.
+>
+>>**(2) Jesus.** In the teaching of Jesus metanoeíte is the imperative that is implied in the indicative of the message of the kingdom. Conversion is a basic requirement that follows from the reality of the eschatological kingdom as it is present in Jesus' person. The preaching and miracles are a call to conversion in a final and unconditional decision, in a once-for-all turning to God in total obedience (cf. Mk. 1:15; Mt. 12:39ff.; 11:20ff.; Mt. 4:17). This is the point of Jesus‘ teaching even when the terms are not used. Not merely evil, but anything that might be put before God must be renounced (Mt. 5:29-30; 10:32ff., etc.). Conversion applies to all people, demanding a complete commitment that seeks forgiveness in full trust and surrender. Faith is its positive aspect (cf. Mk. 1:15). It is not a human achievement, for it involves becoming small and receptive like a child (Mt. 18:3). It is God‘s gift, but as such a binding requirement. By the baptism of the Spirit Jesus imparts the divine power that creates those who are subject to the divine rule, i.e., converted people. In all its severity, then, the message is one of joy. metánoia is not law, but gospel.
+>
+>>**(3) Primitive Christianity.**<br>
+>>
+>>>**a. General.** In the apostolic kerygma conversion is a total requirement. The disciples preach it in Mk. 6:12 and are directed to summon people to it in Lk. 24:47. metánoia is at the heart of their message in Acts (5:31; 8:22; 11:18, etc.). It is a basic article in Heb. 6:1. Peter‘s sermon connects it with baptism (Acts 2:38). It is a turning from evil to God (8:22; 20:21). It is both a divine gift and a human task (5:31; 2:38). It embraces all life (cf. Acts 3:19 etc.). Its basis is Christ‘s saving work (5:31). The Spirit effects it (11:18). Faith goes with it (26:18). The imminent end gives urgency to its proclamation (Rev. 2:5, 16; 3:3). The goal is remission of sins (Acts 3:19) and final salvation (11:18).<br>
+>>
+>>>**b. Paul.** In Rom. 2:4 metánoia in view of the judgment is what God in his goodness seeks for us. It is God‘s gift (2 Tim. 2:25). It means a radical break with the past (2 Cor. 12:21). Psychologically it involves remorse (2 Cor. 7:9-10), but more deeply it is God‘s saving work. For Paul, the concept of faith embraces conversion with its implication of death and renewal. This explains his sparing use of the terms.<br>
+>>
+>>>**c. John.** In John, too, faith includes conversion. So does the new birth from God. The sharp line drawn between light and darkness etc. means that believing in God necessarily carries with it a turning from evil.<br>
+>>
+>>>**d. The Impossibility of a Second metanoía in Hebrews.** Hebrews stresses the total seriousness of conversion. We cannot command it at will (12:7). There is no renewal of it for apostates. What is at issue is not daily repentance but the decisive change that is a new creation. Those who are set in the circle of eschatological salvation, if they consciously arrest the movement and turn back from God, are exposed to eschatological judgment. Conversion is a totality, and hence its surrender is a total surrender.
 
 <a href="https://amzn.to/3I4m4ES" style="font-weight:bold;font-size:30px;color:Black;">A Greek-English Lexicon of the New Testament and Other Early Christian Literature</a>
 

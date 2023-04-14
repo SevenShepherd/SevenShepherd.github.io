@@ -51,7 +51,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
-<sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets (~100 lifetimes), 7.6m likes & retweets.</sup>
+<sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets, 7.6m likes & retweets.</sup>
 
 <!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
@@ -227,8 +227,9 @@ This section details even more advanced material for those who want to deep dive
 |||
 |:-:|:-:|
 |Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)|
-|Hebrew Lexicon|[The Hebrew and Aramaic Lexicon of the Old Testament](https://amzn.to/3S4JnTw)|
-|Greek Lexicon|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.](https://amzn.to/3I4m4ES)
+|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament](https://amzn.to/3S4JnTw)|
+|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.](https://amzn.to/3I4m4ES)
+|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume](https://amzn.to/40bZAbM)|
 |Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)|
 |Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)|
 |Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
