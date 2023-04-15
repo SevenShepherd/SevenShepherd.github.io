@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 19:55:55 -0500
+date: 2023-04-14 20:00:00 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -46,6 +46,12 @@ Remember that there are those out there who are both wise and skilled yet suffer
 So remember not to be fooled by the pride of this life, and instead to build your rewards in heaven rather than on earth, where the moth and rust corrupts and decays all the worthless physical and material wealth that you have wasted your time and damaged your walk with God by collecting.
 
 > <sup style="font-weight:bold;">19</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: <sup style="font-weight:bold;">20</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: <sup style="font-weight:bold;">21</sup> For where your treasure is, there will your heart be also. &mdash; Matthew 6:19-21 KJV
+
+Let us not be like the [seed that fell among the thorns](https://www.biblegateway.com/passage/?search=Matthew+13%3A1-23%3B+Luke+8%3A4-15%3B+Mark+4%3A2-20&version=NLT), for naked we entered this world and naked we will leave it. We should be content with shelter, food, and clothes.
+
+<!-- > <sup style="font-weight:bold;">7</sup> After all, we brought nothing with us when we came into the world, and we can’t take anything with us when we leave it. <sup style="font-weight:bold;">8</sup> So if we have enough food and clothing, let us be content. &mdash; 1 Timothy 6:7-8 NLT -->
+
+> <sup style="font-weight:bold;">7</sup> For we have brought nothing into this world and so<sup style="color:#A8A8A8;">[a]</sup> we cannot take a single thing out either. <sup style="font-weight:bold;">8</sup> But if we have food and shelter, we will be satisfied with that.<sup style="color:#A8A8A8;">[b]</sup> &mdash; 1 Timothy 6:7-8 NET
 
 The path walked by most will lead them to total destruction, do not follow the crowd to hell. It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, this is one who you should listen closely to and heed their words, for the way is narrow and hard that leads to heaven and very few ever find it.
 
