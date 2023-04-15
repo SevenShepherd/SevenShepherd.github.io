@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 19:46:54 -0500
+date: 2023-04-14 19:50:54 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -19,7 +19,7 @@ It's easy for a child, or one who is new to the faith, or immature in it, to won
 
 > <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 9:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB)
 
-It's important to understand this and keep the inspired words of the Holy God within you, because the children of the devil are many, and Satan will use them like pawns to speak against you when hardship finds you. Remember that in this world, all men will endure the vicissitudes of life, and it is not because you made a mistake, struggled against sin while fighting the good fight, or over something you're truly repentant of, no, it is simply the way life is for us all.
+It's important to understand this and keep the inspired words of the Holy God within you, because the children of the devil are many, and Satan will use them like pawns to speak against you when hardship finds you. Remember that in this world, all men will endure the vicissitudes of life, and it is not because you made a mistake, or over something you're truly contrite and repentant of, no, it is simply the way life is for us all.
 
 > ... For he gives his sunlight to both the evil and the good, and **he sends rain on the just and the unjust alike**. &mdash; [Matthew 5:45 NLT](https://www.biblegateway.com/passage/?search=Matthew+5:45&version=ESV;NLT)
 
@@ -49,7 +49,7 @@ So remember not to be fooled by the pride of this life, and instead to build you
 
 The path walked by most will lead them to total destruction, do not follow the crowd to hell. It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, though painful, it is necessary. Watch for those on the narrow path and heed their words, for the way is hard and difficult that leads to heaven and very few ever find it.
 
-> <sup style="font-weight:bold;">13</sup> “You can enter God’s Kingdom only through the narrow gate. The highway to hell[a] is broad, and its gate is wide for the many who choose that way. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">But the gateway to life is very narrow and the road is difficult, and only a few ever find it.</span> &mdash; Matthew 7:13-14 NLT
+> <sup style="font-weight:bold;">13</sup> “You can enter God’s Kingdom only through the narrow gate. The highway to hell<sup style="color:#A8A8A8;">[a]</sup> is broad, and its gate is wide for the many who choose that way. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">But the gateway to life is very narrow and the road is difficult, and only a few ever find it.</span> &mdash; Matthew 7:13-14 NLT
 
 <script>
     var refTagger = {
