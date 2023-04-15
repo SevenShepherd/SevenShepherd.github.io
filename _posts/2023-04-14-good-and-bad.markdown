@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 19:50:54 -0500
+date: 2023-04-14 19:55:55 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -47,7 +47,7 @@ So remember not to be fooled by the pride of this life, and instead to build you
 
 > <sup style="font-weight:bold;">19</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: <sup style="font-weight:bold;">20</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: <sup style="font-weight:bold;">21</sup> For where your treasure is, there will your heart be also. &mdash; Matthew 6:19-21 KJV
 
-The path walked by most will lead them to total destruction, do not follow the crowd to hell. It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, though painful, it is necessary. Watch for those on the narrow path and heed their words, for the way is hard and difficult that leads to heaven and very few ever find it.
+The path walked by most will lead them to total destruction, do not follow the crowd to hell. It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, this is one who you should listen closely to and heed their words, for the way is narrow and hard that leads to heaven and very few ever find it.
 
 > <sup style="font-weight:bold;">13</sup> “You can enter God’s Kingdom only through the narrow gate. The highway to hell<sup style="color:#A8A8A8;">[a]</sup> is broad, and its gate is wide for the many who choose that way. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">But the gateway to life is very narrow and the road is difficult, and only a few ever find it.</span> &mdash; Matthew 7:13-14 NLT
 
