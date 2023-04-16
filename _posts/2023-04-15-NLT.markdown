@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📔 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:23:23 -0500
+title: "📖 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
+date: 2023-04-15 01:25:25 -0500
 categories: nlt version
 published: true
 ---
@@ -39,7 +39,7 @@ After going through and meticulously applying every litmus test I could possibly
 
 Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)
 
 
 <script>
