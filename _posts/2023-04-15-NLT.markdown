@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📔 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:10:00 -0500
+date: 2023-04-15 01:15:15 -0500
 categories: nlt version
 published: true
 ---
@@ -12,7 +12,7 @@ While this video is primarily about the NRSVue and it's short comings, The NLT h
 
 > I must call the NRSVue’s rendering of 1 Corinthians what it is: a removal of something Paul said by the inspiration of the Spirit. &mdash; [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)
 
-After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointed to find this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
+After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment to find this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
 
 <script>
     var refTagger = {
