@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "📖 The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:40:40 -0500
-categories: nlt version
+title: "📖 The NRSVue Has Become Complete Trash In My Eyes. The NLT Is Amazing Except For This One Issue."
+date: 2023-04-15 01:45:45 -0500
+categories: nrsvue nlt version
 published: true
 ---
 
+<!-- Disappointed To Find This Bias Within The NLT... At Least It's Not Complete Trash Like The NRSVue -->
+
 <iframe width="385" height="315" src="https://www.youtube.com/embed/CJOw_Po_UIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<span style="font-style:Italic;font-size:1.6em;color:Black;">The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error</span>
 
 While this video is primarily about the NRSVue and it's short comings, The NLT has 1 of the problems mentioned in this video, specifically 1 Corinthians 6:9. [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords), author of [Authorized](https://amzn.to/3SYHVT3), has brought to my attention, a particularly dangerous error that has found it's way into one of the best dynamic translations ever made. If you own an NLT and a [pen](https://amzn.to/3WDHFdd), correct this in your bible.
 
@@ -25,9 +29,9 @@ I should say that the NLT, unlike the NRSVue, does in fact condemn within the sa
 |❌ Versions|Inaccurate Translations|
 |:-:|:-:|
 |<span style="font-weight:bold;color:darkred;">NRSVue</span>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, <span style="font-weight:bold;color:darkred;">male prostitutes</span>, men who engage in <span style="font-weight:bold;color:darkred;">illicit sex,</span>"</span>|
-|<span style="font-weight:bold;color:#E28D00;">NLT</span>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Don’t you realize that those who do wrong will not inherit the Kingdom of God? Don’t fool yourselves. Those who indulge in sexual sin, or who worship idols, or commit adultery, or are <span style="font-weight:bold;color:darkred;">male prostitutes</span>, or practice <span style="font-weight:bold;color:green;">homosexuality</span>,"</span>|
+|<span style="font-weight:bold;color:#efcc00;">NLT</span>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Don’t you realize that those who do wrong will not inherit the Kingdom of God? Don’t fool yourselves. Those who indulge in sexual sin, or who worship idols, or commit adultery, or are <span style="font-weight:bold;color:darkred;">male prostitutes</span>, or practice <span style="font-weight:bold;color:green;">homosexuality</span>,"</span>|
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
+<span style="font-style:Italic;font-size:1.6em;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
 
 The last two columns account for this articles context. For a full set of charts that include all of this ministries research, see [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 
