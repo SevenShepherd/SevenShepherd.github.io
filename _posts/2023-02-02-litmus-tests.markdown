@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:45:45 -0500
+date: 2023-02-02 02:50:50 -0500
 categories: quick reference
 published: true
 ---
-
-<span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span>
-
-This is currently under construction, look for the removal of this sign to signal the articles completion. **Complete sections are fully color coded. Refresh page for updates.**
 
 This is a quick reference of the logic deduced from the articles: 
 - [24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT](https://bit.ly/3kVeunT)
@@ -562,72 +558,76 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#BC3823;">TLV</span>|❌|❌|❔|
 |<span style="font-weight:bold;color:#BC3823;">YLT</span>|❌|❌|❔| -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin</span>
+<!-- <span style="font-weight:bold;color:Gold;font-size:21px;">꧁ Under Construction ꧂</span> -->
 
-|Version|Acts 1:16|Is 7:14|
-|:-:|:-:|:-:|
-|<span style="font-weight:normal;color:black;">AKJV</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">AMP</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">AMPC</span>|✔️|❔|
-|<span style="font-weight:normal;color:black;">ASV</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">BRG</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">CEB</span>|❌|❌|
-|<span style="font-weight:normal;color:black;">CEV</span>|🆗|✔️|
-|<span style="font-weight:normal;color:black;">CJB</span>|✔️|❌|
-|<span style="font-weight:normal;color:black;">CSB</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">DARBY</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">DLNT</span>|👑|➖|
-|<span style="font-weight:normal;color:black;">DRA</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">EHV</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">ERV</span>|❌|❌|
-|<span style="font-weight:normal;color:black;">ESV</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">ESVUK</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">EXB</span>|❌|❔|
-|<span style="font-weight:normal;color:black;">GNT</span>|🆗|❌|
-|<span style="font-weight:normal;color:black;">GNV</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">GW</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">HCSB</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">ICB</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">ISV</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">JUB</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">KJ21</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">KJV</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">LEB</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">LSB</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">MEV</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">MOUN.</span>|✔️|➖|
-|<span style="font-weight:normal;color:black;">MSG</span>|🆗|✔️|
-|<span style="font-weight:normal;color:black;">NABRE</span>|✔️|❌|
-|<span style="font-weight:normal;color:black;">NASB '20</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">NASB '95</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">NCB</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">NCV</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">NET</span>|✔️|❌|
-|<span style="font-weight:normal;color:black;">NIRV</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">NIV</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">NIVUK</span>|❌|✔️|
-|<span style="font-weight:normal;color:black;">NKJV</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">NLT</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">NLV</span>|👑|❌|
-|<span style="font-weight:normal;color:black;">NMB</span>|👑|➖|
-|<span style="font-weight:normal;color:black;">NOG</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">NRSV<br>A</span>|🆗|❌|
-|<span style="font-weight:normal;color:black;">NRSV<br>ACE</span>|🆗|❌|
-|<span style="font-weight:normal;color:black;">NRSV<br>CE</span>|🆗|❌|
-|<span style="font-weight:normal;color:black;">NRSV<br>UE</span>|❌|❌|
-|<span style="font-weight:normal;color:black;">NTE</span>|✔️|➖|
-|<span style="font-weight:normal;color:black;">OJB</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">PHIL.</span>|✔️|➖|
-|<span style="font-weight:normal;color:black;">RGT</span>|👑|➖|
-|<span style="font-weight:normal;color:black;">RSV</span>|✔️|❌|
-|<span style="font-weight:normal;color:black;">RSVCE</span>|✔️|❌|
-|<span style="font-weight:normal;color:black;">TLB</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">TLV</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">VOICE</span>|🆗|❔|
-|<span style="font-weight:normal;color:black;">WE</span>|🆗|➖|
-|<span style="font-weight:normal;color:black;">WEB</span>|✔️|✔️|
-|<span style="font-weight:normal;color:black;">WYC</span>|👑|✔️|
-|<span style="font-weight:normal;color:black;">YLT</span>|👑|✔️|
+<!-- This is currently under construction, look for the removal of this sign to signal the articles completion. -->
+
+<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
+
+|Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
+|:-:|:-:|:-:|:-:|:-:|
+|<span style="font-weight:bold;color:green;">AKJV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">AMP</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">AMPC</span>|✔️|❔|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ASV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">BRG</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">CEB</span>|❌|❌|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CEV</span>|🆗|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CJB</span>|✔️|❌|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CSB</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">DARBY</span>|✔️|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">DLNT</span>|👑|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">DRA</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">EHV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">ERV</span>|❌|❌|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESVUK</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">GNT</span>|🆗|❌|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">GNV</span>|👑|✔️|✔️|❔|
+|<span style="font-weight:bold;color:green;">GW</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">HCSB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ICB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">ISV</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:green;">JUB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">KJ21</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">KJV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">LEB</span>|👑|✔️|👑|✔️|
+|<span style="font-weight:bold;color:green;">LSB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MEV</span>|✔️|✔️|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">MOUN.</span>|✔️|➖|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MSG</span>|🆗|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">NABRE</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:green;">NASB '20</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NASB '95</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NCB</span>|✔️|✔️|❌|❌|
+|<span style="font-weight:bold;color:#efcc00;">NCV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|❌|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIRV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIVUK</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NKJV</span>|👑|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">NLT</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NLV</span>|👑|❌|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NMB</span>|👑|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NOG</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>A</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>ACE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>CE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:darkred;">NRSV<br>UE</span>|❌|❌|❌|❌|
+|<span style="font-weight:bold;color:#efcc00;">NTE</span>|✔️|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">OJB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">PHIL.</span>|✔️|➖|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RGT</span>|👑|➖|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RSV</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RSVCE</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:green;">TLB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">TLV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">VOICE</span>|🆗|❔|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">WE</span>|🆗|➖|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">WEB</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:green;">WYC</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">YLT</span>|👑|✔️|✔️|✔️|
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Version Information</span>
 
