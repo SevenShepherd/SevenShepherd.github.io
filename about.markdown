@@ -176,7 +176,9 @@ These highly recommended versions and studies push our understanding far beyond 
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[☩ **ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
-A study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award. In addition to this, the ESV is one of the most literal Bible versions on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). In addition to being literal and accurate, the ESV is easy to read, poetic, and memorizable.
+According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible. The ESV is the only version worthy of replacing the poetic KJV for the purpose of memorization, and is far more accurate at the same time.
+
+> “... The ESV is one of the few, and surpasses the others in its simple yet elegant style. In many respects **the ESV has accomplished in the 21st century what the KJV accomplished in the 17th**: a trustworthy, literary Bible that is suitable for daily reading, memorizing, and preaching.” &mdash; Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts
 
 - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
