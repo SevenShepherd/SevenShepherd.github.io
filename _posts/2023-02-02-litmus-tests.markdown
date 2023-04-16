@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:50:50 -0500
+date: 2023-02-02 02:55:55 -0500
 categories: quick reference
 published: true
 ---
@@ -602,7 +602,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:green;">NASB '95</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#E28D00;">NCB</span>|✔️|✔️|❌|❌|
 |<span style="font-weight:bold;color:#efcc00;">NCV</span>|❌|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|❌|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|🦶|👑|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIRV</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIV</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIVUK</span>|❌|✔️|✔️|✔️|
