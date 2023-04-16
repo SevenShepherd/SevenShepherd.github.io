@@ -1,0 +1,32 @@
+---
+layout: post
+title: "📔 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
+date: 2023-04-15 01:00:00 -0500
+categories: nlt version
+published: true
+---
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/CJOw_Po_UIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> I must call the NRSVue’s rendering of 1 Corinthians what it is: a removal of something Paul said by the inspiration of the Spirit. &mdash; [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)
+
+While this video is primarily about the NRSVue and it's short comings, The NLT has 1 of the problems mentioned in this video, specifically 1 Corinthians 6:9. [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords), author of [Authorized](https://amzn.to/3SYHVT3), has brought to my attention, a particularly dangerous error that has found it's way into one of the best dynamic translations ever made. If you own an NLT and a [pen](https://amzn.to/3WDHFdd), correct this in your bible.
+
+After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointed to find this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
