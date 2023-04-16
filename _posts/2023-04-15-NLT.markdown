@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:35:35 -0500
+date: 2023-04-15 01:40:40 -0500
 categories: nlt version
 published: true
 ---
@@ -13,6 +13,19 @@ While this video is primarily about the NRSVue and it's short comings, The NLT h
 > I must call the NRSVue’s rendering of 1 Corinthians what it is: a removal of something Paul said by the inspiration of the Spirit. &mdash; [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)
 
 After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment when I found this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
+
+|✅ Versions|Super Accurate Translations|
+|:-:|:-:|
+|<a href="https://www.biblegateway.com/passage/?search=1+cor+6%3A9&version=NET" style="font-weight:bold;color:green;">NET</a>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, <span style="font-weight:bold;color:green;">passive homosexual partners,</span><sup><a href="https://www.biblegateway.com/passage/?search=1+cor+6%3A9&version=NET">[a]</a></sup> <span style="font-weight:bold;color:green;">practicing homosexuals,</span><sup><a href="https://www.biblegateway.com/passage/?search=1+cor+6%3A9&version=NET">[b]</a></sup>"</span>|
+|<a href="https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A9&version=LEB" style="font-weight:bold;color:green;">LEB</a>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived! Neither sexually immoral people, nor idolaters, nor adulterers, nor <span style="font-weight:bold;color:green;">passive homosexual partners</span>, nor <span style="font-weight:bold;color:green;">dominant homosexual partners</span>,</span>|
+|<a href="https://biblehub.com/1_corinthians/6-9.htm" style="font-weight:bold;color:green;">BSB</a>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, <span style="font-weight:bold;color:green;">nor men who submit to or perform homosexual acts</span>,"</span>|
+
+I should say that the NLT, unlike the NRSVue, does in fact condemn within the same verse, homosexuality. So this is a much less severe issue than it is in the NRSVue.
+
+|❌ Versions|Inaccurate Translations|
+|:-:|:-:|
+|<span style="font-weight:bold;color:darkred;">NRSVue</span>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, <span style="font-weight:bold;color:darkred;">male prostitutes</span>, men who engage in <span style="font-weight:bold;color:darkred;">illicit sex,</span>"</span>|
+|<span style="font-weight:bold;color:#E28D00;">NLT</span>|<span style="font-style:italic;color:#828282;">"<sup style="font-weight:bold;">9</sup> Don’t you realize that those who do wrong will not inherit the Kingdom of God? Don’t fool yourselves. Those who indulge in sexual sin, or who worship idols, or commit adultery, or are <span style="font-weight:bold;color:darkred;">male prostitutes</span>, or practice <span style="font-weight:bold;color:green;">homosexuality</span>,"</span>|
 
 <span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
 
