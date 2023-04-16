@@ -1,18 +1,10 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:50:00 -0500
+date: 2023-01-29 05:55:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
-
-<span style="font-style:Italic;font-size:24px;">The Worlds Most Flawless Formal Equivalent Bible Version Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation</span>
-
-[**NET Full Translators' Notes**](https://amzn.to/3WLAgbr) are decidedly more formal and literal than any one Bible version on its own. This is the worlds best optimal equivalent Bible, and best for textual critics and translators. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) is the product of this and the Bible I recommend the most for those who want to study the Bible itself.
-
-> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
-
-I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible.
 
 <!-- <span style="font-style:Italic;font-size:32px;">24 Times The ESV & NET Proved To Be Superior To The King James Version</span> -->
 
@@ -26,19 +18,19 @@ I should also include the fact that the [**New Living Translation (NLT)**](https
 
     1. The Textus Receptus was not historically received by all or even by Erasmus himself. There are [27 different and conflicting Textus Receptus'](https://textusreceptusbibles.com/Editions).
 
-        <!-- > **Textus Receptus is the Greek text that stands behind the King James Bible.** Contrary to what its name suggests, it is not the text received by all. Even **Erasmus wasn't pleased** with the production. He never liked it. He admitted it was rushed, that it was precipitated rather than produced. He put in eight years of work. By the end, he was tired. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus) -->
+        <!-- > **Textus Receptus is the Greek text that stands behind the King James Bible.** Contrary to what its name suggests, it is not the text received by all. Even **Erasmus wasn't pleased** with the production. He never liked it. He admitted it was rushed, that it was precipitated rather than produced. He put in eight years of work. By the end, he was tired. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://zondervanacademic.com/blog/textus-receptus) -->
 
-        > Textus Receptus is the Greek text that stands behind the King James Bible. **Contrary to what its name suggests, it is not the text received by all. Even Erasmus wasn't pleased** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus)
+        > Textus Receptus is the Greek text that stands behind the King James Bible. **Contrary to what its name suggests, it is not the text received by all. Even Erasmus wasn't pleased** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://zondervanacademic.com/blog/textus-receptus)
 
     2. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) only used around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it's not actually a Majority text bible by methodology.
 
-        > ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.) paraphrased.
+        > ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary) paraphrased.
 
-        > If you could stack up all handwritten manuscripts of the New Testament—Greek, Syriac, Latin, Coptic, all languages—how tall would the stack be? ... I have said in many lectures that it would be the **equivalent of c. 4 & 1/2 Empire State Buildings stacked on top of each other**. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://danielbwallace.com/tag/number-of-new-testament-manuscripts/)
+        > If you could stack up all handwritten manuscripts of the New Testament—Greek, Syriac, Latin, Coptic, all languages—how tall would the stack be? ... I have said in many lectures that it would be the **equivalent of c. 4 & 1/2 Empire State Buildings stacked on top of each other**. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://danielbwallace.com/tag/number-of-new-testament-manuscripts/)
 
     3. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
 
-        > The problem with Erasmus was that he only used really **three manuscripts**. In fact, **the manuscript Erasmus used for the book of Revelation lacked the last leaf**. He was in a rush to get his Greek New Testament published, because he knew there were others trying to get their editions out. Consequently, **he back translated from his defective copy of the Latin Vulgate into Greek for the last six verses of Revelation**. In the process, **he created twenty new textual variants that have not been found in any other manuscripts** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://zondervanacademic.com/blog/textus-receptus)
+        > The problem with Erasmus was that he only used really **three manuscripts**. In fact, **the manuscript Erasmus used for the book of Revelation lacked the last leaf**. He was in a rush to get his Greek New Testament published, because he knew there were others trying to get their editions out. Consequently, **he back translated from his defective copy of the Latin Vulgate into Greek for the last six verses of Revelation**. In the process, **he created twenty new textual variants that have not been found in any other manuscripts** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://zondervanacademic.com/blog/textus-receptus)
 
     4. The Masoretic Text is insufficient, by itself, to translate the book of Job correctly without Ugaritic and other cognate languages. In fact there's evidence that the translators were guessing.
         
@@ -79,7 +71,7 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
     - The word Lucifer (Is 14:12 KJV) is not a proper name, but the Latin word for ‘morning star,’ (Is 14:12 ESV) which literally referred to Venus in the Latin Vulgate. The KJV translators duplicated the word used in the Latin Vulgate instead of translating it. 
         
-        > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate ... Lucifer. **It is not a proper name but the Latin word for ‘morning star.’** &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
+        > ... the KJV translators were not sure what to make of it, and simply duplicated the word used in the Latin Vulgate ... Lucifer. **It is not a proper name but the Latin word for ‘morning star.’** &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations)
     
     - Does God create evil (Is 45:7 KJV) or calamity (Is 45:7 ESV)? 
         
@@ -210,7 +202,15 @@ The recommendations above represent the very best university level scholarship u
 
 Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)
+
+<span style="font-style:Italic;font-size:24px;">The Worlds Most Flawless Formal Equivalent Bible Version Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation</span>
+
+[**NET Full Translators' Notes**](https://amzn.to/3WLAgbr) are decidedly more formal and literal than any one Bible version on its own. This is the worlds best optimal equivalent Bible, and best for textual critics and translators. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) is the product of this and the Bible I recommend the most for those who want to study the Bible itself.
+
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+
+I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible.
 
 <script>
     var refTagger = {
