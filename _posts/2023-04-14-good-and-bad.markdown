@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 20:00:00 -0500
+date: 2023-04-14 20:10:00 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
-
 
 <!-- <span style="font-style:Italic;font-size:2em;color:Black;">⛆ The Rain Falls On The Just And Unjust Alike</span> -->
 
@@ -15,7 +14,7 @@ published: true
 > For God does not show favoritism. &mdash; Romans 2:11 NLT 
 -->
 
-It's easy for a child, or one who is new to the faith, or immature in it, to wonder whether or not the hardships that they endure are the result of judgments against them for the things that they have said or done. I'm writing this article to reassure you that this type of worry is unwarranted for all who are truly in Christ Jesus. Those with a genuine saving faith, a living faith.
+It's common for a child, or one who is new to the faith, to wonder whether or not the hardships that they endure are the result of judgments against them for the sins that they have committed during their life. I'm writing this article to reassure you that this type of worry is unwarranted for all who are truly in Christ Jesus. Those with a genuine saving faith, a living faith.
 
 > <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 9:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB)
 
@@ -43,7 +42,7 @@ Remember that there are those out there who are both wise and skilled yet suffer
 
 > <sup style="font-weight:bold;">11</sup> I have observed something else under the sun. The fastest runner doesn’t always win the race, and the strongest warrior doesn’t always win the battle. <span style="font-weight:bold;">The wise sometimes go hungry, and the skillful are not necessarily wealthy.</span> And those who are educated don’t always lead successful lives. <span style="font-weight:bold;">It is all decided by chance</span>, by being in the right place at the right time. <sup style="font-weight:bold;">12</sup> <span style="font-weight:bold;">People can never predict when hard times might come.</span> Like fish in a net or birds in a trap, people are caught by sudden tragedy. &mdash; Ecclesiastes 9:11 NLT
 
-So remember not to be fooled by the pride of this life, and instead to build your rewards in heaven rather than on earth, where the moth and rust corrupts and decays all the worthless physical and material wealth that you have wasted your time and damaged your walk with God by collecting.
+So remember not to be fooled by the pride of this life, and instead to build your rewards in heaven, rather than on earth where the moth and rust corrupts and decays all that you have worked for that counts for nothing before God, for what do we really profit from all the hard work that we do here on earth? (Ecc 1:3 NET)
 
 > <sup style="font-weight:bold;">19</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: <sup style="font-weight:bold;">20</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: <sup style="font-weight:bold;">21</sup> For where your treasure is, there will your heart be also. &mdash; Matthew 6:19-21 KJV
 
@@ -53,9 +52,13 @@ Let us not be like the [seed that fell among the thorns](https://www.biblegatewa
 
 > <sup style="font-weight:bold;">7</sup> For we have brought nothing into this world and so<sup style="color:#A8A8A8;">[a]</sup> we cannot take a single thing out either. <sup style="font-weight:bold;">8</sup> But if we have food and shelter, we will be satisfied with that.<sup style="color:#A8A8A8;">[b]</sup> &mdash; 1 Timothy 6:7-8 NET
 
-The path walked by most will lead them to total destruction, do not follow the crowd to hell. It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, this is one who you should listen closely to and heed their words, for the way is narrow and hard that leads to heaven and very few ever find it.
+The path walked by the many will lead them to total destruction, do not follow the crowd on the wide path to hell, for narrow is the way, which leads unto life, and there will be few that find it.
 
-> <sup style="font-weight:bold;">13</sup> “You can enter God’s Kingdom only through the narrow gate. The highway to hell<sup style="color:#A8A8A8;">[a]</sup> is broad, and its gate is wide for the many who choose that way. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">But the gateway to life is very narrow and the road is difficult, and only a few ever find it.</span> &mdash; Matthew 7:13-14 NLT
+<!-- It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, this is one who you should listen closely to and heed their words, -->
+
+<!-- > <sup style="font-weight:bold;">13</sup> “You can enter God’s Kingdom only through the narrow gate. The highway to hell<sup style="color:#A8A8A8;">[a]</sup> is broad, and its gate is wide for the many who choose that way. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">But the gateway to life is very narrow and the road is difficult, and only a few ever find it.</span> &mdash; Matthew 7:13-14 NLT -->
+
+> <sup style="font-weight:bold;">13</sup> “Enter by the narrow gate. For the gate is wide and the way is easy<sup><a href="https://www.biblegateway.com/passage/?search=Matthew+7:13-14&version=ESV;NET;EXB" style="color:#A8A8A8;">[a]</a></sup> that leads to destruction, and those who enter by it are many. <sup style="font-weight:bold;">14</sup> <span style="font-weight:bold;">For the gate is narrow and the way is hard that leads to life, and those who find it are few.</span> &mdash; Matthew 7:13-14 ESV
 
 <script>
     var refTagger = {
