@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 02:55:55 -0500
+date: 2023-02-02 03:00:00 -0500
 categories: quick reference
 published: true
 ---
@@ -15,9 +15,47 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (PhD, Dallas)](https://youtu.be/NikVdhp0YFs)
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;"><a herf="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
+<!-- <span style="font-style:Italic;font-size:2.1em;color:Black;"><a herf="https://drmsh.com/bible-versions/">SevenShepherd</a></span> -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Papyrus 75, Jesus, & Granville Sharp Rule</span>
+<span style="font-style:Italic;font-size:2.1em;">Too Long Didn't Read (TL;DR)</span>
+
+This section is for those of you short on time. With love, here are the worlds most accurate bible versions. Keep in mind that both literalness and readability are not the same thing as accuracy. The first-place winners fulfill all categories. Each of these are both literally and functionally accurate.
+
+|🥇 First-Place Winners|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)|
+|Dynamic Equivalence<br>"Thought-For-Thought"|N/A|
+|Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+This section lists second-place winners. These Bibles are also excellent, except for a few minor issues that can be marked with a [pen](https://amzn.to/3WDHFdd). The NLT for instance is only 1 issue away from first-place.
+
+|🥈 Second-Place|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|[LSB](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[EXB Expansions](https://amzn.to/3vlMXy5)|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Paraphrase<br>"In-Other-Words"|Not Recommended|
+
+<!-- |🥉 Third-Place|Recommendations|
+|:-:|:-:|
+|Formal Equivalence<br>"Word-For-Word"|Lexham English Bible (LEB)|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|N/A|
+|Dynamic Equivalence<br>"Thought-For-Thought"|N/A|
+|Paraphrase<br>"In-Other-Words"|Not Recommended| -->
+
+<!-- Is The ESV, And It Achieved This Near Perfection By Using NET Full Translators' Notes During It's Creation -->
+
+Keep in mind that the [**NET Bible: Full Translators' Notes Edition**](https://amzn.to/3WLAgbr) is unique in that it is decidedly more formal and literal than any one Bible version on earth in it's notes, but dynamic and functional in it's text with the highest accuracy I've seen. 
+
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+
+This is the worlds best optimal equivalent Bible, and best for textual critics and translators. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) is the product of this and the Bible I recommend the most for those who want to study the Bible itself. Both are masterpieces.
+
+
+<!-- I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible. -->
+
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Papyrus 75, Jesus, & Granville Sharp Rule</span>
 
 <!-- |Version|John 1:18|Jude 1:5|Exo. 6:3|
 |:-:|:-:|:-:|:-:|
@@ -149,7 +187,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#E28D00;">WYC</span>|❌|✔️|✔️|❌|
 |<span style="font-weight:bold;color:#E28D00;">YLT</span>|❌|❌|✔️|✔️|
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Yahweh, Behemoth, Leviathan, & Morning Star</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Yahweh, Behemoth, Leviathan, & Morning Star</span>
 
 🗺️ Different Location
 - The Douay-Rheims 1899 American Edition (DRA) and 1599 Geneva Bible (GNV) contain the reference to Behemoth in Jb 40:10.
@@ -218,11 +256,11 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#efcc00;">YLT</span>|❌|✔️|✔️|✔️|
 
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;"><a herf="https://drmsh.com/bible-versions/">Dr. Daniel B. Wallace</a></span>
+<!-- <span style="font-style:Italic;font-size:2.1em;color:Black;"><a herf="https://drmsh.com/bible-versions/">Dr. Daniel B. Wallace</a></span>
 
 "Come" (6:1) & "Tree of Life" (22:19) come from deductions made in NET Translator's Notes, a bible version wallace was directly involved in, and 14:12 from his [blog](https://bible.org/article/lucifer-devil-isaiah-1412-kjv-argument-against-modern-translations). I decided to group these under this section with 22:14, a deduction made by MacLaren’s Expositions. -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Tree of Life, Wash Their Robes, Come!, Calamity</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Tree of Life, Wash Their Robes, Come!, Calamity</span>
 
 <!-- |Version|Rev. 6:1|Rev. 22:14|Rev. 22:19|
 |:-:|:-:|:-:|:-:|:-:|
@@ -354,7 +392,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:#BC3823;">WYC</span>|❌|✔️|❌|❌|
 |<span style="font-weight:bold;color:darkred;">YLT</span>|❌|❌|❌|❌|
 
-<!-- <span style="font-style:Italic;font-size:34px;color:Black;">Revelation</span>
+<!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">Revelation</span>
 
 |Version|Rev. 6:1|Rev. 22:14|Rev. 22:19|Isa. 14:12|
 |:-:|:-:|:-:|:-:|:-:|
@@ -421,7 +459,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:darkred;">KJV</span>|❌|❌|❌|❌|
 |<span style="font-weight:bold;color:darkred;">MEV</span>|❌|❌|❌|❌| -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Sons of God, Worship, & Singular God</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Sons of God, Worship, & Singular God</span>
 
 > My test case for this is Deuteronomy 32:8 and Deuteronomy 32:43. The former should read “sons of God” (**ESV**; cp. “gods” in **NRSV**), or something like “heavenly beings” (**NET** Bible) or “heavenly court” (**NLT**) instead of “sons of Israel.” Verse 43 should read “bow down to Him, all you gods” (ESV, NRSV) or something akin to it like NLT’s “let all God’s angels worship him.” &mdash;  <a herf="https://drmsh.com/bible-versions/">Dr. Michael S. Heiser</a>
 
@@ -562,7 +600,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 
 <!-- This is currently under construction, look for the removal of this sign to signal the articles completion. -->
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
 
 |Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
 |:-:|:-:|:-:|:-:|:-:|
@@ -629,7 +667,7 @@ Keep in mind that scholarship has proven that **no cardinal doctrine is affected
 |<span style="font-weight:bold;color:green;">WYC</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">YLT</span>|👑|✔️|✔️|✔️|
 
-<span style="font-style:Italic;font-size:34px;color:Black;">Version Information</span>
+<span style="font-style:Italic;font-size:2.1em;color:Black;">Version Information</span>
 
 - 21st Century King James Version (KJ21) Copyright © 1994 by Deuel Enterprises, Inc.
 - American Standard Version (ASV) Public Domain (Why are modern Bible translations copyrighted?)
