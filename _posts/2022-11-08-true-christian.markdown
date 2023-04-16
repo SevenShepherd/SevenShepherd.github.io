@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛡️ How Do You Know If You're Saved?"
-date: 2023-01-01 9:32:32 -0500
+date: 2023-01-01 9:35:35 -0500
 categories: god Jesus bible christian salvation
 published: true
 ---
@@ -220,7 +220,7 @@ The keyword here is <span style="font-size:24px;color:#595959;">practice</span>.
 <!-- > **No one born of God makes a <span style="font-size:32px;color:#29a329;">practice</span> of sinning, for God's seed abides in him; and <span style="color:#29a329;">he cannot keep on sinning</span>, because he has been born of God.** 10 By this it is evident who are the children of God, and who are <span style="color:#C70039;">the children of the devil</span>: whoever <span style="color:#C70039;">does not practice righteousness</span> is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:9-10 ([parallel](https://www.biblegateway.com/passage/?search=1%20John%203:9-10&version=ESV;NET;EXB;NLT)) -->
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
-200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, and Dallas.
+According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc. The ESV Study Bible says:
 
 > **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, **the believer cannot keep on sinning. Thus the hearts of genuine Christians (those who are truly children of God) have been so transformed that they cannot live in a pattern of continual sin**—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
 
@@ -494,7 +494,8 @@ did we not prophesy in your name The three activities mentioned in this verse ar
 Depart from me, you who practice lawlessness A citation of Psa 6:8.
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
-200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, and Dallas.
+According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc. The ESV Study Bible says:
+
 
 > **7:21–23** The kingdom community must guard against not only false prophets (vv. 15–20) but also false disciples. Lord, Lord. **An oral confession of Jesus as Lord does not always indicate a repentant heart.**
 

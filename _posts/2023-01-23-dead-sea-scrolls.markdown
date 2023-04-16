@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 06:00:00 -0500
+date: 2023-01-23 06:10:00 -0500
 categories: methods families
 published: true
 ---
@@ -29,7 +29,7 @@ b. Compare Dead Sea Scroll, Septuagint; Masoretic Text sons of Israel
 &mdash; [English Standard Version](https://www.biblegateway.com/passage/?search=Deuteronomy+32%3A8&version=ESV)
 
 # [ESV Study Bible](https://amzn.to/3WsN0Uw)
-200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, Dallas, etc.
+According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc. The ESV Study Bible says:
 
 > 32:8–9 gave to the nations their inheritance. For example, Edom, Moab, and Ammon in 2:1–23, as well as Israel throughout the book. <span style="font-weight:bold;color:green;">According to the number of the sons of God may suggest that certain angels (“sons of God”; see Job 1:6) are responsible for specific nations, whereas the Lord himself cares for Israel.</span> See also the second esv footnote on v. 8. the LORD’s portion. A term of special affection. See notes on Deut. 4:20 and 18:1–2.
 

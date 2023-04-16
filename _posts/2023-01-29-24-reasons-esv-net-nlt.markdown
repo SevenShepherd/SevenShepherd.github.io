@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 05:55:00 -0500
+date: 2023-01-29 06:00:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -97,13 +97,17 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
 <!-- - ✔️ [ESV Study Bible](https://amzn.to/3WsN0Uw) Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **200+ biblical scholars** from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, Dallas, etc. -->
 
-- [**ESV Study Bible: English Standard Version**](https://amzn.to/3WsN0Uw)
+- <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
     - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
+    - Including [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
-    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
+    - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
+    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc.
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
+    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
+    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
 
 <!-- - ✔️ [NET Full Translators' Notes](https://amzn.to/3WLAgbr)
 Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. -->
