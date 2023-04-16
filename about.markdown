@@ -60,6 +60,20 @@ You can also check out my custom programmed and automated Twitter based Christia
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
 - [The Order Of Salvation "Ordo Salutis"](https://bit.ly/3xzIZms)
+- [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
+- [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
+- [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
+- [How Do You Know If You're Saved?](https://bit.ly/3kaNNLx)
+- [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
+- [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
+- [A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3)
+- [What Science Really Thinks About God](https://bit.ly/3PwFbuk)
+- [Avoiding The Traps of The Cults](https://bit.ly/3jbqQrh)
+
+<!-- - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
+- [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
+- [The Order Of Salvation "Ordo Salutis"](https://bit.ly/3xzIZms)
+- [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
 - [The DSS And LXX Solve A Mystery](https://bit.ly/3De5m43)
@@ -69,7 +83,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 - [A Thorough Examination On Bible Versions](https://bit.ly/3BCflQ3)
 - [What Science Really Thinks About God](https://bit.ly/3PwFbuk)
 - [Avoiding The Traps of The Cults](https://bit.ly/3jbqQrh)
-- [A Logical Take On Christian Conduct](https://bit.ly/3FYsOEf)
+- [A Logical Take On Christian Conduct](https://bit.ly/3FYsOEf) -->
 
 <!-- <span style="font-style:Italic;font-size:24px;">Doctrinal Positions</span>
 
