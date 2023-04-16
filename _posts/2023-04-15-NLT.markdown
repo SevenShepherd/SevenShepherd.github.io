@@ -1,0 +1,60 @@
+---
+layout: post
+title: "📔 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
+date: 2023-04-15 01:23:23 -0500
+categories: nlt version
+published: true
+---
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/CJOw_Po_UIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+While this video is primarily about the NRSVue and it's short comings, The NLT has 1 of the problems mentioned in this video, specifically 1 Corinthians 6:9. [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords), author of [Authorized](https://amzn.to/3SYHVT3), has brought to my attention, a particularly dangerous error that has found it's way into one of the best dynamic translations ever made. If you own an NLT and a [pen](https://amzn.to/3WDHFdd), correct this in your bible.
+
+> I must call the NRSVue’s rendering of 1 Corinthians what it is: a removal of something Paul said by the inspiration of the Spirit. &mdash; [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)
+
+After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment to find this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
+
+<span style="font-weight:bold;font-size:1.4em;">Versions Containing The Unfortunate Rendering</span>
+
+- ISV
+    > You know that wicked people will not inherit the kingdom of God, don’t you? Stop deceiving yourselves! Sexually immoral people, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, homosexuals,
+- MEV
+    > Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals,
+- MOUNCE
+    > Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals,
+- NABRE
+    > Do you not know that the unjust will not inherit the kingdom of God? Do not be deceived; neither fornicators nor idolaters nor adulterers nor <span style="color:darkred">boy prostitutes</span> nor sodomites
+- NCB
+    > Are you not aware that wrongdoers will never inherit the kingdom of God? Do not be deceived! Fornicators, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, sodomites,
+- NLT
+    > Don’t you realize that those who do wrong will not inherit the Kingdom of God? Don’t fool yourselves. Those who indulge in sexual sin, or who worship idols, or commit adultery, or are <span style="color:darkred">male prostitutes</span>, or practice homosexuality,
+- NRSVA, NRSVACE, NRSVCE
+    > Do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived! Fornicators, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, sodomites,
+- NRSVUE
+    > Do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, men who engage in illicit sex,
+- WEB
+    > Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals,
+
+<span style="font-weight:bold;font-size:1.4em;">No Essential Doctrine Is Jeopardized By Any Textual Variant</span>
+
+Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Dallas, Ph.D.)](https://youtu.be/NikVdhp0YFs)
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'NLT'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
