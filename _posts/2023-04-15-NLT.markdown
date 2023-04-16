@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📖 The NLT Was My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:25:25 -0500
+title: "📖 The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
+date: 2023-04-15 01:30:25 -0500
 categories: nlt version
 published: true
 ---
