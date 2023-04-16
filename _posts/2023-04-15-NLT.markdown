@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NRSVue Has Become Complete Trash In My Eyes. The NLT Is Amazing Except For This One Issue."
-date: 2023-04-15 01:45:45 -0500
+date: 2023-04-15 01:50:50 -0500
 categories: nrsvue nlt version
 published: true
 ---
@@ -122,6 +122,8 @@ The last two columns account for this articles context. For a full set of charts
     > Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals, -->
 
 <span style="font-weight:bold;font-size:1.4em;">No Essential Doctrine Is Jeopardized By Any Textual Variant</span>
+
+Normally I give a disclaimer about textual variants and how no essential doctrine is effected by them; however, while this still does not effect essential doctrine, this is still a blatantly clear bias and possibly even a subversive attack on the Bible from the mainline progressive "Christianity," which is of course antithetical to Christianity and openly heretic. This issue isn't a textual variant issue, but alas, here is my disclaimer:
 
 Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
