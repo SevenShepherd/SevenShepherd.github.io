@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error"
-date: 2023-04-15 01:30:30 -0500
+date: 2023-04-15 01:35:35 -0500
 categories: nlt version
 published: true
 ---
@@ -14,7 +14,76 @@ While this video is primarily about the NRSVue and it's short comings, The NLT h
 
 After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment when I found this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
 
-<span style="font-weight:bold;font-size:1.4em;">Versions Containing The Unfortunate Rendering</span>
+<span style="font-style:Italic;font-size:34px;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
+
+The last two columns account for this articles context. For a full set of charts that include all of this ministries research, see [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
+
+|Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
+|:-:|:-:|:-:|:-:|:-:|
+|<span style="font-weight:bold;color:green;">AKJV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">AMP</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">AMPC</span>|✔️|❔|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ASV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">BRG</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">CEB</span>|❌|❌|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CEV</span>|🆗|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CJB</span>|✔️|❌|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">CSB</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">DARBY</span>|✔️|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">DLNT</span>|👑|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">DRA</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">EHV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">ERV</span>|❌|❌|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESVUK</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">GNT</span>|🆗|❌|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">GNV</span>|👑|✔️|✔️|❔|
+|<span style="font-weight:bold;color:green;">GW</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">HCSB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ICB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">ISV</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:green;">JUB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">KJ21</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">KJV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">LEB</span>|👑|✔️|👑|✔️|
+|<span style="font-weight:bold;color:green;">LSB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MEV</span>|✔️|✔️|❌|❌|
+|<span style="font-weight:bold;color:#E28D00;">MOUN.</span>|✔️|➖|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MSG</span>|🆗|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">NABRE</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:green;">NASB '20</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NASB '95</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">NCB</span>|✔️|✔️|❌|❌|
+|<span style="font-weight:bold;color:#efcc00;">NCV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|🦶|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIRV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIVUK</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NKJV</span>|👑|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">NLT</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NLV</span>|👑|❌|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NMB</span>|👑|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NOG</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>A</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>ACE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>CE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:darkred;">NRSV<br>UE</span>|❌|❌|❌|❌|
+|<span style="font-weight:bold;color:#efcc00;">NTE</span>|✔️|➖|✔️|✔️|
+|<span style="font-weight:bold;color:green;">OJB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">PHIL.</span>|✔️|➖|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RGT</span>|👑|➖|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RSV</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:#E28D00;">RSVCE</span>|✔️|❌|✔️|❌|
+|<span style="font-weight:bold;color:green;">TLB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">TLV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">VOICE</span>|🆗|❔|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">WE</span>|🆗|➖|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">WEB</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:green;">WYC</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">YLT</span>|👑|✔️|✔️|✔️|
+
+<!-- <span style="font-weight:bold;font-size:1.4em;">Versions Containing The Unfortunate Rendering</span>
 
 - ISV
     > You know that wicked people will not inherit the kingdom of God, don’t you? Stop deceiving yourselves! Sexually immoral people, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, homosexuals,
@@ -33,7 +102,7 @@ After going through and meticulously applying every litmus test I could possibly
 - NRSVUE
     > Do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived! The sexually immoral, idolaters, adulterers, <span style="color:darkred">male prostitutes</span>, men who engage in illicit sex,
 - WEB
-    > Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals,
+    > Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals, -->
 
 <span style="font-weight:bold;font-size:1.4em;">No Essential Doctrine Is Jeopardized By Any Textual Variant</span>
 
