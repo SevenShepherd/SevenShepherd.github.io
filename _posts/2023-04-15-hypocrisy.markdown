@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:15:00 -0500
+date: 2023-04-15 01:21:21 -0500
 categories: hypocrisy
 published: true
 ---
@@ -28,7 +28,7 @@ I've written this article to test out a more organized hierarchical outline. I m
         - i.b.1. <a href="#ESVSBib1">ESV Study Bible</a>
         - i.b.2. <a href="#TNSBib2">Thomas Nelson Study Bible</a>
         - i.b.3. <a href="#BTSBib3">Biblical Theology Study Bible</a>
-        - i.b.4. <a href="#JMSBib4">MacArthur Study Bible ESV, 2nd ed.</a>
+        - i.b.4. <a href="#JMSBib4">MacArthur Study Bible</a>
 - II. Under Construction
     - ii.a. Under Construction
         - ii.a.1 Under Construction
