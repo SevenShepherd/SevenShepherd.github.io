@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:00:00 -0500
+date: 2023-04-15 01:10:00 -0500
 categories: hypocrisy
 published: true
 ---
@@ -33,7 +33,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 >
 &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+15%3A7-8&version=NET">Matthew 15:7-8 NET</a> a. tn The term “heart” is a collective singular in the Greek text.
 
-- <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a></span>
+- <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a></span>
 
     According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) says: <span style="font-style:italic;color:#828282;">"15:7–9 The Pharisees are hypocrites for two reasons: (1) their actions are merely external and do not come from their hearts, and (2) their teachings are not from God but reflect human tradition (cf. vv. 2–3)."</span>
 
@@ -45,8 +45,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 
 > <sup style="font-weight:bold;">6</sup> He said to them, “Isaiah prophesied correctly about you hypocrites, as it is written:
 >
-<span style="font-weight:bold;margin-left:25px;">‘This people honors me with their lips,</span><br>
-<span style="font-weight:bold;margin-left:25px;">but their heart<sup><a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">[a]</a></sup> is far from me.</span>
+<span style="font-weight:bold;margin-left:25px;">‘This people honors me with their lips, but their heart<sup><a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">[a]</a></sup> is far from me.</span>
 >
 &mdash; <a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">Mark 7:6 NET</a> a. tn The term “heart” is a collective singular in the Greek text.
 
