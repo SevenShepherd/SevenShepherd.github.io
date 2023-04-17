@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:25:25 -0500
+date: 2023-04-15 01:30:30 -0500
 categories: hypocrisy
 published: true
 ---
@@ -99,7 +99,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 
 - <a name="ib0" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.0. Faithlife Study Bible</a>
 
-    The Faithlife Study Bible is a state-of-the-art study created for Logos Bible Software, the world's most advanced biblical software. This studyIncluding noteworthy scholars such as:
+    The Faithlife Study Bible is a state-of-the-art study created for Logos Bible Software, the world's most advanced biblical software. Including:
     - [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
 
     <!--  -->
