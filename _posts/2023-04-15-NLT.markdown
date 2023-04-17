@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "📖 The NRSVue Has Become Complete Trash In My Eyes. The NLT Is Amazing Except For This One Issue."
-date: 2023-04-15 01:50:50 -0500
+title: "📖 The NRSVue Has Become The Worst Bible Version Of The Year. The NLT Is Really Good Except For This One Issue."
+date: 2023-04-15 01:55:50 -0500
 categories: nrsvue nlt version
 published: true
 ---
+
+<!-- The NRSVue Has Become Complete Trash In My Eyes. The NLT Is Amazing Except For This One Issue. -->
 
 <!-- Disappointed To Find This Bias Within The NLT... At Least It's Not Complete Trash Like The NRSVue -->
 
