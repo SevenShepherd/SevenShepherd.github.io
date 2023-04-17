@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:21:21 -0500
+date: 2023-04-15 01:25:25 -0500
 categories: hypocrisy
 published: true
 ---
@@ -22,17 +22,18 @@ I've written this article to test out a more organized hierarchical outline. I m
 
 - I. <a href="#lipservice">Lip Service & Tradition</a>
     - i.a. <a href="#mt15:7-8">Matthew 15:7-8</a>
-        - i.a.1. <a href="#ESVSBia1">ESV Study Bible</a>
-        - i.a.2. <a href="#BTSBia2">Biblical Theology Study Bible</a>
+        - i.a.0. <a href="#ia0">ESV Study Bible</a>
+        - i.a.1. <a href="#ia1">Biblical Theology Study Bible</a>
     - i.b. <a href="#mk7:6">Mark 7:6</a>
-        - i.b.1. <a href="#ESVSBib1">ESV Study Bible</a>
-        - i.b.2. <a href="#TNSBib2">Thomas Nelson Study Bible</a>
-        - i.b.3. <a href="#BTSBib3">Biblical Theology Study Bible</a>
-        - i.b.4. <a href="#JMSBib4">MacArthur Study Bible</a>
+        - i.b.0. <a href="#ib0">Faithlife Study Bible</a>
+        - i.b.1. <a href="#ib1">ESV Study Bible</a>
+        - i.b.2. <a href="#ib2">Thomas Nelson Study Bible</a>
+        - i.b.3. <a href="#ib3">Biblical Theology Study Bible</a>
+        - i.b.4. <a href="#ib4">MacArthur Study Bible</a>
 - II. Under Construction
     - ii.a. Under Construction
-        - ii.a.1 Under Construction
-        - ii.a.2 Under Construction
+        - ii.a.0. Under Construction
+        - ii.a.1. Under Construction
 
 <a name="lipservice" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;">I. Lip Service & Tradition</a>
 
@@ -49,17 +50,42 @@ I've written this article to test out a more organized hierarchical outline. I m
 >
 &mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+15%3A7-8&version=NET">Matthew 15:7-8 NET</a> a. tn The term “heart” is a collective singular in the Greek text.
 
-<!-- - <a name="ESVSBia1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. <a href="https://amzn.to/3WsN0Uw" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">ESV Study Bible</a></a> -->
+<!-- - <a name="ia0" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. <a href="https://amzn.to/3WsN0Uw" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">ESV Study Bible</a></a> -->
 
-- <a name="ESVSBia1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. ESV Study Bible</a>
+- <a name="ia0" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.0. ESV Study Bible</a>
 
-    According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) says: <span style="font-style:italic;color:#828282;">"15:7–9 The Pharisees are hypocrites for two reasons: (1) their actions are merely external and do not come from their hearts, and (2) their teachings are not from God but reflect human tradition (cf. vv. 2–3)."</span>
+    <!-- According to the [**ESV Study Bible**](https://amzn.to/3WsN0Uw) with over 200+ biblical scholars ([100+](https://www.esv.org/translation/) in translation; 95 in study) from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With scholars from Universities of Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. Including distinguished research professor of theology and biblical studies [Dr. Wayne Grudem (Ph.D., Cambridge; D.D. Westminister; B.A. Harvard)](https://youtu.be/s9e3Y2SMXag) member of the Translation Oversight Committee for the ESV, and general editor of the ESV Study Bible, as well as the world renowned [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible. -->
+
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Including:
+    - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+    - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+    - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Ron Rhodes (Th.D., Dallas)]()
+    
+    <!-- Including distinguished research professor [Dr. Wayne Grudem (Ph.D., Cambridge; D.D. Westminister; B.A. Harvard)](https://youtu.be/s9e3Y2SMXag) and world renowned [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo).  -->
+    
+    > "15:7–9 The Pharisees are hypocrites for two reasons: (1) their actions are merely external and do not come from their hearts, and (2) their teachings are not from God but reflect human tradition (cf. vv. 2–3)."
+
+    <!-- <span style="font-style:italic;color:#828282;">"15:7–9 The Pharisees are hypocrites for two reasons: (1) their actions are merely external and do not come from their hearts, and (2) their teachings are not from God but reflect human tradition (cf. vv. 2–3)."</span> -->
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.2. <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a></span> -->
 
-- <a name="BTSBia2" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.2. Biblical Theology Study Bible</a>
+- <a name="ia1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. Biblical Theology Study Bible</a>
 
-    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a> by <a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a> reveals: <span style="font-style:italic;color:#828282;"> "15:7–9 Matthew again sees Scripture fulfilled typologically as the circumstances of Isaiah’s day recur in striking fashion (Isa 29:13). <span style="font-weight:bold;">Religion has degenerated into “merely human rules” (Matt 15:9) characterized by lip service, and the people’s hearts are far from God. No matter how good their worship appears externally, God declares it futile.</span></span>
+    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    
+    - [Dr. Tremper Longman III (Ph.D., Yale University)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Dr. Mark L. Strauss (Ph.D., University of Aberdeen)]()
+
+    <!--  -->
+    
+    > "15:7–9 Matthew again sees Scripture fulfilled typologically as the circumstances of Isaiah’s day recur in striking fashion (Isa 29:13). <span style="font-weight:bold;">Religion has degenerated into “merely human rules” (Matt 15:9) characterized by lip service, and the people’s hearts are far from God. No matter how good their worship appears externally, God declares it futile.</span>
+
+    <!-- <span style="font-style:italic;color:#828282;"> "15:7–9 Matthew again sees Scripture fulfilled typologically as the circumstances of Isaiah’s day recur in striking fashion (Isa 29:13). <span style="font-weight:bold;">Religion has degenerated into “merely human rules” (Matt 15:9) characterized by lip service, and the people’s hearts are far from God. No matter how good their worship appears externally, God declares it futile.</span></span> -->
 
 <a name="mk7:6" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.6em;">i.b. Mark 7:6</a>
 
@@ -71,25 +97,64 @@ I've written this article to test out a more organized hierarchical outline. I m
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a></span> -->
 
-- <a name="ESVSBib1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. ESV Study Bible</a>
+- <a name="ib0" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.0. Faithlife Study Bible</a>
 
-    According to 200+ biblical scholars from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With educated professors from universities such as Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) says: <span style="font-style:italic;color:#828282;">"The Pharisees are **hypocrites** for two reasons: (1) their actions are merely external and do not come from their hearts, which are **far from** God; and (2) their teachings are not from God but reflect **the tradition of men**."</span>
+    The Faithlife Study Bible is a state-of-the-art study created for Logos Bible Software, the world's most advanced biblical software. This studyIncluding noteworthy scholars such as:
+    - [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
 
-- <a name="TNSBib2" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.2 Thomas Nelson Study Bible</a>
+    <!--  -->
 
-    Commentary from Thomas Nelson Study Bibles reveals that <span style="font-style:italic;color:#828282;">"7:6, 7 Jesus did not directly answer the question but instead addressed two more significant issues: <span style="font-weight:bold;">(1) the superiority of God’s law over man-made tradition (vv. Mark 7:6-13)</span> and (2) the difference between ceremonial and true moral defilement (vv. Mark 7:14-23). Jesus enters into the argument by calling His adversaries hypocrites. **The term originally referred to actors who wore masks on stage as they played different characters.** Thus the Pharisees were not genuinely religious; they were merely playing a part for all to see"</span>
+    > <sup style="font-weight:bold;">7:6</sup> <span style="font-weight:bold;">it is written</span> Jesus quotes Isa 29:13, which is part of an oracle condemning the people of Jerusalem, and by extension God’s people in general, for failing to follow God’s commandments.<br>
+    <sup style="font-weight:bold;">7:9</sup> <span style="font-weight:bold;">You splendidly ignore</span> Jesus is accusing the Pharisees of favoring their own traditions over the law of Moses—which is ironic, since they claimed to be leading interpreters and practitioners of Mosaic law.
+
+- <a name="ib1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. ESV Study Bible</a>
+
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Including:
+    - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+    - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+    - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Ron Rhodes (Th.D., Dallas)]()
+
+    <!--  -->
+    
+    > "The Pharisees are **hypocrites** for two reasons: (1) their actions are merely external and do not come from their hearts, which are **far from** God; and (2) their teachings are not from God but reflect **the tradition of men**."
+
+    <!-- <span style="font-style:italic;color:#828282;">"The Pharisees are **hypocrites** for two reasons: (1) their actions are merely external and do not come from their hearts, which are **far from** God; and (2) their teachings are not from God but reflect **the tradition of men**."</span> -->
+
+- <a name="ib2" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.2. Thomas Nelson Study Bible</a>
+
+    Commentary from Thomas Nelson Study Bible. Including:
+    - [Bruce M. Metzger (Ph.D., Princeton)]()
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+
+    <!--  -->
+
+    > "7:6, 7 Jesus did not directly answer the question but instead addressed two more significant issues: <span style="font-weight:bold;">(1) the superiority of God’s law over man-made tradition (vv. Mark 7:6-13)</span> and (2) the difference between ceremonial and true moral defilement (vv. Mark 7:14-23). Jesus enters into the argument by calling His adversaries hypocrites. **The term originally referred to actors who wore masks on stage as they played different characters.** Thus the Pharisees were not genuinely religious; they were merely playing a part for all to see"
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a></span> -->
 
-- <a name="BTSBib3" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. Biblical Theology Study Bible</a>
+- <a name="ib3" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. Biblical Theology Study Bible</a>
 
-    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a> by <a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a> reveals: <span style="font-style:italic;color:#828282;"> "7:6–8 For the first time, Jesus publicly denounces Jerusalem’s teachers. Previous critics from Jerusalem had blasphemed the Holy Spirit, making God their enemy (see note on mk 3:29). While these teachers of the law (see note on mk 1:22) see marketplaces as a source of impurity (v. 4)—though they love the praise garnered there (mk 12:38)—Jesus, the true Shepherd-King (see note on mk 6:34), sees marketplaces as places to bring God’s promised restoration to his people (mk 6:56). Isaiah was right when he prophesied about you. Israel was already under God’s judgment for its idolatrous disobedience (Isa 6:9–10; see notes on mk 4:12; 8:16–21), and Isaiah had already denounced Israel’s faithless and blind leaders (Isa 29:9–10) for pretending to worship God while they pursued their own agendas (Isa 29:13, the text Jesus cites here). For Jesus, Jerusalem’s present leaders are in exactly the same position (see note on mk 3:29). <span style="font-weight:bold;">The Pharisees and teachers of the law are “hypocrites” because by requiring people in general to do what God himself had only required of the priests in their temple service, they had put their merely human tradition above the revealed word of God in the Scriptures.</span> Only those whose “hearts are far from [God]” (v. 6) would presume to do such a thing."</span>
+    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    
+    - [Dr. Tremper Longman III (Ph.D., Yale University)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Dr. Mark L. Strauss (Ph.D., University of Aberdeen)]()
+    
+    <!--  -->
+
+    > "7:6–8 For the first time, Jesus publicly denounces Jerusalem’s teachers. Previous critics from Jerusalem had blasphemed the Holy Spirit, making God their enemy (see note on mk 3:29). While these teachers of the law (see note on mk 1:22) see marketplaces as a source of impurity (v. 4)—though they love the praise garnered there (mk 12:38)—Jesus, the true Shepherd-King (see note on mk 6:34), sees marketplaces as places to bring God’s promised restoration to his people (mk 6:56). Isaiah was right when he prophesied about you. Israel was already under God’s judgment for its idolatrous disobedience (Isa 6:9–10; see notes on mk 4:12; 8:16–21), and Isaiah had already denounced Israel’s faithless and blind leaders (Isa 29:9–10) for pretending to worship God while they pursued their own agendas (Isa 29:13, the text Jesus cites here). For Jesus, Jerusalem’s present leaders are in exactly the same position (see note on mk 3:29). <span style="font-weight:bold;">The Pharisees and teachers of the law are “hypocrites” because by requiring people in general to do what God himself had only required of the priests in their temple service, they had put their merely human tradition above the revealed word of God in the Scriptures.</span> Only those whose “hearts are far from [God]” (v. 6) would presume to do such a thing."
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. <a href="https://amzn.to/3UFP1g2">MacArthur Study Bible ESV, 2nd ed.</a></span> -->
 
-- <a name="JMSBib4" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. MacArthur Study Bible ESV, 2nd ed.</a>
+- <a name="ib4" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. MacArthur Study Bible ESV, 2nd ed.</a>
 
-    The <a href="https://amzn.to/3UFP1g2">MacArthur Study Bible ESV, 2nd ed.</a> by John MacArthur reveals: <span style="font-style:italic;color:#828282;">"7:6 did Isaiah prophesy. Isaiah 29:13 is quoted almost word for word from the Greek translation of the OT (LXX). Isaiah’s prophecy perfectly fit the actions of the Pharisees and scribes (see note on Isa. 29:13). hypocrites. Spiritual phonies (see note on Matt. 6:2). <span style="font-weight:bold;">They followed the traditions of men because such teaching required only mechanical and thoughtless conformity without a pure heart.</span>"</span>
+    The <a href="https://amzn.to/3UFP1g2">MacArthur Study Bible ESV, 2nd ed.</a> by John MacArthur. 
+    
+    > "7:6 did Isaiah prophesy. Isaiah 29:13 is quoted almost word for word from the Greek translation of the OT (LXX). Isaiah’s prophecy perfectly fit the actions of the Pharisees and scribes (see note on Isa. 29:13). hypocrites. Spiritual phonies (see note on Matt. 6:2). <span style="font-weight:bold;">They followed the traditions of men because such teaching required only mechanical and thoughtless conformity without a pure heart.</span>"
 
 <!-- <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b. Mark 12:13-17</span> -->
 
