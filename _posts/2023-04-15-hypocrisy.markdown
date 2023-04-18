@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:45:45 -0500
+date: 2023-04-15 01:55:55 -0500
 categories: hypocrisy
 published: true
 ---
@@ -40,12 +40,14 @@ In other words, I've written this article to test out a more organized hierarchi
     - i.a. <a href="#mt15:7-8">Matthew 15:7-8</a>
         - i.a.0. <a href="#ia0">ESV Study Bible</a>
         - i.a.1. <a href="#ia1">Biblical Theology Study Bible</a>
+        - i.a.2. <a href="#ia2">NLT Filament Study Bible</a>
     - i.b. <a href="#mk7:6">Mark 7:6</a>
         - i.b.0. <a href="#ib0">Faithlife Study Bible</a>
         - i.b.1. <a href="#ib1">ESV Study Bible</a>
         - i.b.2. <a href="#ib2">Thomas Nelson Study Bible</a>
         - i.b.3. <a href="#ib3">Biblical Theology Study Bible</a>
-        - i.b.4. <a href="#ib4">MacArthur Study Bible</a>
+        - i.b.4. <a href="#ib4">NLT Filament Study Bible</a>
+        - i.b.5. <a href="#ib5">MacArthur Study Bible</a>
 - II. Under Construction
     - ii.a. Under Construction
         - ii.a.0. Under Construction
@@ -87,11 +89,11 @@ In other words, I've written this article to test out a more organized hierarchi
 
     <!-- <span style="font-style:italic;color:#828282;">"15:7–9 The Pharisees are hypocrites for two reasons: (1) their actions are merely external and do not come from their hearts, and (2) their teachings are not from God but reflect human tradition (cf. vv. 2–3)."</span> -->
 
-<!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.2. <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a></span> -->
+<!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.2. <a href="https://amzn.to/417o3A0">NIV Biblical Theology Study Bible</a></span> -->
 
-- <a name="ia1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. Biblical Theology Study Bible</a>
+- <a name="ia1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. NIV Biblical Theology Study Bible</a>
 
-    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    The <a href="https://amzn.to/417o3A0">NIV Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
     
     - [Dr. Tremper Longman III (Ph.D., Yale)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
@@ -102,6 +104,20 @@ In other words, I've written this article to test out a more organized hierarchi
     > "15:7–9 Matthew again sees Scripture fulfilled typologically as the circumstances of Isaiah’s day recur in striking fashion (Isa 29:13). <span style="font-weight:bold;">Religion has degenerated into “merely human rules” (Matt 15:9) characterized by lip service, and the people’s hearts are far from God. No matter how good their worship appears externally, God declares it futile.</span>
 
     <!-- <span style="font-style:italic;color:#828282;"> "15:7–9 Matthew again sees Scripture fulfilled typologically as the circumstances of Isaiah’s day recur in striking fashion (Isa 29:13). <span style="font-weight:bold;">Religion has degenerated into “merely human rules” (Matt 15:9) characterized by lip service, and the people’s hearts are far from God. No matter how good their worship appears externally, God declares it futile.</span></span> -->
+
+- <a name="ia2" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.2. NLT Filament Study Bible</a>
+
+    The NLT Translation has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The [Filament Study Bible](https://amzn.to/3CcB5Cu) brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+    - [Dr. Tremper Longman III (Ph.D., Yale)]()
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+    
+    <!--  -->
+
+    > **15:7** **You hypocrites!** See study note on Matt 23:13.
+    >
+    > **23:13** **What sorrow awaits you**: A stark warning of judgment from God. &bull; **Hypocrites!** In English, hypocrisy describes a contradiction between reality and appearance. But in biblical usage, hypocrisy is misperceiving God's will, leading people astray, and thus incurring God's judgment. Coupled with this is often a desire for prestige and power (23:5-12), abuse of teaching authority, false teachings on doctrine or practice (23:13-22), and preoccupation with ethical minutiae (23:23-28). An accurate English term for this combination of factors is heresy. The Pharisees and teachers of the religious law displayed all of these characteristics. As the Christian church began to grow, these characteristics continued to appear (e.g., 1 Tim 4:1-3; 2 Pet 2:1-22), so God's children always need to guard against them (Jas 4:7-10; 1 Pet 2:1-3). &bull; **shut the door of the Kingdom**: by their false teaching and opposition to Jesus (see Matt 9:32-34; 12:22-37; 15:12-14; 21:15; John 9:13-34), the **teachers of religious law** and **Pharisees** prevented others from hearing and believing the truth about the Messiah.
 
 <a name="mk7:6" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.6em;">i.b. Mark 7:6</a>
 
@@ -150,11 +166,11 @@ In other words, I've written this article to test out a more organized hierarchi
 
     > "7:6, 7 Jesus did not directly answer the question but instead addressed two more significant issues: <span style="font-weight:bold;">(1) the superiority of God’s law over man-made tradition (vv. Mark 7:6-13)</span> and (2) the difference between ceremonial and true moral defilement (vv. Mark 7:14-23). Jesus enters into the argument by calling His adversaries hypocrites. **The term originally referred to actors who wore masks on stage as they played different characters.** Thus the Pharisees were not genuinely religious; they were merely playing a part for all to see"
 
-<!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a></span> -->
+<!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. <a href="https://amzn.to/417o3A0">NIV Biblical Theology Study Bible</a></span> -->
 
-- <a name="ib3" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. Biblical Theology Study Bible</a>
+- <a name="ib3" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.3. NIV Biblical Theology Study Bible</a>
 
-    The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    The <a href="https://amzn.to/417o3A0">NIV Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
     
     - [Dr. Tremper Longman III (Ph.D., Yale)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
@@ -166,7 +182,21 @@ In other words, I've written this article to test out a more organized hierarchi
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. <a href="https://amzn.to/3UFP1g2">MacArthur Study Bible ESV, 2nd ed.</a></span> -->
 
-- <a name="ib4" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. MacArthur Study Bible ESV, 2nd ed.</a>
+- <a name="ib4" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.4. NLT Filament Study Bible</a>
+
+    The NLT Translation has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The [Filament Study Bible](https://amzn.to/3CcB5Cu) brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+    - [Dr. Tremper Longman III (Ph.D., Yale)]()
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+    
+    <!--  -->
+
+    > **7:6-8** Jesus first responds by quoting Isa 29:13 (Greek version), which deals with the **farce** of equating **man-made ideas** with God's commands. It describes well the situation in which the Pharisees had substituted their human **tradition** for **God's law**."<br>
+    **7:9-13** Next, Jesus provides an **instance** where the Pharisees' traditions contradicted **God's law** and allowed them ti **sidestep** its requirements.
+    
+
+- <a name="ib5" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.5. MacArthur Study Bible ESV, 2nd ed.</a>
 
     The <a href="https://amzn.to/3UFP1g2">MacArthur Study Bible ESV, 2nd ed.</a> by John MacArthur. 
     
