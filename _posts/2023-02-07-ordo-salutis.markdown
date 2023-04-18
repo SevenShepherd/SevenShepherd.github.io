@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:30:00 -0500
+date: 2023-02-02 3:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -62,8 +62,8 @@ This article will not cover the following groups because they are not legitimate
     - Rom 3:20,28; Gal 2:16; 3:10-12
 - Antinomianism (Ungodly & Condemned)
     - Those who abuse grace and practice lawlessness.
-    - Jd 4 NET; Ro 6:1-2; 1Jn 2:3-6, 3:9-10; Mt 7:21,23
-    - Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5.
+    - Jd 4 NET; Ro 6:1-2; 1Jn 2:3-6, 3:9-10
+    - Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5; Mt 7:21,23.
 - Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Islam)
     - [Those who reject essential doctrine.](https://bit.ly/3XJY5AB)
 
@@ -307,13 +307,13 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 
 <span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
-- Chuck Smith (BA, Life Bible College)
+- Dr. Ron Rhodes (Th.D., Dallas)
+- Skip Heitzig (Ph.D., Trinity Southwest)
+- Jack Van Impe (Ph.D., Pacific)
+- Billy Graham (Self-directed)
+- Chuck Smith (B.A., Life Bible College)
     - Election: *"**God clearly does choose**, but man must also accept God's invitation to salvation."* 
     - Perseverance: *"Apparently there are many who claim to be believers that in fact are not. ... **We do believe in perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."*
-- Skip Heitzig (Ph.D., Trinity Southwest)
-    - Probably the same as Chuck Smith.
-- Jack Van Impe (Ph.D., Pacific)
-    - Saved so as by fire kind of preacher.
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
