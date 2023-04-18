@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:40:00 -0500
+date: 2023-02-02 3:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -21,6 +21,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
     - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
     - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+    - Dr. Walter Martin (Ph.D., California Coast)
     - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
     - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
     - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
@@ -32,7 +33,6 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - John Theodore Mueller (ThD, Xenia)
 - <a href="#arminian">IV. Arminian Theology</a>
 - <a href="#evangelical">V. Evangelical Theology</a>
-    - Ron Rhodes (Th.D., Dallas)
     - Walter Martin (Ph.D., California Coast)
     - Skip Heitzig (Ph.D., Trinity Southwest)
     - Jack Van Impe (Ph.D., Pacific)
@@ -42,7 +42,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
 - <a href="#amyraldism">VIII. Amyraldism</a>
+    - Ron Rhodes (Th.D., Dallas)
     - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
+    - Dr. Frank Turek (DMin, Southern Evangelical Seminary)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
@@ -168,6 +170,15 @@ Wallace, Carson, & Demarest listed below technically have not written a systemat
 |? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a><br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
 |? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
 |? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
+
+I'm also placing Dr. Walter Martin here based on what he said in his book 
+
+- Dr. Walter Martin (Ph.D., California Coast)
+    - The "father" of the counter-cult movement.
+    - Martin was an American Baptist who held 4 earned degrees.
+    - Believed in the continuation of the charismatic spiritual gifts.
+    - Did not believe in the rapture
+    - *"OK, I am a **charismatic Baptist—just like Calvin, Luther, Zwingli, Knox—all the reformers**. I believe the gifts of the Spirit are here until Jesus Christ returns. I am a true Charismatic. ... I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.”"* &mdash; The Kingdom of the Occult. p. 685.
     
 <!-- | Historical Scholars | Years | Positions | 
 | --- | --- | --- |
@@ -319,14 +330,6 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 
 <span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
-- Dr. Ron Rhodes (Th.D., Dallas)
-    - Part of the ESV Study Bible
-    - Superb Apologist
-- Dr. Walter Martin (Ph.D., California Coast)
-    - The "father" of the counter-cult movement.
-    - Martin was an American Baptist who held 4 earned degrees.
-    - Believed in the continuation of the charismatic spiritual gifts.
-    - Did not believe in the rapture
 - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
 - Dr. Jack Van Impe (Ph.D., Pacific)
 - Billy Graham (Self-directed)
@@ -465,22 +468,30 @@ Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a mo
 
 > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
-⚠️ Further investigation is necessary to determine whether or not it is [Synergistic](https://carm.org/dictionary/synergism/).
+❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
 
 > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
 
 <!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
+<span style="font-style:Italic;font-size:1.6em;">Noteable Scholars</span>
 
-- <span>Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)</span>
+It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well.
+
+This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes here because of his own words, but he could also be placed in evangelical theology which is broadly reformed.
+
+- Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
+- [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
+- [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
+    - Part of the ESV Study Bible
+    - *"I do believe in both [Reformed & Arminian views]: since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
+    - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
 
 <!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
 
-
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-?
+See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance.
 
 <!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">The Apostle Paul</span>
 
