@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 20:25:00 -0500
+date: 2023-04-14 20:30:00 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -72,7 +72,7 @@ Let us not be like the [seed that fell among the thorns](https://www.biblegatewa
 
 <!-- The path walked by the many will lead them to total destruction, do not follow the crowd on the wide path to hell, for narrow is the way, which leads unto life, and there will be few that find it. -->
 
-Beware, for the road traveled by the multitude leads not to salvation, but to utter destruction. Do not be swayed by the flow of the masses towards the broad path that leads to eternal damnation. Rather, be resolute and steadfast, for the way that leads to life is narrow and fraught with hardship, and few indeed will find it. The choice is yours, and it will determine your fate for all eternity.
+Beware, for the road traveled by the multitude leads not to salvation, but to utter destruction. Do not be swayed by the flow of the masses towards the broad path that leads to eternal damnation. Rather, be resolute and steadfast, for the way that leads to life is narrow and fraught with hardship, and few indeed will find it.
 
 <!-- It is the one who pleads with others, who is mocked and laughed at, persecuted and maligned, slandered and ostracized for speaking the truth, this is one who you should listen closely to and heed their words, -->
 
