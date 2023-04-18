@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 20:15:00 -0500
+date: 2023-04-14 20:20:00 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -18,7 +18,7 @@ It's common for a child, or one who is new to the faith, to wonder whether or no
 
 > <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 9:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB)
 
-It's important to understand this and keep the inspired words of the Holy God within you, because the children of the devil are many, and Satan will use them like pawns to speak against you when hardship finds you. Remember that in this world, all men will endure the vicissitudes of life, and it is not because you made a mistake, or over something you're truly contrite and repentant of, no, it is simply the way life is for us all.
+It's important to understand this and keep the inspired words of the Holy God within you, because the children of the devil are many, and Satan will use them like pawns to speak against you when hardship finds you. Remember that in this world, all men will endure the vicissitudes of life, and it is not because you made a mistake, or over something you're truly [repentant (contrite)](https://bit.ly/3IchrbQ) of; no, it is simply the way life is for us all.
 
 > ... For he gives his sunlight to both the evil and the good, and **he sends rain on the just and the unjust alike**. &mdash; [Matthew 5:45 NLT](https://www.biblegateway.com/passage/?search=Matthew+5:45&version=ESV;NLT)
 
