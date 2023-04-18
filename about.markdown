@@ -176,11 +176,36 @@ These highly recommended versions and studies push our understanding far beyond 
 |:-:|:-:|
 |Formal Equivalence<br>"Word-For-Word"|[☩ **ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
-According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible. The ESV is the only version worthy of replacing the poetic KJV for the purpose of memorization, and is far more accurate at the same time.
+According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible.
 
 > “... The ESV is one of the few, and surpasses the others in its simple yet elegant style. In many respects **the ESV has accomplished in the 21st century what the KJV accomplished in the 17th**: a trustworthy, literary Bible that is suitable for daily reading, memorizing, and preaching.” &mdash; Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts
 
-- <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
+[**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+- [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
+
+<!-- - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Including:
+    - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+    - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+    - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Ron Rhodes (Th.D., Dallas)]()
+    - Recommendations
+        - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
+        - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
+        - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV) -->
+
+<!-- - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
     - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
     - Including [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
@@ -190,7 +215,7 @@ According to quantitative linguistic comparison of Bible translations using comp
     - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
     - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
     - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV) -->
 
 
 |Translation type|Recommendations|
@@ -199,9 +224,17 @@ According to quantitative linguistic comparison of Bible translations using comp
 
 The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
 
-> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard, Westminister, & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-- <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
+<a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a> is a completely new, Non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
+
+<!-- - <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
     - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
     - Translation Type: Optimal Equivalence
     - Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
@@ -210,24 +243,32 @@ The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, n
     - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET) -->
 
 |Translation type|Recommendations|
 |:-:|:-:|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[☩ **NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 
-The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading.
+<!-- The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading. -->
 
-⚠️ 1Cor. 6:9 
 
-- <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
+The NLT Translation has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The [Filament Study Bible](https://amzn.to/3CcB5Cu) brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Many distinguished scholars including:
+
+⚠️ 1Cor. 6:9 (see [article](https://sevenshepherd.github.io/NLT/))
+
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+
+<!-- - <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
     - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
     - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
     - Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
     - Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc.
     - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
     - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT) -->
 
 |Translation type|Recommendations|
 |:-:|:-:|
