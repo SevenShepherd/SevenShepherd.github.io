@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 20:30:00 -0500
+date: 2023-04-14 20:35:00 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -20,9 +20,38 @@ It's not uncommon for a child or a newcomer to the faith to ponder whether the a
 
 > <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 9:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB)
 
-It's important to understand this and keep the inspired words of the Holy God within you, because the children of the devil are many, and Satan will use them like pawns to speak against you when hardship finds you. Remember that in this world, all men will endure the vicissitudes of life, and it is not because you made a mistake, or over something you're truly [repentant (contrite)](https://bit.ly/3IchrbQ) of; no, it is simply the way life is for us all.
+It's important to understand this and keep the inspired words of the Holy God within you, because the world is rife with the progeny of the devil, and the machinations of the wicked who act as pawns for Satan, loom large, threatening to assail us in times of adversity. 
 
-<!-- Preserving the inspired words of the Holy God within oneself is crucial, for the world is rife with the progeny of the devil, whom Satan manipulates as pawns to assail us in times of adversity. Yet, we must bear in mind that all mortals are subject to the caprices of fate, regardless of any personal foibles or genuine remorse. Therefore, it is incumbent upon us to remain steadfast in our faith and draw solace from divine teachings to fortify ourselves against the travails of life. -->
+Remember that in this world, all mortals will endure the vicissitudes of life, and are subject to the capriciousness of this unavoidable fate, regardless of any personal foibles or genuine remorse. Adversity may befall us, not due to any personal wrongdoing, even if one is sincere and remorseful. It is a mere consequence of the inexplicable and enigmatic ways of life that we all must endure. 
+
+It is not because you made mistakes, and it is not over something you're truly [repentant (contrite)](https://bit.ly/3IchrbQ) of; no, it is simply the way life is for us all. Therefore, it is incumbent upon us to remain steadfast in our faith and draw solace from the divine teachings to fortify ourselves against the travails of this life.
+
+<!-- whom Satan manipulates as pawns to assail us in times of adversity. -->
+
+
+<!-- the machinations of the wicked, who act as pawns for the adversary, loom large, threatening to assail us in times of hardship. -->
+
+
+<!-- The vicissitudes of fate spare no one, and the machinations of the wicked, who act as pawns for the adversary, loom large, threatening to assail us in times of hardship. -->
+
+<!-- It is imperative to recognize that life's afflictions are not necessarily the result of personal failings, even for the sincere and penitent. Such tribulations are often an unavoidable aspect of existence, to which we are all subject. -->
+
+<!-- Adversity may befall us, not due to any personal wrongdoing, even if one is sincere and remorseful. It is a mere consequence of the inexplicable and enigmatic ways of life that we all must endure. The vicissitudes of fate spare no one, and the machinations of the wicked, who act as pawns for the adversary, loom large, threatening to assail us in times of hardship. -->
+
+
+<!-- It should be noted that afflictions that come one's way are not necessarily a consequence of personal shortcomings, even if one is sincere and truly repentant. -->
+
+
+
+<!-- However, we must bear in mind that all mortals are subject to the capriciousness of fate, regardless of any personal foibles or genuine remorse. -->
+ 
+<!-- Yet, we must bear in mind that all mortals are subject to the caprices of fate, regardless of any personal foibles or genuine remorse.  -->
+
+
+
+<!-- It is imperative to preserve the divine words within oneself, for the world is inundated with the offspring of Satan, whom he manipulates as his pawns to assail us during times of adversity.  -->
+
+<!-- However, we must bear in mind that all mortals are subject to the capriciousness of fate, regardless of any personal foibles or genuine remorse. Therefore, it is incumbent upon us to remain steadfast in our faith and draw solace from divine teachings to fortify ourselves against the vicissitudes of life. It should be noted that afflictions that come one's way are not necessarily a consequence of personal shortcomings, even if one is sincere and truly repentant. -->
 
 > ... For he gives his sunlight to both the evil and the good, and **he sends rain on the just and the unjust alike**. &mdash; [Matthew 5:45 NLT](https://www.biblegateway.com/passage/?search=Matthew+5:45&version=ESV;NLT)
 
@@ -52,7 +81,7 @@ We all share this same fate, from the evilest human being to the most righteous.
 
 <!-- Remember that there are those out there who are both wise and skilled yet suffer poverty, there are those who spend many years in education but never amount to anything, as well as elite soldiers in the prime of their lives who are done in by an amateur; this is all by chance and we can never predict when hard times will come. Like an animal that is caught in a net, so you shall be when your time comes. -->
 
-Ecclesiastes 9:11 reminds us that chance plays a significant role in the lives of all people. Despite their wisdom and expertise, some individuals may suffer from poverty, while others may dedicate years to education without achieving success. Even the strongest and most skilled soldiers can fall to an inexperienced adversary. These unpredictable and seemingly random events highlight the capricious nature of fate. Ultimately, we are all subject to the whims of chance, much like an animal ensnared in a trap.
+Ecclesiastes 9:11 reminds us that chance plays a significant role in the lives of all people. Despite their wisdom and expertise, some individuals may suffer from poverty, while others may dedicate years to education without achieving success. Even the strongest and most skilled soldiers can fall to an inexperienced adversary. These unpredictable and seemingly random events highlight the capricious nature of fate. Like an animal that is caught in a net, so you shall be when your time comes.
 
 > <sup style="font-weight:bold;">11</sup> I have observed something else under the sun. The fastest runner doesn’t always win the race, and the strongest warrior doesn’t always win the battle. <span style="font-weight:bold;">The wise sometimes go hungry, and the skillful are not necessarily wealthy.</span> And those who are educated don’t always lead successful lives. <span style="font-weight:bold;">It is all decided by chance</span>, by being in the right place at the right time. <sup style="font-weight:bold;">12</sup> <span style="font-weight:bold;">People can never predict when hard times might come.</span> Like fish in a net or birds in a trap, people are caught by sudden tragedy. &mdash; Ecclesiastes 9:11 NLT
 
