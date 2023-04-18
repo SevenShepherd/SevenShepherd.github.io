@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "📖 The NRSVue Has Become The Worst Bible Version Of The Year. The NLT Is Really Good Except For This One Issue."
-date: 2023-04-15 01:55:50 -0500
-categories: nrsvue nlt version
+title: "📖 The NLT Is Great. The NRSVue Is Not."
+date: 2023-04-15 02:00:00 -0500
+categories: nlt nrsvue version
 published: true
 ---
+
+<!-- The NRSVue Has Become The Worst Bible Version Of The Year. The NLT Is Really Good Except For This One Issue. -->
 
 <!-- The NRSVue Has Become Complete Trash In My Eyes. The NLT Is Amazing Except For This One Issue. -->
 
@@ -14,11 +16,11 @@ published: true
 
 <span style="font-style:Italic;font-size:1.6em;color:Black;">The NLT Is My Favorite Dynamic Translation But I Am Disappointed To Find This Single Error</span>
 
-While this video is primarily about the NRSVue and it's short comings, The NLT has 1 of the problems mentioned in this video, specifically 1 Corinthians 6:9. [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords), author of [Authorized](https://amzn.to/3SYHVT3), has brought to my attention, a particularly dangerous error that has found it's way into one of the best dynamic translations ever made. If you own an NLT and a [pen](https://amzn.to/3WDHFdd), correct this in your bible.
+While this video is primarily about the NRSVue and it's short comings, The NLT has 1 of the problems mentioned in this video, specifically 1 Corinthians 6:9. [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords), author of [Authorized](https://amzn.to/3SYHVT3), has brought to my attention, a particularly dangerous error.
 
 > I must call the NRSVue’s rendering of 1 Corinthians what it is: a removal of something Paul said by the inspiration of the Spirit. &mdash; [Dr. Mark Ward (PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)
 
-After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment when I found this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation.
+<!-- After going through and meticulously applying every litmus test I could possibly think of to find the very best Bible versions, the NLT won best dynamic translation and was top 3 overall out of 62+ bible versions. So as you can imagine my disappointment when I found this imperfection. While only two versions remain, the NLT is still a very fine Bible version, in fact still better than 59 others, so if you own or buy this version, just mark this verse with the proper translation. -->
 
 |✅ Versions|Super Accurate Translations|
 |:-:|:-:|
@@ -38,6 +40,32 @@ I should say that the NLT, unlike the NRSVue, does in fact condemn within the sa
 The last two columns account for this articles context. For a full set of charts that include all of this ministries research, see [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 
 |Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
+|:-:|:-:|:-:|:-:|:-:|
+|<span style="font-weight:bold;color:#efcc00;">CSB</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">DARBY</span>|✔️|✔️|✔️|❌|
+|<span style="font-weight:bold;color:green;">DRA</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">EHV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
+|<span style="font-weight:bold;color:green;">HCSB</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">KJV</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">LEB</span>|👑|✔️|👑|✔️|
+|<span style="font-weight:bold;color:green;">LSB</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MOUN.</span>|✔️|➖|❌|✔️|
+|<span style="font-weight:bold;color:#E28D00;">MSG</span>|🆗|✔️|✔️|❌|
+|<span style="font-weight:bold;color:green;">NASB '20</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NASB '95</span>|✔️|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">NET</span>|✔️|🦶|👑|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIRV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NIV</span>|❌|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">NKJV</span>|👑|✔️|✔️|❌|
+|<span style="font-weight:bold;color:#efcc00;">NLT</span>|✔️|✔️|❌|✔️|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>A</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>ACE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:#BC3823;">NRSV<br>CE</span>|🆗|❌|❌|❌|
+|<span style="font-weight:bold;color:darkred;">NRSV<br>UE</span>|❌|❌|❌|❌|
+
+<!-- |Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
 |:-:|:-:|:-:|:-:|:-:|
 |<span style="font-weight:bold;color:green;">AKJV</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">AMP</span>|❌|✔️|✔️|✔️|
@@ -100,7 +128,7 @@ The last two columns account for this articles context. For a full set of charts
 |<span style="font-weight:bold;color:#E28D00;">WE</span>|🆗|➖|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">WEB</span>|✔️|✔️|❌|✔️|
 |<span style="font-weight:bold;color:green;">WYC</span>|👑|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:green;">YLT</span>|👑|✔️|✔️|✔️|
+|<span style="font-weight:bold;color:green;">YLT</span>|👑|✔️|✔️|✔️| -->
 
 <!-- <span style="font-weight:bold;font-size:1.4em;">Versions Containing The Unfortunate Rendering</span>
 
@@ -125,7 +153,7 @@ The last two columns account for this articles context. For a full set of charts
 
 <span style="font-weight:bold;font-size:1.4em;">No Essential Doctrine Is Jeopardized By Any Textual Variant</span>
 
-Normally I give a disclaimer about textual variants and how no essential doctrine is effected by them; however, while this still does not effect essential doctrine, this is still a blatantly clear bias and possibly even a subversive attack on the Bible from the mainline progressive "Christianity," which is of course antithetical to Christianity and openly heretic. This issue isn't a textual variant issue, but alas, here is my disclaimer:
+<!-- Normally I give a disclaimer about textual variants and how no essential doctrine is effected by them; however, while this still does not effect essential doctrine, this is still a blatantly clear bias and possibly even a subversive attack on the Bible from the mainline progressive "Christianity," which is of course antithetical to Christianity and openly heretic. This issue isn't a textual variant issue, but alas, here is my disclaimer: -->
 
 Scholarship has proven that **no cardinal doctrine is affected** by any viable variant. Regardless of what text is used, **Jesus is affirmed as God in the flesh, as rising from the dead bodily, as ascending to heaven and as coming again some day.** 
 
