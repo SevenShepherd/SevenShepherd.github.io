@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:35:00 -0500
+date: 2023-02-02 3:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -25,12 +25,24 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
     - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
 - <a href="#roman">II. Roman Catholicism</a>
+    - Traditional: Ludwig Ott (doctorate in Munich)
+    - Post-Vatican II: Richard P. McBrien (doctorate at Pontifical Gregorian)
 - <a href="#lutheran">III. Lutheran Theology</a>
+    - Francis Pieper (D.D., Northwestern)
+    - John Theodore Mueller (ThD, Xenia)
 - <a href="#arminian">IV. Arminian Theology</a>
 - <a href="#evangelical">V. Evangelical Theology</a>
+    - Ron Rhodes (Th.D., Dallas)
+    - Walter Martin (Ph.D., California Coast)
+    - Skip Heitzig (Ph.D., Trinity Southwest)
+    - Jack Van Impe (Ph.D., Pacific)
+    - Billy Graham (Self-directed)
+    - Chuck Smith (B.A., Life Bible College)
 - <a href="#free">VI. Free Grace Theology</a>
+    - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
 - <a href="#amyraldism">VIII. Amyraldism</a>
+    - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
@@ -308,8 +320,15 @@ God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; 
 <span style="font-style:Italic;font-size:1.6em;">Pastors & Preachers</span>
 
 - Dr. Ron Rhodes (Th.D., Dallas)
-- Skip Heitzig (Ph.D., Trinity Southwest)
-- Jack Van Impe (Ph.D., Pacific)
+    - Part of the ESV Study Bible
+    - Superb Apologist
+- Dr. Walter Martin (Ph.D., California Coast)
+    - The "father" of the counter-cult movement.
+    - Martin was an American Baptist who held 4 earned degrees.
+    - Believed in the continuation of the charismatic spiritual gifts.
+    - Did not believe in the rapture
+- Dr. Skip Heitzig (Ph.D., Trinity Southwest)
+- Dr. Jack Van Impe (Ph.D., Pacific)
 - Billy Graham (Self-directed)
 - Chuck Smith (B.A., Life Bible College)
     - Election: *"**God clearly does choose**, but man must also accept God's invitation to salvation."* 
@@ -393,7 +412,7 @@ The following description was supplied by Dr. Charles C. Ryrie in <span style="c
 
 <a name="lordship" href="#contents" style="font-size:2.1em;">VII. Lordship Salvation</a>
 
-I have placed Lordship Salvation below Free Grace Theology because it may be a fabricated term, as historical protestant theologies have always stated that faith alone (*"sola fide"*) naturally results in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism; however, lordship salvation may be a concern and distinct from any other theology listed in this article, let's look at some concerns.
+I have placed Lordship Salvation below Free Grace Theology because it may be a fabricated term by them, as historical protestant theologies have always stated that faith alone (*"sola fide"*) naturally results in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism; however, lordship salvation may be a concern and distinct from any other theology listed in this article, let's look at some concerns.
 
 <!-- > I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster) Historical Protestant Position](https://amzn.to/3k3gESD) -->
 
