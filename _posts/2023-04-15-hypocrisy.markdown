@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:35:35 -0500
+date: 2023-04-15 01:40:40 -0500
 categories: hypocrisy
 published: true
 ---
@@ -14,7 +14,23 @@ published: true
 
 <!-- 🃏 -->
 
-I've written this article to test out a more organized hierarchical outline. I may expand this article to completion at a later date.
+<!-- You might've noticed that I have selected the *'Performing Arts Emoji'* for this article; This is not by accident since the term *"hypocrite"* originally referred to actors who wore masks on stage as they played different characters. I've written this article to test out a more organized hierarchical outline. I may expand this article to completion at a later date. -->
+
+Perchance you may have observed that the iconography of the 'Performing Arts Emoji' has been elected to serve as the visual representation for the present compendium. This is a deliberate and calculated choice, as the epithet "hypocrite" can trace its etymology back to the domain of the dramatic arts (thespians), in which actors, in their enactment of multifarious personages, habitually obscured their countenances with masks. The rationale behind this written discourse is to experiment with an orderly and methodical hierarchical format for the presentation of the subject matter contained herein. It is not improbable that the current manuscript will be expanded and further refined in order to ultimately achieve a state of conclusive finality.
+
+In other words, I've written this article to test out a more organized hierarchical outline...
+
+<!-- Perchance you may have observed that the iconography of the 'Performing Arts Emoji' has been elected to serve as the visual representation for the present compendium. This is a deliberate and calculated choice, as the epithet "hypocrite" can trace its etymology back to the domain of the dramatic arts, in which actors, in their enactment of multifarious personages, habitually obscured their countenances with masks. The rationale behind this written discourse is to experiment with an orderly and methodical hierarchical format for the presentation of the subject matter contained herein. It is not improbable that the current manuscript will be expanded and further refined in order to ultimately achieve a state of conclusive finality. -->
+
+<!-- Verily, one might have discerned that I have, in this instance, opted to employ the 'Performing Arts Emoji' in this written work; I assure thee that this was a conscientious selection, given that the word "hypocrite" doth have its etymology in the dramatic arts, where actors oft did conceal their visage with a mask as they took on sundry personae. The purpose of this literary composition is to evaluate the efficacy of an organized, hierarchical structure in presenting the subject matter therein. It is within the realm of possibility that this treatise shall undergo further augmentation in the quest to attain a state of conclusive finality at some future point in temporal progression. -->
+
+<!-- Beneath your perceptual faculties, you may have observed that I have consciously designated the 'Performing Arts Emoji' for employment within this composition. Such an occurrence is not by chance, for the nomenclature of "hypocrite" traces its etymology to the art of thespians, who, while enacting a multitude of personas, concealed their faces behind masks. The present dissertation has been conceived with the express purpose of testing a hierarchical framework of methodical organization in the presentation of subject matter. It is possible that this thesis may undergo subsequent augmentations towards the ultimate attainment of a definitive termination at an unspecified point in the temporal continuum. -->
+
+<!-- Perchance, it has come to your discernment that I have opted for the 'Performing Arts Emoji' in this particular manuscript. Be apprised that this is not a fortuity, but a deliberate choice made on the account that the appellation of 'hypocrite' in its origin alluded to performers, who, while donning masks, portrayed sundry roles. The present discourse is fashioned in a manner that enables me to scrutinize a more systematic and hierarchical configuration. It is plausible that, in due course, I shall expatiate on this composition, and bring it to a state of consummation. -->
+
+<!-- It has been brought to attention that the "Performing Arts Emoji" has been chosen for utilization in this literary composition. Such a deliberate selection is not incidental, as the nomenclature "hypocrite" traces its etymological origins to the dramatic arts, wherein players, in their enactment of various roles, often concealed their countenance behind a mask. This written dissertation has been produced with the intent of evaluating the utility of a systematized hierarchical framework in the presentation of the subject matter. It is plausible that the present composition may undergo further augmentation towards achieving a state of terminative completion at some future temporal juncture. -->
+
+<!-- It has been duly observed that the "Performing Arts Emoji" has been elected for employment within the present discourse. Such action was not undertaken by mere chance, as the term "hypocrite" has its origins steeped in the theatrical arts where performers, in their role-playing as various personages, would oftentimes be adorned with masks. This written work has been crafted as a preliminary effort to assay the feasibility of employing an organized and hierarchical delineation in presenting the subject matter. It remains a possibility that the present composition may be further developed to a level of completion at some subsequent time. -->
 
 > Ask God to reveal the hypocrisy in your life&mdash;an inconsistency between what you profess and what you practice. Then ask God to bring you so close to Christ that you won't have any desire to live an inconsistent, deceitful life. &mdash; Billy Graham
 
