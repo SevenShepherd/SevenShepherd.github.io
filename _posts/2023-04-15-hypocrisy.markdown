@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:40:40 -0500
+date: 2023-04-15 01:45:45 -0500
 categories: hypocrisy
 published: true
 ---
@@ -93,9 +93,9 @@ In other words, I've written this article to test out a more organized hierarchi
 
     The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
     
-    - [Dr. Tremper Longman III (Ph.D., Yale University)]()
+    - [Dr. Tremper Longman III (Ph.D., Yale)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-    - [Dr. Mark L. Strauss (Ph.D., University of Aberdeen)]()
+    - [Dr. Mark L. Strauss (Ph.D., Aberdeen)]()
 
     <!--  -->
     
@@ -156,9 +156,9 @@ In other words, I've written this article to test out a more organized hierarchi
 
     The <a href="https://amzn.to/417o3A0">Biblical Theology Study Bible</a>, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
     
-    - [Dr. Tremper Longman III (Ph.D., Yale University)]()
+    - [Dr. Tremper Longman III (Ph.D., Yale)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-    - [Dr. Mark L. Strauss (Ph.D., University of Aberdeen)]()
+    - [Dr. Mark L. Strauss (Ph.D., Aberdeen)]()
     
     <!--  -->
 
