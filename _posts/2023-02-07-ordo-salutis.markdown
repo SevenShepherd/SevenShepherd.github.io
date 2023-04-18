@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:45:00 -0500
+date: 2023-02-02 3:50:00 -0500
 categories: salvation
 published: true
 ---
@@ -33,7 +33,6 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - John Theodore Mueller (ThD, Xenia)
 - <a href="#arminian">IV. Arminian Theology</a>
 - <a href="#evangelical">V. Evangelical Theology</a>
-    - Walter Martin (Ph.D., California Coast)
     - Skip Heitzig (Ph.D., Trinity Southwest)
     - Jack Van Impe (Ph.D., Pacific)
     - Billy Graham (Self-directed)
@@ -41,10 +40,10 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - <a href="#free">VI. Free Grace Theology</a>
     - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
-- <a href="#amyraldism">VIII. Amyraldism</a>
+- <a href="#amyraldism">VIII. Moderate Calvinism (Amyraldism)</a>
     - Ron Rhodes (Th.D., Dallas)
     - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
-    - Dr. Frank Turek (DMin, Southern Evangelical Seminary)
+    - Frank Turek (DMin, Southern Evangelical Seminary)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
@@ -171,7 +170,7 @@ Wallace, Carson, & Demarest listed below technically have not written a systemat
 |? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
 |? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
 
-I'm also placing Dr. Walter Martin here based on what he said in his book 
+I'm also placing Dr. Walter Martin here based on what he said in his book.
 
 - Dr. Walter Martin (Ph.D., California Coast)
     - The "father" of the counter-cult movement.
@@ -462,7 +461,7 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 
 > In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx).
 
-<a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Amyraldism</a>
+<a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Moderate Calvinism (Amyraldism)</a>
 
 Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
@@ -480,7 +479,7 @@ It's become evident that most experts in apologetics hold to a moderate calvinis
 
 This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes here because of his own words, but he could also be placed in evangelical theology which is broadly reformed.
 
-- Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
+- Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
 - [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
 - [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
     - Part of the ESV Study Bible
