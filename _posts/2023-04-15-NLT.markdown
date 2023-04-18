@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📖 The NLT Is Great. The NRSVue Is Not."
-date: 2023-04-15 02:00:00 -0500
+title: "📖 The NLT Is Great Except For This One Issue. The NRSVue However Is Terribly Misguided."
+date: 2023-04-15 02:10:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
