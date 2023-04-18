@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy"
-date: 2023-04-15 01:30:30 -0500
+date: 2023-04-15 01:35:35 -0500
 categories: hypocrisy
 published: true
 ---
@@ -48,7 +48,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 >
 <span style="font-weight:bold;margin-left:25px;"><sup>8</sup> ‘This people honors me with their lips, but their heart<sup><a href="https://www.biblegateway.com/passage/?search=Matthew+15%3A7-8&version=NET">[a]</a></sup> is far from me,</span>
 >
-&mdash; <a href="https://www.biblegateway.com/passage/?search=Matthew+15%3A7-8&version=NET">Matthew 15:7-8 NET</a> a. tn The term “heart” is a collective singular in the Greek text.
+<a href="https://www.biblegateway.com/passage/?search=Matthew+15%3A7-8&version=NET">a.</a> tn The term “heart” is a collective singular in the Greek text.
 
 <!-- - <a name="ia0" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.a.1. <a href="https://amzn.to/3WsN0Uw" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">ESV Study Bible</a></a> -->
 
@@ -56,14 +56,14 @@ I've written this article to test out a more organized hierarchical outline. I m
 
     <!-- According to the [**ESV Study Bible**](https://amzn.to/3WsN0Uw) with over 200+ biblical scholars ([100+](https://www.esv.org/translation/) in translation; 95 in study) from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With scholars from Universities of Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. Including distinguished research professor of theology and biblical studies [Dr. Wayne Grudem (Ph.D., Cambridge; D.D. Westminister; B.A. Harvard)](https://youtu.be/s9e3Y2SMXag) member of the Translation Oversight Committee for the ESV, and general editor of the ESV Study Bible, as well as the world renowned [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible. -->
 
-    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Including:
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Many distinguished scholars including:
     - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
     - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
     - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
     - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
     - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-    - [Ron Rhodes (Th.D., Dallas)]()
+    - [Dr. Ron Rhodes (Th.D., Dallas)]()
     
     <!-- Including distinguished research professor [Dr. Wayne Grudem (Ph.D., Cambridge; D.D. Westminister; B.A. Harvard)](https://youtu.be/s9e3Y2SMXag) and world renowned [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo).  -->
     
@@ -93,7 +93,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 >
 <span style="font-weight:bold;margin-left:25px;">‘This people honors me with their lips, but their heart<sup><a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">[a]</a></sup> is far from me.</span>
 >
-&mdash; <a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">Mark 7:6 NET</a> a. tn The term “heart” is a collective singular in the Greek text.
+<a href="https://www.biblegateway.com/passage/?search=Mark+7%3A6%3B+12%3A13-17&version=NET">a.</a> tn The term “heart” is a collective singular in the Greek text.
 
 <!-- - <span style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a></span> -->
 
@@ -109,14 +109,14 @@ I've written this article to test out a more organized hierarchical outline. I m
 
 - <a name="ib1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. ESV Study Bible</a>
 
-    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Including:
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Many distinguished scholars including:
     - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
     - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
     - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
     - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
     - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-    - [Ron Rhodes (Th.D., Dallas)]()
+    - [Dr. Ron Rhodes (Th.D., Dallas)]()
 
     <!--  -->
     
@@ -127,7 +127,7 @@ I've written this article to test out a more organized hierarchical outline. I m
 - <a name="ib2" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.2. Thomas Nelson Study Bible</a>
 
     Commentary from Thomas Nelson Study Bible. Including:
-    - [Bruce M. Metzger (Ph.D., Princeton)]()
+    - [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
     - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 
     <!--  -->
