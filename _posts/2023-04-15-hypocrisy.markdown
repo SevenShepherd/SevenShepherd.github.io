@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎭 An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy — Billy Graham"
-date: 2023-04-15 02:00:00 -0500
+title: "🎭 \"An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy\" — Billy Graham"
+date: 2023-04-15 02:01:01 -0500
 categories: hypocrisy
 published: true
 ---
