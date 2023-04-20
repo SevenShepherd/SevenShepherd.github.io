@@ -93,7 +93,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Spiritual Gifts|Non-cessationism<br>Soft-cessationism<br>Open|
 ||Theological conservatism| -->
 
-<!-- Dr. Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
+<!-- Daniel B. Wallace is a [Cessationist](https://bible.org/article/uneasy-conscience-non-charismatic-evangelical)| -->
 
 <!-- |Translation type|Recommendations|
 |:-:|:-:|
@@ -104,52 +104,63 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Texts</span>
 
-I consider Dr. Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much more succinct and useful for travel. 
+I consider Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much more succinct and useful for travel. 
 
 I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
 
-<!-- When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Dr. Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness. -->
+<!-- When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness. -->
 
 <!-- There're quite a few recommendations here, but if I could only pick one, I think I'd choose J. I. Packer's Concise Theology in it's hardcover ESV edition from Crossway. The reason being is because it is concise. -->
 
 <!-- |Professor/Preacher|Books|
 |:-:|:-:|
-|[Dr. Wayne Grudem<br>(PhD, Cambridge; DDiv, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
-|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[The Unseen Realm](https://amzn.to/40Rak0O)|
-|Dr. Michael F. Bird (PhD, University of Queensland)|[Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)|
-|[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
-|[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)| -->
+|[Wayne Grudem<br>(Ph.D., Cambridge; DDiv, Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)|
+|[Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[The Unseen Realm](https://amzn.to/40Rak0O)|
+|Michael F. Bird (Ph.D., Queensland)|[Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)|
+|[Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
+|[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)| -->
 
-|Professor|Books|
+|Professors|Books|
 |:-:|:-:|
 |**Theology**||
-|[Dr. Wayne Grudem<br>(PhD, University of Cambridge; DD, Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
-|[Dr. J. I. Packer<br>(PhD, University of Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
-|[Dr. R. C. Sproul<br>(PhD, Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
-|Dr. Bruce Demarest (PhD, University of Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
+|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |||
 |**Textual Criticism**||
-|[Dr. Daniel B. Wallace<br>(PhD, Dallas Theological Seminary)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Peter J. Gurry (PhD, University of Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes](https://amzn.to/3Yz7L0Z)|
+|[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes](https://amzn.to/3Yz7L0Z)|
 |||
 |**Divine Council Theory**<br>**OT Textual Criticism**||
-|[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
+|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
 |||
 |**Apologetics**||
-|Matt Slick<br>(MDiv, Westminster Theological Seminary)|[☩ CARM](https://carm.org/)|
+|Dr. Walter Martin (Ph.D., California Coast)|[☩ The Kingdom of the Cults](https://amzn.to/3mHa7OR)<br>[☩ The Kingdom of the Occult](https://amzn.to/3mIzboD)<br>[☩ Quick Reference](https://amzn.to/40m5reP)|
+|Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
 
-<!-- |[Dr. Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)| -->
+<!-- |[Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)| -->
+
+<!-- <br>[☩ Quantum Theory](https://amzn.to/41EJYPk) -->
+
+|Professors||
+|:-:|:-:|
+|**Scientist-Theologians**||
+|[Dr. John C. Polkinghorne (Prof. Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)|[☩ Quarks, Chaos & Christianity](https://amzn.to/3GW38s5)|
+|Dr. Alister McGrath (Ph.D., Molecular Biophysics Oxford; D.D. Theology Oxford; D.Litt. Intellectual History Oxford)|[☩ Theology: The Basics](https://amzn.to/3GTqcrt)<br>[☩ Christian Theology: An Introduction](https://amzn.to/3mPsNvI)<br>[☩ Mere Apologetics](https://amzn.to/40ouoWU)|
+
+<!--  -->
 
 
-<!-- <br>Dr. Norman L. Geisler -->
+<!-- <br>Norman L. Geisler -->
 
-<!-- |[Dr. Mark Ward<br>(PhD, Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
+<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
 
 
-<!-- |Dr. Michael F. Bird (PhD, University of Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus](https://amzn.to/3YJQlzb)| -->
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus](https://amzn.to/3YJQlzb)| -->
 
-<!-- |Dr. Michael F. Bird (PhD, University of Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)| -->
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)| -->
 
 <!-- |||
 |**Apologetics**||
@@ -158,7 +169,7 @@ I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAq
 
 <!-- |[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[C2000](https://calvarychapel.com/posts/c2000/)| -->
 
-<!-- |[Dr. Michael S. Heiser<br>(PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
+<!-- |[Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
 
 
 <!-- [Unfiltered](https://amzn.to/3lyYGrq) -->
@@ -193,11 +204,11 @@ According to quantitative linguistic comparison of Bible translations using comp
 - [Dr. Ron Rhodes (Th.D., Dallas)]()
 
 <!-- - [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities; Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Including:
-    - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
-    - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
-    - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
-    - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
-    - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+    - [J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - [Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+    - [Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+    - [Darrell L. Bock (Ph.D., Dallas)]()
     - [D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
     - [Ron Rhodes (Th.D., Dallas)]()
     - Recommendations
@@ -207,8 +218,8 @@ According to quantitative linguistic comparison of Bible translations using comp
 
 <!-- - <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
     - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
-    - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
-    - Including [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
+    - Including [Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
+    - Including [J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
     - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
     - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
     - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc.
@@ -224,7 +235,7 @@ According to quantitative linguistic comparison of Bible translations using comp
 
 The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
 
-> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard, Westminister, & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Wayne Grudem, Harvard, Westminister, & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
 <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a> is a completely new, Non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
 
@@ -239,7 +250,7 @@ The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, n
     - Translation Type: Optimal Equivalence
     - Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
     - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. 
+    - Including **Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas, and **W. Hall Harris III** editor of LEB and contributor of NASB '95. 
     - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
     - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
     - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
@@ -318,12 +329,12 @@ This section details even more advanced material for those who want to deep dive
 <!-- |||
 |:-:|:-:|
 |**Ancient Languages**||
-|Dr. Gary D. Pratico & Dr. Miles Van Pelt|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)|
-|Dr. William D. Mounce|[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
-|Dr. Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
-|Dr. Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
-|Dr. Gordon P. Hugenberger & Dr. Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
-|Dr. Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)| -->
+|Gary D. Pratico & Miles Van Pelt|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)|
+|William D. Mounce|[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)|
+|Daniel B. Wallace|[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
+|Miles Van Pelt|[Basics of Biblical Aramaic](https://zondervanacademic.com/products/learn-biblical-aramaic-pack)|
+|Gordon P. Hugenberger & Nancy Erickson|[Basics of Akkadian](https://zondervanacademic.com/products/basics-of-akkadian)|
+|Michael Williams|[Basics of Ancient Ugaritic](https://zondervanacademic.com/products/basics-of-ancient-ugaritic)| -->
 
 
 <!-- ## Bible Verses & Financial Wisdom
@@ -346,8 +357,8 @@ This section details even more advanced material for those who want to deep dive
 
 <!-- <span style="font-style:Italic;font-size:24px;">Recommended Books</span>
 
-- [Systematic Theology, Second Edition: An Introduction to Biblical Doctrine](https://amzn.to/40QF8z5) by Dr. Wayne Grudem (PhD, Cambridge).
-- [The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)](https://amzn.to/3HMIbPZ) by Dr. Bruce Demarest (PhD, University of Manchester) -->
+- [Systematic Theology, Second Edition: An Introduction to Biblical Doctrine](https://amzn.to/40QF8z5) by Wayne Grudem (Ph.D., Cambridge).
+- [The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)](https://amzn.to/3HMIbPZ) by Bruce Demarest (Ph.D., Manchester) -->
 
 <!-- <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
