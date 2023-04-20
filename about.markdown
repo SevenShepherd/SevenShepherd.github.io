@@ -102,11 +102,8 @@ You can also check out my custom programmed and automated Twitter based Christia
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended| -->
 
-<span style="font-style:Italic;font-size:2.1em;">Recommended Texts</span>
+<!-- <span style="font-style:Italic;font-size:2.1em;">Recommended Texts</span> -->
 
-I consider Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much more succinct and useful for travel. 
-
-I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
 
 <!-- When I travel I take the equally distinguished [*Concise Theology*](https://amzn.to/40RYx1A) by Packer, as it is much smaller. Packer *"gratefully acknowledges the hidden hand of R. C. Sproul, from whom came the germ idea for several... outlines."* While Sproul has the edge with his charts and summaries, I do consider Packer's [*Concise Theology*](https://amzn.to/40RYx1A) to be an improvement upon Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) in the way of organization and succinctness. -->
 
@@ -120,60 +117,6 @@ I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAq
 |Michael F. Bird (Ph.D., Queensland)|[Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)|
 |[Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[Myths and Mistakes in New Testament Textual Criticism](https://amzn.to/3Yz7L0Z)|
 |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[Authorized](https://amzn.to/3SYHVT3)| -->
-
-|Professors|Books|
-|:-:|:-:|
-|**Theology**||
-|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
-|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
-|||
-|**Textual Criticism**||
-|[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes](https://amzn.to/3Yz7L0Z)|
-|||
-|**Divine Council Theory**<br>**OT Textual Criticism**||
-|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
-|||
-|**Apologetics**||
-|Dr. Walter Martin (Ph.D., California Coast)|[☩ The Kingdom of the Cults](https://amzn.to/3mHa7OR)<br>[☩ The Kingdom of the Occult](https://amzn.to/3mIzboD)<br>[☩ Quick Reference](https://amzn.to/40m5reP)|
-|Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
-
-<!-- |[Frank Turek<br>(DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)| -->
-
-<!-- <br>[☩ Quantum Theory](https://amzn.to/41EJYPk) -->
-
-|Professors||
-|:-:|:-:|
-|**Scientist-Theologians**||
-|[Dr. John C. Polkinghorne (Prof. Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)|[☩ Quarks, Chaos & Christianity](https://amzn.to/3GW38s5)|
-|Dr. Alister McGrath (Ph.D., Molecular Biophysics Oxford; D.D. Theology Oxford; D.Litt. Intellectual History Oxford)|[☩ Theology: The Basics](https://amzn.to/3GTqcrt)<br>[☩ Christian Theology: An Introduction](https://amzn.to/3mPsNvI)<br>[☩ Mere Apologetics](https://amzn.to/40ouoWU)|
-
-<!--  -->
-
-
-<!-- <br>Norman L. Geisler -->
-
-<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
-
-
-<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus](https://amzn.to/3YJQlzb)| -->
-
-<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)| -->
-
-<!-- |||
-|**Apologetics**||
-||| -->
-
-
-<!-- |[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[C2000](https://calvarychapel.com/posts/c2000/)| -->
-
-<!-- |[Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
-
-
-<!-- [Unfiltered](https://amzn.to/3lyYGrq) -->
-<!-- |[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)| -->
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Bibles</span>
 
@@ -302,6 +245,92 @@ This section details even more advanced material for those who want to deep dive
 |Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)|
 |Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)|
 |Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
+
+<span style="font-style:Italic;font-size:2.1em;">Theology</span>
+
+I consider Wayne Grudem's [*Systematic Theology*](https://amzn.to/40QF8z5) to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*](https://amzn.to/40RYx1A) is equally authoritative, just much more succinct and useful for travel. 
+
+I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAqx) as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
+
+|Professors|Books|
+|:-:|:-:|
+|**Systematic Theology**||
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
+|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
+|||
+|**Soteriology**||
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
+
+<span style="font-style:Italic;font-size:2.1em;">Scientific Theology</span>
+
+|Professors|Books|
+|:-:|:-:|
+|**Scientific Theology**||
+|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ A Scientific Theology, Nature: V1](https://amzn.to/3om0V2A)<br>[☩ A Scientific Theology, Reality: V2](https://amzn.to/40sCVIH)<br>☩ A Scientific Theology, Theory: V3<br>[☩ Theology: The Basics](https://amzn.to/3GTqcrt)<br>[☩ Christian Theology: An Introduction](https://amzn.to/3mPsNvI)|
+
+<span style="font-style:Italic;font-size:2.1em;">Textual Criticism</span>
+
+|Professors||
+|:-:|:-:|
+|**NT Textual Criticism**||
+|[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus](https://amzn.to/3jOlQJX)|
+|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes](https://amzn.to/3Yz7L0Z)|
+|||
+|**Divine Council Theory**<br>**OT Textual Criticism**||
+|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm](https://amzn.to/40Rak0O)|
+
+<span style="font-style:Italic;font-size:2.1em;">Apologetics - Cults</span>
+
+|Professors||
+|:-:|:-:|
+|**Apologetics**||
+|Dr. Walter Martin (Ph.D., California Coast)|[☩ The Kingdom of the Cults](https://amzn.to/3mHa7OR)<br>[☩ The Kingdom of the Occult](https://amzn.to/3mIzboD)<br>[☩ Quick Reference](https://amzn.to/40m5reP)|
+|Dr. Ron Rhodes (Th.D., Dallas)|[☩ Reasoning from the Scriptures](https://amzn.to/3Ljc9Og)<br>[☩ 10 Most Important Things](https://amzn.to/43PaIOY)|
+|Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
+
+<span style="font-style:Italic;font-size:2.1em;">Apologetics - Atheist Fundamentalism</span>
+
+
+|Professors||
+|:-:|:-:|
+|**Apologetics**||
+|[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity](https://amzn.to/3GW38s5)|
+|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics](https://amzn.to/40ouoWU)<br>[☩ The Dawkins Delusion](https://amzn.to/3AjJpyR)|
+|[Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
+
+
+<!-- <br>[☩ Quantum Theory](https://amzn.to/41EJYPk) -->
+
+
+
+
+<!--  -->
+
+
+<!-- <br>Norman L. Geisler -->
+
+<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized](https://amzn.to/3SYHVT3)| -->
+
+
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus](https://amzn.to/3YJQlzb)| -->
+
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.](https://amzn.to/3xFJhrY)| -->
+
+<!-- |||
+|**Apologetics**||
+||| -->
+
+
+<!-- |[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[C2000](https://calvarychapel.com/posts/c2000/)| -->
+
+<!-- |[Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)|[The Unseen Realm](https://amzn.to/40Rak0O), [Supernatural](https://amzn.to/3lA8Nfo), [Demons](https://amzn.to/3YsITZP), [Reversing Hermon](https://amzn.to/3lozkMG), [Angels](https://amzn.to/3lAaWrP), [Enoch](https://amzn.to/3K5vEtF)| -->
+
+
+<!-- [Unfiltered](https://amzn.to/3lyYGrq) -->
+<!-- |[*](https://youtu.be/s9e3Y2SMXag)|[Christian Ethics](https://amzn.to/3ImXmk8)| -->
+
+
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Doctrinal Positions</span>
 
