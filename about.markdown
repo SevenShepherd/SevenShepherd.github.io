@@ -57,6 +57,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Articles</span>
 
+- [The Rain Falls On The Just And Unjust Alike](https://bit.ly/3mz70rY)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ)
 - [The Order Of Salvation "Ordo Salutis"](https://bit.ly/3xzIZms)
@@ -297,13 +298,10 @@ I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAq
 |**Apologetics**||
 |[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity](https://amzn.to/3GW38s5)|
 |Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics](https://amzn.to/40ouoWU)<br>[☩ The Dawkins Delusion](https://amzn.to/3AjJpyR)|
-|[Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
+|[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3Jcy5s9)<br>[☩ Stealing from God](https://amzn.to/3yyGW2I)|
 
 
 <!-- <br>[☩ Quantum Theory](https://amzn.to/41EJYPk) -->
-
-
-
 
 <!--  -->
 
