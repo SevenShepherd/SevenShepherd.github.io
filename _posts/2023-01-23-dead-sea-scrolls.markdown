@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text"
-date: 2023-01-23 06:10:00 -0500
+date: 2023-01-23 06:15:00 -0500
 categories: methods families
 published: true
 ---
@@ -9,7 +9,7 @@ published: true
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Jt8OoMLrAyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <span style="font-size:14px;">Refresh page if video does not load.</span>
 
-<span style="font-style:Italic;font-size:34px;color:red;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
+<span style="font-style:Italic;font-size:2em;color:black;">Israel Wasn't Even In Existence When the Most High Divided The Nations!</span>
 
 The fact that Israel didn't even exist at this point in Gen. 11:1-9, as referenced by Deut. 32:8, proves that the **much older** Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
 
