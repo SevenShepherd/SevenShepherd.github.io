@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 3:50:00 -0500
+date: 2023-02-02 4:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -17,14 +17,18 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
 - <a href="#reformed">I. Reformed Theology</a>
-    - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
-    - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
-    - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
-    - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
-    - Dr. Walter Martin (Ph.D., California Coast)
-    - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
-    - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
-    - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+    - Anglican w/ Reformed Soteriology
+        - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+        - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - Reformed Baptist / Baptist Calvinist
+        - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
+        - <a href="#piper">Dr. John Piper (D.Theol., Munich)</a>
+        - <a href="#carson">Dr. D. A. Carson (Ph.D., Cambridge)</a>
+        - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+        - Dr. Walter Martin (Ph.D., CCU)
+    - Presbyterian
+        - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+        - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
 - <a href="#roman">II. Roman Catholicism</a>
     - Traditional: Ludwig Ott (doctorate in Munich)
     - Post-Vatican II: Richard P. McBrien (doctorate at Pontifical Gregorian)
@@ -40,6 +44,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - <a href="#free">VI. Free Grace Theology</a>
     - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
+    - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
 - <a href="#amyraldism">VIII. Moderate Calvinism (Amyraldism)</a>
     - Ron Rhodes (Th.D., Dallas)
     - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
@@ -421,9 +426,9 @@ I have placed Lordship Salvation below Free Grace Theology because it may be a f
 |||
 |:-:|:-:|
 |Legalism<br><span style="font-weight:bold;color:darkred;">False</span>|`Works = Justification`<br>Pharisees and Judaizers|
-|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>[Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) & Cults<br>Roman Catholicism|
+|[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>Cults & [Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) <br>Roman Catholicism<br>Arminian/Wesleyan Holiness|
 |Grey Zone closer to synergism|**"Lordship Salvation"**|
-|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**<br>Augustinianism / Reformed|
+|[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**<br>Augustinianism / Reformed<br>Lutheran<br>Evangelical<br>Amyraldian|
 |Grey Zone closer to antinomianism|**"Free Grace" Theology**|
 |[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`|
 
