@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎭 \"An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy\" — Billy Graham"
-date: 2023-04-15 02:01:01 -0500
+date: 2023-04-15 02:10:01 -0500
 categories: hypocrisy
 published: true
 ---
@@ -74,12 +74,13 @@ In other words, I've written this article to test out a more organized hierarchi
 
     <!-- According to the [**ESV Study Bible**](https://amzn.to/3WsN0Uw) with over 200+ biblical scholars ([100+](https://www.esv.org/translation/) in translation; 95 in study) from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. With scholars from Universities of Cambridge, Oxford, London, Tokyo Japan, California, MIT, Duke, Dallas, etc. Including distinguished research professor of theology and biblical studies [Dr. Wayne Grudem (Ph.D., Cambridge; D.D. Westminister; B.A. Harvard)](https://youtu.be/s9e3Y2SMXag) member of the Translation Oversight Committee for the ESV, and general editor of the ESV Study Bible, as well as the world renowned [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible. -->
 
-    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Many distinguished scholars including:
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
     - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
     - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
     - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
     - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
     - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. John Piper (D.Theol., Munich)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
     - [Dr. Ron Rhodes (Th.D., Dallas)]()
     
@@ -141,12 +142,13 @@ In other words, I've written this article to test out a more organized hierarchi
 
 - <a name="ib1" href="#contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:1.4em;">i.b.1. ESV Study Bible</a>
 
-    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. Many distinguished scholars including:
+    [**ESV Study Bible**](https://amzn.to/3WsN0Uw), 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
     - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
     - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
     - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
     - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
     - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+    - [Dr. John Piper (D.Theol., Munich)]()
     - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
     - [Dr. Ron Rhodes (Th.D., Dallas)]()
 

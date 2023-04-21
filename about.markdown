@@ -144,6 +144,7 @@ According to quantitative linguistic comparison of Bible translations using comp
 - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
 - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. John Piper (D.Theol., Munich)]()
 - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
 - [Dr. Ron Rhodes (Th.D., Dallas)]()
 
