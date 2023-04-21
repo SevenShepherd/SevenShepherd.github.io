@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NLT Is Great Except For This One Issue. The NRSVue However Is Terribly Misguided."
-date: 2023-04-15 02:10:00 -0500
+date: 2023-04-15 02:15:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -37,14 +37,13 @@ I should say that the NLT, unlike the NRSVue, does in fact condemn within the sa
 
 <span style="font-style:Italic;font-size:1.6em;color:Black;">Correct Gender, Virgin, Passive & Active Partners, Homosexuality</span>
 
-The last two columns account for this articles context. For a full set of charts that include all of this ministries research, see [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
+The last two columns account for this articles context. For a full set of charts that include all of this ministries research, see [Litmus Test Quick Reference](https://bit.ly/3MLXqfW).
 
 |Version|Acts 1:16|Is 7:14|1Cor. 6:9|1Tim. 1:10|
 |:-:|:-:|:-:|:-:|:-:|
 |<span style="font-weight:bold;color:#efcc00;">CSB</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">DARBY</span>|✔️|✔️|✔️|❌|
 |<span style="font-weight:bold;color:green;">DRA</span>|👑|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:green;">EHV</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
 |<span style="font-weight:bold;color:green;">HCSB</span>|✔️|✔️|✔️|✔️|
