@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 06:00:00 -0500
+date: 2023-01-29 06:10:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV  are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span>, and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GB.
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span>, and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GB.
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
@@ -22,13 +22,13 @@ published: true
 
         > Textus Receptus is the Greek text that stands behind the King James Bible. **Contrary to what its name suggests, it is not the text received by all. Even Erasmus wasn't pleased** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://zondervanacademic.com/blog/textus-receptus)
 
-    2. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) only used around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it's not actually a Majority text bible by methodology.
+    2. [Erasmus](https://en.wikipedia.org/wiki/Erasmus) only used around <span style="font-weight:bold;color:darkred;">3 manuscripts</span> to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it's not actually a Majority text bible by methodology.
 
         > ... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ... &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary) paraphrased.
 
         > If you could stack up all handwritten manuscripts of the New Testament—Greek, Syriac, Latin, Coptic, all languages—how tall would the stack be? ... I have said in many lectures that it would be the **equivalent of c. 4 & 1/2 Empire State Buildings stacked on top of each other**. &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://danielbwallace.com/tag/number-of-new-testament-manuscripts/)
 
-    3. The [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
+    3. [Erasmus](https://en.wikipedia.org/wiki/Erasmus) lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don't exist in any Greek mss, botching the last 6 verses of revelation.
 
         > The problem with Erasmus was that he only used really **three manuscripts**. In fact, **the manuscript Erasmus used for the book of Revelation lacked the last leaf**. He was in a rush to get his Greek New Testament published, because he knew there were others trying to get their editions out. Consequently, **he back translated from his defective copy of the Latin Vulgate into Greek for the last six verses of Revelation**. In the process, **he created twenty new textual variants that have not been found in any other manuscripts** ... &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://zondervanacademic.com/blog/textus-receptus)
 
@@ -39,7 +39,7 @@ published: true
     5. Israel Wasn’t Even In Existence When the Most High Divided The Nations! The fact that Israel didn’t even exist at this point in Gen. 11:1-9, as referenced by Deut. 32:8 KJV, proves that the much older Dead Sea Scrolls (DSS) & Septuagint (LXX) are crucial in solving complex issues in the Masoretic Text (MT).
         > The only versions of the Bible that survived my previous [litmus tests](https://sevenshepherd.github.io/the-best-bible/), that also have the correct "<span style="font-weight:bold;color:green;">sons of God</span>" or "<span style="font-weight:bold;color:green;">heavenly assembly / court</span>" translation are the: **ESV, NET, and NLT** &mdash; [The Dead Sea Scrolls And Septuagint Solve A Mystery In The Masoretic Text](https://sevenshepherd.github.io/dead-sea-scrolls/).
 
-    6. The mss that the [Catholic priest Erasmus'](https://en.wikipedia.org/wiki/Erasmus) had access to are among the youngest and most error prone mss from the 12th to 16th century as opposed to those in the Critical Text which are mere decades from the crucifixion.
+    6. The mss that [Erasmus](https://en.wikipedia.org/wiki/Erasmus) had access to are among the youngest and most error prone mss from the 12th to 16th century as opposed to those in the Critical Text which are mere decades from the crucifixion.
 
 <span style="font-weight:Bold;font-size:24px;">🖋️ II. Translation</span>
 
