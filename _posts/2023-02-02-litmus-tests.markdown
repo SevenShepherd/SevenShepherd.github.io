@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 03:00:00 -0500
+date: 2023-02-02 03:10:00 -0500
 categories: quick reference
 published: true
 ---
@@ -620,7 +620,7 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 |<span style="font-weight:bold;color:#E28D00;">ERV</span>|❌|❌|✔️|✔️|
 |<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">ESVUK</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">EXB</span>|〰️|❔|〰️|✔️|
 |<span style="font-weight:bold;color:#E28D00;">GNT</span>|🆗|❌|✔️|❌|
 |<span style="font-weight:bold;color:#efcc00;">GNV</span>|👑|✔️|✔️|❔|
 |<span style="font-weight:bold;color:green;">GW</span>|👑|✔️|✔️|✔️|
@@ -640,7 +640,7 @@ This is the worlds best optimal equivalent Bible, and best for textual critics a
 |<span style="font-weight:bold;color:green;">NASB '95</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#E28D00;">NCB</span>|✔️|✔️|❌|❌|
 |<span style="font-weight:bold;color:#efcc00;">NCV</span>|❌|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:#efcc00;">NET</span>|✔️|🦶|👑|✔️|
+|<span style="font-weight:bold;color:green;">NET</span>|✔️|🦶|👑|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIRV</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIV</span>|❌|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:#efcc00;">NIVUK</span>|❌|✔️|✔️|✔️|

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NLT Is Great Except For This One Issue. The NRSVue However Is Terribly Misguided."
-date: 2023-04-15 02:15:00 -0500
+date: 2023-04-15 02:20:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -45,7 +45,7 @@ The last two columns account for this articles context. For a full set of charts
 |<span style="font-weight:bold;color:#efcc00;">DARBY</span>|✔️|✔️|✔️|❌|
 |<span style="font-weight:bold;color:green;">DRA</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">ESV</span>|✔️|✔️|✔️|✔️|
-|<span style="font-weight:bold;color:#E28D00;">EXB</span>|❌|❔|〰️|✔️|
+|<span style="font-weight:bold;color:#efcc00;">EXB</span>|〰️|❔|〰️|✔️|
 |<span style="font-weight:bold;color:green;">HCSB</span>|✔️|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">KJV</span>|👑|✔️|✔️|✔️|
 |<span style="font-weight:bold;color:green;">LEB</span>|👑|✔️|👑|✔️|
