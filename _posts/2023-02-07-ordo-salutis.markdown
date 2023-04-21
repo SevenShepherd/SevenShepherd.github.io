@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:00:00 -0500
+date: 2023-02-02 4:07:00 -0500
 categories: salvation
 published: true
 ---
@@ -22,10 +22,10 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
     - Reformed Baptist / Baptist Calvinist
         - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
-        - <a href="#piper">Dr. John Piper (D.Theol., Munich)</a>
-        - <a href="#carson">Dr. D. A. Carson (Ph.D., Cambridge)</a>
+        - <a href="#piper">John Piper (D.Theol., Munich)</a>
+        - <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
         - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
-        - Dr. Walter Martin (Ph.D., CCU)
+        - Walter Martin (Ph.D., CCU)
     - Presbyterian
         - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
         - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
