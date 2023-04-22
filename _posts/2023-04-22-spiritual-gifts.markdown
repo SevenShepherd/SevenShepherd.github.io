@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:01:01 -0500
+date: 2023-04-22 01:10:10 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -58,6 +58,24 @@ The following verses delineate the spiritual gifts. Order provided by Dr. Wayne 
 <span style="font-style:italic;font-size:2.1em;">Qualifications Of An Apostle</span>
 
 > The two qualifications for being an apostle were (**1**) having seen Jesus after his resurrection with one's own eyes (thus, being an "eye-witness of the resurrection") and (**2**) having been specifically commissioned by Christ as his apostle. &mdash; [Dr. Wayne Grudem](https://youtu.be/s9e3Y2SMXag) (Ph.D., Cambridge; D.D. & M.A., Westminister; B.A., Harvard), [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5) p. 1117.
+
+
+<span style="font-style:italic;font-size:2.1em;">Recommended Teachers With Sound Doctrine</span>
+
+Aside from those quoted in this article, here is a list of those with sound doctrine and a non-cessationist stance, which is in my humble opinion, representative of the correct and narrow path. These teachers are first class. 
+
+- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+    - [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)
+    - [The Gift of Prophecy in the New Testament and Today](https://amzn.to/41TzNqn)
+    - [Are Miraculous Gifts for Today?: 4 Views (Counterpoints: Bible and Theology)](https://amzn.to/3KRHuGo)
+- [Dr. John Piper (D.Theol., Munich)]()
+    - [Why We Must Earnestly Desire Spiritual Gifts](https://www.desiringgod.org/articles/why-we-must-earnestly-desire-spiritual-gifts)
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+    - [Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14](https://amzn.to/3mPShct)
+    - [Biblical Theology Study Bible](https://amzn.to/417o3A0)
+
+<!-- - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) -->
+
 
 ---
 
