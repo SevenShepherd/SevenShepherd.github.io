@@ -1,0 +1,85 @@
+---
+layout: post
+title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
+date: 2023-04-22 01:01:01 -0500
+categories: nlt nrsvue version
+published: true
+---
+
+<a name="top"></a>
+
+<span style="font-size:2.1em">⚠️ Under Construction</span>
+
+This article is under construction. Refresh weekly for updates.
+
+> &ldquo;I am a charismatic Baptist&mdash;just like Calvin, Luther, Zwingli, Knox&mdash;all the reformers. I believe the gifts of the Spirit are here until Jesus Christ returns. **I am a true Charismatic.** I am not a Pentecostal Charismatic. I have never spoken in tongues but **I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an <span style="color:purple;">extremely foolish Christian</span>.**&rdquo; &mdash; <a href="#martin">Dr. Walter Martin</a>
+
+<!-- <sup><a href="#martin">1</a></sup> -->
+
+As Martin points out, the strange logic of cessationists have led to numerous belligerent and embarrassing rants over the years. These people are of course extremely misguided, fringe, and possibly committing self-harm in their walk with Christ. We should be either soft-cessationist or open but cautious continuationists.
+
+<span style="font-style:italic;font-size:2.1em;">Balance</span>
+
+> &ldquo;As strange as it may seem I am convinced today that the dead orthodoxy of many churches could be **enhanced by the gifts of the holy spirit** in operation within the body ... there must be a middle position between the pentecostals with their overemphasis on experience and the **fundamentalists** who in their quest to be right in too many cases **have become dead right**.&rdquo; &mdash; <a href="#smith">Chuck Smith</a>
+
+<!-- Reformed theologians are perhaps the most intelligent and educated group of theologians throughout history, but one must remember that it brings God pleasure to conceal a matter from scholars and philosophers. -->
+
+<span style="font-style:italic;font-size:2.1em;">Definition</span>
+
+> A spiritual gift is any ability that is empowered by the Holy Spirit and **used in any ministry** of the church. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D. & M.A., Westminister; B.A., Harvard)
+
+<span style="font-style:italic;font-size:2.1em;">Implied Order</span>
+
+The following verses delineate the spiritual gifts. Order provided by Dr. Wayne Grudem (Ph.D., Cambridge): 1 Corinthians 12:28; 1 Corinthians 12:8-10; Ephesians 4:11; Romans 12:6-8; 1 Corinthians 7:7; 1 Peter 4:11. 
+
+1. apostle
+2. prophet
+3. teacher
+4. miracles
+5. kinds of healings
+6. helps
+7. administration
+8. tongues
+9. word of wisdom
+10. word of knowledge
+11. faith
+12. distinguishing between spirits
+13. interpretation of tongues
+14. evangelist
+15. pastor-teacher
+16. serving
+17. encouraging
+18. contributing
+19. leadership
+20. mercy
+21. marriage
+22. celibacy
+
+<span style="font-style:italic;font-size:2.1em;">Qualifications Of An Apostle</span>
+
+> The two qualifications for being an apostle were (**1**) having seen Jesus after his resurrection with one's own eyes (thus, being an "eye-witness of the resurrection") and (**2**) having been specifically commissioned by Christ as his apostle. &mdash; [Dr. Wayne Grudem](https://youtu.be/s9e3Y2SMXag) (Ph.D., Cambridge; D.D. & M.A., Westminister; B.A., Harvard), [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5) p. 1117.
+
+---
+
+<br>
+
+<sup><a name="martin" href="#top">1</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
+
+<sup><a name="smith" href="#top">2</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'NLT'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
