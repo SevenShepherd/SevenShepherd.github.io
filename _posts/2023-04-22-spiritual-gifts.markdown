@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:30:25 -0500
+date: 2023-04-22 01:35:25 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -89,9 +89,13 @@ For those who would like to read a healthy critique of the charismatic movement,
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
     - [Keep in Step with the Spirit](https://amzn.to/3N2zLbh)
 
+<br>
+
 ---
 
 <br>
+
+<span style="font-style:italic;font-size:2.1em;">Citations</span>
 
 <sup><a name="martin" href="#top">1</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
 <br>
