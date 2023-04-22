@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:10:10 -0500
+date: 2023-04-22 01:20:15 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
 
-This article is under construction. Refresh weekly for updates.
+This article is under construction and what you see at the moment is just an idea or outline of what I might want this article to become. It is by no means complete, let alone even begun. Refresh weekly for updates.
 
 > &ldquo;I am a charismatic Baptist&mdash;just like Calvin, Luther, Zwingli, Knox&mdash;all the reformers. I believe the gifts of the Spirit are here until Jesus Christ returns. **I am a true Charismatic.** I am not a Pentecostal Charismatic. I have never spoken in tongues but **I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an <span style="color:purple;">extremely foolish Christian</span>.**&rdquo; &mdash; <a href="#martin">Dr. Walter Martin</a>
 
@@ -64,6 +64,8 @@ The following verses delineate the spiritual gifts. Order provided by Dr. Wayne 
 
 Aside from those quoted in this article, here is a list of those with sound doctrine and a non-cessationist stance, which is in my humble opinion, representative of the correct and narrow path. These teachers are first class. 
 
+> ... no one can say, “Jesus is **Lord**,” except by the Holy Spirit. &mdash; 1 Corinthians 12:3
+
 - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
     - [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5)
     - [The Gift of Prophecy in the New Testament and Today](https://amzn.to/41TzNqn)
@@ -72,17 +74,22 @@ Aside from those quoted in this article, here is a list of those with sound doct
     - [Why We Must Earnestly Desire Spiritual Gifts](https://www.desiringgod.org/articles/why-we-must-earnestly-desire-spiritual-gifts)
 - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
     - [Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14](https://amzn.to/3mPShct)
-    - [Biblical Theology Study Bible](https://amzn.to/417o3A0)
+    
+<!-- - [Biblical Theology Study Bible](https://amzn.to/417o3A0) -->
 
-<!-- - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo) -->
+For those who would like to read a healthy critique of the charismatic movement, here is a list of those with sound doctrine and a cessationist stance, who are not of a belligerent spirit of persecution against the workings of the Holy Spirit.
 
+> That he [J.I. Packer] is a cessationist is beyond question. But the wise, gentle, biblical, and loving way in which he responds to those in the charismatic movement is a model of Christian maturity and depth of character. &mdash; Sam Storms (Ph.D., University of Texas)
+
+- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - [Keep in Step with the Spirit](https://amzn.to/3N2zLbh)
 
 ---
 
 <br>
 
 <sup><a name="martin" href="#top">1</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
-
+<br>
 <sup><a name="smith" href="#top">2</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
 
 <script>
