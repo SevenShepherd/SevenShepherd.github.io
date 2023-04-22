@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎭 \"An Inconsistency Between What You Profess And What You Practice Is Called Hypocrisy\" — Billy Graham"
-date: 2023-04-15 02:10:01 -0500
+title: "🎭 \"an inconsistency between what you profess and what you practice Is Called Hypocrisy\" — Billy Graham"
+date: 2023-04-15 02:15:00 -0500
 categories: hypocrisy
 published: true
 ---
@@ -17,8 +17,6 @@ published: true
 <!-- You might've noticed that I have selected the *'Performing Arts Emoji'* for this article; This is not by accident since the term *"hypocrite"* originally referred to actors who wore masks on stage as they played different characters. I've written this article to test out a more organized hierarchical outline. I may expand this article to completion at a later date. -->
 
 Perchance you may have observed that the iconography of the 'Performing Arts Emoji' has been elected to serve as the visual representation for the present compendium. This is a deliberate and calculated choice, as the epithet "hypocrite" can trace its etymology back to the domain of the dramatic arts (thespians), in which actors, in their enactment of multifarious personages, habitually obscured their countenances with masks. The rationale behind this written discourse is to experiment with an orderly and methodical hierarchical format for the presentation of the subject matter contained herein. It is not improbable that the current manuscript will be expanded and further refined in order to ultimately achieve a state of conclusive finality.
-
-In other words, I've written this article to test out a more organized hierarchical outline...
 
 <!-- Perchance you may have observed that the iconography of the 'Performing Arts Emoji' has been elected to serve as the visual representation for the present compendium. This is a deliberate and calculated choice, as the epithet "hypocrite" can trace its etymology back to the domain of the dramatic arts, in which actors, in their enactment of multifarious personages, habitually obscured their countenances with masks. The rationale behind this written discourse is to experiment with an orderly and methodical hierarchical format for the presentation of the subject matter contained herein. It is not improbable that the current manuscript will be expanded and further refined in order to ultimately achieve a state of conclusive finality. -->
 
