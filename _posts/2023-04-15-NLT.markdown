@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📖 The NLT Is Good Except For This One Issue. The NRSVue However Is Terribly Misguided."
-date: 2023-04-15 02:27:00 -0500
+date: 2023-04-15 02:28:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -150,7 +150,7 @@ The last two columns account for this articles context. For a full set of charts
 - WEB
     > Or don’t you know that the unrighteous will not inherit God’s Kingdom? Don’t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor <span style="color:darkred">male prostitutes</span>, nor homosexuals, -->
 
-<span style="font-style:Italic;font-size:1.6em;">Potential Biases And Inadequacies Found With The NLT</span>
+<span style="font-style:Italic;font-size:1.6em;">Potential Biases And Inadequacies Found Within The NLT</span>
 
 - [Mt. 7:13-14 (13, should be "enter")](https://www.biblegateway.com/passage/?search=Mt.+7%3A13-14&version=ESV;NET;EXB;NLT)
 - [Ecc 10:15 (should say "city")](https://www.biblegateway.com/passage/?search=Ecc.+10%3A15&version=ESV;NET;EXB;NLT)
