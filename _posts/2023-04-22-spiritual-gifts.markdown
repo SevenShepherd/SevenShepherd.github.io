@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:45:25 -0500
+date: 2023-04-22 01:50:50 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -17,6 +17,22 @@ This article is under construction and what you see at the moment is just an ide
 <!-- <sup><a href="#martin">1</a></sup> -->
 
 <!-- As Martin points out, the strange logic of cessationists have led to numerous belligerent and embarrassing rants over the years. These people are of course extremely misguided, fringe, and possibly committing self-harm in their walk with Christ. We should be either soft-cessationist or open but cautious continuationists. -->
+
+<a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
+
+- I. <a href="#unk">Under Construction</a>
+    - i.a. <a href="#unk">Under Construction</a>
+        - i.a.0. <a href="#ia0">Under Construction</a>
+        - i.a.1. <a href="#ia1">Under Construction</a>
+        - i.a.2. <a href="#ia2">Under Construction</a>
+- II. <a href="#cite">Sources & Citations</a>
+    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
+    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
+    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
+    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
+    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
+    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
+    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
 
 <span style="font-style:italic;font-size:1.6em;">Balance</span>
 
@@ -95,16 +111,98 @@ Aside from those quoted in this article, here is a list of those with sound doct
 
 <br>
 
-<span style="font-style:italic;font-size:1.6em;">Citations</span>
+<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
 
-<sup><a name="martin" href="#top">1</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
-<br>
-<sup><a name="smith" href="#top">2</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
+<sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+- [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. John Piper (D.Theol., Munich)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="net_cite" href="#contents">1</a></sup> The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="exb_cite" href="#contents">2</a></sup> The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
+
+<!--  -->
+
+- [Tremper Longman III (Ph.D., Yale)]()
+    - Robert H. Gundry Professor of Biblical Studies at Westmont College.
+- [Mark L. Strauss (Ph.D., Aberdeen)]()
+    - Professor of New Testament at Bethel Seminary San Diego.
+- [Daniel Taylor (Ph.D., Emory)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+
+<sup><a name="logos_cite" href="#contents">3</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
+
+<!--  -->
+
+- [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="btsb_cite" href="#contents">4</a></sup> The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    
+<!--  -->
+
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Mark L. Strauss (Ph.D., Aberdeen)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="filament_cite" href="#contents">5</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+
+<!--  -->
+
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="tnsb_cite" href="#contents">6</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
+
+<!--  -->
+
+- [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+
+<!-- <span style="color:#A8A8A8;">---</span> -->
+
+<!-- <sup><a name="mac_cite" href="#contents">8</a></sup> I sometimes include the [**MacArthur Study Bible**](https://amzn.to/3UFP1g2) by John MacArthur. Only because he was one of my mentors teachers. While I think he is wrong on a few points, and too controversial maybe, his doctrine is still sound. -->
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="martin" href="#top">7</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="smith" href="#top">8</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
