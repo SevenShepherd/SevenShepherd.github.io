@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:40:25 -0500
+date: 2023-04-22 01:45:25 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -16,7 +16,7 @@ This article is under construction and what you see at the moment is just an ide
 
 <!-- <sup><a href="#martin">1</a></sup> -->
 
-As Martin points out, the strange logic of cessationists have led to numerous belligerent and embarrassing rants over the years. These people are of course extremely misguided, fringe, and possibly committing self-harm in their walk with Christ. We should be either soft-cessationist or open but cautious continuationists.
+<!-- As Martin points out, the strange logic of cessationists have led to numerous belligerent and embarrassing rants over the years. These people are of course extremely misguided, fringe, and possibly committing self-harm in their walk with Christ. We should be either soft-cessationist or open but cautious continuationists. -->
 
 <span style="font-style:italic;font-size:1.6em;">Balance</span>
 
@@ -82,12 +82,12 @@ Aside from those quoted in this article, here is a list of those with sound doct
     
 <!-- - [Biblical Theology Study Bible](https://amzn.to/417o3A0) -->
 
-For those who would like to read a healthy critique of the charismatic movement, here is a list of those with sound doctrine and a cessationist stance, who are not of a belligerent spirit of persecution against the workings of the Holy Spirit.
+<!-- For those who would like to read a healthy critique of the charismatic movement, here is a list of those with sound doctrine and a cessationist stance, who are not of a belligerent spirit of persecution against the workings of the Holy Spirit.
 
-> That he [J.I. Packer] is a cessationist is beyond question. But the wise, gentle, biblical, and loving way in which he responds to those in the charismatic movement is a model of Christian maturity and depth of character. &mdash; Sam Storms (Ph.D., University of Texas)
+> That he [J. I. Packer] is a cessationist is beyond question. But the wise, gentle, biblical, and loving way in which he responds to those in the charismatic movement is a model of Christian maturity and depth of character. &mdash; Sam Storms (Ph.D., University of Texas)
 
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
-    - [Keep in Step with the Spirit](https://amzn.to/3N2zLbh)
+    - [Keep in Step with the Spirit](https://amzn.to/3N2zLbh) -->
 
 <br>
 
