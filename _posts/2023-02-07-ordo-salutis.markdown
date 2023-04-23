@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:07:00 -0500
+date: 2023-02-02 4:15:15 -0500
 categories: salvation
 published: true
 ---
@@ -16,39 +16,68 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="contents" style="font-style:Italic;font-size:2.1em;color:black;">Contents</a>
 
+<!-- Monergism, and synergism represent two opposing theological perspectives regarding the role of human effort in salvation. Monergism asserts that salvation is solely the result of God's grace and that human beings play no active part in it, while synergism posits that humans and God work together in the process of salvation. -->
+
+This ministry holds to a monergistic theology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, naturally results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.
+
+<a name="contents" style="font-style:Italic;font-size:1.6em;color:black;">Evangelical Theology</a>
+
+This article only lists theologically conservative evangelical theologies. Real theology in other words. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders.
+
+<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Monergism</a>
+
+There are two different beliefs about how people are saved: monergism and synergism. Monergism says that God alone is responsible for saving people, and humans can't cooperate or contribute. Grace based monergism is opposed to works based synergism. Christianity is monergistic.
+
 - <a href="#reformed">I. Reformed Theology</a>
     - Anglican w/ Reformed Soteriology
         - <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
         - <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - Presbyterian
+        - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+        - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
     - Reformed Baptist / Baptist Calvinist
-        - <a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a>
+        - <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
         - <a href="#piper">John Piper (D.Theol., Munich)</a>
         - <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
         - <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
         - Walter Martin (Ph.D., CCU)
-    - Presbyterian
-        - <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
-        - <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
-- <a href="#roman">II. Roman Catholicism</a>
-    - Traditional: Ludwig Ott (doctorate in Munich)
-    - Post-Vatican II: Richard P. McBrien (doctorate at Pontifical Gregorian)
+- <a href="#amyraldism">II. Moderate Calvinism (Amyraldism)</a>
+    - Ron Rhodes (Th.D., Dallas)
+    - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
+    - Frank Turek (DMin, Southern Evangelical Seminary)
 - <a href="#lutheran">III. Lutheran Theology</a>
     - Francis Pieper (D.D., Northwestern)
     - John Theodore Mueller (ThD, Xenia)
-- <a href="#arminian">IV. Arminian Theology</a>
-- <a href="#evangelical">V. Evangelical Theology</a>
+- <a href="#evangelical">IV. Evangelicals Otherwise</a>
     - Skip Heitzig (Ph.D., Trinity Southwest)
     - Jack Van Impe (Ph.D., Pacific)
     - Billy Graham (Self-directed)
     - Chuck Smith (B.A., Life Bible College)
+
+<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Synergism (Counter Reformation)</a>
+
+Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
+
+- <a href="#arminian">V. Arminian Theology</a>
+
+<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Modern Soteriologies</a>
+
+These are both a little worrying. Lordship salvation adherents started using terminology that the majority of the reformed camp throughout history would reject. Free Grace is a knee jerk reaction to this, but also went too far in the opposite extreme. **Neither should exist and both should be assimilated back into evangelical and reformed theologies.** Here is what they should believe to return to sound doctrine:
+
+1. Repentance is not an intellectual assent to facts or a minor change of opinion, it is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Free Grace "Theologians" often incorrectly teach secular and pagan definitions of repentance.
+2. Saving faith **does not include** obedience, saving faith **results in** obedience. Faith is not merely an intellectual assent to facts. Genuine saving faith will always be accompanied by good works that come **after justification**. Good works and continuing to believe **follow** saving faith (sola fide).
+    > We must guard jealously the fact that faith alone is what saves us, **not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD)
+
 - <a href="#free">VI. Free Grace Theology</a>
     - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 - <a href="#lordship">VII. Lordship Salvation</a>
     - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
-- <a href="#amyraldism">VIII. Moderate Calvinism (Amyraldism)</a>
-    - Ron Rhodes (Th.D., Dallas)
-    - Norman Geisler (Ph.D., Philosophy, Pennsylvania)
-    - Frank Turek (DMin, Southern Evangelical Seminary)
+
+<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Sacerdotalism</a>
+
+- <a href="#roman">VIII. Roman Catholicism</a>
+    - Traditional: Ludwig Ott (doctorate in Munich)
+    - Post-Vatican II: Richard P. McBrien (doctorate at Pontifical Gregorian)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
@@ -73,7 +102,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <span style="font-size:1.4em;">Heresy & Apostasy</span>
 
-This article will not cover the following groups because they are not legitimate. Heretics (warped cults or no essential doctrine), or apostates (secular & occult Groups).
+This article will not cover the following groups because they are not legitimate.
 
 - Legalism (Pharisees & Judaizers)
     - Ephesians 2:8-10; Galatians 2:21;5:4
@@ -84,6 +113,9 @@ This article will not cover the following groups because they are not legitimate
     - Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5; Mt 7:21,23.
 - Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Islam)
     - [Those who reject essential doctrine.](https://bit.ly/3XJY5AB)
+- Theological Liberalism
+    - Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders.
+    - See Antinomianism
 
 ---
 
@@ -182,7 +214,7 @@ I'm also placing Dr. Walter Martin here based on what he said in his book.
     - Martin was an American Baptist who held 4 earned degrees.
     - Believed in the continuation of the charismatic spiritual gifts.
     - Did not believe in the rapture
-    - *"OK, I am a **charismatic Baptist—just like Calvin, Luther, Zwingli, Knox—all the reformers**. I believe the gifts of the Spirit are here until Jesus Christ returns. I am a true Charismatic. ... I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.”"* &mdash; The Kingdom of the Occult. p. 685.
+    - *"I am a **charismatic Baptist—just like Calvin, Luther, Zwingli, Knox—all the reformers**.* &mdash; The Kingdom of the Occult. p. 685.
     
 <!-- | Historical Scholars | Years | Positions | 
 | --- | --- | --- |
@@ -220,35 +252,36 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 ---
 
-<a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Roman Catholicism</a>
+<a name="amyraldism" href="#contents" style="font-size:2.1em;">II. Moderate Calvinism (Amyraldism)</a>
 
-- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
-- [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
-- [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
+Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
-<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
+> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
-- Traditional
-    - Ludwig Ott
-- Post-Vatican II
-    - Richard P. McBrien
+❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
+
+> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+
+<!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
+
+<span style="font-style:Italic;font-size:1.6em;">Noteable Scholars</span>
+
+It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well.
+
+This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes here because of his own words, but he could also be placed in evangelical theology which is broadly reformed.
+
+- Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
+- [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
+- [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
+    - Part of the ESV Study Bible
+    - *"I do believe in both [Reformed & Arminian views]: since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
+    - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
+
+<!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
-
-The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
-
-1. **The sacrament of *baptism*** (Tit 3:5) 
-    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
-2. **The sacrament of *confirmation*** (Acts 8:15-17)
-    - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
-3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
-    - imparts spiritual nourishment as the worshiper feeds on the body and blood of Christ in the transubstantiated wafer. “This sacrament is nourishment. It is for the divine life of the soul what food and drink are for the life of the body. This life, the state of grace, is maintained by it, preserved from ruin, strengthened and augmented.”13
-4. **The sacrament of *penance*, or the “second pardon,”** 
-    - remits the guilt and punishment of post-baptismal, mortal sins (apostasy, murder, adultery). The sacrament requires of the penitent contrition for sins, confession, and works of satisfaction (almsgiving, fasting, etc.).
-5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
-    - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
+See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance.
 
 ---
 
@@ -290,38 +323,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 ---
 
-<a name="arminian" href="#contents" style="font-size:2.1em;">IV. Arminian theology</a>
-
-🚫 Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Denominations associated with this theological tradition are Wesleyan and Methodist.
-
-<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
-
-
-<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
-
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
-
-1. **Universal, external calling**
-    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
-        >⚠️ [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) is a modification of the Pelagianism heresy which was officially condemned by the church at the Council of Ephesus in A.D. 431. Semi-Pelagianism was also condemned by the Council of Orange in 529 A.D. 
-
-2. **Repentance and faith**
-    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
-        >⚠️ Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. p. 35.
-
-3. **Justification**
-    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
-4. **Sanctification**
-    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
-        >⚠️ Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” p. 35.
-
-5. **Perseverance**
-    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
-
----
-
-<a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Evangelicalism</a>
+<a name="evangelical" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Evangelical Otherwise</a>
 
 The truth is every tradition mentioned in this article, except Roman Catholicism, is evangelical. This section represents Evangelicals in the broadly reformed tradition, who don't fall into the other categories. **Theologians listed here may or may not agree with every point of the ordo salutis presented**, I'll eventually cover them individually.
 
@@ -367,6 +369,37 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
     - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
+
+---
+
+<a name="arminian" href="#contents" style="font-size:2.1em;">V. Arminian theology</a>
+
+🚫 Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Worse still, they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). Denominations associated with this theological tradition are Wesleyan and Methodist.
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
+
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+
+1. **Universal, external calling**
+    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
+        >⚠️ [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) is a modification of the Pelagianism heresy which was officially condemned by the church at the Council of Ephesus in A.D. 431. Semi-Pelagianism was also condemned by the Council of Orange in 529 A.D. 
+
+2. **Repentance and faith**
+    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
+        >⚠️ Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. p. 35.
+
+3. **Justification**
+    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
+4. **Sanctification**
+    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
+        >⚠️ Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” p. 35.
+
+5. **Perseverance**
+    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
+        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
 
 ---
 
@@ -452,7 +485,8 @@ The reason I describe both lordship salvation and chaferanism ("free grace" theo
     - If you said *"equate"* you've deviated from historical Christianity. The answer is that scripture *"connects"* faith with obedience.
 3. Is repentance ***evidence*** of our salvation or is it ***proof*** of our salvation?
     - If you answered *"proof"* then your views are contrary to historical Christianity which states that it is *"evidence"* of our salvation, a way to have assurance.
-4. Extra Credit: Does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
+    
+<!-- 4. Extra Credit: Does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
     - If you said *"change of mind,"* in the sense of an intellectual assent to facts, you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
 Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
@@ -464,38 +498,7 @@ It should be noted, that on point 4, one can apply the correct meaning of sorrow
 > The New Testament word for repentance means changing one’s mind so
 that one’s views, values, goals, and ways are changed and **one’s whole life is lived differently**. **The change is radical**, both inwardly and outwardly; mind and judgment, will and affections, behaviour and lifestyle, motives and purposes, are all involved. **Repenting means starting to live a new life.** &mdash; [J. I. Packer (Ph.D., Oxford)](https://youtu.be/gExLXpPJDd8). [Concise Theology](https://amzn.to/3JOaVKp).
 
-> In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx).
-
-<a name="amyraldism" href="#contents" style="font-size:2.1em;">VIII. Moderate Calvinism (Amyraldism)</a>
-
-Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
-
-> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
-
-❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
-
-> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
-
-<!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
-
-<span style="font-style:Italic;font-size:1.6em;">Noteable Scholars</span>
-
-It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well.
-
-This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes here because of his own words, but he could also be placed in evangelical theology which is broadly reformed.
-
-- Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
-- [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
-- [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
-    - Part of the ESV Study Bible
-    - *"I do believe in both [Reformed & Arminian views]: since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
-    - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
-
-<!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
-
-<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
-
-See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance.
+> In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx). -->
 
 <!-- <span style="font-style:Italic;font-size:2.1em;color:Black;">The Apostle Paul</span>
 
@@ -516,6 +519,38 @@ Eph 1:11-14; 2Thess. 2:13-14; 1Pe. 1:1-5 -->
 2. Called
 3. Justified
 4. Glorified -->
+ 
+---
+
+<a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">VIII. Roman Catholicism</a>
+
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
+- [⚠️ Sacerdotalism](https://carm.org/dictionary/sacerdotalism/)
+- [⚠️ Deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.](https://youtu.be/--fafICBts8?t=983)
+
+<span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
+
+- Traditional
+    - Ludwig Ott
+- Post-Vatican II
+    - Richard P. McBrien
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+
+The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments.
+
+1. **The sacrament of *baptism*** (Tit 3:5) 
+    - imparts supernatural life by regenerating the soul and uniting it with Christ. Water baptism, in addition, is said to remove the guilt and penalty of original sin. Through the sacrament of baptism “Man is made white as a sheet, brighter than snow.”
+2. **The sacrament of *confirmation*** (Acts 8:15-17)
+    - strengthens the baptized through a Pentecostal outpouring of the Holy Spirit. By this endowment the confirmed are enabled to witness to Christ and to stand firm in the midst of life’s struggles.
+3. **The sacrament of the *Eucharist*** (Matt 26:26-28) 
+    - imparts spiritual nourishment as the worshiper feeds on the body and blood of Christ in the transubstantiated wafer. “This sacrament is nourishment. It is for the divine life of the soul what food and drink are for the life of the body. This life, the state of grace, is maintained by it, preserved from ruin, strengthened and augmented.”13
+4. **The sacrament of *penance*, or the “second pardon,”** 
+    - remits the guilt and punishment of post-baptismal, mortal sins (apostasy, murder, adultery). The sacrament requires of the penitent contrition for sins, confession, and works of satisfaction (almsgiving, fasting, etc.).
+5. **The sacrament of *extreme unction or last anointing*** (Jas 5:14-16)
+    - equips the soul for the final conflict with death and prepares the recipient for the beatific vision of God. This sacrament “gives the grace of a good death, consolation in that depression which comes to so many because of the memory of their sins, and pardon for all sins not yet forgiven in confession.”
 
 ---
 
