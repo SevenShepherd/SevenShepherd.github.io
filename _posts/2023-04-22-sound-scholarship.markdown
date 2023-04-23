@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride. A Guide To Spotting False Teachers And Avoiding False Assurance."
-date: 2023-04-22 02:10:10 -0500
+date: 2023-04-22 02:15:10 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -35,6 +35,8 @@ This article is under construction. Refresh weekly for updates.
 <!-- > <sup style="font-weight:bold;">16</sup> as also in all his letters, speaking in them of these things, in which are some things hard to understand, which the **untaught and unstable** distort, as they do also the rest of the Scriptures, to their own destruction. &mdash; 2 Peter 3:16 LSB (Legacy Standard Bible) -->
 
 <a name="untaught" href="#contents" style="font-size:2.1em;">I. Untaught Twist Scripture</a>
+
+You are considered taught and sound if you have cited scholarship behind what you have learned. If there is a conflict between scholars, it would be wise to go with the majority. Yes, logic is a greater authority than any 1 specific teacher, but consider how unlikely it is that you are more logical than the 200+ scholars behind the <a name="esvsb_notes" href="#esvsb_cite">ESV Study Bible</a> as an example, among other excellent groups and committees.
 
 > <sup style="font-weight:bold;">16</sup> He writes about ·this <span style="color:#A8A8A8;">[<sup>L</sup> these things]</span> in all his letters. Some things in Paul’s letters are hard to understand, and people who are ·ignorant <span style="color:#A8A8A8;">[untaught]</span> and ·weak in faith <span style="color:#A8A8A8;">[unstable]</span> ·explain these things falsely <span style="color:#A8A8A8;">[<sup>L</sup> twist/distort them]</span>. They also ·falsely explain <span style="color:#A8A8A8;">[<sup>L</sup> twist; distort]</span> the other Scriptures, ·but they are destroying themselves by doing this <span style="color:#A8A8A8;">[or which will lead to their destruction]</span>. &mdash; 2 Peter 3:16 EXB (Expanded Bible)
 
