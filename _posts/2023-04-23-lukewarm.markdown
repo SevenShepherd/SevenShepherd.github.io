@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🌡️ Blending In With Everybody And Impacting No Nobody Is What The Lukewarm Do Best"
-date: 2023-04-23 01:00:00 -0500
+title: "🌡️ Blending In With Everybody And Impacting Nobody Is What The Lukewarm Do Best"
+date: 2023-04-23 01:10:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
