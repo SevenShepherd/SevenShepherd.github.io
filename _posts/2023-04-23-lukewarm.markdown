@@ -1,0 +1,200 @@
+---
+layout: post
+title: "🌡️ Blending In With Everybody And Impacting No Nobody Is What The Lukewarm Do Best"
+date: 2023-04-23 01:00:00 -0500
+categories: nlt nrsvue version
+published: true
+---
+
+<span style="font-size:2.1em">⚠️ Under Construction</span>
+
+This article is under construction. Refresh weekly for updates.
+
+<a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
+
+- I. <a href="#Lukewarm">Don't Be Lukewarm</a>
+    - i.a. <a href="#Rev3:15-17">Revelation 3:15-17</a>
+        - i.a.0. <a href="#ia0">Commentary</a>
+    - i.b. <a href="#Rom2:24">Romans 2:24</a>
+        - i.b.0. <a href="#ib0">Commentary</a>
+    - i.c. <a href="#Mat5:16">Matthew 5:16</a>
+        - i.c.0. <a href="#ic0">Commentary</a>
+- II. <a href="#cite">Sources & Citations</a>
+    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
+    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
+    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
+    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
+    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
+    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
+    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
+
+<!-- - i.b.. <a href="#ib5">MacArthur Study Bible</a> -->
+    
+<!-- 
+- i.b. <a href="#mk7:6">Hebrews 6:1-12</a>
+    - i.b.0. <a href="#ib0">Faithlife Study Bible</a>
+    - i.b.1. <a href="#ib1">ESV Study Bible</a>
+    - i.b.2. <a href="#ib2">Thomas Nelson Study Bible</a>
+    - i.b.3. <a href="#ib3">Biblical Theology Study Bible</a>
+    - i.b.4. <a href="#ib4">NLT Filament Study Bible</a>
+    - i.b.5. <a href="#ib5">MacArthur Study Bible</a>
+- II. Under Construction
+    - ii.a. Under Construction
+        - ii.a.0. Under Construction
+        - ii.a.1. Under Construction -->
+
+<a name="Lukewarm" href="#contents" style="font-size:2.1em;">I. Don't Be Lukewarm</a>
+
+<a name="Rev3:15-17" href="#contents" style="font-size:1.6em;">i.a. Revelation 3:15-17</a>
+
+> <sup style="font-weight:bold;">15</sup> ‘I know your deeds, that you are neither cold nor hot.<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[a]</a></sup> I wish you were either cold or hot! <span style="font-weight:bold;"><sup>16</sup> So because you are lukewarm, and neither hot nor cold, I am going<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[b]</a></sup> to vomit<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[c]</a></sup> you out of my mouth!</span> <sup style="font-weight:bold;">17</sup> Because you say, “I am rich and have acquired great wealth,<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[d]</a></sup> and need nothing,” but<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[e]</a></sup> do not realize that you are wretched, pitiful,<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[f]</a></sup> poor, blind, and naked, &mdash; Revelation 3:15-17 NET (New English Translation)
+
+- <a name="ia0" href="#contents" style="font-size:1.6em;">i.a.0. Commentary</a>
+
+    When Jesus looked upon Laodicea he used a metaphor to compare it to what it should be. When he said that he wished that they were either cold or hot, he was referring to two water sources. To the east was Colossae<sup><a name="net_notes" href="#net_cite">1</a></sup>, located 10 miles (16 kilometers) from of Laodicea<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>, which had cold, refreshing<sup><a name="logos_notes" href="#logos_cite">3</a></sup>, pure waters, and to the north was the hot springs of Hierapolis, located 6 miles (9.5 kilometers) north of Laodicea and were famed for their healing power.<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>
+
+    By the time these pure sources of water reached Laodicea, which lacked its own water supply<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>, it was smelly<sup><a name="filament_notes" href="#filament_cite">5</a></sup>, muddy, undrinkable<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> and contaminated<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>. In like manner, Jesus found his church’s tepid indifference repugnant<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup>, Jesus was saying that the church’s indecisive commitment to him was revolting.<sup><a name="filament_notes" href="#filament_cite">5</a></sup> Cold water is refreshing; hot water is useful for medical purposes. Lukewarm water is neither. By analogy, the works of the Laodicean church made Christ want to vomit the believers out of His mouth. In very vivid terms, the Lord rejects the halfhearted efforts of self-satisfied Christians.<sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup>
+
+<!-- 
+> The waters of the nearby Lycus River were **muddy and undrinkable**, and the waters flowing by aqueduct from hot springs 5 miles (8 km) away were lukewarm when they reached Laodicea. Likewise, **Jesus found his church’s tepid indifference repugnant.** Cold and hot water represent something positive, for cold water refreshes in the heat, and hot water is a tonic when one is chilly.
+>
+> The spiritually blind, bankrupt, naked Laodiceans obviously had no resources to buy from Jesus gold or garments or salve for their eyes. They could “purchase” these necessities only by his grace, as the Lord had once invited thirsty spiritual paupers to “buy wine and milk without money” (Isa. 55:1–4). <sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup>
+
+> Laodicea was near two other towns, each of which had a unique water source. **To the north was Hierapolis which had a natural hot spring, often used for medicinal purposes. To the east was Colossae which had cold, pure waters.** In contrast to these towns, Laodicea had no permanent supply of good water. Efforts to pipe water to the city from nearby springs were successful, but it would arrive lukewarm. **The metaphor in the text is not meant to relate spiritual fervor to temperature. This would mean that Laodicea would be commended for being spiritually cold, but it is unlikely that Jesus would commend this. Instead, the metaphor condemns Laodicea for not providing spiritual healing (being hot) or spiritual refreshment (being cold) to those around them. It is a condemnation of their lack of works and lack of witness.** <sup><a name="net_notes" href="#net_cite">1</a></sup>
+
+> This imagery may allude to the water system at Laodicea. The city had no water supply of its own; it had cold water piped in from Colossae or hot water piped in from the springs at Hierapolis. When the water arrived in the city, it had become lukewarm. Like the water, the church at Laodicea was neither **refreshing (like cold water)** nor **healing (like hot spring water)**. <sup><a name="logos_notes" href="#logos_cite">3</a></sup>
+
+> **Colossae, located 10 miles (16 kilometers) east of Laodicea, had plentiful cold, pure drinking water, while the hot springs of Hierapolis, located 6 miles (9.5 kilometers) north of Laodicea, were famed for their healing power.** Laodicea lacked its own water supply, and its solution was inadequate: water flowing in by aqueduct arrived tepid and contaminated by minerals. Jesus rebukes the complacent church for not offering life or healing to its community. <sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>
+
+> **The hot springs in Hierapolis were famous for their healing qualities. Colosse was equally famous for its cold, refreshing springs. In contrast, the water available in Laodicea was smelly and lukewarm. Such water is distasteful; Jesus was saying that the church's indecisive commitment to him was revolting.** Although Christians in Laodicea felt prosperous and self-sufficient... Jesus accurately saw their wretched and miserable and poor spiritual condition. <sup><a name="filament_notes" href="#filament_cite">5</a></sup>
+
+> Cold water is refreshing; hot water is useful for medical purposes. Lukewarm water is neither. **By analogy, the works of the Laodicean church made Christ want to vomit the believers out of His mouth.** In very vivid terms, **the Lord rejects the halfhearted efforts of self-satisfied Christians.** The Laodicean church was **spiritually self-deluded**. Because the church was wealthy it assumed that it had need of nothing, when in actuality it was **spiritually impoverished**. The church believed that because it had expensive garments it was well-clothed, when it was really **spiritually naked**. It believed that physical sight indicated the ability to see spiritually, when it was actually blind to spiritual realities. Fortunately, Christ provides spiritual gold, heavenly white garments (7:13, 14; 19:7, 8), and healing eye salve to all who repent (v. 19). <sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup> 
+-->
+
+<a name="Rom2:24" href="#contents" style="font-size:1.6em;">i.b. Romans 2:24</a>
+
+
+> For, as it is written, “The name of God is blasphemed among the Gentiles because of you.” &mdash; Romans 2:24 ESV
+
+- <a name="ib0" href="#contents" style="font-size:1.6em;">i.b.0. Commentary</a>
+
+    Under Construction
+
+    <!-- > Because they violated the law, the Jews were exiled by God and were therefore reviled by the Gentiles (Paul adapts phrases from the Septuagint translation of Isa. 52:5; cf. Ezek. 36:20–23). This dishonored God because they were known as his people. In Paul’s time their sins did not lead to exile but still led Gentiles to dishonor the God whom the sinful Jews claimed to follow. <sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> -->
+
+<!-- <a name="2Pet2:2" href="#contents" style="font-size:1.6em;">i.c. 2 Peter 2:2</a>
+
+
+> ... &mdash; 2 Peter 2:2 ESV
+
+- <a name="ia0" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a> -->
+
+<a name="Mat5:16" href="#contents" style="font-size:1.6em;">i.c. Matthew 5:16</a>
+
+> <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
+
+- <a name="ic0" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a>
+
+    Under Construction
+
+<br>
+
+---
+
+<br>
+
+<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+
+<sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+- [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. John Piper (D.Theol., Munich)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="net_cite" href="#contents">1</a></sup> The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="exb_cite" href="#contents">2</a></sup> The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
+
+<!--  -->
+
+- [Tremper Longman III (Ph.D., Yale)]()
+    - Robert H. Gundry Professor of Biblical Studies at Westmont College.
+- [Mark L. Strauss (Ph.D., Aberdeen)]()
+    - Professor of New Testament at Bethel Seminary San Diego.
+- [Daniel Taylor (Ph.D., Emory)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+
+<sup><a name="logos_cite" href="#contents">3</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
+
+<!--  -->
+
+- [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="btsb_cite" href="#contents">4</a></sup> The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+    
+<!--  -->
+
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Mark L. Strauss (Ph.D., Aberdeen)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="filament_cite" href="#contents">5</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+
+<!--  -->
+
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="tnsb_cite" href="#contents">6</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
+
+<!--  -->
+
+- [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+
+<!-- <span style="color:#A8A8A8;">---</span> -->
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
