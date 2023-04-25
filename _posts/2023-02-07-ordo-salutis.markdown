@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:15:15 -0500
+date: 2023-02-02 4:25:15 -0500
 categories: salvation
 published: true
 ---
@@ -11,6 +11,8 @@ published: true
 <!-- You'll be proving yourself until the day you die if you give more precedence to the opinions of others rather than God -->
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>
+
+<span style="font-size:2.1em;">⚠️ Under Construction</span>
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
@@ -22,11 +24,46 @@ This ministry holds to a monergistic theology, which rejects works based forms o
 
 <a name="contents" style="font-style:Italic;font-size:1.6em;color:black;">Evangelical Theology</a>
 
-This article only lists theologically conservative evangelical theologies. Real theology in other words. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders.
+This article only lists theologically conservative evangelical theologies. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders.
 
-<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Monergism</a>
+<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Contents</a>
 
-There are two different beliefs about how people are saved: monergism and synergism. Monergism says that God alone is responsible for saving people, and humans can't cooperate or contribute. Grace based monergism is opposed to works based synergism. Christianity is monergistic.
+- I. <a href="#reformed">Reformed Theology</a>
+    - 1.1 Reformed Baptist / Baptist Calvinist
+        - 1.1.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
+        - 1.1.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
+        - 1.1.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
+        - 1.1.4 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+        - 1.1.5 Walter Martin (Ph.D., CCU)
+    - 1.2 Anglican Church in North America (ACNA)
+        - 1.2.1 <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+        - 1.2.2 <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - 1.3 Presbyterian Church in America (PCA)
+        - 1.3.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+        - 1.3.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+    - 1.4 <a href="#lordship">Lordship Salvation</a>
+        - 1.4.1 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+- II. <a href="#amyraldism">Moderate Calvinism (Amyraldism)</a>
+    - 2.1 Reformed (Less Limited Atonement)
+        - 2.1.1 Ron Rhodes (Th.D., Dallas)
+        - 2.1.2 Norman Geisler (Ph.D., Philosophy, Pennsylvania)
+        - 2.1.3 Frank Turek (DMin, Southern Evangelical Seminary)
+- <a href="#lutheran">III. Lutheran Theology</a>
+    - 3.1 Lutheran Church-Missouri Synod (LCMS)
+        - 3.1.1 Francis Pieper (D.D., Northwestern)
+        - 3.1.2 John Theodore Mueller (ThD, Xenia)
+- <a href="#evangelical">IV. Evangelicals Otherwise</a>
+    - 4.1 Calvary Chapel
+        - 4.1.1 Chuck Smith (B.A., Life Bible College)
+        - 4.1.4 Skip Heitzig (Ph.D., Trinity Southwest)
+    - 4.2 Independent Baptist
+        - 4.2.1 Jack Van Impe (Ph.D., Pacific)
+    - 4.3 Southern Baptist Convention (SBC)
+        - 4.3.1 Billy Graham (Self-directed)
+    - 4.4. <a href="#free">Free Grace Theology</a>
+        - 4.4.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+
+<!-- There are two different beliefs about how people are saved: monergism and synergism. Monergism says that God alone is responsible for saving people, and humans can't cooperate or contribute. Grace based monergism is opposed to works based synergism. Christianity is monergistic.
 
 - <a href="#reformed">I. Reformed Theology</a>
     - Anglican w/ Reformed Soteriology
@@ -52,32 +89,30 @@ There are two different beliefs about how people are saved: monergism and synerg
     - Skip Heitzig (Ph.D., Trinity Southwest)
     - Jack Van Impe (Ph.D., Pacific)
     - Billy Graham (Self-directed)
-    - Chuck Smith (B.A., Life Bible College)
+    - Chuck Smith (B.A., Life Bible College) -->
 
-<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Synergism (Counter Reformation)</a>
+<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Synergism (Counter Reformation)</a> -->
 
-Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
 
 - <a href="#arminian">V. Arminian Theology</a>
+    - Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
 
-<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Modern Soteriologies</a>
+<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Modern Soteriologies</a> -->
 
-These are both a little worrying. Lordship salvation adherents started using terminology that the majority of the reformed camp throughout history would reject. Free Grace is a knee jerk reaction to this, but also went too far in the opposite extreme. **Neither should exist and both should be assimilated back into evangelical and reformed theologies.** Here is what they should believe to return to sound doctrine:
+<!-- These are both a little worrying. Lordship salvation adherents started using terminology that the majority of the reformed camp throughout history would reject. Free Grace is a knee jerk reaction to this, but also went too far in the opposite extreme. **Neither should exist and both should be assimilated back into evangelical and reformed theologies.** Here is what they should believe to return to sound doctrine: -->
 
-1. Repentance is not an intellectual assent to facts or a minor change of opinion, it is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Free Grace "Theologians" often incorrectly teach secular and pagan definitions of repentance.
+<!-- 1. Repentance is not an intellectual assent to facts or a minor change of opinion, it is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Free Grace "Theologians" often incorrectly teach secular and pagan definitions of repentance.
 2. Saving faith **does not include** obedience, saving faith **results in** obedience. Faith is not merely an intellectual assent to facts. Genuine saving faith will always be accompanied by good works that come **after justification**. Good works and continuing to believe **follow** saving faith (sola fide).
-    > We must guard jealously the fact that faith alone is what saves us, **not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD)
+    > We must guard jealously the fact that faith alone is what saves us, **not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD) -->
 
-- <a href="#free">VI. Free Grace Theology</a>
-    - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
-- <a href="#lordship">VII. Lordship Salvation</a>
-    - <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
 
-<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Sacerdotalism</a>
+<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Sacerdotalism</a> -->
 
-- <a href="#roman">VIII. Roman Catholicism</a>
-    - Traditional: Ludwig Ott (doctorate in Munich)
-    - Post-Vatican II: Richard P. McBrien (doctorate at Pontifical Gregorian)
+- VI. <a href="#roman">Roman Catholicism</a>
+    - 8.1 Traditional
+        - 8.1.1 Ludwig Ott (doctorate in Munich)
+    - 9.1 Post-Vatican II
+        - 9.1.1 Richard P. McBrien (doctorate at Pontifical Gregorian)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
@@ -114,7 +149,7 @@ This article will not cover the following groups because they are not legitimate
 - Cults ([Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/), Mormonism, Seventh-day adventists, Islam)
     - [Those who reject essential doctrine.](https://bit.ly/3XJY5AB)
 - Theological Liberalism
-    - Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders.
+    - A complete re-invention and rejection of Christianity as understood by its own founders.
     - See Antinomianism
 
 ---
