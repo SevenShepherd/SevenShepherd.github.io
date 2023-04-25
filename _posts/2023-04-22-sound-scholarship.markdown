@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride"
-date: 2023-04-22 03:00:00 -0500
-categories: nlt nrsvue version
+date: 2023-04-22 03:10:00 -0500
+categories: scholarship evidence
 published: true
 ---
 
