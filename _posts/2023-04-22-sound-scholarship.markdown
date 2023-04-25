@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride. A Guide To Spotting False Teachers And Avoiding False Assurance."
-date: 2023-04-22 02:35:20 -0500
+title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride."
+date: 2023-04-22 02:40:40 -0500
 categories: nlt nrsvue version
 published: true
 ---
+
+<!-- A Guide To Spotting False Teachers And Avoiding False Assurance. -->
 
 <a name="top"></a>
 
