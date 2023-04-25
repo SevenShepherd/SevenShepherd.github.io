@@ -1,20 +1,12 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride."
-date: 2023-04-22 02:40:40 -0500
+date: 2023-04-22 02:45:45 -0500
 categories: nlt nrsvue version
 published: true
 ---
 
 <!-- A Guide To Spotting False Teachers And Avoiding False Assurance. -->
-
-<a name="top"></a>
-
-<span style="font-size:2.1em">⚠️ Under Construction</span>
-
-This article is under construction. Refresh weekly for updates.
-
-<!-- > Pride goes before destruction, and a haughty spirit before a fall. &mdash; Proverbs 16:18 ESV (English Standard Version) -->
 
 <a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
 
@@ -37,6 +29,8 @@ This article is under construction. Refresh weekly for updates.
 
 <a name="untaught" href="#contents" style="font-size:2.1em;">I. The Untaught Twist Scripture</a>
 
+<!-- > Pride goes before destruction, and a haughty spirit before a fall. &mdash; Proverbs 16:18 ESV (English Standard Version) -->
+
 You are considered taught and sound if you have cited scholarship behind what you have learned. If there is a conflict between scholars, it would be wise to go with the majority. Yes, logic is a greater authority than any 1 specific teacher, but consider how unlikely it is that you are more logical than the 200+ scholars behind the <a name="esvsb_notes" href="#esvsb_cite">ESV Study Bible</a> as an example, among other excellent groups and committees.
 
 <a name="2Peter3:16" href="#contents" style="font-size:1.6em;">i.a. 2 Peter 3:16</a>
@@ -48,6 +42,7 @@ You are considered taught and sound if you have cited scholarship behind what yo
     We can see that the author reveals that it is only some things and not all that are difficult, but for those things which are, they require a great deal of effort and God-given wisdom to understand.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> The cults come to mind when considering this topic, as every one of them I've talked to has absolutely zero scholarship behind their translation or doctrine. If you can't cite a majority of scholarship on a topic, but are relying on cherry picking or no scholarship whatsoever, you are what is spoken of in second peter.
 
 <!-- > **In all his letters** shows awareness of some kind of collection of Paul’s letters, with the number unspecified here. **Some things … hard to understand** does not say that everything in Paul’s letters is hard to understand, nor does it say that anything is “impossible to understand,” but it does imply that correctly interpreting some hard passages of Scripture requires much effort and God-given wisdom. **The ignorant and unstable twist** Paul’s teachings **as they do the other Scriptures**, implying that Paul’s writings were also considered Scripture in NT times, on the same level of divine authority as the OT Scripture. Greek graphē, here translated “Scriptures,” occurs 51 times in the NT, and every time it refers to the canonical OT Scripture, and not to any other writings, except that twice (here and 1 Tim. 5:18) some NT writings are also included. This indicates that NT books written or authorized by Christ’s apostles were recognized, at a very early date, to be God’s Word. -->
+
 
 <br>
 
