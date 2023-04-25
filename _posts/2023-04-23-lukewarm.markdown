@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌡️ Blending In With Everybody And Impacting Nobody Is What The Lukewarm Do Best"
-date: 2023-04-23 01:20:00 -0500
+date: 2023-04-23 01:25:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -9,13 +9,28 @@ published: true
 <a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
 
 - I. <a href="#Lukewarm">Don't Be Lukewarm</a>
-    - i.a. <a href="#Rev3:15-17">Revelation 3:15-17</a>
-        - i.a.0. <a href="#ia0">Commentary</a>
-    - i.b. <a href="#Rom2:24">Romans 2:24</a>
-        - i.b.0. <a href="#ib0">Commentary</a>
-    - i.c. <a href="#Mat5:16">Matthew 5:16</a>
-        - i.c.0. <a href="#ic0">Commentary</a>
+    - 1.1 <a href="#Rev3:15-17">Revelation 3:15-17</a>
+        - 1.1.1 <a href="#111">Commentary</a>
+    - 1.2 <a href="#Rom2:24">Romans 2:24</a>
+        - 1.2.1 <a href="#121">Commentary</a>
+    - 1.3 <a href="#Mat5:16">Matthew 5:16</a>
+        - 1.3.1 <a href="#131">Commentary</a>
 - <a href="#cite">Sources & Citations</a>
+
+<!-- 
+1.1 Section One
+1.1.1 Subsection One
+1.1.1.1 Sub-subsection One
+1.1.1.2 Sub-subsection Two
+1.1.2 Subsection Two
+1.1.2.1 Sub-subsection One
+
+1.2 Section Two
+1.2.1 Subsection One
+1.2.1.1 Sub-subsection One
+1.2.1.2 Sub-subsection Two
+1.2.2 Subsection Two
+1.2.2.1 Sub-subsection One -->
 
 <!-- - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
 - ii.a.1. <a href="#net_cite">NET Full Notes</a>
@@ -29,7 +44,7 @@ published: true
     
 <!-- 
 - i.b. <a href="#mk7:6">Hebrews 6:1-12</a>
-    - i.b.0. <a href="#ib0">Faithlife Study Bible</a>
+    - i.b.0. <a href="#121">Faithlife Study Bible</a>
     - i.b.1. <a href="#ib1">ESV Study Bible</a>
     - i.b.2. <a href="#ib2">Thomas Nelson Study Bible</a>
     - i.b.3. <a href="#ib3">Biblical Theology Study Bible</a>
@@ -42,11 +57,11 @@ published: true
 
 <a name="Lukewarm" href="#contents" style="font-size:2.1em;">I. Don't Be Lukewarm</a>
 
-<a name="Rev3:15-17" href="#contents" style="font-size:1.6em;">i.a. Revelation 3:15-17</a>
+<a name="Rev3:15-17" href="#contents" style="font-size:1.6em;">1.1 Revelation 3:15-17</a>
 
 > <sup style="font-weight:bold;">15</sup> ‘I know your deeds, that you are neither cold nor hot.<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[a]</a></sup> I wish you were either cold or hot! <span style="font-weight:bold;"><sup>16</sup> So because you are lukewarm, and neither hot nor cold, I am going<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[b]</a></sup> to vomit<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[c]</a></sup> you out of my mouth!</span> <sup style="font-weight:bold;">17</sup> Because you say, “I am rich and have acquired great wealth,<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[d]</a></sup> and need nothing,” but<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[e]</a></sup> do not realize that you are wretched, pitiful,<sup><a href="https://www.biblegateway.com/passage/?search=Revelation%203:15-17&version=ESV;NET;EXB">[f]</a></sup> poor, blind, and naked, &mdash; Revelation 3:15-17 NET (New English Translation)
 
-- <a name="ia0" href="#contents" style="font-size:1.6em;">i.a.0. Commentary</a>
+- <a name="111" href="#contents" style="font-size:1.6em;">1.1.1 Commentary</a>
 
     When Jesus looked upon Laodicea he used a metaphor to compare it to what it should be. When he said that he wished that they were either cold or hot, he was referring to two water sources. To the east was Colossae<sup><a name="net_notes" href="#net_cite">1</a></sup>, located 10 miles (16 kilometers) from of Laodicea<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>, which had cold, refreshing<sup><a name="logos_notes" href="#logos_cite">3</a></sup>, pure waters, and to the north was the hot springs of Hierapolis, located 6 miles (9.5 kilometers) from Laodicea and were famed for their healing power.<sup><a name="btsb_notes" href="#btsb_cite">4</a></sup>
 
@@ -68,13 +83,13 @@ published: true
 > Cold water is refreshing; hot water is useful for medical purposes. Lukewarm water is neither. **By analogy, the works of the Laodicean church made Christ want to vomit the believers out of His mouth.** In very vivid terms, **the Lord rejects the halfhearted efforts of self-satisfied Christians.** The Laodicean church was **spiritually self-deluded**. Because the church was wealthy it assumed that it had need of nothing, when in actuality it was **spiritually impoverished**. The church believed that because it had expensive garments it was well-clothed, when it was really **spiritually naked**. It believed that physical sight indicated the ability to see spiritually, when it was actually blind to spiritual realities. Fortunately, Christ provides spiritual gold, heavenly white garments (7:13, 14; 19:7, 8), and healing eye salve to all who repent (v. 19). <sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup> 
 -->
 
-<a name="Rom2:24" href="#contents" style="font-size:1.6em;">i.b. Romans 2:24</a>
+<a name="Rom2:24" href="#contents" style="font-size:1.6em;">1.2 Romans 2:24</a>
 
 > For, as it is written, “The name of God is blasphemed among the Gentiles because of you.” &mdash; Romans 2:24 ESV
 
-- <a name="ib0" href="#contents" style="font-size:1.6em;">i.b.0. Commentary</a>
+- <a name="121" href="#contents" style="font-size:1.6em;">1.2.1 Commentary</a>
 
-    As a result of their hypocrisy, the Gentiles themselves blasphemed God.<sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup> In the same way, as a result of your hypocrisy, the secular world will blaspheme God. You may think that by showing others that you're not "judgemental" by partaking in sin with them, but this is a grave error and ignorance, as your hypocrisy is the reason they hate God. It is not "judgemental" to speak the truth or walk a correct path, they are judgemental for hating the truth. It is your job not to play the hypocrite and not to damn yourself in the process (Jd 4 NET).
+    As a result of their hypocrisy, the Gentiles themselves blasphemed God.<sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup> In the same way, as a result of your hypocrisy, the secular world will blaspheme God. You may think that by showing others that you're not "judgemental" by partaking in sin with them (Ro 1:32), but this is a grave error and ignorance, as your hypocrisy is the reason they hate God. It is not "judgemental" to speak the truth or walk a correct path, they are judgemental for hating the truth. It is your job not to play the hypocrite and not to damn yourself in the process (Jd 4 NET).
 
     > **By your hypocrisy** and crimes **the pagan world is led to despise** a religion which is observed to have no effect in purifying and restraining its professors; and of course the reproach will terminate on the Author of your religion - that is, **the true God**. A life of purity would tend to honor religion and its Author; a life of impurity does the reverse. &mdash; [Barnes' Notes on the Bible](https://biblehub.com/commentaries/romans/2-24.htm)
 
@@ -85,13 +100,13 @@ published: true
 
 > ... &mdash; 2 Peter 2:2 ESV
 
-- <a name="ia0" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a> -->
+- <a name="111" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a> -->
 
-<a name="Mat5:16" href="#contents" style="font-size:1.6em;">i.c. Matthew 5:16</a>
+<a name="Mat5:16" href="#contents" style="font-size:1.6em;">1.3 Matthew 5:16</a>
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
 
-- <a name="ic0" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a>
+- <a name="131" href="#contents" style="font-size:1.6em;">1.3.1 Commentary</a>
 
     Through your good works, the world will see the light of the kingdom, and your Father who is in heaven will be glorified simultaneously.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> This is similar to 1 Pet. 2:12 in that living a godly life gives convincing testimony of the saving power of God which brings him glory.<sup><a name="mac_notes" href="#mac_cite">mac</a></sup>
 
