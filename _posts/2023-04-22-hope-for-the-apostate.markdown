@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:13:10 -0500
+date: 2023-04-22 03:15:15 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -19,18 +19,18 @@ For those of you with this experience, I would encourage you to watch the video 
 <a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
 
 - I. <a href="#hope">Examining A Difficult Passage</a>
-    - i.a. <a href="#heb6:4-6">Hebrews 6:4-6</a>
-        - i.a.0. <a href="#ia0">Under Construction</a>
-        - i.a.1. <a href="#ia1">Under Construction</a>
-        - i.a.2. <a href="#ia2">Under Construction</a>
-- II. <a href="#cite">Sources & Citations</a>
-    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
-    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
-    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
-    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
-    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
-    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
-    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
+    - 1.1 <a href="#heb6:4-6">Hebrews 6:4-6</a>
+        - 1.1.1 <a href="#111">Commentary</a>
+- <a href="#cite">Sources & Citations</a>
+
+
+<!-- - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
+- ii.a.1. <a href="#net_cite">NET Full Notes</a>
+- ii.a.2. <a href="#exb_cite">Expanded Bible</a>
+- ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
+- ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
+- ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
+- ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a> -->
 
 <!-- - i.b.. <a href="#ib5">MacArthur Study Bible</a> -->
     
@@ -43,7 +43,7 @@ For those of you with this experience, I would encourage you to watch the video 
     - i.b.4. <a href="#ib4">NLT Filament Study Bible</a>
     - i.b.5. <a href="#ib5">MacArthur Study Bible</a>
 - II. Under Construction
-    - ii.a. Under Construction
+    - i1.1 Under Construction
         - ii.a.0. Under Construction
         - ii.a.1. Under Construction -->
 
@@ -53,7 +53,13 @@ For those of you with this experience, I would encourage you to watch the video 
 
 <!-- <span style="font-size:1.6em">Diving Deeper</span> -->
 
+<a name="heb6:4-6" href="#contents" style="font-size:1.6em;">1.1 Hebrews 6:1-12</a>
+
 > <sup style="font-weight:bold;">1</sup> Therefore we must progress beyond<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[a]</a></sup>  the elementary<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[b]</a></sup>  instructions about Christ<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[c]</a></sup>  and move on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[d]</a></sup>  to maturity, not laying this foundation again: **repentance** from dead works<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[e]</a></sup>  and faith in God, <sup style="font-weight:bold;">2</sup> teaching about ritual washings,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[f]</a></sup>  laying on of hands, resurrection of the dead, and eternal judgment. <sup style="font-weight:bold;">3</sup> And this is what we intend to do,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[g]</a></sup>  if God permits. <span style="color:darkred;"><sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">For it is impossible</span> in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit, <sup style="font-weight:bold;">5</sup> tasted the good word of God and the miracles of the coming age, <sup style="font-weight:bold;">6</sup> and then have committed apostasy,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[h]</a></sup>  <span style="font-weight:bold;">to renew them again to repentance</span>, since<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[i]</a></sup>  they are crucifying the Son of God for themselves all over again<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[j]</a></sup>  and holding him up to contempt.</span> <sup style="font-weight:bold;">7</sup> For the ground that has soaked up the rain that frequently falls on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[k]</a></sup>  it and yields useful vegetation for those who tend it receives a blessing from God. <sup style="font-weight:bold;">8</sup> But if it produces thorns and thistles, it is useless and about to be cursed;<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[l]</a></sup>  its fate is to be burned. <sup style="font-weight:bold;">9</sup> But in your case, dear friends, even though we speak like this, we are convinced of better things relating to salvation. <sup style="font-weight:bold;">10</sup> For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints. <sup style="font-weight:bold;">11</sup> But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end, <sup style="font-weight:bold;">12</sup> so that you may not be sluggish,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[m]</a></sup>  <span style="font-weight:bold;">but imitators of those who through faith and perseverance inherit the promises</span>. &mdash; Heb. 6:1-12 NET
+
+- <a name="111" href="#contents" style="font-size:1.6em;">1.1.1 Commentary</a>
+
+    > ...
 
 <!-- <sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup>
 
