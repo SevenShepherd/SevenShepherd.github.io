@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride. A Guide To Spotting False Teachers And Avoiding False Assurance."
-date: 2023-04-22 02:30:20 -0500
+date: 2023-04-22 02:35:20 -0500
 categories: nlt nrsvue version
 published: true
 ---
@@ -18,17 +18,16 @@ This article is under construction. Refresh weekly for updates.
 
 - I. <a href="#untaught">The Untaught Twist Scripture</a>
     - i.a. <a href="#2Peter3:16">2 Peter 3:16</a>
-        - i.a.0. <a href="#ia0">Under Construction</a>
-        - i.a.1. <a href="#ia1">Under Construction</a>
-        - i.a.2. <a href="#ia2">Under Construction</a>
-- II. <a href="#cite">Sources & Citations</a>
-    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
-    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
-    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
-    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
-    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
-    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
-    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
+        - i.a.0. <a href="#ia0">Commentary</a>
+- <a href="#cite">Sources & Citations</a>
+
+<!-- - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
+- ii.a.1. <a href="#net_cite">NET Full Notes</a>
+- ii.a.2. <a href="#exb_cite">Expanded Bible</a>
+- ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
+- ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
+- ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
+- ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a> -->
 
 <!-- Some movements within Christianity that teach Greek incorrectly are also reminiscent. -->
 
@@ -38,9 +37,13 @@ This article is under construction. Refresh weekly for updates.
 
 You are considered taught and sound if you have cited scholarship behind what you have learned. If there is a conflict between scholars, it would be wise to go with the majority. Yes, logic is a greater authority than any 1 specific teacher, but consider how unlikely it is that you are more logical than the 200+ scholars behind the <a name="esvsb_notes" href="#esvsb_cite">ESV Study Bible</a> as an example, among other excellent groups and committees.
 
+<a name="2Peter3:16" href="#contents" style="font-size:1.6em;">i.a. 2 Peter 3:16</a>
+
 > <sup style="font-weight:bold;">16</sup> He writes about ·this <span style="color:#A8A8A8;">[<sup>L</sup> these things]</span> in all his letters. Some things in Paul’s letters are hard to understand, and people who are ·ignorant <span style="color:#A8A8A8;">[untaught]</span> and ·weak in faith <span style="color:#A8A8A8;">[unstable]</span> ·explain these things falsely <span style="color:#A8A8A8;">[<sup>L</sup> twist/distort them]</span>. They also ·falsely explain <span style="color:#A8A8A8;">[<sup>L</sup> twist; distort]</span> the other Scriptures, ·but they are destroying themselves by doing this <span style="color:#A8A8A8;">[or which will lead to their destruction]</span>. &mdash; 2 Peter 3:16 EXB (Expanded Bible)
 
-We can see that the author reveals that it is only some things and not all that are difficult, but for those things which are, they require a great deal of effort and God-given wisdom to understand.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> The cults come to mind when considering this topic, as every one of them I've talked to has absolutely zero scholarship behind their translation or doctrine. If you can't cite a majority of scholarship on a topic, but are relying on cherry picking or no scholarship whatsoever, you are what is spoken of in second peter.
+- <a name="ia0" href="#contents" style="font-size:1.6em;">i.a.0 Commentary</a>
+
+    We can see that the author reveals that it is only some things and not all that are difficult, but for those things which are, they require a great deal of effort and God-given wisdom to understand.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> The cults come to mind when considering this topic, as every one of them I've talked to has absolutely zero scholarship behind their translation or doctrine. If you can't cite a majority of scholarship on a topic, but are relying on cherry picking or no scholarship whatsoever, you are what is spoken of in second peter.
 
 <!-- > **In all his letters** shows awareness of some kind of collection of Paul’s letters, with the number unspecified here. **Some things … hard to understand** does not say that everything in Paul’s letters is hard to understand, nor does it say that anything is “impossible to understand,” but it does imply that correctly interpreting some hard passages of Scripture requires much effort and God-given wisdom. **The ignorant and unstable twist** Paul’s teachings **as they do the other Scriptures**, implying that Paul’s writings were also considered Scripture in NT times, on the same level of divine authority as the OT Scripture. Greek graphē, here translated “Scriptures,” occurs 51 times in the NT, and every time it refers to the canonical OT Scripture, and not to any other writings, except that twice (here and 1 Tim. 5:18) some NT writings are also included. This indicates that NT books written or authorized by Christ’s apostles were recognized, at a very early date, to be God’s Word. -->
 
@@ -50,7 +53,7 @@ We can see that the author reveals that it is only some things and not all that 
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 
