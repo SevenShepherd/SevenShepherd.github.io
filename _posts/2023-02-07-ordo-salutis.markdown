@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:35:15 -0500
+date: 2023-02-02 4:40:15 -0500
 categories: salvation
 published: true
 ---
@@ -30,17 +30,19 @@ This article only lists theologically conservative evangelical theologies. Theol
 
 - I. <a href="#reformed">Reformed Theology</a>
     - 1.1 Reformed Baptist / Baptist Calvinist
-        - 1.1.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
-        - 1.1.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
-        - 1.1.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
-        - 1.1.4 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
-        - 1.1.5 Walter Martin (Ph.D., CCU)
-    - 1.2 Anglican Church in North America (ACNA)
-        - 1.2.1 <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
-        - 1.2.2 <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
-    - 1.3 Presbyterian Church in America (PCA)
-        - 1.3.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
-        - 1.3.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+        - 1.1.1 Most
+    - 1.2 Charismatic Reformed Baptist
+        - 1.2.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
+        - 1.2.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
+        - 1.2.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
+        - 1.2.4 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+        - 1.2.5 Walter Martin (Ph.D., CCU)
+    - 1.3 Anglican Church in North America (ACNA)
+        - 1.3.1 <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+        - 1.3.2 <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+    - 1.4 Presbyterian Church in America (PCA)
+        - 1.4.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+        - 1.4.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
 - II. <a href="#amyraldism">Moderate Calvinism (Amyraldism)</a>
     - 2.1 Reformed (Less Limited Atonement)
         - 2.1.1 Ron Rhodes (Th.D., Dallas)
