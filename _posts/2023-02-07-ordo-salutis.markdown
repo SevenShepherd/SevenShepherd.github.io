@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:40:15 -0500
+date: 2023-02-02 4:45:45 -0500
 categories: salvation
 published: true
 ---
@@ -26,51 +26,64 @@ This ministry holds to a monergistic theology, which rejects works based forms o
 
 This article only lists theologically conservative evangelical theologies. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders. We've also included sacerdotalist Roman catholocism for comparison.
 
-<a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Contents</a>
+<a href="#reformed" style="font-style:Italic;font-size:1.4em;color:black;">I. Reformed Theology</a>
 
-- I. <a href="#reformed">Reformed Theology</a>
-    - 1.1 Reformed Baptist / Baptist Calvinist
-        - 1.1.1 Most
-    - 1.2 Charismatic Reformed Baptist
-        - 1.2.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
-        - 1.2.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
-        - 1.2.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
-        - 1.2.4 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
-        - 1.2.5 Walter Martin (Ph.D., CCU)
-    - 1.3 Anglican Church in North America (ACNA)
-        - 1.3.1 <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
-        - 1.3.2 <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
-    - 1.4 Presbyterian Church in America (PCA)
-        - 1.4.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
-        - 1.4.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
-- II. <a href="#amyraldism">Moderate Calvinism (Amyraldism)</a>
-    - 2.1 Reformed (Less Limited Atonement)
-        - 2.1.1 Ron Rhodes (Th.D., Dallas)
-        - 2.1.2 Norman Geisler (Ph.D., Philosophy, Pennsylvania)
-        - 2.1.3 Frank Turek (DMin, Southern Evangelical Seminary)
-- III. <a href="#lutheran">Lutheran Theology</a>
-    - 3.1 Lutheran Church-Missouri Synod (LCMS)
-        - 3.1.1 Francis Pieper (D.D., Northwestern)
-        - 3.1.2 John Theodore Mueller (ThD, Xenia)
-- IV. <a href="#evangelical">Evangelicals Otherwise</a>
-    - 4.1 Calvary Chapel
-        - 4.1.1 Chuck Smith (B.A., Life Bible College)
-        - 4.1.4 Skip Heitzig (Ph.D., Trinity Southwest)
-    - 4.2 Independent Baptist
-        - 4.2.1 Jack Van Impe (Ph.D., Pacific)
-    - 4.3 Southern Baptist Convention (SBC)
-        - 4.3.1 Billy Graham (Self-directed)
-- V. <a href="#arminian">Arminian Theology</a>
-    - 5.1 Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
-- VI. <a href="#free">Free Grace Theology</a>
-    - 6.1.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
-- VII. <a href="#lordship">Lordship Salvation</a>
-    - 7.1.1 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
-- VIII. <a href="#roman">Roman Catholicism</a>
-    - 8.1 Traditional
-        - 8.1.1 Ludwig Ott (doctorate in Munich)
-    - 8.2 Post-Vatican II
-        - 8.2.1 Richard P. McBrien (doctorate at Pontifical Gregorian)
+- 1.1 Charismatic Reformed Baptist
+    - 1.1.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
+    - 1.1.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
+    - 1.1.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
+    - 1.1.5 Walter Martin (Ph.D., CCU)
+- 1.2 Reformed Baptist / Baptist Calvinist
+    - 1.2.1 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
+    - 1.2.2 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+- 1.3 Anglican Church in North America (ACNA)
+    - 1.3.1 <a href="#packer">J. I. Packer (Ph.D., Oxford)</a>
+    - 1.3.2 <a href="#bird">Michael F. Bird (Ph.D., Queensland)</a>
+- 1.4 Presbyterian Church in America (PCA)
+    - 1.4.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
+    - 1.4.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
+
+<a href="#amyraldism" style="font-style:Italic;font-size:1.4em;color:black;">II. Moderate Calvinism (Amyraldism)</a>
+
+- 2.1 Reformed (Less Limited Atonement)
+    - 2.1.1 Ron Rhodes (Th.D., Dallas)
+    - 2.1.2 Norman Geisler (Ph.D., Philosophy, Pennsylvania)
+    - 2.1.3 Frank Turek (DMin, Southern Evangelical Seminary)
+
+<a href="#lutheran" style="font-style:Italic;font-size:1.4em;color:black;">III. Lutheran Theology</a>
+
+- 3.1 Lutheran Church-Missouri Synod (LCMS)
+    - 3.1.1 Francis Pieper (D.D., Northwestern)
+    - 3.1.2 John Theodore Mueller (ThD, Xenia)
+
+<a href="#evangelical" style="font-style:Italic;font-size:1.4em;color:black;">IV. Evangelicals Otherwise</a>
+
+- 4.1 Calvary Chapel
+    - 4.1.1 Chuck Smith (B.A., Life Bible College)
+    - 4.1.4 Skip Heitzig (Ph.D., Trinity Southwest)
+- 4.2 Independent Baptist
+    - 4.2.1 Jack Van Impe (Ph.D., Pacific)
+- 4.3 Southern Baptist Convention (SBC)
+    - 4.3.1 Billy Graham (Self-directed)
+
+<a href="#arminian" style="font-style:Italic;font-size:1.4em;color:black;">V. Arminian Theology</a>
+
+- 5.1 Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
+
+<a href="#free" style="font-style:Italic;font-size:1.4em;color:black;">VI. Free Grace Theology</a>
+
+- 6.1.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+
+<a href="#lordship" style="font-style:Italic;font-size:1.4em;color:black;">VII. Lordship Salvation</a>
+
+- 7.1.1 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
+
+<a href="#roman" style="font-style:Italic;font-size:1.4em;color:black;">VIII. Roman Catholicism</a>
+
+- 8.1 Traditional
+    - 8.1.1 Ludwig Ott (doctorate in Munich)
+- 8.2 Post-Vatican II
+    - 8.2.1 Richard P. McBrien (doctorate at Pontifical Gregorian)
 
 <!-- There are two different beliefs about how people are saved: monergism and synergism. Monergism says that God alone is responsible for saving people, and humans can't cooperate or contribute. Grace based monergism is opposed to works based synergism. Christianity is monergistic.
 
