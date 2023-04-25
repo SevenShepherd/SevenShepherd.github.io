@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "🌡️ Blending In With Everybody And Impacting Nobody Is What The Lukewarm Do Best"
-date: 2023-04-23 01:15:00 -0500
+date: 2023-04-23 01:20:00 -0500
 categories: nlt nrsvue version
 published: true
 ---
-
-<span style="font-size:2.1em">⚠️ Under Construction</span>
-
-This article is under construction. Refresh weekly for updates.
 
 <a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
 
@@ -19,14 +15,15 @@ This article is under construction. Refresh weekly for updates.
         - i.b.0. <a href="#ib0">Commentary</a>
     - i.c. <a href="#Mat5:16">Matthew 5:16</a>
         - i.c.0. <a href="#ic0">Commentary</a>
-- II. <a href="#cite">Sources & Citations</a>
-    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
-    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
-    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
-    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
-    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
-    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
-    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
+- <a href="#cite">Sources & Citations</a>
+
+<!-- - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
+- ii.a.1. <a href="#net_cite">NET Full Notes</a>
+- ii.a.2. <a href="#exb_cite">Expanded Bible</a>
+- ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
+- ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
+- ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
+- ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a> -->
 
 <!-- - i.b.. <a href="#ib5">MacArthur Study Bible</a> -->
     
@@ -73,12 +70,13 @@ This article is under construction. Refresh weekly for updates.
 
 <a name="Rom2:24" href="#contents" style="font-size:1.6em;">i.b. Romans 2:24</a>
 
-
 > For, as it is written, “The name of God is blasphemed among the Gentiles because of you.” &mdash; Romans 2:24 ESV
 
 - <a name="ib0" href="#contents" style="font-size:1.6em;">i.b.0. Commentary</a>
 
-    Under Construction
+    As a result of their hypocrisy, the Gentiles themselves blasphemed God.<sup><a name="tnsb_notes" href="#tnsb_cite">6</a></sup> In the same way, as a result of your hypocrisy, the secular world will blaspheme God. You may think that by showing others that you're not "judgemental" by partaking in sin with them, but this is a grave error and ignorance, as your hypocrisy is the reason they hate God. It is not "judgemental" to speak the truth or walk a correct path, they are judgemental for hating the truth. It is your job not to play the hypocrite and not to damn yourself in the process (Jd 4 NET).
+
+    > **By your hypocrisy** and crimes **the pagan world is led to despise** a religion which is observed to have no effect in purifying and restraining its professors; and of course the reproach will terminate on the Author of your religion - that is, **the true God**. A life of purity would tend to honor religion and its Author; a life of impurity does the reverse. &mdash; [Barnes' Notes on the Bible](https://biblehub.com/commentaries/romans/2-24.htm)
 
     <!-- > Because they violated the law, the Jews were exiled by God and were therefore reviled by the Gentiles (Paul adapts phrases from the Septuagint translation of Isa. 52:5; cf. Ezek. 36:20–23). This dishonored God because they were known as his people. In Paul’s time their sins did not lead to exile but still led Gentiles to dishonor the God whom the sinful Jews claimed to follow. <sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> -->
 
@@ -95,7 +93,7 @@ This article is under construction. Refresh weekly for updates.
 
 - <a name="ic0" href="#contents" style="font-size:1.6em;">i.c.0. Commentary</a>
 
-    Under Construction
+    Through your good works, the world will see the light of the kingdom, and your Father who is in heaven will be glorified simultaneously.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> This is similar to 1 Pet. 2:12 in that living a godly life gives convincing testimony of the saving power of God which brings him glory.<sup><a name="mac_notes" href="#mac_cite">mac</a></sup>
 
 <br>
 
@@ -103,7 +101,7 @@ This article is under construction. Refresh weekly for updates.
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 
