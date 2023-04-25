@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:25:15 -0500
+date: 2023-02-02 4:30:15 -0500
 categories: salvation
 published: true
 ---
@@ -109,10 +109,10 @@ This article only lists theologically conservative evangelical theologies. Theol
 <!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Sacerdotalism</a> -->
 
 - VI. <a href="#roman">Roman Catholicism</a>
-    - 8.1 Traditional
-        - 8.1.1 Ludwig Ott (doctorate in Munich)
-    - 9.1 Post-Vatican II
-        - 9.1.1 Richard P. McBrien (doctorate at Pontifical Gregorian)
+    - 6.1 Traditional
+        - 6.1.1 Ludwig Ott (doctorate in Munich)
+    - 6.2 Post-Vatican II
+        - 6.2.1 Richard P. McBrien (doctorate at Pontifical Gregorian)
 
 <!-- <span style="font-size:1.4em;">Organized By Orthodoxy</span> -->
 
