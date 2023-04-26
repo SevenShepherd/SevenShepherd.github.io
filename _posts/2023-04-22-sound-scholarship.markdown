@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride"
-date: 2023-04-22 03:15:00 -0500
+date: 2023-04-22 03:20:00 -0500
 categories: scholarship evidence
 published: true
 ---
@@ -39,7 +39,7 @@ You are considered taught and sound if you have cited scholarship behind what yo
 
 - <a name="commentary" href="#contents" style="font-size:1.6em;">1.1.1 Commentary</a>
 
-    We can see that the author reveals that it is only some things and not all that are difficult, but for those things which are, they require a great deal of effort and God-given wisdom to understand.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> In modern times no one speaks koine greek or biblical hebrew as a common tongue and so we must rely on others who have studied it thoroughly at the university level. I have supplied you with sources this day. 
+    We can see that the author reveals that it is only some things and not all that are difficult, but for those things which are, they require a great deal of effort and God-given wisdom to understand.<sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup> In modern times no one speaks koine Greek or biblical Hebrew as a common tongue and so we must rely on others who have studied it thoroughly at the university level. I have supplied you with <a href="#cite">sources</a> this day. 
     
     The cults are a good example of sects that are willfully cut off from sound academic understandings of doctrine. Every one of them I've talked to has absolutely zero scholarship behind their translation or doctrine. If you can't cite a majority of scholarship on a topic, but are relying on cherry picking or no scholarship whatsoever, you are what is spoken of in second peter, and you are in danger of falling away from sound teachings. 
 
