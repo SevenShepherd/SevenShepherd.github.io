@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "❤️ Anyone Who Does Not Love Does Not Know God, Because God Is Love"
-date: 2023-04-27 01:10:01 -0500
+title: "❤️ But Anyone Who Does Not Love Does Not Know God, For God Is Love"
+date: 2023-04-27 01:15:01 -0500
 categories: love agape
 published: true
 ---
-
-<a name="top"></a>
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
 
@@ -19,11 +17,13 @@ This article is under construction. Refresh weekly for updates.
         - 1.1.1 <a href="#1.1.1Commentary">Commentary</a>
     - 1.2 <a href="#1John2:9-11">1 John 2:9-11</a>
         - 1.2.1 <a href="#1.2.1Commentary">Commentary</a>
+    - 1.3 <a href="#1Corinthians13:1-3">1 Corinthians 13:1-3</a>
+        - 1.3.1 <a href="#1.3.1Commentary">Commentary</a>
 - <a href="#cite">Sources & Citations</a>
-
 
 <a name="love" href="#contents" style="font-size:2.1em;">I. What Kind Of Love?</a>
 
+**Agape**, storge, philia, and eros.
 
 <a name="1John4:8,20" href="#contents" style="font-size:1.6em;">1.1 1 John 4:8,20</a>
 
@@ -38,6 +38,14 @@ This article is under construction. Refresh weekly for updates.
 > <sup style="font-weight:bold;">9</sup> If anyone claims, “I am living in the light,” but hates a fellow believer, **that person is still living in darkness**. <sup style="font-weight:bold;">10</sup> Anyone who loves a fellow believer is living in the light and does not cause others to stumble. <sup style="font-weight:bold;">11</sup> But anyone who hates a fellow believer is **still living and walking in darkness**. Such a person does not know the way to go, having been blinded by the darkness. &mdash; 1 John 2:9,11 NLT ([Parallel](https://www.biblegateway.com/passage/?search=1Jn+2%3A9-11&version=ESV;NET;EXB;NLT))
 
 - <a name="1.2.1Commentary" href="#contents" style="font-size:1.4em;">1.2.1 Commentary</a>
+
+    > Under Construction
+
+<a name="1Corinthians13:1-3" href="#contents" style="font-size:1.6em;">1.3 1 Corinthians 13:1-3</a>
+
+> <sup style="font-weight:bold;">1</sup> If I could speak all the languages of earth and of angels, but didn’t love others, I would only be **a noisy gong or a clanging cymbal**. <sup style="font-weight:bold;">2</sup> If I had the gift of prophecy, and if I understood all of God’s secret plans and possessed all knowledge, and if I had such faith that I could move mountains, but didn’t love others, **I would be nothing**. <sup style="font-weight:bold;">3</sup> If I gave everything I have to the poor and even sacrificed my body, I could boast about it; but if I didn’t love others, **I would have gained nothing**. &mdash; 1 Corinthians 13:1-3 NLT ([Parallel](https://www.biblegateway.com/passage/?search=I+Corinthians+13%3A1-3&version=ESV;NET;EXB;NLT))
+
+- <a name="1.3.1Commentary" href="#contents" style="font-size:1.4em;">1.3.1 Commentary</a>
 
     > Under Construction
 
