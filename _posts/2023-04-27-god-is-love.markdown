@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️ But Anyone Who Does Not Love Does Not Know God, For God Is Love"
-date: 2023-04-27 01:15:01 -0500
+date: 2023-04-27 01:20:20 -0500
 categories: love agape
 published: true
 ---
@@ -13,11 +13,11 @@ This article is under construction. Refresh weekly for updates.
 <a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
 
 - I. <a href="#love">What Kind Of Love?</a>
-    - 1.1 <a href="#1John4:8,20">1 John 4:8,20</a>
+    - 1.1 <a href="#1John4:8,20">First John 4:8,20</a>
         - 1.1.1 <a href="#1.1.1Commentary">Commentary</a>
-    - 1.2 <a href="#1John2:9-11">1 John 2:9-11</a>
+    - 1.2 <a href="#1John2:9-11">First John 2:9-11</a>
         - 1.2.1 <a href="#1.2.1Commentary">Commentary</a>
-    - 1.3 <a href="#1Corinthians13:1-3">1 Corinthians 13:1-3</a>
+    - 1.3 <a href="#1Corinthians13:1-3">First Corinthians 13:1-3</a>
         - 1.3.1 <a href="#1.3.1Commentary">Commentary</a>
 - <a href="#cite">Sources & Citations</a>
 
@@ -25,7 +25,7 @@ This article is under construction. Refresh weekly for updates.
 
 **Agape**, storge, philia, and eros.
 
-<a name="1John4:8,20" href="#contents" style="font-size:1.6em;">1.1 1 John 4:8,20</a>
+<a name="1John4:8,20" href="#contents" style="font-size:1.6em;">1.1 First John 4:8,20</a>
 
 > <sup style="font-weight:bold;">8</sup> But anyone who does not love **does not know God**, for God is love. <sup style="font-weight:bold;">20</sup> If someone says, “I love God,” but hates a fellow believer, **that person is a liar**; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:8,20 NLT ([Parallel](https://www.biblegateway.com/passage/?search=1+John4%3A8%2C20&version=ESV;NET;EXB;NLT))
 
@@ -33,15 +33,15 @@ This article is under construction. Refresh weekly for updates.
 
     > Under Construction
 
-<a name="1John2:9-11" href="#contents" style="font-size:1.6em;">1.2 1 John 2:9-11</a>
+<a name="1John2:9-11" href="#contents" style="font-size:1.6em;">1.2 First John 2:9-11</a>
 
-> <sup style="font-weight:bold;">9</sup> If anyone claims, “I am living in the light,” but hates a fellow believer, **that person is still living in darkness**. <sup style="font-weight:bold;">10</sup> Anyone who loves a fellow believer is living in the light and does not cause others to stumble. <sup style="font-weight:bold;">11</sup> But anyone who hates a fellow believer is **still living and walking in darkness**. Such a person does not know the way to go, having been blinded by the darkness. &mdash; 1 John 2:9,11 NLT ([Parallel](https://www.biblegateway.com/passage/?search=1Jn+2%3A9-11&version=ESV;NET;EXB;NLT))
+> <sup style="font-weight:bold;">9</sup> If anyone claims, “I am living in the light,” but hates a fellow believer, **that person is still living in darkness**. <sup style="font-weight:bold;">10</sup> Anyone who loves a fellow believer is living in the light and does not cause others to stumble. <sup style="font-weight:bold;">11</sup> But anyone who hates a fellow believer is **still living and walking in darkness**. Such a person does not know the way to go, having been blinded by the darkness. &mdash; 1 John 2:9-11 NLT ([Parallel](https://www.biblegateway.com/passage/?search=1Jn+2%3A9-11&version=ESV;NET;EXB;NLT))
 
 - <a name="1.2.1Commentary" href="#contents" style="font-size:1.4em;">1.2.1 Commentary</a>
 
     > Under Construction
 
-<a name="1Corinthians13:1-3" href="#contents" style="font-size:1.6em;">1.3 1 Corinthians 13:1-3</a>
+<a name="1Corinthians13:1-3" href="#contents" style="font-size:1.6em;">1.3 First Corinthians 13:1-3</a>
 
 > <sup style="font-weight:bold;">1</sup> If I could speak all the languages of earth and of angels, but didn’t love others, I would only be **a noisy gong or a clanging cymbal**. <sup style="font-weight:bold;">2</sup> If I had the gift of prophecy, and if I understood all of God’s secret plans and possessed all knowledge, and if I had such faith that I could move mountains, but didn’t love others, **I would be nothing**. <sup style="font-weight:bold;">3</sup> If I gave everything I have to the poor and even sacrificed my body, I could boast about it; but if I didn’t love others, **I would have gained nothing**. &mdash; 1 Corinthians 13:1-3 NLT ([Parallel](https://www.biblegateway.com/passage/?search=I+Corinthians+13%3A1-3&version=ESV;NET;EXB;NLT))
 
