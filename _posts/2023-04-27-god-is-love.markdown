@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️ But Anyone Who Does Not Love Does Not Know God, For God Is Love"
-date: 2023-04-27 01:20:20 -0500
+date: 2023-04-27 01:25:25 -0500
 categories: love agape
 published: true
 ---
@@ -23,7 +23,9 @@ This article is under construction. Refresh weekly for updates.
 
 <a name="love" href="#contents" style="font-size:2.1em;">I. What Kind Of Love?</a>
 
-**Agape**, storge, philia, and eros.
+**Agápē**, storge, philia, and eros.
+
+According to BDAG, the world's most authoritative Greek Lexicon, agápē (ἀγάπη) means: the quality of warm regard for and interest in another, esteem, affection, regard, love. This form of love is unconditional. Verses that speak of **the love (agápē) of God and Christ to humans** are as follows: 1 John 3:1; 4:7-10, 16, 17; Ro 5:8; 8:35, 39; Eph 1:4, 2:4; 3:19; 2 Cor 5:14; 13:11, 13; Jd 2,21; Jn 15:9-10, 13.
 
 <a name="1John4:8,20" href="#contents" style="font-size:1.6em;">1.1 First John 4:8,20</a>
 
