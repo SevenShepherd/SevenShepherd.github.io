@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:30:15 -0500
+date: 2023-04-22 03:35:35 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -34,7 +34,8 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
         - 1.1.6 <a href="#restore">Restore Again To Repentance</a>
     - 1.2 <a href="#heb6:7-8">Hebrews 6:7-8</a>
         - 1.2.1 <a href="#Thorns and Thistles">Thorns and Thistles</a>
-        - 1.2.2 <a href="#better things">Better Things Than What?</a>
+        - 1.2.2 <a href="#fate-burned">Its Fate Is To Be Burned</a>
+        - 1.2.3 <a href="#better things">Better Things Than What?</a>
     - 1.3 <a href="#1John2:19,28">1 John 2:19,28</a>
         - 1.3.1 <a href="#a dead faith">Not A True Saving Faith?</a>
 - <a href="#cite">Sources & Citations</a>
@@ -103,19 +104,19 @@ If you do feel contrite and are struggling but progressively winning your battle
 
 - <a name="enlightened" href="#contents" style="font-size:1.6em;">1.1.3 Once Been Enlightened</a>
 
-> Under Construction
+    > Under Construction
 
 - <a name="tasted" href="#contents" style="font-size:1.6em;">1.1.4 Tasted The Heavenly Gift</a>
 
-> Under Construction
+    > Under Construction
 
 - <a name="shared" href="#contents" style="font-size:1.6em;">1.1.5 Shared In The Holy Spirit</a>
 
-> Under Construction
+    > Under Construction
 
 - <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Restore Again To Repentance</a>
 
-> Under Construction
+    > Under Construction
 
 
 <a name="heb6:7-8" href="#contents" style="font-size:1.6em;">1.2 Hebrews 6:7-8</a>
@@ -132,7 +133,12 @@ If you do feel contrite and are struggling but progressively winning your battle
 
     <!-- The evidence for this contextually can be found in Heb. 6:9 when the author says *"we are convinced of **better things** relating to salvation."* The question is, better than what? The author is convinced that most of his readers have experienced better things than simply the partial and temporary influences of the Holy Spirit and the church talked about in v. 4-6.<sup><a href="#grudem">9</a></sup> -->
 
-- <a name="better things" href="#contents" style="font-size:1.6em;">1.2.2 Better Things Than What?</a>
+
+- <a name="fate-burned" href="#contents" style="font-size:1.6em;">1.2.2 Its Fate Is To Be Burned</a>
+
+    > Under Construction
+
+- <a name="better things" href="#contents" style="font-size:1.6em;">1.2.3 Better Things Than What?</a>
 
     The real question is **“better things” than what?** The answer of course being **better things than simply the partial and temporary influences of the Holy Spirit and the church** talked about in verses 4 – 6. So now we have identified the *good* things, what exactly are these *“better things”*? In addition to salvation (v. 9), they are things that give real evidence of salvation and reassures those who are genuine believers.:
     - Genuine fruit in their lives (v. 10)
