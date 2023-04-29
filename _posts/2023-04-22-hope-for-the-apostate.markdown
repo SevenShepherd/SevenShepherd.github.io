@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:15:15 -0500
-categories: nlt nrsvue version
+date: 2023-04-22 03:20:15 -0500
+categories: apostate apostasy
 published: true
 ---
 
@@ -14,13 +14,24 @@ This article is under construction. Refresh weekly for updates.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/0vgF6UMdm6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For those of you with this experience, I would encourage you to watch the video all the way through, even if the first part is difficult to hear because the ultimate message is a reassuring one.
+For those of you with this experience, I would encourage you to watch this video by [Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH) all the way through, even if the first part is difficult to hear, because the ultimate message is a reassuring one. Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He recommended the <a name="esvsb_notes" href="#esvsb_cite">ESV</a>, but primarily the <a name="net_notes" href="#net_cite">NET Full Notes</a> for study of text critical issues.
 
-<a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
+<!-- For those of you with this experience, I would encourage you to watch this video by [Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH) all the way through, even if the first part is difficult to hear, because the ultimate message is a reassuring one. Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He recommended the [ESV](https://amzn.to/3WsN0Uw), but primarily the [NET Full Notes](https://amzn.to/3WLAgbr) for study of text critical issues. -->
+
+<!-- > ... I recommend the ESV. For a study Bible, however, I like the NET Bible ... &mdash; [Heiser](https://drmsh.com/bible-versions/)
+
+Bare in mind, this passage is NT so I would say when It comes to Koine Greek we might defer to [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs); however, this is sound. -->
+
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 - I. <a href="#hope">Examining A Difficult Passage</a>
     - 1.1 <a href="#heb6:4-6">Hebrews 6:4-6</a>
-        - 1.1.1 <a href="#111">Commentary</a>
+        - 1.1.1 <a href="#dead">Repentance From Dead Works</a>
+        - 1.1.2 <a href="#defined">Repentance Defined</a>
+    - 1.2 <a href="#heb6:7-8">Hebrews 6:7-8</a>
+        - 1.2.1 <a href="#Thorns and Thistles">Thorns and Thistles</a>
+    - 1.3 <a href="#1John2:19,28">1 John 2:19,28</a>
+        - 1.3.1 <a href="#a dead faith">Not A True Saving Faith?</a>
 - <a href="#cite">Sources & Citations</a>
 
 
@@ -53,13 +64,63 @@ For those of you with this experience, I would encourage you to watch the video 
 
 <!-- <span style="font-size:1.6em">Diving Deeper</span> -->
 
-<a name="heb6:4-6" href="#contents" style="font-size:1.6em;">1.1 Hebrews 6:1-12</a>
+<a name="heb6:4-6" href="#contents" style="font-size:1.6em;">1.1 Hebrews 6:4-6</a>
 
-> <sup style="font-weight:bold;">1</sup> Therefore we must progress beyond<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[a]</a></sup>  the elementary<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[b]</a></sup>  instructions about Christ<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[c]</a></sup>  and move on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[d]</a></sup>  to maturity, not laying this foundation again: **repentance** from dead works<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[e]</a></sup>  and faith in God, <sup style="font-weight:bold;">2</sup> teaching about ritual washings,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[f]</a></sup>  laying on of hands, resurrection of the dead, and eternal judgment. <sup style="font-weight:bold;">3</sup> And this is what we intend to do,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[g]</a></sup>  if God permits. <span style="color:darkred;"><sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">For it is impossible</span> in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit, <sup style="font-weight:bold;">5</sup> tasted the good word of God and the miracles of the coming age, <sup style="font-weight:bold;">6</sup> and then have committed apostasy,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[h]</a></sup>  <span style="font-weight:bold;">to renew them again to repentance</span>, since<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[i]</a></sup>  they are crucifying the Son of God for themselves all over again<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[j]</a></sup>  and holding him up to contempt.</span> <sup style="font-weight:bold;">7</sup> For the ground that has soaked up the rain that frequently falls on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[k]</a></sup>  it and yields useful vegetation for those who tend it receives a blessing from God. <sup style="font-weight:bold;">8</sup> But if it produces thorns and thistles, it is useless and about to be cursed;<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[l]</a></sup>  its fate is to be burned. <sup style="font-weight:bold;">9</sup> But in your case, dear friends, even though we speak like this, we are convinced of better things relating to salvation. <sup style="font-weight:bold;">10</sup> For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints. <sup style="font-weight:bold;">11</sup> But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end, <sup style="font-weight:bold;">12</sup> so that you may not be sluggish,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[m]</a></sup>  <span style="font-weight:bold;">but imitators of those who through faith and perseverance inherit the promises</span>. &mdash; Heb. 6:1-12 NET
+> <sup style="font-weight:bold;">1</sup> Therefore we must progress beyond<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[a]</a></sup>  the elementary<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[b]</a></sup>  instructions about Christ<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[c]</a></sup>  and move on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[d]</a></sup>  to maturity, not laying this foundation again: **repentance** from dead works<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[e]</a></sup>  and faith in God, <sup style="font-weight:bold;">2</sup> teaching about ritual washings,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[f]</a></sup>  laying on of hands, resurrection of the dead, and eternal judgment. <sup style="font-weight:bold;">3</sup> And this is what we intend to do,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[g]</a></sup>  if God permits. <span style="color:darkred;"><sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">For it is impossible</span> in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit, <sup style="font-weight:bold;">5</sup> tasted the good word of God and the miracles of the coming age, <sup style="font-weight:bold;">6</sup> and then have committed apostasy,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[h]</a></sup>  <span style="font-weight:bold;">to renew them again to repentance</span>, since<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[i]</a></sup>  they are crucifying the Son of God for themselves all over again<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[j]</a></sup>  and holding him up to contempt.</span> <sup style="font-weight:bold;">7</sup> For the ground that has soaked up the rain that frequently falls on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[k]</a></sup>  it and yields useful vegetation for those who tend it receives a blessing from God. <sup style="font-weight:bold;">8</sup> But if it produces thorns and thistles, it is useless and about to be cursed;<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[l]</a></sup>  its fate is to be burned. <sup style="font-weight:bold;">9</sup> But in your case, dear friends, even though we speak like this, we are convinced of better things **relating to salvation**. <sup style="font-weight:bold;">10</sup> For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints. <sup style="font-weight:bold;">11</sup> But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end, <sup style="font-weight:bold;">12</sup> so that you may not be sluggish,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[m]</a></sup>  <span style="font-weight:bold;">but imitators of those who through faith and perseverance inherit the promises</span>. &mdash; Heb. 6:1-12 NET
 
-- <a name="111" href="#contents" style="font-size:1.6em;">1.1.1 Commentary</a>
+- <a name="dead" href="#contents" style="font-size:1.6em;">1.1.1 Repentance From Dead Works</a>
 
-    > ...
+    Christ’s sacrifice purifies the innermost being (Heb. 10:22). from dead works (Heb. 9:14).<sup><a href="#esvsb_cite">1</a></sup>
+
+    > It is clear from the context that **the phrase “dead works” are works that need to be repented from and thus are sins**. The same phrase occurs in Heb 9:14 in which the author of Hebrews states that our consciences need to be purified from them. As Bruce states, **they are works “that belong to the way of death and not the way of life”** (F. F. Bruce, Hebrews [NICNT], 138). &mdash; <a href="#net_cite">NET Bible: Full Notes Edition</a> <sup><a href="#net_cite">2</a></sup>
+
+- <a name="defined" href="#contents" style="font-size:1.6em;">1.1.2 Repentance Defined</a>
+    
+    We know that the underlying meaning of the Koine Greek word for repentance is to *"feel remorse, repent, be converted (in religio-ethical sense)"* according to the world's most authoritative Greek lexicons, otherwise every bible committe on earth wouldn't have chosen the english word for repentance which means the same thing. <sup><a href="#grudem">9</a></sup><sup> </sup><sup><a href="#BDAG">8</a></sup> At first glance this passage would seem to be saying that the form of repentance that is necessary for saving faith, is out of reach to those who have apostatized.
+
+    > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)</a>
+
+    <!-- Pay attention to the phrase justification by faith alone. The concentration is on the justification that is by faith alone. When the reformers developed this from scripture they also believed that good works and obedience would naturally result from a true saving faith. As every historic protestant confession proves. -->
+
+    Now that we understand the meaning of repentance, we can attempt to crack this difficult saying *"For it is impossible... to renew them again to repentance"*. Before I open up the other studies, It does seem to imply that they will not be able to feel sorrow or contrition for disobedience to God ever again and logically may even be hostile to the idea. This could possibly be speaking of the unpardonable sin (Mk 3:28-29). This group is in great danger.
+
+    > Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., University of Oxford). 88. UNPARDONABLE SIN - **Only Impenitence Cannot Be Forgiven**</a>
+
+    It's important to understand that Repentance *"is a divine enablement"*<sup><a href="#demarest">11</a></sup> and not a human action. In fact it is the absence of action; once you were practicing sin (1Jn 3:9-10)<sup><a href="#esvsb_cite">1</a></sup>, now you're no longer *"living in a continual pattern"*<sup><a href="#esvsb_cite">1</a></sup> because God granted you a contrite heart (2Ti 2:25 NET) and genuine faith (Phil 1:29 NET; 2Cor. 13:5). The sinners prayer and walking down an aisle x amount of times, could however, be a work. Do not rely on your works for salvation, but on the Grace of God through faith.
+    
+    <!-- It is God who grants repentance (2Ti 2:25 NET) and faith (Phil 1:29 NET), so ask him. -->
+
+<!-- I write this to all of you, incase there are those among you who have not repented. It is imperative that you get this understanding right. If you do not feel contrite enough to cease the actions that cause *"living in a continual pattern"* of sin <sup><a href="#esvsb_cite">1Jn 3:9-10</a></sup> (Jd 4 NET; Ro 6:1-2; 1Jn 2:3-6, 3:9-10; 2Pe 2:21-22) then... there may not be a genuine profession of faith within you (2Cor. 13:5; Titus 1:16; Jas. 1:22 NLT; Is 29:13 NLT; Mt 15:8 NLT). If so, there's no better time than right now.
+
+It's important to understand that Repentance *"is a divine enablement"*<sup><a href="#demarest">11</a></sup> and not a human action. In fact it is the absence of action; once you were practicing sin, now you're not. The sinners prayer and walking down an aisle x amount of times, is however, a work. Do not rely on your works for salvation, but on the Grace of God through faith. It is God who grants repentance (2Ti 2:25 NET) and faith (Phil 1:29 NET), so ask him.
+
+If you do feel contrite and are struggling but progressively winning your battle, you should breathe easy because you're seemingly going through sanctification -->
+
+<a name="heb6:7-8" href="#contents" style="font-size:1.6em;">1.2 Hebrews 6:7-8</a>
+
+> <sup style="font-weight:bold;">1</sup> Therefore we must progress beyond<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[a]</a></sup>  the elementary<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[b]</a></sup>  instructions about Christ<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[c]</a></sup>  and move on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[d]</a></sup>  to maturity, not laying this foundation again: **repentance** from dead works<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[e]</a></sup>  and faith in God, <sup style="font-weight:bold;">2</sup> teaching about ritual washings,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[f]</a></sup>  laying on of hands, resurrection of the dead, and eternal judgment. <sup style="font-weight:bold;">3</sup> And this is what we intend to do,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[g]</a></sup>  if God permits. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">For it is impossible</span> in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit, <sup style="font-weight:bold;">5</sup> tasted the good word of God and the miracles of the coming age, <sup style="font-weight:bold;">6</sup> and then have committed apostasy,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[h]</a></sup>  <span style="font-weight:bold;">to renew them again to repentance</span>, since<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[i]</a></sup>  they are crucifying the Son of God for themselves all over again<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[j]</a></sup>  and holding him up to contempt. <span style="color:darkred;"><sup style="font-weight:bold;">7</sup> For the ground that has soaked up the rain that frequently falls on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[k]</a></sup>  it and yields useful vegetation for those who tend it receives a blessing from God. <sup style="font-weight:bold;">8</sup> But if it produces **thorns and thistles**, it is useless and about to be cursed;<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[l]</a></sup>  **its fate is to be burned**.</span> <sup style="font-weight:bold;">9</sup> But in your case, dear friends, even though we speak like this, we are convinced of better things **relating to salvation**. <sup style="font-weight:bold;">10</sup> For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints. <sup style="font-weight:bold;">11</sup> But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end, <sup style="font-weight:bold;">12</sup> so that you may not be sluggish,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[m]</a></sup>  <span style="font-weight:bold;">but imitators of those who through faith and perseverance inherit the promises</span>. &mdash; Heb. 6:1-12 NET
+
+- <a name="Thorns and Thistles" href="#contents" style="font-size:1.6em;">1.2.1 Does Your Life Produce Only Thorns and Thistles?</a>
+    
+    Hebrews affirms that those who finally fall away may give many external signs of conversion and may look in many ways like Christians.<sup><a href="#grudem">9</a></sup> This passage is an agricultural metaphor.<sup><a href="#grudem">9</a></sup> Those who receive final judgement are compared to a land that bears no useful vegetation or useful fruit but rather bears thorns and thistles.<sup><a href="#grudem">9</a></sup>
+
+    > When we recall the other metaphors in Scripture where good fruit is a sign of true spiritual life and **fruitlessness is a sign of false believers (for example, Matt. 3:8-10; 7:15-20; 12:33-35)**, we already have an indication that the author is speaking of people whose most trustworthy evidence of their spiritual condition (the fruit they bear) is negative ("thorns and thistles," v. 8), which would indicate that **the author is talking about people who are not genuinely Christians**. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+    This metaphor bluntly indicates that those who fall away are like a land that never bore good fruit, even though their life received repeated blessings, *"rain that frequently falls on it"*. This is not the same as a land that once bore fruit and now does not, no, this is a land that never has and never will, *"thorns and thistles"*.<sup><a href="#grudem">9</a></sup> This is not talking about people who are saved, but those who never were. We know this logically because we cannot lose our salvation, we are supernaturally preserved.
+
+    To argue against this sound logic would be to argue for works based arminian synergism. Christianity is monergistic, we are not saved by our own efforts.
+
+    
+
+<a name="1John2:19,28" href="#contents" style="font-size:1.6em;">1.2 1 John 2:19,28</a>
+
+- <a name="a dead faith" href="#contents" style="font-size:1.6em;">1.3.1 Not A True Saving Faith</a>
+    
+    The Apostle John also makes statements that seem to acknowledge that their "deconstruction" was never truly a real saving faith to begin with. The good news is, if this is true, then they can start today!
+    
+    > d. 1 John 2:28 **tn** Grk “at his coming.” **sn** Have confidence…shrink away from him in shame when he comes back. Once again in the antithetical framework of Johannine thought (that is, the author’s tendency to think in terms of polar opposites), there are only two alternatives, just as there are only two alternatives in John 3:18-21, a key section for the understanding of the present passage in 1 John. **Anyone who does not ‘remain’ demonstrates (just as the opponents demonstrated by their departure from the community in 1Jn 2:19) that <span style="color:darkred;">whatever profession he has made is false and he is not truly a believer</span>.** &mdash; <a href="#net_cite">NET Bible: Full Notes Edition</a> <sup><a href="#net_cite">2</a></sup>
+
+    
 
 <!-- <sup><a name="esvsb_notes" href="#esvsb_cite">0</a></sup>
 
@@ -89,7 +150,9 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
 
-<sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
+<span style="color:#A8A8A8;">--- Study Bibles ---</span>
+
+<sup><a name="esvsb_cite" href="#contents">1</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 
 <!--  -->
 
@@ -104,7 +167,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="net_cite" href="#contents">1</a></sup> The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+<sup><a name="net_cite" href="#contents">2</a></sup> The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
 
 <!--  -->
 
@@ -114,7 +177,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="exb_cite" href="#contents">2</a></sup> The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
+<sup><a name="exb_cite" href="#contents">3</a></sup> The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
 
 <!--  -->
 
@@ -127,7 +190,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 <span style="color:#A8A8A8;">---</span>
 
 
-<sup><a name="logos_cite" href="#contents">3</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
+<sup><a name="logos_cite" href="#contents">4</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
 
 <!--  -->
 
@@ -135,7 +198,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="btsb_cite" href="#contents">4</a></sup> The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
+<sup><a name="btsb_cite" href="#contents">5</a></sup> The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
     
 <!--  -->
 
@@ -145,7 +208,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="filament_cite" href="#contents">5</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+<sup><a name="filament_cite" href="#contents">6</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
 
 <!--  -->
 
@@ -156,14 +219,30 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="tnsb_cite" href="#contents">6</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
+<sup><a name="tnsb_cite" href="#contents">7</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
 
 <!--  -->
 
 - [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 
-<!-- <span style="color:#A8A8A8;">---</span> -->
+<span style="color:#A8A8A8;">--- Lexicons ---</span>
+
+<sup><a name="BDAG" href="#contents">8</a></sup> [**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed.
+
+<span style="color:#A8A8A8;">--- Individuals ---</span>
+
+
+<sup><a name="grudem" href="#contents">9</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984.
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. This cite is specific to <a href="https://amzn.to/3JOaVKp">Concise Theology. 88. UNPARDONABLE SIN - Only Impenitence Cannot Be Forgiven</a>
+
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="demarest" href="#contents">11</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44.
+
 
 <!-- <sup><a name="mac_cite" href="#contents">8</a></sup> I sometimes include the [**MacArthur Study Bible**](https://amzn.to/3UFP1g2) by John MacArthur. Only because he was one of my mentors teachers. While I think he is wrong on a few points, and too controversial maybe, his doctrine is still sound. -->
 
