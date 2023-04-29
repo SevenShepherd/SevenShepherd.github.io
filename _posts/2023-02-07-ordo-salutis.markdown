@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:45:45 -0500
+date: 2023-02-02 4:50:50 -0500
 categories: salvation
 published: true
 ---
@@ -26,13 +26,13 @@ This ministry holds to a monergistic theology, which rejects works based forms o
 
 This article only lists theologically conservative evangelical theologies. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders. We've also included sacerdotalist Roman catholocism for comparison.
 
-<a href="#reformed" style="font-style:Italic;font-size:1.4em;color:black;">I. Reformed Theology</a>
+<a href="#reformed" style="font-style:Italic;font-size:1.4em;">I. Reformed Theology</a>
 
 - 1.1 Charismatic Reformed Baptist
     - 1.1.1 <a href="#grudem" style="font-weight:bold;">Wayne Grudem (Ph.D., Cambridge)</a>
     - 1.1.2 <a href="#piper">John Piper (D.Theol., Munich)</a>
     - 1.1.3 <a href="#carson">D. A. Carson (Ph.D., Cambridge)</a>
-    - 1.1.5 Walter Martin (Ph.D., CCU)
+    - 1.1.4 Walter Martin (Ph.D., CCU)
 - 1.2 Reformed Baptist / Baptist Calvinist
     - 1.2.1 <a href="#demarest">Bruce Demarest (Ph.D., Manchester)</a>
     - 1.2.2 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
@@ -43,20 +43,20 @@ This article only lists theologically conservative evangelical theologies. Theol
     - 1.4.1 <a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a>
     - 1.4.2 <a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a>
 
-<a href="#amyraldism" style="font-style:Italic;font-size:1.4em;color:black;">II. Moderate Calvinism (Amyraldism)</a>
+<a href="#amyraldism" style="font-style:Italic;font-size:1.4em;">II. Moderate Calvinism (Amyraldism)</a>
 
 - 2.1 Reformed (Less Limited Atonement)
     - 2.1.1 Ron Rhodes (Th.D., Dallas)
     - 2.1.2 Norman Geisler (Ph.D., Philosophy, Pennsylvania)
     - 2.1.3 Frank Turek (DMin, Southern Evangelical Seminary)
 
-<a href="#lutheran" style="font-style:Italic;font-size:1.4em;color:black;">III. Lutheran Theology</a>
+<a href="#lutheran" style="font-style:Italic;font-size:1.4em;">III. Lutheran Theology</a>
 
 - 3.1 Lutheran Church-Missouri Synod (LCMS)
     - 3.1.1 Francis Pieper (D.D., Northwestern)
     - 3.1.2 John Theodore Mueller (ThD, Xenia)
 
-<a href="#evangelical" style="font-style:Italic;font-size:1.4em;color:black;">IV. Evangelicals Otherwise</a>
+<a href="#evangelical" style="font-style:Italic;font-size:1.4em;">IV. Evangelicals Otherwise</a>
 
 - 4.1 Calvary Chapel
     - 4.1.1 Chuck Smith (B.A., Life Bible College)
@@ -66,19 +66,19 @@ This article only lists theologically conservative evangelical theologies. Theol
 - 4.3 Southern Baptist Convention (SBC)
     - 4.3.1 Billy Graham (Self-directed)
 
-<a href="#arminian" style="font-style:Italic;font-size:1.4em;color:black;">V. Arminian Theology</a>
+<a href="#arminian" style="font-style:Italic;font-size:1.4em;">V. Arminian Theology</a>
 
 - 5.1 Synergism says that humans and God work together to bring about salvation. The cults are synergistic (works based). I know a few people who started off here and fell into the cults after.
 
-<a href="#free" style="font-style:Italic;font-size:1.4em;color:black;">VI. Free Grace Theology</a>
+<a href="#free" style="font-style:Italic;font-size:1.4em;">VI. Free Grace Theology</a>
 
 - 6.1.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
 
-<a href="#lordship" style="font-style:Italic;font-size:1.4em;color:black;">VII. Lordship Salvation</a>
+<a href="#lordship" style="font-style:Italic;font-size:1.4em;">VII. Lordship Salvation</a>
 
 - 7.1.1 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
 
-<a href="#roman" style="font-style:Italic;font-size:1.4em;color:black;">VIII. Roman Catholicism</a>
+<a href="#roman" style="font-style:Italic;font-size:1.4em;">VIII. Roman Catholicism</a>
 
 - 8.1 Traditional
     - 8.1.1 Ludwig Ott (doctorate in Munich)
@@ -113,12 +113,12 @@ This article only lists theologically conservative evangelical theologies. Theol
     - Billy Graham (Self-directed)
     - Chuck Smith (B.A., Life Bible College) -->
 
-<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Synergism (Counter Reformation)</a> -->
+<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;">Synergism (Counter Reformation)</a> -->
 
 
 
 
-<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;color:black;">Modern Soteriologies</a> -->
+<!-- <a name="contents" style="font-style:Italic;font-size:1.4em;">Modern Soteriologies</a> -->
 
 <!-- These are both a little worrying. Lordship salvation adherents started using terminology that the majority of the reformed camp throughout history would reject. Free Grace is a knee jerk reaction to this, but also went too far in the opposite extreme. **Neither should exist and both should be assimilated back into evangelical and reformed theologies.** Here is what they should believe to return to sound doctrine: -->
 
@@ -323,7 +323,8 @@ This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes 
 - [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
 - [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
     - Part of the ESV Study Bible
-    - *"I do believe in both [Reformed & Arminian views]: since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
+    - &ldquo;*My position is known in theological circles as “4-point Calvinism.*&rdquo;
+    - *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
     - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
 
 <!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
