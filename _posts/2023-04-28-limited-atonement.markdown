@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💥 “My position is known in theological circles as “4-point Calvinism.” — Ron Rhodes. Is Dr. Rhodes Correct To Drop The 'L' From TULIP?" 
-date: 2023-04-28 01:01:01 -0500
+title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
+date: 2023-04-28 01:08:08 -0500
 categories: tulip limited atonement
 published: true
 ---
