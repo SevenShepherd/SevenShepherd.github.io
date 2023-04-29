@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:25:15 -0500
+date: 2023-04-22 03:30:15 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -28,8 +28,13 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
     - 1.1 <a href="#heb6:4-6">Hebrews 6:4-6</a>
         - 1.1.1 <a href="#dead">Repentance From Dead Works</a>
         - 1.1.2 <a href="#defined">Repentance Defined</a>
+        - 1.1.3 <a href="#enlightened">Once Been Enlightened</a>
+        - 1.1.4 <a href="#tasted">Tasted The Heavenly Gift</a>
+        - 1.1.5 <a href="#shared">Shared In The Holy Spirit</a>
+        - 1.1.6 <a href="#restore">Restore Again To Repentance</a>
     - 1.2 <a href="#heb6:7-8">Hebrews 6:7-8</a>
         - 1.2.1 <a href="#Thorns and Thistles">Thorns and Thistles</a>
+        - 1.2.2 <a href="#better things">Better Things Than What?</a>
     - 1.3 <a href="#1John2:19,28">1 John 2:19,28</a>
         - 1.3.1 <a href="#a dead faith">Not A True Saving Faith?</a>
 - <a href="#cite">Sources & Citations</a>
@@ -96,6 +101,23 @@ It's important to understand that Repentance *"is a divine enablement"*<sup><a h
 
 If you do feel contrite and are struggling but progressively winning your battle, you should breathe easy because you're seemingly going through sanctification -->
 
+- <a name="enlightened" href="#contents" style="font-size:1.6em;">1.1.3 Once Been Enlightened</a>
+
+> Under Construction
+
+- <a name="tasted" href="#contents" style="font-size:1.6em;">1.1.4 Tasted The Heavenly Gift</a>
+
+> Under Construction
+
+- <a name="shared" href="#contents" style="font-size:1.6em;">1.1.5 Shared In The Holy Spirit</a>
+
+> Under Construction
+
+- <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Restore Again To Repentance</a>
+
+> Under Construction
+
+
 <a name="heb6:7-8" href="#contents" style="font-size:1.6em;">1.2 Hebrews 6:7-8</a>
 
 > <sup style="font-weight:bold;">1</sup> Therefore we must progress beyond<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[a]</a></sup>  the elementary<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[b]</a></sup>  instructions about Christ<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[c]</a></sup>  and move on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[d]</a></sup>  to maturity, not laying this foundation again: **repentance** from dead works<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[e]</a></sup>  and faith in God, <sup style="font-weight:bold;">2</sup> teaching about ritual washings,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[f]</a></sup>  laying on of hands, resurrection of the dead, and eternal judgment. <sup style="font-weight:bold;">3</sup> And this is what we intend to do,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[g]</a></sup>  if God permits. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">For it is impossible</span> in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit, <sup style="font-weight:bold;">5</sup> tasted the good word of God and the miracles of the coming age, <sup style="font-weight:bold;">6</sup> and then have committed apostasy,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[h]</a></sup>  <span style="font-weight:bold;">to renew them again to repentance</span>, since<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[i]</a></sup>  they are crucifying the Son of God for themselves all over again<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[j]</a></sup>  and holding him up to contempt. <span style="color:darkred;"><sup style="font-weight:bold;">7</sup> For the ground that has soaked up the rain that frequently falls on<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[k]</a></sup>  it and yields useful vegetation for those who tend it receives a blessing from God. <sup style="font-weight:bold;">8</sup> But if it produces **thorns and thistles**, it is useless and about to be cursed;<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[l]</a></sup>  **its fate is to be burned**.</span> <sup style="font-weight:bold;">9</sup> But in your case, dear friends, even though we speak like this, we are convinced of better things **relating to salvation**. <sup style="font-weight:bold;">10</sup> For God is not unjust so as to forget your work and the love you have demonstrated for his name, in having served and continuing to serve the saints. <sup style="font-weight:bold;">11</sup> But we passionately want each of you to demonstrate the same eagerness for the fulfillment of your hope until the end, <sup style="font-weight:bold;">12</sup> so that you may not be sluggish,<sup><a href="https://www.biblegateway.com/passage/?search=Heb+6&version=ESV,NET,EXB">[m]</a></sup>  <span style="font-weight:bold;">but imitators of those who through faith and perseverance inherit the promises</span>. &mdash; Heb. 6:1-12 NET
@@ -108,7 +130,24 @@ If you do feel contrite and are struggling but progressively winning your battle
 
     This metaphor bluntly indicates that those who fall away are like a land that never bore good fruit, even though their life received repeated blessings, *"rain that frequently falls on it"*. This is not the same as a land that once bore fruit and now does not, no, this is a land that never has and never will, *"thorns and thistles"*.<sup><a href="#grudem">9</a></sup> This is not talking about people who are saved, but those who never were. We know this logically because we cannot lose our salvation, we are supernaturally preserved.
 
-    To argue against this sound logic would be to argue for works based arminian synergism. Christianity is monergistic, we are not saved by our own efforts.
+    <!-- The evidence for this contextually can be found in Heb. 6:9 when the author says *"we are convinced of **better things** relating to salvation."* The question is, better than what? The author is convinced that most of his readers have experienced better things than simply the partial and temporary influences of the Holy Spirit and the church talked about in v. 4-6.<sup><a href="#grudem">9</a></sup> -->
+
+- <a name="better things" href="#contents" style="font-size:1.6em;">1.2.2 Better Things Than What?</a>
+
+    The real question is **“better things” than what?** The answer of course being **better things than simply the partial and temporary influences of the Holy Spirit and the church** talked about in verses 4 – 6. So now we have identified the *good* things, what exactly are these *“better things”*? In addition to salvation (v. 9), they are things that give real evidence of salvation and reassures those who are genuine believers.:
+    - Genuine fruit in their lives (v. 10)
+    - Full assurance of hope (v. 11)
+    - Saving faith, of those who inherit the promises (v. 12). 
+        
+<!-- > He says, “Though we speak thus, yet in your case, beloved, we feel sure of better things that belong to salvation” (Heb. 6:9). But the question is **“better things” than what?** The plural “better things” forms an appropriate contrast to the “good things” that have been mentioned in verses 4 – 6: the author is convinced that most of his readers have experienced **better things than simply the partial and temporary influences of the Holy Spirit and the church** talked about in verses 4 – 6.
+>
+What exactly are these “better things”? In addition to salvation mentioned in verse 9, they are things that give real evidence of salvation — genuine fruit in their lives (v. 10), full assurance of hope (v. 11), and saving faith, of the type exhibited by those who inherit the promises (v. 12). In this way he reassures those who are genuine believers — those who show fruit in their lives and show love for other Christians, who show hope and genuine faith that is continuing at the present time, and who are not about to fall away. He wants to reassure these readers (who are certainly the great majority of the ones to whom he writes) while still issuing a strong warning to those among them who may be in danger of falling away.
+>
+&mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup> -->
+    
+<!-- The plural *"better things"* forms an appropriate contrast to *good* things that have  -->
+
+<!-- To argue against this sound logic would be to argue for works based arminian synergism. Christianity is monergistic, we are not saved by our own efforts. -->
 
     
 
