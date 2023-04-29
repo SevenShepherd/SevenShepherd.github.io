@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:20:15 -0500
+date: 2023-04-22 03:25:15 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -112,7 +112,7 @@ If you do feel contrite and are struggling but progressively winning your battle
 
     
 
-<a name="1John2:19,28" href="#contents" style="font-size:1.6em;">1.2 1 John 2:19,28</a>
+<a name="1John2:19,28" href="#contents" style="font-size:1.6em;">1.3 1 John 2:19,28</a>
 
 - <a name="a dead faith" href="#contents" style="font-size:1.6em;">1.3.1 Not A True Saving Faith</a>
     
