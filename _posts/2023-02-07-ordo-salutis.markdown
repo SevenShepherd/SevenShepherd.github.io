@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:55:50 -0500
+date: 2023-02-02 5:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -24,7 +24,7 @@ This ministry holds to a monergistic theology, which rejects works based forms o
 
 <a name="contents" style="font-style:Italic;font-size:1.6em;color:black;">Evangelical Theology</a>
 
-This article only lists theologically conservative evangelical theologies. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders. We've also included sacerdotalist Roman catholocism for comparison.
+This article only lists theologically conservative evangelical theologies. Theological liberalism emerged in the late 19th and early 20th centuries along with all the other cults and is a complete re-invention and rejection of Christianity as understood by its own founders. We've also included sacerdotalist Roman catholicism for comparison.
 
 <a href="#reformed" style="font-style:Italic;font-size:1.4em;">I. Reformed Theology</a>
 
