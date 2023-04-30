@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🔨 Becoming What You Hate: The Paradoxical Irony of Accusing Others of Judgmentalism Without Ever Being Personally Attacked"
-date: 2023-04-27 01:10:01 -0500
+title: "🔨 The Paradoxical Irony of Accusing Others of Judgmentalism Without Ever Being Personally Attacked"
+date: 2023-04-27 01:15:01 -0500
 categories: judgemental
 published: true
 ---
