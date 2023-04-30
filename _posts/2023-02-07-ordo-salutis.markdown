@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 4:50:50 -0500
+date: 2023-02-02 4:55:50 -0500
 categories: salvation
 published: true
 ---
@@ -316,8 +316,6 @@ Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a mo
 <span style="font-style:Italic;font-size:1.6em;">Noteable Scholars</span>
 
 It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well.
-
-This group is an interest to me and is maybe legitimate. I've placed Ron Rhodes here because of his own words, but he could also be placed in evangelical theology which is broadly reformed.
 
 - Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
 - [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)
