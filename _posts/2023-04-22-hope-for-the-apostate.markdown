@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:35:35 -0500
+date: 2023-04-22 03:40:35 -0500
 categories: apostate apostasy
 published: true
 ---
-
-<a name="top"></a>
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
 
@@ -66,6 +64,15 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
 
 <a name="hope" href="#contents" style="font-size:2.1em;">I. Examining A Difficult Passage</a>
 
+While Heiser's explanation sounds a bit synergistic, the remainder of this article will provide a more monergistic view which I think is much more reassuring. I wanted to represent all the perspectives so I compiled a list below. This ministry holds to the majority viewpoint (No. 2).
+
+> The central debate concerns whether the descriptions of vv. 4–5 (e.g., “enlightened,” “tasted the heavenly gift,” “shared in the Holy Spirit,” “tasted of the goodness of the word of God”) depict people who were once true Christians. <sup><a href="#esvsb_cite">1</a></sup>
+
+1. Some hold to the viewpoint that these phrases are describing true Christians, implying that Christians can “fall away” and lose their salvation.<sup><a href="#esvsb_cite">1</a></sup> (Arminian-synergism)
+2. **The most prominent view is that they are not true Christians, never having made a true saving response to experiencing full participation in the Christian covenantal community.**<sup><a href="#esvsb_cite">1</a></sup> (Reformed-monergism)
+3. Another view is that the warnings are addressed to true believers, and though they will never completely fall away, the warnings are still the means that God uses to challenge them to persevere in their faith and so to preserve those whom the Lord has chosen.<sup><a href="#esvsb_cite">1</a></sup>
+4. The last view is that the “falling away” described in Heb. 6:6 is about the loss of heavenly rewards. Verse 9 negates this: *“yet in your case, beloved, we feel sure of better things—things that belong to salvation”*.<sup><a href="#esvsb_cite">1</a></sup>
+
 <!-- > <sup style="font-weight:bold;">4</sup> For <span style="font-weight:bold;">it is impossible</span> to ·bring back again to a changed life <span style="color:#A8A8A8;">[<sup>L</sup> renew again to **repentance**]</span> those who were once ·in God’s light <span style="color:#A8A8A8;">[enlightened]</span>, and ·enjoyed <span style="color:#A8A8A8;">[experienced; <sup>L</sup> tasted]</span> ·heaven’s gift <span style="color:#A8A8A8;">[or the heavenly gift; <sup>C</sup> perhaps the gift of salvation]</span>, and ·shared in <span style="color:#A8A8A8;">[partook of]</span> the Holy Spirit. <sup style="font-weight:bold;">5</sup> They ·found out <span style="color:#A8A8A8;">[<sup>L</sup> tasted]</span> how good God’s word is, and ·they received <span style="color:#A8A8A8;">[<sup>L</sup> tasted]</span> the ·powers <span style="color:#A8A8A8;">[miracles]</span> of ·his new world <span style="color:#A8A8A8;">[the coming age/world]</span>. <sup style="font-weight:bold;">6</sup> If they have ·fallen away <span style="color:#A8A8A8;">[committed apostasy]</span>, <span style="font-weight:bold;">it is impossible to ·bring them back to a changed life again</span> <span style="color:#A8A8A8;">[<sup>L</sup> renew them again to **repentance**]</span>, because they are nailing the Son of God to a cross again and are ·shaming him in front of others <span style="color:#A8A8A8;">[making a public disgrace/exhibition of him]</span>. &mdash; Heb. 6:4-6 EXB (Expanded Bible) -->
 
 <!-- <span style="font-size:1.6em">Diving Deeper</span> -->
@@ -82,7 +89,9 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
 
 - <a name="defined" href="#contents" style="font-size:1.6em;">1.1.2 Repentance Defined</a>
     
-    We know that the underlying meaning of the Koine Greek word for repentance is to *"feel remorse, repent, be converted (in religio-ethical sense)"* according to the world's most authoritative Greek lexicons, otherwise every bible committe on earth wouldn't have chosen the english word for repentance which means the same thing. <sup><a href="#grudem">9</a></sup><sup> </sup><sup><a href="#BDAG">8</a></sup> At first glance this passage would seem to be saying that the form of repentance that is necessary for saving faith, is out of reach to those who have apostatized.
+    We know that the underlying meaning of the Koine Greek word for repentance is to *"feel remorse, repent, be converted (in religio-ethical sense)"* according to the world's most authoritative Greek lexicons, otherwise every bible committee on earth wouldn't have chosen the english word for repentance which means the same thing. <sup><a href="#grudem">9</a></sup><sup> </sup><sup><a href="#BDAG">8</a></sup> 
+    
+    <!-- At first glance this passage would seem to be saying that the form of repentance that is necessary for saving faith, is out of reach to those who have apostatized, but <a href="#restore">this may not necessarily be the case</a>. -->
 
     > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)</a>
 
@@ -104,19 +113,34 @@ If you do feel contrite and are struggling but progressively winning your battle
 
 - <a name="enlightened" href="#contents" style="font-size:1.6em;">1.1.3 Once Been Enlightened</a>
 
-    > Under Construction
+    The phrase <span style="font-style:italic">&ldquo;those who have once been **enlightened**&rdquo;</span> evokes the exodus narrative (Neh 9:12, 19; Psa 105:39), and entails experiencing God’s power, but not necessarily believing (Ex. 16).<sup><a href="#logos_cite">4</a></sup> Because this was listed first, *"enlightened"* likely describes the initial entrance into the Christian community, explanation of the Christian faith (cf. Heb. 10:32), and possibly baptism.<sup><a href="#esvsb_cite">1</a></sup>
+
+    > The Author says they have &ldquo;once been **enlightened**&rdquo; (Heb. 6:4). But this enlightening simply means that they came to **understand** the truths of the gospel, not that they responded to those truths with genuine saving faith. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+
+
+    > Similarly, the word **once** that is used to speak of those who “have once been enlightened” is the Greek term hapax, which is used, for example, in Philippians 4:16 of the Philippians’ sending Paul a gift “once and again,” and in Hebrews 9:7 of entrance in the Holy of Holies “once a year.” Therefore, this word does not mean that something happened “once” and can never be repeated, but simply that it happened once, without specifying whether it will be repeated or not. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
 
 - <a name="tasted" href="#contents" style="font-size:1.6em;">1.1.4 Tasted The Heavenly Gift</a>
 
-    > Under Construction
+    > The text further says that these people “have tasted the heavenly gift” and that they “have tasted the goodness of the word of God and the powers of the age to come” (Heb. 6:4 – 5). Inherent in the idea of tasting is the fact that the tasting is temporary and one might or might not decide to accept the thing that is tasted. For example, the same Greek word (geuomai) is used in Matthew 27:34 to say that those crucifying Jesus “offered him wine to drink, mingled with gall; but when he tasted it, he would not drink it.” The word is also used in a figurative sense meaning “come to know something.” ... &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+    > ... If we understand it in this figurative sense, as it must be understood here since the passage is not talking about tasting literal food, then it means that these people have come to understand the heavenly gift (which probably means here that they had experienced some of the power of the Holy Spirit at work) and to know something of the Word of God and the powers of the age to come. It does not necessarily mean that they had (or did not have) genuine saving faith, but may simply mean that they came to understand it and have some experience of spiritual power. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
 - <a name="shared" href="#contents" style="font-size:1.6em;">1.1.5 Shared In The Holy Spirit</a>
 
-    > Under Construction
+    > The text also further says that these people “have become partakers of the Holy Spirit” (Heb. 6:4). The question here is the exact meaning of the word metochos, which is here translated “partaker.” It is not always clear to English-speaking readers that this term has a range of meaning and may imply very close participation and attachment, or may only imply a loose association with the other person or persons named. For example, the context shows that in Hebrews 3:14 to become a “partaker” of Christ means to have a very close participation with him in a saving relationship. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+    > On the other hand, metochos can also be used in a much looser sense, simply to refer to associates or companions. We read that when the disciples took in a great catch of fish so that their nets were breaking, “they beckoned to their partners in the other boat to come and help them” (Luke 5:7). Here it simply refers to those who were companions or partners with Peter and the other disciples in their fishing work. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+    > Ephesians 5:7 uses a closely related word (symmetochos, a compound of metochos and the preposition syn [”with”]) when Paul warns Christians about the sinful acts of unbelievers and says, “do not associate with them” (Eph. 5:7). He is not concerned that their total nature will be transformed by the unbelievers, but simply that they will associate with them and have their own witness compromised and their own lives influenced to some degree by them. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
 - <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Restore Again To Repentance</a>
 
-    > Under Construction
+    > Finally, the text says that it is impossible “to restore again to repentance” people who have experienced these things and have then committed apostasy. Some have argued that if this is a repentance to which they need to be restored again, then it must be genuine repentance. But this is not necessarily the case. First, we must realize that “repentance” (Gk. metanoia) does not need to refer to inward heart repentance unto salvation. ... &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+    
+    > ... For example, Hebrews 12:17 uses this word to speak of a change of mind that Esau sought concerning the sale of his birthright, and refers to it as “repentance” (metanoia). This would not have been a repentance for salvation, but simply a change of mind and an undoing of the transaction regarding his birthright. (Note also the example of Judas’ repentance in Matt. 27:3 — howbeit with a different Greek word.) &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
 
 <a name="heb6:7-8" href="#contents" style="font-size:1.6em;">1.2 Hebrews 6:7-8</a>
