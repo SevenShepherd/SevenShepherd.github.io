@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:10:07 -0500
+date: 2023-05-01 01:15:15 -0500
 categories: christianity history
 published: true
 ---
@@ -76,16 +76,12 @@ As some of you know I am of the "historic Protestant" position. <!--(or sometime
 
 Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they are not historical in their Christianity.
 
-> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <a name="grudem" href="#contents">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a name="grudem" href="#contents">9</a></sup>
+> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
 Genuine saving faith will always be accompanied by good works that come **after justification**.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
-Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a name="packer" href="#contents">Concise Theology. Chapter 59 Works. p. 174.</a> <sup><a name="packer" href="#contents">10</a></sup>
-
-<span style="font-size:2.1em">⚠️ Under Construction</span>
-
-This article may be extended and is under construction. Refresh weekly for updates.
+Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Concise Theology. Chapter 59 Works. p. 174.</a> <sup><a href="#packer">10</a></sup>
 
 <br>
 
