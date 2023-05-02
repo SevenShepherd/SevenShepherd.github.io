@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:25:25 -0500
+date: 2023-05-01 01:30:25 -0500
 categories: christianity history
 published: true
 ---
@@ -81,7 +81,7 @@ Saving faith **does not include** obedience, saving faith **results in** obedien
 Genuine saving faith will always be accompanied by good works that come **after justification**.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
-Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Concise Theology. Chapter 59 Works. p. 174.</a> <sup><a href="#packer">2</a></sup>
+Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., Oxford)</a> <sup><a href="#packer">2</a></sup>
 
 <br>
 
