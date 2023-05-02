@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:15:15 -0500
+date: 2023-05-01 01:20:20 -0500
 categories: christianity history
 published: true
 ---
@@ -76,12 +76,12 @@ As some of you know I am of the "historic Protestant" position. <!--(or sometime
 
 Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they are not historical in their Christianity.
 
-> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+> I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">1</a></sup>
 
 Genuine saving faith will always be accompanied by good works that come **after justification**.
 
 > **Justification by works (things we have done) is the heresy of legalism.**
-Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Concise Theology. Chapter 59 Works. p. 174.</a> <sup><a href="#packer">10</a></sup>
+Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is not yet ours**. &mdash; <a href="#packer">Concise Theology. Chapter 59 Works. p. 174.</a> <sup><a href="#packer">2</a></sup>
 
 <br>
 
@@ -91,100 +91,12 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
 
-<span style="color:#A8A8A8;">--- Study Bibles ---</span>
-
-<sup><a name="esvsb_cite" href="#contents">1</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
-
-<!--  -->
-
-- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
-- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
-- [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
-- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
-- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
-- [Dr. John Piper (D.Theol., Munich)]()
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-- [Dr. Ron Rhodes (Th.D., Dallas)]()
+<sup><a name="grudem" href="#contents">1</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984.
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="net_cite" href="#contents">2</a></sup> The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+<sup><a name="packer" href="#contents">2</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A">Concise Theology. 59. Works. p. 174.</a>
 
-<!--  -->
-
-- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
-- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
-- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="exb_cite" href="#contents">3</a></sup> The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
-
-<!--  -->
-
-- [Tremper Longman III (Ph.D., Yale)]()
-    - Robert H. Gundry Professor of Biblical Studies at Westmont College.
-- [Mark L. Strauss (Ph.D., Aberdeen)]()
-    - Professor of New Testament at Bethel Seminary San Diego.
-- [Daniel Taylor (Ph.D., Emory)]()
-
-<span style="color:#A8A8A8;">---</span>
-
-
-<sup><a name="logos_cite" href="#contents">4</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
-
-<!--  -->
-
-- [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="btsb_cite" href="#contents">5</a></sup> The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas. 
-    
-<!--  -->
-
-- [Dr. Tremper Longman III (Ph.D., Yale)]()
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-- [Dr. Mark L. Strauss (Ph.D., Aberdeen)]()
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="filament_cite" href="#contents">6</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
-
-<!--  -->
-
-- [Dr. Tremper Longman III (Ph.D., Yale)]()
-- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="tnsb_cite" href="#contents">7</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
-
-<!--  -->
-
-- [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
-- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
-
-<span style="color:#A8A8A8;">--- Lexicons ---</span>
-
-<sup><a name="BDAG" href="#contents">8</a></sup> [**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed.
-
-<span style="color:#A8A8A8;">--- Individuals ---</span>
-
-
-<sup><a name="grudem" href="#contents">9</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984.
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A">Concise Theology. 59. Works. p. 174.</a>
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="demarest" href="#contents">11</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
-
-<!-- This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44. -->
 
 <script>
     var refTagger = {
