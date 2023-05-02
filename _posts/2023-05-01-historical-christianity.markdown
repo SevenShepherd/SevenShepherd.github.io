@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:30:25 -0500
+date: 2023-05-01 01:35:25 -0500
 categories: christianity history
 published: true
 ---
@@ -74,7 +74,7 @@ As some of you know I am of the "historic Protestant" position. <!--(or sometime
 
 <a name="1.1.1Commentary" href="#contents" style="font-size:2.1em;">1.1.1 Commentary</a>
 
-Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they are not historical in their Christianity.
+Saving faith **does not include** obedience, saving faith **results in** obedience. If anyone attempts to teach that *"faith includes obedience,"* or that *"saving faith does not result in obedience"* they have just admitted that they have deviated from academically sound, historically time-tested Christianity.
 
 > I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">1</a></sup>
 
