@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:40:25 -0500
+date: 2023-05-01 01:45:45 -0500
 categories: christianity history
 published: true
 ---
@@ -15,7 +15,7 @@ published: true
 
 <a name="historic" href="#contents" style="font-size:2.1em;">I. Historic Christianity</a>
 
-This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which have been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. 
+This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which has been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. 
 
 <!-- The 16th century Protestant Reformation saw the development of the five latin phrases, known as the Five solas, as a response to heresies found in the Roman Catholic Church. -->
 
