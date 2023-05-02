@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:00:00 -0500
+date: 2023-02-02 5:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -72,7 +72,10 @@ This article only lists theologically conservative evangelical theologies. Theol
 
 <a href="#free" style="font-style:Italic;font-size:1.4em;">VI. Free Grace Theology</a>
 
-- 6.1.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+- 6.1 Moderate Free Grace
+    - 6.1.1 <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+- 6.2 Extreme Free Grace
+    - 6.2.1 Mistakes Made In Greek (Teachers Not Valid)
 
 <a href="#lordship" style="font-style:Italic;font-size:1.4em;">VII. Lordship Salvation</a>
 
@@ -473,7 +476,10 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
-- <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+- Moderate Free Grace
+    - <a href="#ryrie">Charles C. Ryrie (Ph.D., Edinburgh)</a>
+- Extreme Free Grace
+    - Mistakes Made In Greek (Teachers Not Valid)
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
