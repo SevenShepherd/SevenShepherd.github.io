@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:20:20 -0500
+date: 2023-05-01 01:25:25 -0500
 categories: christianity history
 published: true
 ---
@@ -91,11 +91,13 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
 
-<sup><a name="grudem" href="#contents">1</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984.
+<sup><a name="grudem" href="#contents">1</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. 
+
+<!-- This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984. -->
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="packer" href="#contents">2</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A">Concise Theology. 59. Works. p. 174.</a>
+<sup><a name="packer" href="#contents">2</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. <a href="https://amzn.to/40RYx1A" style="font-weight:bold;">Concise Theology. 59. Works. p. 174.</a>
 
 
 <script>
