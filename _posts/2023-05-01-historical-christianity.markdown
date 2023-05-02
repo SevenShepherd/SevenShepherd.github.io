@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:35:25 -0500
+date: 2023-05-01 01:40:25 -0500
 categories: christianity history
 published: true
 ---
@@ -15,7 +15,9 @@ published: true
 
 <a name="historic" href="#contents" style="font-size:2.1em;">I. Historic Christianity</a>
 
-As some of you know I am of the "historic Protestant" position. <!--(or sometimes called the "non-Free Grace" position).--> Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation.
+This ministry holds to the most academically sound and historically time-tested theology known to Christendom. My position is known as the "historic Protestant" position which have been a sanctuary away from heresy for over 500 years. Justification by faith alone (*Sola fide*) has been a primary belief of Protestants since the time of Martin Luther and the Protestant Reformation. 
+
+<!-- The 16th century Protestant Reformation saw the development of the five latin phrases, known as the Five solas, as a response to heresies found in the Roman Catholic Church. -->
 
 |Five Solas||
 |:-:|:-:|
@@ -24,6 +26,9 @@ As some of you know I am of the "historic Protestant" position. <!--(or sometime
 |In Christ alone<br>(*Solus Christus*)|Jn 14:6; Ac 4:12; 1Ti 2:5|
 |According to Scripture alone<br>(*Sola Scriptura*)|1Co 4:6|
 |For the Glory of God alone<br>(*Soli Deo Gloria*)|1Pe 2:24; Is 43:7|
+
+This ministry holds to a monergistic theology, which rejects works based forms of salvation, and holds to the biblically sound concept of sola fide or justification by faith alone, which once justified or saved, always results in obedience to God. Therefore, Christ justifies no one whom he does not at the same time sanctify.
+
 
 <a name="reform" href="#contents" style="font-size:2.1em;">1.1 The Reformation</a>
 
