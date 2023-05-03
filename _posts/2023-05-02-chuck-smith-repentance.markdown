@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:50:50 -0500
+date: 2023-05-02 01:55:55 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -26,14 +26,16 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 1.1 <a href="#BDAG">Bauer-Danker-Arndt-Gingrich (BDAG)</a>
     - 1.2 <a href="#TDNT">Kittel (TDNT)</a>
 - II. <a href="#other">Dictionaries & Concordances</a>
-    - 2.1 <a href="#mounced">Mounce's Complete Expository Dictionary</a>
-    - 2.2 <a href="#amg-concise">AMG Concise Bible Dictionary</a>
-    - 2.3 <a href="#complete">The Complete Word Study Dictionary</a>
-    - 2.4 <a href="#amg-strongs">AMG's Annotated Strong's Dictionaries</a>
-    - 2.5 <a href="#strongs">The New Strong's Expanded Dictionary Of Bible Words</a>
+    - 2.1 <a href="#mounced">Mounce's Complete Exp.</a>
+    - 2.2 <a href="#amg-concise">AMG Concise Bible D.</a>
+    - 2.3 <a href="#complete">The Complete Word Study</a>
+    - 2.4 <a href="#amg-strongs">AMG's Annotated Strong's</a>
+    - 2.5 <a href="#strongs">The New Strong's Expanded</a>
 - III. <a href="#studies">Study Bibles</a>
     - 3.1 <a href="#ESVSB">ESV Study Bible</a>
-    - 3.2 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
+    - 3.2 <a href="#NET">NET Full Notes</a>
+    - 3.3 <a href="#EXB">Expanded Bible (EXB)</a>
+    - 3.4 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
 - IV. <a href="#genius">Most Distinguished Research Professors</a>
     - 4.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
     - 4.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
@@ -88,7 +90,7 @@ Theological Dictionary of the New Testament: Abridged in One Volume (TDNT) is on
 - Mounce's accuracy is endorsed by leading scholars
 
 > **Noun**: μετάνοια (metánoia), GK 3567 (S 3341), 22x.<br>
-> **Verb**: metanoeō (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, the meaning of the words in the NT does not reflect this etymology; that is, metanoeo does not simply mean "to perceive afterwards."
+> **Verb**: μετανοέω (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, the meaning of the words in the NT does not reflect this etymology; that is, metanoeo does not simply mean "to perceive afterwards."
 >
 Furthermore, the use of the verb metanoeo in the NT differs from that in the OT, where the word is mostly used in the LXX to mean "to change one's mind" (e.g., Prov. 20:25; Jer. 4:28; the noun is only used once, in Prov. 14:15). In the LXX, the verb epistrepho (to turn, return"; see turn) is the word that most frequently translates the Heb. verb sub ("to turn back, return [to God in repentance]"). This usage reflects the OT presupposition of the covenant relationship from which Israel had turned and to which they must return. In Jer. 18:8, epistrepho refers to Israel's repentance and metanoeo is used for God's change of mind about judging them. In the NT, metanoeo essentially supersedes epistepho as the word of choice to denote a turning from sin to God. When metanoeo and epistrepho appear together in the NT; the former emphasizes the turn from sin and the latter emphasizes the turn to God
 (see Acts 3:19, 26:20).
@@ -103,7 +105,7 @@ An accurate understanding of the use of metanoeo and metanoia in the NT is essen
 
 <a name="amg-concise" href="#contents" style="font-size:1.6em;">2.2 AMG Concise Bible Dictionary</a>
 
-[AMG Concise Bible Dictionary](https://amzn.to/42jh1ZK) has done the word Repentance justice more than any other Bible dictionary that I've ever seen. I am beside myself with how accurate this is while remaining readable, and non-technical.
+The [AMG Concise Bible Dictionary](https://amzn.to/42jh1ZK) has defined the word Repentance very accurately while remaining readable, and non-technical. 
 
 > **Repentance is a turning from sin to God** (Deut 30:1-2; 2 Chron 6:26-27; 7:14; Neh 1:9; Ps 78:34; Isa 55:7; Jer 8:6; 31:18-19; Ezek 18:21; Mal 3:7; Matt 11:20-21; Luke 15:7; 16:30; Acts 3:19; 8:22; 14:15; 26:19-20; Rev 9:20-21). The open demonstration of this turning to God is sometimes **called conversion** (Acts 15:3; cf. 26:17-18; 1 Thess 1:9-10). Jesus and New Testament preachers commanded people to repent, because **without repentance there can be no salvation** (Matt 3:2; 4:17; Mark 6:12; Luke 5:32; 13:3; 24:47; Acts 2:38; 11:18; 17:30).
 >
@@ -165,7 +167,7 @@ So if God has done this in Christ, what are we to do to be saved? **We must turn
 >
 > **Believe and trust.** Put another way, our response is to believe and trust God’s promises in Christ, and to **commit ourselves to Christ**, the living Lord, as his **disciples**. Among **Jesus’ first words in Mark’s Gospel are “repent and believe in the gospel” (Mark 1:15)**. The obedience that typifies God’s people, beginning with repentance, is to result from the faith and trust we have in him and his word (e.g., Josh. 22:16; Acts 27:25). Thus sins are sometimes called “breaking faith with God” (e.g., Ezra 10:2, 10). Having faith in Christ, which seals our union with him through the Holy Spirit, is the means by which God accounts Christ’s righteousness as our own (Rom. 3:21–26; 5:17–21; Gal. 2:16; Eph. 2:8–9; Phil. 3:9). Paul could refer to “salvation through faith in Christ” (2 Tim. 3:15).
 
-<!-- > **REPENT**<br>
+> **REPENT**<br>
 despise myself, and r in dust and ashes.” • Jb 42:6<br>
 “R, for the kingdom of heaven is at • Mt 3:2<br>
 unless you r, you will all likewise perish. • Lk 13:3<br>
@@ -183,9 +185,59 @@ and that r and forgiveness of sins • Lk 24:47<br>
 to give r to Israel and forgiveness • Acts 5:31<br>
 kindness is meant to lead you to r? • Rom 2:4<br>
 godly grief produces a r that leads to • 2 Cor 7:10<br>
-of r from dead works and of faith • Heb 6:1<br> -->
+of r from dead works and of faith • Heb 6:1<br>
 
-<a name="NOAB" href="#contents" style="font-size:1.6em;">3.2 New Oxford Annotated Bible (NOAB)</a>
+<a name="NET" href="#contents" style="font-size:1.6em;">3.2 Net Full Notes</a>
+
+The [**NET Bible: Full Notes Edition**](https://amzn.to/3WLAgbr) is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
+
+> <sup style="font-weight:bold;">8</sup> Therefore produce fruit<span style="color:#A8A8A8;">[**a**]</span> that proves your<span style="color:#A8A8A8;">[b]</span> repentance, 
+>
+&mdash; **a**. Matthew 3:8 NET sn Fruit that proves your repentance refers to the deeds that indicate a change of attitude (heart) on the part of John’s hearers.
+
+> <sup style="font-weight:bold;">6</sup> Therefore we must progress beyond<span style="color:#A8A8A8;">[a]</span> the elementary<span style="color:#A8A8A8;">[b]</span> instructions about Christ<span style="color:#A8A8A8;">[c]</span> and move on<span style="color:#A8A8A8;">[d]</span> to maturity, not laying this foundation again: repentance from dead works[**e**] and faith in God, 
+>
+&mdash; **e**. Hebrews 6:1 NET sn It is clear from the context that the phrase “dead works” are works that need to be repented from and thus are sins. The same phrase occurs in Heb 9:14 in which the author of Hebrews states that our consciences need to be purified from them. As Bruce states, they are works “that belong to the way of death and not the way of life” (F. F. Bruce, Hebrews [NICNT], 138).
+
+<a name="EXB" href="#contents" style="font-size:1.6em;">3.3 Expanded Bible (EXB)</a>
+
+The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):
+
+<!--  -->
+
+- [Tremper Longman III (Ph.D., Yale)]()
+    - Robert H. Gundry Professor of Biblical Studies at Westmont College.
+- [Mark L. Strauss (Ph.D., Aberdeen)]()
+    - Professor of New Testament at Bethel Seminary San Diego.
+- [Daniel Taylor (Ph.D., Emory)]()
+
+- <span style="font-size:1.4em;">Verb: μετανοέω (metanoéō)</span>
+
+    > <sup style="font-weight:bold;">2</sup> John said, “·<span style="font-weight:bold;">Change your hearts and lives <span style="color:#A8A8A8;">[Repent]</span></span> because the kingdom of heaven ·is near <span style="color:#A8A8A8;">[has drawn near; is at hand]</span>.” &mdash; Matthew 3:2
+
+    > <sup style="font-weight:bold;">3</sup> No, I tell you. But unless you ·change your <span style="font-weight:bold;">hearts and lives <span style="color:#A8A8A8;">[repent]</span></span>, you will <span style="color:#A8A8A8;">[<sup>L</sup> all]</span> be destroyed as they were! &mdash; Luke 13:3
+
+    > <sup style="font-weight:bold;">19</sup> So you must ·<span style="font-weight:bold;">change your hearts and lives <span style="color:#A8A8A8;">[repent]</span>!</span> ·Come back <span style="color:#A8A8A8;">[Return; **Turn back**]</span> to God, and he will ·forgive <span style="color:#A8A8A8;">[wipe out; erase]</span> your sins. Then the ·time <span style="color:#A8A8A8;">[<sup>L</sup> times; seasons]</span> of ·rest <span style="color:#A8A8A8;">[refreshment; comfort; C the messianic age]</span> will come from <span style="color:#A8A8A8;">[<sup>L</sup> the presence of]</span> the Lord. &mdash; Acts 3:19
+
+    > <sup style="font-weight:bold;">5</sup> So ·remember <span style="color:#A8A8A8;">[consider]</span> ·where you were before you fell <span style="color:#A8A8A8;">[<sup>L</sup> how far you have fallen]</span>. ·Change your hearts <span style="color:#A8A8A8;">[Repent]</span> <span style="font-weight:bold;">and do ·what <span style="color:#A8A8A8;">[<sup>L</sup> the works]</span> you did at first</span>. If you do not ·change <span style="color:#A8A8A8;">[repent]</span>, I will come to you and will take away your lampstand from its place. &mdash; Revelation 2:5
+
+    > <sup style="font-weight:bold;">9</sup> They were ·burned <span style="color:#A8A8A8;">[scorched]</span> by the great heat, and they ·cursed <span style="color:#A8A8A8;">[blasphemed]</span> the name of God, who had ·control <span style="color:#A8A8A8;">[authority; power]</span> over these ·disasters <span style="color:#A8A8A8;">[plagues]</span>. But the people ·refused to change their hearts and lives <span style="color:#A8A8A8;">[<sup>L</sup> did not repent]</span> and give ·glory <span style="color:#A8A8A8;">[honor]</span> to God. &mdash; Revelation 16:9
+
+- <span style="font-size:1.4em;">Noun: μετάνοια (metánoia)</span>
+
+    > <sup style="font-weight:bold;">8</sup> ·Do the things <span style="color:#A8A8A8;">[<sup>L</sup> Produce the fruit]</span> ·that show you really have changed your hearts and lives <span style="color:#A8A8A8;">[that prove your repentance; <sup>L</sup> of repentance]</span>. &mdash; Matthew 3:8
+
+    > <sup style="font-weight:bold;">10</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> The kind of sorrow God wants makes people ·change their hearts and lives <span style="color:#A8A8A8;">[repent]</span>, leading to salvation, and ·you cannot be sorry for that <span style="color:#A8A8A8;">[or there can be no regret for that kind of sorrow; <sup>L</sup> without regret]</span>. But the kind of sorrow the world has ·brings <span style="color:#A8A8A8;">[leads to; results in]</span> death. &mdash; 2 Corinthians 7:10
+
+    > <sup style="font-weight:bold;">10</sup> ·So <span style="color:#A8A8A8;">[Therefore]</span> let us ·go on to grown-up teaching <span style="color:#A8A8A8;">[<sup>L</sup> move forward to maturity/completeness]</span>. Let us ·not go back over <span style="color:#A8A8A8;">[<sup>L</sup> leave behind]</span> the ·beginning <span style="color:#A8A8A8;">[rudimentary; elementary]</span> ·lessons <span style="color:#A8A8A8;">[teaching; <sup>L</sup> word]</span> we learned about ·Christ <span style="color:#A8A8A8;">[or the Messiah; 5:5]</span>. We should not again ·start teaching <span style="color:#A8A8A8;">[<sup>L</sup> lay a foundation]</span> about ·turning away <span style="color:#A8A8A8;">[repentance]</span> from ·those acts that lead to death <span style="color:#A8A8A8;">[or useless works; <sup>L</sup> dead works]</span> and about faith in God. &mdash; Hebrews 6:1
+
+<a name="NOAB" href="#contents" style="font-size:1.6em;">3.4 New Oxford Annotated Bible (NOAB)</a>
 
 [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
 The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.
