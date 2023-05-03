@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:21:21 -0500
+date: 2023-05-02 01:25:25 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -30,9 +30,9 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 3.1 <a href="#ESVSB">ESV Study Bible</a>
     - 3.2 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
 - IV. <a href="#genius">Most Distinguished Research Professors</a>
-    - 4.1 <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a>
-    - 4.2 <a href="#packer">Dr. J. I. Packer (Ph.D., Oxford)</a>
-    - 4.3 <a href="#mounce">Dr. William D. Mounce (Ph.D., Aberdeen)</a> 
+    - 4.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
+    - 4.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
+    - 4.3 <a href="#mounce">Dr. Mounce (Ph.D., Aberdeen)</a> 
 
 <!-- - 1.3 <a href="#LSJ">Liddell and Scott (LSJ) p. 1115.</a> -->
 
