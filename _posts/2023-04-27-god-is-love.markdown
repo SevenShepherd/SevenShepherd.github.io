@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️ But Anyone Who Does Not Love Does Not Know God, For God Is Love"
-date: 2023-04-27 01:25:25 -0500
+date: 2023-04-27 01:30:30 -0500
 categories: love agape
 published: true
 ---
@@ -57,7 +57,7 @@ According to BDAG, the world's most authoritative Greek Lexicon, agápē (ἀγ�
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 

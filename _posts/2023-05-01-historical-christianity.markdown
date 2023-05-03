@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Have You Deviated From Historical Christianity?" 
-date: 2023-05-01 01:45:45 -0500
+date: 2023-05-01 01:50:50 -0500
 categories: christianity history
 published: true
 ---
@@ -94,7 +94,7 @@ Justification, as Luther insisted, is by faith only (‘faith apart from observi
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <sup><a name="grudem" href="#contents">1</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. 
 

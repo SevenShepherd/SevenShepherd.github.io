@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:45:45 -0500
+date: 2023-04-22 03:47:47 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -219,7 +219,7 @@ HEBREWS—NOTE ON 6:11–12 The purpose of the warning (vv. 4–8), indeed of th
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <span style="color:#A8A8A8;">--- Study Bibles ---</span>
 
