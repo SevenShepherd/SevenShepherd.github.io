@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎓 Every Authoritative Greek Lexicon Agrees With Chuck Smith On Repentance" 
-date: 2023-05-02 01:10:10 -0500
+title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
+date: 2023-05-02 01:21:21 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -188,19 +188,6 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
-
-<span style="color:#A8A8A8;">--- Lexicons ---</span>
-
-<sup><a name="BDAG" href="#contents">8</a></sup> [**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed.
-
-<span style="color:#A8A8A8;">--- Individuals ---</span>
-
-<sup><a name="grudem" href="#contents">9</a></sup>
-
-<span style="color:#A8A8A8;">---</span>
-
-<sup><a name="demarest" href="#contents">11</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44.
 
 
 <script>
