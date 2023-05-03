@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:35:35 -0500
+date: 2023-05-02 01:40:40 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -22,7 +22,7 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 1.1 <a href="#BDAG">Bauer-Danker-Arndt-Gingrich (BDAG)</a>
     - 1.2 <a href="#TDNT">Kittel (TDNT)</a>
 - II. <a href="#other">Dictionaries & Concordances</a>
-    - 2.4 <a href="#amg-concise">AMG Concise Bible Dictionary</a>
+    - 2.1 <a href="#amg-concise">AMG Concise Bible Dictionary</a>
     - 2.2 <a href="#complete">The Complete Word Study Dictionary</a>
     - 2.3 <a href="#amg-strongs">AMG's Annotated Strong's Dictionaries</a>
     - 2.4 <a href="#strongs">The New Strong's Expanded Dictionary Of Bible Words</a>
