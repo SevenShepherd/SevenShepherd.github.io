@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:55:55 -0500
+date: 2023-05-02 02:00:00 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -35,7 +35,8 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 3.1 <a href="#ESVSB">ESV Study Bible</a>
     - 3.2 <a href="#NET">NET Full Notes</a>
     - 3.3 <a href="#EXB">Expanded Bible (EXB)</a>
-    - 3.4 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
+    - 3.4 <a href="#LOGOS">Faithlife Study Bible (LOGOS)</a>
+    - 3.5 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
 - IV. <a href="#genius">Most Distinguished Research Professors</a>
     - 4.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
     - 4.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
@@ -237,7 +238,35 @@ The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which 
 
     > <sup style="font-weight:bold;">10</sup> ·So <span style="color:#A8A8A8;">[Therefore]</span> let us ·go on to grown-up teaching <span style="color:#A8A8A8;">[<sup>L</sup> move forward to maturity/completeness]</span>. Let us ·not go back over <span style="color:#A8A8A8;">[<sup>L</sup> leave behind]</span> the ·beginning <span style="color:#A8A8A8;">[rudimentary; elementary]</span> ·lessons <span style="color:#A8A8A8;">[teaching; <sup>L</sup> word]</span> we learned about ·Christ <span style="color:#A8A8A8;">[or the Messiah; 5:5]</span>. We should not again ·start teaching <span style="color:#A8A8A8;">[<sup>L</sup> lay a foundation]</span> about ·turning away <span style="color:#A8A8A8;">[repentance]</span> from ·those acts that lead to death <span style="color:#A8A8A8;">[or useless works; <sup>L</sup> dead works]</span> and about faith in God. &mdash; Hebrews 6:1
 
-<a name="NOAB" href="#contents" style="font-size:1.6em;">3.4 New Oxford Annotated Bible (NOAB)</a>
+<a name="LOGOS" href="#contents" style="font-size:1.6em;">3.4 Faithlife Study Bible (LOGOS)</a>
+
+<sup><a name="logos_cite" href="#contents">4</a></sup> The [**Faithlife Study Bible**](https://www.logos.com/product/36338/faithlife-study-bible?ssi=0) is a state-of-the-art study created for Logos Bible Software&mdash;the world's most advanced biblical software&mdash;and is translation independent.
+
+<!--  -->
+
+- [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH)
+
+> Matt. 3:8 fruit worthy of repentance **Refers to deeds that show true contrition**.
+
+> Heb. 6:1 **foundation** This image refers to the basic teachings of Christian faith. The metaphor suggests that Christians should not replace this foundation, but instead build upon it.
+>
+repentance from dead works Denotes **leaving behind sin—turning back toward God** and His will (9:14).
+
+> **Repentance** (James D. Smith III)
+>
+The need for repentance is highlighted in Jesus’ earliest preaching: “The time is fulfilled and the kingdom of God has come near. Repent and believe in the gospel!” (Mark 1:15). Repentance is rooted in the human consciousness of sin, an awareness of falling short of a standard, relational brokenness and alienation, and fear of judgment. Whether motivated by inner guilt or shameful loss of face, repentance involves attitudes and acts that aim at setting things right. Coupled with confession, repentance is involved in the process of receiving forgiveness from God through Jesus Christ, and provides a model for person-to-person reconciliation as well.
+>
+From its beginning, the biblical narrative speaks of our need for repentance. Made in the image of God, and meant for fellowship with the Creator, Adam and Eve use their freedom to disobey a divine command (Gen 3). In estrangement they hide; when discovered, they attempt excuses in their fearfulness. At the origins of the human family, sin is present (hence the term “original sin”), which becomes part of the spiritual reality of all humanity. The result: “the person, the one sinning, will die” (Ezek 18:20). The sacrificial system of the Old Testament is established (in part) to address the necessity of atonement (Lev 17:11; Heb 9:22): “apart from the shedding of blood there is no forgiveness.”
+>
+Jewish tradition shows a lifelong struggle between the yetzer ha tov (good impulse) and the yetzer ha ra (evil impulse; compare Gen 4:7; Rom 7:22–23). The life of David dramatically demonstrates this. A man after God’s own heart, David nonetheless falls deeply into evil, committing adultery and murder (2 Sam 11). When David faces God’s justice and the consequences of sin, Psalm 51 presents his public response: a contrite heart, personal confession, and repentance (Psa 51:16–17). Later, Solomon received the promise that when God’s people humble themselves, pray, seek His face and turn from sin, God hears from heaven, forgives them, and heals their land (2 Chr 7:14).
+>
+The New Testament suggests several forms of turning to repentance and confession. First John 1:9 suggests personal confession of sin directly to God. Other passages invite the ministry of a friend, counselor, or minister to hear one’s confession (Matt 16:19; John 20:23; Jas 5:16). In the Parable of the Prodigal Son, the son’s repentant return is embraced by the parent’s unconditional love, bringing reconciliation (Luke 15:11–32). Jesus Himself teaches His disciples to pray “forgive us”—and this underlies general confession in corporate worship (Matt 6:12). The kyrie prayer, “Lord have mercy,” transcends cultural boundaries (Luke 18:13).
+>
+In the early church, initial repentance and forgiveness were closely identified with conversion and baptism (Acts 2:28). In addition to the Ten Commandments and the Sermon on the Mount, other exhortations about sin were emerging (Exod 20; Matt 5–7; compare 1 John 2:16; 3:4, Rom 14:23, Jas 4:17), which were accompanied by reflections on especially “deadly” sins (Mark 3:29; Acts 15:29; 1 John 5:16).
+>
+Hebrews emphasizes the ministry of Jesus as once-for-all sacrifice and abiding high priest (Heb 7:26–28; 9:11–15). The letter includes a fervent exhortation against backsliding from life in Christ (Heb 6:4–8; 10:26–31). Similarly, the book of Revelation proclaims the need for repentance for individual believers and entire church fellowships (Rev 1:4–3:22). Paul even speaks of “godly sorrow” that brings restoration, whereas “worldly sorrow”—guilt with no healthy remedy through grace—proves deadly (2 Cor 7:8–13).
+
+<a name="NOAB" href="#contents" style="font-size:1.6em;">3.5 New Oxford Annotated Bible (NOAB)</a>
 
 [New Oxford Annotated Bible, Fifth (NRSV)](https://amzn.to/3XGvXPg)
 The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.

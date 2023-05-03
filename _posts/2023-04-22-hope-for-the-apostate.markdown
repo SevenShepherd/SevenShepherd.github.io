@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:40:35 -0500
+date: 2023-04-22 03:45:45 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -141,6 +141,8 @@ If you do feel contrite and are struggling but progressively winning your battle
     > Finally, the text says that it is impossible “to restore again to repentance” people who have experienced these things and have then committed apostasy. Some have argued that if this is a repentance to which they need to be restored again, then it must be genuine repentance. But this is not necessarily the case. First, we must realize that “repentance” (Gk. metanoia) does not need to refer to inward heart repentance unto salvation. ... &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
     
     > ... For example, Hebrews 12:17 uses this word to speak of a change of mind that Esau sought concerning the sale of his birthright, and refers to it as “repentance” (metanoia). This would not have been a repentance for salvation, but simply a change of mind and an undoing of the transaction regarding his birthright. (Note also the example of Judas’ repentance in Matt. 27:3 — howbeit with a different Greek word.) &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
+
+    > Hebrews emphasizes the ministry of Jesus as once-for-all sacrifice and abiding high priest (Heb 7:26–28; 9:11–15). The letter includes a fervent exhortation against backsliding from life in Christ (Heb 6:4–8; 10:26–31). Similarly, the book of Revelation proclaims the need for repentance for individual believers and entire church fellowships (Rev 1:4–3:22). Paul even speaks of “godly sorrow” that brings restoration, whereas “worldly sorrow”—guilt with no healthy remedy through grace—proves deadly (2 Cor 7:8–13). &mdash; <a href="#logos_cite">James D. Smith III</a> <sup><a href="#logos_cite">4</a></sup>
 
 
 <a name="heb6:7-8" href="#contents" style="font-size:1.6em;">1.2 Hebrews 6:7-8</a>
