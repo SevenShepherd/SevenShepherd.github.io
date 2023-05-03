@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:25:25 -0500
+date: 2023-05-02 01:30:30 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -174,7 +174,7 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 > The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; <a href="https://amzn.to/3JOaVKp">Dr. J. I. Packer (Ph.D., Oxford), Concise Theology, 60. Repentance.</a>
 
-<a name="mounce" href="#contents" style="font-size:1.6em;">4.2 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
+<a name="mounce" href="#contents" style="font-size:1.6em;">4.3 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
 > **Gloss**:<br>to repent, to change any or all of the elements composing one's life: attitude, thoughts, and **behaviors concerning the demands of God for right living**
 >
