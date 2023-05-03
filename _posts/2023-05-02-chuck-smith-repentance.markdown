@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:45:45 -0500
+date: 2023-05-02 01:50:50 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -75,6 +75,17 @@ Theological Dictionary of the New Testament: Abridged in One Volume (TDNT) is on
 <a name="other" href="#contents" style="font-size:2.1em;">II. Dictionaries & Concordances</a>
 
 <a name="mounced" href="#contents" style="font-size:1.6em;">2.1 Mounce's Complete Expository Dictionary of Old and New Testament Words</a>
+
+[Mounce's Complete Expository Dictionary of Old and New Testament Words](https://amzn.to/3HxOk2Z) is probably the best expository in existence and closest to it's superiors in the lexicon section.
+
+- More accurate than vines
+- More up-to-date definitions than vines
+- More complete numbering system than vines
+- More user friendly than vines
+- The most accurate, in-depth definitions based on the best of modern evangelical scholarship
+- Both Greek and Hebrew words are found under each English entry (Vine's separates them)
+- Employs both Strong's and G/K numbering systems (Vine's only uses Strong's)
+- Mounce's accuracy is endorsed by leading scholars
 
 > **Noun**: μετάνοια (metánoia), GK 3567 (S 3341), 22x.<br>
 > **Verb**: metanoeō (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, the meaning of the words in the NT does not reflect this etymology; that is, metanoeo does not simply mean "to perceive afterwards."
