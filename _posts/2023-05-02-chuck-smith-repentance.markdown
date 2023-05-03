@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:40:40 -0500
+date: 2023-05-02 01:45:45 -0500
 categories: repent repentance chuck smith
 published: true
 ---
+
+<!-- Every Authoritative Greek Lexicon And Distinguished Professor Acknowledges Chuck Smith's Teaching On Repentance" -->
+
+<!-- Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance"  -->
 
 <!-- "🎓 Every Authoritative Greek Lexicon Agrees With Wayne Grudem, Packer, & Chuck Smith On Repentance" -->
 
@@ -22,10 +26,11 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 1.1 <a href="#BDAG">Bauer-Danker-Arndt-Gingrich (BDAG)</a>
     - 1.2 <a href="#TDNT">Kittel (TDNT)</a>
 - II. <a href="#other">Dictionaries & Concordances</a>
-    - 2.1 <a href="#amg-concise">AMG Concise Bible Dictionary</a>
-    - 2.2 <a href="#complete">The Complete Word Study Dictionary</a>
-    - 2.3 <a href="#amg-strongs">AMG's Annotated Strong's Dictionaries</a>
-    - 2.4 <a href="#strongs">The New Strong's Expanded Dictionary Of Bible Words</a>
+    - 2.1 <a href="#mounced">Mounce's Complete Expository Dictionary</a>
+    - 2.2 <a href="#amg-concise">AMG Concise Bible Dictionary</a>
+    - 2.3 <a href="#complete">The Complete Word Study Dictionary</a>
+    - 2.4 <a href="#amg-strongs">AMG's Annotated Strong's Dictionaries</a>
+    - 2.5 <a href="#strongs">The New Strong's Expanded Dictionary Of Bible Words</a>
 - III. <a href="#studies">Study Bibles</a>
     - 3.1 <a href="#ESVSB">ESV Study Bible</a>
     - 3.2 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
@@ -69,7 +74,23 @@ Theological Dictionary of the New Testament: Abridged in One Volume (TDNT) is on
 
 <a name="other" href="#contents" style="font-size:2.1em;">II. Dictionaries & Concordances</a>
 
-<a name="amg-concise" href="#contents" style="font-size:1.6em;">2.1 AMG Concise Bible Dictionary</a>
+<a name="mounced" href="#contents" style="font-size:1.6em;">2.1 Mounce's Complete Expository Dictionary of Old and New Testament Words</a>
+
+> **Noun**: μετάνοια (metánoia), GK 3567 (S 3341), 22x.<br>
+> **Verb**: metanoeō (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, the meaning of the words in the NT does not reflect this etymology; that is, metanoeo does not simply mean "to perceive afterwards."
+>
+Furthermore, the use of the verb metanoeo in the NT differs from that in the OT, where the word is mostly used in the LXX to mean "to change one's mind" (e.g., Prov. 20:25; Jer. 4:28; the noun is only used once, in Prov. 14:15). In the LXX, the verb epistrepho (to turn, return"; see turn) is the word that most frequently translates the Heb. verb sub ("to turn back, return [to God in repentance]"). This usage reflects the OT presupposition of the covenant relationship from which Israel had turned and to which they must return. In Jer. 18:8, epistrepho refers to Israel's repentance and metanoeo is used for God's change of mind about judging them. In the NT, metanoeo essentially supersedes epistepho as the word of choice to denote a turning from sin to God. When metanoeo and epistrepho appear together in the NT; the former emphasizes the turn from sin and the latter emphasizes the turn to God
+(see Acts 3:19, 26:20).
+>
+**Repentance denotes a radical turning from sin to a new way of life oriented towards God.** Peter says to Simon the sorcerer in Acts 8:22. "Repent of your wickedness." True repentance is proven by actions and fruitful living (Mt. 3:8; Acts 26:20). Paul expresses anxiety that he might find some in the Corinthian church who have not repented of their former sins (2 Cor. 12:21). Those who experience a plague of fire in the book of Revelation refuse to repent and give glory to God (Rev. 16:9).
+>
+Repentance is the appropriate response to the nearness of the kingdom of God. John the Baptist calls people to "repent for the kingdom of heaven is near" (Mt. 3:2). After announcing the arrival of the kingdom, Jesus calls, "Repent and believe in the gospel" (Mk. 1:15). The apostolic preaching in Acts urges people to repent as a response to the death and resurrection of Jesus, and is associated with baptism (Acts 2:38).
+>
+Repentance goes hand in hand with the forgiveness of sin when one becomes a Christian. Repentance is for sinners (Lk. 15:7). John the Baptist preached "a baptism of repentance for the forgiveness of sins" (3:3). Jesus told his disciples that "repentance and forgiveness of sins" must be preached to every nation, beginning in Jerusalem (24:47). Peter fulfills this commission by calling his hearers to **"repent ... and turn to God, so that your sins may be wiped out" (Acts 3:19; also 5:31; ll:18; 21:21)**. God's patience in holding back judgment is intended to lead people to repentance and a secure salvation (Rom. 2:4; 2Pet. 3:9). Moreover, repentance should mark the life of the Christian, for Jesus warns the churches in Revelation to repent (Rev. 2:5,16; 3:3, 19).
+>
+An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. See NIDNTT-A,367.
+
+<a name="amg-concise" href="#contents" style="font-size:1.6em;">2.2 AMG Concise Bible Dictionary</a>
 
 [AMG Concise Bible Dictionary](https://amzn.to/42jh1ZK) has done the word Repentance justice more than any other Bible dictionary that I've ever seen. I am beside myself with how accurate this is while remaining readable, and non-technical.
 
@@ -82,7 +103,7 @@ Because faith involves repentance and repentance involves faith, the Bible in so
 While it is true that people must exercise faith and repentance if they are to be saved, it is also true that neither faith nor repentance would be possible in the heart of self-centered man apart from the gracious work of God. God is the one who brings conviction of sin within people and gives them the readiness to repent and believe (Acts 5:31; 11:18; cf. John 6:65; 16:7-11).
 > Repentance involves a complete change in the mind and will of the believer. It is more then mere sorrow for sin; it is surrender to God. A person may be sorry for his sin because of its consequences but still have no thought for God. **True repentance recognizes the character of sin as deserving God's judgement, and turns from that sin to ask God's forgiveness.** Sorrow for sin that ignores God leads only to self-pity and despair. Godly sorrow leads to repentance and new life (2 Cor 7:9-10; cf. Job 42:5-6; Ps 51:1-17; Luke 18:13). **It proves its genuineness in a complete change of behavior** (Luke 3:8-14; 19:8; 2 Cor 5:17; 1 John 2:4-6).
 
-<a name="complete" href="#contents" style="font-size:1.6em;">2.2 The Complete Word Study Dictionary: New Testament</a>
+<a name="complete" href="#contents" style="font-size:1.6em;">2.3 The Complete Word Study Dictionary: New Testament</a>
 
 [The Complete Word Study Dictionary: New Testament](https://amzn.to/3ngUT3j) by Dr. Spiros Zodhiates 
 
@@ -90,7 +111,7 @@ While it is true that people must exercise faith and repentance if they are to b
 
 > Theologically, it involves regret or sorrow, accompanied by true change of heart toward God. ... (**II**) **In a religious sense implying pious sorrow for unbelief and sin and turning from them unto God and the gospel of Christ.** ... (**IV**) ... metanoéō and epistréphó ... The inner and radical character of the change required is illustrated by the figure of the tree and its fruits. **The first four beatitudes** may be taken as descriptive of elements of **true repentance**. Poverty of spirit (the confession of one's spiritual helplessness)... **sorrow for sin**, meekness, and hunger and thirst for righteousness are all characteristics of the soul that is **turning to God from sin**. In **the parable of the prodigal son**, Jesus draws **a picture of the true penitent person**. Such is assured of the forgiveness of the Father whose love has anticipated his return and gone out to seek an save (Luke 15:4)...
 
-<a name="amg-strongs" href="#contents" style="font-size:1.6em;">2.3 AMG's Annotated Strong's Dictionaries</a>
+<a name="amg-strongs" href="#contents" style="font-size:1.6em;">2.4 AMG's Annotated Strong's Dictionaries</a>
 
 [AMG's Annotated Strong's Dictionaries](https://amzn.to/3LLGWUn). At the back of most Strong's Concordances you will find the Strong's dictionaries of the Old and New Testament. These dictionaries are arranged according to Strong's numbering system, and give you basic information regarding the words in the original languages of the Bible. In this volume, AMG has reset Strong's dictionaries in clearer and larger type, and for key entries has added material taken from AMG's Complete Word Study Dictionaries.
 
@@ -98,7 +119,7 @@ While it is true that people must exercise faith and repentance if they are to b
 >
 > **3341** ... metánoia ... in a religious sense, implying **pious sorrow for unbelief and sin and a turning from them unto God** and the gospel of Christ. (Mt 3:8, 11; 9:13; Mk 2:17; Lk 3:8; 5:32; 15:7; Ac 5:31; 20:21; 26:20; Ro 2:4; Heb 6:6; 2Pe 3:9).
 
-<a name="strongs" href="#contents" style="font-size:1.6em;">2.4 The New Strong's Expanded Dictionary Of Bible Words</a>
+<a name="strongs" href="#contents" style="font-size:1.6em;">2.5 The New Strong's Expanded Dictionary Of Bible Words</a>
 
 [The New Strong's Expanded Dictionary Of Bible Words](https://amzn.to/3nsVwqj). The only resource to incorporate the best of Vine's. Enhanced word studies drawn from standard dictionaries such as Vine's, Thayer's, Brown-Driver-Briggs. Definitions of Hebrew and Greek primary roots greatly expanded-three times as much as before. 
 
