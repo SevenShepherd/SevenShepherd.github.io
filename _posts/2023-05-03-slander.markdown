@@ -1,0 +1,67 @@
+---
+layout: post
+title: "“With their words, the godless destroy their friends, but knowledge will rescue the righteous.” — Proverbs 11:9" 
+date: 2023-05-03  01:10:00 -0500
+categories: slander fake
+published: true
+---
+
+<!-- <span style="font-size:2.1em;">Slander Is A Good Sign You Are Fake</span> -->
+
+Just a reminder to those of you call yourself a Christian, but slander and hate other believers, that the bible calls you a [liar](https://sevenshepherd.github.io/god-is-love/) (1 John 4:8,20; 2:9-11). If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5). 
+
+<!-- > "With their words, the godless destroy their friends, but knowledge will rescue the righteous." &mdash; Proverbs 11:9 -->
+
+> There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
+
+No one born of God makes a practice of sinning (1Jn 3:9). If you are living a lifestyle of indulgent sin against other Christians, the Bible calls you a child of the satan (1 Jn 3:10). That is who your father truly is. Satan is the father of lies and false witness, fakes, & slander.
+
+|||
+|:-:|:-:|
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
+|Do not associate with the slanderer.|Proverbs 20:19|
+|Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
+|God will destroy the slanderer.|Psalm 101:5|
+|**Whoever utters slander is a fool.**|Proverbs 10:18|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
+|Every careless word will be judged.|Matthew 12:36|
+|By Judging others, you judge God's law.|James 4:11|
+|Who are you to judge another?|James 4:12|
+|Evil words come from an evil heart.|Lk 6:45 NLT|
+|Those who endure persecution will receive the crown of life.|James 1:12|
+|Insulting others has dire consequences.|Matthew 5:22|
+
+> “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
+
+<!-- |An admonition to false teachers.|Jeremiah 23:1-3| -->
+
+<!-- 
+
+|Christ|Satan|
+|:-:|:-:|
+|Savior & Truth<br>2 Pe 1:1, Is 43:11|Murderer & Liar<br>Jn 8:44|
+|Authentic|Counterfeit|
+|Righteous|Evil<br>Mt 13:19, 38, Jn 17:15; Eph 6:16; 2 Th 3:3; 1 Jn 3:12; 5:18-19|
+|Friend|Enemy<br>1 Pe 5:8|
+|Honest|Devious|
+|Liberates & Relieves|Oppresses & Enslaves|
+|Loves, Advocates & Intercedes <br>Romans 8:34|Hates, Accuses & Slanders<br>Zech 3:1, Re 12:10|
+|Humble|Prideful|
+|Heals|Debilitates| -->
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'NLT'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
