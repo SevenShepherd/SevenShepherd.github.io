@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 01:30:30 -0500
+date: 2023-05-02 01:35:35 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -171,6 +171,11 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 <a name="packer" href="#contents" style="font-size:1.6em;">4.2 Dr. J. I. Packer (Ph.D., Oxford)</a>
 
 [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
+
+> The New Testament word for repentance means changing one’s mind so
+that one’s views, values, goals, and ways are changed and **one’s whole life is lived differently**. **The change is radical**, both inwardly and outwardly; mind and judgment, will and affections, behaviour and lifestyle, motives and purposes, are all involved. **Repenting means starting to live a new life.** &mdash; [J. I. Packer (Ph.D., Oxford)](https://youtu.be/gExLXpPJDd8). [Concise Theology](https://amzn.to/3JOaVKp).
+
+<!-- > In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx). -->
 
 > The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; <a href="https://amzn.to/3JOaVKp">Dr. J. I. Packer (Ph.D., Oxford), Concise Theology, 60. Repentance.</a>
 
