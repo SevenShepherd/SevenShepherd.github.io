@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Message To Slanderers In The Visible Church" 
-date: 2023-05-03 02:22:22 -0500
+title: "🗣️ A Message To Slanderers In The Visible Church" 
+date: 2023-05-03 02:33:33 -0500
 categories: slander fake
 published: true
 ---
