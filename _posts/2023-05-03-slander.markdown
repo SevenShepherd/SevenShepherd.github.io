@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "“With their words, the godless destroy their friends, but knowledge will rescue the righteous.” — Proverbs 11:9" 
-date: 2023-05-03 02:17:00 -0500
+title: "A Message To Slanderers In The Visible Church" 
+date: 2023-05-03 02:22:22 -0500
 categories: slander fake
 published: true
 ---
 
-<span style="font-size:2.1em;">A Message To Slanderers In The Church</span>
+<!-- ⚡ -->
 
-**To all of you who call yourselves a "Christian", but slander and hate other believers.** I would just like you to know that the bible calls you a godless [liar](https://sevenshepherd.github.io/god-is-love/) (1 John 4:8, 20; 2:3-6, 9-11; Pr 11:9) and a child of Satan (1 Jn 3:10). That is who your father truly is, the father of lies, false witness, fakes, and slander. Stay away from believers demon, unless you repent and turn (Ac 3:19; 26:20; Mt 3:2,8) from your wickedness and false professions (2Pe 2:21-22).
+<!-- “With their words, the godless destroy their friends, but knowledge will rescue the righteous.” — Proverbs 11:9" -->
+
+<!-- <span style="font-size:2.1em;">A Message To Slanderers In The Church</span> -->
+
+**To all who falsely claim to be "Christian", but slander and hate other believers. To all of you who make a mockery of fellowship and attack the innocent who are struggling to do what is right.** I would just like you to know that the bible calls you a godless [liar](https://sevenshepherd.github.io/god-is-love/) (1 John 4:8, 20; 2:3-6, 9-11; Pr 11:9) and a child of Satan (1 Jn 3:10). That is who your father truly is, the father of lies, false witness, fakes, and slander. Stay away from believers demon, unless you repent and turn (Ac 3:19; 26:20; Mt 3:2,8) from your wickedness and false professions (2Pe 2:21-22).
 
 <!-- > "With their words, the godless destroy their friends, but knowledge will rescue the righteous." &mdash; Proverbs 11:9 -->
 
@@ -32,8 +36,7 @@ published: true
 |**Whoever utters slander is a fool.**|Proverbs 10:18|
 |By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
 |Every careless word will be judged.|Matthew 12:36|
-|By speaking evil of others, you judge God's law.|James 4:11|
-|Who are you to condemn another?|James 4:12|
+|By speaking evil of others, you judge God's law.|James 4:11-12|
 |Evil words come from an evil heart.|Lk 6:45 NLT|
 |Those who endure persecution will receive the crown of life.|James 1:12|
 |Insulting others has dire consequences.|Matthew 5:22|
@@ -59,7 +62,7 @@ published: true
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
