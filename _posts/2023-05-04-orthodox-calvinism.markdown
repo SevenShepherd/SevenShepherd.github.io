@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
-date: 2023-05-04 01:25:00 -0500
+date: 2023-05-04 01:30:00 -0500
 categories: calvinism
 published: true
 ---
@@ -44,9 +44,7 @@ Norman Geisler is a well known Moderate Calvinist, so we'll let him defend the p
 |:-:|:-:|
 |God elects only believers|God also elects unbelievers|
 |God elects only to heaven|God also elects to hell|
-|God’s election of unbelievers to
-hell is passive|God’s election of unbelievers to
-hell is active|
+|God’s election of unbelievers to hell is passive|God’s election of unbelievers to hell is active|
 
 <script>
     var refTagger = {
