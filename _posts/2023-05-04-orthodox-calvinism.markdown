@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
-date: 2023-05-04 01:20:00 -0500
+date: 2023-05-04 01:25:00 -0500
 categories: calvinism
 published: true
 ---
@@ -23,7 +23,9 @@ This article is under construction. Refresh weekly for updates.
 
 <span style="font-size:2.1em">What Moderate Calvinism Says</span>
 
-> ... Supralapsarians are hypter-Calvinists, being double-predestinarians. 10 Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
+Norman Geisler is a well known Moderate Calvinist, so we'll let him defend the position.
+
+> ... Supralapsarians are hyper-Calvinists, being double-predestinarians. 10 Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
 
 |Strong Calvinists|Hyper-Calvinists|
 |:-:|:-:|
@@ -36,6 +38,15 @@ This article is under construction. Refresh weekly for updates.
 
 <sup>"This chart is similar to one by R. C. Sproul in Chosen by God, 143." &mdash; Geisler</sup>
 
+> There is, however, a significant difference between the hyper-Calvinists and other Calvinists regarding election. It can be summarized as follows: &mdash; Norman Geisler
+
+|Other Calvinists|Hyper-Calvinists|
+|:-:|:-:|
+|God elects only believers|God also elects unbelievers|
+|God elects only to heaven|God also elects to hell|
+|God’s election of unbelievers to
+hell is passive|God’s election of unbelievers to
+hell is active|
 
 <script>
     var refTagger = {
