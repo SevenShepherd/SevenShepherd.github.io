@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🗣️ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
-date: 2023-05-04 01:00:00 -0500
+title: "✅ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
+date: 2023-05-04 01:10:00 -0500
 categories: calvinism
 published: true
 ---
