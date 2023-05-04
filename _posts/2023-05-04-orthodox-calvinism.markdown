@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
-date: 2023-05-04 01:15:00 -0500
+date: 2023-05-04 01:20:00 -0500
 categories: calvinism
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 This article is under construction. Refresh weekly for updates.
 
-<span style="font-size:2.1em">Charts</span>
+<span style="font-size:2.1em">What Orthodox Calvinism Says</span>
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), 5-Point Orthodox Calvinist "Strong Calvinist"
 
@@ -20,6 +20,22 @@ This article is under construction. Refresh weekly for updates.
 |asymmetrical view|symmetrical view|
 |unequal ultimacy|equal ultimacy|
 |God passes over the reprobate|God works unbelief in the hearts of the reprobate.|
+
+<span style="font-size:2.1em">What Moderate Calvinism Says</span>
+
+> ... Supralapsarians are hypter-Calvinists, being double-predestinarians. 10 Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
+
+|Strong Calvinists|Hyper-Calvinists|
+|:-:|:-:|
+|Only elect are actively predestined|Elect and non-elect are actively predestined|
+|God is passive in not choosing the nonelect|God is active in choosing both|
+|Faith given to the elect|Unbelief given to the nonelect|
+|Asymmetrical relation|Symmetrical relation|
+|Predestination is positive of the elect and negative of the non-elect|Predestination is positive of both|
+|Unequal ultimacy|Equal ultimacy|
+
+<sup>"This chart is similar to one by R. C. Sproul in Chosen by God, 143." &mdash; Geisler</sup>
+
 
 <script>
     var refTagger = {
