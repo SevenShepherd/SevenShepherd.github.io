@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin"
-date: 2023-04-22 01:50:50 -0500
+date: 2023-04-22 01:55:50 -0500
 categories: nlt nrsvue version
-published: true
+published: false
 ---
 
-<a name="top"></a>
+<!-- "🔥 Addressing The “Strange Logic” Of The Manmade Doctrine Of Cessationism And Defending Genuine Charismatics From Belligerent Persecution" -->
+
+<!-- "🔥 Defending Genuine Charismatics From The Strange Logic Of The Belligerent Cessationist" -->
+
+<!-- "🕊️ “I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an extremely foolish Christian.” — Dr. Walter Martin" -->
 
 <span style="font-size:1.6em;">⚠️ Under Construction</span>
 
@@ -18,33 +22,56 @@ This article is under construction and what you see at the moment is just an ide
 
 <!-- As Martin points out, the strange logic of cessationists have led to numerous belligerent and embarrassing rants over the years. These people are of course extremely misguided, fringe, and possibly committing self-harm in their walk with Christ. We should be either soft-cessationist or open but cautious continuationists. -->
 
-<a name="contents" style="font-family:'Times New Roman',Times,serif;font-style:italic;font-weight:bold;font-size:2.1em;color:black;">Contents</a>
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-- I. <a href="#unk">Under Construction</a>
-    - i.a. <a href="#unk">Under Construction</a>
-        - i.a.0. <a href="#ia0">Under Construction</a>
-        - i.a.1. <a href="#ia1">Under Construction</a>
-        - i.a.2. <a href="#ia2">Under Construction</a>
-- II. <a href="#cite">Sources & Citations</a>
-    - ii.a.0. <a href="#esvsb_cite">ESV Study Bible</a>
-    - ii.a.1. <a href="#net_cite">NET Full Notes</a>
-    - ii.a.2. <a href="#exb_cite">Expanded Bible</a>
-    - ii.a.3. <a href="#logos_cite">Faithlife Study Bible</a>
-    - ii.a.4. <a href="#btsb_cite">Biblical Theology Study Bible</a>
-    - ii.a.5. <a href="#filament_cite">NLT Filament Study Bible</a>
-    - ii.a.6. <a href="#tnsb_cite">Thomas Nelson Study Bible</a>
+- I. <a href="#I">The Genuine Charismatic</a>
+- II. <a href="#II">Addressing Charis-“mania”</a>
+- III. <a href="#III">Persecution From Cessationists</a>
+    - 3.1 <a href="#III.I">Can the devil imitate speaking in tongues?</a>
+- IV. <a href="#IV">Definition & Order</a>
+    - 4.1 <a href="#IV.I">What Is A Spiritual Gift</a>
+    - 4.2 <a href="#IV.II">Is There An Order Or Hierarchy</a>
+- V. <a href="#V">Have Any Gifts Ceased?</a>
+    - 5.1 <a href="#V.I">Qualifications Of An Apostle</a>
+- VI. <a href="#VI">Cessationism Isn't Historical</a>
+- <a href="#cite">Sources & Citations</a>
 
-<span style="font-style:italic;font-size:1.6em;">Balance</span>
+<!-- - I. <a href="#1">The Genuine Charismatic</a>
+    - 1.1 <a href="#11">The True Charismatic</a>
+        - 1.1.1 <a href="#111">Under Construction</a>
+- II. <a href="#1">Addressing Charismania</a>
+    - 1.1 <a href="#11">The False Charismatic</a>
+- III. <a href="#1">Persecution From Cessationists</a>
+    - 1.5 <a href="#15">Only The Unlearned Mock The Gifts</a>
+- IV. <a href="#1">Definition & Order</a>
+    - 1.2 <a href="#12">What Is A Spiritual Gift</a>
+    - 1.3 <a href="#13">Is There An Order Or Hierarchy</a>
+- V. <a href="#1">Have Any Gifts Ceased?</a>
+    - 1.4 <a href="#14">Qualifications Of An Apostle</a>
+- VI. The False Charismatic
+    - 1.6 <a href="#16">Can the devil imitate speaking in tongues?</a>
+- <a href="#cite">Sources & Citations</a> -->
+
+<a name="11" href="#contents" style="font-size:2em;">The Genuine Charismatic</a>
 
 > &ldquo;As strange as it may seem I am convinced today that the dead orthodoxy of many churches could be **enhanced by the gifts of the holy spirit** in operation within the body ... there must be a middle position between the pentecostals with their overemphasis on experience and the **fundamentalists** who in their quest to be right in too many cases **have become dead right**.&rdquo; &mdash; <a href="#smith">Chuck Smith</a>
 
 <!-- Reformed theologians are perhaps the most intelligent and educated group of theologians throughout history, but one must remember that it brings God pleasure to conceal a matter from scholars and philosophers. -->
 
-<span style="font-style:italic;font-size:1.6em;">Definition</span>
+<a name="12" href="#contents" style="font-size:2em;">What Is A Spiritual Gift</a>
 
 > A spiritual gift is any ability that is empowered by the Holy Spirit and **used in any ministry** of the church. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D. & M.A., Westminister; B.A., Harvard)
 
-<span style="font-style:italic;font-size:1.6em;">Implied Order</span>
+- Acts 2:38-39 & John 14:17 (indwells) (The Gift of the holy spirit is for all)
+        > 8 Then Peter said to them, “Repent, and let every one of you be baptized in the name of Jesus Christ for the [a]remission of sins; and you shall receive the gift of the Holy Spirit. 39 For the promise is to you and to your children, and to all who are afar off, as many as the Lord our God will call.”
+        > 17 the Spirit of truth, whom the world cannot receive, because it neither sees Him nor knows Him; but you know Him, for He dwells with you and will be in you. 
+
+- 1 Corinthians 12:1-4 (The Holy Spirit is where Gifts of the Spirit originate or are manifested)
+        > 12 Now concerning spiritual gifts, brethren, I do not want you to be ignorant: 2 You know that[a] you were Gentiles, carried away to these dumb[b] idols, however you were led. 3 Therefore I make known to you that no one speaking by the Spirit of God calls Jesus [c]accursed, and no one can say that Jesus is Lord except by the Holy Spirit.
+        >
+        4 There are [d]diversities of gifts, but the same Spirit.
+
+<a name="13" href="#contents" style="font-size:2em;">Is There An Order Or Hierarchy</a>
 
 The following verses delineate the spiritual gifts. Order provided by Dr. Wayne Grudem (Ph.D., Cambridge): 1 Corinthians 12:28; 1 Corinthians 12:8-10; Ephesians 4:11; Romans 12:6-8; 1 Corinthians 7:7; 1 Peter 4:11. 
 
@@ -71,10 +98,38 @@ The following verses delineate the spiritual gifts. Order provided by Dr. Wayne 
 21. marriage
 22. celibacy
 
-<span style="font-style:italic;font-size:1.6em;">Qualifications Of An Apostle</span>
+<a name="14" href="#contents" style="font-size:2em;">Qualifications Of An Apostle</a>
 
 > The two qualifications for being an apostle were (**1**) having seen Jesus after his resurrection with one's own eyes (thus, being an "eye-witness of the resurrection") and (**2**) having been specifically commissioned by Christ as his apostle. &mdash; [Dr. Wayne Grudem](https://youtu.be/s9e3Y2SMXag) (Ph.D., Cambridge; D.D. & M.A., Westminister; B.A., Harvard), [Systematic Theology, 2nd ed.](https://amzn.to/40QF8z5) p. 1117.
 
+
+<a name="15" href="#contents" style="font-size:2em;">Only The Unlearned Mock The Gifts</a>
+
+> Therefore if the whole church comes together in one place, and all speak with tongues, and there come in **those who are uninformed or unbelievers**, will they not **say that you are [a]out of your mind**? &mdash; 1 Corinthians 14:23 (Only unbelievers & unlearned men mock the gifts)
+
+> Do not quench the Spirit. Do not despise prophecies. Test all things; hold fast what is good. &mdash; 1 Thessalonians 5:19-21 (Consistent with the Bible)
+
+<a name="16" href="#contents" style="font-size:2em;">Can The Devil Imitate Speaking In Tongues?</a>
+
+> 31 [L For] You can all prophesy one after the other. In this way all the people can be taught and encouraged. 32 The spirits of prophets are ·under the control of [subject to] the prophets themselves [C **unlike in pagan religions, where a spirit would seize control of a speaker, causing frenzy, mania or ecstasy**]. 33 [L For] God is not a God of ·confusion [disorder] but a God of peace. &mdash; 1 Corinthians 14:31-33 (Which is the true tounges)
+
+> 22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, **self-control**; against such things there is no law. &mdash; Galatians 5:22-23
+
+<a name="16" href="#contents" style="font-size:2em;">Cessationism Isn't Historical</a>
+
+- Continuationist (Unique Perspective)
+    - Acts 21:9 (Not all prophets have a "canonical authority")
+        > Now this man had four virgin daughters who prophesied.
+    - 1 Corinthians 14:29, 1 Thessalonians 5:20, Deuteronomy 18:21-22 (Commanded to Test Prophecies Implying they are present and some could be true and others false)
+        > Let two or three prophets speak, and let the others judge. 
+     
+
+    - All the early church fathers disagree with cessationism
+        - **Justin Martyr** (d.165) in his Dialogue with Trypho makes the comment: 'For the prophetical gifts remain with us, even to the present time.'
+        - **Irenaeus** (d.202) was a pupil of Polycarp, who was a disciple of the apostle John.
+        - **Origen** (AD 185–253). He professed to have been an eye-witness to many instances of exorcism, healing, and prophecy, although he refused, to record the details lest he should rouse the laughter and scorn of the unbeliever.
+        - **Chrysostom** (d.407) – writing on 1 Corinthians and the gift of tongues said, "This whole place is very obscure; but the obscurity is produced by our ignorance of the facts referred to and by their cessation, being such as then used to occur but now no longer take place. And why do they not happen now? Why look now, the cause too of the obscurity hath produced us again another question: namely, why did they then happen, and now do so no more?". (AD 347–407)[18]
+        - **Augustine** (d.430) – In a homily on the 1st Epistle of John, Augustine commented that speaking in tongues was a miracle suitable for the early church, but that it was no longer evident in his own time.[19] In chapters 8 and 9 of Book XXII of his City of God, written circa AD 415, Augustine noted that miracles in his day were not as spectacular or noteworthy as those at the dawn of Christianity, but that they continued to take place.[20]
 
 <span style="font-style:italic;font-size:1.6em;">God Uses Terrifying Visions</span>
 
@@ -111,7 +166,7 @@ Aside from those quoted in this article, here is a list of those with sound doct
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">II. Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
 <sup><a name="esvsb_cite" href="#contents">0</a></sup> The [**ESV Study Bible**](https://amzn.to/3WsN0Uw) has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 
@@ -193,11 +248,11 @@ Aside from those quoted in this article, here is a list of those with sound doct
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="martin" href="#top">7</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
+<sup><a name="martin" href="#contents">7</a></sup><a href="https://amzn.to/3mIzboD" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Martin, Walter. "The Kingdom of the Occult." Question #13: Can the devil imitate speaking in tongues? p. 685.</a>
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="smith" href="#top">8</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
+<sup><a name="smith" href="#contents">8</a></sup><a href="https://amzn.to/3ozr3qS" style="font-style:italic;font-weight:1.2em;color:#A8A8A8;">Smith, Chuck. "Charisma Vs. Charismania."</a> See also <a href="https://youtu.be/zHIyT9kbaq8?t=682" style="color:#A8A8A8;">Ready To Harvest.</a>
 
 <script>
     var refTagger = {
