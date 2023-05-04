@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper Calvinism" 
-date: 2023-05-04 01:30:00 -0500
+title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper-Calvinism" 
+date: 2023-05-04 01:35:00 -0500
 categories: calvinism
 published: true
 ---
@@ -25,9 +25,9 @@ This article is under construction. Refresh weekly for updates.
 
 Norman Geisler is a well known Moderate Calvinist, so we'll let him defend the position.
 
-> ... Supralapsarians are hyper-Calvinists, being double-predestinarians. 10 Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
+> ... Supralapsarians are hyper-Calvinists, being double-predestinarians. Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
 
-|Strong Calvinists|Hyper-Calvinists|
+<!-- |Strong Calvinists|Hyper-Calvinists|
 |:-:|:-:|
 |Only elect are actively predestined|Elect and non-elect are actively predestined|
 |God is passive in not choosing the nonelect|God is active in choosing both|
@@ -44,7 +44,7 @@ Norman Geisler is a well known Moderate Calvinist, so we'll let him defend the p
 |:-:|:-:|
 |God elects only believers|God also elects unbelievers|
 |God elects only to heaven|God also elects to hell|
-|God’s election of unbelievers to hell is passive|God’s election of unbelievers to hell is active|
+|God’s election of unbelievers to hell is passive|God’s election of unbelievers to hell is active| -->
 
 <script>
     var refTagger = {
