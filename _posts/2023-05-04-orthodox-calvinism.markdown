@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper-Calvinism (Anti-Calvinism)" 
-date: 2023-05-04 02:10:00 -0500
+date: 2023-05-04 02:15:00 -0500
 categories: calvinism
 published: true
 ---
@@ -23,7 +23,7 @@ This article is under construction. Refresh weekly for updates.
 
 <span style="font-size:2.1em">What Moderate Calvinism Says</span>
 
-Norman Geisler (M.A., Theology at Wheaton) was a well known Moderate Calvinist. Geisler has been known to employ strawman arguments against orthodox Calvinists. ⚠️ Warning: Geisler argues for against monergism. Christianity is monergistic, the cults are synergistic.
+Norman Geisler (M.A., Theology at Wheaton) was a well known Moderate Calvinist. Geisler has been known to employ strawman arguments against orthodox Calvinists. ⚠️ Warning: Geisler argues against monergism. Christianity is monergistic, the cults are synergistic.
 
 > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
