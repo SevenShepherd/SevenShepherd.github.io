@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:10:00 -0500
+date: 2023-02-02 5:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -870,9 +870,13 @@ Sequence of salvation
 
 <a name="ryrie" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Dr. Charles C. Ryrie</a>
 
-**Charles Caldwell Ryrie** (Ph.D., University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University.
+**Charles Caldwell Ryrie** (Ph.D., University of Edinburgh) was an American Bible scholar and Christian theologian. He served as professor of systematic theology and dean of doctoral studies at Dallas Theological Seminary and as president and professor at what is now Cairn University. Ryrie was a moderate free grace proponent, not extreme like hodges.
 
-[⚠️ Minority view (Category mistakes in Greek)](https://sevenshepherd.github.io/repent/)<br>
+> As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and **an "unproductive faith is a spurious faith."** &mdash; Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
+
+> As Charles Ryrie correctly observed, "every Christian will bear fruit; **otherwise he or she is not a true believer**." For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Norman Geisler, Four Views On Eternal Security. p. 105. 
+
+[⚠️ Repentance](https://sevenshepherd.github.io/repent/)<br>
 [✅ Monergistic](https://carm.org/dictionary/monergism/)
 
 <!-- The world, not only to the elect, not likely everyone in the world. -->
@@ -883,7 +887,17 @@ Sequence of salvation
     - Regeneration
     - Faith
 
-See Free Grace Theology below for expansion.
+Chart supplied by Moderate Calvinist Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 16. 
+
+> Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that saving faith (which involves repentance) will naturally tend to produce good works—a nominal, noncommittal, purely intellectual-type faith will not. Therefore, whereas we are saved by faith alone, saving faith is not alone but is inclined to produce good works. &mdash; Geisler
+
+|Lordship|Moderate Free Grace|Extreme Free Grace|
+|:-:|:-:|:-:|
+|John MacArthur|Charles Ryrie|Zane Hodges|
+|<span style="color:#3EA055;">Faith and repentance of sin are necessary</span>|<span style="color:#FBB917;">Faith and repentance about the Savior are necessary</span>|<span style="color:darkred;">Only faith is necessary, not repentance</span>|
+|<span style="color:#3EA055;">Must be willing to obey all Christ’s commands</span>|<span style="color:#FBB917;">Must be willing to obey Christ’s command to believe</span>|<span style="color:darkred;">Faith itself does not involve obedience</span>|
+|<span style="color:#3EA055;">True faith brings change in one’s life</span>|<span style="color:#3EA055;">True faith brings change in one’s life</span>|<span style="color:darkred;">True faith does not necessarily bring change in one’s life</span>|
+|<span style="color:#3EA055;">Works flow inevitably from saving faith</span>|<span style="color:#FBB917;">Works flow naturally (not inevitably) from saving faith</span>|<span style="color:darkred;">Works do not flow inevitably or naturally from saving faith</span>|
 
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup> -->
 
