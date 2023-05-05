@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗣️ A Message To Slanderers In The Visible Church" 
-date: 2023-05-03 03:10:00 -0500
+date: 2023-05-03 03:15:00 -0500
 categories: slander fake
 published: true
 ---
@@ -75,7 +75,7 @@ published: true
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'NLT'
         }
     }; 
 
