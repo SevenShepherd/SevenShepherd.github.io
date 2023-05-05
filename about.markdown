@@ -267,17 +267,25 @@ I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAq
 |**Systematic Theology**||
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)<br><a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a>|
-|||
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a><br>[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)|
+
+
+<span style="font-style:Italic;font-size:2.1em;">Soteriology</span>
+
+|Professors|Books|
+|:-:|:-:|
 |**Soteriology**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ "Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD)|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God](https://amzn.to/42w1i9y)|
 
-<span style="font-style:Italic;font-size:2.1em;">Scientific Theology</span>
+
+<!-- <span style="font-style:Italic;font-size:2.1em;">Scientific Theology</span>
 
 |Professors|Books|
 |:-:|:-:|
 |**Scientific Theology**||
-|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ A Scientific Theology, Nature: V1](https://amzn.to/3om0V2A)<br>[☩ A Scientific Theology, Reality: V2](https://amzn.to/40sCVIH)<br>☩ A Scientific Theology, Theory: V3<br>[☩ Theology: The Basics](https://amzn.to/3GTqcrt)<br>[☩ Christian Theology: An Introduction](https://amzn.to/3mPsNvI)|
+|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ A Scientific Theology, Nature: V1](https://amzn.to/3om0V2A)<br>[☩ A Scientific Theology, Reality: V2](https://amzn.to/40sCVIH)<br>☩ A Scientific Theology, Theory: V3<br>[☩ Theology: The Basics](https://amzn.to/3GTqcrt)<br>[☩ Christian Theology: An Introduction](https://amzn.to/3mPsNvI)| -->
 
 <span style="font-style:Italic;font-size:2.1em;">Textual Criticism</span>
 
