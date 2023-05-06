@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper-Calvinism (Anti-Calvinism)" 
-date: 2023-05-04 02:25:00 -0500
+date: 2023-05-04 02:30:00 -0500
 categories: calvinism
 published: true
 ---
 
 <span style="font-size:2.1em">What Orthodox Calvinism Says</span>
+
+God give mercy to some, justice to others, and injustice to no one.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), 5-Point Orthodox Calvinist
 
