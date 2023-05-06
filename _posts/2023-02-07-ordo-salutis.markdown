@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:15:00 -0500
+date: 2023-02-02 5:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -47,7 +47,7 @@ This article only lists theologically conservative evangelical theologies. Theol
 
 - 2.1 Reformed (Less Limited Atonement)
     - 2.1.1 Ron Rhodes (Th.D., Dallas)
-    - 2.1.2 Norman Geisler (Ph.D., Philosophy, Pennsylvania)
+    - 2.1.2 <a href="#geisler">Norman Geisler (Ph.D., Philosophy, Pennsylvania)</a>
     - 2.1.3 Frank Turek (DMin, Southern Evangelical Seminary)
 
 <a href="#lutheran" style="font-style:Italic;font-size:1.4em;">III. Lutheran Theology</a>
@@ -902,6 +902,49 @@ Chart supplied by Moderate Calvinist Norman Geisler, Systematic Theology Vol. 3 
 <!-- <sup style="font-size:14px;"><a href="https://amzn.to/3RLs9ue" style="color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</a></sup> -->
 
 <sup style="font-size:14px;color:#A8A8A8">*Basic Theology: A Popular Systematic Guide To Understanding Biblical Truth. Section X. Chapter 56 The Application Of Salvation</sup>
+
+---
+
+<a name="geisler" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Norman Geisler</a>
+
+Norman Geisler (M.A., Theology at Wheaton) was a well known Moderate Calvinist. His theology is sound at times and unsound at othertimes, but overall bad. Ron Rhodes seems to be a much more doctrinally sound 4-point calvinist than geisler. Norman argues for synergism which is what the cults are into so be warned.
+
+> ... biblical, theological, and historical evidence favors the **moderate Calvinist** view. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 5.
+
+- [⚠️ Synergistic: Geisler argues against monergism.](https://carm.org/dictionary/synergism/)
+- ⚠️ <span style="color:#828282;">*"an inconsistent and therefore unstable form of Calvinism"*</span> &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
+- ⚠️ <span style="color:#828282;">&ldquo;*The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian.*&rdquo;</span> &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+
+Below you'll find a few of Geisler's quotes that are actually very good, sound and on point.
+
+> ... <span style="font-weight:bold;color:darkred;">Supralapsarians are hyper-Calvinists, being double-predestinarians.</span> <span style="font-weight:bold;color:#3EA055;">Infralapsarians are strong Calvinists but are not double-predestinarians.</span> <span style="font-weight:bold;color:#FBB917;">Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement.</span> &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 7.
+
+In the quote below, he should have said that this confirms all of historic protestantism. A view he borrowed.
+
+> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” **This confirms moderate Calvinism’s** view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
+
+> As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and **an "unproductive faith is a spurious faith."** &mdash; Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
+
+> As Charles Ryrie correctly observed, "every Christian will bear fruit; **otherwise he or she is not a true believer**." For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Norman Geisler, Four Views On Eternal Security. p. 105.
+
+|Strong Calvinists|Hyper-Calvinists|
+|:-:|:-:|
+|Only elect are actively predestined|Elect and non-elect are actively predestined|
+|God is passive in not choosing the nonelect|God is active in choosing both|
+|Faith given to the elect|Unbelief given to the nonelect|
+|Asymmetrical relation|Symmetrical relation|
+|Predestination is positive of the elect and negative of the non-elect|Predestination is positive of both|
+|Unequal ultimacy|Equal ultimacy|
+
+<sup>"This chart is similar to one by R. C. Sproul in Chosen by God, 143." &mdash; Geisler</sup>
+
+> There is, however, a significant difference between the hyper-Calvinists and other Calvinists regarding election. It can be summarized as follows: &mdash; Norman Geisler
+
+|Other Calvinists|Hyper-Calvinists|
+|:-:|:-:|
+|God elects only believers|God also elects unbelievers|
+|God elects only to heaven|God also elects to hell|
+|God’s election of unbelievers to hell is passive|God’s election of unbelievers to hell is active|
 
 ---
 
