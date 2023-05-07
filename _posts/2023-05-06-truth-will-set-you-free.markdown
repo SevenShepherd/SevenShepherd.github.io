@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆓 Truth Is A Bitter Pill For Those Who Live In Denial; A Wake-up Call For Those Who've Been Sleepwalking Through Life." 
-date: 2023-05-06 01:15:00 -0500
+date: 2023-05-06 01:20:00 -0500
 categories: truth
 published: true
 ---
@@ -30,7 +30,7 @@ Some people would rather have soft nothings whispered into their ears by false t
 
 <!-- This ministry has proven and provided evidence for it's every position no matter how hard the teaching. There will always be those who would rather win arguments than defend the truth. Move on to other people in need. -->
 
-If they're trying to win instead of defend the truth, they will never know victory or truth. Sometimes we have to move on to those who will listen. Preach the gospel at all time, and if necessary, use words. In other words, sometimes you're the only bible any will ever read. Don't live a lie.
+If they're trying to win instead of defend the truth, they will never know victory or truth. Sometimes we have to move on to those who will listen. Preach the gospel at all times, and if necessary, use words. In other words, sometimes you're the only bible any will ever read. Don't live a lie.
 
 > <sup style="font-weight:bold;">31</sup> Jesus said to the people who believed in him, “You are truly my disciples if you remain faithful to my teachings. <sup style="font-weight:bold;">32</sup> And you will know the truth, and the truth will set you free.” &mdash; John 8:31-32
 
