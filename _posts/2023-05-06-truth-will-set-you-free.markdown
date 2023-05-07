@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆓 Truth Is A Bitter Pill For Those Who Live In Denial; A Wake-up Call For Those Who've Been Sleepwalking Through Life." 
-date: 2023-05-06 01:00:00 -0500
+date: 2023-05-06 01:10:00 -0500
 categories: truth
 published: true
 ---
@@ -14,11 +14,14 @@ Truth jolts deniers, rouses the complacent, and confronts the unlearned; it is a
 
 Truth is offensive to those who are not living in it. Truth aggravates the naive and simpleminded. Those who are not in the truth are irritated by it.
 
-> Speak not in the ears of a fool: for he will despise the wisdom of thy words. &mdash; Proverbs 23:9
+> Do not speak in the ears of a fool, for he will despise the wisdom of your words. &mdash; Proverbs 23:9 NET
+
+Truth is a shock to the system of those who cling to ignorance and a slap in the face of the inexperienced. Truth breaks the shackles of the enslaved and the teeth of the arrogant.
+
+> <sup style="font-weight:bold;">31</sup> Jesus said to the people who believed in him, “You are truly my disciples if you remain faithful to my teachings. <sup style="font-weight:bold;">32</sup> And you will know the truth, and the truth will set you free.” &mdash; John 8:31-32
 
 The truth will set you free. Don't fight it.
 
-> <sup style="font-weight:bold;">31</sup> Jesus said to the people who believed in him, “You are truly my disciples if you remain faithful to my teachings. <sup style="font-weight:bold;">32</sup> And you will know the truth, and the truth will set you free.” &mdash; John 8:31-32
 
 
 <script>
