@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💢 Sinful Anger Is A Demonstration Of Your Ignorance To Wise Men And Your Spiritual Ineptitude Toward God"
-date: 2023-05-07 01:10:00 -0500
+title: "💢 Human Anger Is A Demonstration Of Your Ignorance To Wise Men And Your Spiritual Ineptitude Toward God"
+date: 2023-05-07 01:15:00 -0500
 categories: anger
 published: true
 ---
