@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💢 Human Anger Is A Demonstration Of Ignorance To Wise Men And Spiritual Ineptitude To God"
-date: 2023-05-07 01:25:00 -0500
+date: 2023-05-07 01:30:00 -0500
 categories: anger
 published: true
 ---
@@ -26,7 +26,7 @@ Instead, let us be quick to listen and investigate information presented to us, 
 
 > Understand this, my dear brothers and sisters! Let every person be quick to listen, slow to speak, slow to anger. For human anger does not accomplish God’s righteousness. &mdash; James 1:19-20
 
-If you happen upon such a person, avoid them if you can. They will eventually destroy themselves and drag you down along with them. Your best defense is always to respond with a gentile answer.
+If you happen upon such a person, avoid them if you can. They will eventually destroy themselves and drag you down along with them. Your best defense is always to respond with a gentle answer.
 
 > Don’t befriend angry people or associate with hot-tempered people, &mdash; Proverbs 22:24
 
