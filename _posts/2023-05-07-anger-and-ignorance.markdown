@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💢 Human Anger Is A Demonstration Of Ignorance To Wise Men And Spiritual Ineptitude Toward God"
-date: 2023-05-07 01:20:00 -0500
+title: "💢 Human Anger Is A Demonstration Of Ignorance To Wise Men And Spiritual Ineptitude To God"
+date: 2023-05-07 01:25:00 -0500
 categories: anger
 published: true
 ---
@@ -16,7 +16,7 @@ One with great understanding is slow to anger, and one who shows great foolishne
 
 > Someone with great understanding is slow to anger, but the one who has a quick temper exalts folly. &mdash; Proverbs 14:29 NET
 
-Put away this ignorant behavior, mature, progressing in sanctification. You cannot be an infant the rest of your lives can you?
+Put away this ignorant behavior, mature, progressing in sanctification. You cannot be an infant the rest of your life can you?
 
 > You must put away all bitterness, anger, wrath, quarreling, and slanderous talk—indeed all malice. &mdash; Ephesians 4:31 NET
 
