@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 01:00:00 -0500
+date: 2023-05-08 02:00:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -111,24 +111,33 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">--- Lexicons ---</span>
 
-<sup><a name="BDAG" href="#contents">8</a></sup> [**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG)**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed.
+<sup><a name="BDAG" href="#contents">8</a></sup> [**BDAG Greek-English Lexicon, 3rd ed.**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. 
+
+<!-- This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed. -->
 
 <span style="color:#A8A8A8;">--- Individuals ---</span>
 
 
-<sup><a name="grudem" href="#contents">9</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984.
+<sup><a name="grudem" href="#contents">9</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books. 
+
+<!-- This cite is specific to his [**Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5) pp. 979-984. -->
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. This cite is specific to <a href="https://amzn.to/3JOaVKp">Concise Theology. 88. UNPARDONABLE SIN - Only Impenitence Cannot Be Forgiven</a>
+<sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. 
+
+<!-- This cite is specific to <a href="https://amzn.to/3JOaVKp">Concise Theology. 88. UNPARDONABLE SIN - Only Impenitence Cannot Be Forgiven</a> -->
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="demarest" href="#contents">11</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44.
+<sup><a name="demarest" href="#contents">11</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
 <span style="color:#A8A8A8;">---</span>
 
-[**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+<sup><a name="demarest" href="#contents">12</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
+
+<!-- This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44. -->
+
 
 <script>
     var refTagger = {
