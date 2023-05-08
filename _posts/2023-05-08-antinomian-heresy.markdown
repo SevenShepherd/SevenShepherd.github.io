@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretic, And Marked Out For Condemnation."
-date: 2023-05-08 01:00:00 -0500
+date: 2023-05-08 01:10:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -48,7 +48,7 @@ No one should ever teach you that it is alright to remain in sin once you're sav
 
 > <sup style="font-weight:bold;">6</sup> What shall we say then? <span style="font-weight:bold;">Are we to remain in sin</span> so that grace may increase? <sup style="font-weight:bold;">2</sup> <span style="font-weight:bold;color:orangered;">Absolutely not!</span> How can we who died to sin still live in it? &mdash; Romans 6:1-2 NET
 
-Let us not become liars, and fake christians with false professions, by abusing the Grace of our God! There is no reason to throw out morality, in fact there is every reason to believe that Christianity is a call to discipleship. This conclusion is not optional, never was, and never will be.
+Let us not be liars, and fake christians with false professions, by abusing the grace of our God! There is no reason to throw out morality, in fact there is every reason to believe that Christianity is a call to discipleship. This conclusion is not optional, never was, and never will be.
 
 > <sup style="font-weight:bold;">3</sup> And we can be sure that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;">If someone claims, “I know God,” but doesn’t obey God’s commandments, <span style="color:orangered;">that person is a <span style="font-size:21px;color:red;">liar</span> and is not living in the truth</span>.</span> 5 But those who **obey** God’s word truly show how completely they love him. **That is how we know** we are living in him. 6 <span style="font-weight:bold;color:orangered;">Those who say they live in God should live their lives as Jesus did.</span> &mdash; 1 John 2:3-6 [NLT](https://www.biblegateway.com/passage/?search=John+3%3A36%3B+1Jn+2%3A3-6&version=ESV;NET;NLT)
 <!-- 6 Well then, should we keep on sinning so that God can show us more and more of his wonderful grace? 2 Of course not! Since we have died to sin, how can we continue to live in it? -->
