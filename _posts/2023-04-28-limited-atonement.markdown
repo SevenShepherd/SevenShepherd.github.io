@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:10:00 -0500
+date: 2023-05-08 02:12:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -18,7 +18,7 @@ This article will be focused on Limited vs Unlimited Atonement; however, I would
 
 > Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
-> Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition, they <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
+> Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
 <span style="font-size:2.1em">🌷 Limited & Unlimited Atonement</span>
 
