@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:00:00 -0500
+date: 2023-05-08 02:07:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -10,11 +10,9 @@ Reformed theology (orthodox Calvinism) has a minority moderate stance, colloquia
 
 <!-- Reformed theology (orthodox Calvinism / [infralapsarianism](https://carm.org/dictionary/infralapsarianism/)) has a minority moderate stance, colloquially known as moderate Calvinism (sublapsarianism). This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this stance than Dr. Ron Rhodes. -->
 
-> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>. [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
+> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
 
-
-
-> Every person who's ever been a Calvinist, that I know of in history, has affirmed without reservation, that we are moral agents, we are volitional creatures that God has made, each one of us, with a mind, with a heart, with affections, and with a will. [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
+> Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
 <!-- > Every person who's ever been a Calvinist, that I know of in history, has affirmed without reservation, that we are moral agents, we are volitional creatures that God has made, each one of us, with a mind, with a heart, with affections, and with a will. That we have the will which is a faculty of choosing, and in the fall as desperate as the fall is and as corrupt as we become, we don't stop willing. We sin because we want to sin. And that's why we are exposed to the punishment of God, because we are willful in our sin and we are willful in our rejection of God. [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55) -->
 
