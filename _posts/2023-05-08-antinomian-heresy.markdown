@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretic, And Marked Out For Condemnation."
-date: 2023-05-08 01:10:00 -0500
+date: 2023-05-08 01:15:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -59,6 +59,8 @@ All theologians agree on this verse below, from the most academically sound and 
 
 If this antinomian heresy is what your teachers are teaching, or what you're teaching your loved ones. YOU ARE IN GRAVE DANGER! CEASE IMMEDIATELY!
 
+> ... They will consider nothing sacred. They will be unloving and unforgiving; they will slander others and have no self-control. They will be cruel and hate what is good. They will betray their friends, be reckless, be puffed up with pride, and love pleasure rather than God. <span style="font-weight:bold;color:orangered;">They will <span style="font-size:1.2em;color:red;">act religious</span>, but they will <span style="font-size:1.2em;color:red;">reject the power that could make them godly</span>. Stay away from people like that!</span> &mdash; 2 Timothy 3:2-5b
+
 > <sup style="font-weight:bold;">21</sup> <span style="font-weight:bold;">It would be better if they had never known the way to righteousness than to know it and then reject the **command** they were given <span style="font-weight:bold;color:orangered;">to live a</span> <span style="font-size:21px;color:red;">holy life</span>.</span> <sup style="font-weight:bold;">22</sup> They prove the truth of this proverb: <span style="font-weight:bold;">“A dog returns to its vomit.”</span><span style="color:#A7A7A7;">[a]</span> And another says, “A washed pig returns to the mud.” &mdash; 2 Peter 2:21-22 NLT
 
 All sins can be forgiven men except [blasphemy against the Holy Spirit](https://carm.org/about-the-holy-spirit/what-is-blasphemy-of-the-holy-spirit/) (Matt. 12:31-32; Mk 3:28–29; Heb. 6:4-8; 10:26-31).
@@ -81,7 +83,7 @@ All sins can be forgiven men except [blasphemy against the Holy Spirit](https://
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'NLT'
         }
     }; 
 
