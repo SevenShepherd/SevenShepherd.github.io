@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🆓 Truth Is A Bitter Pill For Those Who Live In Denial; A Wake-up Call For Those Who've Been Sleepwalking Through Life." 
-date: 2023-05-06 01:25:00 -0500
+date: 2023-05-06 01:35:00 -0500
 categories: truth
-published: true
+published: false
 ---
 
 <span style="font-size:2.1em">The Truth Will Set You Free</span>
