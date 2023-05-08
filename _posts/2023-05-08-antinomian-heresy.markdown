@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretic, And Marked Out For Condemnation."
-date: 2023-05-08 01:15:00 -0500
+date: 2023-05-08 01:20:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -26,7 +26,7 @@ published: true
 
 <!-- *"My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you... I also will forget your children."*  -->
 
-I want you to pay attention to the beautiful condemnation of Jude in this passage. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria: 
+I want you to pay attention to the beautiful condemnation from Jude in this passage. Jude calls the church to defend the truth aggressively against this infiltration. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria: 
 
 > <sup style="font-weight:bold;">4</sup> I say this because some **ungodly people have <span style="font-size:21px;color:darksalmon;">wormed</span> their way into your churches, saying that God’s marvelous grace allows us to live immoral lives**. The condemnation of such people was recorded long ago, <span style="font-weight:bold;color:orangered;">for they have denied our only <span style="font-size:21px;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NLT
 
