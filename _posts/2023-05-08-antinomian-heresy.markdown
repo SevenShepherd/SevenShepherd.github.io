@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretic"
-date: 2023-05-08 01:40:00 -0500
+title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretical"
+date: 2023-05-08 01:45:00 -0500
 categories: heresy cults
 published: true
 ---
