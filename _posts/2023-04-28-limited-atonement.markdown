@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:25:00 -0500
+date: 2023-05-08 02:30:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -12,7 +12,7 @@ Reformed theology, or orthodox Calvinism, posits a minority moderate position, o
 
 <!-- Reformed theology (orthodox Calvinism / [infralapsarianism](https://carm.org/dictionary/infralapsarianism/)) has a minority moderate stance, colloquially known as moderate Calvinism (sublapsarianism). This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this stance than Dr. Ron Rhodes. -->
 
-> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
 
 <span style="font-size:2.1em">🌷 Freedom Of Inclination</span>
 
@@ -20,7 +20,7 @@ Reformed theology, or orthodox Calvinism, posits a minority moderate position, o
 
 The focal point of this article is a comparison between Limited and Unlimited Atonement; nonetheless, it is of utmost importance to accurately convey the Calvinistic perspective on free will. It has been observed that numerous individuals tend to misconstrue this notion. It is pertinent to note that the charts presented herein are derived from Sproul's authoritative work ["Chosen by God."](https://amzn.to/42w1i9y)
 
-> Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
+> Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
 |Pre-Fall|Post-Fall|
 |:-:|:-:|
@@ -36,11 +36,11 @@ The focal point of this article is a comparison between Limited and Unlimited At
 |Unable to not sin|Unable to not sin|
 |Unable to sin|<span style="font-weight:bold;color:#3EA055;">Unable to sin</span>|
 
-> Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
+> Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
 <span style="font-size:2.1em">🌷 Limited & Unlimited Atonement</span>
 
-<!-- > Every person who's ever been a Calvinist, that I know of in history, has affirmed without reservation, that we are moral agents, we are volitional creatures that God has made, each one of us, with a mind, with a heart, with affections, and with a will. That we have the will which is a faculty of choosing, and in the fall as desperate as the fall is and as corrupt as we become, we don't stop willing. We sin because we want to sin. And that's why we are exposed to the punishment of God, because we are willful in our sin and we are willful in our rejection of God. [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55) -->
+<!-- > Every person who's ever been a Calvinist, that I know of in history, has affirmed without reservation, that we are moral agents, we are volitional creatures that God has made, each one of us, with a mind, with a heart, with affections, and with a will. That we have the will which is a faculty of choosing, and in the fall as desperate as the fall is and as corrupt as we become, we don't stop willing. We sin because we want to sin. And that's why we are exposed to the punishment of God, because we are willful in our sin and we are willful in our rejection of God. [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=55) -->
 
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
@@ -156,6 +156,13 @@ May be expanded or contracted as the article grows
 
 <sup><a name="sproul" href="#contents">11</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
+<span style="color:#A8A8A8;">---</span>
+
+<sup><a name="horton" href="#contents">12</a></sup> [**Dr. Michael Scott Horton**](https://youtu.be/_COhpzxavI4) (Ph.D, Oxford) learned Biblical Hebrew and Koine Greek while studying under Meredith Kline at Westminster Seminary California for his M.A. Dr. Horton received his Ph.D. from Wycliffe Hall, Oxford through Coventry University and completed a research fellowship at Yale Divinity School. Dr. Horton has been the J. Gresham Machen Professor of Theology and Apologetics at Westminster Seminary California since 1998. He was ordained a deacon in the Reformed Episcopal Church. He was the president of Christians United for Reformation (CURE), he is also an ordained minister in the United Reformed Churches in North America (URCNA), has served at two churches in Southern California.
+
+<span style="color:#A8A8A8;">---</span>
+<span style="color:#A8A8A8;">---</span>
+<span style="color:#A8A8A8;">---</span>
 <span style="color:#A8A8A8;">---</span>
 
 <sup><a name="demarest" href="#contents">12</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
