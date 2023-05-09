@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretical"
-date: 2023-05-08 01:45:00 -0500
+date: 2023-05-08 01:50:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -26,7 +26,9 @@ published: true
 
 <!-- *"My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you... I also will forget your children."*  -->
 
-I want you to pay careful attention to the beautiful condemnation from Jude in this passage. Jude calls the church to defend the truth aggressively against this infiltration. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria: 
+I want you to pay careful attention to the striking condemnation from Jude in this passage. Jude calls the church to defend the truth aggressively against this infiltration. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria: 
+
+<!-- I urge you to give close attention to the striking denunciation in this passage by Jude, who exhorts the church to vigorously defend the truth against the infiltration of false teachings, highlighting the key identifying characteristics of those who are subject to condemnation. -->
 
 <!-- > <sup style="font-weight:bold;">4</sup> 4 For certain men have secretly slipped in among you—men who long ago[c] were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;color:red;">license for evil</span></span> and who <span style="font-weight:bold;color:orangered;">deny our only <span style="font-size:1.2em;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET -->
 
