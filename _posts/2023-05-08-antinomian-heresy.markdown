@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretic"
-date: 2023-05-08 01:35:00 -0500
+date: 2023-05-08 01:40:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -30,7 +30,7 @@ I want you to pay careful attention to the beautiful condemnation from Jude in t
 
 <!-- > <sup style="font-weight:bold;">4</sup> 4 For certain men have secretly slipped in among you—men who long ago[c] were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;color:red;">license for evil</span></span> and who <span style="font-weight:bold;color:orangered;">deny our only <span style="font-size:1.2em;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET -->
 
-> <sup style="font-weight:bold;">4</sup> 4 For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;color:red;">license for evil</span></span> and who <span style="font-weight:bold;color:orangered;">deny our only <span style="font-size:1.2em;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET
+> <sup style="font-weight:bold;">4</sup> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;color:red;">license for evil</span></span> and who <span style="font-weight:bold;color:orangered;">deny our only <span style="font-size:1.2em;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET
 
 <!-- > <sup style="font-weight:bold;">4</sup> I say this because some <span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">ungodly people</span> have <span style="font-size:1.2em;color:darksalmon;">wormed</span> their way into your churches, saying that God’s marvelous grace allows us to live immoral lives</span>. The condemnation of such people was recorded long ago, <span style="font-weight:bold;color:orangered;">for they have denied our only <span style="font-size:1.2em;color:red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NLT -->
 
@@ -62,7 +62,7 @@ Let us not be liars, and fake christians with false professions, by abusing the 
 
 <!-- 6 Well then, should we keep on sinning so that God can show us more and more of his wonderful grace? 2 Of course not! Since we have died to sin, how can we continue to live in it? -->
 
-All theologians agree on this verse below, from the most academically sound and historically time-tested theologies known to Christendom (i.e. Reformed theology), to minority views (i.e. moderate calvinism & moderate free grace). If you are engaging in a life long continual practice of sin, an indulgent lifestyle of sin, you are severely mistaken about your walk with Christ.
+All theologians agree on this verse below, from the most academically sound and historically time-tested theologies known to Christendom (i.e. Reformed theology), to minority views (i.e. moderate calvinism & moderate free grace). If you are engaging in a lifelong continual practice of sin, an indulgent lifestyle of sin, you are severely mistaken about your walk with Christ.
 
 > <sup style="font-weight:bold;">9</sup> Those who have been born into God’s family do not make a practice of sinning, because God’s life is in them. So they can’t keep on sinning, because they are children of God. <sup style="font-weight:bold;">10</sup> So **now we can tell who are children of God and who are children of the devil**. Anyone who does not live righteously and does not love other believers does not belong to God. &mdash; 1 Jn 3:9-10
 
