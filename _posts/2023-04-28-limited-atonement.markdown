@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:35:00 -0500
+date: 2023-05-08 02:40:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -154,11 +154,11 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="sproul" href="#contents">11</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+<sup><a name="carson" href="#contents">11</a></sup> [**Dr. D. A. Carson**](https://youtu.be/9OIxOq3aOIo) (Ph.D., University of Cambridge) is a Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School. Carson has been described as *"one of the last great Renaissance men in evangelical biblical scholarship,"* and as doing *"the most seminal New Testament work by contemporary evangelicals."*
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="carson" href="#contents">12</a></sup> [**Dr. D. A. Carson**]() (Ph.D., University of Cambridge) is a Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School. Carson has been described as *"one of the last great Renaissance men in evangelical biblical scholarship,"* and as doing *"the most seminal New Testament work by contemporary evangelicals."*
+<sup><a name="sproul" href="#contents">12</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
 <span style="color:#A8A8A8;">---</span>
 
@@ -166,7 +166,7 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="demarest" href="#contents">12</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
+<sup><a name="demarest" href="#contents">14</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
 
 <!-- This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44. -->
 
