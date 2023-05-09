@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretical"
-date: 2023-05-08 01:50:00 -0500
+date: 2023-05-08 01:55:00 -0500
 categories: heresy cults
 published: true
 ---
@@ -48,7 +48,7 @@ The Bible describes these ungodly men as worming their way into churches (i.e. s
 
 <!-- > <sup style="font-weight:bold;">2</sup> But false prophets also arose among the people, just as **there will be false teachers among you, who will secretly bring in destructive heresies**, <span style="font-weight:bold;color:orangered;">even denying the <span style="font-size:1.2em;color:red;">Master</span> who bought them</span>, bringing upon themselves swift destruction. &mdash; 2 Peter 2:1 -->
 
-> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:orangered;">even to the point of denying the <span style="font-size:1.2em;color:red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. 2 And many will follow their <span style="font-weight:bold;">debauched lifestyles</span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
+> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:orangered;">even to the point of denying the <span style="font-size:1.2em;color:red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:orangered;">many will follow their <span style="font-weight:bold;color:red;">debauched lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
 
 No one should ever teach that you will remain in sin after you are saved! True saving faith always results in obedience to God after justification. It is true that sanctification is progressive, and over time you will grow in your Christian walk; however, you won't regress or live a lifestyle of indulgent sin, you will progress in holiness. *"God justifies no one whom he does not at the same time sanctify."*
 
