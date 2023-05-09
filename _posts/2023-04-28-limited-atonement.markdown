@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:20:00 -0500
+date: 2023-05-08 02:25:00 -0500
 categories: tulip limited atonement
 published: true
 ---
 
-Reformed theology (orthodox Calvinism) has a minority moderate stance, colloquially known as moderate Calvinism. This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this position than Dr. Ron Rhodes.
+<!-- Reformed theology (orthodox Calvinism) has a minority moderate stance, colloquially known as moderate Calvinism. This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this position than Dr. Ron Rhodes. -->
+
+Reformed theology, or orthodox Calvinism, posits a minority moderate position, often referred to as moderate Calvinism. This nuanced perspective deviates from the conventional doctrine of limited atonement and instead favors a libertarian conception of free will, as opposed to the prevailing view of [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55). In this regard, there are few individuals better equipped than Dr. Ron Rhodes to articulate and defend this stance with precision and clarity.
 
 <!-- Reformed theology (orthodox Calvinism / [infralapsarianism](https://carm.org/dictionary/infralapsarianism/)) has a minority moderate stance, colloquially known as moderate Calvinism (sublapsarianism). This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this stance than Dr. Ron Rhodes. -->
 
@@ -14,7 +16,9 @@ Reformed theology (orthodox Calvinism) has a minority moderate stance, colloquia
 
 <span style="font-size:2.1em">🌷 Freedom Of Inclination</span>
 
-This article will be focused on Limited vs Unlimited Atonement; however, I would like to represent free will correctly from a Calvinistic standpoint. So many people get this wrong. Charts are from Sproul's book [Chosen by God](https://amzn.to/42w1i9y)
+<!-- This article will be focused on Limited vs Unlimited Atonement; however, I would like to represent free will correctly from a Calvinistic standpoint. So many people get this wrong. Charts are from Sproul's book [Chosen by God](https://amzn.to/42w1i9y) -->
+
+The focal point of this article is a comparison between Limited and Unlimited Atonement; nonetheless, it is of utmost importance to accurately convey the Calvinistic perspective on free will. It has been observed that numerous individuals tend to misconstrue this notion. It is pertinent to note that the charts presented herein are derived from Sproul's authoritative work ["Chosen by God."](https://amzn.to/42w1i9y)
 
 > Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
@@ -150,7 +154,7 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="demarest" href="#contents">11</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+<sup><a name="sproul" href="#contents">11</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
 
 <span style="color:#A8A8A8;">---</span>
 
