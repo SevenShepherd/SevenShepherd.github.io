@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🗣️ If You Say That You Are Christian But You Hate And Slander Other Believers You're By Definition Fake" 
-date: 2023-05-06 00:25:00 -0500
+date: 2023-05-06 00:30:00 -0500
 categories: slander fake
-published: true
+published: false
 ---
 
 <!-- ⚡ -->

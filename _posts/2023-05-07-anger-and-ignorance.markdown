@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💢 Human Anger Is A Demonstration Of Ignorance To Wise Men And Spiritual Ineptitude To God"
-date: 2023-05-07 01:40:00 -0500
+date: 2023-05-07 01:45:00 -0500
 categories: anger
-published: true
+published: false
 ---
 
 <span style="font-size:2.1em">Anger Rests In The Bosom Of Fools</span>
