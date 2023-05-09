@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretic, And Marked Out For Condemnation."
-date: 2023-05-08 01:25:00 -0500
+title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretic"
+date: 2023-05-08 01:30:00 -0500
 categories: heresy cults
 published: true
 ---
