@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🃏 When You Deny Sound Scholarship The Only Thing You Have Left Is Pride"
-date: 2023-04-22 03:20:00 -0500
+date: 2023-04-22 03:25:00 -0500
 categories: scholarship evidence
-published: true
+published: false
 ---
 
 <!-- A Guide To Spotting False Teachers And Avoiding False Assurance. -->
