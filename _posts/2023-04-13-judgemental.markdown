@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🔨 The Paradoxical Irony of Accusing Others of Judgmentalism Without Ever Being Personally Attacked"
-date: 2023-04-27 01:15:01 -0500
+date: 2023-04-27 01:20:01 -0500
 categories: judgemental
-published: true
+published: false
 ---
 
 If you accuse someone of being judgemental and they have never personally attacked you, then you have become the very thing that you hate. [Here is some educational material.](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) That concludes this ministries shortest article.
