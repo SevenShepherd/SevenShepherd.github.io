@@ -1,18 +1,20 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:45:00 -0500
+date: 2023-05-08 02:50:00 -0500
 categories: tulip limited atonement
 published: true
 ---
 
 <!-- Reformed theology (orthodox Calvinism) has a minority moderate stance, colloquially known as moderate Calvinism. This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this position than Dr. Ron Rhodes. -->
 
-Reformed theology, or orthodox Calvinism, posits a minority moderate position, often referred to as moderate Calvinism. This nuanced perspective deviates from the conventional doctrine of limited atonement and instead favors a libertarian conception of free will, as opposed to the prevailing view of [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55). In this regard, there are few individuals better equipped than Dr. Ron Rhodes to articulate and defend this stance with precision and clarity.
+Reformed theology contains a majority position known as orthodox Calvinism, and a minority view which posits a moderate position, often referred to as moderate Calvinism. This nuanced perspective deviates from the conventional doctrine of limited atonement and instead favors a libertarian conception of free will, as opposed to the prevailing view of [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55). In this regard, there are few individuals better equipped than Dr. Ron Rhodes to articulate and defend this stance with precision and clarity.
 
 <!-- Reformed theology (orthodox Calvinism / [infralapsarianism](https://carm.org/dictionary/infralapsarianism/)) has a minority moderate stance, colloquially known as moderate Calvinism (sublapsarianism). This stance takes issue with limited atonement and favors a libertarian view of free will, instead of a [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55) view of free will. I can think of no one better to defend and delineate this stance than Dr. Ron Rhodes. -->
 
 > My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+
+As for who will defend the majority orthodox Calvinist position, I will be pulling from a wide body of <a href="#cite">sources</a> to verify if Rhodes has been answered. Although, I think Sproul is more than enough on his own.
 
 <span style="font-size:2.1em">🌷 Freedom Of Inclination</span>
 
