@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "⚠️ Any Theology That Turns The Grace Of Our God Into A License For Sin Is Heretical"
-date: 2023-05-08 02:00:00 -0500
+title: "⚠️ The Dangers Of Antinomianism And The Abuse Of Gods Grace"
+date: 2023-05-08 02:10:00 -0500
 categories: heresy cults
-published: true
+published: false
 ---
 
-<!-- Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretic, And Marked Out For Condemnation. -->
+<!-- Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretical, And Marked Out For Condemnation. -->
 
 <!-- An antinomian and heretical theology is one that perverts God's grace by turning it into a license for sin, and its promoters are marked out for condemnation. -->
 
