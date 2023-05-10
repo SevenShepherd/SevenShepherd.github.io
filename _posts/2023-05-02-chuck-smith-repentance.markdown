@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 02:00:00 -0500
+date: 2023-05-02 02:10:00 -0500
 categories: repent repentance chuck smith
 published: true
 ---
@@ -100,9 +100,9 @@ Furthermore, the use of the verb metanoeo in the NT differs from that in the OT,
 >
 Repentance is the appropriate response to the nearness of the kingdom of God. John the Baptist calls people to "repent for the kingdom of heaven is near" (Mt. 3:2). After announcing the arrival of the kingdom, Jesus calls, "Repent and believe in the gospel" (Mk. 1:15). The apostolic preaching in Acts urges people to repent as a response to the death and resurrection of Jesus, and is associated with baptism (Acts 2:38).
 >
-Repentance goes hand in hand with the forgiveness of sin when one becomes a Christian. Repentance is for sinners (Lk. 15:7). John the Baptist preached "a baptism of repentance for the forgiveness of sins" (3:3). Jesus told his disciples that "repentance and forgiveness of sins" must be preached to every nation, beginning in Jerusalem (24:47). Peter fulfills this commission by calling his hearers to **"repent ... and turn to God, so that your sins may be wiped out" (Acts 3:19; also 5:31; ll:18; 21:21)**. God's patience in holding back judgment is intended to lead people to repentance and a secure salvation (Rom. 2:4; 2Pet. 3:9). Moreover, repentance should mark the life of the Christian, for Jesus warns the churches in Revelation to repent (Rev. 2:5,16; 3:3, 19).
+Repentance goes hand in hand with the forgiveness of sin when one becomes a Christian. Repentance is for sinners (Lk. 15:7). John the Baptist preached "a baptism of repentance for the forgiveness of sins" (3:3). Jesus told his disciples that "repentance and forgiveness of sins" must be preached to every nation, beginning in Jerusalem (24:47). Peter fulfills this commission by calling his hearers to **"repent ... and turn to God, so that your sins may be wiped out" (Acts 3:19; also Ac 5:31; 11:18; 21:21)**. God's patience in holding back judgment is intended to lead people to repentance and a secure salvation (Rom. 2:4; 2Pet. 3:9). Moreover, repentance should mark the life of the Christian, for Jesus warns the churches in Revelation to repent (Rev. 2:5,16; 3:3, 19).
 >
-An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. See NIDNTT-A,367.
+An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because **it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him.** See NIDNTT-A,367.
 
 <a name="amg-concise" href="#contents" style="font-size:1.6em;">2.2 AMG Concise Bible Dictionary</a>
 
