@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚠️ The Heresy Of Antinomianism And The Dangers Of Abusing The Grace Of God By Using It As A License To Sin"
-date: 2023-05-08 02:47:47 -0500
+title: "⚠️ The Heresy Of Antinomianism And The Dangers Of Abusing The Grace Of Our God By Using It As A License To Sin"
+date: 2023-05-08 02:50:50 -0500
 categories: heresy cults
 published: true
 ---
