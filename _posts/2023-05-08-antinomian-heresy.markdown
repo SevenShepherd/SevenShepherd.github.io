@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "⚠️ The Heresy Of Antinomianism And The Dangers Of Abusing The Grace Of God By Using It As A License To Sin"
-date: 2023-05-08 02:25:00 -0500
+date: 2023-05-08 02:47:47 -0500
 categories: heresy cults
 published: true
 ---
 
-<!-- Any Theology That Turns The Grace Of Our God Into A License For Sin Is Antinomian, Heretical, And Marked Out For Condemnation. -->
 
 <!-- An antinomian and heretical theology is one that perverts God's grace by turning it into a license for sin, and its promoters are marked out for condemnation. -->
 
@@ -81,6 +80,9 @@ All sins can be forgiven men except [blasphemy against the Holy Spirit](https://
 <!-- > “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin” &mdash; Mark 3:28–29 ESV -->
 
 > Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., University of Oxford). 88. UNPARDONABLE SIN - **Only Impenitence Cannot Be Forgiven**</a>
+
+It should be clear that any theology that turns the Grace of our God into a license to sin is antinomian, heretical, and marked out for condemnation.
+
 
 <!-- Mark 12:24 -->
 
