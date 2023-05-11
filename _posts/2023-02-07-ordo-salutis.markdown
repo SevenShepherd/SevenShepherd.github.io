@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:25:00 -0500
+date: 2023-02-02 5:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -877,7 +877,7 @@ Sequence of salvation
 > As Charles Ryrie correctly observed, "every Christian will bear fruit; **otherwise he or she is not a true believer**." For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Norman Geisler, Four Views On Eternal Security. p. 105. 
 
 [⚠️ Repentance](https://sevenshepherd.github.io/repent/)<br>
-[✅ Monergistic](https://carm.org/dictionary/monergism/)
+[❔ Monergistic](https://carm.org/dictionary/monergism/)
 
 <!-- The world, not only to the elect, not likely everyone in the world. -->
 
@@ -907,7 +907,7 @@ Chart supplied by Moderate Calvinist Norman Geisler, Systematic Theology Vol. 3 
 
 <a name="geisler" href="#contents" style="font-style:Italic;font-size:2.1em;color:Black;">Norman Geisler</a>
 
-Norman Geisler (M.A., Theology at Wheaton) was a well known Moderate Calvinist. His theology is sound at times and unsound at othertimes, but overall bad. Ron Rhodes seems to be a much more doctrinally sound 4-point calvinist than geisler. Norman argues for synergism which is what the cults are into so be warned.
+Norman Geisler (M.A., Theology at Wheaton) was a well known Moderate Calvinist. Geisler's education included a Th.B. (1964) from William Tyndale College, B.A. in philosophy (1958) and M.A. in theology (1960) from Wheaton College, and a Ph.D. in philosophy from Loyola University. This ministry recognizes him to be at a similar level of accomplishment to John Macarthur, as neither of the have earned doctorates in theology. Geisler's theology is sound at times and unsound at othertimes. Ron Rhodes seems to be a much more doctrinally sound 4-point calvinist than Geisler. Norman argues agaist monergism, the opposite being synergism, which is what the cults are into so be warned.
 
 > ... biblical, theological, and historical evidence favors the **moderate Calvinist** view. &mdash; Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 5.
 
