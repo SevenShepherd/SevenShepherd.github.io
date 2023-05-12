@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:10:10 -0500
+date: 2023-05-12 01:15:15 -0500
 categories: sin practice
 published: true
 ---
@@ -13,21 +13,21 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
     - 1.1.1 <a href="#studies">Study Bibles</a>
         - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
     - 1.1.2 <a href="#scholars">Biblical Scholars</a>
-        - 1.1.2.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
-        - 1.1.2.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
-        - 1.1.2.3 <a href="#carson">Dr. Carson (Ph.D., Cambridge)</a>
-        - 1.1.2.4 <a href="#horton">Dr. Horton (Ph.D., Oxford)</a>
-        - 1.1.2.5 <a href="#wallace">Dr. Wallace (Ph.D., Dallas)</a>
-        - 1.1.2.6 <a href="#mounce">Dr. Mounce (Ph.D., Aberdeen)</a>
-        - 1.1.2.7 <a href="#sproul">Dr. Sproul (Ph.D., Whitefield)</a>
-        - 1.1.2.8 <a href="#piper">Dr. Piper (D.Theol., Munich)</a>
-        - 1.1.2.9 <a href="#piper">Dr. Lawson (D.Min., RTS)</a>
-        - 1.1.2.10 <a href="#rhodes">Dr. Rhodes (Th.D., Dallas)</a>
-        - 1.1.2.11 <a href="#geisler">Dr. Geisler (Ph.D., Loyola)</a>
-        - 1.1.2.12 <a href="#turek">Dr. Turek (D.Min., SES)</a>
-        - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (Ph.D., Trinity Southwest)</a>
+        - 1.1.2.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge)</a>
+        - 1.1.2.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
+        - 1.1.2.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
+        - 1.1.2.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
+        - 1.1.2.5 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
+        - 1.1.2.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
+        - 1.1.2.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
+        - 1.1.2.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
+        - 1.1.2.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+        - 1.1.2.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
+        - 1.1.2.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
+        - 1.1.2.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
+        - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity Southwest)</a>
     - 1.1.3 <a href="#pastors">Pastors</a>
-        - 1.1.3.1 <a href="#smith">Chuck Smith (B.A., LBC)</a>
+        - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
         - 1.1.3.2 <a href="#graham">Billy Graham</a>
 
 
