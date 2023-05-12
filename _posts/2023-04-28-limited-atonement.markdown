@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 02:50:00 -0500
+date: 2023-05-08 03:00:00 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -168,7 +168,9 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="horton" href="#contents">14</a></sup> [**Dr. Michael S. Horton**](https://youtu.be/_COhpzxavI4) (Ph.D., Oxford) learned Biblical Hebrew and Koine Greek while studying under Meredith Kline at Westminster Seminary California for his M.A. Dr. Horton received his Ph.D. from Wycliffe Hall, Oxford through Coventry University and completed a research fellowship at Yale Divinity School. Dr. Horton has been the J. Gresham Machen Professor of Theology and Apologetics at Westminster Seminary California since 1998. He was ordained a deacon in the Reformed Episcopal Church. He was the president of Christians United for Reformation (CURE), he is also an ordained minister in the United Reformed Churches in North America (URCNA), has served at two churches in Southern California.
+<sup><a name="horton" href="#contents">14</a></sup> [**Dr. Michael S. Horton**](https://youtu.be/_COhpzxavI4) (Ph.D., Oxford) has been the J. Gresham Machen Professor of Theology and Apologetics at Westminster Seminary California since 1998. He learned Biblical Hebrew and Koine Greek while studying under Meredith Kline at Westminster Seminary California for his M.A. Dr. Horton received his Ph.D. from Wycliffe Hall, Oxford through Coventry University and completed a research fellowship at Yale Divinity School. 
+
+<!-- He was ordained a deacon in the Reformed Episcopal Church. He was the president of Christians United for Reformation (CURE), he is also an ordained minister in the United Reformed Churches in North America (URCNA), has served at two churches in Southern California. -->
 
 <span style="color:#A8A8A8;">---</span>
 
