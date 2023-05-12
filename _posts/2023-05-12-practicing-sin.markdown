@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:15:15 -0500
+date: 2023-05-12 01:20:15 -0500
 categories: sin practice
 published: true
 ---
@@ -25,7 +25,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
         - 1.1.2.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
         - 1.1.2.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
         - 1.1.2.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
-        - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity Southwest)</a>
+        - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
     - 1.1.3 <a href="#pastors">Pastors</a>
         - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
         - 1.1.3.2 <a href="#graham">Billy Graham</a>
@@ -68,10 +68,10 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 |True Saving Faith||
 |:-:|:-:|
-|<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
-|<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
-|<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works<br>Justification = Faith + Nothing</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
-|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a style="font-weight:bold;color:darkred">Legalism</a><br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a href="https://carm.org/dictionary/synergism/" style="font-weight:bold;color:darkred">Synergism</a><br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a href="https://carm.org/dictionary/monergism/" style="font-weight:bold;color:green">Monergism</a><br><a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
+|<a href="https://carm.org/dictionary/antinomianism/" style="font-weight:bold;color:darkred">Antinomianism</a><br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
 
 <!-- |True Saving Faith||
 |:-:|:-:|
