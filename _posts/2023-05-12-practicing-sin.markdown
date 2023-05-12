@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:00:00 -0500
+date: 2023-05-12 01:07:00 -0500
 categories: sin practice
 published: true
 ---
@@ -147,7 +147,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > Under Construction
 
-- <a name="mounce" href="#horton_cite" style="font-size:1.4em;">1.1.2.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
+- <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">1.1.2.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
     > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced)
     
@@ -172,7 +172,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > Under Construction
 
-- <a name="sproul" href="#sproul_cite" style="font-size:1.4em;">1.1.2.9 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
+- <a name="lawson" href="#lawson_cite" style="font-size:1.4em;">1.1.2.9 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
 
     > ... <span style="font-weight:bold;color:orangered;">you can say you know God but if you live a life in the pursuit of <span style="font-size:1.2em;color:red;">practicing</span> sin you have never been born again.</span> Now John is not saying that a christian can never sin, we all sin all right, but we don't love our sin and we're not pursuing our sin. We will occasionally fall into sin, but <span style="font-weight:bold;color:orangered;">the one who is living a life, a <span style="font-size:1.2em;color:red;">lifestyle</span>, of continually sinning has never been born again.</span> So it doesn't matter how many times you've walked an aisle, doesn't matter how many times you've prayed a prayer with a counselor, it doesn't matter how many times you've joined a church, <span style="font-weight:bold;color:orangered;">if your life doesn't match up with your profession of faith it calls into serious account the validity of your profession of faith in christ.</span> So to put it another way wherever there is the root of the new birth <span style="font-weight:bold;color:orangered;">there will always be the fruit of a changed life</span> and even Jesus said in matthew 7 verse 20 you will know them by their fruit you can know what's going on beneath the surface down in the ground where the root is by just examining the fruit and so that's the whole argument that John is making here. To put it another way, there is an inseparable connection between regeneration and sanctification, regeneration will always be evidenced in sanctification, which is a progressive growth into christ's likeness. &mdash; [Dr. Steven J. Lawson](https://www.youtube.com/live/YYTF8cTETzc?feature=share&t=628)
 
