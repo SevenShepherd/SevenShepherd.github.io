@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:30:30 -0500
+date: 2023-05-12 01:35:30 -0500
 categories: sin practice
 published: true
 ---
@@ -57,7 +57,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
 
 <a name="practice" href="#contents" style="font-size:2.1em;">I. True Christians Do Not Practice Sin</a>
 
-Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling with sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). Fact.
+Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling against sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). Fact.
 
 > &ldquo;*the faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience.*&rdquo; &mdash; [**Dr. R. C. Sproul**](hhttps://youtu.be/-HMb9YjRq8Q?t=703) (Ph.D., Whitefield Theological Seminary)
 
