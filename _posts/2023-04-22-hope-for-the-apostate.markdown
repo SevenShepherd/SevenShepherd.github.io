@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:47:47 -0500
+date: 2023-04-22 03:49:49 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -12,7 +12,7 @@ This article is under construction. Refresh weekly for updates.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/0vgF6UMdm6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For those of you with this experience, I would encourage you to watch this video by [Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH) all the way through, even if the first part is difficult to hear, because the ultimate message is a reassuring one. Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He recommended the <a name="esvsb_notes" href="#esvsb_cite">ESV</a>, but primarily the <a name="net_notes" href="#net_cite">NET Full Notes</a> for study of text critical issues.
+For those of you with this experience, I would encourage you to watch this video by [Dr. Michael S. Heiser (Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH) all the way through, even if the first part is difficult to hear, because the ultimate message is a reassuring one. Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He recommended the <a name="esvsb_notes" href="#esvsb_cite">ESV</a>, but primarily the <a name="net_notes" href="#net_cite">NET Full Notes</a> for study of text critical issues.
 
 <!-- For those of you with this experience, I would encourage you to watch this video by [Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH) all the way through, even if the first part is difficult to hear, because the ultimate message is a reassuring one. Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He recommended the [ESV](https://amzn.to/3WsN0Uw), but primarily the [NET Full Notes](https://amzn.to/3WLAgbr) for study of text critical issues. -->
 
@@ -29,7 +29,8 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
         - 1.1.3 <a href="#enlightened">Once Been Enlightened</a>
         - 1.1.4 <a href="#tasted">Tasted The Heavenly Gift</a>
         - 1.1.5 <a href="#shared">Shared In The Holy Spirit</a>
-        - 1.1.6 <a href="#restore">Restore Again To Repentance</a>
+        - 1.1.6 <a href="#tasted2">Tasted The Goodness... Powers...</a>
+        - 1.1.7 <a href="#restore">Restore Again To Repentance</a>
     - 1.2 <a href="#heb6:7-8">Hebrews 6:7-8</a>
         - 1.2.1 <a href="#Thorns and Thistles">Thorns and Thistles</a>
         - 1.2.2 <a href="#fate-burned">Its Fate Is To Be Burned</a>
@@ -101,7 +102,7 @@ While Heiser's explanation sounds a bit synergistic, the remainder of this artic
 
     > Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., University of Oxford). 88. UNPARDONABLE SIN - **Only Impenitence Cannot Be Forgiven**</a>
 
-    It's important to understand that Repentance *"is a divine enablement"*<sup><a href="#demarest">11</a></sup> and not a human action. In fact it is the absence of action; once you were practicing sin (1Jn 3:9-10)<sup><a href="#esvsb_cite">1</a></sup>, now you're no longer *"living in a continual pattern"*<sup><a href="#esvsb_cite">1</a></sup> because God granted you a contrite heart (2Ti 2:25 NET) and genuine faith (Phil 1:29 NET; 2Cor. 13:5). The sinners prayer and walking down an aisle x amount of times, could however, be a work. Do not rely on your works for salvation, but on the Grace of God through faith.
+    It's important to understand that Repentance *"is a divine enablement"*<sup><a href="#demarest">11</a></sup> and not a human action. In fact it is the absence of action; once you were practicing sin (1Jn 3:9-10)<sup><a href="#esvsb_cite">1</a></sup>, now you're no longer *"living in a continual pattern"*<sup><a href="#esvsb_cite">1</a></sup> because God granted you a contrite heart (Ac 11:18; 2Ti 2:25 NET) and genuine faith (Phil 1:29 NET; 2Cor. 13:5). The sinners prayer and walking down an aisle x amount of times, could however, be a work. Do not rely on your works for salvation, but on the Grace of God through faith.
     
     <!-- It is God who grants repentance (2Ti 2:25 NET) and faith (Phil 1:29 NET), so ask him. -->
 
@@ -136,7 +137,11 @@ If you do feel contrite and are struggling but progressively winning your battle
 
     > Ephesians 5:7 uses a closely related word (symmetochos, a compound of metochos and the preposition syn [”with”]) when Paul warns Christians about the sinful acts of unbelievers and says, “do not associate with them” (Eph. 5:7). He is not concerned that their total nature will be transformed by the unbelievers, but simply that they will associate with them and have their own witness compromised and their own lives influenced to some degree by them. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
-- <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Restore Again To Repentance</a>
+- <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Tasted The Goodness Of The Word Of God And The Powers Of The Age To Come</a>
+
+    > Under Construction
+
+- <a name="restore" href="#contents" style="font-size:1.6em;">1.1.7 Restore Again To Repentance</a>
 
     > Finally, the text says that it is impossible “to restore again to repentance” people who have experienced these things and have then committed apostasy. Some have argued that if this is a repentance to which they need to be restored again, then it must be genuine repentance. But this is not necessarily the case. First, we must realize that “repentance” (Gk. metanoia) does not need to refer to inward heart repentance unto salvation. ... &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
     
