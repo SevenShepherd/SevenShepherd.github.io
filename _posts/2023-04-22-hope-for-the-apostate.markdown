@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "❤️‍🩹 Is There Any Hope For The Apostate? Yes!"
-date: 2023-04-22 03:49:49 -0500
+title: "💔 Is There Any Hope For The Apostate? Yes!"
+date: 2023-04-22 03:50:50 -0500
 categories: apostate apostasy
 published: true
 ---
@@ -29,7 +29,7 @@ Bare in mind, this passage is NT so I would say when It comes to Koine Greek we 
         - 1.1.3 <a href="#enlightened">Once Been Enlightened</a>
         - 1.1.4 <a href="#tasted">Tasted The Heavenly Gift</a>
         - 1.1.5 <a href="#shared">Shared In The Holy Spirit</a>
-        - 1.1.6 <a href="#tasted2">Tasted The Goodness... Powers...</a>
+        - 1.1.6 <a href="#tasted2">Tasted The Goodness / Pow.</a>
         - 1.1.7 <a href="#restore">Restore Again To Repentance</a>
     - 1.2 <a href="#heb6:7-8">Hebrews 6:7-8</a>
         - 1.2.1 <a href="#Thorns and Thistles">Thorns and Thistles</a>
@@ -137,7 +137,7 @@ If you do feel contrite and are struggling but progressively winning your battle
 
     > Ephesians 5:7 uses a closely related word (symmetochos, a compound of metochos and the preposition syn [”with”]) when Paul warns Christians about the sinful acts of unbelievers and says, “do not associate with them” (Eph. 5:7). He is not concerned that their total nature will be transformed by the unbelievers, but simply that they will associate with them and have their own witness compromised and their own lives influenced to some degree by them. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., Cambridge)</a> <sup><a href="#grudem">9</a></sup>
 
-- <a name="restore" href="#contents" style="font-size:1.6em;">1.1.6 Tasted The Goodness Of The Word Of God And The Powers Of The Age To Come</a>
+- <a name="tasted2" href="#contents" style="font-size:1.6em;">1.1.6 Tasted The Goodness Of The Word Of God And The Powers Of The Age To Come</a>
 
     > Under Construction
 
