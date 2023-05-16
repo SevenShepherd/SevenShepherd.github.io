@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:40:00 -0500
+date: 2023-02-02 5:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -486,16 +486,23 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 I have placed Lordship Salvation below Free Grace Theology because it may be a fabricated term by them, as historical protestant theologies have always stated that faith alone (*"sola fide"*) naturally results in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism; however, lordship salvation may be a concern and distinct from any other theology listed in this article, let's look at some concerns.
 
+|True Saving Faith||
+|:-:|:-:|
+|<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
+|<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
+|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
+
 <!-- > I believe saving faith will **result** in obedience... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster) Historical Protestant Position](https://amzn.to/3k3gESD) -->
 
-|||
+<!-- |||
 |:-:|:-:|
 |Legalism<br><span style="font-weight:bold;color:darkred;">False</span>|`Works = Justification`<br>Pharisees and Judaizers|
 |[Synergism](https://carm.org/dictionary/synergism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith + Works = Justification`<br>Cults & [Watchtowerites](https://carm.org/jehovahs-witnesses/jehovahs-witness-are-really-watchtowerites/) <br>Roman Catholicism<br>Arminian/Wesleyan Holiness|
 |Grey Zone closer to synergism|**"Lordship Salvation"**|
 |[Monergism](https://carm.org/dictionary/monergism/)<br><span style="font-weight:bold;color:green;">True</span>|`Faith = Justification + Works`<br>**Historic Protestant Christianity**<br>Augustinianism / Reformed<br>Lutheran<br>Evangelical<br>Amyraldian|
 |Grey Zone closer to antinomianism|**"Free Grace" Theology**|
-|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`|
+|[Antinomianism](https://carm.org/dictionary/antinomianism/)<br><span style="font-weight:bold;color:darkred;">False</span>|`Faith = Justification - Works`| -->
 
 <!-- <br>Augustinianism / Calvinism<br> -->
 
@@ -509,7 +516,7 @@ I have placed Lordship Salvation below Free Grace Theology because it may be a f
 
 <!-- <br>Augustinianism / Calvinism<br> -->
 
-The reason I describe both lordship salvation and chaferanism ("free grace" theology) in grey zones is because they may allow for the possibility to fall into heresy and false assurance, not that they always do. Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
+Here are the questions that you should ask yourself to see if you're within the bounds of sound doctrine:
 
 1. Does true saving faith ***include*** obedience or ***result*** in obedience?
     - If you said *"includes"* you're not historical in your Christianity as no historic Protestant confession says that saving faith includes obedience. The safe answer is that it naturally *"results"* in obedience to God and good deeds after justification leading to a life devoid of hypocrisy and antinomianism.
