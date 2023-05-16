@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 01:30:30 -0500
+date: 2023-05-16 01:40:30 -0500
 categories: baptism
 published: true
 ---
@@ -20,12 +20,15 @@ published: true
         - 3.1.1 <a href="#btsb_commentary">NIV Biblical Theology Study</a>
         - 3.1.2 <a href="#esvsb_commentary">ESV Study Bible</a>
         - 3.1.3 <a href="#logos_commentary">LOGOS Faithlife Study</a>
+        - 3.1.4 <a href="#net_commentary">NET Full Notes</a>
 - IV. <a href="#two">Two Different Baptisms</a>
     - 4.1 <a href="#Acts19:2-5">Acts 19:2-5</a>
-- V. <a href="#mark">Longer Ending Of Mark</a>
-    - 5.1 <a href="#mss">Missing From Oldest MSS</a>
-    - 5.2 <a href="#condemned">Never Says We're Condemned</a>
-- VI. <a href="#conclusion">Conclusion</a>
+- V. <a href="#sin">There's Only 1 Unforgivable Sin</a>
+    - 5.1 <a href="#Mk3:28–29">Mark 3:28–29</a>
+- VI. <a href="#mark">Longer Ending Of Mark</a>
+    - 6.1 <a href="#mss">Missing From Oldest MSS</a>
+    - 6.2 <a href="#condemned">Never Says We're Condemned</a>
+- VII. <a href="#conclusion">Conclusion</a>
 
 
 <a name="faith" href="#contents" style="font-size:2.1em">🔥 I. You're Saved At The Point Of Genuine Faith</a>
@@ -70,6 +73,17 @@ The context is imperative. It is crystal clear that Jesus expects Nicodemus to u
     > **3:5 born of water and spirit** Jesus elaborates on the meaning of being born from above in v. 3, <span style="font-weight:bold;color:GoldenRod;">emphasizing the need for <span style="font-size:1.2em;color:Gold;">spiritual birth</span></span> (see note on v. 3). The ot overtones of the Greek phrase used here, literally rendered as “born of water and spirit,” are meant to make Nicodemus realize that Jesus is inaugurating the age of renewal anticipated by the ot prophets (Joel 2:28; Isa 32:15; 44:3; Ezek 11:19–20; 36:25–27). In this regard, Ezek 36:25–27 clearly combines the imagery of cleansing by water with inner renewal by the spirit (pneuma) from God.
     >> Interpretations of this verse often attempt to connect Jesus’ statement with some type of water baptism, understanding references to both physical and spiritual rebirth symbolized by baptism. The phrase “born of water and spirit” could refer to two births, since John 3:6 contrasts being born of the flesh with being born of the Spirit. However, a reference to the Christian sacrament of baptism is unlikely. The mention of water, though, may allude to John’s baptism, which emphasizes repentance from sin. The danger with understanding “born of water” as a reference to water baptism is that it could be misconstrued as making baptism a requirement for salvation. <span style="font-weight:bold;color:orangered;">Any secondary implications about water baptism should be understood as symbolic of spiritual rebirth, <span style="font-size:1.2em;color:red;">not as a necessary part of salvation</span>.</span> &mdash; <a href="#logos_cite">LOGOS Faithlife Study Bible<sup>4</sup></a>
 
+- <a name="net_commentary" href="#contents" style="font-size:1.6em">3.1.4 NET Bible: Full Notes Edition</a>
+
+    > <sup style="font-weight:bold;">5</sup> Jesus answered, “I tell you the solemn truth, unless a person is born of water and spirit,<sup style="font-weight:bold;">[b]</sup> he cannot enter the kingdom of God. <sup style="font-weight:bold;">6</sup> What is born of the flesh is flesh, and what is born of the Spirit is spirit. <sup style="font-weight:bold;">7</sup> Do not be amazed that I said to you, ‘You must all be born from above.’ <sup style="font-weight:bold;">8</sup> The wind blows wherever it will, and you hear the sound it makes, but do not know where it comes from and where it is going. So it is with everyone who is born of the Spirit.” <sup style="font-weight:bold;">9</sup> Nicodemus replied, “How can these things be?”<sup style="font-weight:bold;">[i]</sup> <sup style="font-weight:bold;">10</sup> Jesus answered, “Are you the teacher of Israel and yet you don’t understand these things?<sup style="font-weight:bold;">[k]</sup>
+
+    >> **b.** John 3:5 tn Or “born of water and wind” (the same Greek word, πνεύματος <span style="font-weight:bold;">[pneumatos]</span>, may be translated either “spirit/Spirit” or “wind”). sn Jesus’ somewhat enigmatic statement points to <span style="font-weight:bold;color:orangered;">the necessity of being <span style="font-size:1.2em;color:red;">born “from above,”</span> because water and wind/spirit/Spirit come from above.</span> Isaiah 44:3-5 and Ezek 37:9-10 are pertinent examples of water and wind as life-giving symbols of the Spirit of God in his work among people. Both occur in contexts that deal with the future restoration of Israel as a nation prior to the establishment of the messianic kingdom. It is therefore particularly appropriate that Jesus should introduce them in a conversation about entering the kingdom of God. Note that the Greek word πνεύματος is anarthrous (has no article) in v. 5. This does not mean that spirit in the verse should be read as a direct reference to the Holy Spirit, but that both water and wind are figures (based on passages in the OT, which Nicodemus, the teacher of Israel should have known) that represent the regenerating work of the Spirit in the lives of men and women. &mdash; <a href="#net_cite">Net Bible Full Notes Edition<sup>2</sup></a> [[online]](https://www.biblegateway.com/passage/?search=John+3%3A5-10&version=NET)
+
+    >> **i.** John 3:9 sn “How can these things be?” is Nicodemus’ answer. <span style="font-weight:bold;color:orangered;">It is clear that at this time he has still not grasped what Jesus is saying.</span> Note also that this is the last appearance of Nicodemus in the dialogue. Having served the purpose of the author, at this point he disappears from the scene. As a character in the narrative, he has served to illustrate the prevailing Jewish misunderstanding of Jesus’ teaching about <span style="font-weight:bold;color:orangered;">the necessity of a <span style="font-size:1.2em;color:red;">new, spiritual birth from above</span>.</span> Whatever parting words Nicodemus might have had with Jesus, the author does not record them.
+
+    >> **k.** John 3:10 sn Jesus’ question “Are you the teacher of Israel and yet you don’t understand these things?” implies that <span style="font-weight:bold;color:orangered;">Nicodemus had enough information at his disposal from the OT scriptures to have understood Jesus’ statements about the necessity of being <span style="font-size:1.2em;color:red;">born from above by the regenerating work of the Spirit</span>.</span> Isa 44:3-5 and Ezek 37:9-10 are passages Nicodemus might have known which would have given him insight into Jesus’ words. Another significant passage which contains many of these concepts is Prov 30:4-5.
+
+
 <a name="two" href="#contents" style="font-size:2.1em">🔥 IV. Two Different Baptisms</a>
 
 It is clear that scripture speaks of two different baptisms (Mt 3:11; Ac 1:5). 
@@ -78,19 +92,27 @@ It is clear that scripture speaks of two different baptisms (Mt 3:11; Ac 1:5).
 
     > <sup style="font-weight:bold;">2</sup> And he said to them, “Did you receive the Holy Spirit when you believed?” And they said, “No, we have not even heard that there is a Holy Spirit.” <sup style="font-weight:bold;">3</sup> And he said, “Into what then were you baptized?” They said, “Into John's baptism.” <sup style="font-weight:bold;">4</sup> And Paul said, “John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus.” <sup style="font-weight:bold;">5</sup> On hearing this, they were baptized in the name of the Lord Jesus. &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
 
-<a name="mark" href="#contents" style="font-size:2.1em">🔥 V. The Longer Ending Of Mark</a>
+<a name="two" href="#contents" style="font-size:2.1em">🔥 V. There's Only One Unforgivable Sin</a>
+
+There's only one unpardonable, unforgivable, eternal sin, and it's not failing to get baptized (Matt. 12:31-32; Mk 3:28–29; Heb. 6:4-8; 10:26-31). It is the sin of impenitence.
+
+- <a name="Mk3:28–29" href="#contents" style="font-size:1.6em">5.1 Mark 3:28–29</a>
+
+    > <sup style="font-weight:bold;">28</sup> “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, <sup style="font-weight:bold;">29</sup> but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin” &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a> 
+
+<a name="mark" href="#contents" style="font-size:2.1em">🔥 VI. The Longer Ending Of Mark</a>
 
 It's evident that whether or not the longer ending of mark is a legitimate part of the bible or not, no point of doctrine is affected by the absence or presence of vv. 9–20.<sup><a href="#esvsb_cite">1</a></sup>
 
-- <a name="mss" href="#contents" style="font-size:1.6em">5.1 Missing From Oldest Manuscripts</a>
+- <a name="mss" href="#contents" style="font-size:1.6em">6.1 Missing From Oldest Manuscripts</a>
 
     > MARK—NOTE ON 16:9–20 “Longer Ending of Mark.” Some ancient manuscripts of Mark’s Gospel contain these verses and others do not, which presents a puzzle for scholars who specialize in the history of such manuscripts. This longer ending is missing from various old and reliable Greek manuscripts (esp. Sinaiticus and Vaticanus), as well as numerous early Latin, Syriac, Armenian, and Georgian manuscripts. <span style="font-weight:bold;color:GoldenRod;"><span style="font-size:1.2em;color:Gold;">Early church fathers</span> (e.g., Origen and Clement of Alexandria) <span style="font-size:1.2em;color:Gold;">did not</span> appear to <span style="font-size:1.2em;color:Gold;">know of these verses</span>.</span> <span style="font-weight:bold;color:GoldenRod;">Eusebius and Jerome state that this section is missing in most manuscripts available at their time.</span> <span style="font-weight:bold;color:GoldenRod;">And some manuscripts that contain vv. 9–20 indicate that older manuscripts lack the section.</span> On the other hand, some early and many later manuscripts (such as the manuscripts known as A, C, and D) contain vv. 9–20, and many church fathers (such as Irenaeus) evidently knew of these verses. As for the verses themselves, <span style="font-weight:bold;color:orangered;">they contain various Greek words and expressions <span style="font-size:1.2em;color:red;">uncommon to Mark</span>, and there are <span style="font-size:1.2em;color:red;">stylistic differences</span> as well.</span> Many think this shows vv. 9–20 to be a <span style="font-weight:bold;color:GoldenRod;">later addition</span>. In summary, vv. 9–20 should be read with caution. As in many translations, the editors of the esv have placed the section within brackets, showing their doubts as to whether it was originally part of what Mark wrote, but also recognizing its long history of acceptance by many in the church. The content of vv. 9–20 is best explained by reference to other passages in the Gospels and the rest of the NT. (Most of its content is found elsewhere, and no point of doctrine is affected by the absence or presence of vv. 9–20.) With particular reference to v. 18, <span style="font-weight:bold;color:GoldenRod;">there is no command to pick up serpents or to drink deadly poison</span>; there is merely a promise of protection as found in other parts of the NT (see Acts 28:3–4; James 5:13–16). (See The Reliability of the New Testament Manuscripts.) &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
 
-- <a name="condemned" href="#contents" style="font-size:1.6em">5.2 Never Says We’re Condemned</a>
+- <a name="condemned" href="#contents" style="font-size:1.6em">6.2 Never Says We’re Condemned</a>
 
     > ... whoever does not believe will be condemned.&rdquo; ... The very evident answer to this is simply to say that the verse <span style="font-weight:bold;color:orangered;">says nothing about those who believe <span style="font-size:1.2em;color:red;">and are not baptized</span></span>. &mdash; <a href="#grudem">Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)<sup>9</sup></a>
 
-<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 VI. Conclusion</a>
+<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 VII. Conclusion</a>
 
 It is abundantly clear that baptism is not a requirement of salvation. Our obedience&mdash;water baptism, prayer, good works, fellowship, witnessing, etc.&mdash;issues forth from our faith in Christ. This is why Reformed theology stresses that true saving faith always **results** in obedience and good works **after justification**. We do not say that it **includes** obedience, because that would be works righteousness and no one will make it to heaven based on their own merits (Eph. 2:8-10; Gal. 2:21;5:4; Rom 3:20,28; Gal 2:16; 3:10-12). *Sola fide.*
 
