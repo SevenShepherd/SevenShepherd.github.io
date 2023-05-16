@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 01:45:30 -0500
+date: 2023-05-16 01:50:50 -0500
 categories: baptism
 published: true
 ---
@@ -21,6 +21,7 @@ published: true
         - 3.1.2 <a href="#esvsb_commentary">ESV Study Bible</a>
         - 3.1.3 <a href="#logos_commentary">LOGOS Faithlife Study</a>
         - 3.1.4 <a href="#net_commentary">NET Full Notes</a>
+        - 3.1.5 <a href="#exb_commentary">Expanded Bible</a>
 - IV. <a href="#two">Two Different Baptisms</a>
     - 4.1 <a href="#Acts19:2-5">Acts 19:2-5</a>
 - V. <a href="#sin">There's Only 1 Unforgivable Sin</a>
@@ -83,6 +84,9 @@ The context is imperative. It is crystal clear that Jesus expects Nicodemus to u
 
     >> **k.** John 3:10 sn Jesus’ question “Are you the teacher of Israel and yet you don’t understand these things?” implies that <span style="font-weight:bold;color:orangered;">Nicodemus had enough information at his disposal from the OT scriptures to have understood Jesus’ statements about the necessity of being <span style="font-size:1.2em;color:red;">born from above by the regenerating work of the Spirit</span>.</span> Isa 44:3-5 and Ezek 37:9-10 are passages Nicodemus might have known which would have given him insight into Jesus’ words. Another significant passage which contains many of these concepts is Prov 30:4-5. &mdash; <a href="#net_cite">Net Bible Full Notes Edition<sup>2</sup></a> [[online]](https://www.biblegateway.com/passage/?search=John+3%3A5-10&version=NET)
 
+- <a name="exb_commentary" href="#contents" style="font-size:1.6em">3.1.5 Expanded Bible</a>
+
+    > <sup style="font-weight:bold;">5</sup> But Jesus answered, “·I tell you the truth <span style="color:#A8A8A8;">[<sup>L</sup> Truly, truly I say to you]</span>, unless you are born from water and the Spirit <span style="color:#A8A8A8;">[<sup>C</sup> <span style="font-weight:bold;color:orangered;">equivalent to being born again (Jn 3:3)</span>; water could symbolize physical birth, but more likely symbolizes spiritual cleansing which brings renewal; Ezek. 36:25–27]</span>, you cannot enter God’s kingdom. <sup style="font-weight:bold;">6</sup> ·Human life comes from human parents <span style="color:#A8A8A8;">[<sup>L</sup> That which is born of the flesh is flesh; <sup>C</sup> flesh here means human nature]</span>, but ·spiritual life comes from the Spirit [<sup>L</sup> that which is born of the Spirit is spirit]. <sup style="font-weight:bold;">7</sup> Don’t be ·surprised <span style="color:#A8A8A8;">[amazed; astonished]</span> when I tell you, ‘You <span style="color:#A8A8A8;">[<sup>C</sup> plural, referring to the Jews or the Jewish leaders]</span> must be born ·again <span style="color:#A8A8A8;">[or from above; 3:3]</span>.’ <sup style="font-weight:bold;">8</sup> The wind <span style="color:#A8A8A8;">[<sup>C</sup> one word means both “wind” and “spirit” in Greek]</span> blows where it wants to and you hear the sound of it, but you don’t know where the wind comes from or where it is going. It is the same with every person who is born from the Spirit.” <span style="color:#A8A8A8;">[<sup>C</sup> We cannot comprehend or control the Spirit, but we experience his effect.]</span> <sup style="font-weight:bold;">9</sup> Nicodemus ·asked <span style="color:#A8A8A8;">[replied]</span>, “How can this ·happen <span style="color:#A8A8A8;">[be]</span>?” <sup style="font-weight:bold;">10</sup> Jesus ·said <span style="color:#A8A8A8;">[replied; answered]</span>, “You are ·an important teacher in Israel <span style="color:#A8A8A8;">[<sup>L</sup> the teacher of Israel]</span>, and you don’t ·understand <span style="color:#A8A8A8;">[know]</span> these things? &mdash; <a name="exb_cite" href="#contents">Expanded Bible <sup>3</sup></a>
 
 <a name="two" href="#contents" style="font-size:2.1em">🔥 IV. Two Different Baptisms</a>
 
