@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:45:00 -0500
+date: 2023-02-02 5:50:00 -0500
 categories: salvation
 published: true
 ---
@@ -330,11 +330,9 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 Amyraldism, Amyraldianism, moderate calvinism, or "four-point" calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
-> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
+> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms</span> moderate <span style="color:orangered;">Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
-❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
-
-> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
+> Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
 <!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
 
@@ -361,6 +359,12 @@ It's become evident that most experts in apologetics hold to a moderate calvinis
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
 See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance.
+
+❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
+
+> "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
+
+> The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin.
 
 ---
 
@@ -567,8 +571,12 @@ Free Grace Theology is a minority view among the faculty members at Dallas Theol
 
 > The order is a logical one. Man needs to see his state of sin, have proof of the righteousness that the Savior provides, and be reminded that if he refuses to receive that Savior he faces certain condemnation.
 
-[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). While it may be [monergistic](https://carm.org/dictionary/monergism/) ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"*?
-- If you said *"change of mind,"* in the sense of an intellectual assent to facts, you have deviated from historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
+> As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
+
+> As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
+
+[⚠️ Category mistakes in Greek surrounding the meaning of repentance](https://sevenshepherd.github.io/repent/). Ask yourself the following question: does repentance mean *"feel remorse, repent, be converted (in religio-ethical sense),"* or is it simply an intellectual assent to facts a *"change of mind"* a minor change of opinion?
+- If you said *"change of mind,"* in the sense of an intellectual assent to facts, you may be confusing etymology for meaning, or making a category mistake with the meaning. This would be a deviation from the academic community and historical Christianity. This meaning finds no support in any authoritative Greek lexicon, any modern English translation, and it is without scholarly support from the academic community, or any standard Greek reference work. *"Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it."* &mdash; Chuck Smith
 
 Correct definitions of [Repentance](https://bit.ly/3IchrbQ).
 
