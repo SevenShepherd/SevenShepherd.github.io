@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:35:00 -0500
+date: 2023-02-02 5:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -73,7 +73,7 @@ Reformed Theology (Less Limited Atonement). I have a great deal of respect for D
 
 <a href="#evangelical" style="font-style:Italic;font-size:1.4em;">III. Broadly Reformed Evangelicals</a>
 
-This group is broadly reformed in their theology, but has allowed small amounts of counter reformation Arminian-synergism to seep into their views.
+This group is broadly reformed in their theology, but has allowed trace amounts of counter reformation Arminian-synergism to seep into their views. This was where my origins were as a Christian and I still consider them to be a safe group. Chuck Smith and Jack were my first teachers and I still respect them deeply.
 
 <!-- but has allowed small amounts of counter reformation Arminian-synergism to seep into their views. While I deeply admire the attempt to unify believers, I disagree with their logic, because of the law of non-contradiction. This group represents my childhood, I have since completed my transformation into reformed theology, which wasn't that bif of a leap. -->
 
@@ -106,7 +106,7 @@ Arminian theology is a counter reformation that erroneously reintroduces synergi
 
 <!-- I tend to discount this group as too new to be historically time-tested or academically sound. Sola fide is the original Lordship position, so I don't think there should be a movement called Lordship Salvation. If they've deviated from Sola fide then they are a new movement. "Free Grace" theology really shouldn't exist either, their complete reinvention of the meaning of repentance is destructive and approaching heresy, in addition to that, every theology on this page believes that Grace is free. -->
 
-Lordship salvation is just a fabricated term that needs to go back to sola fide, the original Lordship position. Both of these groups should be disbanded and be reabsorbed and re-educated back into reformed theology. The reinvention of the meaning of [repentance](https://bit.ly/3IchrbQ) by 1980's ["free grace"](https://amzn.to/3k3gESD) has been rejected by the academic community. What does it profit you to allow carnality and deny Jesus as Lord and Master? (Jd 4 NET)
+Lordship salvation is just a fabricated term that needs to go back to sola fide, the original Lordship position. Both of these groups should be disbanded and reabsorbed back into reformed theology. The reinvention of the meaning of [repentance](https://bit.ly/3IchrbQ) by 1980's ["free grace"](https://amzn.to/3k3gESD) has been rejected by the academic community. What does it profit you to allow carnality and deny Jesus as Lord and Master? (Jd 4 NET)
 
 - 4.1 <a href="#lordship">Lordship Salvation</a>
     - 4.1.1 <a href="#macarthur">John MacArthur (D.D., Talbot)</a>
