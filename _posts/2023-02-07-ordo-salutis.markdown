@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:55:00 -0500
+date: 2023-02-02 6:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -26,21 +26,23 @@ This article only lists theologically conservative evangelical theologies. Theol
 
 The most academically sound and historically time-tested theology known to Christendom.
 
-- 1.1 Presbyterian / Calvinist
+- 1.1 Reformed (or Presbyterian)
     - 1.1.1 **Edwards (Pres., Princeton)**
     - 1.1.2 Hodge (Prof. & Prin., Princeton)
     - 1.1.3 Shedd (Prof., Three Universities)
     - 1.1.4 Dabney (Prof., Union)
     - 1.1.5 **Warfield (Prof. & Prin., Princeton)**
-    - 1.1.6 **Vos (Prof., Prin.; Ph.D., Strasburg)**
-    - 1.1.7 Murray (Prof., Westminister)
-    - 1.1.8 Reymond (Ph.D., Bob Jones)
-    - 1.1.9 <a href="#sproul" style="font-weight:bold;">Sproul (Ph.D., Whitefield)</a>
-    - 1.1.10 Letham (Ph.D., Aberdeen)
-    - 1.1.11 <a href="#wallace" style="font-weight:bold;">Wallace (Ph.D., Dallas)</a>
-    - 1.1.12 <a href="#horton">Horton (Ph.D., Oxford)</a>
-    - 1.1.13 Allen (Ph.D. Wheaton)
-    - 1.1.14 Swain (Ph.D. Trinity)
+    - 1.1.6 Bavinck (Prof., Kampen; Ph.D., Leiden)
+    - 1.1.7 Berkhof (Prof., Calvin)
+    - 1.1.8 **Vos (Prof., Prin.; Ph.D., Strasburg)**
+    - 1.1.9 Murray (Prof., Westminister)
+    - 1.1.10 Reymond (Ph.D., Bob Jones)
+    - 1.1.11 <a href="#sproul" style="font-weight:bold;">Sproul (Ph.D., Whitefield)</a>
+    - 1.1.12 Letham (Ph.D., Aberdeen)
+    - 1.1.13 <a href="#wallace" style="font-weight:bold;">Wallace (Ph.D., Dallas)</a>
+    - 1.1.14 <a href="#horton">Horton (Ph.D., Oxford)</a>
+    - 1.1.15 Allen (Ph.D. Wheaton)
+    - 1.1.16 Swain (Ph.D. Trinity)
 - 1.2 Charismatic Reformed Baptist
     - 1.2.1 <a href="#grudem" style="font-weight:bold;">Grudem (Ph.D., Cambridge, D.D. Westminister)</a>
     - 1.2.2 <a href="#carson" style="font-weight:bold;">Carson (Ph.D., Cambridge)</a>
@@ -55,9 +57,6 @@ The most academically sound and historically time-tested theology known to Chris
 - 1.5 Anglican w/ Reformed Soteriology
     - 1.5.1 <a href="#packer" style="font-weight:bold;">Packer (Ph.D., Oxford)</a>
     - 1.5.2 <a href="#bird">Bird (Ph.D., Queensland)</a>
-- 1.6 Dutch Reformed
-    - 1.6.1 Bavinck (Prof., Kampen; Ph.D., Leiden)
-    - 1.6.2 Berkhof (Prof., Calvin)
     
 <a href="#amyraldism" style="font-style:Italic;font-size:1.4em;">II. Moderate Calvinism (Amyraldism)</a>
 
