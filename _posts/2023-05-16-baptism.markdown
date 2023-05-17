@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 02:10:00 -0500
+date: 2023-05-16 02:20:20 -0500
 categories: baptism
 published: true
 ---
+
+<!-- BDAG 145, p. 236 -->
+<!-- Kittel p. 84 -->
 
 The quick answer is that this ministry believes, based on the evidence provided, that water baptism isn't necessary for salvation, but it is necessary to obey Christ and get baptized once you're saved by grace through genuine faith. It may not justify, but a justified person will obey God and get baptized.
 
@@ -129,9 +132,11 @@ It's evident that whether or not the longer ending of mark is a legitimate part 
 
 <a name="forgiveness" href="#contents" style="font-size:2.1em">🔥 VII. For The Forgiveness Of Sins?</a>
 
+Where there is repentance, there is first genuine saving faith, and where there is salvation by grace through faith, there is a **resulting** obedience: baptism, prayer, good works, fellowship, witnessing, etc. It's not the baptism that saves, but the inward genuine faith and repentance that God grants to the regenerate (Ac 11:18; 2Ti 2:25 NET), **resulting** in an outward showing of obedience that includes baptism and good works that come **after jutification**.
+
 - <a name="Acts2:38" href="#contents" style="font-size:1.6em">7.1 Acts 2:38</a>
 
-    > <sup style="font-weight:bold;">38</sup> And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
+    > <sup style="font-weight:bold;">38</sup> And Peter said to them, “<span style="font-weight:bold;font-size:1.2em;color:red;">Repent</span> and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
 
 - <a name="esvsb_commentary_II" href="#contents" style="font-size:1.6em">7.1.1 ESV Study Bible</a>
 
