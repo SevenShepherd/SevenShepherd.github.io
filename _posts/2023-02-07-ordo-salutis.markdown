@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 5:50:00 -0500
+date: 2023-02-02 5:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -73,7 +73,7 @@ Reformed Theology (Less Limited Atonement). I have a great deal of respect for D
 
 <a href="#evangelical" style="font-style:Italic;font-size:1.4em;">III. Broadly Reformed Evangelicals</a>
 
-This group is broadly reformed in their theology, but has allowed trace amounts of counter reformation Arminian-synergism to seep into their views. This was where my origins were as a Christian and I still consider them to be a safe group. Chuck Smith and Jack were my first teachers and I still respect them deeply.
+This group is broadly reformed in their theology, but has allowed trace amounts of counter reformation Arminian-synergism to seep into their views. This was where my origins were theologically and I still consider them to be a safe group. Chuck Smith and Jack were my first teachers and I still respect them deeply.
 
 <!-- but has allowed small amounts of counter reformation Arminian-synergism to seep into their views. While I deeply admire the attempt to unify believers, I disagree with their logic, because of the law of non-contradiction. This group represents my childhood, I have since completed my transformation into reformed theology, which wasn't that bif of a leap. -->
 
