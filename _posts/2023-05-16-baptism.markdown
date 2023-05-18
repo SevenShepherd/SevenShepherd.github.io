@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 02:25:20 -0500
+date: 2023-05-16 02:30:30 -0500
 categories: baptism
 published: true
 ---
@@ -39,7 +39,11 @@ The quick answer is that this ministry believes, based on the evidence provided,
         - 7.1.1 <a href="#esvsb_commentary_II">ESV Study Bible</a>
         - 7.1.2 <a href="#btsb_commentary_II">NIV Biblical Theology Study</a>
         - 7.1.3 <a href="#net_commentary_II">NET Full Notes</a>
-- VIII. <a href="#conclusion">Conclusion</a>
+- VIII. <a href="#washing">By The Washing Of Regeneration</a>
+    - 8.1. <a href="#Titus3:5">Titus 3:5</a>
+        - 8.1.1 <a href="#esvsb_commentary_III">ESV Study Bible</a>
+        - 8.1.2 <a href="#btsb_commentary_III">NIV Biblical Theology Study</a>
+- IX. <a href="#conclusion">Conclusion</a>
 
 
 <a name="faith" href="#contents" style="font-size:2.1em">🔥 I. You're Saved At The Point Of Genuine Faith</a>
@@ -154,7 +158,24 @@ Where there is repentance, there is first genuine saving faith, and where there 
     >
     &mdash; <a href="#net_cite">Net Bible Full Notes Edition<sup>2</sup></a> [[online]](https://www.biblegateway.com/passage/?search=Acts2%3A38&version=NET)
 
-<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 VIII. Conclusion</a>
+
+<a name="washing" href="#contents" style="font-size:2.1em">🔥 VIII. By The Washing Of Regeneration</a>
+
+At first glance I can see that many may confuse this verse for water baptism; however, it's clear that this is speaking of regeneration. The most ironic thing about attempting to use this verse to say that baptism saves, is the very first sentence which negates it: <span style="font-style:italic;color:#828282;">&ldquo;he saved us, <span style="font-weight:bold;font-size:1.2em;">not because of works</span> done by us...&rdquo;</span> works like baptism! The “washing” described here is the spiritual cleansing, which is outwardly symbolized in baptism.<a href="#esvsb_cite"><sup>1</sup></a>
+
+- <a name="Titus3:5" href="#contents" style="font-size:1.6em">8.1 Titus 3:5</a>
+
+    > <sup style="font-weight:bold;">5</sup> &ldquo;he saved us, <span style="font-weight:bold;font-size:1.2em;color:Red;">not because of works</span> done by us in righteousness, but according to his own mercy, by the washing of <span style="font-weight:bold;font-size:1.2em;color:Red;">regeneration</span> and renewal of the Holy Spirit,&rdquo; &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
+
+- <a name="esvsb_commentary_III" href="#contents" style="font-size:1.6em">8.1.1 ESV Study Bible</a>
+
+    > TITUS—NOTE ON 3:5 The transformation described in vv. 3–7 (formerly … but now) is not based on human effort. “We … were once enslaved” (v. 3) but he saved us. God must act before salvation occurs. Salvation comes not because of works but by the washing of regeneration and renewal of the Holy Spirit. Some have understood this as saying that baptism (“the washing”) causes salvation. However, <span style="font-weight:bold;color:GoldenRod;">in this context human deeds are clearly downplayed <span style="font-weight:bold;font-size:1.2em;color:Gold;">(“not because of works”)</span></span> and the emphasis is on divine action and initiative (“he saved us”). <span style="font-weight:bold;color:orangered;">The “washing” described here is the spiritual cleansing, which is outwardly symbolized in baptism.</span>
+
+- <a name="btsb_commentary_III" href="#contents" style="font-size:1.6em">8.1.2 NIV Biblical Theology Study</a>
+
+    > 3:5 Encapsulates a vast amount of teaching on Christian salvation. <span style="font-weight:bold;color:orangered;">Salvation is <span style="font-size:1.2em;color:Red;">not because of human merit</span> but because of divine “mercy.”</span> washing of rebirth. God’s regeneration of the human heart (John 3:3–8) resulting in changed living. Baptism is a recognition of and catalyst for this divine saving work. renewal by the Holy Spirit. See 1 Cor 12:13 and note. God by his Spirit (Luke 3:16; Rom 8:1–2) sets revolutionary changes in motion when the “disobedient” (v. 3) come to faith.
+
+<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 IX. Conclusion</a>
 
 It is abundantly clear that baptism is not a requirement of salvation. Our obedience&mdash;water baptism, prayer, good works, fellowship, witnessing, etc.&mdash;issues forth from our faith in Christ. This is why Reformed theology stresses that true saving faith always **results** in obedience and good works **after justification**. We do not say that it **includes** obedience, because that would be works righteousness and no one will make it to heaven based on their own merits (Eph. 2:8-10; Gal. 2:21;5:4; Rom 3:20,28; Gal 2:16; 3:10-12). *Sola fide.*
 
