@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 02:30:30 -0500
+date: 2023-05-16 02:35:35 -0500
 categories: baptism
 published: true
 ---
@@ -29,7 +29,7 @@ The quick answer is that this ministry believes, based on the evidence provided,
         - 3.1.5 <a href="#exb_commentary">Expanded Bible</a>
 - IV. <a href="#two">Two Different Baptisms</a>
     - 4.1 <a href="#Acts19:2-5">Acts 19:2-5</a>
-- V. <a href="#sin">There's Only 1 Unforgivable Sin</a>
+- V. <a href="#sin">There's Only One Unforgivable Sin</a>
     - 5.1 <a href="#Mk3:28–29">Mark 3:28–29</a>
 - VI. <a href="#mark">Longer Ending Of Mark</a>
     - 6.1 <a href="#mss">Missing From Oldest MSS</a>
@@ -43,7 +43,12 @@ The quick answer is that this ministry believes, based on the evidence provided,
     - 8.1. <a href="#Titus3:5">Titus 3:5</a>
         - 8.1.1 <a href="#esvsb_commentary_III">ESV Study Bible</a>
         - 8.1.2 <a href="#btsb_commentary_III">NIV Biblical Theology Study</a>
-- IX. <a href="#conclusion">Conclusion</a>
+- IX. <a href="#this">This, Now Saves You</a>
+    - 9.1. <a href="#1Peter3:21">First Peter 3:21</a>
+        - 9.1.1 <a href="#logos_commentary_1Pe3">LOGOS Faithlife Study</a>
+        - 9.1.2 <a href="#esvsb_commentary_1Pe3">ESV Study Bible</a>
+        - 9.1.3 <a href="#btsb_commentary_1Pe3">NIV Biblical Theology Study</a>
+- X. <a href="#conclusion">Conclusion</a>
 
 
 <a name="faith" href="#contents" style="font-size:2.1em">🔥 I. You're Saved At The Point Of Genuine Faith</a>
@@ -175,7 +180,30 @@ At first glance I can see that many may confuse this verse for water baptism; ho
 
     > 3:5 Encapsulates a vast amount of teaching on Christian salvation. <span style="font-weight:bold;color:orangered;">Salvation is <span style="font-size:1.2em;color:Red;">not because of human merit</span> but because of divine “mercy.”</span> washing of rebirth. God’s regeneration of the human heart (John 3:3–8) resulting in changed living. Baptism is a recognition of and catalyst for this divine saving work. renewal by the Holy Spirit. See 1 Cor 12:13 and note. God by his Spirit (Luke 3:16; Rom 8:1–2) sets revolutionary changes in motion when the “disobedient” (v. 3) come to faith.
 
-<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 IX. Conclusion</a>
+<a name="this" href="#contents" style="font-size:2.1em">🔥 IX. This, Now Saves You</a>
+
+Noah and his family were not saved by means of water.<a href="#logos_cite"><sup>4</sup></a> If baptism corresponds to *"this"*, then we can logically deduce that in both cases it is not the water that saves, but God. Peter explicitly says, *“not as a removal of dirt from the body,”* meaning that the passing of water over the body does not cleanse anyone.<a href="#esvsb_cite"><sup>1</sup></a>
+
+- <a name="1Peter3:21" href="#contents" style="font-size:1.6em">9.1 First Peter 3:21</a>
+
+    > <sup style="font-weight:bold;">20</sup> because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. <sup style="font-weight:bold;">21</sup> <span style="font-weight:bold;color:GoldenRod;">Baptism, which corresponds to <span style="font-size:1.2em;color:Gold">this</span>, now saves you</span>, <span style="font-weight:bold;color:orangered;">not as a removal of dirt from the body</span> but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, &mdash; <a href="#esvsb_cite">ESV Study Bible<sup>1</sup></a>
+
+- <a name="logos_commentary_1Pe3" href="#contents" style="font-size:1.6em">9.1.1 LOGOS Faithlife Study</a>
+
+    > <span style="font-weight:bold;color:orangered;">Noah and his family were not saved by means of water</span>, which served as God’s agent to cleanse the earth of its evil (Gen 6:5–7). The ark was God’s means of preserving life and starting anew. 
+    >> Baptism thus reflects the belief that Jesus is Lord, signifying the judgment of sin and subsequent salvation through the new life provided by the resurrection of Christ. Just as Noah and his family came through the flood waters to a new life, so do believers through baptism. <span style="font-weight:bold;color:orangered;">It is not the baptism itself that saves, but the action of God that it signifies.</span> See note on Acts 2:38. 
+    >
+    &mdash; John D. Barry, Douglas Mangum, et al., <a href="#logos_cite">Faithlife Study Bible<sup>4</sup></a> (Bellingham, WA: Lexham Press, 2012, 2016), 1 Pe 3:21. 
+
+- <a name="esvsb_commentary_1Pe3" href="#contents" style="font-size:1.6em">9.1.2 ESV Study Bible</a>
+
+    > 1 PETER—NOTE ON 3:21 A comparison is drawn between salvation in the ark and baptism. In both instances, believers are saved through the waters of judgment, since baptism portrays salvation through judgment. <span style="font-weight:bold;color:orangered;">The mere mechanical act of baptism <span style="font-size:1.2em;color:red">does not save</span>, for Peter explicitly says, “not as a removal of dirt from the body,” meaning that the passing of water over the body <span style="font-size:1.2em;color:red">does not cleanse anyone</span>.</span> Baptism saves you because it represents inward faith, as evidenced by one’s appeal to God for the forgiveness of one’s sins (for a good conscience). Furthermore, baptism “saves” only insofar as it is grounded in the death and resurrection of Jesus Christ. Baptism is a visual representation of the fact that Christians are clothed with Christ (cf. Gal. 3:27), and in union with Christ they share his victory over sin. Though Christians have disagreed about the proper mode of water baptism beginning in the early history of the church, <span style="font-weight:bold;color:GoldenRod;">Christians have generally agreed (irrespective of denominational differences) that water baptism is <span style="font-size:1.2em;color:Gold">an outward sign of the inward reality of regeneration</span>, which is <span style="font-size:1.2em;color:Gold">the result of the work of the Holy Spirit</span> (cf. John 3:5, 8; Titus 3:5), and which may be <span style="font-size:1.2em;color:Gold">received only by grace through faith (see Eph. 2:8)</span>.</span>
+
+- <a name="btsb_commentary_1Pe3" href="#contents" style="font-size:1.6em">9.1.3 NIV Biblical Theology Study</a>
+
+    > 3:21 this water symbolizes baptism that now saves you. Baptism saves only in the sense that it represents what Christ has achieved. The waters of the Noahic flood symbolize baptism, and baptism is the sign and seal of salvation “by the resurrection of Jesus Christ” (see Rom 6:4). the pledge of a clear conscience. Baptism is not merely a religious ritual that washes the body; it is one’s pledge to God to live righteously from that time on, which results in a clear conscience before him. Peter reminds his readers of the pledge of their baptism at a time when they are facing suffering because of Christ and are tempted to turn away from the Lord.
+
+<a name="conclusion" href="#contents" style="font-size:2.1em">🔥 X. Conclusion</a>
 
 It is abundantly clear that baptism is not a requirement of salvation. Our obedience&mdash;water baptism, prayer, good works, fellowship, witnessing, etc.&mdash;issues forth from our faith in Christ. This is why Reformed theology stresses that true saving faith always **results** in obedience and good works **after justification**. We do not say that it **includes** obedience, because that would be works righteousness and no one will make it to heaven based on their own merits (Eph. 2:8-10; Gal. 2:21;5:4; Rom 3:20,28; Gal 2:16; 3:10-12). *Sola fide.*
 
