@@ -1,18 +1,22 @@
 ---
 layout: post
 title: "5️⃣ Orthodox Calvinism Has Always Rejected And Condemned Hyper-Calvinism (Anti-Calvinism)"
-date: 2023-05-04 02:45:00 -0500
+date: 2023-05-04 03:00:00 -0500
 categories: calvinism
 published: true
 ---
 
-<span style="font-size:2.1em">What Orthodox Calvinism Says</span>
+<span style="font-size:2.1em">I. What Orthodox Calvinism Says</span>
 
 God gives mercy to some, justice to others, and injustice to no one.
 
-> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>
+> <sup style="font-weight:bold;">14</sup> What shall we say then? Is there injustice on God's part? By no means! <sup style="font-weight:bold;">15</sup> For he says to Moses, <span style="font-weight:bold;color:green">“<span style="font-size:1.2em;color:#33cc33">I will have mercy on whom I have mercy</span>, and I will have compassion on whom I have compassion.”</span> <sup style="font-weight:bold;">16</sup> So then it depends not on human will or exertion, but on God, who has mercy. &mdash; Romans 9:14-16 ESV
 
-> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>
+<span style="font-size:1.6em">1.1 Quotations</span>
+
+> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:green;">5-point Orthodox Calvinist</span>
+
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:green;">5-point Orthodox Calvinist</span>
 
 |Calvinism|Hyper-Calvinism|
 |:-:|:-:|
