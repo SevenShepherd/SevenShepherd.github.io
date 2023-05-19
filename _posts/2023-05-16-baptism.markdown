@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌊 Is Water Baptism Necessary For Salvation?"
-date: 2023-05-16 02:35:35 -0500
+date: 2023-05-16 02:40:40 -0500
 categories: baptism
 published: true
 ---
@@ -277,27 +277,27 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="filament_cite" href="#contents">6</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+<!-- <sup><a name="filament_cite" href="#contents">6</a></sup> The [**NLT Filament Study Bible**](https://amzn.to/3CcB5Cu) has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting: -->
 
 <!--  -->
 
-- [Dr. Tremper Longman III (Ph.D., Yale)]()
+<!-- - [Dr. Tremper Longman III (Ph.D., Yale)]()
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/). -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="tnsb_cite" href="#contents">7</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood.
+<!-- <sup><a name="tnsb_cite" href="#contents">7</a></sup> Commentary from [**NKJV Thomas Nelson Study Bible**](https://amzn.to/3Lqjw6W) is also excellent even if I have moved from the textus receptus to the critical text, the study remains excellent. The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others. This was my study bible in my young adulthood. -->
 
 <!--  -->
 
-- [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
-- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+<!-- - [Dr. Bruce M. Metzger (Ph.D., Princeton)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]() -->
 
-<span style="color:#A8A8A8;">--- Lexicons ---</span>
+<!-- <span style="color:#A8A8A8;">--- Lexicons ---</span> -->
 
-<sup><a name="BDAG" href="#contents">8</a></sup> [**BDAG Greek-English Lexicon, 3rd ed.**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon. 
+<!-- <sup><a name="BDAG" href="#contents">8</a></sup> [**BDAG Greek-English Lexicon, 3rd ed.**](https://amzn.to/3I4m4ES). This Lexicon is the world's most authoritative Greek lexicon.  -->
 
 <!-- This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed. -->
 
@@ -307,29 +307,29 @@ May be expanded or contracted as the article grows
 
 <span style="color:#A8A8A8;">---</span>
 
-<sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. 
+<!-- <sup><a name="packer" href="#contents">10</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.  -->
 
 <!-- This cite is specific to <a href="https://amzn.to/3JOaVKp">Concise Theology. 88. UNPARDONABLE SIN - Only Impenitence Cannot Be Forgiven</a> -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="carson" href="#contents">11</a></sup> [**Dr. D. A. Carson**](https://youtu.be/9OIxOq3aOIo) (Ph.D., University of Cambridge) is a Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School. Carson has been described as *"one of the last great Renaissance men in evangelical biblical scholarship,"* and as doing *"the most seminal New Testament work by contemporary evangelicals."*
+<!-- <sup><a name="carson" href="#contents">11</a></sup> [**Dr. D. A. Carson**](https://youtu.be/9OIxOq3aOIo) (Ph.D., University of Cambridge) is a Distinguished Emeritus Professor of New Testament at Trinity Evangelical Divinity School. Carson has been described as *"one of the last great Renaissance men in evangelical biblical scholarship,"* and as doing *"the most seminal New Testament work by contemporary evangelicals."* -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="sproul" href="#contents">12</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida.
+<!-- <sup><a name="sproul" href="#contents">12</a></sup> [**Dr. R. C. Sproul**](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary) was an American Presbyterian pastor, theologian, author, apologist, Bible teacher, as well as founder and chairman of [Ligonier Ministries](https://www.youtube.com/@LigonierMinistries). He was Professor of theology and apologetics, and Senior Chair of Systematic Theology at Reformed Theological Seminary in Jackson, Mississippi, and distinguished Professor of Systematic Theology and Apologetics at Knox Theological Seminary in Ft. Lauderdale, Florida. -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="piper" href="#contents">13</a></sup> [**Dr. John Piper**](https://youtu.be/tK_YIDMQuJc?t=215) (D.Theol., Munich) taught biblical studies at Bethel University for six years (1974–1980), before serving as pastor for preaching and vision of Bethlehem Baptist Church (Converge) in Minneapolis for 33 years (1980–2013).
+<!-- <sup><a name="piper" href="#contents">13</a></sup> [**Dr. John Piper**](https://youtu.be/tK_YIDMQuJc?t=215) (D.Theol., Munich) taught biblical studies at Bethel University for six years (1974–1980), before serving as pastor for preaching and vision of Bethlehem Baptist Church (Converge) in Minneapolis for 33 years (1980–2013). -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="horton_cite" href="#contents">14</a></sup> [**Dr. Michael S. Horton**](https://youtu.be/_COhpzxavI4) (Ph.D., Oxford) has been the J. Gresham Machen Professor of Theology and Apologetics at Westminster Seminary California since 1998. He learned Biblical Hebrew and Koine Greek while studying under Meredith Kline at Westminster Seminary California for his M.A. Dr. Horton received his Ph.D. from Wycliffe Hall, Oxford through Coventry University and completed a research fellowship at Yale Divinity School. 
+<!-- <sup><a name="horton_cite" href="#contents">14</a></sup> [**Dr. Michael S. Horton**](https://youtu.be/_COhpzxavI4) (Ph.D., Oxford) has been the J. Gresham Machen Professor of Theology and Apologetics at Westminster Seminary California since 1998. He learned Biblical Hebrew and Koine Greek while studying under Meredith Kline at Westminster Seminary California for his M.A. Dr. Horton received his Ph.D. from Wycliffe Hall, Oxford through Coventry University and completed a research fellowship at Yale Divinity School.  -->
 
-<span style="color:#A8A8A8;">---</span>
+<!-- <span style="color:#A8A8A8;">---</span> -->
 
-<sup><a name="demarest" href="#contents">15</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
+<!-- <sup><a name="demarest" href="#contents">15</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum.  -->
 
 <!-- This cite is specific to [The Cross and Salvation](https://amzn.to/3HMIbPZ). pp. 36-44. -->
 
