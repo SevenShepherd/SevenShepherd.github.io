@@ -268,16 +268,21 @@ I would have selected R. C. Sproul's [*Essential Truths*](https://amzn.to/3FyUAq
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**](https://amzn.to/40QF8z5)|
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="https://amzn.to/3JOaVKp">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)](https://amzn.to/40RYx1A)|
 |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="https://amzn.to/3FyUAqx">☩ Essential Truths</a><br>[☩ Everyone's a Theologian](https://amzn.to/40Wytm8)|
+|||
+|**Soteriology**||
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God](https://amzn.to/42w1i9y)|
 
+<!-- <span style="font-style:Italic;font-size:2.1em;">Soteriology</span>
 
-<span style="font-style:Italic;font-size:2.1em;">Soteriology</span>
+Are you defending YOUR faith, or are you defending **THE faith**? Before you take offense to this section, consider that all theologies are man made and should be looked at critically and even dropped entirely if they don't line up with scripture, soteriologies especially.
 
 |Professors|Books|
 |:-:|:-:|
 |**Soteriology**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation](https://amzn.to/3HMIbPZ)|
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ "Free Grace" Theology: 5 Ways It Diminishes the Gospel](https://amzn.to/3k3gESD)|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God](https://amzn.to/42w1i9y)|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God](https://amzn.to/42w1i9y)| -->
 
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Scientific Theology</span>
