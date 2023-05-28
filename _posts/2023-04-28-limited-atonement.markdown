@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-28 01:07:07 -0500
+date: 2023-05-28 01:10:10 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -62,13 +62,16 @@ The focal point of this article is a comparison between Limited and Unlimited At
 
     It's clear that *"whoever believes"* is not the whole world, but a subset of people in the world. From this point onward, those within orthodoxy could easily say, that those who answer the effectual call are those who would believe, because they were predestined to and that is how God showed his love to the world, by saving a subset of people out of it.
 
-    Rhodes points out correctly that the context shows, in vv. 14-15, that <span style="font-style:italic:bold;color:#828282;">&ldquo;John 3:16 cannot be divorced from verses 14-15, wherein Christ alludes to Numbers 21 with its discussion of Moses setting up the brazen serpent in the camp of Israel, so that if “any man” looked to it, he experienced physical deliverance. In verse 15 Christ applies the story spiritually when He says that “whosoever” believes on the uplifted Son of Man shall experience spiritual deliverance.&rdquo;</span>
+    Rhodes points out correctly that the context shows, in vv. 14-15, that <span style="font-style:italic:bold;color:#828282;">&ldquo;John 3:16 cannot be divorced from verses 14-15, wherein Christ alludes to Numbers 21 with its discussion of Moses setting up the brazen serpent in the camp of Israel, so that if “any man” looked to it, he experienced physical deliverance. In verse 15 Christ applies the story spiritually when He says that “whosoever” believes on the uplifted Son of Man shall experience spiritual deliverance.&rdquo;</span> &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary), The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>.
 
-    However, no one is debating that. We all believe this, the question is, is the subset of *"whoever believes"* doing so because they are elect? You might be saying to yourself, but he said *"any man,"* to which I would reply, of those who were not killed by poisonous serpents initially, before being given the chance to look upon the bronze serpent.
+    However, no one is debating that. We all believe this, the question is, is the subset of *"whoever believes"* doing so because they are elect? You might be saying to yourself, but he said *"any man,"* to which I would reply, of those who were not killed by poisonous serpents initially, before being given the chance to look upon the bronze serpent. Furthermore, of those who survived, there were some who still did not repent even though the cure rate was 100%.
 
     > So Yahweh sent fiery serpents among the people, and they bit the people so that many people of Israel died. &mdash; Num. 21:6
+
+    > What is left unstated in this narrative is the number of people who died despite this remedy that God provided. Some of the people clearly repented, but the implication of the text is that **some of those who were bitten** looked at the bronze serpent while others **did not**. Even in their death agonies, in the throes of the terror and pain inflicted by these serpents, they would not trust God’s prescribed course—**even though the cure rate was one hundred percent**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary), John: An Expositional Commentary](https://amzn.to/42bfUdW), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
     
     All Christian theologies including Rhodes' acknowledges an effectual call. While I find Rhodes answer to be a good one, I don't find it to be totally convincing. I'd need something more to tip the scales of interpretation. I find this subject to be dangerous to get wrong so I'm not advocating for either position as of yet.
+
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
 
