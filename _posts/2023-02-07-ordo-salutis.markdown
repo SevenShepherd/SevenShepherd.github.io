@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 6:00:00 -0500
+date: 2023-02-02 6:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -72,7 +72,7 @@ Reformed Theology (Less Limited Atonement). I have a great deal of respect for D
 
 <a href="#evangelical" style="font-style:Italic;font-size:1.4em;">III. Broadly Reformed Evangelicals</a>
 
-This group is broadly reformed in their theology, but has allowed trace amounts of counter reformation Arminian-synergism to seep into their views. This was where my origins were theologically and I still consider them to be a safe group. Chuck Smith and Jack were my first teachers and I still respect them deeply.
+This group is broadly reformed in their theology, but has allowed trace amounts of counter reformation Arminian-synergism to seep into their views. This was where my origins were theologically and I still consider them to be a safe group. Chuck Smith was my earliest pastor.
 
 <!-- but has allowed small amounts of counter reformation Arminian-synergism to seep into their views. While I deeply admire the attempt to unify believers, I disagree with their logic, because of the law of non-contradiction. This group represents my childhood, I have since completed my transformation into reformed theology, which wasn't that bif of a leap. -->
 
@@ -81,8 +81,6 @@ This group is broadly reformed in their theology, but has allowed trace amounts 
 - 2.1 Calvary Chapel (Baptist / Pentecostal Hybrid)
     - 2.1.1 Chuck Smith (B.A., Life Bible College)
     - 2.1.2 Skip Heitzig (Ph.D., Trinity Southwest)
-- 2.2 Independent Baptist
-    - 2.2.1 Jack Van Impe (Ph.D., Pacific)
 
 <a href="#lutheran" style="font-style:Italic;font-size:1.4em;">IV. Lutheran Theology</a>
 
@@ -94,12 +92,14 @@ This should be called Melancthonism, as they deviated from the teachings of the 
 
 <a href="#arminian" style="font-style:Italic;font-size:1.4em;">V. Arminian Theology</a>
 
-Arminian theology is a counter reformation that erroneously reintroduces synergism and works righteousness back in the the Church. 
+Arminian theology is a counter reformation that erroneously reintroduces synergism back in the the Church. While this may be true, it is also true I believe that they are saved based on a [technicality](https://youtu.be/t2cZ0-CJ6iM). Jack Van Impe was my second teacher in my young adulthood and I have no doubt that may lives were brought to Christ through both Graham & Jack.
 
 <!-- Synergism says that humans and God work together to bring about salvation. While those listed here are not in cults, the cults have also been synergistic, as Christianity is monergistic historically. -->
 
 - 3.1 Southern Baptist Convention (SBC)
     - 3.1.1 Billy Graham (Self-directed)
+- 3.2 Independent Baptist
+    - 3.2.1 Jack Van Impe (Ph.D., Pacific)
 
 <span style="font-style:Italic;font-size:1.4em;">VI. Neotheologies</span>
 
