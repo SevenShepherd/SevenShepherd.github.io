@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚠️ The Heresy Of Antinomianism And The Dangers Of Abusing The Grace Of Our God By Using It As A License To Sin"
-date: 2023-05-08 03:07:07 -0500
+date: 2023-05-08 03:10:10 -0500
 categories: heresy cults
 published: true
 ---
@@ -69,7 +69,9 @@ All theologians agree on this verse below, from the most academically sound and 
 
 > <sup style="font-weight:bold;">8</sup> The one who practices sin is of the devil, because the devil has been sinning from the beginning. For this purpose the Son of God was revealed: to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> Everyone who has been fathered by God does not practice sin, because God’s seed resides in him, and thus he is not able to sin, because he has been fathered by God. <sup style="font-weight:bold;">10</sup> By this the children of God and the children of the devil are revealed: Everyone who does not practice righteousness—the one who does not love his fellow Christian—is not of God. &mdash; 1 Jn 3:8-10 NET
 
-If this antinomian heresy is what your teachers are teaching, or what you're teaching your loved ones. YOU ARE IN GRAVE DANGER! CEASE IMMEDIATELY!
+If your teachers are teaching that it's okay to live in carnality, or that repentance is only a minor opinion change when, instead, it is defined as a remorse, or contrition leading to a religio-ethical conversion (turning away from sin and a turning to God) in every authoritative Greek lexicon and dictionary; beware, YOU ARE IN GRAVE DANGER!
+
+<!-- this antinomian heresy is what your teachers are teaching, or what you're teaching your loved ones. YOU ARE IN GRAVE DANGER! CEASE IMMEDIATELY! -->
 
 > ... They will consider nothing sacred. They will be unloving and unforgiving; they will slander others and have no self-control. They will be cruel and hate what is good. They will betray their friends, be reckless, be puffed up with pride, and love pleasure rather than God. <span style="font-weight:bold;color:orangered;">They will <span style="font-size:1.2em;color:red;">act religious</span>, but they will <span style="font-size:1.2em;color:red;">reject the power that could make them godly</span>. Stay away from people like that!</span> &mdash; 2 Timothy 3:2-5b
 
