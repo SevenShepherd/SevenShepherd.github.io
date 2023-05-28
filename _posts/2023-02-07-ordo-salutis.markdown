@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis"
-date: 2023-02-02 6:10:00 -0500
+date: 2023-02-02 6:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -92,7 +92,7 @@ This should be called Melancthonism, as they deviated from the teachings of the 
 
 <a href="#arminian" style="font-style:Italic;font-size:1.4em;">V. Arminian Theology</a>
 
-Arminian theology is a counter reformation that erroneously reintroduces synergism back in the the Church. While this may be true, it is also true I believe that they are saved based on a [technicality](https://youtu.be/t2cZ0-CJ6iM). Jack Van Impe was my second teacher in my young adulthood and I have no doubt that may lives were brought to Christ through both Graham & Jack.
+Arminian theology is a counter reformation that erroneously reintroduces synergism back in the the Church. While this may be true, it is also true that I believe that they are saved based on a [technicality](https://youtu.be/t2cZ0-CJ6iM). Jack Van Impe was my second teacher in my young adulthood and I have no doubt that may lives were brought to Christ through both Graham & Jack.
 
 <!-- Synergism says that humans and God work together to bring about salvation. While those listed here are not in cults, the cults have also been synergistic, as Christianity is monergistic historically. -->
 
@@ -359,7 +359,7 @@ It's become evident that most experts in apologetics hold to a moderate calvinis
 
 See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance.
 
-❔ Further investigation is necessary to determine whether or not it is [✅ Monergistic](https://carm.org/dictionary/monergism/) or [Synergistic](https://carm.org/dictionary/synergism/).
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/)
 
 > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120
 
@@ -374,7 +374,7 @@ The truth is every tradition mentioned in this article, except Roman Catholicism
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of
 God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
-✅ [Monergistic](https://carm.org/dictionary/monergism/). I identify as evangelical in addition to being reformed. I believe this to be a safe option like reformed theology as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics).
 
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
@@ -418,7 +418,9 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Lutheran Theology</a>
 
-Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). Mostly [Monergistic](https://carm.org/dictionary/monergism/) from what I can tell, with hints of [sacerdotalism](https://carm.org/dictionary/sacerdotalism/) without being sacerdotalist.
+Still debating if I should call this Melancthonism instead of Lutheranism, since Lutheranism [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983). 
+
+- [⚠️ Synergistic](https://carm.org/dictionary/synergism/), with hints of [sacerdotalism](https://carm.org/dictionary/sacerdotalism/) without being sacerdotalist.
 
 <span style="font-style:Italic;font-size:1.6em;">Theologians w/ Systematic Theologies</span>
 
