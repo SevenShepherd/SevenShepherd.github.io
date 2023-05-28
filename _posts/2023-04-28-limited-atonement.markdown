@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" 
-date: 2023-05-08 03:00:00 -0500
+date: 2023-05-28 01:07:07 -0500
 categories: tulip limited atonement
 published: true
 ---
@@ -16,7 +16,14 @@ Reformed theology contains a majority position known as orthodox Calvinism, and 
 
 As for who will defend the majority orthodox Calvinist position, I will be pulling from a wide body of <a href="#cite">sources</a> to verify if Rhodes has been answered. Although, I think Sproul is more than enough on his own.
 
-<span style="font-size:2.1em">🌷 Freedom Of Inclination</span>
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+- I. <a href="#freedom">Freedom Of Inclination</a>
+- II. <a href="#atonement">Limited V. Unlimited</a>
+    - 2.1 <a href="#John3:16">John 3:16</a>
+        - 2.1.1 <a href="#2.1.1">Commentary</a>
+
+<a name="freedom" href="#contents" style="font-size:2.1em">🌷 I. Freedom Of Inclination</a>
 
 <!-- This article will be focused on Limited vs Unlimited Atonement; however, I would like to represent free will correctly from a Calvinistic standpoint. So many people get this wrong. Charts are from Sproul's book [Chosen by God](https://amzn.to/42w1i9y) -->
 
@@ -40,10 +47,28 @@ The focal point of this article is a comparison between Limited and Unlimited At
 
 > Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
 
-<span style="font-size:2.1em">🌷 Limited & Unlimited Atonement</span>
+<a name="atonement" href="#contents" style="font-size:2.1em">🌷 II. Limited & Unlimited Atonement</a>
 
 <!-- > Every person who's ever been a Calvinist, that I know of in history, has affirmed without reservation, that we are moral agents, we are volitional creatures that God has made, each one of us, with a mind, with a heart, with affections, and with a will. That we have the will which is a faculty of choosing, and in the fall as desperate as the fall is and as corrupt as we become, we don't stop willing. We sin because we want to sin. And that's why we are exposed to the punishment of God, because we are willful in our sin and we are willful in our rejection of God. [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=55) -->
 
+
+- <a name="John3:16" href="#contents" style="font-size:1.6em;">🌸 2.1 John 3:16</a>
+
+    > “For God so loved the world, that He gave His only begotten Son, <span style="font-weight:bold;color:orangered;">that <span style="font-size:1.2em;color:red;">whoever believes</span></span> in Him shall not perish, but have eternal life. &mdash; John 3:16 LSB (Legacy Standard Bible)
+
+- <a name="2.1.1" href="#contents" style="font-size:1.4em;">🌸 2.1.1 Commentary</a>
+
+    Ron Rhodes seems to go in-depth about the Greek word for whole, but I think it is clear that no one from either side is contesting that. The real issue is how *"whoever believes"* is to be understood. Logically, we all agree that there is a group who makes it to heaven by God's grace, and a group which does not.
+
+    It's clear that *"whoever believes"* is not the whole world, but a subset of people in the world. From this point onward, those within orthodoxy could easily say, that those who answer the effectual call are those who would believe, because they were predestined to and that is how God showed his love to the world, by saving a subset of people out of it.
+
+    Rhodes points out correctly that the context shows, in vv. 14-15, that <span style="font-style:italic:bold;color:#828282;">&ldquo;John 3:16 cannot be divorced from verses 14-15, wherein Christ alludes to Numbers 21 with its discussion of Moses setting up the brazen serpent in the camp of Israel, so that if “any man” looked to it, he experienced physical deliverance. In verse 15 Christ applies the story spiritually when He says that “whosoever” believes on the uplifted Son of Man shall experience spiritual deliverance.&rdquo;</span>
+
+    However, no one is debating that. We all believe this, the question is, is the subset of *"whoever believes"* doing so because they are elect? You might be saying to yourself, but he said *"any man,"* to which I would reply, of those who were not killed by poisonous serpents initially, before being given the chance to look upon the bronze serpent.
+
+    > So Yahweh sent fiery serpents among the people, and they bit the people so that many people of Israel died. &mdash; Num. 21:6
+    
+    All Christian theologies including Rhodes' acknowledges an effectual call. While I find Rhodes answer to be a good one, I don't find it to be totally convincing. I'd need something more to tip the scales of interpretation. I find this subject to be dangerous to get wrong so I'm not advocating for either position as of yet.
 
 <span style="font-size:2.1em">⚠️ Under Construction</span>
 
