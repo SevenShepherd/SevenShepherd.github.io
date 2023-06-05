@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "🚀 This Blog Has Moved To A Different Platform"
-date: 2023-06-03 01:25:25 -0500
+date: 2023-06-03 01:30:30 -0500
 categories: blog new
 published: true
 ---
 
 Dear friends,
 
-I write to you today to about the future of this blog. We're migrating to a [**new website**](https://bit.ly/42nkupJ). This migration transcends a mere relocation; it serves as a profound testament to our steadfast devotion in delivering content that exudes the highest caliber of Christian values and profound insight.
+I write to you today about the future of this blog. We're migrating to a [**new website**](https://bit.ly/42nkupJ). Thank you for your patience.
+
+<!-- This migration transcends a mere relocation; it serves as a profound testament to our steadfast devotion in delivering content that exudes the highest caliber of Christian values and profound insight. -->
 
 With deepest reverence,
 
