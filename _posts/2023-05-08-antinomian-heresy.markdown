@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "⚠️ The Heresy Of Antinomianism And The Dangers Of Abusing The Grace Of Our God By Using It As A License To Sin"
-date: 2023-05-08 03:10:10 -0500
+date: 2023-05-08 03:15:15 -0500
 categories: heresy cults
 published: true
 ---
 
+![Free Grace Antinomianism](/assets/images/free-grace-antinomianism.jpg)
 
 <!-- An antinomian and heretical theology is one that perverts God's grace by turning it into a license for sin, and its promoters are marked out for condemnation. -->
 
@@ -40,7 +41,6 @@ Jude calls the church to defend the truth aggressively against this infiltration
 
 <!-- <span style="font-style:Italic;font-size:1.2em;color:Black;"></span> -->
 
-
 <!-- > 24 Jesus replied, “Your mistake is that you don’t know the Scriptures, and you don’t know the power of God. -->
 
 The Bible describes these ungodly men as worming (Jude 4 NLT) their way into churches (i.e. subversive) to preach and teach destructive heresies, even to the point of denying the Master who bought them. They lead and apparently teach debauched lifestyles, they commercialize Christianity like many of the false health & wealth prosperity gospel teachers.
@@ -51,11 +51,11 @@ The Bible describes these ungodly men as worming (Jude 4 NLT) their way into chu
 
 No one should ever teach that you will remain in sin after you are saved! True saving faith always & naturally results in obedience to God after justification. It is true that sanctification is progressive, and over time you will grow in your Christian walk; however, you won't regress or live a lifestyle of indulgent sin, you will progress in holiness. *"God justifies no one whom he does not at the same time sanctify."*
 
-> "When someone is brought to faith by the Holy Spirit, he undergoes a conversion. His life turns around. This turning around is called “repentance,” and it is an immediate fruit of genuine faith." &mdash; [Dr. R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield), <a href="https://amzn.to/3m2RPXR">Everyone's a Theologian, Part Six: Soteriology. Chapter 42: Saving Fath.</a>
+> <sup style="font-weight:bold;">6</sup> What shall we say then? <span style="font-weight:bold;">Are we to remain in sin</span> so that grace may increase? <sup style="font-weight:bold;">2</sup> <span style="font-weight:bold;color:orangered;">Absolutely not!</span> How can we who died to sin still live in it? &mdash; Romans 6:1-2 NET
 
 There's an enormous difference between practicing sin which is living in a lifelong continual pattern (lifestyle), and struggling against sin with decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18).
 
-> <sup style="font-weight:bold;">6</sup> What shall we say then? <span style="font-weight:bold;">Are we to remain in sin</span> so that grace may increase? <sup style="font-weight:bold;">2</sup> <span style="font-weight:bold;color:orangered;">Absolutely not!</span> How can we who died to sin still live in it? &mdash; Romans 6:1-2 NET
+> "When someone is brought to faith by the Holy Spirit, he undergoes a conversion. His life turns around. This turning around is called “repentance,” and it is an immediate fruit of genuine faith." &mdash; [Dr. R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield), <a href="https://amzn.to/3m2RPXR">Everyone's a Theologian, Part Six: Soteriology. Chapter 42: Saving Fath.</a>
 
 Christianity is a call to discipleship. Let us not be liars by throwing out morality and abusing the grace of our God! This conclusion is not optional, never was, and never will be.
 
