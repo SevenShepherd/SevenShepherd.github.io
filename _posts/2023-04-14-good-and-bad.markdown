@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☔ The Rain Falls On The Just And Unjust Alike"
-date: 2023-04-14 20:35:00 -0500
+date: 2023-04-14 20:36:36 -0500
 categories: good bad just unjust righteous unrighteous
 published: true
 ---
@@ -18,7 +18,9 @@ published: true
 
 It's not uncommon for a child or a newcomer to the faith to ponder whether the adversities they face are divine retribution for the past sins they have committed. In this article, I aim to provide assurance to those who have a true, living faith in Christ Jesus that such worries are unfounded. Genuine saving faith in Christ is sufficient to dispel such doubts and grant us the confidence to weather life's trials.
 
-> <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 9:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB)
+<!-- > <sup style="font-weight:bold;">1</sup> So now, those who are in Christ Jesus are not ·judged guilty<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[a]</a></sup> <span style="color:#A8A8A8;">[condemned; punished for their sins]</span>. <sup style="font-weight:bold;">2</sup> <span style="color:#A8A8A8;">[<sup>L</sup> For]</span> ·Through <span style="color:#A8A8A8;">[or In]</span> Christ Jesus the ·law <span style="color:#A8A8A8;">[principle; or power]</span> of the Spirit that brings life set you<sup><a href="https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB" style="color:#A8A8A8;">[b]</a></sup> free from the ·law <span style="color:#A8A8A8;">[principle; or power]</span> that brings sin and death. &mdash; [Romans 8:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB) -->
+
+> <sup style="font-weight:bold;">1</sup> There is therefore now no condemnation for those who are in Christ Jesus. &mdash; [Romans 8:1-2 EXB](https://www.biblegateway.com/passage/?search=Romans+8%3A1-2&version=NET;EXB) 
 
 It's important to understand this and keep the inspired words of the Holy God within you, because the world is rife with the progeny of the devil, and the machinations of the wicked who act as pawns for Satan, loom large, threatening to assail us in times of adversity. 
 
