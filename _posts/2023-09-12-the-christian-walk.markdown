@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗪 When You Profess Christ Truly, You Walk As He Walked. We're Not Saved By This Walk, But That's What Happens As A Result Of A Genuine Profession"
-date: 2023-09-12 01:07:00 -0500
+date: 2023-09-12 01:25:00 -0500
 categories: truth
 published: true
 ---
@@ -121,6 +121,8 @@ While works definitely do not save us, they do spring forth from a true and live
 
 - Saving faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10).
 - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+- The practice of unrepentant sin was not tolerated by the Apostles (1 Cor. 5:12-13; Luke 17:3-4)
+- Those who practice lifeline habitual sin are self-deceived and will not inherit the kingdom of God (Rev 21:8; 22:15; Ro 1:29-32; 1 Cor. 6:9-10; Gal 5:19-21; Eph 5:3-5)
 - Christianity is a call to discipleship (Mt 10:38; 16:24; Lk 9:23,62; 14:27; Mk 8:34... Mt 3:10; 25:30; Jn 15:8 ESV)
 - True Christians love God by obeying him (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4).
 - True Christians love other believers (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35).
