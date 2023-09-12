@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "👨‍🏫 A Good Leader For Christ Does Not Compromise On The Truth, A Bad Leader Sugar Coats The Truth, Thereby Perverting It's Message And Giving False Assurance"
-date: 2023-09-10 01:00:00 -0500
-categories: truth
+title: "👨‍🏫 False assurance speaks of \"those who are not saved, but have the assurance that they are saved.\""
+date: 2023-09-10 01:05:00 -0500
+categories: truth saved assurance
 published: true
 ---
+
+<!-- A Good Leader For Christ Does Not Compromise On The Truth, A Bad Leader Sugar Coats The Truth, Thereby Perverting It's Message And Giving False Assurance -->
 
 False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
 
