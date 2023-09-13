@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:40:00 -0500
+date: 2023-09-12 03:45:00 -0500
 categories: truth
 published: true
 ---
@@ -103,7 +103,7 @@ This is one of those articles where I feel like im talking to a child about the 
 
 I think it should be clear that if your theology cannot reconcile Eph 2:8-10 with James 2:14-26; 1Jn 2:3-6; 3:6-10, it is a bad theology and it should be thrown out with the garbage of bad ideas. The Bible must work together, as there are no contradictions in the word of God.
 
-The Reformers were right. Justification is by faith alone, but the faith that saves is never alone in the person justified.
+The Reformers were right. Justification is by faith alone (Eph. 2:8-9), but the faith that saves is never alone in the person justified (James 2:24; Eph. 2:10).
 
 <script>
     var refTagger = {
