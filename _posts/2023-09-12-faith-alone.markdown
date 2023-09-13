@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:25:00 -0500
+date: 2023-09-12 03:30:00 -0500
 categories: truth
 published: true
 ---
@@ -61,7 +61,16 @@ While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith i
 
     > Salvation is received through repentance toward God and faith toward the Lord Jesus Christ. ... **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12). &mdash; ["Assemblies of God Statement of Fundamental Truths," sec. 5]()
 
-## III. Conclusion
+## III. Consequences
+
+# The difference between sound doctrine and heresy
+
+Understanding James 2:24 is the difference between having sound doctrine, being legalist, or being antinomian. The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protected us from antinomianism. While the first half protected us from legalism.
+
+<!-- 1. (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) -->
+
+## IV. Conclusion
 
 After reading the consistent testimony from all major traditions that came from the Reformation&mdash;Lutheran, Reformed or Presbyterian, Anglican, Baptist, Methodist, and Pentecostal&mdash;we should start to wonder why there has been a departure from their sound teaching.
 
