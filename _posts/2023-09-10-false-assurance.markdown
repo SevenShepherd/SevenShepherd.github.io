@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "👨‍🏫 False assurance speaks of \"those who are not saved, but have the assurance that they are saved.\""
-date: 2023-09-10 01:35:00 -0500
+title: "😵 False assurance speaks of \"those who are not saved, but have the assurance that they are saved.\""
+date: 2023-09-10 01:40:00 -0500
 categories: truth saved assurance
 published: true
 ---
