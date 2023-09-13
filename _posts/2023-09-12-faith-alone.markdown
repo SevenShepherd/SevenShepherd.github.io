@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted by false teachers"
-date: 2023-09-12 03:10:00 -0500
+title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
+date: 2023-09-12 03:15:00 -0500
 categories: truth
 published: true
 ---
 
-This distortion has to do with the removal of the second half of the definition. I think it should be obvious, that if the reformers developed the doctrine of "faith alone," and some cultist, or strange movement tampers with it, that it will destabilize the soundness of the doctrine. This is exactly what has happened. 
+This distortion has to do with the removal of the second half of the definition. I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
 ## I. Not The &ldquo;*Faith Alone*&rdquo; Of The Reformation
 
@@ -63,13 +63,13 @@ While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith i
 
 ## III. Conclusion
 
-After reading the consistent testimony from all major traditions that came from the Reformation&mdash;Lutheran, Reformed or Presbyterian, Anglican, Baptist, Methodist, and Pentecostal&mdash; we should start to wonder why there has been a departure from their sound teaching.
+After reading the consistent testimony from all major traditions that came from the Reformation&mdash;Lutheran, Reformed or Presbyterian, Anglican, Baptist, Methodist, and Pentecostal&mdash;we should start to wonder why there has been a departure from their sound teaching.
 
 As you can see, plain as day, none of them ever taught that &ldquo;*justification by faith alone*&rdquo; means &ldquo;*faith not accompanied by repentance or by good works.*&rdquo; In the historic protestant theological tradition, &ldquo;*faith alone*&rdquo; has never meant &ldquo;*faith not accompanied by other human actions.*&rdquo; Rather, &ldquo;*faith alone*&rdquo; has always meant that &ldquo;*faith is the only thing that God responds to with the act of justification.*&rdquo;
 
 The Reformers are the biggest group to come out against legalism in the history of Christianity, even to this day. Which should make this ordeal that much more profound, when you hear false teachers twist the minds of the naive against the sound doctrines of the reformation. They died defending sola fide from legalists, and now, here I am defending it from antinomians.
 
-If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, that person is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language.
+If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, that person's is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language.
 
 There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
