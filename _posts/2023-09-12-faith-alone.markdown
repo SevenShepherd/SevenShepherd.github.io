@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:35:00 -0500
+date: 2023-09-12 03:40:00 -0500
 categories: truth
 published: true
 ---
@@ -65,15 +65,16 @@ While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith i
 
 # The difference between sound doctrine and heresy
 
-Understanding James 2:24 is the difference between having sound doctrine, being legalist, or being antinomian. The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protected us from antinomianism. While the first half protected us from legalism.
+Understanding James 2:24 is the difference between having sound doctrine, being legalist, or being antinomian. The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from antinomianism. While the first half protects us from legalism.
 
 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
 3. Verses for obedience after salvation (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4)
-4. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12)
-5. Verses for good works after salvation (James 2:14-26; Eph 2:10)
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
+6. Verses for good works after salvation (James 2:14-26; Eph 2:10)
 
-If the Bible is to work together, Eph 2:8-9 & James 2:24 must be reconciled together. We accomplish this by observing, carefully, the context. In verses where the Apostle Paul is teaching that we're no longer under the law of moses<sup style="font-weight:bold;">Point 1</sup>, he is teaching that justification in the sight of God is by faith only; whereas, James in James 2:24 is speaking of Justification in the sight of men<sup style="font-weight:bold;">Points 2-5</sup>, the fruits of the faith, Godly dispositions of love, the good deeds and services that spring forth from a true and lively faith.
+If the Bible is to work together, Eph 2:8-9 & James 2:24 must be reconciled together. We accomplish this by observing, carefully, the context. In verses where the Apostle Paul is teaching that we're no longer under the law of moses<sup style="font-weight:bold;">Point 1</sup>, he is teaching that justification in the sight of God is by faith only; whereas, James in James 2:24 is speaking of Justification in the sight of men<sup style="font-weight:bold;">Points 2-6</sup>, the fruits of the faith, Godly dispositions of love, the good deeds and services that spring forth from a true and lively faith.
 
 So we can confidently conclude that the second half of the doctrine of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; is absolutely necessary!
 
