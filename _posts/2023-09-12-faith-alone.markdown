@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:15:00 -0500
+date: 2023-09-12 03:25:00 -0500
 categories: truth
 published: true
 ---
@@ -10,7 +10,7 @@ This distortion has to do with the removal of the second half of the definition.
 
 ## I. Not The &ldquo;*Faith Alone*&rdquo; Of The Reformation
 
-The second half of the sentence, &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***,&rdquo; means that other things always accompany saving faith. Namely, saving faith is always followed by changes in a person's conduct of life. That is to say, saving faith is never alone in a person, for *some good works will always accompany saving faith in a person's life* and and will be seen after a person comes to faith.
+The second half of the sentence, &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***,&rdquo; means that other things always accompany saving faith. Namely, saving faith is always followed by changes in a person's conduct of life. That is to say, saving faith is never alone in a person, for *some good works will always accompany saving faith in a person's life* and will be seen after a person comes to faith.
 
 While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith is the only thing that God responds to, historic protestant teaching has never taken &ldquo;*faith alone*&rdquo; to mean &ldquo;*faith that occurs by itself* in a person, unaccompanied by other human activities&rdquo;
 
@@ -69,7 +69,7 @@ As you can see, plain as day, none of them ever taught that &ldquo;*justificatio
 
 The Reformers are the biggest group to come out against legalism in the history of Christianity, even to this day. Which should make this ordeal that much more profound, when you hear false teachers twist the minds of the naive against the sound doctrines of the reformation. They died defending sola fide from legalists, and now, here I am defending it from antinomians.
 
-If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, that person's is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language.
+If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, that person is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language.
 
 There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
