@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔨 The Paradoxical Irony of Accusing Others Of Being Judgemental Without Ever Being Personally Attacked Is An Admission Of Being Convicted By The Word Of God"
-date: 2023-09-01 03:35:00 -0500
+date: 2023-09-01 03:45:00 -0500
 categories: judgemental
 published: true
 ---
@@ -15,7 +15,8 @@ If you accuse someone of being judgemental and they have never personally attack
 <!-- That concludes this ministries shortest article. -->
 
 # Repentance
-- As Jesus and the apostles taught, repentance is a turning away from sin and a turning to God in trust (Acts 26:18,20; 3:19); as [every authoritative Greek lexicon reveals](https://sevenshepherd.github.io/chuck-smith-repentance/).
+- Repentance is a turning away from sin to God in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/chuck-smith-repentance/).
+    - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18).
 - Repentance is necessary (Lk 13:3) for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31).
 - Unrepentant sinners will perish (Luke 13:3).
