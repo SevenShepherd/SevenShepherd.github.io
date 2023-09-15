@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:45:00 -0500
+date: 2023-09-12 03:55:00 -0500
 categories: truth
 published: true
 ---
@@ -86,13 +86,15 @@ As you can see, plain as day, none of them ever taught that &ldquo;*justificatio
 
 The Reformers are the biggest group to come out against legalism in the history of Christianity, even to this day. Which should make this ordeal that much more profound, when you hear false teachers twist the minds of the naive against the sound doctrines of the reformation. They died defending sola fide from legalists, and now, here I am defending it from antinomians.
 
-If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, that person is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language.
+If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment.
+
+<!-- that person is not logical whatsoever. Not only are they incapable of logic, but they also have a feeble understanding of the English language. -->
 
 There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
 When false teachers remove parts of the full definition, they create their own contradictions. It's also worth noting, something that results from something else, or follows after it, cannot contribute to it.
 
-This is one of those articles where I feel like im talking to a child about the order of the alphabet or how 1 + 2 = 3. You can't tell me you guys don't see how absurd these attacks are.
+<!-- This is one of those articles where I feel like im talking to a child about the order of the alphabet or how 1 + 2 = 3. You can't tell me you guys don't see how absurd these attacks are. -->
 
 |Genuine Saving Faith||
 |:-:|:-:|
@@ -101,7 +103,9 @@ This is one of those articles where I feel like im talking to a child about the 
 |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
 |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
 
-I think it should be clear that if your theology cannot reconcile Eph 2:8-10 with James 2:14-26; 1Jn 2:3-6; 3:6-10, it is a bad theology and it should be thrown out with the garbage of bad ideas. The Bible must work together, as there are no contradictions in the word of God.
+I think it should be clear that if your theology cannot reconcile Eph 2:8-10 with James 2:14-26; 1Jn 2:3-6; 3:6-10, it is a bad theology that doesn't represent the Bible, and should be abandoned. The Bible must work together, as there are no contradictions in the word of God.
+
+<!-- it is a bad theology and it should be thrown out with the garbage of bad ideas. -->
 
 The Reformers were right. Justification is by faith alone (Eph. 2:8-9), but the faith that saves is never alone in the person justified (James 2:24; Eph. 2:10).
 
