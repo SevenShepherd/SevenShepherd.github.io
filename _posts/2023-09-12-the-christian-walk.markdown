@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 When You Profess Christ Truly, You Walk As He Walked. We're Not Saved By This Walk, But That's What Happens As A Result Of A Genuine Profession"
-date: 2023-09-12 02:25:00 -0500
+date: 2023-09-12 02:30:00 -0500
 categories: truth
 published: true
 ---
