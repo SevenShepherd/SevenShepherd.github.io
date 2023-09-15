@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 When You Profess Christ Truly, You Walk As He Walked. We're Not Saved By This Walk, But That's What Happens As A Result Of A Genuine Profession"
-date: 2023-09-12 02:30:00 -0500
+date: 2023-09-12 02:35:00 -0500
 categories: truth
 published: true
 ---
@@ -23,7 +23,7 @@ These verses prove the following three things:
 
 Final Thoughts
 
-- Salvation is by grace through faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified.
+- Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/).
 - Intellectual assent to facts is not salvific (James 2:19), Saving faith includes knowledge (notitia), approval (assensus), and personal trust (fiducia).
 - James rejects salvation by dead faith (James 2:14-26).
 - Paul tells us to test for genuine faith, or a living faith, because Christ lives in you (2 Cor. 13:5).
