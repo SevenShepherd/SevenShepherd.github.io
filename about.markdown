@@ -60,7 +60,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Articles</span>
 
-- [How Do You Know You're Saved? This Is How.](https://bit.ly/3sUSEVG)
+- [This Is How You Know You're Saved](https://bit.ly/3sUSEVG)
 <!-- - [The Rain Falls On The Just And Unjust Alike](https://bit.ly/3mz70rY) -->
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 <!-- - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ) -->
