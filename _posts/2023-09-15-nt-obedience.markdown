@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "😕 NT Obedience To Christ Has Absolutely Nothing To Do With OT Legalistic, Ritualistic, And Rule Based Adherence To Mosaic Law"
-date: 2023-09-15 01:30:00 -0500
+title: "❣️ NT Obedience To Christ Has Absolutely Nothing To Do With OT Legalistic, Ritualistic, And Rule Based Adherence To Mosaic Law"
+date: 2023-09-15 01:35:00 -0500
 categories: truth
 published: true
 ---
@@ -10,7 +10,7 @@ New Testament obedience to Christ is characterized by a heartfelt commitment to 
 
 > <sup style="font-weight:bold;">15</sup> If you love me, **you will** obey my commandments. ... <sup style="font-weight:bold;">21</sup> The person who has my commandments and obeys them is the one who loves me. The one who loves me will be loved by my Father, and I will love him and will reveal myself to him.” &mdash; John 14:15,21 NET
 
-If you thought obedience to Christ had anything to do with legalism, I recommend better theology teachers.
+If you thought obedience to Christ had anything to do with legalism, I recommend better theology teachers, and a more careful and responsible examination of scripture.
 
 <!-- > <sub style="font-weight:bold;">3</sup> For this is the love of God: that we keep his commandments. And **his commandments do not weigh us down**, <sub style="font-weight:bold;">4</sup> because everyone who has been fathered by God conquers the world. &mdash; 1 John 5:3-4 NET -->
 
