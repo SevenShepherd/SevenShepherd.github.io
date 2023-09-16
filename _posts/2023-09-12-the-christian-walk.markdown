@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 When You Profess Christ Truly, You Walk As He Walked. We're Not Saved By This Walk, But That's What Happens As A Result Of A Genuine Profession"
-date: 2023-09-12 02:35:00 -0500
+date: 2023-09-12 02:40:00 -0500
 categories: truth
 published: true
 ---
@@ -65,14 +65,17 @@ Second Corinthians 7:10 proves:
 - Contrition is not attrition.
 
 The aforementioned verses prove the following:
-- Repentance is a turning away from sin to God in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/chuck-smith-repentance/).
+- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/chuck-smith-repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
-- Repentance leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18).
-- Repentance is necessary (Lk 13:3) for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31).
-- Unrepentant sinners will perish (Luke 13:3).
-- Repentance is a command from God himself (Acts 17:30).
+- Repentance is **a Godly sorrow** that **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+- Repentance is necessary (Lk 13:3) **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- Unrepentant sinners will perish (Luke 13:3; Mt 3:10).
+- Repentance is a command from God himself (Acts 17:30; Mt 4:17).
 - While there may be an initial saving repentance, it is not a one time event (Luke 17:3-4; 1 Cor. 5:12-13 NLT).
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
+- Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
+
+<!-- - Repentance is a return to the practice of righteousness, James 2:17-18; 1Jn 2:29; 1Jn 3:7 -->
 
 ## III. Christians Acknowledge Jesus As Lord Over Their Life
 
