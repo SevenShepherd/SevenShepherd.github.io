@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "❣️ NT Obedience To Christ Has Absolutely Nothing To Do With OT Legalistic, Ritualistic, And Rule Based Adherence To Mosaic Law"
-date: 2023-09-15 01:35:00 -0500
+date: 2023-09-15 01:40:00 -0500
 categories: truth
 published: true
 ---
