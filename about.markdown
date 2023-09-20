@@ -262,20 +262,23 @@ This section details even more advanced material for those who want to deep dive
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-I consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. 
+I consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*](). I consider myself a [Historic Protestant](https://bit.ly/3sUSEVG).
 
-I would have selected R. C. Sproul's [*Essential Truths*]() as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology.
+<!-- I would have selected R. C. Sproul's [*Essential Truths*]() as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology. -->
 
 |Professors|Books|
 |:-:|:-:|
 |**Systematic Theology**||
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**]()|
-|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|<a href="">☩ Concise Theology (NIV)</a><br>[☩ Concise Theology Hardcover (ESV)]()|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">☩ Essential Truths</a><br>[☩ Everyone's a Theologian]()|
+|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()|
 |||
 |**Soteriology**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God]()|
+|[Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)]()<br>7 November 1943 &mdash; Present|[☩ Determined to Believe?]()|
+
+<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">☩ Essential Truths</a><br>[☩ Everyone's a Theologian]()| -->
+
+<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God]()| -->
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Soteriology</span>
 
@@ -322,7 +325,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |:-:|:-:|
 |**Apologetics**||
 |[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
-|[Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)]()<br>7 November 1943 &mdash; Present|[☩ Determined to Believe?]()<br>[☩ Can Science Explain Everything?]()|
+|[Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)]()<br>7 November 1943 &mdash; Present|[☩ Can Science Explain Everything?]()|
 |Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
 |[Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist]()<br>[☩ Stealing from God]()|
