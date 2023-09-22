@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🌷 Why I Reject Limited Atonement" 
-date: 2023-09-22 01:25:25 -0500
+title: "🌷 Why I've Always Rejected Limited Atonement" 
+date: 2023-09-22 02:00:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
