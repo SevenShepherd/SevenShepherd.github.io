@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "🌷 Why I've Always Rejected Limited Atonement" 
-date: 2023-09-22 02:05:00 -0500
+date: 2023-09-22 02:10:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
 
 Instead of reiterating the points made by Dr. Ron Rhodes in his article &ldquo;[*The Extent of the Atonement,*](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo; I would encourage you to read them yourself as the article is not very large.
 
-> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), [The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
 
 Dr. John C. Lennox also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth an expansive.
 
