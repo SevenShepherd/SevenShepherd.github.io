@@ -1,10 +1,34 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:35:30 -0500
+date: 2023-05-12 01:40:30 -0500
 categories: sin practice
 published: true
 ---
+
+<!-- The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a> -->
+
+<!-- The unscriptural, anti-evangelical delusion persists in asserting that faith can exist without repentance or justification, while rejecting the lordship of Christ. -->
+
+<!-- There Can Be No Saving Faith Without Repentance And There Can Be No Justification Without Christ As Lord. Opposition Is An Unbiblical, Anti-Evangelical, And A Sub-Christian Delusion. -->
+
+<!-- Saving faith necessitates genuine repentance. -->
+
+<!-- Saving Faith Without Repentance Or Justification Without Christ As Lord Is An Unscriptural, Anti-Evangelical, Sub-Christian Delusion. -->
+
+<!-- Saving Faith Without Repentance Or Justification Without Christ As Lord Is An Unbiblical, Anti-Evangelical, Sub-Christian Delusion. -->
+
+<!-- Saving Faith Without Repentance Or Justification Without Christ's Lordship is an unbiblical, anti-evangelical, sub-Christian delusion. -->
+
+<!-- Claiming salvation through faith without repentance or justification while rejecting Christ as Lord is an unbiblical, anti-evangelical, sub-Christian delusion. -->
+
+<!-- The Idea That There Can Be Saving Faith Without Repentance Or That There Is Justification While Refusing Christ As Lord Is A Unbiblical, Anti-Evangelical, Sub-Christian, And A Destructively Strong Delusion. -->
+
+<!-- The Best Argument For Historic Christianity Theology Is The Evil Hearts That Develop From Neotheologies -->
+
+<!-- The seeds of satan are set against true Christian theologies -->
+
+<!-- You will do whatever your heart desires, and you will not escape this curse without God. -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -13,7 +37,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
     - 1.1.1 <a href="#studies">Study Bibles</a>
         - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
     - 1.1.2 <a href="#scholars">Biblical Scholars</a>
-        - 1.1.2.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge)</a>
+        - 1.1.2.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge; DD, Westminister)</a>
         - 1.1.2.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
         - 1.1.2.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
         - 1.1.2.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
@@ -26,7 +50,13 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
         - 1.1.2.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
         - 1.1.2.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
         - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
-    - 1.1.3 <a href="#pastors">Pastors</a>
+        - 1.1.2.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
+    - 1.1.3 <a href="#scientist">Scientist Theologians</a>
+        - 1.1.3.1 <a href="#lennox">Dr. Lennox (Multiple PhDs, "Oxbridge")</a>
+        - 1.1.3.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
+        - 1.1.3.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
+        - 1.1.3.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
+    - 1.1.4 <a href="#pastors">Pastors</a>
         - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
         - 1.1.3.2 <a href="#graham">Billy Graham</a>
 
@@ -64,7 +94,6 @@ Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_ci
 When the academic community, the exegetes, the textual critics, the research professors, and all other scholars say that true saving faith always or naturally **results** in obedience to God and good works that follow **after** justification, they are not saying that justification includes works, because that would be the heresy of legalism. What they are saying is that you will not have a dead faith, they are defending you from [the heresy antinomianism](https://sevenshepherd.github.io/antinomian-heresy/) among other heresies.
 
 > Legalistic religion in all its forms should be avoided like the plague &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
-
 
 |True Saving Faith||
 |:-:|:-:|
@@ -178,7 +207,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="rhodes" href="#rhodes_cite" style="font-size:1.4em;">1.1.2.10 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
-    > Under Construction
+    See <a href="#geisler">Geisler</a>, as they are both moderate calvinists.
 
 - <a name="geisler" href="#geisler_cite" style="font-size:1.4em;">1.1.2.11 Dr. Norman Geisler (M.A., Theology at Wheaton)</a>
 
@@ -192,15 +221,43 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="turek" href="#turek_cite" style="font-size:1.4em;">1.1.2.12 Dr. Frank Turek (D.Min., SES)</a>
 
-    > Under Construction
+    See <a href="#geisler">Geisler</a>
 
 - <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">1.1.2.13 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
 
     > Our salvation requires both confession and repentance on our part. Though God loves us, He requires us to willingly turn away from our sin and toward Jesus. &mdash; [Skip's Teachings](http://skipheitzig.com/teachings_view.asp?ServiceID=4255)
 
-<a name="pastors" href="#contents" style="font-size:1.6em;">1.1.3 Pastors</a>
+- <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">1.1.2.14 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
 
-- <a name="smith" href="#smith_cite" style="font-size:1.4em;">1.1.3.1 Chuck Smith (B.A., LBC)</a>
+    See <a href="#geisler">Geisler</a>
+
+<a name="scientist" href="#contents" style="font-size:1.6em;">1.1.3 Scientist Theologians</a>
+
+- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.3.1 Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)</a>
+
+    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+    >
+    1. belief, trust;
+    2. that which produces belief, evidence, token, pledge, engagement;
+    3. trust in its objective aspect, troth, observance of trust, fidelity.
+    >
+    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.**
+
+- <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.3.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
+
+    See <a href="#lennox">Lennox</a>
+
+- <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">1.1.3.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
+
+    See <a href="#lennox">Lennox</a>
+
+- <a name="ross" href="#ross_cite" style="font-size:1.4em;">1.1.3.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
+
+    > Under construction
+
+<a name="pastors" href="#contents" style="font-size:1.6em;">1.1.4 Pastors</a>
+
+- <a name="smith" href="#smith_cite" style="font-size:1.4em;">1.1.4.1 Chuck Smith (B.A., LBC)</a>
 
     The following is an excerpt from Chuck Smith's C2000. We also recommend his topical study on [repentance](https://youtu.be/kP8rIIps4Sk?t=130).
 
@@ -208,7 +265,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:orangered;">If you are <span style="font-size:1.2em;color:red;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
 
-- <a name="graham" href="#graham_cite" style="font-size:1.4em;">1.1.3.2 Billy Graham</a>
+- <a name="graham" href="#graham_cite" style="font-size:1.4em;">1.1.4.2 Billy Graham</a>
 
     > Ask God to reveal the hypocrisy in your life&mdash;<span style="font-weight:bold;color:orangered;">an inconsistency between what you profess and what you <span style="font-size:1.2em;color:red;">practice</span></span>. Then ask God to bring you so close to Christ that you won't have any desire to live an inconsistent, deceitful life. &mdash; Billy Graham
 
