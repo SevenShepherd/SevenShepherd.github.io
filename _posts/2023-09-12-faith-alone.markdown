@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 03:55:00 -0500
+date: 2023-09-12 04:00:00 -0500
 categories: truth
 published: true
 ---
 
 This distortion has to do with the removal of the second half of the definition. I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
-## I. Not The &ldquo;*Faith Alone*&rdquo; Of The Reformation
+## I. The &ldquo;*Faith Alone*&rdquo; Of The Reformation
 
 The second half of the sentence, &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***,&rdquo; means that other things always accompany saving faith. Namely, saving faith is always followed by changes in a person's conduct of life. That is to say, saving faith is never alone in a person, for *some good works will always accompany saving faith in a person's life* and will be seen after a person comes to faith.
 
