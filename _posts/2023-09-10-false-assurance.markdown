@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "😵 False assurance speaks of \"those who are not saved, but have the assurance that they are saved.\""
-date: 2023-09-10 01:45:00 -0500
+date: 2023-09-10 01:50:00 -0500
 categories: truth saved assurance
-published: true
+published: false
 ---
 
 <!-- A Good Leader For Christ Does Not Compromise On The Truth, A Bad Leader Sugar Coats The Truth, Thereby Perverting It's Message And Giving False Assurance -->
