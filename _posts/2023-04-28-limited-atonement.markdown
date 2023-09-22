@@ -1,14 +1,21 @@
 ---
 layout: post
 title: "🌷 Why I've Always Rejected Limited Atonement" 
-date: 2023-09-22 02:00:00 -0500
+date: 2023-09-22 02:05:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
 
-Instead of reiterating the points made by Dr. Ron Rhodes (ThD, Dallas Theological Seminary) in &ldquo;[*The Extent of the Atonement—Limited Atonement versus Unlimited Atonement*](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo; and Dr. John C. Lennox's (Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; PhD, University of Oxford; PhD, University of Cardiff) book &ldquo;[*Determined to Believe?*]()&rdquo;, you can read them for yourself.
+Instead of reiterating the points made by Dr. Ron Rhodes in his article &ldquo;[*The Extent of the Atonement,*](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo; I would encourage you to read them yourself as the article is not very large.
 
 > My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+
+Dr. John C. Lennox also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth an expansive.
+
+> All of this invalidates the L of TULIP – “limited atonement” –
+the view that Christ did not actually die for all but only for the “elect”.
+In fact, not only Luther but many of the other reformers, including
+Calvin, did not subscribe to limited atonement. &mdash; Dr. John C. Lennox's (Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; PhD, University of Oxford; PhD, University of Cardiff), [*Determined to Believe?*]() p. 179.
 
 <!-- "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" -->
 
