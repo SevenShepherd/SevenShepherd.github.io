@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ Ordo Salutis (Arminian)"
-date: 2023-09-22 1:05:00 -0500
+title: "⚜️ Ordo Salutis (Arminianism)"
+date: 2023-09-22 1:10:00 -0500
 categories: salvation
 published: true
 ---

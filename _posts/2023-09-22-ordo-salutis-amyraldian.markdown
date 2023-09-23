@@ -1,0 +1,109 @@
+---
+layout: post
+title: "⚜️ Ordo Salutis (Amyraldism)"
+date: 2023-09-22 1:20:00 -0500
+categories: salvation
+published: true
+---
+
+Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century. **This article is not an endorsement.**
+
+<a name="amyraldism" href="#contents" style="font-size:2.1em;">I. Moderate Reformed Theology</a>
+
+Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
+
+<!-- > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms</span> moderate <span style="color:orangered;">Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11. -->
+
+<!-- > Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler -->
+
+<!-- - [⚠️ Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/) -->
+
+<!-- See <a href="#reformed">Reformed Theology</a> except place regeneration after faith and before repentance. -->
+
+<!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) -->
+
+<!-- > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120 -->
+
+<!-- > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin. -->
+
+<!-- --- -->
+
+> Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
+
+<!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics). -->
+
+<!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
+
+
+<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+
+Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+
+1. **Election**
+    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
+2. **Effectual calling**
+    - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
+3. **Belief in the Gospel**
+    - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
+4. **Repentance**
+    - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
+5. **Trust in Christ**
+    - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
+6. **Regeneration**
+    - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
+7. **Union with Christ**
+    - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
+8. **Justification**
+    - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
+9. **Sanctification**
+    - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
+10. **Preservation and perseverance**
+    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
+11. **Glorification**
+    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
+
+<span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
+
+> Under construction
+
+<!-- It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well. -->
+
+<!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
+- Dr. Jack Van Impe (Ph.D., Pacific)
+- Billy Graham (Self-directed)
+- Chuck Smith (B.A., Life Bible College)
+    - Election: *"**God clearly does choose**, but man must also accept God's invitation to salvation."* 
+    - Perseverance: *"Apparently there are many who claim to be believers that in fact are not. ... **We do believe in perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."*
+
+- Dr. Walter Martin (Ph.D., California Coast)
+    - The "father" of the counter-cult movement.
+    - Martin was an American Baptist who held 4 earned degrees.
+    - Believed in the continuation of the charismatic spiritual gifts.
+    - Did not believe in pretrib rapture
+    - *"I am a **charismatic Baptist—just like Calvin, Luther, Zwingli, Knox—all the reformers**.* &mdash; The Kingdom of the Occult. p. 685.
+- [Dr. Ron Rhodes (Th.D., Dallas)](https://youtu.be/Efc5MA2Vtu4)
+    - Part of the ESV Study Bible
+    - &ldquo;*My position is known in theological circles as “4-point Calvinism.*&rdquo;
+    - *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."*
+    - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
+- Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
+- [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og) -->
+
+<!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

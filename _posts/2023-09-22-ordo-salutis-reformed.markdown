@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ Ordo Salutis (Reformed)"
-date: 2023-09-22 1:00:00 -0500
+title: "⚜️ Ordo Salutis (Calvinism)"
+date: 2023-09-22 1:05:00 -0500
 categories: salvation
 published: true
 ---
