@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:05:00 -0500
+date: 2023-09-22 1:07:00 -0500
 categories: salvation
 published: true
 ---
@@ -205,7 +205,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 ✅ Reformed theology is securely [monergistic](https://carm.org/dictionary/monergism/).  -->
 
-It should be noted that St. Augustine, Luther, & Calvin all rejected &ldquo;Limited Atonement.&rdquo; Calvin is, perhaps, better described as moderate 4-point Calvinist.
+⚠️ It should be noted that St. Augustine, Luther, & Calvin all rejected &ldquo;Limited Atonement.&rdquo; Calvin is, perhaps, better described as moderate 4-point Calvinist.
 
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
