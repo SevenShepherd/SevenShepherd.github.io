@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:10:00 -0500
+date: 2023-05-12 02:15:00 -0500
 categories: sin practice
 published: true
 ---
@@ -135,7 +135,7 @@ When the academic community, the exegetes, the textual critics, the research pro
     >
     >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
     >
-    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** 
+    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 313.
 
     > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
     >
@@ -143,7 +143,7 @@ When the academic community, the exegetes, the textual critics, the research pro
     2. that which produces belief, evidence, token, pledge, engagement;
     3. trust in its objective aspect, troth, observance of trust, fidelity.
     >
-    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &ldquo;[*Determined to Believe?*]()&rdquo; p. 136.
+    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 136.
 
 - <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.2.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
 
