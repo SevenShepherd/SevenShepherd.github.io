@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Roman Catholicism)"
-date: 2023-09-22 1:40:00 -0500
+date: 2023-09-22 1:45:00 -0500
 categories: salvation
 published: true
 ---
 
 <a name="roman" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Roman Catholicism</a>
 
-The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments. Roman Catholicism is considered legalistic in it's [synergistic](https://carm.org/dictionary/synergism/) and [sacerdotalist](https://carm.org/dictionary/sacerdotalism/) theology. They also deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.
+⚠️ The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments. Roman Catholicism is considered legalistic in it's [synergistic](https://carm.org/dictionary/synergism/) and [sacerdotalist](https://carm.org/dictionary/sacerdotalism/) theology. They also deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.
 
 <!-- (https://youtu.be/--fafICBts8?t=983) -->
 
