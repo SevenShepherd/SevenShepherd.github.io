@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:55:00 -0500
+date: 2023-05-12 02:10:00 -0500
 categories: sin practice
 published: true
 ---
@@ -130,12 +130,12 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)</a>
 
-    > A second way of knowing that we have eternal life is by observing the spiritual and moral outworking of our faith in our behaviour:
-    >>We know that we have come to know him if we obey his commands. Th e man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
-    >>
-    We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+    > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+    >> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
     >
-    Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. Th at is, the development of visible Christian moral virtues in a person’s life confi rms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer. 
+    >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+    >
+    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** 
 
     > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
     >
