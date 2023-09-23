@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 01:40:30 -0500
+date: 2023-05-12 01:50:00 -0500
 categories: sin practice
 published: true
 ---
@@ -36,26 +36,26 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
 - 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
     - 1.1.1 <a href="#studies">Study Bibles</a>
         - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
-    - 1.1.2 <a href="#scholars">Biblical Scholars</a>
-        - 1.1.2.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge; DD, Westminister)</a>
-        - 1.1.2.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
-        - 1.1.2.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
-        - 1.1.2.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
-        - 1.1.2.5 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
-        - 1.1.2.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
-        - 1.1.2.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
-        - 1.1.2.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
-        - 1.1.2.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
-        - 1.1.2.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
-        - 1.1.2.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
-        - 1.1.2.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
-        - 1.1.2.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
-        - 1.1.2.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
-    - 1.1.3 <a href="#scientist">Scientist Theologians</a>
-        - 1.1.3.1 <a href="#lennox">Dr. Lennox (Multiple PhDs, "Oxbridge")</a>
-        - 1.1.3.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
-        - 1.1.3.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
-        - 1.1.3.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
+    - 1.1.2 <a href="#scientist">Scientist Theologians</a>
+        - 1.1.2.1 <a href="#lennox">Dr. Lennox (PhD,PhD,PhD, "Oxbridge")</a>
+        - 1.1.2.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
+        - 1.1.2.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
+        - 1.1.2.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
+    - 1.1.3 <a href="#scholars">Biblical Scholars</a>
+        - 1.1.3.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge; DD, Westminister)</a>
+        - 1.1.3.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
+        - 1.1.3.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
+        - 1.1.3.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
+        - 1.1.3.5 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
+        - 1.1.3.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
+        - 1.1.3.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
+        - 1.1.3.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
+        - 1.1.3.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+        - 1.1.3.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
+        - 1.1.3.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
+        - 1.1.3.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
+        - 1.1.3.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
+        - 1.1.3.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
     - 1.1.4 <a href="#pastors">Pastors</a>
         - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
         - 1.1.3.2 <a href="#graham">Billy Graham</a>
@@ -126,9 +126,40 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, <span style="font-weight:bold;color:orangered;">the believer <span style="font-size:1.2em;color:red;">cannot</span> keep on sinning. Thus the hearts of <span style="font-size:1.2em;color:red;">genuine Christians</span> (those who are truly children of God) have been so transformed that they cannot live in a pattern of continual sin</span>—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
 
-<a name="scholars" href="#contents" style="font-size:1.6em;">1.1.2 Biblical Scholars</a>
+<a name="scientist" href="#contents" style="font-size:1.6em;">1.1.2 Scientist Theologians</a>
 
-- <a name="grudem" href="#grudem_cite" style="font-size:1.4em;">1.1.2.1 Dr. Wayne Grudem (Ph.D., University of Cambridge)</a>
+- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)</a>
+
+    > A second way of knowing that we have eternal life is by observing the spiritual and moral outworking of our faith in our behaviour:
+    >>We know that we have come to know him if we obey his commands. Th e man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
+    >>
+    We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+    >
+    Jesus made a similar point when he said, by their fruit you will recognise them (Matthew 7:20). If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible. It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. Th at is, the development of visible Christian moral virtues in a person’s life confi rms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer. 
+
+    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+    >
+    1. belief, trust;
+    2. that which produces belief, evidence, token, pledge, engagement;
+    3. trust in its objective aspect, troth, observance of trust, fidelity.
+    >
+    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &ldquo;[*Determined to Believe?*]()&rdquo; p. 136.
+
+- <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.2.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
+
+    See <a href="#lennox">Lennox</a>
+
+- <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">1.1.2.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
+
+    See <a href="#lennox">Lennox</a>
+
+- <a name="ross" href="#ross_cite" style="font-size:1.4em;">1.1.2.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
+
+    > Under construction
+
+<a name="scholars" href="#contents" style="font-size:1.6em;">1.1.3 Biblical Scholars</a>
+
+- <a name="grudem" href="#grudem_cite" style="font-size:1.4em;">1.1.3.1 Dr. Wayne Grudem (Ph.D., University of Cambridge)</a>
 
     > I believe <span style="font-weight:bold;color:orangered;">saving faith will <span style="font-size:1.2em;color:red;">result</span> in obedience</span>... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD)
 
@@ -148,11 +179,11 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     The context shows that James was referring to showing one’s faith through doing good deeds. This is not to be confused with Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) when he was referring to “works” (erga) of Jewish law.<sup><a href="#logos_cite">4</a></sup>
 
-- <a name="packer" href="#packer_cite" style="font-size:1.4em;">1.1.2.2 Dr. J. I. Packer (Ph.D., University of Oxford)</a>
+- <a name="packer" href="#packer_cite" style="font-size:1.4em;">1.1.3.2 Dr. J. I. Packer (Ph.D., University of Oxford)</a>
 
     > **Justification by works (things we have done) is the heresy of legalism.** Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But <span style="font-weight:bold;color:orangered;">if ‘good works’ (activities of serving God and others) do not follow from our profession of faith</span>, we are as yet believing only from the head, not from the heart: in other words, <span style="font-weight:bold;color:orangered;">justifying faith (fiducia) is <span style="font-size:1.2em;color:red;">not yet ours</span></span>. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
-- <a name="carson" href="#carson_cite" style="font-size:1.4em;">1.1.2.3 Dr. D. A. Carson (Ph.D., University of Cambridge)</a>
+- <a name="carson" href="#carson_cite" style="font-size:1.4em;">1.1.3.3 Dr. D. A. Carson (Ph.D., University of Cambridge)</a>
 
     > <a href="https://www.thegospelcoalition.org/course/justification-faith-biblical-theological-perspective/#what-is-faith" style="font-size:1.2em;font-weight:bold;">Faith Is More than Belief</a>
     >
@@ -168,15 +199,15 @@ When the academic community, the exegetes, the textual critics, the research pro
     >
     It has a kind of repentance built into it. It’s the very nature of faith to abandon myself to God and His word and His promises, or it’s not saving faith. So when Paul says to the Philippian jailer, “Believe in the Lord Jesus Christ, and you shall be saved,” he certainly means something more than “Believe that Jesus rose from the dead, and you will be saved.” <span style="font-weight:bold;color:orangered;">That you might almost call “demonic faith”; that is to say, it’s faith that a demon can exercise without it saving anybody, whereas genuine saving faith not only believes the truth that God has revealed, but also it finds the believer abandoning himself</span>, abandoning herself, to Christ in wonderful trust.
 
-- <a name="horton" href="#horton_cite" style="font-size:1.4em;">1.1.2.4 Dr. Michael Horton (Ph.D., Oxford)</a>
+- <a name="horton" href="#horton_cite" style="font-size:1.4em;">1.1.3.4 Dr. Michael Horton (Ph.D., Oxford)</a>
 
     > Under Construction
 
-- <a name="wallace" href="#wallace_cite" style="font-size:1.4em;">1.1.2.5 Dr. Daniel B. Wallace (Ph.D., Dallas Theological Seminary)</a>
+- <a name="wallace" href="#wallace_cite" style="font-size:1.4em;">1.1.3.5 Dr. Daniel B. Wallace (Ph.D., Dallas Theological Seminary)</a>
 
     > Under Construction
 
-- <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">1.1.2.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
+- <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">1.1.3.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
     > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced)
     
@@ -191,25 +222,25 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     
 
-- <a name="sproul" href="#sproul_cite" style="font-size:1.4em;">1.1.2.7 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
+- <a name="sproul" href="#sproul_cite" style="font-size:1.4em;">1.1.3.7 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
 
     > In our day and age, we have hundreds of thousands, if not millions, of people in America who have made professions of faith, who have never  demonstrated the reality of the faith they claim to possess. [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary](https://youtu.be/-HMb9YjRq8Q?t=616)
 
     > When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
 
-- <a name="piper" href="#piper_cite" style="font-size:1.4em;">1.1.2.8 Dr. John Piper (D.Theol, Munich)</a>
+- <a name="piper" href="#piper_cite" style="font-size:1.4em;">1.1.3.8 Dr. John Piper (D.Theol, Munich)</a>
 
     > Under Construction
 
-- <a name="lawson" href="#lawson_cite" style="font-size:1.4em;">1.1.2.9 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
+- <a name="lawson" href="#lawson_cite" style="font-size:1.4em;">1.1.3.9 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
 
     > ... <span style="font-weight:bold;color:orangered;">you can say you know God but if you live a life in the pursuit of <span style="font-size:1.2em;color:red;">practicing</span> sin you have never been born again.</span> Now John is not saying that a christian can never sin, we all sin all right, but we don't love our sin and we're not pursuing our sin. We will occasionally fall into sin, but <span style="font-weight:bold;color:orangered;">the one who is living a life, a <span style="font-size:1.2em;color:red;">lifestyle</span>, of continually sinning has never been born again.</span> So it doesn't matter how many times you've walked an aisle, doesn't matter how many times you've prayed a prayer with a counselor, it doesn't matter how many times you've joined a church, <span style="font-weight:bold;color:orangered;">if your life doesn't match up with your profession of faith it calls into serious account the validity of your profession of faith in christ.</span> So to put it another way wherever there is the root of the new birth <span style="font-weight:bold;color:orangered;">there will always be the fruit of a changed life</span> and even Jesus said in matthew 7 verse 20 you will know them by their fruit you can know what's going on beneath the surface down in the ground where the root is by just examining the fruit and so that's the whole argument that John is making here. To put it another way, there is an inseparable connection between regeneration and sanctification, regeneration will always be evidenced in sanctification, which is a progressive growth into christ's likeness. &mdash; [Dr. Steven J. Lawson](https://www.youtube.com/live/YYTF8cTETzc?feature=share&t=628)
 
-- <a name="rhodes" href="#rhodes_cite" style="font-size:1.4em;">1.1.2.10 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
+- <a name="rhodes" href="#rhodes_cite" style="font-size:1.4em;">1.1.3.10 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
     See <a href="#geisler">Geisler</a>, as they are both moderate calvinists.
 
-- <a name="geisler" href="#geisler_cite" style="font-size:1.4em;">1.1.2.11 Dr. Norman Geisler (M.A., Theology at Wheaton)</a>
+- <a name="geisler" href="#geisler_cite" style="font-size:1.4em;">1.1.3.11 Dr. Norman Geisler (M.A., Theology at Wheaton)</a>
 
     > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms</span> moderate <span style="color:orangered;">Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
@@ -219,41 +250,17 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
-- <a name="turek" href="#turek_cite" style="font-size:1.4em;">1.1.2.12 Dr. Frank Turek (D.Min., SES)</a>
+- <a name="turek" href="#turek_cite" style="font-size:1.4em;">1.1.3.12 Dr. Frank Turek (D.Min., SES)</a>
 
     See <a href="#geisler">Geisler</a>
 
-- <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">1.1.2.13 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
+- <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">1.1.3.13 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
 
     > Our salvation requires both confession and repentance on our part. Though God loves us, He requires us to willingly turn away from our sin and toward Jesus. &mdash; [Skip's Teachings](http://skipheitzig.com/teachings_view.asp?ServiceID=4255)
 
-- <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">1.1.2.14 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
+- <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">1.1.3.14 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
 
     See <a href="#geisler">Geisler</a>
-
-<a name="scientist" href="#contents" style="font-size:1.6em;">1.1.3 Scientist Theologians</a>
-
-- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.3.1 Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)</a>
-
-    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
-    >
-    1. belief, trust;
-    2. that which produces belief, evidence, token, pledge, engagement;
-    3. trust in its objective aspect, troth, observance of trust, fidelity.
-    >
-    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.**
-
-- <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.3.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
-
-    See <a href="#lennox">Lennox</a>
-
-- <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">1.1.3.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
-
-    See <a href="#lennox">Lennox</a>
-
-- <a name="ross" href="#ross_cite" style="font-size:1.4em;">1.1.3.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
-
-    > Under construction
 
 <a name="pastors" href="#contents" style="font-size:1.6em;">1.1.4 Pastors</a>
 
