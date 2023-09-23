@@ -262,7 +262,11 @@ This section details even more advanced material for those who want to deep dive
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-I consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*](). I consider myself a [Historic Protestant](https://bit.ly/3sUSEVG).
+As a [Historic Protestant](https://bit.ly/3sUSEVG), I can read literature from both Calvinists and Arminians, without accepting their distinctives. While [I reject limited atonement](https://sevenshepherd.github.io/limited-atonement/) I do consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. I reject his Sethite view for Heiser's Divine Council Theory as well.
+
+J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*]().
+
+If I had to label myself, I'd have to be some kind of [moderately reformed](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) thinker or Calminian. I'm also a soft-cessationist or open but cautious continuationist.
 
 <!-- I would have selected R. C. Sproul's [*Essential Truths*]() as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology. -->
 
