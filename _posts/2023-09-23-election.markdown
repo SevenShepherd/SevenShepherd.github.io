@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:30:00 -0500
+date: 2023-09-25 2:35:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -118,7 +118,9 @@ into a pigeonhole, labelled, shall we say, Calminian. I would courteously ask th
 
 --
 
-<sup><a name="packer" href="#contents">3</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. 
+<sup><a name="packer" href="#contents">3</a></sup> [**Dr. J. I. Packer**](https://youtu.be/jOFsFgUUdZo) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. 
+
+<!-- [](https://youtu.be/gExLXpPJDd8) -->
 
 <script>
     var refTagger = {
