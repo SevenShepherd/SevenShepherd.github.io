@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:20:00 -0500
+date: 2023-05-12 02:25:00 -0500
 categories: sin practice
 published: true
 ---
@@ -130,20 +130,26 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
-    > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
-    >> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
-    >
-    >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
-    >
-    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 313.
-
-    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. Th e Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. The Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
     >
     1. belief, trust;
     2. that which produces belief, evidence, token, pledge, engagement;
     3. trust in its objective aspect, troth, observance of trust, fidelity.
     >
     So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 136.
+
+    --
+
+    > **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. One of its evidences is a deepening commitment to the word of Christ. A disciple is a learner. The hallmark of a true disciple is a readiness to learn more and more of the truth, thereby discovering that knowledge of truth leads to freedom. Genuine faith perseveres. &mdash; &ldquo;[*Determined to Believe?*]()&rdquo;, On John 8:31–47. p. 218.
+
+    --
+
+    > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+    >> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
+    >
+    >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+    >
+    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 313.
 
 - <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.2.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
 
