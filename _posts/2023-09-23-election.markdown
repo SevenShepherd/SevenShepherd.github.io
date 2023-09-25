@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:15:00 -0500
+date: 2023-09-25 2:20:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -13,7 +13,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
 1. <a href="#faith">Is Election By Faith The Beginning Of Merit?</a>
 - 1.1 <a href="#faith_lennox">Faith As Defined By Lennox</a>
 - 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
-- 1.3 <a href="#faith_grudem">Faith As Defined By Packer</a>
+- 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
 - 1.4 <a href="#faith_analysis">Analysis</a>
 2. <a href="#elect">All Appointed For Eternal Life Believed</a>
 - 2.1 <a href="#Acts13:48">Acts 13:48</a>
@@ -58,7 +58,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
 
     > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
 
-- <a name="faith_grudem" href="#contents" style="font-size:1.6em">1.3 The Definition Of Faith According To Packer</a>
+- <a name="faith_packer" href="#contents" style="font-size:1.6em">1.3 The Definition Of Faith According To Packer</a>
 
     Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3)."
 
