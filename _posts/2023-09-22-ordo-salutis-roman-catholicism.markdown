@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ Ordo Salutis (Roman Catholicism)"
-date: 2023-09-22 1:50:00 -0500
+title: "⚜️ Ordo Salutis (Catholicism)"
+date: 2023-09-22 1:55:00 -0500
 categories: salvation
 published: true
 ---

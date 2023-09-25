@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Revised)"
-date: 2023-09-22 2:00:00 -0500
+date: 2023-09-22 2:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -12,7 +12,7 @@ After a considerable amount of time and [thought](https://sevenshepherd.github.i
 - [Calvinism](https://sevenshepherd.github.io/ordo-salutis-reformed//)
 - [Lutheranism](https://sevenshepherd.github.io/ordo-salutis-lutheran/)
 - [Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/)
-- [Roman Catholicism](https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/)
+- [Catholicism](https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/)
 
 As well as the following [criteria](https://sevenshepherd.github.io/the-christian-walk/):
 
