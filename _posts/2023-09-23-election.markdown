@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:05:00 -0500
+date: 2023-09-25 2:10:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -64,7 +64,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
 
     > Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. — Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. pp. 173-175.
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.4 Is Faith is a "universal" God-given ability?</a>
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.4 Is Faith a "universal" God-given ability?</a>
 
     ![Foreknowledge](/assets/images/greek/proginosko.png)
 
