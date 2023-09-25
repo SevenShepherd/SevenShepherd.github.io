@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 1:45:00 -0500
+date: 2023-09-25 1:50:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -24,7 +24,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
     - 2.1 <a href="#Luke23:43">Luke 23:43</a>
     - 2.2 <a href="#cross">The Cross Is Enough</a> -->
 
-<a name="faith" href="#contents" style="font-size:2.1em">💡 1. Is Election By Faith The Beginning Of Salvation Of Merit?</a>
+<a name="faith" href="#contents" style="font-size:2.1em">💡 1. Is Election By Faith The Beginning Of Salvation By Merit?</a>
 
 > Under construction
 
@@ -57,18 +57,19 @@ This article compares the minds of two intellectual titans, in an attempt to res
 
     > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.3 Faith is a universal God-given ability</a>
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.3 Is Faith is a "universal" God-given ability?</a>
 
-    Both Lennox & Grudem believe that salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but they also agree that [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/).
+    ![Foreknowledge](/assets/images/greek/proginosko.png)
+
+    Both Drs. Lennox & Grudem believe that salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but they also agree that [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/).
     
-    They both acknowledge that faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10), that Faith is a trust and reliance in Christ for salvation, which is juxtaposed to the false teaching that it's a minor opinion change or an intellectual assent to facts, which is not salvific (James 2:19).
-
-    **So there isn't a disagreement on what genuine faith looks like**, but whether or not viewing faith in a certain light is the beginning of salvation by merit (or good works) if we deny unconditional election in favor of conditional.
+    <!-- They both acknowledge that faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10), that Faith is a trust and reliance in Christ for salvation, which is juxtaposed to the false teaching that it's a minor opinion change or an intellectual assent to facts, which is not salvific (James 2:19). -->
 
     > For instance, J. I. Packer and O. R. Johnson in their introduction to Luther’s Bondage of the Will say that, in Reformed eyes, “to rely on oneself for faith is no different in principle from relying on oneself for works”. 89 **Wayne Grudem similarly writes: “Election based on something good in us (our faith) would be the beginning of salvation by merit.”** 90 The only way out of this, he argues, is to hold that faith itself must be a gift of God distributed according to his sovereign will, completely independent of any attitude, desire, or behaviour on the part of those he elects to save. This view, as we have seen, is called “unconditional election” – an expression that does not actually appear in Scripture itself. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 130.
 
-    The question posed by Grudem then becomes: if we view faith as not being given by God (Unconditional Election) and instead as a universal God-given ability (Conditional Election) of human responsibility, do we begin to cross the line into legalism?
 
+    **There is NO disagreement on what genuine faith looks like**, but rather upon what it is based; (1) God grants faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith. (2) We're elected according to his foreknowledge of who would have faith. The question then becomes: If we view our election in the second sense, is election by faith the beginning of salvation by merit?
+    
     > Under construction
 
 <br>
