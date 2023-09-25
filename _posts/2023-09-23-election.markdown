@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:10:00 -0500
+date: 2023-09-25 2:15:00 -0500
 categories: election salvation predestination
 published: true
 ---
