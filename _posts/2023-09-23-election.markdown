@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 1:20:00 -0500
+date: 2023-09-25 1:25:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -77,7 +77,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
     
     They both acknowledge that faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10), that Faith is a trust and reliance in Christ for salvation, which is juxtaposed to the false teaching that it's a minor opinion change or an intellectual assent to facts, which is not salvific (James 2:19).
 
-    **So there isn't a disagreement on what genuine faith looks like**, but whether or not viewing faith in a certain light is the beginning of justification of merit (or good works) if we deny unconditional election in favor of conditional.
+    **So there isn't a disagreement on what genuine faith looks like**, but whether or not viewing faith in a certain light is the beginning of salvation by merit (or good works) if we deny unconditional election in favor of conditional.
 
     > For instance, J. I. Packer and O. R. Johnson in their introduction to Luther’s Bondage of the Will say that, in Reformed eyes, “to rely on oneself for faith is no different in principle from relying on oneself for works”.89 Wayne Grudem similarly writes: “Election based on something good in us (our faith) would be the beginning of salvation by merit.”90 Th e only way out of this, he argues, is to hold that faith itself must be a gift of God distributed according to his sovereign will, completely independent of any attitude, desire, or behaviour on the part of those he elects to save. This view, as we have seen, is called “unconditional election” – an expression that does not actually appear in Scripture itself. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 130.
 
