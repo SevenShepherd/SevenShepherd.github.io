@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 1:20:00 -0500
+date: 2023-09-22 1:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -37,9 +37,11 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+<!-- Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a> -->
 
-1. **Election**
+> Under construction
+
+<!-- 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
 2. **Effectual calling**
     - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
@@ -64,7 +66,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
 
-> Under construction
+> Under construction -->
 
 <!-- It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well. -->
 
