@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:00:00 -0500
+date: 2023-09-25 2:05:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -13,7 +13,8 @@ This article compares the minds of two intellectual titans, in an attempt to res
 1. <a href="#faith">Is Election By Faith The Beginning Of Merit?</a>
 - 1.1 <a href="#faith_lennox">Faith As Defined By Lennox</a>
 - 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
-- 1.3 <a href="#faith_analysis">Analysis</a>
+- 1.3 <a href="#faith_grudem">Faith As Defined By Packer</a>
+- 1.4 <a href="#faith_analysis">Analysis</a>
 2. <a href="#elect">All Appointed For Eternal Life Believed</a>
 - 2.1 <a href="#Acts13:48">Acts 13:48</a>
 3. <a href="#cite">Sources & Citations</a>
@@ -53,11 +54,17 @@ This article compares the minds of two intellectual titans, in an attempt to res
 
 - <a name="faith_grudem" href="#contents" style="font-size:1.6em">1.2 The Definition Of Faith According To Grudem</a>
 
-    You can read the full description [here](https://sevenshepherd.github.io/practicing-sin/#grudem).
+    Knowledge about the facts of Jesus's life, death, burial, and bodily resurrection on it's own is not sufficient for saving faith. Saving faith includes knowledge, approval, and personal trust. You can read the full description [here](https://sevenshepherd.github.io/practicing-sin/#grudem).
 
     > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.3 Is Faith is a "universal" God-given ability?</a>
+- <a name="faith_grudem" href="#contents" style="font-size:1.6em">1.3 The Definition Of Faith According To Packer</a>
+
+    Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3)."
+
+    > Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. — Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. pp. 173-175.
+
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.4 Is Faith is a "universal" God-given ability?</a>
 
     ![Foreknowledge](/assets/images/greek/proginosko.png)
 
