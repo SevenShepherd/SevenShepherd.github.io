@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:15:00 -0500
+date: 2023-05-12 02:20:00 -0500
 categories: sin practice
 published: true
 ---
@@ -37,7 +37,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
     - 1.1.1 <a href="#studies">Study Bibles</a>
         - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
     - 1.1.2 <a href="#scientist">Scientist Theologians</a>
-        - 1.1.2.1 <a href="#lennox">Dr. Lennox (PhD,PhD,PhD, "Oxbridge")</a>
+        - 1.1.2.1 <a href="#lennox">Dr. Lennox (PhD,DPhil,DSc, "Oxbridge")</a>
         - 1.1.2.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
         - 1.1.2.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
         - 1.1.2.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
@@ -128,7 +128,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 <a name="scientist" href="#contents" style="font-size:1.6em;">1.1.2 Scientist Theologians</a>
 
-- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (Emeritus Professor of Mathematics at the University of Oxford; Ph.D., University of Cambridge; Ph.D., University of Oxford; Ph.D., University of Cardiff)</a>
+- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
     > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
     >> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)

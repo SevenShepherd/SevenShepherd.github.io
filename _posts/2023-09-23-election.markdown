@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-23 1:00:00 -0500
+date: 2023-09-23 1:05:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -16,7 +16,7 @@ Two titans will be compared in this upcoming article, resolving once and for all
 
 <a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
-<sup><a name="lennox" href="#contents">1</a></sup> [**Dr. John C. Lennox**]() (PhD, DPhil, DSc) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey. &ldquo;*I
+<sup><a name="lennox" href="#contents">1</a></sup> [**Dr. John C. Lennox**]() (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey. &ldquo;*I
 suspect that some of my readers are already trying to shoehorn me
 into a pigeonhole, labelled, shall we say, Calminian. I would courteously ask them not to do that.*&rdquo; [*Determined to Believe?*](), p. 74.
 
