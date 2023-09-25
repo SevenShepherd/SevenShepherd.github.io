@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:20:00 -0500
+date: 2023-09-25 2:30:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -107,7 +107,7 @@ This article is under construction. Refresh weekly for updates.
 
 <a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
-<sup><a name="lennox" href="#contents">1</a></sup> [**Dr. John C. Lennox**]() (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey. 
+<sup><a name="lennox" href="#contents">1</a></sup> [**Dr. John C. Lennox**](https://youtu.be/4vJkGzbLkxY?si=18Wwg1VPlT-Bcb9H&t=10) (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey. 
 
 > I suspect that some of my readers are already trying to shoehorn me
 into a pigeonhole, labelled, shall we say, Calminian. I would courteously ask them not to do that. Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 74.
@@ -115,6 +115,10 @@ into a pigeonhole, labelled, shall we say, Calminian. I would courteously ask th
 --
 
 <sup><a name="grudem" href="#contents">2</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist, likely of the unequal ultimacy, infralapsarian, variety. He's also the author of the text &ldquo;Systematic Theology&rdquo; from which this article cites: 2nd ed. Chapter 32 Election and Reprobation, pp. 816-837.
+
+--
+
+<sup><a name="packer" href="#contents">3</a></sup> [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking. 
 
 <script>
     var refTagger = {
