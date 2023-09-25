@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:30:00 -0500
+date: 2023-05-12 02:35:00 -0500
 categories: sin practice
 published: true
 ---
@@ -167,7 +167,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="grudem" href="#grudem_cite" style="font-size:1.4em;">1.1.3.1 Dr. Wayne Grudem (Ph.D., University of Cambridge)</a>
 
-    > I believe <span style="font-weight:bold;color:orangered;">saving faith will <span style="font-size:1.2em;color:red;">result</span> in obedience</span>... We must guard jealously the fact that **faith alone is what saves us, not faith plus obedience**. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster)](https://amzn.to/3k3gESD)> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
+    > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
 
     In the 14th verse of the 2nd chapter of the book of James in the Bible, we find that if a person has no good works, and that if there is no change in his life, then that person has a ***"dead faith"***&mdash;and verse 14 implies that that kind of faith cannot save a person. 
 
