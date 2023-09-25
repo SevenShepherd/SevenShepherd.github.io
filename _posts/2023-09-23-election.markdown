@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 2:35:00 -0500
+date: 2023-09-25 2:40:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -20,6 +20,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
 3. <a href="#cite">Sources & Citations</a>
 - 3.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
 - 3.2 <a href="#grudem">Dr. Wayne Grudem (PhD, DD)</a>
+- 3.3 <a href="#packer">Dr. J. I. Packer (PhD)</a>
 
 <!-- - II. <a href="#thief">The Thief On The Cross</a>
     - 2.1 <a href="#Luke23:43">Luke 23:43</a>
@@ -75,7 +76,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
     > For instance, J. I. Packer and O. R. Johnson in their introduction to Luther’s Bondage of the Will say that, in Reformed eyes, “to rely on oneself for faith is no different in principle from relying on oneself for works”. 89 **Wayne Grudem similarly writes: “Election based on something good in us (our faith) would be the beginning of salvation by merit.”** 90 The only way out of this, he argues, is to hold that faith itself must be a gift of God distributed according to his sovereign will, completely independent of any attitude, desire, or behaviour on the part of those he elects to save. This view, as we have seen, is called “unconditional election” – an expression that does not actually appear in Scripture itself. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 130.
 
 
-    **There is NO disagreement on what genuine faith looks like**, but rather upon what it is based; (1) God grants faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith. (2) We're elected according to his foreknowledge of who would have faith. The question then becomes: If we view our election in the second sense, is election by faith the beginning of salvation by merit?
+    **There is NO disagreement on what genuine faith looks like**, but rather upon what it is based; (1) God grants faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith. (2) We're elected according to His foreknowledge of who would have faith. The question then becomes: If we view our election in the second sense, is election by faith the beginning of salvation by merit?
     
     > Under construction
 
