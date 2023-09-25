@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 1:00:00 -0500
+date: 2023-09-25 1:05:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -10,7 +10,7 @@ This article compares the minds of two intellectual titans, in an attempt to res
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#faith">Is Faith A Good Work?</a>
+1. <a href="#faith">Is Election By Faith The Beginning Of Merit?</a>
 - 1.1 <a href="#faith_analysis">Analysis</a>
 2. <a href="#elect">Elected To Believe Or Elected Because Of Belief?</a>
 - 2.1 <a href="#Acts13:48">Acts 13:48</a>
