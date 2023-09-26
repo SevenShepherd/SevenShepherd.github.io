@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Lutheranism)"
-date: 2023-09-22 1:35:00 -0500
+date: 2023-09-22 1:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -16,7 +16,7 @@ More accurately described as Melancthonism instead of Lutheranism, since Luthera
 
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a>
+Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
 1. **Calling or vocation**
     - God offers forgiveness of sins and right standing with himself through the offer of the Gospel that brings with it sufficient grace for the unconverted to respond to the message.
@@ -48,7 +48,7 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
 
-<sup><a name="demarest_cite" href="#contents">15</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
+<sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44.
 
 <script>
     var refTagger = {
