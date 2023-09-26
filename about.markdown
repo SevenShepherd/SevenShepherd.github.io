@@ -266,7 +266,7 @@ As a [Historic Protestant](https://bit.ly/3sUSEVG), I can read literature from b
 
 J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*]().
 
-If I had to label myself, I'd have to be some kind of [moderately reformed](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) thinker or Calminian. I'm also a soft-cessationist or open but cautious continuationist.
+If I had to label myself, I'd probably be [moderately reformed](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). I'm also a soft-cessationist or open but cautious continuationist.
 
 <!-- I would have selected R. C. Sproul's [*Essential Truths*]() as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology. -->
 

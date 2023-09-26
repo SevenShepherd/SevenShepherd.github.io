@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:10:00 -0500
+date: 2023-09-22 1:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -331,7 +331,15 @@ Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">
 
 <!-- <a name="ordo" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Ordo Salutis</a> -->
 
+<br>
 
+---
+
+<br>
+
+<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
+
+<sup><a name="demarest_cite" href="#contents">15</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. 
 
 <script>
     var refTagger = {
