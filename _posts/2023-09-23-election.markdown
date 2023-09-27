@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 3:15:00 -0500
+date: 2023-09-25 3:30:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -32,30 +32,42 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 
 I've included some definitions of faith to show that no one disagrees on what genuine faith looks like. The question, instead, is about what this genuine faith is based upon. Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
 
-Dr. Lennox holds to a systemless theology, but defends a Wesleyan foreknowledge view on election; Dr. Geisler represents a sublapsarian, Amyraldian, moderate 4-Point Calvinist view; while Drs. Grudem & Packer represent an infralapsarian, Othodox 5-Point Calvinist view. They all agree on what faith looks like, but disagree upon what it is based upon.
+Dr. Lennox holds to a systemless theology, but defends a Wesleyan foreknowledge view on election; Dr. Geisler represents a sublapsarian, Amyraldian, moderate 4-Point Calvinist view; while Drs. Grudem & Packer represent an infralapsarian, Orthodox 5-Point Calvinist view. They all agree on what faith looks like, but disagree upon what it is based upon.
 
 - <a name="faith_lennox" href="#contents" style="font-size:1.6em">1.1 The Definition Of Faith According To Lennox</a>
 
-    > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. The Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+    You can read more [here](https://sevenshepherd.github.io/practicing-sin/#lennox)
+
+    > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ...
     >
-    1. belief, trust;
-    2. that which produces belief, evidence, token, pledge, engagement;
-    3. trust in its objective aspect, troth, observance of trust, fidelity.
-    >
-    So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 136.
-
-    --
-
-    > **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. One of its evidences is a deepening commitment to the word of Christ. A disciple is a learner. The hallmark of a true disciple is a readiness to learn more and more of the truth, thereby discovering that knowledge of truth leads to freedom. Genuine faith perseveres. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). On John 8:31–47. p. 218.
-
-    --
-
-    > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+    A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
     >> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
     >
     >>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
     >
-    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 313.
+    Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 136, 218, 313.
+
+<!-- 
+> According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. The Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
+>
+1. belief, trust;
+2. that which produces belief, evidence, token, pledge, engagement;
+3. trust in its objective aspect, troth, observance of trust, fidelity.
+>
+So the main dictionary meanings given to “faith” are: belief, trust, confidence, reliance, and belief proceeding from testimony or authority. It is to be strongly affirmed that the faith in God described in the Bible is “reliance and belief proceeding from testimony or authority”. **Biblical faith is evidence-based.** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 136. -->
+
+<!-- -- -->
+
+<!-- > **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. One of its evidences is a deepening commitment to the word of Christ. A disciple is a learner. The hallmark of a true disciple is a readiness to learn more and more of the truth, thereby discovering that knowledge of truth leads to freedom. Genuine faith perseveres. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). On John 8:31–47. p. 218. -->
+
+<!-- -- -->
+
+<!-- > A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+>> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
+>
+>>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+>
+Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 313. -->
 
 - <a name="faith_grudem" href="#contents" style="font-size:1.6em">1.2 The Definition Of Faith According To Grudem</a>
 
@@ -65,15 +77,19 @@ Dr. Lennox holds to a systemless theology, but defends a Wesleyan foreknowledge 
 
 - <a name="faith_packer" href="#contents" style="font-size:1.6em">1.3 The Definition Of Faith According To Packer</a>
 
+    You can read more [here](https://sevenshepherd.github.io/practicing-sin/#packer)
+
     Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." 
     
     The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3."
 
-    > Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. — Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. pp. 173-175.
+    > **Justification by works (things we have done) is the heresy of legalism.** Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But <span style="font-weight:bold;color:orangered;">if ‘good works’ (activities of serving God and others) do not follow from our profession of faith</span>, we are as yet believing only from the head, not from the heart: in other words, <span style="font-weight:bold;color:orangered;">justifying faith (fiducia) is <span style="font-size:1.2em;color:red;">not yet ours</span></span>. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
 - <a name="faith_geisler" href="#contents" style="font-size:1.6em">1.4 The Definition Of Faith According To Geisler</a>
 
-    > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span></span>’s view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
+    You can read more [here](https://sevenshepherd.github.io/practicing-sin/#geisler)
+
+    <!-- > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span></span>’s view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11. -->
 
     > As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
 

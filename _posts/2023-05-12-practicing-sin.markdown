@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:35:00 -0500
+date: 2023-05-12 02:45:00 -0500
 categories: sin practice
 published: true
 ---
@@ -151,6 +151,22 @@ When the academic community, the exegetes, the textual critics, the research pro
     >
     Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 313.
 
+    --
+
+    > Let us see what John has to say about them. So serious is their heresy that John calls them antichrists and says: 
+    >> They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us. (1 John 2:19 ESV.) 
+    > 
+    These people departed in two senses: theologically, they abandoned the true doctrines about Christ; and physically, they left the church community. What did that mean in terms of their spiritual state? John says that their action showed that they were not of us, that is, they never had been genuine believers. If they had been, he adds, they would have stayed; but they left, and that demonstrates that they were not genuine, even though to all appearances they had been. Recall the final part of the parable of the sower:
+    >> But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop. (Luke 8:15.)
+    > 
+    The heretical teachers didn’t endure. Th ey had no root. In the end they proved themselves to be unbelievers. John backs this up later in his letter by saying:
+    >> No-one who lives in him keeps on sinning. No-one who continues to sin has either seen him or known him. Dear children, do not let anyone lead you astray. He who does what is right is righteous, just as he is righteous. He who does what is sinful is of the devil, because the devil has been sinning from the beginning. Th e reason the Son of God appeared was to destroy the devil’s work. No-one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God. Th is is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother. (1 John 3:6–10.) 
+    > 
+    Observe the strong emphasis on the present continuous tense: keeps on sinning. John is not saying that genuine believers cannot sometime act inconsistently, or even give in to temptation. Early on in his letter he makes clear that this is possible and that God has made gracious and merciful provision for it.
+    >> My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but for the sins of the whole world. (1 John 2:1–2 ESV.)
+    >
+    &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; pp. 322-323.
+
 - <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.2.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
 
     See <a href="#lennox">Lennox</a>
@@ -186,6 +202,10 @@ When the academic community, the exegetes, the textual critics, the research pro
     The context shows that James was referring to showing one’s faith through doing good deeds. This is not to be confused with Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) when he was referring to “works” (erga) of Jewish law.<sup><a href="#logos_cite">4</a></sup>
 
 - <a name="packer" href="#packer_cite" style="font-size:1.4em;">1.1.3.2 Dr. J. I. Packer (Ph.D., University of Oxford)</a>
+
+    Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." 
+    
+    The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3."
 
     > **Justification by works (things we have done) is the heresy of legalism.** Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But <span style="font-weight:bold;color:orangered;">if ‘good works’ (activities of serving God and others) do not follow from our profession of faith</span>, we are as yet believing only from the head, not from the heart: in other words, <span style="font-weight:bold;color:orangered;">justifying faith (fiducia) is <span style="font-size:1.2em;color:red;">not yet ours</span></span>. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
