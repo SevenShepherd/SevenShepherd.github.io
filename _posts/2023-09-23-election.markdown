@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 3:45:00 -0500
+date: 2023-09-25 3:50:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -15,14 +15,16 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 - 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
 - 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
 - 1.4 <a href="#faith_geisler">Faith As Defined By Geisler</a>
-- 1.5 <a href="#faith_analysis">Is Faith A "Universal" God-given Ability?</a>
-2. <a href="#elect">All Appointed For Eternal Life Believed</a>
-- 2.1 <a href="#Acts13:48">Acts 13:48</a>
-3. <a href="#cite">Sources & Citations</a>
-- 3.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
-- 3.2 <a href="#grudem">Dr. Wayne Grudem (PhD, DD)</a>
-- 3.3 <a href="#packer">Dr. J. I. Packer (PhD)</a>
-- 3.4 <a href="#geisler">Dr. Norman Geisler (PhD, MA)</a>
+- 1.5 <a href="#faith_analysis">Conclusions</a>
+2. <a href="#false_dichotomy">Infra. v. Wesleyan, A False Dichotomy?</a>
+- 2.1 <a href="#decrees">The Order Of God's Decrees</a>
+3. <a href="#elect">All Appointed For Eternal Life Believed</a>
+- 3.1 <a href="#Acts13:48">Acts 13:48</a>
+4. <a href="#cite">Sources & Citations</a>
+- 4.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
+- 4.2 <a href="#grudem">Dr. Wayne Grudem (PhD, DD)</a>
+- 4.3 <a href="#packer">Dr. J. I. Packer (PhD)</a>
+- 4.4 <a href="#geisler">Dr. Norman Geisler (PhD, MA)</a>
 
 <!-- - II. <a href="#thief">The Thief On The Cross</a>
     - 2.1 <a href="#Luke23:43">Luke 23:43</a>
@@ -97,7 +99,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     > Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.5 Is Faith A "Universal" God-given Ability?</a>
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.5 Conclusions</a>
 
     ![Foreknowledge](/assets/images/greek/proginosko.png)
 
@@ -164,7 +166,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     >
     In that sense we can certainly regard faith as a gift of God. God draws it out of us by his grace and love. If God did not initiate it himself, we would never experience it. But he regards the faith as ours – just as he did with Abraham.
 
-    I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible, it's also possible that God grants faith still, or perhaps like Lennox suggest its both.
+    I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible, it's also possible that God grants faith still, or perhaps like Lennox suggests, its both.
 
     The main takeaway for me, is that it is not meritorious or legalistic to hold to a foreknowledge view, though, this is not indisputable proof that this is how God decreed things, only that it isn't unsafe.
 
@@ -175,13 +177,29 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 <br>
 
-<a name="elect" href="#contents" style="font-size:2.1em">💡 2. All Who Had Been Appointed For Eternal Life Believed</a>
+<a name="false_dichotomy" href="#contents" style="font-size:2.1em">💡 2. Infralapsarianism v. Wesleyanism, A False Dichotomy?</a>
+
+The debate in the last section may have cleared the Wesleyan foreknowledge view of any meritorious legalism, but perhaps we've been so distracted as not to notice other options? In this section I'd like to look at alternatives to the two views debated in the last section, to see if perhaps, the true answer may be none of the above.
+
+- <a name="decrees" href="#contents" style="font-size:1.6em">2.1 The Order Of God's Decrees</a>
+
+![The Order Of God's Decrees](/assets/images/decrees.png)
+
+> Under construction
+
+<br>
+
+---
+
+<br>
+
+<a name="elect" href="#contents" style="font-size:2.1em">💡 3. All Who Had Been Appointed For Eternal Life Believed</a>
 
 # Will only those elected to salvation believe or does God elect unto salvation based upon his foreknowledge of your faith?
 
 There are many verses that prove that election is in the Bible, so it's not a matter of whether or not Christians believe in predestination, we all do, it's a matter of how we understand how election is applied to believers, that differs.
 
-- <a name="Acts13:48" href="#contents" style="font-size:1.6em">📜 2.1 Acts 13:48</a>
+- <a name="Acts13:48" href="#contents" style="font-size:1.6em">📜 3.1 Acts 13:48</a>
 
     > <sup style="font-weight:bold;">48</sup> When the Gentiles heard this, they began to rejoice and praise the word of the Lord, and <span style="font-weight:bold;">all who had been appointed for eternal life believed</span>. &mdash; Acts 13:48 NET
 
