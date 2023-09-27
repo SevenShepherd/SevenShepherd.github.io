@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:45:00 -0500
+date: 2023-05-12 02:50:00 -0500
 categories: sin practice
 published: true
 ---
@@ -159,7 +159,7 @@ When the academic community, the exegetes, the textual critics, the research pro
     These people departed in two senses: theologically, they abandoned the true doctrines about Christ; and physically, they left the church community. What did that mean in terms of their spiritual state? John says that their action showed that they were not of us, that is, they never had been genuine believers. If they had been, he adds, they would have stayed; but they left, and that demonstrates that they were not genuine, even though to all appearances they had been. Recall the final part of the parable of the sower:
     >> But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop. (Luke 8:15.)
     > 
-    The heretical teachers didn’t endure. Th ey had no root. In the end they proved themselves to be unbelievers. John backs this up later in his letter by saying:
+    The heretical teachers didn’t endure. They had no root. In the end they proved themselves to be unbelievers. John backs this up later in his letter by saying:
     >> No-one who lives in him keeps on sinning. No-one who continues to sin has either seen him or known him. Dear children, do not let anyone lead you astray. He who does what is right is righteous, just as he is righteous. He who does what is sinful is of the devil, because the devil has been sinning from the beginning. Th e reason the Son of God appeared was to destroy the devil’s work. No-one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God. Th is is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not a child of God; nor is anyone who does not love his brother. (1 John 3:6–10.) 
     > 
     Observe the strong emphasis on the present continuous tense: keeps on sinning. John is not saying that genuine believers cannot sometime act inconsistently, or even give in to temptation. Early on in his letter he makes clear that this is possible and that God has made gracious and merciful provision for it.
