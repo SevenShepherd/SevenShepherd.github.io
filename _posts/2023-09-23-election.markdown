@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 3:35:00 -0500
+date: 2023-09-25 3:45:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -112,17 +112,63 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     >
     &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 130.
 
-    The challenge has been made by the 5-Point Calvinists, that election based upon God's foreknowledge of who would believe before the foundation of the world, would somehow be equivalent to merit. Lennox, however, points out that there's a flaw in their reasoning surrounding the nature of faith and the word "good."
+    The challenge has been made by 5-Point Calvinists (Drs. Grudem & Packer) that election based upon God's foreknowledge of who would believe before the foundation of the world, would somehow be equivalent to merit. Lennox, however, points out that there's a flaw in their reasoning surrounding the nature of faith and the word "good."
     
     > We first explore the idea that, if people had the capacity to believe in God, if they were capable of faith, their faith would itself be a meritorious work contributing to salvation. May I dare to suggest that **this view arises from confusion about the nature of faith itself?**
     > 
-    Some of the confusion arises from overlooking a simple logical point: **meriting something, and having to do something to obtain that thing, are not the same.**
+    Some of the confusion arises from overlooking a simple logical point: ***meriting something, and having to do something to obtain that thing, are not the same.***
     >
     &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). pp. 132-139.
 
+    Dr. Lennox goes on to give two good examples of how meriting something, and having to do something to obtain that thing, are not the same.
 
+    > For instance, a distant relative may leave me a considerable sum in her will. I have done nothing to deserve it. She has gifted it to me as set out in a document held by her solicitor. He sends me a letter informing me of the fact. Now I have to decide whether I trust him and, indeed, her. I have to respond or I will not receive it. I could reject it. Clearly, the fact that I have to do something to make it my own does not mean that I have merited it or contributed to it in any way.
+    >
+    It is surely for that reason that our Lord can say to a woman on one occasion: Your faith has saved you; go in peace (Luke 7:50).
+    >
+    Consistent with this, when Paul is asked by a jailer at Philippi, who has just been terrified by an earthquake that freed the prisoners, Sirs, what must I do to be saved?, Paul does not understand the jailer to be asking how he can merit salvation. He does not respond by suggesting that the jailer can do nothing in view of the fact that his salvation depends entirely on the sovereign choice of God. On the contrary, he tells the jailer exactly what he is able to do – and should do: Believe in the Lord Jesus, and you will be saved – you and your household (see Acts 16:25–34). 
 
+    Dr. Lennox then turns his attention back to Dr. Grudem's specific use of the adjective "good."
 
+    > Wayne Grudem, cited just above, says: “Election based on something good in us (our faith) would be the beginning of salvation by merit.” What is striking here is the use of the adjective “good” used to qualify “faith” which is then linked with “merit”. But does Scripture teach that faith is a good thing in this meritorious sense? I think not.
+
+    Lennox then goes on to explain, that Paul regarded faith, the act of believing, as the opposite of merit. By examining Romans 4:3,4-5,22, we can deduce that the personal act of believing in or trusting Christ for salvation is not a meritorious action that contributes to salvation. Salvation is all of God.
+
+    > <sup style="font-weight:bold;">3</sup> For what does the Scripture say? “**Abraham believed God**, and it was counted to him as righteousness.” ... <sup style="font-weight:bold;">4</sup> Now to the one who works, his wages are not counted as a gift but as his due. <sup style="font-weight:bold;">5</sup> And to the one who **does not work** but **believes in** [trusts, [pisteuó](https://biblehub.com/greek/4100.htm)] him who justifies the ungodly, his faith is counted as righteousness, ... <sup style="font-weight:bold;">22</sup> That is why **his faith** was “counted to him as righteousness.” &mdash; Romans 4:3,4-5,22 ESV
+
+    Dr. Lennox then brings our attention to the fact, that the faith was Abraham’s – his faith, and that the text does not say here that God “gave him the faith.”
+
+    > Please note that the faith was Abraham’s – his faith. The text does not say here that God “gave him the faith” (though we shall consider below how faith may be “given”), nor does it say that Abraham’s faith was a meritorious contribution to his justifi cation; it doesn’t even say here that Christ’s righteousness was imputed (reckoned) to Abraham as righteousness. No, Scripture says that it was Abraham’s faith that was reckoned to him as righteousness.
+    >
+    Paul is using the concept of work here as an activity that merits wages. Faith in God, he says, is not like that at all: it is not to be taken as a meritorious action repaid by the reward of salvation – otherwise the person who has faith would be working.
+    >
+    Paul, then, is contrasting two possible actions or attitudes – working and trusting – on the basis of the tacit assumption that everyone is capable of performing both.
+
+    At this point I would have considered Dr. Lennox to be the winner with the extraordinary weapon that is Romans 4:4-5. It does in fact prove that trusting in Christ is not a work, and that Grudem's use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect; however, in order to close this case it would have to pass one more issue. 
+
+    > 29 Jesus answered them, “**This is the work of God, that you believe** in him whom he has sent.” &mdash; Jn 6:29 ESV
+    >
+    29 For **it has been granted to you** that for the sake of Christ you should not only **believe in him** but also suffer for his sake, &mdash;  Phil 1:29 ESV
+    >
+    8 For by grace you have been saved through **faith**. And this is not your own doing; **it is the gift of God**, 9 not a result of works, so that no one may boast. &mdash; Eph 2:8-9 ESV
+
+    The verses of Jn 6:29; Phil 1:29; Eph 2:8-9 seem to suggest that even if faith isn't a work, it was God's doing, gifted, or granted. This poses a dilemma. 
+
+    > In spite of the fact that Scripture explicitly says that it is Abraham’s faith that is credited to him as righteousness, it will be objected that Paul explicitly says elsewhere that faith is a gift of God. The relevant passage is Ephesians 2:8–9 ...
+    >
+    ... However, in the Greek text the word for faith is feminine in gender, whereas the word for it (in the phrase it is the gift of God) is neuter. From a grammatical point of view it is therefore not faith that is the gift – **the gift is salvation by grace**. Paul is in fact here making the same point as in Romans 4, contrasting salvation by merit with salvation by grace through faith.
+
+    Dr. Lennox is successful at marking Ephesians 2:8-9 off the list, but does not address the other two verses, that I have supplied. It's still possible that faith is granted and not our doing. He admits to some degree that this may be the case in a certain sense.
+
+    > There is a real sense in which faith can be seen to be a gift of God without denying it is also our faith. ... Similarly in the marriage relationship, the trust, faith, and commitment of each partner is drawn out by the other. And that does not alter the fact that the faith of each partner is their own subjective response to the other – it is their faith.
+    >
+    In that sense we can certainly regard faith as a gift of God. God draws it out of us by his grace and love. If God did not initiate it himself, we would never experience it. But he regards the faith as ours – just as he did with Abraham.
+
+    I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible, it's also possible that God grants faith still, or perhaps like Lennox suggest its both.
+
+    The main takeaway for me, is that it is not meritorious or legalistic to hold to a foreknowledge view, though, this is not indisputable proof that this is how God decreed things, only that it isn't unsafe.
+
+    
 <br>
 
 ---
