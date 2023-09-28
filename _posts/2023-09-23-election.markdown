@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:40:00 -0500
+date: 2023-09-25 4:45:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -151,7 +151,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     Dr. Lennox then brings our attention to the fact, that the faith was Abraham’s – his faith, and that the text does not say here that God “gave him the faith.”
 
-    > Please note that the faith was Abraham’s – his faith. The text does not say here that God “gave him the faith” (though we shall consider below how faith may be “given”), nor does it say that Abraham’s faith was a meritorious contribution to his justifi cation; it doesn’t even say here that Christ’s righteousness was imputed (reckoned) to Abraham as righteousness. No, Scripture says that it was Abraham’s faith that was reckoned to him as righteousness.
+    > Please note that the faith was Abraham’s – his faith. The text does not say here that God “gave him the faith” (though we shall consider below how faith may be “given”), nor does it say that Abraham’s faith was a meritorious contribution to his justification; it doesn’t even say here that Christ’s righteousness was imputed (reckoned) to Abraham as righteousness. No, Scripture says that it was Abraham’s faith that was reckoned to him as righteousness.
     >
     Paul is using the concept of work here as an activity that merits wages. Faith in God, he says, is not like that at all: it is not to be taken as a meritorious action repaid by the reward of salvation – otherwise the person who has faith would be working.
     >
@@ -200,7 +200,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 <a name="false_dichotomy" href="#contents" style="font-size:2.1em">💡 2. Infralapsarianism v. Wesleyanism, A False Dichotomy?</a>
 
-The debate in the last section may have cleared the Wesleyan foreknowledge view of any meritorious legalism, but perhaps we've been so distracted as not to notice other options? In this section I'd like to look at alternatives to the two views debated in the last section, to see if perhaps, the true answer may be none of the above.
+The debate in the last section may have cleared the Wesleyan foreknowledge view of any meritorious working, but perhaps we've been so distracted as not to notice other options? In this section I'd like to look at alternatives to the two views debated in the last section, to see if perhaps, the true answer may be none of the above.
 
 - <a name="decrees" href="#contents" style="font-size:1.6em">2.1 The Order Of God's Decrees</a>
 
@@ -212,12 +212,30 @@ Supralapsarians are hypter-Calvinists, being double-predestinarians. <sup>10</su
 >
 &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
 
+There is a simpler chart provided by R.C. Sproul, who simplifies the difference between supralapsarianism and infralapsarianism into an asymmetrical and symmetrical view. It would seem that Hyper-Calvinism (supralapsarianism) is rightly rejected by all sides of the debate about God's decrees, because of the egregious violence it does to God's character in insinuating that He could possibly coerce sin.
+
+|Orthodox Calvinism (Infra.)|Hyper-Calvinism (Supra.)|
+|:-:|:-:|
+|Positive-negative|Positive-positive|
+|Asymmetrical view|Symmetrical view|
+|<span style="font-weight:bold;color:green;">Unequal ultimacy</span>|<span style="font-weight:bold;color:darkred;">Equal ultimacy</span>|
+|God passes over the reprobate|God works unbelief in the hearts of the reprobate.|
+
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:green;">5-point Orthodox Calvinist</span>
+
+> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:green;">5-point Orthodox Calvinist</span>
+
 
 - <a name="supra" href="#contents" style="font-size:1.6em">2.2 Why Supralapsarianism Doesn't Work</a>
 
-- <a name="vessels" href="#contents" style="font-size:1.6em">📜 2.2.1 The Vessels Of Wrath (Ro 9:22-24)</a>
+- <a name="vessels" href="#contents" style="font-size:1.6em">📜 2.2.1 The Vessels Of Wrath (Romans 9:22-24)</a>
 
-    > Under construction
+    > <sup style="font-weight:bold;">22</sup> What if God, desiring to show his wrath and to make known his power, has endured with much patience <span style="font-weight:bold;">vessels of wrath prepared for destruction</span>, <sup style="font-weight:bold;">23</sup> in order <span style="font-weight:bold;">to make known the riches of his glory for vessels of mercy</span>, which he has prepared beforehand for glory— <sup style="font-weight:bold;">24</sup> even us whom he has called, not from the Jews only but also from the Gentiles? &mdash; Romans 9:22-24 ESV
+
+    There are many good points made by Lennox on this subject, but the one that stood out to me was Ephesians 2:3–4. These verses seem to prove that there's no fixed vessel of wrath from the beginning, invalidating Hyper-Calvinism (Supra.).
+
+    > There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4). &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 272.
+
 
 - <a name="infra" href="#contents" style="font-size:1.6em">2.3 Why Sublapsarianism May Be Superior To Infralapsarianism</a>
 
@@ -271,7 +289,7 @@ into a pigeonhole, labelled, shall we say, Calminian. I would courteously ask th
 
 --
 
-<sup><a name="grudem" href="#contents">2</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist, likely of the unequal ultimacy, infralapsarian, variety. He's also the author of the text &ldquo;Systematic Theology&rdquo; from which this article cites: 2nd ed. Chapter 32 Election and Reprobation, pp. 816-837.
+<sup><a name="grudem" href="#contents">2</a></sup> [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (PhD, University of Cambridge; DD, Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist, of the unequal ultimacy, infralapsarian, variety. He's also the author of the text &ldquo;Systematic Theology&rdquo; from which this article cites: 2nd ed. Chapter 32 Election and Reprobation, pp. 816-837.
 
 --
 
