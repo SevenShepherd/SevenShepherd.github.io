@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:00:00 -0500
+date: 2023-09-25 4:10:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -11,20 +11,25 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#faith">Is Election By Faith The Beginning Of Merit?</a>
-- 1.1 <a href="#faith_lennox">Faith As Defined By Lennox</a>
-- 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
-- 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
-- 1.4 <a href="#faith_geisler">Faith As Defined By Geisler</a>
-- 1.5 <a href="#faith_analysis">Conclusions</a>
+    - 1.1 <a href="#faith_lennox">Faith As Defined By Lennox</a>
+    - 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
+    - 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
+    - 1.4 <a href="#faith_geisler">Faith As Defined By Geisler</a>
+    - 1.5 <a href="#faith_analysis">Conclusions</a>
 2. <a href="#false_dichotomy">Infra. v. Wesleyan, A False Dichotomy?</a>
-- 2.1 <a href="#decrees">The Order Of God's Decrees</a>
-3. <a href="#elect">All Appointed For Eternal Life Believed</a>
-- 3.1 <a href="#Acts13:48">Acts 13:48</a>
-4. <a href="#cite">Sources & Citations</a>
-- 4.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
-- 4.2 <a href="#grudem">Dr. Wayne Grudem (PhD, DD)</a>
-- 4.3 <a href="#packer">Dr. J. I. Packer (PhD)</a>
-- 4.4 <a href="#geisler">Dr. Norman Geisler (PhD, MA)</a>
+    - 2.1 <a href="#decrees">The Order Of God's Decrees</a>
+    - 2.2 <a href="#supra">Why Supra. Doesn't Work</a>
+    - 2.3 <a href="#infra">Why Sub. May Be Superior To Infra.</a>
+    - 2.4 <a href="#sub">Conclusions</a>
+3. <a href="#other">Can We Dispel Theological Determinism?</a>
+    - 3.1 <a href="#elect">All Appointed For Eternal Life Believed</a>
+        - 3.1.1 <a href="#Acts13:48">Acts 13:48</a>
+4. <a href="#final_conclusion">Final Conclusion</a>
+5. <a href="#cite">Sources & Citations</a>
+    - 5.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
+    - 5.2 <a href="#grudem">Dr. Wayne Grudem (PhD, DD)</a>
+    - 5.3 <a href="#packer">Dr. J. I. Packer (PhD)</a>
+    - 5.4 <a href="#geisler">Dr. Norman Geisler (PhD, MA)</a>
 
 <!-- - II. <a href="#thief">The Thief On The Cross</a>
     - 2.1 <a href="#Luke23:43">Luke 23:43</a>
@@ -191,21 +196,42 @@ The debate in the last section may have cleared the Wesleyan foreknowledge view 
 
 > Under construction
 
+- <a name="supra" href="#contents" style="font-size:1.6em">2.2 Why Supralapsarianism Doesn't Work</a>
+
+> Under construction
+
+- <a name="infra" href="#contents" style="font-size:1.6em">2.3 Why Sublapsarianism May Be Superior To Infralapsarianism</a>
+
+> Under construction
+
+- <a name="sub" href="#contents" style="font-size:1.6em">2.4 Conclusions</a>
+
+> Under construction
+
+
 <br>
 
 ---
 
 <br>
 
-<a name="elect" href="#contents" style="font-size:2.1em">💡 3. All Who Had Been Appointed For Eternal Life Believed</a>
+<a name="other" href="#contents" style="font-size:2.1em">💡 3. Can We Dispel Theological Determinism?</a>
 
-# Will only those elected to salvation believe or does God elect unto salvation based upon his foreknowledge of your faith?
+- <a name="elect" href="#contents" style="font-size:1.6em">3.1 All Who Had Been Appointed For Eternal Life Believed</a>
+
+    <!-- # Will only those elected to salvation believe or does God elect unto salvation based upon his foreknowledge of your faith? -->
+
+    > Under construction
+
+- <a name="Acts13:48" href="#contents" style="font-size:1.6em">📜 3.1.1 Acts 13:48</a>
+
+    > <sup style="font-weight:bold;">48</sup> When the Gentiles heard this, they began to rejoice and praise the word of the Lord, and <span style="font-weight:bold;">all who had been appointed for eternal life believed</span>. &mdash; Acts 13:48 NET
+
+<a name="final_conclusion" href="#contents" style="font-size:2.1em">💡 4. Final Conclusion</a>
 
 There are many verses that prove that election is in the Bible, so it's not a matter of whether or not Christians believe in predestination, we all do, it's a matter of how we understand how election is applied to believers, that differs.
 
-- <a name="Acts13:48" href="#contents" style="font-size:1.6em">📜 3.1 Acts 13:48</a>
-
-    > <sup style="font-weight:bold;">48</sup> When the Gentiles heard this, they began to rejoice and praise the word of the Lord, and <span style="font-weight:bold;">all who had been appointed for eternal life believed</span>. &mdash; Acts 13:48 NET
+> The final conclusion is still being worked out.
 
 <span style="font-size:1.6em">⚠️ Under Construction</span>
 
