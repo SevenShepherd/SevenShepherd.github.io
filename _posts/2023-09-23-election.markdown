@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:35:00 -0500
+date: 2023-09-25 4:40:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -20,6 +20,7 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 2. <a href="#false_dichotomy">Infra. v. Wesleyan, A False Dichotomy?</a>
     - 2.1 <a href="#decrees">The Order Of God's Decrees</a>
     - 2.2 <a href="#supra">Why Supra. Doesn't Work</a>
+        - 2.2.1 <a href="#vessels">Vessels Of Wrath (Ro 9:22-24)</a>
     - 2.3 <a href="#infra">Why Sub. May Be Superior To Infra.</a>
     - 2.4 <a href="#sub">Conclusions</a>
 3. <a href="#other">Can We Dispel Theological Determinism?</a>
@@ -186,7 +187,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     The main takeaway for me, is that it is not meritorious or legalistic to hold to a foreknowledge view, though, this is not indisputable proof that this is how God decreed things, only that it isn't unsafe.
 
-    So Lennox does squash Grudem's claim, but does not prove emphatically, that the foreknowledge view is what God decreed, only that it is a safe view to hold, as a moderate, independently from any theology.
+    So Lennox does squash Grudem's claim, but does not prove empirically, that the foreknowledge view is what God decreed, only that it is a safe view to hold, as a moderate, independent from any theology.
 
     On whether faith is a universal God-given ability, it's possible; it's also possible that God grants faith still, or perhaps like Lennox suggests, its both in a certain sense.
 
@@ -214,7 +215,9 @@ Supralapsarians are hypter-Calvinists, being double-predestinarians. <sup>10</su
 
 - <a name="supra" href="#contents" style="font-size:1.6em">2.2 Why Supralapsarianism Doesn't Work</a>
 
-> Under construction
+- <a name="vessels" href="#contents" style="font-size:1.6em">📜 2.2.1 The Vessels Of Wrath (Ro 9:22-24)</a>
+
+    > Under construction
 
 - <a name="infra" href="#contents" style="font-size:1.6em">2.3 Why Sublapsarianism May Be Superior To Infralapsarianism</a>
 
