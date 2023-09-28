@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 3:50:00 -0500
+date: 2023-09-25 4:00:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -32,7 +32,9 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 
 <a name="faith" href="#contents" style="font-size:2.1em">💡 1. Is Election By Faith The Beginning Of Salvation By Merit?</a>
 
-I've included some definitions of faith to show that no one disagrees on what genuine faith looks like. The question, instead, is about what this genuine faith is based upon. Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
+I've included some definitions of faith to show that no one disagrees on what genuine faith looks like. The question, instead, is about what election is based upon. Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
+
+<!-- what this genuine faith is based upon -->
 
 Dr. Lennox holds to a systemless theology, but defends a Wesleyan foreknowledge view on election; Dr. Geisler represents a sublapsarian, Amyraldian, moderate 4-Point Calvinist view; while Drs. Grudem & Packer represent an infralapsarian, Orthodox 5-Point Calvinist view. They all agree on what faith looks like, but disagree upon what it is based upon.
 
@@ -103,8 +105,10 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     ![Foreknowledge](/assets/images/greek/proginosko.png)
 
-    As we've seen, **there is NO disagreement on what genuine faith looks like**, all of the aforementioned scholars hold to the complete definition of the protestant [sola fide](https://sevenshepherd.github.io/faith-alone/); however, the question remains: what is the basis upon what genuine faith is based? Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
+    As we've seen, **there is NO disagreement on what genuine faith looks like**, all of the aforementioned scholars hold to the complete definition of the protestant [sola fide](https://sevenshepherd.github.io/faith-alone/); however, the question remains: what is the basis of election? Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
     
+    <!-- what genuine faith is based? -->
+
     <!-- believe that salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but they also agree that [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). -->
 
     <!-- , but rather upon what it is based; (1) God grants faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith. (2) We're elected according to His foreknowledge of who would have faith. The question then becomes: If we view our election in the second sense, is election by faith the beginning of salvation by merit? -->
