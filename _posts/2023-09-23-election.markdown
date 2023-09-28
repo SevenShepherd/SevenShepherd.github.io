@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:15:00 -0500
+date: 2023-09-25 4:25:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -178,7 +178,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 - <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.6 Conclusions</a>
 
-    I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible, it's also possible that God grants faith still, or perhaps like Lennox suggests, its both.
+    I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible; it's also possible that God grants faith still, or perhaps like Lennox suggests, its both.
 
     The main takeaway for me, is that it is not meritorious or legalistic to hold to a foreknowledge view, though, this is not indisputable proof that this is how God decreed things, only that it isn't unsafe.
 
@@ -197,7 +197,12 @@ The debate in the last section may have cleared the Wesleyan foreknowledge view 
 
 ![The Order Of God's Decrees](/assets/images/decrees.png)
 
-> Under construction
+> The term supralapsarian is from the Latin supra (above) and lapsus (fall), meaning that God’s decree of election (predestination) is considered by supralapsarians to be above, or logically prior to, His decree to permit the Fall. Since infra means “below,” the infralapsarians consider God’s decree of election to be beneath, or logically after, His decree to permit the Fall. The sublapsarians (Amyraldians) <sup>9</sup> are similar to the infralapsarians, except they place God’s order to provide salvation before His order to elect (see Chafer, ST, 2.105). Wesleyans adhere to the same basic order as infralapsarians, except they hold that God’s election is based on His foreknowledge rather than simply in accord with it. Hence, for Wesleyans (Arminians), God’s decree is conditional instead of unconditional (which is maintained by the three Calvinistic views).
+>
+Supralapsarians are hypter-Calvinists, being double-predestinarians. <sup>10</sup> Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. Again, Wesleyans are Arminians, insisting that election is conditional, not unconditional. Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
+>
+&mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
+
 
 - <a name="supra" href="#contents" style="font-size:1.6em">2.2 Why Supralapsarianism Doesn't Work</a>
 
