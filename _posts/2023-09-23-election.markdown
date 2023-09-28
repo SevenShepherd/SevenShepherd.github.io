@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:10:00 -0500
+date: 2023-09-25 4:15:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -15,7 +15,8 @@ This article compares the minds of a few intellectual titans, in an attempt to r
     - 1.2 <a href="#faith_grudem">Faith As Defined By Grudem</a>
     - 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
     - 1.4 <a href="#faith_geisler">Faith As Defined By Geisler</a>
-    - 1.5 <a href="#faith_analysis">Conclusions</a>
+    - 1.5 <a href="#faith_basis">What Is The Basis Of Faith?</a>
+    - 1.6 <a href="#faith_analysis">Conclusions</a>
 2. <a href="#false_dichotomy">Infra. v. Wesleyan, A False Dichotomy?</a>
     - 2.1 <a href="#decrees">The Order Of God's Decrees</a>
     - 2.2 <a href="#supra">Why Supra. Doesn't Work</a>
@@ -37,7 +38,7 @@ This article compares the minds of a few intellectual titans, in an attempt to r
 
 <a name="faith" href="#contents" style="font-size:2.1em">💡 1. Is Election By Faith The Beginning Of Salvation By Merit?</a>
 
-I've included some definitions of faith to show that no one disagrees on what genuine faith looks like. The question, instead, is about what election is based upon. Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
+I've included some definitions of faith to show that no one disagrees on what genuine faith looks like. The question, instead, is about what this genuine faith is based upon. Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
 
 <!-- what this genuine faith is based upon -->
 
@@ -106,11 +107,11 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     > Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.5 Conclusions</a>
+- <a name="faith_basis" href="#contents" style="font-size:1.6em">1.5 What Is The Basis Of Genuine Faith?</a>
 
     ![Foreknowledge](/assets/images/greek/proginosko.png)
 
-    As we've seen, **there is NO disagreement on what genuine faith looks like**, all of the aforementioned scholars hold to the complete definition of the protestant [sola fide](https://sevenshepherd.github.io/faith-alone/); however, the question remains: what is the basis of election? Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
+    As we've seen, **there is NO disagreement on what genuine faith looks like**, all of the aforementioned scholars hold to the complete definition of the protestant [sola fide](https://sevenshepherd.github.io/faith-alone/); however, the question remains: what is the basis of genuine faith? Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith?
     
     <!-- what genuine faith is based? -->
 
@@ -174,6 +175,8 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     > There is a real sense in which faith can be seen to be a gift of God without denying it is also our faith. ... Similarly in the marriage relationship, the trust, faith, and commitment of each partner is drawn out by the other. And that does not alter the fact that the faith of each partner is their own subjective response to the other – it is their faith.
     >
     In that sense we can certainly regard faith as a gift of God. God draws it out of us by his grace and love. If God did not initiate it himself, we would never experience it. But he regards the faith as ours – just as he did with Abraham.
+
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.6 Conclusions</a>
 
     I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible, it's also possible that God grants faith still, or perhaps like Lennox suggests, its both.
 
