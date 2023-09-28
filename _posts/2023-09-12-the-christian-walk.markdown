@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 03:00:00 -0500
+date: 2023-09-12 03:10:00 -0500
 categories: truth
 published: true
 ---
@@ -136,9 +136,11 @@ While works definitely do not save us, they do spring forth from a true and live
 
 ## Conclusion
 
-Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3)."
+Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." 
 
-> Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. — Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. pp. 173-175.
+The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"; assensus or ‘agreement’ means "recognition that the gospel is true"; fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3)."
+
+> **Justification by works (things we have done) is the heresy of legalism.** Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But <span style="font-weight:bold;color:orangered;">if ‘good works’ (activities of serving God and others) do not follow from our profession of faith</span>, we are as yet believing only from the head, not from the heart: in other words, <span style="font-weight:bold;color:orangered;">justifying faith (fiducia) is <span style="font-size:1.2em;color:red;">not yet ours</span></span>. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
 Justification is by faith alone, but the faith that saves is never alone in the person justified.
 
