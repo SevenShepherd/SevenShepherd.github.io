@@ -49,7 +49,6 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 <!-- !!! In the year 2016, I undertook the task of architecting a bespoke, Python-based Christian ministry, specifically tailored for the Twitter platform, incorporating meticulous programming and automation. This endeavor has been marked by resounding success, running continuously since its inception and facilitated by a purpose-built raspberry pi single-board computer. I extend a cordial invitation to visit @SevenShepherd and witness firsthand the thriving outcome of this technological feat.  -->
 
-
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
 You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
@@ -60,7 +59,7 @@ You can also check out my custom programmed and automated Twitter based Christia
 
 <span style="font-style:Italic;font-size:2.1em;">Recommended Articles</span>
 
-- [This Is How You Know You're Saved](https://bit.ly/3sUSEVG)
+- [**This Is How You Know You're Saved**](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 <!-- - [The Rain Falls On The Just And Unjust Alike](https://bit.ly/3mz70rY) -->
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 <!-- - [The True Meaning Of Repentance](https://bit.ly/3IchrbQ) -->
