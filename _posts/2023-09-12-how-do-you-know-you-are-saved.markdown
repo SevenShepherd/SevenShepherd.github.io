@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 03:45:00 -0500
+date: 2023-09-12 03:55:00 -0500
 categories: truth
 published: true
 ---
@@ -162,6 +162,8 @@ When you profess Christ truly, you walk as he walked. We're not saved by this wa
 The answer to all of these questions should be: Yes!
 
 We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only have you proven that you do not love God (Jn 14:15,21), but that your profession of faith was false (1Jn 2:3-6). 
+
+> **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
 It's true that Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15), but the faith that justifies, is a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience. It is no dead faith (James 2:14-26).
 
