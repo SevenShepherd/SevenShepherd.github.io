@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 03:35:00 -0500
+date: 2023-09-12 03:45:00 -0500
 categories: truth
 published: true
 ---
@@ -156,7 +156,7 @@ Justification is by faith alone, but the faith that saves is never alone in the 
 When you profess Christ truly, you walk as he walked. We're not saved by this walk, but that's what happens as a result of a genuine profession of faith.
 
 1. Are you saved according to Eph. 2:8-10?
-2. Do you love God according to John 14:15,21
+2. Do you love God according to John 14:15,21?
 3. Do you see the fruits (Gal. 5:22-23) and evidences (James 2:14-26) of a true and lively faith?
 
 The answer to all of these questions should be: Yes!
