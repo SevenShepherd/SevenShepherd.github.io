@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 04:00:00 -0500
+date: 2023-09-12 04:10:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -130,7 +130,7 @@ While works definitely do not save us, they do spring forth from a true and live
 - Those who practice lifelong habitual sin are likely self-deceived (James 1:22; 2 Pe 2:21-22) and will not inherit the kingdom of God (Rev 21:8; 22:15; Ro 1:29-32; 1 Cor. 6:9-10; Gal 5:19-21; Eph 5:3-5)
 - Christianity is a call to discipleship (Mt 10:38; 16:24; Lk 9:23,62; 14:27; Mk 8:34... Mt 3:10; 25:30; Jn 15:8 ESV)
 - True Christians love God by obeying him (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4).
-- True Christians love other believers (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35).
+- True Christians love other believers (1 Jn 2:9-11; 3:10,14; 4:8,20; Jn 13:34-35).
 - The Bible teaches us to live Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; 2 Pe 2:21-22).
 - The teaching of obedience to God after justification is not burdensome, in fact it's a reason for joy (1 Jn 5:3-4; Jn 15:10-11).
 
