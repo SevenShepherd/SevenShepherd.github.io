@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 03:15:00 -0500
+date: 2023-09-12 03:30:00 -0500
 categories: truth
 published: true
 ---
@@ -155,6 +155,13 @@ Justification is by faith alone, but the faith that saves is never alone in the 
 
 When you profess Christ truly, you walk as he walked. We're not saved by this walk, but that's what happens as a result of a genuine profession of faith.
 
+1. Are you saved according to Eph. 2:8-10?
+2. Do you love God according to John 14:15,21
+3. Do you see the fruits (Gal. 5:22-23) and evidences (James 2:14-26) of a true and lively faith?
+
+The answer to all of these questions should be: Yes!
+
+We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only have you proven that you do not love God (Jn 14:15,21), but that your profession of faith was false (1Jn 2:3-6). It's true that Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15), but the faith that justifies, is a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience. It is no dead faith (James 2:14-26).
 
 <script>
     var refTagger = {
