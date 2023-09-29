@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "⚜️ Ordo Salutis (Moderate Arminian)"
-date: 2023-09-22 1:30:00 -0500
+title: "⚜️ Ordo Salutis (Moderate Arminianism)"
+date: 2023-09-22 1:35:00 -0500
 categories: salvation
 published: true
 ---
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century. **This article is not an endorsement.**
 
-<a name="moderate_arminian" href="#contents" style="font-size:2.1em;">I. Moderate Arminian</a>
+<a name="moderate_arminianism" href="#contents" style="font-size:2.1em;">I. Moderate Arminianism</a>
 
 ...
 
