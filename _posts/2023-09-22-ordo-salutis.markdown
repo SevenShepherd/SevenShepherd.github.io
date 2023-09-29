@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Revised)"
-date: 2023-09-22 2:30:00 -0500
+date: 2023-09-22 2:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ After a considerable amount of time and [**thought**](https://sevenshepherd.gith
 
 - Theologies
     - 🟡 [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) &mdash; May be a viable option, still [reviewing](https://sevenshepherd.github.io/election/).
-    - 🟡 [Moderate Arminianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) &mdash; May be a viable option, still [reviewing](https://sevenshepherd.github.io/election/).
+    - 🟡 [Moderate Arminianism]() &mdash; May be a viable option, still [reviewing](https://sevenshepherd.github.io/election/).
     - 🟡 [Lutheranism](https://sevenshepherd.github.io/ordo-salutis-lutheran/) &mdash; doesn't believe in eternal security.
     - 🟠 [Calvinism](https://sevenshepherd.github.io/ordo-salutis-reformed//) &mdash; While [mongergistic](https://carm.org/dictionary/monergism/), St. Augustine, Luther, & Calvin all rejected “Limited Atonement” (1Jn 2:2 NET). 
     - 🟠 [Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) &mdash; Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity.
