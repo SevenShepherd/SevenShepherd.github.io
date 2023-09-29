@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Revised)"
-date: 2023-09-22 2:25:00 -0500
+date: 2023-09-22 2:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -18,7 +18,7 @@ After a considerable amount of time and [**thought**](https://sevenshepherd.gith
 - Soteriologies
     - 🟢 [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position. Five Solas are solid.
     - 🟠 [Lordship Salvation]() &mdash; Sometimes confuses the word "results" with "includes," when considering obedience and works, erroneously altering sola fide, and moving far too close to a legalistic stance.
-    - 🔴 ['80s Free Grace](https://sevenshepherd.github.io/repent/) &mdash; Rejects sound scholarship, lexicon definitions, and academic community on meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to category mistake, alters reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/), doesn't know what it's own [founder's](https://sevenshepherd.github.io/practicing-sin/#ryrie_cite) beliefs. Sometimes teaches intellectual assent to facts, which is against scripture.
+    - 🔴 ['80s Free Grace](https://sevenshepherd.github.io/repent/) &mdash; Rejects sound scholarship, lexicon definitions, and academic community on meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to category mistake, alters reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/), doesn't know it's own [founder's](https://sevenshepherd.github.io/practicing-sin/#ryrie_cite) beliefs. Sometimes teaches intellectual assent to facts, which is against scripture.
 - As well as the following [**criteria**](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/):
     - 🟢 Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
     - 🟢 Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
