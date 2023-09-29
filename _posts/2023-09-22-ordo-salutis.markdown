@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Revised)"
-date: 2023-09-22 2:45:00 -0500
+date: 2023-09-22 2:55:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 After a considerable amount of time and [**thought**](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) considering the following theologies, soteriologies:
