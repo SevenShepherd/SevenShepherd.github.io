@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 03:55:00 -0500
-categories: truth
+date: 2023-09-12 04:00:00 -0500
+categories: faith salvation saved
 published: true
 ---
 
@@ -153,13 +153,11 @@ Justification is by faith alone, but the faith that saves is never alone in the 
 |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
 |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
 
-When you profess Christ truly, you walk as he walked. We're not saved by this walk, but that's what happens as a result of a genuine profession of faith.
+When you profess Christ truly, you walk as he walked. We're not saved by this walk, but that's what happens as a result of a genuine profession of faith. The answer to all of these questions should be: Yes!
 
 1. Are you saved according to Eph. 2:8-10?
 2. Do you love God according to John 14:15,21?
 3. Do you see the fruits (Gal. 5:22-23) and evidences (James 2:14-26) of a true and lively faith?
-
-The answer to all of these questions should be: Yes!
 
 We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only have you proven that you do not love God (Jn 14:15,21), but that your profession of faith was false (1Jn 2:3-6). 
 
