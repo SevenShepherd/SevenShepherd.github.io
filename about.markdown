@@ -261,11 +261,18 @@ This section details even more advanced material for those who want to deep dive
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-As a [Historic Protestant](https://bit.ly/3sUSEVG), I can read literature from both Calvinists and Arminians, without accepting their distinctives. While [I reject limited atonement](https://sevenshepherd.github.io/limited-atonement/) I do consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. I reject his Sethite view for Heiser's Divine Council Theory as well.
+As far as theology is concerned, I hold to the [Historic Protestant](https://bit.ly/3sUSEVG) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes to the Calvinist and Arminian distinctives. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God; The error of every man made theology overlooks that.
 
-J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*]().
+- [I reject the Calvinist view of limited atonement.](https://sevenshepherd.github.io/limited-atonement/)
+- [I reject Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.) for either Amyraldian (Sub.) or Wesleyan foreknowledge view.](https://sevenshepherd.github.io/election/)
+- [I reject the Sethite view of Gen 6:1-4 in favor of Heiser's Divine Council Theory and Hybrid Offspring.](https://www.youtube.com/@DRMSH)
+- I reject Cessationism for Soft-cessationism or open but cautious continuationism.
 
-If I had to label myself, I'd probably be [moderately reformed](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). I'm also a soft-cessationist or open but cautious continuationist.
+<!-- As a [Historic Protestant](https://bit.ly/3sUSEVG), I can read literature from both Calvinists and Arminians, without accepting their distinctives. While [I reject limited atonement](https://sevenshepherd.github.io/limited-atonement/) I do consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. I reject his Sethite view for Heiser's Divine Council Theory as well. -->
+
+<!-- J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*](). -->
+
+<!-- If I had to label myself, I'd probably be [moderately reformed](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). I'm also a soft-cessationist or open but cautious continuationist. -->
 
 <!-- I would have selected R. C. Sproul's [*Essential Truths*]() as my concise alternative to Grudem's as Sproul's has the edge on Packer's with his charts and summaries, but Packer's is an improvement upon Sproul's in the way of organization and succinctness. These three mark my top three books on theology. -->
 
