@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:20:00 -0500
+date: 2023-09-22 1:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -210,7 +210,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
 In fact, not only Luther but many of the other reformers, including
-Calvin, did not subscribe to limited atonement. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
+Calvin, did not subscribe to limited atonement... this view of the atonement
+was not even introduced until the second or third generation of
+Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
 This is the only purely monergistic theology. Denominations associated with this theological tradition of Christianity are Presbyterianism, Reformed Churches, Reformed Baptists, some Anglican etc.
 
