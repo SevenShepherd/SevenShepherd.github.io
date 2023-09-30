@@ -268,7 +268,7 @@ As far as theology is concerned, I hold to the [Historic Protestant](https://sev
 - I reject [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. This doesn't mean that I think they're unsaved.
 - I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "including," moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
 - I reject ['80s Free Grace theology](https://sevenshepherd.github.io/repent/) because they reject sound scholarship, lexicon definitions, and the academic community on the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to a category mistake. They also altered the reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/).
-- I reject the Sethite view of Gen 6:1-4 in favor of [Heiser's Divine Council Theory and Hybrid Offspring.](https://www.youtube.com/@DRMSH)
+- I reject the Sethite view of Gen 6:1-4 in favor of [Hybrid Offspring and Heiser's Divine Council Theory.](https://www.youtube.com/@DRMSH)
 - I reject Cessationism for Soft-cessationism or open but cautious continuationism.
 
 > &ldquo;Discussion - YES! Disagreements - YES! Division - NO!&rdquo; &mdash; Chuck Smith, Calvinism, Arminianism, & The Word Of God. p. 16.
