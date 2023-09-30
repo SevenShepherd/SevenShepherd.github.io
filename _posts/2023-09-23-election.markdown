@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 4:55:00 -0500
+date: 2023-09-25 5:00:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -16,7 +16,9 @@ This article compares the minds of a few intellectual titans, in an attempt to r
     - 1.3 <a href="#faith_packer">Faith As Defined By Packer</a>
     - 1.4 <a href="#faith_geisler">Faith As Defined By Geisler</a>
     - 1.5 <a href="#faith_basis">What Is The Basis Of Faith?</a>
-    - 1.6 <a href="#faith_analysis">Conclusions</a>
+    - 1.6 <a href="#faith_choice">Fore. Is Still Not Free Will?</a>
+        - 1.6.1 <a href="#Acts2:23">Planned Crucifixion (Acts 2:23)</a>
+    - 1.7 <a href="#faith_analysis">Conclusions</a>
 2. <a href="#false_dichotomy">Infra. v. Wesleyan, A False Dichotomy?</a>
     - 2.1 <a href="#decrees">The Order Of God's Decrees</a>
     - 2.2 <a href="#supra">Why Supra. Doesn't Work</a>
@@ -177,7 +179,37 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     >
     In that sense we can certainly regard faith as a gift of God. God draws it out of us by his grace and love. If God did not initiate it himself, we would never experience it. But he regards the faith as ours – just as he did with Abraham.
 
-- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.6 Conclusions</a>
+- <a name="faith_choice" href="#contents" style="font-size:1.6em">1.6 Predestination Based On Foreknowledge Of Faith Still Does Not Give People Free Choice?</a>
+
+    When Dr. Grudem claims that those who hold to the Wesleyan foreknowledge position, don't have free will either, he also inadvertently admits that this position abides by the teachings of God's sovereignty. To which I would reply, good! That still does not invalidate the position. So not only does Romans 4:4-5 prove that trusting in Christ (faith), is not a meritorious work, but inadvertently, according to Grudem, it's also a position that upholds God's Sovereignty.
+
+    > The idea that God’s predestination of some to believe is based on foreknowledge of their faith encounters still another problem: upon reflection, **this system turns out to give no real freedom to man either. For if God can look into the future and see that person A will come to faith in Christ, and that person B will not come to faith in Christ, then those facts are already fixed, they are already determined**. If we assume that God’s knowledge of the future is true (which it must be), then it is absolutely certain that person A will believe and person B will not. There is no way that their lives could turn out any differently than this. Therefore it is fair to say that their destinies are still determined, for they could not be otherwise. &mdash; Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), Systematic Theology, Chapter 32: Election and Reprobation. pp. 827.<sup><a name="grudem" href="#contents">2</a></sup>
+
+- <a name="Acts2:23" href="#contents" style="font-size:1.6em"> 📜 1.6.1 Christ's Predestined Crucifixion (Acts 2:23)</a>
+
+    > 23 this man, who was **handed over by the predetermined plan and foreknowledge of God**, you executed by nailing him to a cross at the hands of Gentiles. &mdash; Acts 2:23 NET
+
+    Dr. Lennox actually addresses this indirectly when he addresses the culpability of those involved in Christ's predestined crucifixion (Acts 2:23 NET).
+
+    > Is God’s foreknowledge causative – i.e. **does the fact that God knows that something will happen cause it to happen**, and therefore relieve any participant from responsibility? **Surely the answer is: not necessarily**; if for no other reason than the fact that the Bible itself does not regard God’s foreknowledge or predestination as diminishing human responsibility.
+    >
+    The very first quote under “foreknowledge” (which is the same as the second quote under “predestination”) says that **Christ’s crucifixion was both foreknown and predestined**, but that the men involved in it were wicked and therefore **morally responsible**. One could add to this that the death of Christ was actually predicted in Scripture centuries before it happened. However, **Scripture itself tells us that this fact does not diminish the culpability of those involved** in crucifying the Lord.
+    >
+    ... Of course on the human level foreknowledge – knowing something in advance – is not necessarily causative. ...
+    >
+    &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
+
+    Lennox then points out the fatal flaw of all man made theologies, and that is how they never take into the account that God lives outside of time. A conclusion I came to myself not to long before reading Lennox's work. I thought to myself, If God lives outside of time, even at this moment, he could elect someone, and it still count as before time began because God lives outside of time itself.
+
+    > At the higher level there is another consideration. The idea that, because God knows about an event beforehand it must be predetermined, may rest on the assumption that God’s relationship with time is the same as ours; that he sits, as we do, on a time line that stretches from the past to the future. However, Scripture indicates that God’s relationship to time is not at all like ours. Jesus said, before Abraham was, I am (John 8:58 ESV). It could be, for instance, that **God knew beforehand that I would trust Christ simply because he sees it in an eternal perspective, so that the issue of causation does not even arise**. 
+    >
+    We need, however, to be cautious here. Time is not an easy concept – indeed, no one admits to understanding what it actually is. It would therefore be wise to be skeptical of interpretations of God’s foreknowledge that deny the freedom that, according to Scripture elsewhere, is possessed by the men and women God has created.
+    >
+    &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 110.
+
+    You can always tell when a theology neglects this fact when they say things like "God looked forward through time," as if God experienced the flow of time like human beings, which he clearly does not.
+
+- <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.7 Conclusions</a>
 
     <!-- I would say that both sides of the debate are safe to land on, seeing as how the use of the adjective “good” used to qualify “faith” which is then linked with “merit” is incorrect. It looks as though the answer to whether or not election by faith is the beginning of salvation by merit would be false. On whether faith is a universal God-given ability, it's possible; it's also possible that God grants faith still, or perhaps like Lennox suggests, its both. -->
 
