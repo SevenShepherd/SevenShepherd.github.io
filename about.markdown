@@ -261,7 +261,7 @@ This section details even more advanced material for those who want to deep dive
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-As far as theology is concerned, I hold to the [Historic Protestant](https://bit.ly/3sUSEVG) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes the distinctives of Christianity. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God, every man made theology overlooks that. Mt 24:10.
+As far as theology is concerned, I hold to the [Historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes the distinctives of Christianity. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God, every man made theology overlooks that. Mt 24:10.
 
 - I reject the [Calvinist](https://sevenshepherd.github.io/ordo-salutis-reformed/) view of [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me.
 - I reject [Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/). Jesus died for the sins of the world (1 Jn 2:2).
