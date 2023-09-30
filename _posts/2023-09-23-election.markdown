@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 5:00:00 -0500
+date: 2023-09-25 5:05:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -199,7 +199,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     >
     &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
 
-    Lennox then points out the fatal flaw of all man made theologies, and that is how they never take into the account that God lives outside of time. A conclusion I came to myself not to long before reading Lennox's work. I thought to myself, If God lives outside of time, even at this moment, he could elect someone, and it still count as before time began because God lives outside of time itself.
+    Lennox then points out the fatal flaw of all man made theologies, and that is how they never take into the account that God lives outside of time. Not too long before reading Lennox's book, I came to the conclusion that If God lives outside of time, even at this moment, he could elect someone, and it still count as before time began because God lives outside of time itself.
 
     > At the higher level there is another consideration. The idea that, because God knows about an event beforehand it must be predetermined, may rest on the assumption that God’s relationship with time is the same as ours; that he sits, as we do, on a time line that stretches from the past to the future. However, Scripture indicates that God’s relationship to time is not at all like ours. Jesus said, before Abraham was, I am (John 8:58 ESV). It could be, for instance, that **God knew beforehand that I would trust Christ simply because he sees it in an eternal perspective, so that the issue of causation does not even arise**. 
     >
@@ -207,7 +207,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
     >
     &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 110.
 
-    You can always tell when a theology neglects this fact when they say things like "God looked forward through time," as if God experienced the flow of time like human beings, which he clearly does not.
+    You can always tell when a theology neglects this fact when they say things like "God looked forward through time," as if God experiences the flow of time like human beings, which he clearly does not.
 
 - <a name="faith_analysis" href="#contents" style="font-size:1.6em">1.7 Conclusions</a>
 
@@ -219,7 +219,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
     The main takeaway for me, is that it is not meritorious or legalistic to hold to a foreknowledge view, though, this is not indisputable proof that this is how God decreed things, only that it isn't unsafe.
 
-    So Lennox does squash Grudem's claim, but does not prove empirically, that the foreknowledge view is what God decreed, only that it is a safe view to hold, as a moderate, independent from any theology.
+    So Lennox does disprove Grudem's claim, but does not prove empirically, that the foreknowledge view is what God decreed, only that it is a safe view to hold, as a moderate, independent from any theology.
 
     On whether faith is a universal God-given ability, it's possible; it's also possible that God grants faith still, or perhaps like Lennox suggests, its both in a certain sense.
 
