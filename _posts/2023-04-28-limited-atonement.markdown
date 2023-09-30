@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 Why I've Always Rejected Limited Atonement" 
-date: 2023-09-22 02:25:00 -0500
+date: 2023-09-22 02:35:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -15,7 +15,9 @@ Dr. John C. Lennox also contributes many vital points in his book &ldquo;[*Deter
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
 In fact, not only Luther but many of the other reformers, including
-Calvin, did not subscribe to limited atonement. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
+Calvin, did not subscribe to limited atonement... this view of the atonement
+was not even introduced until the second or third generation of
+Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
 <!-- "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" -->
 
