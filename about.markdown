@@ -261,12 +261,25 @@ This section details even more advanced material for those who want to deep dive
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-As far as theology is concerned, I hold to the [Historic Protestant](https://bit.ly/3sUSEVG) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes to the Calvinist and Arminian distinctives. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God; The error of every man made theology overlooks that.
+As far as theology is concerned, I hold to the [Historic Protestant](https://bit.ly/3sUSEVG) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes the distinctives of Christianity. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God, every man made theology overlooks that. Mt 24:10.
 
-- [I reject the Calvinist view of limited atonement.](https://sevenshepherd.github.io/limited-atonement/)
-- [I reject Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.) for either Amyraldian (Sub.) or Wesleyan foreknowledge view.](https://sevenshepherd.github.io/election/)
-- [I reject the Sethite view of Gen 6:1-4 in favor of Heiser's Divine Council Theory and Hybrid Offspring.](https://www.youtube.com/@DRMSH)
+- I reject the [Calvinist](https://sevenshepherd.github.io/ordo-salutis-reformed/) view of [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me.
+- I reject [Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/).
+- I reject traditional arminianism as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity.
+- I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "includes" moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
+- I reject ['80s Free Grace theology](https://sevenshepherd.github.io/repent/) because they reject sound scholarship, lexicon definitions, and the academic community on the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to a category mistake. They also altered the reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/).
+- I reject the Sethite view of Gen 6:1-4 in favor of [Heiser's Divine Council Theory and Hybrid Offspring.](https://www.youtube.com/@DRMSH)
 - I reject Cessationism for Soft-cessationism or open but cautious continuationism.
+
+> &ldquo;Discussion - YES! Disagreements - YES! Division - NO!&rdquo; &mdash; Chuck Smith, Calvinism, Arminianism, & The Word Of God. p. 16.
+
+Having said that, I still have a tremendous respect for Drs. Wayne Grudem & J.I. Packer, and consider their theologies, **except where we diverge**, to be authoritative and accurate for in-depth study. Dr. Demarest was also instrumental in helping me understand all the different theologies in a way no other teacher could. Drs. Ron Rhodes, John C. Lennox, and the late Michael Heiser have my attention, as I favor moderates and systemless scholars.
+
+<!-- J. I. Packer is equally distinguished and his [*Concise Theology*]() is equally authoritative, just much more succinct and useful for travel. When it comes to the distinctives of soteriology, such as the Calvinist & Arminian divide, refer to Dr. Lennox's [*Determined to Believe?*](). -->
+
+<!-- > <sup>10</sup> And then many will fall away and betray one another **and hate one another**. &mdash; Matthew 24:10 ESV -->
+
+<!-- If I haven't offended you you made yet, just stick around and read a few articles. Truth has that effect. -->
 
 <!-- As a [Historic Protestant](https://bit.ly/3sUSEVG), I can read literature from both Calvinists and Arminians, without accepting their distinctives. While [I reject limited atonement](https://sevenshepherd.github.io/limited-atonement/) I do consider Wayne Grudem's [*Systematic Theology*]() to be the most authoritative and accurate for in-depth study. I reject his Sethite view for Heiser's Divine Council Theory as well. -->
 
@@ -279,12 +292,12 @@ As far as theology is concerned, I hold to the [Historic Protestant](https://bit
 |Professors|Books|
 |:-:|:-:|
 |**Systematic Theology**||
-|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ **Systematic Theology, 2nd ed.**]()|
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ Systematic Theology, 2nd ed.]()|
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()|
 |||
 |**Soteriology**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|[Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ Determined to Believe?]()|
+|[Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
 
 <!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">☩ Essential Truths</a><br>[☩ Everyone's a Theologian]()| -->
 
