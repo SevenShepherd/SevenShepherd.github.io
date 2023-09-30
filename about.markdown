@@ -348,10 +348,11 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**Apologetics**||
-|[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
-|[Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ Can Science Explain Everything?]()|
-|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
-|[Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
+|[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[☩ Can Science Explain Everything?]()<br>[☩ God and Stephen Hawking]()|
+|Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
+|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
+|[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[☩ Return of the God Hypothesis]()<br>[☩ Darwin's Doubt]()<br>[☩ Signature in the Cell]()|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist]()<br>[☩ Stealing from God]()|
 
 <span style="font-style:Italic;font-size:2.1em;">Advanced Study Material</span>
