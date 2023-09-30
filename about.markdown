@@ -243,22 +243,6 @@ The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale
 
 This ministry does not recommend a Bible of the paraphrase type. We would instead direct you to dynamic equivalence. Paraphrases are NOT translations.
 
-<span style="font-style:Italic;font-size:2.1em;">Advanced Study Material</span>
-
-This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
-
-<!-- - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle) -->
-
-|||
-|:-:|:-:|
-|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)]()|
-|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament]()|
-|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.]()
-|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume]()|
-|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition]()|
-|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version]()|
-|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
-
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
 As far as theology is concerned, I hold to the [Historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. I find the Five Solas to be pillars of sound wisdom. Other than this I would describe myself as a **moderate** when it comes the distinctives of Christianity. I propose, we hold to what is true, irrespective of man made theologies, even if it contradicts them all. It would do us all good to remember that we worship a timeless God, every man made theology overlooks that. Mt 24:10.
@@ -352,6 +336,22 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
 |[Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist]()<br>[☩ Stealing from God]()|
+
+<span style="font-style:Italic;font-size:2.1em;">Advanced Study Material</span>
+
+This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+
+<!-- - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle) -->
+
+|||
+|:-:|:-:|
+|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)]()|
+|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament]()|
+|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.]()
+|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume]()|
+|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition]()|
+|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version]()|
+|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
 
 <!-- <br>[☩ Quantum Theory]() -->
