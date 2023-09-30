@@ -265,8 +265,8 @@ As far as theology is concerned, I hold to the [Historic Protestant](https://sev
 
 - I reject the [Calvinist](https://sevenshepherd.github.io/ordo-salutis-reformed/) view of [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me.
 - I reject [Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/). Jesus died for the sins of the world (1 Jn 2:2).
-- I reject traditional arminianism as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity.
-- I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "includes" moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
+- I reject traditional Arminianism as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity.
+- I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "including," moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
 - I reject ['80s Free Grace theology](https://sevenshepherd.github.io/repent/) because they reject sound scholarship, lexicon definitions, and the academic community on the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to a category mistake. They also altered the reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/).
 - I reject the Sethite view of Gen 6:1-4 in favor of [Heiser's Divine Council Theory and Hybrid Offspring.](https://www.youtube.com/@DRMSH)
 - I reject Cessationism for Soft-cessationism or open but cautious continuationism.
@@ -347,7 +347,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**Apologetics**||
-|[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
+|[Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
 |[Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ Can Science Explain Everything?]()|
 |Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
 |[Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
