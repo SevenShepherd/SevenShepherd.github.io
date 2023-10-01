@@ -490,7 +490,7 @@ My metaphysical views will always be Christian first and foremost, but otherwise
 
 <!-- # Epistemology (The Nature of Knowledge) -->
 
-My epistemological views are first and foremost Christian, but otherwise fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Spinoza, Leibniz (created calculus like Newton, Leibniz paved the way for Einstein's theory of relativity), Gödel, and Einstein (called himself a "Leibnizian," and was also a Spinozist). etc. I'm also a fan of skeptical scenarios.
+My epistemological views are first and foremost Christian, but otherwise fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Spinoza, Leibniz (created calculus like Newton, Leibniz paved the way for Einstein's theory of relativity), Gödel, and Einstein (called himself a "Leibnizian," and was also a Spinozist). etc. I'm also a fan of skeptical scenarios, they remind me of Revelation 6:14.
 
 <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
 
