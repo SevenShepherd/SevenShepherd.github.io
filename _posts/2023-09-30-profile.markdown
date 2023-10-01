@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 1:20:00 -0500
+date: 2023-09-30 1:25:00 -0500
 categories: about bio biography profile
-published: true
+published: false
 ---
 
 <!-- <style>
@@ -32,7 +32,9 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 
 <!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
 
-<span style="font-style:Italic;font-size:2.1em;">Recommended Articles</span>
+<a name="false_dichotomy" href="#contents" style="font-style:Italic;font-size:2.1em">I. Recommended Articles</a>
+
+<!-- <span style="font-style:Italic;font-size:2.1em;">I. Recommended Articles</span> -->
 
 - [**This Is How You Know You're Saved**](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
