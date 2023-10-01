@@ -280,7 +280,7 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 |Professors|Books|
 |:-:|:-:|
 |**Under Construction**||
-|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()<br>I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/), but I find this text to be pleasing otherwise.|
+|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>|
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
 
 <span style="font-style:Italic;font-size:2.1em;">Distinctives</span>
