@@ -273,7 +273,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[☩ Return of the God Hypothesis]()<br>[☩ Darwin's Doubt]()<br>[☩ Signature in the Cell]()|
 
 
-<a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Scientist & Mathematics</a>
+<a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Science & Mathematics</a>
 
 <!-- <span style="font-size:2.1em;">🧮</span> <span style="font-style:Italic;font-size:2.1em;">Science & Mathematics</span> -->
 
