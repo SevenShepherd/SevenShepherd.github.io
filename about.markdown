@@ -32,7 +32,18 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 You can also check out my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
-I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Edition. I read leisurely with the NLT Filament Compact. I also recommend Concise Theology by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. I consider myself a historic Protestant with a theologically moderate or even systemless distinctive.
+- ESV Study Bible (Bible Study)
+- NET Full Notes (Textual Crit.)
+- NLT Filament (Leisure)
+- [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
+- [Sub. or Wesl. Forknowledge](https://sevenshepherd.github.io/election/#decrees)
+- Theologically Moderate
+- Soft-cessationist
+
+My favorite theology book is &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. 
+
+
+<!-- I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Edition. I read leisurely with the NLT Filament Compact. I also recommend Concise Theology by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. I consider myself a historic Protestant with a theologically moderate or even systemless distinctive. -->
 
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
