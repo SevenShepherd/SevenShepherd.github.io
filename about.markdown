@@ -281,7 +281,6 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 |:-:|:-:|
 |**Under Construction**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
 
 <span style="font-style:Italic;font-size:2.1em;">Distinctives</span>
 
@@ -302,6 +301,10 @@ When you want to learn about Calvinism, you learn it from a Calvinist. When you 
 
 |Professors|Books|
 |:-:|:-:|
+|**Systemless**||
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
+|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ YouTube Channel](https://www.youtube.com/@DRMSH)|
+|||
 |**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ Essential Christianity]()|
