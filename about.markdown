@@ -309,7 +309,7 @@ When you want to learn about Calvinism, you learn it from a Calvinist. When you 
 |Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[☩ Systematic Theology, Volume Three, Sin Salvation.]()|
 |||
 |**Moderate Arminianism**||
-|[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[☩ C2000](https://calvarychapel.com/posts/c2000/)|
+|[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[☩ C2000](https://calvarychapel.com/posts/c2000/)<br>☩ [Calvinism, Arminianism, & The Word Of God]()|
 |||
 |**Orthodox Calvinism ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ Systematic Theology, 2nd ed.]()|
