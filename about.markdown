@@ -558,7 +558,7 @@ In some Chinese translations of the New Testament, λόγος (logos) is transla
 
 <!-- # Aesthetics (The Nature of Beauty) -->
 
-My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, the golden ratio, fibonacci, etc.
+My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, the golden ratio, fibonacci, etc. Romans 1:20; Psalm 19:1.
 
 |||
 |:-:|:-:|
