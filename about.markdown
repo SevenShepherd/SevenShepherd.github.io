@@ -42,13 +42,14 @@ I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Ed
 - <a href="#theology">III. Theology</a>
 - <a href="#distinctives">IV. Distinctives</a>
 - <a href="#textual_criticism">V. Textual Criticism</a>
-- <a href="#scientist_theologians">VI. Scientist Theologians</a>
-- <a href="#science">VII. Science & Mathematics</a>
-- <a href="#references">VIII. Dictionaries & Lexicons</a>
-- <a href="#entertainment">IX. Entertainment</a>
-- <a href="#wisdom">X. Wisdom & Philosophy</a>
-- <a href="#hobbies">XI. Hobbies & Recreation</a>
-- <a href="#quotes">XII. Quotes</a>
+- <a href="#apologetics">VI. Apologetics</a>
+- <a href="#scientist_theologians">VII. Scientist Theologians</a>
+- <a href="#science">VIII. Science & Mathematics</a>
+- <a href="#references">IX. Dictionaries & Lexicons</a>
+- <a href="#entertainment">X. Entertainment</a>
+- <a href="#wisdom">XI. Wisdom & Philosophy</a>
+- <a href="#hobbies">XII. Hobbies & Recreation</a>
+- <a href="#quotes">XIII. Quotes</a>
 
 <!-- - <a href="#wisdom">X. Wisdom & Philosophy</a>
     - <a href="#metaphysics">10.1 Metaphysics</a>
@@ -246,7 +247,9 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |**Divine Council Theory**<br>**OT Textual Criticism**||
 |[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm]()|
 
-<span style="font-style:Italic;font-size:2.1em;">Apologetics - Cults</span>
+<a name="apologetics" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Apologetics</a>
+
+<!-- <span style="font-style:Italic;font-size:2.1em;">Apologetics - Cults</span> -->
 
 |Professors||
 |:-:|:-:|
@@ -256,7 +259,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist]()<br>[☩ Stealing from God]()|
 
-<a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Scientist Theologians</a>
+<a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VII. Scientist Theologians</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Scientist Theologians</span> -->
 
@@ -270,7 +273,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[☩ Return of the God Hypothesis]()<br>[☩ Darwin's Doubt]()<br>[☩ Signature in the Cell]()|
 
 
-<a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VII. Scientist & Mathematics</a>
+<a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Scientist & Mathematics</a>
 
 <!-- <span style="font-size:2.1em;">🧮</span> <span style="font-style:Italic;font-size:2.1em;">Science & Mathematics</span> -->
 
@@ -289,7 +292,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 <!-- > Any theory, no matter how beautiful, must eventually confront experimental verification. &mdash; Dr. Michio Kaku -->
 
-<a name="references" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Dictionaries & Lexicons</a>
+<a name="references" href="#contents" style="font-style:Italic;font-size:2.1em">IX. Dictionaries & Lexicons</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Dictionaries & Lexicons</span> -->
 
@@ -414,7 +417,7 @@ This section details even more advanced material for those who want to deep dive
 
 <!-- |David Klein|[Organic Chemistry, 4th Edition](https://libgen.is/book/index.php?md5=51CAA2BB678EBD77DC69F6C64FEB8EB6)| -->
 
-<a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">IX. Entertainment</a>
+<a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">X. Entertainment</a>
 
 <!-- ## ♟️ Entertainment -->
 
@@ -437,7 +440,7 @@ This section details even more advanced material for those who want to deep dive
 |💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|-->
 
 
-<a name="wisdom" href="#contents" style="font-style:Italic;font-size:2.1em">X. Wisdom & Philosophy</a>
+<a name="wisdom" href="#contents" style="font-style:Italic;font-size:2.1em">XI. Wisdom & Philosophy</a>
 
 <!-- ## 📜 Wisdom & Philosophy -->
 
@@ -451,7 +454,7 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 <!-- > “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations  -->
 
-<a name="metaphysics" href="#contents" style="font-style:Italic;font-size:1.6em">10.1 Metaphysics (The Ultimate Structure of Reality)</a>
+<a name="metaphysics" href="#contents" style="font-style:Italic;font-size:1.6em">11.1 Metaphysics (The Ultimate Structure of Reality)</a>
 
 <!-- # Metaphysics (The Ultimate Structure of Reality) -->
 
@@ -483,7 +486,7 @@ My metaphysical views will always be Christian first and foremost, but otherwise
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
 |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"|
 
-<a name="epistemology" href="#contents" style="font-style:Italic;font-size:1.6em">10.2 Epistemology (The Nature of Knowledge)</a>
+<a name="epistemology" href="#contents" style="font-style:Italic;font-size:1.6em">11.2 Epistemology (The Nature of Knowledge)</a>
 
 <!-- # Epistemology (The Nature of Knowledge) -->
 
@@ -524,7 +527,7 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- |Immanuel Kant<br>22 April 1724 to 12 February 1804|[Critique of Pure Reason](https://libgen.is/book/index.php?md5=B8CB67E9100049128399841ED76EF2EB)<br>Transcendental Idealism| -->
 
-<a name="ethics" href="#contents" style="font-style:Italic;font-size:1.6em">10.3 Virtue Ethics (Moral Philosophy)</a>
+<a name="ethics" href="#contents" style="font-style:Italic;font-size:1.6em">11.3 Virtue Ethics (Moral Philosophy)</a>
 
 <!-- # Ethics (Moral Philosophy) -->
 
@@ -551,7 +554,7 @@ In some Chinese translations of the New Testament, λόγος (logos) is transla
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Charlie Chaplin<br>16 April 1889 to 25 December 1977|[The Great Dictator Speech](https://youtu.be/w8HdOHrc3OQ)|
 
-<a name="aesthetics" href="#contents" style="font-style:Italic;font-size:1.6em">10.4 Aesthetics (The Nature of Beauty)</a>
+<a name="aesthetics" href="#contents" style="font-style:Italic;font-size:1.6em">11.4 Aesthetics (The Nature of Beauty)</a>
 
 <!-- # Aesthetics (The Nature of Beauty) -->
 
@@ -603,9 +606,9 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 
 <!-- [Sun Tzu's The Art of War](https://youtu.be/jxcMRkqaQdw) -->
 
-<a name="hobbies" href="#contents" style="font-style:Italic;font-size:2.1em">XI. Hobbies & Recreation</a>
+<a name="hobbies" href="#contents" style="font-style:Italic;font-size:2.1em">XII. Hobbies & Recreation</a>
 
-<a name="piano" href="#contents" style="font-style:Italic;font-size:1.6em">11.1 Classical Piano</a>
+<a name="piano" href="#contents" style="font-style:Italic;font-size:1.6em">12.1 Classical Piano</a>
 
 <!-- ## 🎹 Classical Piano -->
 
@@ -624,7 +627,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Philip Glass<br>January 31 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)|
 
-<a name="art" href="#contents" style="font-style:Italic;font-size:1.6em">11.2 Art, Poetry, & Literature</a>
+<a name="art" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Art, Poetry, & Literature</a>
 
 <!-- ## 🎨 Art, Poetry, & Literature -->
 
@@ -642,13 +645,13 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
 
-<a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">11.2 Languages</a>
+<a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Languages</a>
 
 Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety. 
 
 I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise <!--(philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.)--> and so my direction is as a polymath.
 
-# Computer Programming (Formal Language)
+# 12.2.1 Computer Programming (Formal Language)
 
 |||
 |:-:|:-:|
@@ -658,11 +661,11 @@ I like to explore many different types of programming, and I love learning new t
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
 
-# Japanese (Natural Language)
+# 12.2.2 Japanese (Natural Language)
 
 > Under construction
 
-# Esperanto (Constructed Language)
+# 12.2.3 Esperanto (Constructed Language)
 
 Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
 
@@ -688,7 +691,7 @@ Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](h
 |Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
 |Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)| -->
 
-<a name="quotes" href="#contents" style="font-style:Italic;font-size:2.1em">XII. Inspirational Quotations</a>
+<a name="quotes" href="#contents" style="font-style:Italic;font-size:2.1em">XIII. Inspirational Quotations</a>
 
 <!-- ## 🗣️ Inspirational Quotes -->
 
