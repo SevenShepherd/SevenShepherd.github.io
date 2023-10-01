@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 1:15:00 -0500
+date: 2023-09-30 1:20:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -26,7 +26,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
-You can also check out my custom programmed and automated Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
+You can also check out my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
 <sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets, 7.6m likes & retweets.</sup>
 
