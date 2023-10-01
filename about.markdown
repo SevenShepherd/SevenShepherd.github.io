@@ -245,20 +245,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <span style="font-style:Italic;font-size:2.1em;">Theology</span>
 
-As far as theology is concerned, I hold to the &ldquo;[historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)&rdquo; position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
-
-> *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4)
-
-When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-reformed/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17).
-
-> All of this invalidates the L of TULIP – “limited atonement” –
-the view that Christ did not actually die for all but only for the “elect”.
-In fact, not only Luther but many of the other reformers, including
-Calvin, did not subscribe to limited atonement... this view of the atonement
-was not even introduced until the second or third generation of
-Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
-
-On the other side of the matter, I also find [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) to be thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. So I find myself [**debating**](https://sevenshepherd.github.io/election/) between a [Moderate Calvinist](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy)) or [Moderate Arminian](https://sevenshepherd.github.io/ordo-salutis-moderate-arminian/) position.
+As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)&rdquo; position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
 <!-- Dr. Demarest was also instrumental in helping me understand all the different theologies in a way no other teacher could. Drs. Ron Rhodes, John C. Lennox, and the late Michael Heiser have my attention, as I favor moderates and systemless scholars. -->
 
@@ -298,11 +285,23 @@ On the other side of the matter, I also find [traditional Arminianism](https://s
 
 <span style="font-style:Italic;font-size:2.1em;">Distinctives</span>
 
+When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-reformed/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17).
+
+> All of this invalidates the L of TULIP – “limited atonement” –
+the view that Christ did not actually die for all but only for the “elect”.
+In fact, not only Luther but many of the other reformers, including
+Calvin, did not subscribe to limited atonement... this view of the atonement
+was not even introduced until the second or third generation of
+Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
+
+On the other side of the matter, I also find [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) to be thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. So I find myself [**debating**](https://sevenshepherd.github.io/election/) between a [Moderate Calvinist](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy)) or [Moderate Arminian](https://sevenshepherd.github.io/ordo-salutis-moderate-arminian/) position.
+
+> *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4)
+
 When you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive.
 
 |Professors|Books|
 |:-:|:-:|
-|||
 |**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ Essential Christianity]()|
