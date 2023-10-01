@@ -52,14 +52,14 @@ I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Ed
 - <a href="#quotes">XIII. Quotes</a>
 
 <!-- - <a href="#wisdom">X. Wisdom & Philosophy</a>
-    - <a href="#metaphysics">10.1 Metaphysics</a>
-    - <a href="#epistemology">10.2 Epistemology</a>
-    - <a href="#ethics">10.3 Virtue Ethics</a>
-    - <a href="#aesthetics">10.4 Aesthetics</a>
+    - <a href="#metaphysics">11.1 Metaphysics</a>
+    - <a href="#epistemology">11.2 Epistemology</a>
+    - <a href="#ethics">11.3 Virtue Ethics</a>
+    - <a href="#aesthetics">11.4 Aesthetics</a>
 - <a href="#hobbies">XI. Hobbies & Recreation</a>
-    - <a href="#piano">11.1 Classical Piano</a>
-    - <a href="#art">11.2 Art, Poetry, & Literature</a>
-    - <a href="#language">11.3 Language</a>
+    - <a href="#piano">12.1 Classical Piano</a>
+    - <a href="#art">12.2 Art, Poetry, & Literature</a>
+    - <a href="#language">12.3 Language</a>
 - <a href="#quotes">XII. Quotes</a> -->
 
 <a name="articles" href="#contents" style="font-style:Italic;font-size:2.1em">I. Recommended Articles</a>
@@ -645,13 +645,13 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
 
-<a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Languages</a>
+<a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.3 Languages</a>
 
 Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety. 
 
 I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise <!--(philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.)--> and so my direction is as a polymath.
 
-# 12.2.1 Computer Programming (Formal Language)
+# 12.3.1 Computer Programming (Formal Language)
 
 |||
 |:-:|:-:|
@@ -661,11 +661,11 @@ I like to explore many different types of programming, and I love learning new t
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
 
-# 12.2.2 Japanese (Natural Language)
+# 12.3.2 Japanese (Natural Language)
 
 > Under construction
 
-# 12.2.3 Esperanto (Constructed Language)
+# 12.3.3 Esperanto (Constructed Language)
 
 Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
 
