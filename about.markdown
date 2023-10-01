@@ -292,13 +292,35 @@ On the other side of the matter, I also find [traditional Arminianism](https://s
 
 |Professors|Books|
 |:-:|:-:|
-|**Systematic Theology**||
+|**Under Construction**||
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
+
+<span style="font-style:Italic;font-size:2.1em;">Distinctives</span>
+
+When you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive.
+
+|Professors|Books|
+|:-:|:-:|
+|||
+|**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
+|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
+|Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ Essential Christianity]()|
+|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[☩ Systematic Theology, Volume Three, Sin Salvation.]()|
+|||
+|**Moderate Arminianism**||
+|[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[☩ C2000](https://calvarychapel.com/posts/c2000/)|
+|||
+|**Orthodox Calvinism ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ Systematic Theology, 2nd ed.]()|
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()|
 |||
-|**Soteriology**||
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|[Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
+|**Traditional Arminianism ([Wesl.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
+|[Dr. Thomas C. Oden<br>(Ph.D., Yale University)]()|[☩ Classic Christianity: A Systematic Theology]()|
+
+<!-- |||
+|**Soteriology**|| -->
+
 
 <!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">☩ Essential Truths</a><br>[☩ Everyone's a Theologian]()| -->
 
@@ -339,8 +361,8 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**Apologetics**||
-|Dr. Walter Martin (Ph.D., California Coast)|[☩ The Kingdom of the Cults]()<br>[☩ The Kingdom of the Occult]()<br>[☩ Quick Reference]()|
-|Dr. Ron Rhodes (Th.D., Dallas)|[☩ Reasoning from the Scriptures]()<br>[☩ 10 Most Important Things]()|
+|Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ The Kingdom of the Cults]()<br>[☩ The Kingdom of the Occult]()<br>[☩ Quick Reference]()|
+|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ Reasoning from the Scriptures]()<br>[☩ 10 Most Important Things]()|
 |Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
 
 <span style="font-style:Italic;font-size:2.1em;">Apologetics - Atheist Fundamentalism</span>
