@@ -36,7 +36,7 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 - NET Full Notes (Textual Crit.)
 - NLT Filament (Leisure)
 - [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
-- [Sub. or Wesl. Forknowledge](https://sevenshepherd.github.io/election/#decrees)
+- [Sub. or Wesl. Foreknowledge](https://sevenshepherd.github.io/election/#decrees)
 - Theologically Moderate
 - Soft-cessationist
 
