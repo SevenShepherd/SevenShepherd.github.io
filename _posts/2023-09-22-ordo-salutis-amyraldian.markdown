@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 1:40:00 -0500
+date: 2023-09-22 1:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -22,7 +22,7 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 
 <!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) -->
 
-<!-- > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119–120 -->
+<!-- > "an inconsistent and therefore unstable form of Calvinism" &mdash; B. B. Warfield (Professor of Theology at Princeton) (1915), The Plan of Salvation, Philadelphia: Presbyterian Board of Publication, pp. 119-120 -->
 
 <!-- > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin. -->
 
@@ -70,9 +70,26 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 <span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
 
-> Under construction
-
-<!-- It's become evident that most experts in apologetics hold to a moderate calvinist view. This allows them to refute attacks from atheists with ease. I think that if they explored the reformed view of free will, freedom of inclination, their arguments would be just as valid and their theology much more sound. This group gets hung up on extreme and hyper forms of calvinism that the majority of reformed theologians reject as well. -->
+|Early Church Fathers||
+|:-:|:-:|
+|150 – 220|Clement of Alexandria<br>Rejected Limited Atonement|
+|260 – 340|Eusebius<br>Rejected Limited Atonement|
+|293 – 373|Athanasius<br>Rejected Limited Atonement|
+|315 – 386|Cyril of Jerusalem<br>Rejected Limited Atonement|
+|324 – 389|Gregory of Nazianzen<br>Rejected Limited Atonement|
+|330 – 379|Basil<br>Rejected Limited Atonement|
+|340 – 407|Ambrose<br>Rejected Limited Atonement|
+|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
+|376 – 444|Cyril of Alexandria<br>Rejected Limited Atonement|
+|||
+|**Historical Scholars**||
+|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+|||
+|**Contemporary Scholars**||
+|1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
+|1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
+|1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
+|? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 
 <!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
 - Dr. Jack Van Impe (Ph.D., Pacific)
@@ -94,8 +111,6 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
     - Rejects [limited atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)
 - Dr. Norman Geisler (M.A. Theology, Wheaton; Ph.D. Philosophy, Pennsylvania)
 - [Dr. Frank Turek (DMin, Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og) -->
-
-<!-- - <a href="#geisler">Norman Geisler (MA, Wheaton)</a> -->
 
 <br>
 

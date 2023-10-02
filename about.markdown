@@ -100,7 +100,7 @@ These highly recommended versions and studies push our understanding far beyond 
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[☩ **ESV Study Bible**]()<br>[ESV Interlinear]()<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[▫️ **ESV Study Bible**]()<br>[ESV Interlinear]()<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
 
 According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible.
 
@@ -123,7 +123,7 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[☩ **NET Full Notes**]()<br>[EXB Expansions]()|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[▫️ **NET Full Notes**]()<br>[EXB Expansions]()|
 
 The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
 
@@ -141,7 +141,7 @@ The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Dynamic Equivalence<br>"Thought-For-Thought"|[☩ **NLT Filament**]()<br>*Most Readable|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[▫️ **NLT Filament**]()<br>*Most Readable|
 
 The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
 
@@ -177,9 +177,9 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 |Professors|Books|
 |:-:|:-:|
 |**Under Construction**||
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
 
-<!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
+<!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
 
 <a name="distinctives" href="#contents" style="font-style:Italic;font-size:2.1em">IV. Distinctives</a>
 
@@ -203,32 +203,32 @@ When you want to learn about Calvinism, you learn it from a Calvinist. When you 
 |Professors|Books|
 |:-:|:-:|
 |**Systemless**||
-|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[☩ **Determined to Believe?**]()|
-|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ YouTube Channel](https://www.youtube.com/@DRMSH)|
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[▫️ **Determined to Believe?**]()|
+|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[▫️ YouTube Channel](https://www.youtube.com/@DRMSH)|
 |||
 |**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
-|Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ Essential Christianity]()|
-|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[☩ Systematic Theology, Volume Three, Sin Salvation.]()|
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
+|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
+|Dr. Walter Martin<br>(Ph.D., California Coast)|[▫️ Essential Christianity]()|
+|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |||
 |**Moderate Arminianism**||
-|[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[☩ C2000](https://calvarychapel.com/posts/c2000/)<br>☩ [Calvinism, Arminianism, & The Word Of God]()|
+|[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[▫️ C2000](https://calvarychapel.com/posts/c2000/)<br>▫️ [Calvinism, Arminianism, & The Word Of God]()|
 |||
 |**Orthodox Calvinism ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
-|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ Systematic Theology, 2nd ed.]()|
-|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()|
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[▫️ Systematic Theology, 2nd ed.]()|
+|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()|
 |||
 |**Traditional Arminianism ([Wesl.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
-|[Dr. Thomas C. Oden<br>(Ph.D., Yale University)]()|[☩ Classic Christianity: A Systematic Theology]()|
+|[Dr. Thomas C. Oden<br>(Ph.D., Yale University)]()|[▫️ Classic Christianity: A Systematic Theology]()|
 
 <!-- |||
 |**Soteriology**|| -->
 
 
-<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">☩ Essential Truths</a><br>[☩ Everyone's a Theologian]()| -->
+<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|<a href="">▫️ Essential Truths</a><br>[▫️ Everyone's a Theologian]()| -->
 
-<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God]()| -->
+<!-- |[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[▫️ Chosen by God]()| -->
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Soteriology</span>
 
@@ -237,9 +237,9 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors|Books|
 |:-:|:-:|
 |**Soteriology**||
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
-|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[☩ "Free Grace" Theology: 5 Ways It Diminishes the Gospel]()|
-|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[☩ Chosen by God]()| -->
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
+|[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[▫️ "Free Grace" Theology: 5 Ways It Diminishes the Gospel]()|
+|[Dr. R. C. Sproul<br>(Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q)<br>February 13, 1939-December 14, 2017|[▫️ Chosen by God]()| -->
 
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Scientific Theology</span>
@@ -247,7 +247,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors|Books|
 |:-:|:-:|
 |**Scientific Theology**||
-|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ A Scientific Theology, Nature: V1]()<br>[☩ A Scientific Theology, Reality: V2]()<br>☩ A Scientific Theology, Theory: V3<br>[☩ Theology: The Basics]()<br>[☩ Christian Theology: An Introduction]()| -->
+|Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ A Scientific Theology, Nature: V1]()<br>[▫️ A Scientific Theology, Reality: V2]()<br>▫️ A Scientific Theology, Theory: V3<br>[▫️ Theology: The Basics]()<br>[▫️ Christian Theology: An Introduction]()| -->
 
 <a name="textual_criticism" href="#contents" style="font-style:Italic;font-size:2.1em">V. Textual Criticism</a>
 
@@ -256,11 +256,11 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**NT Textual Criticism**||
-|[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[☩ Reinventing Jesus]()|
-|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[☩ Myths and Mistakes]()|
+|[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[▫️ Reinventing Jesus]()|
+|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[▫️ Myths and Mistakes]()|
 |||
 |**Divine Council Theory**<br>**OT Textual Criticism**||
-|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ The Unseen Realm]()|
+|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[▫️ The Unseen Realm]()|
 
 <a name="apologetics" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Apologetics</a>
 
@@ -269,10 +269,10 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**Apologetics**||
-|Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ The Kingdom of the Cults]()<br>[☩ The Kingdom of the Occult]()<br>[☩ Quick Reference]()|
-|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ Reasoning from the Scriptures]()<br>[☩ 10 Most Important Things]()|
-|Matt Slick<br>(M.Div., Westminster)|[☩ CARM](https://carm.org/)|
-|[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[☩ I Don't Have Enough Faith to Be an Atheist]()<br>[☩ Stealing from God]()|
+|Dr. Walter Martin<br>(Ph.D., California Coast)|[▫️ The Kingdom of the Cults]()<br>[▫️ The Kingdom of the Occult]()<br>[▫️ Quick Reference]()|
+|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[▫️ Reasoning from the Scriptures]()<br>[▫️ 10 Most Important Things]()|
+|Matt Slick<br>(M.Div., Westminster)|[▫️ CARM](https://carm.org/)|
+|[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[▫️ I Don't Have Enough Faith to Be an Atheist]()<br>[▫️ Stealing from God]()|
 
 <a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VII. Scientist Theologians</a>
 
@@ -281,11 +281,11 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Professors||
 |:-:|:-:|
 |**Apologetics**||
-|[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[☩ Quarks, Chaos & Christianity]()|
-|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[☩ Can Science Explain Everything?]()<br>[☩ God and Stephen Hawking]()|
-|Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[☩ Mere Apologetics]()<br>[☩ The Dawkins Delusion]()|
-|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[☩ Why the Universe Is the Way It Is]()|
-|[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[☩ Return of the God Hypothesis]()<br>[☩ Darwin's Doubt]()<br>[☩ Signature in the Cell]()|
+|[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
+|Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
+|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
+|[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 
 
 <a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Science & Mathematics</a>
@@ -326,19 +326,19 @@ This section details even more advanced material for those who want to deep dive
 |Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
 
-<!-- <br>[☩ Quantum Theory]() -->
+<!-- <br>[▫️ Quantum Theory]() -->
 
 <!--  -->
 
 
 <!-- <br>Norman L. Geisler -->
 
-<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[☩ Authorized]()| -->
+<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[▫️ Authorized]()| -->
 
 
-<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ How God Became Jesus]()| -->
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[▫️ How God Became Jesus]()| -->
 
-<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[☩ Evangelical Theology. 2nd ed.]()| -->
+<!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[▫️ Evangelical Theology. 2nd ed.]()| -->
 
 <!-- |||
 |**Apologetics**||

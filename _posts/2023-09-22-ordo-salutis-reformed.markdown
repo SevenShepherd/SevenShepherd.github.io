@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:25:00 -0500
+date: 2023-09-22 1:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -281,41 +281,41 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 <!-- - Contemporary scholars
     - <a href="#gurry">Peter J. Gurry (Ph.D., Cambridge)</a>
-        - [Myths and Mistakes](https://amzn.to/3Yz7L0Z)-->
+        - [Myths and Mistakes]()-->
 
 |Early Church Fathers||
 |:-:|:-:|
 |354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
 |||
 |**Historical Scholars**||
-|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion](https://amzn.to/3Uln25b)|
-|1623 – 1687|Francis Turretin (Prof., Geneva)<br>[▫️ Institutes of Elenctic Theology (3 Volumes)](https://amzn.to/3nXJeWN)|
+|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+|1623 – 1687|Francis Turretin (Prof., Geneva)<br>[▫️ Institutes of Elenctic Theology (3 Volumes)]()|
 |1703 – 1758|Jonathan Edwards (Pres. of Princeton) The greatest theological mind the New World ever produced.<br>▫️ The Works of Jonathan Edwards, Perry Miller.|
 |1797 – 1878|Charles Hodge (Prof. & Prin., Princeton)|
 |1820 – 1894|W. G. T. Shedd (Prof., Vermont, Auburn, Andover)|
 |1820 – 1898|Robert L. Dabney (Prof., Union)|
 |1851 – 1921|B. B. Warfield (Prof. & Prin., Princeton)|
-|1854 - 1921|Herman Bavinck (Prof., Kampen; Ph.D., Leiden)<br>[▫️ Reformed Dogmatics (4 Volume Set)](https://amzn.to/3KsMlxU)<br>[▫️ Reformed Dogmatics: Abridged](https://amzn.to/3ZSjDvK)|
-|1873 – 1957|Louis Berkhof (Prof., Calvin)<br>[▫️ A Summary of Christian Doctrine](https://amzn.to/417xDmw)|
-|1892 – 1932|Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)<br>[▫️ Reformed Dogmatics](https://amzn.to/3KJtyj0)|
+|1854 - 1921|Herman Bavinck (Prof., Kampen; Ph.D., Leiden)<br>[▫️ Reformed Dogmatics (4 Volume Set)]()<br>[▫️ Reformed Dogmatics: Abridged]()|
+|1873 – 1957|Louis Berkhof (Prof., Calvin)<br>[▫️ A Summary of Christian Doctrine]()|
+|1892 – 1932|Geerhardus J. Vos (Prof., Princeton; Ph.D., Strasburg)<br>[▫️ Reformed Dogmatics]()|
 |1898 – 1975|John Murray (Prof., Westminister)|
 |||
 |**Contemporary Scholars**||
-|1916 – 2015|<a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a><br>[▫️ Systematic Theology](https://amzn.to/3nPf9IZ)|
-|1926 – 2020|<a href="#packer">J. I. Packer (Ph.D., Oxford)</a><br>[▫️ **Concise Theology**](https://amzn.to/40RYx1A)|
-|1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a><br>[▫️ A New Systematic Theology of the Christian Faith](https://amzn.to/3Mn1Qdf)|
-|1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="https://amzn.to/3HMIbPZ">▫️ The Cross and Salvation</a>|
-|1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a><br>[▫️ Everyone's a Theologian](https://amzn.to/40Wytm8)<br>[▫️ **Essential Truths**](https://amzn.to/3FyUAqx)|
-|1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a><br><a href="https://amzn.to/3YdNY8h">▫️ Biblical Doctrine</a>|
-|1946 – Present|<a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible](https://amzn.to/417o3A0)|
-|1948 – Present|<a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a><br>[▫️ **Systematic Theology**](https://amzn.to/40QF8z5)|
-|1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a><br>[▫️ Systematic Theology](https://amzn.to/3KjTQai)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
-|1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[▫️ NET Full Notes](https://amzn.to/3WLAgbr)<br>[▫️ Reinventing Jesus](https://amzn.to/3jOlQJX)|
-|1964 – Present|<a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a><br>[▫️ The Christian Faith](https://amzn.to/3ZL2tjT)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
-|1974 – Present|<a href="#bird">Michael F. Bird (Ph.D., Queensland)</a><br>[▫️ Evangelical Theology](https://amzn.to/3xFJhrY)|
-|? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a><br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
-|? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
-|? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics](https://amzn.to/41b8FCQ)<br>[▫️ Reformation Theology](https://amzn.to/3GmDCMn)|
+|1916 – 2015|<a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a><br>[▫️ Systematic Theology]()|
+|1926 – 2020|<a href="#packer">J. I. Packer (Ph.D., Oxford)</a><br>[▫️ **Concise Theology**]()|
+|1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a><br>[▫️ A New Systematic Theology of the Christian Faith]()|
+|1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="">▫️ The Cross and Salvation</a>|
+|1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a><br>[▫️ Everyone's a Theologian]()<br>[▫️ **Essential Truths**]()|
+|1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a><br><a href="">▫️ Biblical Doctrine</a>|
+|1946 – Present|<a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
+|1948 – Present|<a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a><br>[▫️ **Systematic Theology**]()|
+|1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a><br>[▫️ Systematic Theology]()<br>[▫️ Reformation Theology]()|
+|1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[▫️ NET Full Notes]()<br>[▫️ Reinventing Jesus]()|
+|1964 – Present|<a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a><br>[▫️ The Christian Faith]()<br>[▫️ Reformation Theology]()|
+|1974 – Present|<a href="#bird">Michael F. Bird (Ph.D., Queensland)</a><br>[▫️ Evangelical Theology]()|
+|? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a><br>[▫️ Reformation Theology]()|
+|? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
+|? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
     
 <!-- | Historical Scholars | Years | Positions | 
 | --- | --- | --- |
