@@ -40,7 +40,9 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 - Theologically Moderate
 - Soft-cessationist
 
-My favorite theology book is &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. 
+My favorite theology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). 
+
+<!-- I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.  -->
 
 
 <!-- I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Edition. I read leisurely with the NLT Filament Compact. I also recommend Concise Theology by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. I consider myself a historic Protestant with a theologically moderate or even systemless distinctive. -->
@@ -175,8 +177,9 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 |Professors|Books|
 |:-:|:-:|
 |**Under Construction**||
-|[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>|
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
+
+<!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[☩ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
 
 <a name="distinctives" href="#contents" style="font-style:Italic;font-size:2.1em">IV. Distinctives</a>
 
@@ -204,6 +207,7 @@ When you want to learn about Calvinism, you learn it from a Calvinist. When you 
 |[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[☩ YouTube Channel](https://www.youtube.com/@DRMSH)|
 |||
 |**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
+|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[☩ The Cross and Salvation]()|
 |Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[☩ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |Dr. Walter Martin<br>(Ph.D., California Coast)|[☩ Essential Christianity]()|
 |Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[☩ Systematic Theology, Volume Three, Sin Salvation.]()|
