@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:30:00 -0500
+date: 2023-09-22 1:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -304,7 +304,6 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |1916 – 2015|<a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a><br>[▫️ Systematic Theology]()|
 |1926 – 2020|<a href="#packer">J. I. Packer (Ph.D., Oxford)</a><br>[▫️ **Concise Theology**]()|
 |1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a><br>[▫️ A New Systematic Theology of the Christian Faith]()|
-|1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="">▫️ The Cross and Salvation</a>|
 |1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a><br>[▫️ Everyone's a Theologian]()<br>[▫️ **Essential Truths**]()|
 |1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a><br><a href="">▫️ Biblical Doctrine</a>|
 |1946 – Present|<a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
@@ -316,7 +315,11 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a><br>[▫️ Reformation Theology]()|
 |? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
 |? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
-    
+
+
+<!-- |1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="">▫️ The Cross and Salvation</a>| -->
+
+
 <!-- | Historical Scholars | Years | Positions | 
 | --- | --- | --- |
 | John Calvin | 1509 - 1564 |  | 
