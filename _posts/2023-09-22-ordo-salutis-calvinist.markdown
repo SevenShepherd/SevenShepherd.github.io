@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:40:00 -0500
+date: 2023-09-22 1:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -306,7 +306,6 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a><br>[▫️ A New Systematic Theology of the Christian Faith]()|
 |1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a><br>[▫️ Everyone's a Theologian]()<br>[▫️ **Essential Truths**]()|
 |1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a><br><a href="">▫️ Biblical Doctrine</a>|
-|1946 – Present|<a href="https://www.crossway.org/authors/d-a-carson/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
 |1948 – Present|<a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a><br>[▫️ **Systematic Theology**]()|
 |1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a><br>[▫️ Systematic Theology]()<br>[▫️ Reformation Theology]()|
 |1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[▫️ NET Full Notes]()<br>[▫️ Reinventing Jesus]()|

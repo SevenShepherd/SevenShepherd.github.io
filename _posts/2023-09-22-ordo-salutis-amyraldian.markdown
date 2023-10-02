@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 1:45:00 -0500
+date: 2023-09-22 1:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -27,6 +27,13 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 <!-- > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin. -->
 
 <!-- --- -->
+
+> All of this invalidates the L of TULIP – “limited atonement” –
+the view that Christ did not actually die for all but only for the “elect”.
+In fact, not only Luther but many of the other reformers, including
+Calvin, did not subscribe to limited atonement... this view of the atonement
+was not even introduced until the second or third generation of
+Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
@@ -89,6 +96,7 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
+|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
 |? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 
 <!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)

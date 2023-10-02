@@ -22,7 +22,7 @@ permalink: /about/
 
 <!-- Click here for [**full profile**](https://sevenshepherd.github.io/profile/). -->
 
-<span style="font-size:2.1em;color:black;">TL;DR</span>
+<!-- <span style="font-size:2.1em;color:black;">TL;DR</span> -->
 
 Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I created this blog as a temporary site while my ministry is being built. Please feel free to look around, read articles, or contact me below. 
 
@@ -110,6 +110,7 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 
 <!--  -->
 
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
 - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
 - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
@@ -117,7 +118,6 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 - [Dr. John Piper (D.Theol., Munich)]()
 - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
-- [Dr. Ron Rhodes (Th.D., Dallas)]()
 
 <span style="color:#A8A8A8;">---</span>
 
