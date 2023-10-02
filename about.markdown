@@ -165,7 +165,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)&rdquo; position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
 <!-- - I reject the [Calvinist](https://sevenshepherd.github.io/ordo-salutis-reformed/) view of [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me.
-- I reject [Hyper-Calvinism (Supra.) & Orthodox Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/). Jesus died for the sins of the world (1 Jn 2:2).
+- I reject [Hyper-Calvinism (Supra.) & Scholastic Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/). Jesus died for the sins of the world (1 Jn 2:2).
 - I reject [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. This doesn't mean that I think they're unsaved.
 - I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "including," moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
 - I reject ['80s Free Grace theology](https://sevenshepherd.github.io/repent/) because they reject sound scholarship, lexicon definitions, and the academic community on the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to a category mistake. They also altered the reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/).
@@ -215,7 +215,7 @@ When you want to learn about Calvinism, you learn it from a Calvinist. When you 
 |**Moderate Arminianism**||
 |[Chuck Smith (B.A., LBC)](https://youtu.be/kP8rIIps4Sk)<br>June 25, 1927–October 3, 2013|[▫️ C2000](https://calvarychapel.com/posts/c2000/)<br>▫️ [Calvinism, Arminianism, & The Word Of God]()|
 |||
-|**Orthodox Calvinism ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
+|**Scholastic Calvinism ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |[Dr. Wayne Grudem<br>(Ph.D., Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)<br>February 11, 1948-Present|[▫️ Systematic Theology, 2nd ed.]()|
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()|
 |||
