@@ -111,13 +111,13 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 <!--  -->
 
 - [Dr. Ron Rhodes (Th.D., Dallas)]()
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
 - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
 - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
 - [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 - [Dr. John Piper (D.Theol., Munich)]()
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
 
 <span style="color:#A8A8A8;">---</span>
 
@@ -145,9 +145,9 @@ The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and
 
 The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
 
+- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
 - [Dr. Tremper Longman III (Ph.D., Yale)]()
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
 - [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
 
 <span style="color:#A8A8A8;">---</span>
@@ -185,7 +185,7 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Distinctives</span> -->
 
-When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-reformed/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17).
+When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-calvinist/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17).
 
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
