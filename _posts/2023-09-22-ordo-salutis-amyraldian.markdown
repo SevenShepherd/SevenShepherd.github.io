@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 1:55:00 -0500
+date: 2023-09-22 2:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -96,7 +96,7 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
-|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson (Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
+|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson<br>(Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
 |? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 
 <!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
