@@ -198,7 +198,9 @@ On the other side of the matter, I also find [traditional Arminianism](https://s
 
 > *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4)
 
-When you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive.
+When you want to learn about Amyraldism you learn it from an Amyraldian, when you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. When you want to learn about it all, in one book, without any bias, you read &ldquo;The Cross and Salvation&rdquo; by Dr. Bruce Demarest (Ph.D., Manchester), the most fair and irenic theologian I've ever read.
+
+<!-- If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive. -->
 
 |Professors|Books|
 |:-:|:-:|
