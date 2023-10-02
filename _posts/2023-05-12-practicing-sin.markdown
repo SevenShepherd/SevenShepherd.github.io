@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 02:50:00 -0500
+date: 2023-05-12 02:55:00 -0500
 categories: sin practice
 published: true
 ---
@@ -37,27 +37,34 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
     - 1.1.1 <a href="#studies">Study Bibles</a>
         - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
     - 1.1.2 <a href="#scientist">Scientist Theologians</a>
+        - **Systemless**
         - 1.1.2.1 <a href="#lennox">Dr. Lennox (PhD,DPhil,DSc, "Oxbridge")</a>
         - 1.1.2.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
         - 1.1.2.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
         - 1.1.2.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
     - 1.1.3 <a href="#scholars">Biblical Scholars</a>
+        - **Scholastic Calvinist ([Infra.](https://sevenshepherd.github.io/election/#decrees))**
         - 1.1.3.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge; DD, Westminister)</a>
         - 1.1.3.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
-        - 1.1.3.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
         - 1.1.3.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
         - 1.1.3.5 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
         - 1.1.3.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
         - 1.1.3.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
         - 1.1.3.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
         - 1.1.3.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+        - **Moderate Cal. Amyraldian ([Sub.](https://sevenshepherd.github.io/election/#decrees))**
+        - 1.1.3.3 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
         - 1.1.3.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
         - 1.1.3.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
         - 1.1.3.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
+        - **Moderate Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
         - 1.1.3.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
+        - **Moderate Neotheist**
         - 1.1.3.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
     - 1.1.4 <a href="#pastors">Pastors</a>
+        - **Moderate Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
         - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
+        - **Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
         - 1.1.3.2 <a href="#graham">Billy Graham</a>
 
 
@@ -67,7 +74,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
         - 1.1.1 <a href="#studies" style="color:black;">Study Bibles</a>
             - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
     - 1.2 <a href="#reformed" style="color:black;">Reformed Theology</a>
-        - 1.2.1 <a href="#orthodox" style="color:black;">Orthodox Calvinism</a>
+        - 1.2.1 <a href="#orthodox" style="color:black;">Scholastic Calvinism</a>
             - 1.2.1.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
             - 1.2.1.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
             - 1.2.1.3 <a href="#carson">Dr. Carson (Ph.D., Cambridge)</a>
