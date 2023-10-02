@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 1:35:00 -0500
+date: 2023-09-22 1:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -29,6 +29,8 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 <!-- --- -->
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
+
+> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of **Sublapsarian Calvinism** <span style="color:#FBB917;">[Moderate Calvinism]</span>. **It differs from the Supralapsarian** <span style="color:darkred;">[Hyper-Calvinism]</span> and **Infralapsarian schemes** <span style="color:#3EA055;">[Orthodox Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And **it differs from the Arminian scheme** <span style="color:darkblue;">[Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup> ... **The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself** ... &mdash; Dr. Bruce Demarest (Ph.D., Manchester), The Cross and Salvation. p. 193.
 
 <!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics). -->
 
