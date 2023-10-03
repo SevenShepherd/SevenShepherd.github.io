@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 5:35:00 -0500
+date: 2023-09-25 5:40:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -279,7 +279,7 @@ There is a simpler chart provided by R.C. Sproul, who simplifies the difference 
 
     <!--  -->
 
-    That leaves the rest of this debate between Moderate Calvinism / Amyraldism (sublapsarianism) & Moderate Arminianism (wesleyan foreknowledge).
+    That leaves the rest of this debate between Moderate Calvinism / Amyraldism (sublapsarianism) & Moderate Arminianism (Wesleyan foreknowledge).
 
 - <a name="sub" href="#contents" style="font-size:1.6em">2.4 Conclusions</a>
 
