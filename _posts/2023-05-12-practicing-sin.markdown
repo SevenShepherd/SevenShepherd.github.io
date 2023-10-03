@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 03:00:00 -0500
+date: 2023-05-12 03:05:00 -0500
 categories: sin practice
 published: true
 ---
@@ -186,7 +186,11 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">1.1.2.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
 
-    See <a href="#lennox">Lennox</a>
+    <!-- See <a href="#lennox">Lennox</a> -->
+
+    > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: **“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”** &mdash; Dr. Alister McGrath (PhD, DD, DLitt), Theology - The Basics, Faith. p. 1.
+
+    > 3. **Faith is about trust in God, rather than just accepting that God exists.** &mdash; Dr. Alister McGrath (PhD, DD, DLitt), Theology - The Basics, Faith. p. 4.
 
 - <a name="ross" href="#ross_cite" style="font-size:1.4em;">1.1.2.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
 
