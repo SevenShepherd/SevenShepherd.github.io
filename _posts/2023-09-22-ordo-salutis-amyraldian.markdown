@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:00:00 -0500
+date: 2023-09-22 3:02:00 -0500
 categories: salvation
 published: true
 ---
