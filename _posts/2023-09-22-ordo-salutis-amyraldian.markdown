@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 2:15:00 -0500
+date: 2023-09-22 2:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -44,13 +44,33 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
 
+<span style="font-style:Italic;font-size:1.6em;">Distinctives</span>
+
+The following is a description of the difference between what norman Geisler calls extreme calvinism, which is 17th century scholastic calvinism, and moderate calvinism, which is what this article is about (amyraldism).
+
+|The Five Points|Scholastic Calvinism|Moderate Calvinism|
+|:-:|:-:|:-:|
+|**T**otal Depravity|Intensive (Destructive)|Extensive (Corruptive)|
+|**U**nconditional Election|No condition for God or man|No condition for God; One condition for man (faith)|
+|**L**imited Atonement|Limited in extent (only for the elect)|Limited in result(but for all men)|
+|**I**rresistible Grace|In compulsive sense (against man's will)|In persuasive sense (in accordance with man's will)|
+|**P**erserverence of The Saints|No saint will die in sin|No saint will ever be lost (even if he dies in sin)|
+
+> We have already evaluated the extreme Calvinists’ understanding of T-U-L-I-P (in chapters 4 and 5). Here we simply note how a moderate Calvinist understands these five Calvinistic doctrines. 
+>
+T—Total depravity is amply supported by Scripture in the moderate Calvinist sense. All the Scriptures used by extreme Calvinists are accepted by moderate Calvinists; the only difference is that moderates insist that being “dead” in sin does not mean that unsaved people cannot understand and receive the truth of the gospel as the Spirit of God works on their hearts. That is, it does not in effect erase the image of God (but only ef aces it). 
+>
+U—Unconditional election is also held by moderate Calvinists. It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. 156 
+>
+L—Even limited atonement is affirmed by moderate Calvinists in the sense that it is limited in its application. That is, although redemption was purchased for all and is available to all, nonetheless, it will only be applied to those whom God chose from all eternity—the elect. 
+>
+I—Irresistible grace is held by moderate Calvinists. Irresistible grace is exercised on all who are willing, as was stated in chapter 5. That is, anyone who is receptive to God’s work in his heart will be overwhelmed by His grace.
+>
+P—Perseverance of the saints, too, is an essential part of moderate Calvinism. It affirms that all regenerate (justified) people eventually will be saved. This is supported by numerous Scriptures.
+
 <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
 
-Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
-
-<!-- Ordo Salutis provided by Dr. Bruce Demarest's <a href="https://amzn.to/3HMIbPZ">"The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44</a> -->
-
-<!-- > Under construction -->
+The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration tends to be moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
