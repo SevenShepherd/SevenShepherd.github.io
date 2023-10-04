@@ -1,12 +1,25 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 2:30:00 -0500
+date: 2023-09-22 2:35:00 -0500
 categories: salvation
 published: true
 ---
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century. **This article is not an endorsement.**
+
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#amyraldism">Amyraldism Is Moderate Calvinism</a>
+2. <a href="#Distinctives">Distinctives of Amyraldism</a>
+3. <a href="#decrees">The Order Of Decrees</a>
+    - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
+    - 3.2 <a href="#geisler3.2">As delineated by Dr. Bruce Demarest</a>
+4. <a href="#OrdoSalutis">Ordo Salutis</a>
+5. <a href="#ChurchFathers">Church Fathers Reject Limited Atonement</a>
+6. <a href="#scholars">Scholars & Theologians</a>
+7. <a href="#cite">Sources & Citations</a>
+
 
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">I. Moderate Calvinism</a>
 
@@ -40,14 +53,15 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
-> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of **Sublapsarian Calvinism** <span style="color:#3EA055;">[Moderate Calvinism]</span>. **It differs from the Supralapsarian** <span style="color:darkred;">[Hyper-Calvinism]</span> and **Infralapsarian schemes** <span style="color:#FBB917;">[Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And **it differs from the Arminian scheme** <span style="color:darkblue;">[Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup> ... **The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself** ... &mdash; Dr. Bruce Demarest (Ph.D., Manchester), The Cross and Salvation. p. 193.
+
 
 <!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics). -->
 
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
 
-<span style="font-style:Italic;font-size:1.6em;">Distinctives</span>
+<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives</a>
+
 
 The following is a description of the difference between what Norman Geisler calls extreme calvinism, which is not 17th century scholastic calvinism, but hyper-calvinism, and moderate calvinism which is what this article is about (amyraldism).
 
@@ -71,7 +85,24 @@ I—Irresistible grace is held by moderate Calvinists. Irresistible grace is exe
 >
 P—Perseverance of the saints, too, is an essential part of moderate Calvinism. It affirms that all regenerate (justified) people eventually will be saved. This is supported by numerous Scriptures.
 
-<span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span>
+<a name="decrees" href="#contents" style="font-size:2.1em;">III. The Order Of Decrees</a>
+
+![The Order Of God's Decrees](/assets/images/decrees.png)
+
+<a name="demarest3.1" href="#contents" style="font-size:1.6em;">3.1 As delineated by Dr. Bruce Demarest</a>
+
+> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of **Sublapsarian Calvinism** <span style="color:#3EA055;">[Moderate Calvinism]</span>. **It differs from the Supralapsarian** <span style="color:darkred;">[Hyper-Calvinism]</span> and **Infralapsarian schemes** <span style="color:#FBB917;">[Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And **it differs from the Arminian scheme** <span style="color:darkblue;">[Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup> ... **The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself** ... &mdash; Dr. Bruce Demarest (Ph.D., Manchester), The Cross and Salvation. p. 193.
+
+<a name="geisler3.2" href="#contents" style="font-size:1.6em;">3.2 As delineated by Dr. Norman Geisler</a>
+
+
+> The term supralapsarian is from the Latin supra (above) and lapsus (fall), meaning that God’s decree of election (predestination) is considered by supralapsarians to be above, or logically prior to, His decree to permit the Fall. Since infra means “below,” the infralapsarians consider God’s decree of election to be beneath, or logically after, His decree to permit the Fall. The sublapsarians (Amyraldians) <sup>9</sup> are similar to the infralapsarians, except they place God’s order to provide salvation before His order to elect (see Chafer, ST, 2.105). Wesleyans adhere to the same basic order as infralapsarians, except they hold that God’s election is based on His foreknowledge rather than simply in accord with it. Hence, for Wesleyans (Arminians), God’s decree is conditional instead of unconditional (which is maintained by the three Calvinistic views).
+>
+Supralapsarians are hypter-Calvinists, being double-predestinarians. <sup>10</sup> Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. Again, Wesleyans are Arminians, insisting that election is conditional, not unconditional. Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
+>
+&mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
+
+<a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">IV. Ordo Salutis</a>
 
 The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration tends to be moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
@@ -98,7 +129,7 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
-<span style="font-style:Italic;font-size:1.6em;">Early Chruch Fathers Who Rejected Limited Atonement</span>
+<a name="ChurchFathers" href="#contents" style="font-size:2.1em;">V. Early Chruch Fathers Who Rejected Limited Atonement</a>
 
 |Early Church Fathers||
 |:-:|:-:|
@@ -112,7 +143,8 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 |354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
 |376 – 444|Cyril of Alexandria<br>Rejected Limited Atonement|
 
-<span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
+<a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
+
 
 |||
 |:-:|:-:|
@@ -153,7 +185,7 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 
 <br>
 
-<a name="cite" href="#contents" style="font-size:2.1em;">Sources & Citations</a>
+<a name="cite" href="#contents" style="font-size:2.1em;">VII. Sources & Citations</a>
 
 <sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44.
 
