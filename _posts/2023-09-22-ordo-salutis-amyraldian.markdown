@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:05:00 -0500
+date: 2023-09-22 3:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -17,6 +17,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 3.2 <a href="#geisler3.2">As delineated by Dr. Norman Geisler</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
 5. <a href="#ChurchFathers">Church Fathers Reject Limited Atonement</a>
+    - 5.1 <a href="#rhodes5.1">Dr. Ron Rhodes Defends Unlimited</a>
+    - 5.2 <a href="#lennox5.2">Dr. Lennox Dispatches Limited</a>
 6. <a href="#scholars">Scholars & Theologians</a>
 7. <a href="#cite">Sources & Citations</a>
 
@@ -95,7 +97,6 @@ P—Perseverance of the saints, too, is an essential part of moderate Calvinism.
 
 <a name="geisler3.2" href="#contents" style="font-size:1.6em;">3.2 As delineated by Dr. Norman Geisler</a>
 
-
 > The term supralapsarian is from the Latin supra (above) and lapsus (fall), meaning that God’s decree of election (predestination) is considered by supralapsarians to be above, or logically prior to, His decree to permit the Fall. Since infra means “below,” the infralapsarians consider God’s decree of election to be beneath, or logically after, His decree to permit the Fall. The sublapsarians (Amyraldians) <sup>9</sup> are similar to the infralapsarians, except they place God’s order to provide salvation before His order to elect (see Chafer, ST, 2.105). Wesleyans adhere to the same basic order as infralapsarians, except they hold that God’s election is based on His foreknowledge rather than simply in accord with it. Hence, for Wesleyans (Arminians), God’s decree is conditional instead of unconditional (which is maintained by the three Calvinistic views).
 >
 Supralapsarians are hypter-Calvinists, being double-predestinarians. <sup>10</sup> Infralapsarians are strong Calvinists but are not double-predestinarians. Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement. Again, Wesleyans are Arminians, insisting that election is conditional, not unconditional. Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
@@ -143,8 +144,24 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 |354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
 |376 – 444|Cyril of Alexandria<br>Rejected Limited Atonement|
 
-<a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
+<a name="rhodes5.1" href="#contents" style="font-size:1.6em;">5.1 Dr. Ron Rhodes Defends Unlimited Atonement & Amyraldism</a>
 
+In an article titled &ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement),&rdquo; Dr. Ron Rhodes picks apart limited atonement.
+
+> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), [The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+
+<a name="lennox5.2" href="#contents" style="font-size:1.6em;">5.2 Dr. John C. Lennox Dispatches Limited Atonement</a>
+
+Dr. John C. Lennox, while not an amyraldian himself and choosing to go systemless, also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth and expansive.
+
+> All of this invalidates the L of TULIP – “limited atonement” –
+the view that Christ did not actually die for all but only for the “elect”.
+In fact, not only Luther but many of the other reformers, including
+Calvin, did not subscribe to limited atonement... this view of the atonement
+was not even introduced until the second or third generation of
+Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
+
+<a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
 |||
 |:-:|:-:|
