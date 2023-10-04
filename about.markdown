@@ -55,7 +55,7 @@ My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Br
 <!-- - <a href="#distinctives">IV. </a> -->
 - <a href="#textual_criticism">IV. Textual Criticism</a>
 - <a href="#apologetics">V. Apologetics</a>
-- <a href="#scientist_theologians">VI. Scientists</a>
+- <a href="#scientist_theologians">VI. Scientist Theologians</a>
 <!-- - <a href="#science">VIII. Science & Mathematics</a> -->
 <!-- - <a href="#references">VII. Dictionaries & Lexicons</a> -->
 - <a href="#wisdom">VII. Wisdom & Philosophy</a>
@@ -291,10 +291,18 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Scientist Theologians</span> -->
 
-[God Created What Scientists Seek To Understand](https://sevenshepherd.github.io/science/)
+[God Created What Scientists Seek To Understand](https://sevenshepherd.github.io/science/).
+
+> “In view of such harmony in the cosmos which I, with my limited human mind, am able to recognize, there are yet people who say there is no God. But what really makes me angry is that they quote me for the support of such views.” (Clark, Ronald W. (1971). Einstein: The Life and Times. New York: World Publishing Company) &mdash; Einstein
 
 |Professors||
 |:-:|:-:|
+|**Scientist Theologians**||
+|[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
+|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
+|Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
+|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
+|[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 |**Historical**||
 |**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
 |Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
@@ -302,12 +310,6 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
 |**Albert Einstein**<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|[On Formally Undecidable Propositions of Principia Mathematica and Related Systems](https://libgen.is/book/index.php?md5=D27D511F9AED79476A0E5514D8925809), <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
-|**Scientist Theologians**||
-|[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
-|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
-|Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
-|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
-|[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 
 <!-- |**Deist & Agnostic**||
 |Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
