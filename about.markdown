@@ -42,7 +42,9 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 - Theologically Moderate
 - Soft-cessationist
 
-My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). For theology, I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.
+My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). 
+
+<!-- For theology, I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. -->
 
 <!-- I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Edition. I read leisurely with the NLT Filament Compact. I also recommend Concise Theology by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. I consider myself a historic Protestant with a theologically moderate or even systemless distinctive. -->
 
