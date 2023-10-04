@@ -305,7 +305,10 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
 |[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
-|**Historical**||
+
+|Historical||
+|:-:|:-:|
+|**Greatest Minds**||
 |**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
 |Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
 |**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
