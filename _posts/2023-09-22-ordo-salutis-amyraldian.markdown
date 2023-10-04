@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:15:00 -0500
+date: 2023-09-22 3:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -16,9 +16,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
     - 3.2 <a href="#geisler3.2">As delineated by Dr. Norman Geisler</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
-5. <a href="#ChurchFathers">Church Fathers Reject Limited Atonement</a>
-    - 5.1 <a href="#rhodes5.1">Dr. Ron Rhodes Defends Unlimited</a>
-    - 5.2 <a href="#lennox5.2">Dr. Lennox Dispatches Limited</a>
+5. <a href="#rejected">Rejections of Limited Atonement</a>
+    - 5.1 <a href="#ChurchFathers">Church Fathers Reject Limited</a>
+    - 5.2 <a href="#reformers">Reformers Reject Limited</a>
+    - 5.3 <a href="#rhodes5.3">Dr. Ron Rhodes Defends Unlimited</a>
+    - 5.4 <a href="#lennox5.4">Dr. Lennox Dispatches Limited</a>
 6. <a href="#scholars">Scholars & Theologians</a>
 7. <a href="#cite">Sources & Citations</a>
 
@@ -130,7 +132,9 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
-<a name="ChurchFathers" href="#contents" style="font-size:2.1em;">V. Early Chruch Fathers Who Rejected Limited Atonement</a>
+<a name="rejected" href="#contents" style="font-size:2.1em;">V. Rejections of Limited Atonement</a>
+
+<a name="ChurchFathers" href="#contents" style="font-size:1.6em;">5.1 Early Chruch Fathers Who Rejected Limited Atonement</a>
 
 |Early Church Fathers||
 |:-:|:-:|
@@ -144,13 +148,21 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 |354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
 |376 – 444|Cyril of Alexandria<br>Rejected Limited Atonement|
 
-<a name="rhodes5.1" href="#contents" style="font-size:1.6em;">5.1 Dr. Ron Rhodes Defends Unlimited Atonement & Amyraldism</a>
+<a name="reformers" href="#contents" style="font-size:1.6em;">5.2 Reformers Reject Limited Atonement</a>
+
+|||
+|:-:|:-:|
+|**Historical Scholars**||
+|1483 – 1546|Martin Luther<br>Rejected Limited Atonement<br>[▫️ On the Bondage of the Will]()|
+|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+
+<a name="rhodes5.3" href="#contents" style="font-size:1.6em;">5.3 Dr. Ron Rhodes Defends Unlimited Atonement & Amyraldism</a>
 
 In an article titled &ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement),&rdquo; Dr. Ron Rhodes picks apart limited atonement.
 
 > My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), [The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
 
-<a name="lennox5.2" href="#contents" style="font-size:1.6em;">5.2 Dr. John C. Lennox Dispatches Limited Atonement</a>
+<a name="lennox5.4" href="#contents" style="font-size:1.6em;">5.4 Dr. John C. Lennox Dispatches Limited Atonement</a>
 
 Dr. John C. Lennox, while not an amyraldian himself and choosing to go systemless, also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth and expansive.
 
@@ -165,9 +177,6 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 |||
 |:-:|:-:|
-|**Historical Scholars**||
-|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
-|||
 |**Contemporary Scholars**||
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
