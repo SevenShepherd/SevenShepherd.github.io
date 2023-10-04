@@ -24,6 +24,8 @@ permalink: /about/
 
 <!-- <span style="font-size:2.1em;color:black;">TL;DR</span> -->
 
+<!-- Hello and welcome, My name is... my name does not matter, but my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). To some, I am known as [SevenShepherd](https://twitter.com/SevenShepherd). Please feel free to look around, read articles, or contact me below.  -->
+
 Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I created this blog as a temporary site while my ministry is being built. Please feel free to look around, read articles, or contact me below. 
 
 <!-- !!! In the year 2016, I undertook the task of architecting a bespoke, Python-based Christian ministry, specifically tailored for the Twitter platform, incorporating meticulous programming and automation. This endeavor has been marked by resounding success, running continuously since its inception and facilitated by a purpose-built raspberry pi single-board computer. I extend a cordial invitation to visit @SevenShepherd and witness firsthand the thriving outcome of this technological feat.  -->
@@ -40,10 +42,7 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 - Theologically Moderate
 - Soft-cessationist
 
-My favorite theology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). 
-
-<!-- I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.  -->
-
+My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). For theology, I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.
 
 <!-- I highly recommend the ESV Study Bible and NET Bible: Full Translators' Notes Edition. I read leisurely with the NLT Filament Compact. I also recommend Concise Theology by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. I consider myself a historic Protestant with a theologically moderate or even systemless distinctive. -->
 
@@ -51,18 +50,18 @@ My favorite theology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 - <a href="#articles">I. Recommended Articles</a>
-- <a href="#bibles">II. Recommended Bibles</a>
-- <a href="#theology">III. Theology</a>
-- <a href="#distinctives">IV. Distinctives</a>
-- <a href="#textual_criticism">V. Textual Criticism</a>
-- <a href="#apologetics">VI. Apologetics</a>
-- <a href="#scientist_theologians">VII. Scientist Theologians</a>
-- <a href="#science">VIII. Science & Mathematics</a>
-- <a href="#references">IX. Dictionaries & Lexicons</a>
-- <a href="#entertainment">X. Entertainment</a>
-- <a href="#wisdom">XI. Wisdom & Philosophy</a>
-- <a href="#hobbies">XII. Hobbies & Recreation</a>
-- <a href="#quotes">XIII. Quotes</a>
+- <a href="#bibles">II. Bibles, Dictionaries, & Lexicons</a>
+- <a href="#theology">III. Theology & Distinctives</a>
+<!-- - <a href="#distinctives">IV. </a> -->
+- <a href="#textual_criticism">IV. Textual Criticism</a>
+- <a href="#apologetics">V. Apologetics</a>
+- <a href="#scientist_theologians">VI. Scientists</a>
+<!-- - <a href="#science">VIII. Science & Mathematics</a> -->
+<!-- - <a href="#references">VII. Dictionaries & Lexicons</a> -->
+- <a href="#wisdom">VII. Wisdom & Philosophy</a>
+- <a href="#entertainment">VIII. Entertainment</a>
+<!-- - <a href="#hobbies">XI. Hobbies & Recreation</a> -->
+- <a href="#quotes">IX. Quotes</a>
 
 <!-- - <a href="#wisdom">X. Wisdom & Philosophy</a>
     - <a href="#metaphysics">11.1 Metaphysics</a>
@@ -88,7 +87,7 @@ My favorite theology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce
 - [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
 
 
-<a name="bibles" href="#contents" style="font-style:Italic;font-size:2.1em">II. Recommended Bibles</a>
+<a name="bibles" href="#contents" style="font-style:Italic;font-size:2.1em">II. Recommended Bibles, Dictionaries, & Lexicons</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Recommended Bibles</span> -->
 
@@ -158,7 +157,19 @@ The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale
 
 This ministry does not recommend a Bible of the paraphrase type. We would instead direct you to dynamic equivalence. Paraphrases are NOT translations.
 
-<a name="theology" href="#contents" style="font-style:Italic;font-size:2.1em">III. Theology</a>
+<span style="color:#A8A8A8;">---</span>
+
+|||
+|:-:|:-:|
+|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)]()|
+|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament]()|
+|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.]()
+|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume]()|
+|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition]()|
+|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version]()|
+|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
+
+<a name="theology" href="#contents" style="font-style:Italic;font-size:2.1em">III. Theology & Distinctives</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Theology</span> -->
 
@@ -181,7 +192,7 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 
 <!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
 
-<a name="distinctives" href="#contents" style="font-style:Italic;font-size:2.1em">IV. Distinctives</a>
+<!-- <a name="distinctives" href="#contents" style="font-style:Italic;font-size:2.1em">IV. Distinctives</a> -->
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Distinctives</span> -->
 
@@ -251,7 +262,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |**Scientific Theology**||
 |Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ A Scientific Theology, Nature: V1]()<br>[▫️ A Scientific Theology, Reality: V2]()<br>▫️ A Scientific Theology, Theory: V3<br>[▫️ Theology: The Basics]()<br>[▫️ Christian Theology: An Introduction]()| -->
 
-<a name="textual_criticism" href="#contents" style="font-style:Italic;font-size:2.1em">V. Textual Criticism</a>
+<a name="textual_criticism" href="#contents" style="font-style:Italic;font-size:2.1em">IV. Textual Criticism</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Textual Criticism</span> -->
 
@@ -264,7 +275,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |**Divine Council Theory**<br>**OT Textual Criticism**||
 |[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[▫️ The Unseen Realm]()|
 
-<a name="apologetics" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Apologetics</a>
+<a name="apologetics" href="#contents" style="font-style:Italic;font-size:2.1em">V. Apologetics</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Apologetics - Cults</span> -->
 
@@ -276,56 +287,56 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Matt Slick<br>(M.Div., Westminster)|[▫️ CARM](https://carm.org/)|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[▫️ I Don't Have Enough Faith to Be an Atheist]()<br>[▫️ Stealing from God]()|
 
-<a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VII. Scientist Theologians</a>
+<a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Scientists</a>
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Scientist Theologians</span> -->
 
+[God Created What Scientists Seek To Understand](https://sevenshepherd.github.io/science/)
+
 |Professors||
 |:-:|:-:|
-|**Apologetics**||
+|**Historical**||
+|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
+|**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
+|Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
+|**Albert Einstein**<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|[On Formally Undecidable Propositions of Principia Mathematica and Related Systems](https://libgen.is/book/index.php?md5=D27D511F9AED79476A0E5514D8925809), <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
+|**Scientist Theologians**||
 |[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
 |[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
 |[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 
+<!-- |**Deist & Agnostic**||
+|Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
+|Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|[Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://libgen.is/book/index.php?md5=FE6910526003C503D504FB2D56993985), [Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time](https://libgen.is/book/index.php?md5=802AA421C926121251E3394BB514ECD5)|
+|**Undiscovered**<br><sub>***The God Equation***</sub>|[The God Equation by Dr. Michio Kaku](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426)| -->
 
-<a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Science & Mathematics</a>
+
+
+<!-- <a name="science" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Science & Mathematics</a> -->
 
 <!-- <span style="font-size:2.1em;">🧮</span> <span style="font-style:Italic;font-size:2.1em;">Science & Mathematics</span> -->
 
-|||
-|:-:|:-:|
-|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
-|Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
-|**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
-|Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
-|**Albert Einstein**<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<!--https://libgen.is/book/index.php?md5=F91C2A34BE17CA6B197D0DD2FEC085A8--><br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
-|Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
-|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|[On Formally Undecidable Propositions of Principia Mathematica and Related Systems](https://libgen.is/book/index.php?md5=D27D511F9AED79476A0E5514D8925809), <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
-|Richard Phillips Feynman<br>May 11, 1918 to February 15, 1988|[Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://libgen.is/book/index.php?md5=FE6910526003C503D504FB2D56993985), [Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time](https://libgen.is/book/index.php?md5=802AA421C926121251E3394BB514ECD5)|
-|**Undiscovered**<br><sub>***The God Equation***</sub>|[The God Equation by Dr. Michio Kaku](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426)|
+
+<!--  -->
+
+
 
 
 <!-- > Any theory, no matter how beautiful, must eventually confront experimental verification. &mdash; Dr. Michio Kaku -->
 
-<a name="references" href="#contents" style="font-style:Italic;font-size:2.1em">IX. Dictionaries & Lexicons</a>
+<!-- <a name="references" href="#contents" style="font-style:Italic;font-size:2.1em">IX. Dictionaries & Lexicons</a> -->
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Dictionaries & Lexicons</span> -->
 
-This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
+<!-- This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek. -->
 
 <!-- - [Logos BDAG & HALOT](https://www.logos.com/product/5228/bdag-halot-bundle) -->
 
-|||
-|:-:|:-:|
-|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)]()|
-|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament]()|
-|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.]()
-|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume]()|
-|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition]()|
-|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version]()|
-|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
+
 
 
 <!-- <br>[▫️ Quantum Theory]() -->
@@ -434,30 +445,8 @@ This section details even more advanced material for those who want to deep dive
 
 <!-- |David Klein|[Organic Chemistry, 4th Edition](https://libgen.is/book/index.php?md5=51CAA2BB678EBD77DC69F6C64FEB8EB6)| -->
 
-<a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">X. Entertainment</a>
 
-<!-- ## ♟️ Entertainment -->
-
-> "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
-
-<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
-
-|||
-|:-:|:-:|
-|Edwin A. Abbott<br>20 December 1838 to 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
-|Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
-|Dr. Raymond Merrill Smullyan<br>May 25, 1919|[Lady or the Tiger?](http://library.lol/main/3411EAD91E2A95BB40CEC1594BACE0E7)<br>Logic Puzzles|
-|Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
-|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
-|Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
-|Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
-|Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
-
-<!-- 
-|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|-->
-
-
-<a name="wisdom" href="#contents" style="font-style:Italic;font-size:2.1em">XI. Wisdom & Philosophy</a>
+<a name="wisdom" href="#contents" style="font-style:Italic;font-size:2.1em">VII. Wisdom & Philosophy</a>
 
 <!-- ## 📜 Wisdom & Philosophy -->
 
@@ -471,7 +460,7 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 <!-- > “How much time he gains who does not look to see what his neighbour says or does or thinks, but only at what he does himself, to make it just and holy.” &mdash; Emperor Marcus Aurelius, Meditations  -->
 
-<a name="metaphysics" href="#contents" style="font-style:Italic;font-size:1.6em">11.1 Metaphysics (The Ultimate Structure of Reality)</a>
+<a name="metaphysics" href="#contents" style="font-style:Italic;font-size:1.6em">7.1 Metaphysics (The Ultimate Structure of Reality)</a>
 
 <!-- # Metaphysics (The Ultimate Structure of Reality) -->
 
@@ -503,7 +492,20 @@ My metaphysical views will always be Christian first and foremost, but otherwise
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
 |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"|
 
-<a name="epistemology" href="#contents" style="font-style:Italic;font-size:1.6em">11.2 Epistemology (The Nature of Knowledge)</a>
+> "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
+
+<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
+
+|||
+|:-:|:-:|
+|Edwin A. Abbott<br>20 December 1838 to 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
+|Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
+|Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
+|Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
+|Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
+|Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
+
+<a name="epistemology" href="#contents" style="font-style:Italic;font-size:1.6em">7.2 Epistemology (The Nature of Knowledge)</a>
 
 <!-- # Epistemology (The Nature of Knowledge) -->
 
@@ -544,7 +546,7 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- |Immanuel Kant<br>22 April 1724 to 12 February 1804|[Critique of Pure Reason](https://libgen.is/book/index.php?md5=B8CB67E9100049128399841ED76EF2EB)<br>Transcendental Idealism| -->
 
-<a name="ethics" href="#contents" style="font-style:Italic;font-size:1.6em">11.3 Virtue Ethics (Moral Philosophy)</a>
+<a name="ethics" href="#contents" style="font-style:Italic;font-size:1.6em">7.3 Virtue Ethics (Moral Philosophy)</a>
 
 <!-- # Ethics (Moral Philosophy) -->
 
@@ -571,7 +573,7 @@ In some Chinese translations of the New Testament, λόγος (logos) is transla
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Charlie Chaplin<br>16 April 1889 to 25 December 1977|[The Great Dictator Speech](https://youtu.be/w8HdOHrc3OQ)|
 
-<a name="aesthetics" href="#contents" style="font-style:Italic;font-size:1.6em">11.4 Aesthetics (The Nature of Beauty)</a>
+<a name="aesthetics" href="#contents" style="font-style:Italic;font-size:1.6em">7.4 Aesthetics (The Nature of Beauty)</a>
 
 <!-- # Aesthetics (The Nature of Beauty) -->
 
@@ -623,9 +625,9 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 
 <!-- [Sun Tzu's The Art of War](https://youtu.be/jxcMRkqaQdw) -->
 
-<a name="hobbies" href="#contents" style="font-style:Italic;font-size:2.1em">XII. Hobbies & Recreation</a>
+<!-- <a name="hobbies" href="#contents" style="font-style:Italic;font-size:2.1em">XII. Hobbies & Recreation</a> -->
 
-<a name="piano" href="#contents" style="font-style:Italic;font-size:1.6em">12.1 Classical Piano</a>
+<!-- <a name="piano" href="#contents" style="font-style:Italic;font-size:1.6em">12.1 Classical Piano</a> -->
 
 <!-- ## 🎹 Classical Piano -->
 
@@ -644,7 +646,7 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Philip Glass<br>January 31 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
 |Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)|
 
-<a name="art" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Art, Poetry, & Literature</a>
+<!-- <a name="art" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Art, Poetry, & Literature</a> -->
 
 <!-- ## 🎨 Art, Poetry, & Literature -->
 
@@ -662,13 +664,31 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
 
-<a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.3 Languages</a>
+<a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Entertainment</a>
 
-Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative <!--(procedural & object-oriented)--> rather than declarative variety. 
+<!-- ## ♟️ Entertainment -->
 
-I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise <!--(philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.)--> and so my direction is as a polymath.
 
-# 12.3.1 Computer Programming (Formal Language)
+<!-- 
+|💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|-->
+
+<!-- <a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.3 Languages</a> -->
+
+# 8.1 Chess & Logic Puzzles
+
+|||
+|:-:|:-:|
+|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
+|Nick de Firmian & Paul Van der Sterren|Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
+|Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
+
+<!-- Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
+
+<!-- I like to explore many different types of programming, and I love learning new things constantly. My autodidacticism spans multiple fields with varying levels of expertise (philosopher, pianist, linguist, novelist, investor, broker, esperantist, etc.) and so my direction is as a polymath. -->
+
+# 8.2 Computer Programming (Formal Language)
+
+Programming is so simple, that I don't think you really need books. Stick to the documentation and the random article. When I was young and still learning, sometimes I would just stare at the code and it would start to make sense. I started with C & Perl, but my favorite is Python.
 
 |||
 |:-:|:-:|
@@ -678,11 +698,11 @@ I like to explore many different types of programming, and I love learning new t
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
 
-# 12.3.2 Japanese (Natural Language)
+# 8.3 Japanese (Natural Language)
 
 > Under construction
 
-# 12.3.3 Esperanto (Constructed Language)
+# 8.4 Esperanto (Constructed Language)
 
 Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
 
@@ -704,11 +724,9 @@ Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](h
 |**Philosophy**||
 |Metaphysics, Epistemology, & Virtue Ethics|[Plato's Phaedo](https://youtu.be/7Dwev9R9wcs), [René Descartes' Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [Lao Tzu's Tao Te Ching by Gia-Fu Feng](/assets/books/lao_tzu/TaoTeChing.pdf), [Emperor Marcus Aurelius' Meditations (Hays, 2012)](https://youtu.be/d5E2AQKuCyU)|
 |||
-|**Recreational**||
-|Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
-|Bobby Fischer, Nick de Firmian & Paul Van der Sterren|Bobby Fischer Teaches Chess (Childhood), Modern Chess Openings (2008), Fundamental Chess Openings (2009)| -->
+ -->
 
-<a name="quotes" href="#contents" style="font-style:Italic;font-size:2.1em">XIII. Inspirational Quotations</a>
+<a name="quotes" href="#contents" style="font-style:Italic;font-size:2.1em">IX. Inspirational Quotations</a>
 
 <!-- ## 🗣️ Inspirational Quotes -->
 
