@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 2:35:00 -0500
+date: 2023-09-22 3:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -14,7 +14,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 2. <a href="#Distinctives">Distinctives of Amyraldism</a>
 3. <a href="#decrees">The Order Of Decrees</a>
     - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
-    - 3.2 <a href="#geisler3.2">As delineated by Dr. Bruce Demarest</a>
+    - 3.2 <a href="#geisler3.2">As delineated by Dr. Norman Geisler</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
 5. <a href="#ChurchFathers">Church Fathers Reject Limited Atonement</a>
 6. <a href="#scholars">Scholars & Theologians</a>
