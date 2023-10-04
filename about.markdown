@@ -295,8 +295,6 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 [God Created What Scientists Seek To Understand](https://sevenshepherd.github.io/science/).
 
-> “In view of such harmony in the cosmos which I, with my limited human mind, am able to recognize, there are yet people who say there is no God. But what really makes me angry is that they quote me for the support of such views.” (Clark, Ronald W. (1971). Einstein: The Life and Times. New York: World Publishing Company) &mdash; Einstein
-
 |Professors||
 |:-:|:-:|
 |**Scientist Theologians**||
@@ -305,6 +303,10 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
 |[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
+
+Einstein stood on the shoulders of devout Christian minds, and while he was not Christian, he was a deist, so I'm placing him here only for the fact that he recognized the truth, however faint. Science was born in the womb of a Christian worldview.
+
+> “In view of such harmony in the cosmos which I, with my limited human mind, am able to recognize, there are yet people who say there is no God. But what really makes me angry is that they quote me for the support of such views.” (Clark, Ronald W. (1971). Einstein: The Life and Times. New York: World Publishing Company) &mdash; Einstein
 
 |Historical||
 |:-:|:-:|
@@ -557,7 +559,7 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- # Ethics (Moral Philosophy) -->
 
-My ethics views are Christian and are derived from John, 1 John, James, & Romans; however, I have observed the truth of Ro 2:15-16 NLT written on the hearts men. Virtue ethics is rife with examples, such as [equanimity](https://en.wikipedia.org/wiki/Equanimity). According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). It reminds me of how Paul in Acts 17:16-34 converted many stoics and epicureans.
+My ethics views are Christian and are derived from Romans, John, 1 John, James, & Jude; however, I have observed the truth of Ro 2:15-16 NLT written on the hearts men. Virtue ethics is rife with examples, such as [equanimity](https://en.wikipedia.org/wiki/Equanimity). According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). It reminds me of how Paul in Acts 17:16-34 converted many stoics and epicureans.
 
 <!-- to be a reoccurring theme in the philosophies I gravitate towards. -->
 
