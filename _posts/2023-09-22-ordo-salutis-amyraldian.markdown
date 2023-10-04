@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 2:25:00 -0500
+date: 2023-09-22 2:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -11,6 +11,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">I. Moderate Calvinism</a>
 
 Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
+
+> Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
+
 
 <!-- > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms</span> moderate <span style="color:orangered;">Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11. -->
 
@@ -46,9 +49,9 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 <span style="font-style:Italic;font-size:1.6em;">Distinctives</span>
 
-The following is a description of the difference between what norman Geisler calls extreme calvinism, which is 17th century scholastic calvinism, and moderate calvinism, which is what this article is about (amyraldism).
+The following is a description of the difference between what Norman Geisler calls extreme calvinism, which is not 17th century scholastic calvinism, but hyper-calvinism, and moderate calvinism which is what this article is about (amyraldism).
 
-|The Five Points|Scholastic Calvinism|Moderate Calvinism|
+|The Five Points|Extreme Calvinism|Moderate Calvinism|
 |:-:|:-:|:-:|
 |**T**otal Depravity|Intensive (Destructive)|Extensive (Corruptive)|
 |**U**nconditional Election|No condition for God or man|No condition for God; One condition for man (faith)|
@@ -95,7 +98,7 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
-<span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
+<span style="font-style:Italic;font-size:1.6em;">Early Chruch Fathers Who Rejected Limited Atonement</span>
 
 |Early Church Fathers||
 |:-:|:-:|
@@ -108,7 +111,11 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 |340 – 407|Ambrose<br>Rejected Limited Atonement|
 |354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
 |376 – 444|Cyril of Alexandria<br>Rejected Limited Atonement|
+
+<span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
+
 |||
+|:-:|:-:|
 |**Historical Scholars**||
 |1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
 |||

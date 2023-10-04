@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Moderate Arminianism)"
-date: 2023-09-22 1:35:00 -0500
+date: 2023-09-22 1:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="moderate_arminianism" href="#contents" style="font-size:2.1em;">I. Moderate Arminianism</a>
 
-...
+> Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Moderate Calvinist ([Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)).
 
 <!-- <span style="font-style:Italic;font-size:1.6em;">Distinctives</span> -->
 
