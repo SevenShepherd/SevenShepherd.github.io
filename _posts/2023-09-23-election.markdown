@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 5:40:00 -0500
+date: 2023-09-25 5:45:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -25,9 +25,8 @@ This article compares the minds of a few intellectual titans, in an attempt to r
         - 2.2.1 <a href="#vessels">Vessels Of Wrath (Ro 9:22-24)</a>
     - 2.3 <a href="#infra">Why Sub. May Be Superior To Infra.</a>
     - 2.4 <a href="#sub">Conclusions</a>
-3. <a href="#other">Can We Dispel Theological Determinism?</a>
-    - 3.1 <a href="#elect">All Appointed For Eternal Life Believed</a>
-        - 3.1.1 <a href="#Acts13:48">Acts 13:48</a>
+3. <a href="#other">Can We Disprove Theological Determinism?</a>
+    - 3.1 <a href="#Acts13:48">All Appointed Believed (Acts 13:48)</a>
 4. <a href="#final_conclusion">Final Conclusion</a>
 5. <a href="#cite">Sources & Citations</a>
     - 5.1 <a href="#lennox">Dr. John C. Lennox (PhD, DPhil, DSc)</a>
@@ -291,15 +290,9 @@ There is a simpler chart provided by R.C. Sproul, who simplifies the difference 
 
 <br>
 
-<a name="other" href="#contents" style="font-size:2.1em">💡 3. Can We Dispel Theological Determinism?</a>
+<a name="other" href="#contents" style="font-size:2.1em">💡 3. Can We Disprove Theological Determinism?</a>
 
-- <a name="elect" href="#contents" style="font-size:1.6em">3.1 All Who Had Been Appointed For Eternal Life Believed</a>
-
-    <!-- # Will only those elected to salvation believe or does God elect unto salvation based upon his foreknowledge of your faith? -->
-
-    > Under construction
-
-- <a name="Acts13:48" href="#contents" style="font-size:1.6em">📜 3.1.1 Acts 13:48</a>
+- <a name="Acts13:48" href="#contents" style="font-size:1.6em">3.1 📜 All Who Had Been Appointed For Eternal Life Believed (Acts 13:48)</a>
 
     > <sup style="font-weight:bold;">48</sup> When the Gentiles heard this, they began to rejoice and praise the word of the Lord, and <span style="font-weight:bold;">all who had been appointed for eternal life believed</span>. &mdash; Acts 13:48 NET
 
