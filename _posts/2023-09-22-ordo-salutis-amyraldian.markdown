@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:25:00 -0500
+date: 2023-09-22 3:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -67,13 +67,13 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives</a>
 
 
-The following is a description of the difference between what Norman Geisler calls extreme calvinism, which is not 17th century scholastic calvinism, but hyper-calvinism, and moderate calvinism which is what this article is about (amyraldism).
+The following is a description of the difference between what Norman Geisler calls extreme Calvinism (hyper-calvinism), which is not to be confused with what he calls strong Calvinism (17th century scholastic Calvinism), and moderate Calvinism (Amyraldism).
 
 |The Five Points|Extreme Calvinism|Moderate Calvinism|
 |:-:|:-:|:-:|
 |**T**otal Depravity|Intensive (Destructive)|Extensive (Corruptive)|
 |**U**nconditional Election|No condition for God or man|No condition for God; One condition for man (faith)|
-|**L**imited Atonement|Limited in extent (only for the elect)|Limited in result(but for all men)|
+|**L**imited Atonement|Limited in extent (only for the elect)|Limited in result (but for all men)|
 |**I**rresistible Grace|In compulsive sense (against man's will)|In persuasive sense (in accordance with man's will)|
 |**P**erserverence of The Saints|No saint will die in sin|No saint will ever be lost (even if he dies in sin)|
 
@@ -134,7 +134,7 @@ The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd
 
 <a name="rejected" href="#contents" style="font-size:2.1em;">V. Rejections of Limited Atonement</a>
 
-<a name="ChurchFathers" href="#contents" style="font-size:1.6em;">5.1 Early Chruch Fathers Who Rejected Limited Atonement</a>
+<a name="ChurchFathers" href="#contents" style="font-size:1.6em;">5.1 Early Church Fathers Who Rejected Limited Atonement</a>
 
 |Early Church Fathers||
 |:-:|:-:|
