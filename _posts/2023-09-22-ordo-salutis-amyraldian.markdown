@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:00:00 -0500
+date: 2023-09-22 4:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -57,9 +57,6 @@ Calvin, did not subscribe to limited atonement... this view of the atonement
 was not even introduced until the second or third generation of
 Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
-> Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
-
-
 
 <!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics). -->
 
@@ -110,6 +107,10 @@ P—Perseverance of the saints, too, is an essential part of moderate Calvinism.
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">IV. Ordo Salutis</a>
 
 The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration tends to be moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
+
+> Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
+
+The following is the Ordo Salutis for broadly reformed evangelicals. Amyraldians may have a further modified Ordo Salutis, but it should be very similar.
 
 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
