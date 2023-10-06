@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:30:00 -0500
+date: 2023-09-22 4:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -218,7 +218,7 @@ Christ Jesus, in the intent of God, died effectively for the elect alone, in lin
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
-These scholars hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement which is called hypothetical universalism.
+The contemporary scholars listed below hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement which is called hypothetical universalism.
 
 |||
 |:-:|:-:|
