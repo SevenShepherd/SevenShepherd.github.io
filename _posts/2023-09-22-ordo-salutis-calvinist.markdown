@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:50:00 -0500
+date: 2023-09-22 1:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -302,11 +302,11 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |||
 |**Contemporary Scholars**||
 |1916 – 2015|<a href="#culver" style="color:black;">Robert Duncan Culver (Th.D., Grace)</a><br>[▫️ Systematic Theology]()|
-|1926 – 2020|<a href="#packer">J. I. Packer (Ph.D., Oxford)</a><br>[▫️ **Concise Theology**]()|
+|1926 – 2020|<a href="https://youtu.be/jOFsFgUUdZo">J. I. Packer (Ph.D., Oxford)</a><br>[▫️ **Concise Theology**]()|
 |1932 – 2013|<a href="#reymond" style="color:black;">Robert L. Reymond (Ph.D., Bob Jones)</a><br>[▫️ A New Systematic Theology of the Christian Faith]()|
 |1939 – 2017|<a href="#sproul">R. C. Sproul (Ph.D., Whitefield)</a><br>[▫️ Everyone's a Theologian]()<br>[▫️ **Essential Truths**]()|
 |1939 – Present|<a href="#macarthur">John MacArthur (D.D., Talbot)</a><br><a href="">▫️ Biblical Doctrine</a>|
-|1948 – Present|<a href="#grudem">Wayne Grudem (Ph.D., Cambridge)</a><br>[▫️ **Systematic Theology**]()|
+|1948 – Present|<a href="https://youtu.be/s9e3Y2SMXag">Wayne Grudem (Ph.D., Cambridge)</a><br>[▫️ **Systematic Theology**]()|
 |1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a><br>[▫️ Systematic Theology]()<br>[▫️ Reformation Theology]()|
 |1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[▫️ NET Full Notes]()<br>[▫️ Reinventing Jesus]()|
 |1964 – Present|<a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a><br>[▫️ The Christian Faith]()<br>[▫️ Reformation Theology]()|

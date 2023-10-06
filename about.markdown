@@ -37,10 +37,11 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 - ESV Study Bible (Bible Study)
 - NET Full Notes (Textual Crit.)
 - NLT Filament (Leisure)
-- [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
-- [Sub. or Wesl. Foreknowledge](https://sevenshepherd.github.io/election/#decrees)
-- Theologically Moderate
+- <a href="#theology">Theologically Moderate</a>
 - Soft-cessationist
+
+<!-- - [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
+- [Sub. or Wesl. Foreknowledge](https://sevenshepherd.github.io/election/#decrees) -->
 
 My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). 
 
@@ -175,22 +176,21 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Theology</span> -->
 
-As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)&rdquo; position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
-
-<!-- - I reject the [Calvinist](https://sevenshepherd.github.io/ordo-salutis-reformed/) view of [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me.
-- I reject [Hyper-Calvinism (Supra.) & Scholastic Calvinism (Infra.)](https://sevenshepherd.github.io/election/#false_dichotomy) for either [Amyraldianism (Sub.)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or Wesleyan foreknowledge view of [election](https://sevenshepherd.github.io/election/). Jesus died for the sins of the world (1 Jn 2:2).
-- I reject [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) as thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. This doesn't mean that I think they're unsaved.
-- I reject the label [Lordship Salvation]() because they, sometimes, confuse "resulting" works for "including," moving dangerously close to synergism. I reject it in favor of [**Sola Fide**](https://sevenshepherd.github.io/faith-alone/) &mdash; The original 500+ year old lordship position.
-- I reject ['80s Free Grace theology](https://sevenshepherd.github.io/repent/) because they reject sound scholarship, lexicon definitions, and the academic community on the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) holding to a category mistake. They also altered the reformation doctrine of [faith alone](https://sevenshepherd.github.io/faith-alone/).
-- I reject the Sethite view of Gen 6:1-4 in favor of [Hybrid Offspring and Heiser's Divine Council Theory.](https://www.youtube.com/@DRMSH)
-- I reject Cessationism for Soft-cessationism or open but cautious continuationism. -->
-
-<!-- > &ldquo;Discussion - YES! Disagreements - YES! Division - NO!&rdquo; &mdash; Chuck Smith, Calvinism, Arminianism, & The Word Of God. p. 16. -->
+As far as my theology is concerned, I hold to the [&ldquo;Historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
 |Professors|Books|
 |:-:|:-:|
-|**Under Construction**||
+|**Best Theology Books**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
+
+When it comes to the distinctives of protestantism, I would describe myself as a moderate. I've written extensively on the following distinctives.
+
+- [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
+- [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/)
+- [Lutheranism](https://sevenshepherd.github.io/ordo-salutis-lutheran/)
+- [Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))
+- [Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/)
+- [Catholicism](https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/)
 
 <!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
 
@@ -198,24 +198,21 @@ As far as my theology is concerned, I hold to the &ldquo;[historic Protestant](h
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">Distinctives</span> -->
 
-When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-calvinist/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17).
+<!-- When it comes to the distinctives of protestantism, I would describe myself as a moderate. While I have a tremendous respect for [Calvinists](https://sevenshepherd.github.io/ordo-salutis-calvinist/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy)) like Drs. Wayne Grudem, J.I. Packer, & Daniel B. Wallace, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), just like St. Augustine, Luther, & Calvin before me. (1 Jn 2:2; Jn 3:17). -->
 
-> All of this invalidates the L of TULIP – “limited atonement” –
-the view that Christ did not actually die for all but only for the “elect”.
-In fact, not only Luther but many of the other reformers, including
-Calvin, did not subscribe to limited atonement... this view of the atonement
-was not even introduced until the second or third generation of
-Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
+<!-- > All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179. -->
 
-On the other side of the matter, I also find [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) to be thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. So I find myself [**debating**](https://sevenshepherd.github.io/election/) between a [Moderate Calvinist](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy)) or [Moderate Arminian](https://sevenshepherd.github.io/ordo-salutis-moderate-arminian/) position.
+<!-- On the other side of the matter, I also find [traditional Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/) to be thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. So I find myself [**debating**](https://sevenshepherd.github.io/election/) between a [Moderate Calvinist](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy)) or [Moderate Arminian](https://sevenshepherd.github.io/ordo-salutis-moderate-arminian/) ([Wesl.](https://sevenshepherd.github.io/election/#false_dichotomy)) position. -->
 
-> *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4)
+<!-- > *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4) -->
 
-When you want to learn about Amyraldism you learn it from an Amyraldian, when you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. When you want to learn about it all, in one book, without any bias, you read &ldquo;The Cross and Salvation&rdquo; by Dr. Bruce Demarest (Ph.D., Manchester), the most fair and irenic theologian I've ever read.
+<!-- When you want to learn about Amyraldism you learn it from an Amyraldian, when you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. When you want to learn about it all, in one book, without any bias, you read &ldquo;The Cross and Salvation&rdquo; by Dr. Bruce Demarest (Ph.D., Manchester), the most fair and irenic theologian I've ever read. -->
+
+Below I've selected the very best works on each respective subject to save you a great deal of time.
 
 <!-- If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive. -->
 
-|Professors|Books|
+<!-- |Professors|Books|
 |:-:|:-:|
 |**Systemless**||
 |[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)]()<br>7 November 1943 &mdash; Present|[▫️ **Determined to Believe?**]()|
@@ -223,8 +220,9 @@ When you want to learn about Amyraldism you learn it from an Amyraldian, when yo
 |||
 |**Amyraldism ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
 |Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
-|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
+|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[▫️ The Extent of the Atonement (article)](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |Dr. Walter Martin<br>(Ph.D., California Coast)|[▫️ Essential Christianity]()|
+|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)|[▫️ Unlimited Atonement: Amyraldism and Reformed Theology]()|
 |Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)|[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |||
 |**Moderate Arminianism**||
@@ -235,7 +233,7 @@ When you want to learn about Amyraldism you learn it from an Amyraldian, when yo
 |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()|
 |||
 |**Traditional Arminianism ([Wesl.](https://sevenshepherd.github.io/election/#false_dichotomy))**||
-|[Dr. Thomas C. Oden<br>(Ph.D., Yale University)]()|[▫️ Classic Christianity: A Systematic Theology]()|
+|[Dr. Thomas C. Oden<br>(Ph.D., Yale University)]()|[▫️ Classic Christianity: A Systematic Theology]()| -->
 
 <!-- |||
 |**Soteriology**|| -->
