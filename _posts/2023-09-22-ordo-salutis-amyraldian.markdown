@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:40:00 -0500
+date: 2023-09-22 3:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -187,10 +187,9 @@ Here I wish to see if the approaches we have been following with respect to the 
 The label “limited atonement” is singularly unfortunate for two reasons. First, it is a defensive, restrictive expression: here is atonement, and then someone wants to limit it. The notion of limiting something as glorious as the Atonement is intrinsically offensive. Second, even when inspected more coolly, “limited
 atonement” is objectively misleading. Every view of the Atonement “limits” it in some way, save for the view of the unqualified universalist. For example, the Arminian limits the Atonement by regarding it as merely potential for everyone; the Calvinist regards the Atonement as definite and effective (i.e., those for whom Christ died will certainly be saved), but limits this effectiveness to the elect; **the Amyraldian limits the Atonement in much the same way as the Arminian, even though the undergirding structures are different**.
 >
-It may be less prejudicial, therefore, to distinguish general atonement and definite atonement, rather than unlimited atonement and limited atonement. The Arminian (and the **Amyraldian**, whom I shall lump together for the sake of this discussion) holds that the Atonement is general, i.e., sufficient for all, available to all, on condition of faith; the Calvinist holds that the Atonement is definite, i.e., intended by God to be effective for the elect.
+It may be less prejudicial, therefore, to distinguish general atonement and definite atonement, rather than unlimited atonement and limited atonement. The Arminian (and the **Amyraldian**, whom I shall lump together for the sake of this discussion) **holds that the Atonement is general, i.e., sufficient for all, available to all, on condition of faith**; the Calvinist holds that the Atonement is definite, i.e., intended by God to be effective for the elect.
 > 
-At least part of the argument in favor of definite atonement runs as follows. Let us grant, for the sake of argument, the truth of election.1 That is one point where this discussion intersects with what was said in the third chapter about God’s sovereignty and his electing love. In that case the question may be framed in this way: When God sent his Son to the cross, did he think of the
-effect of the cross with respect to his elect differently from the way he thought of the effect of the cross with respect to all others? If one answers negatively, it is very difficult to see that one is really holding to a doctrine of election at all; if one answers positively, then one has veered toward some notion of definite atonement. The definiteness of the Atonement turns rather more
+At least part of the argument in favor of definite atonement runs as follows. Let us grant, for the sake of argument, the truth of election.<sup>1</sup> That is one point where this discussion intersects with what was said in the third chapter about God’s sovereignty and his electing love. In that case the question may be framed in this way: When God sent his Son to the cross, did he think of the effect of the cross with respect to his elect differently from the way he thought of the effect of the cross with respect to all others? If one answers negatively, it is very difficult to see that one is really holding to a doctrine of election at all; if one answers positively, then one has veered toward some notion of definite atonement. The definiteness of the Atonement turns rather more
 on God’s intent in Christ’s cross work than in the mere extent of its significance.
 >
 But the issue is not merely one of logic dependent on election. Those who defend definite atonement cite texts. Jesus will save his people from their sins (Matt. 1:21)—not everyone. Christ gave himself “for us,” i.e., for us the people of the new covenant (Tit. 2:14), “to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.” Moreover, in his death Christ did not merely make adequate provision for the elect, but he actually achieved the desired result (Rom. 5:6-10; Eph. 2:15-16). The Son of Man came to give his life a ransom “for many” (Matt. 20:28; Mark 10:45; cf. Isa. 53:10-12). Christ “loved the church and gave himself up for her” (Eph. 5:25).
@@ -199,7 +198,7 @@ But the issue is not merely one of logic dependent on election. Those who defend
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
-These scholars hold to **moderate** forms of Calvinism.
+These scholars hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement.
 
 |||
 |:-:|:-:|
@@ -207,7 +206,7 @@ These scholars hold to **moderate** forms of Calvinism.
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
-|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson<br>(Ph.D., University of Cambridge)</a><br>[▫️ The Difficult Doctrine of the Love of God]()<br>[▫️ Biblical Theology Study Bible]()|
+|1946 – Present|Dr. D. A. Carson<br>(Ph.D., University of Cambridge)<br>[▫️ The Difficult Doctrine of the Love of God]()<br>[▫️ Biblical Theology Study Bible]()<br>[▫️ On Atonement](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/)|
 |1959? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |1961 – Present|Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)|
 
