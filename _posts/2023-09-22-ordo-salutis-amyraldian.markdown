@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:10:00 -0500
+date: 2023-09-22 4:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -100,7 +100,7 @@ P—Perseverance of the saints, too, is an essential part of moderate Calvinism.
 
 > The term supralapsarian is from the Latin supra (above) and lapsus (fall), meaning that God’s decree of election (predestination) is considered by supralapsarians to be above, or logically prior to, His decree to permit the Fall. Since infra means “below,” the infralapsarians consider God’s decree of election to be beneath, or logically after, His decree to permit the Fall. The sublapsarians (Amyraldians) <sup>9</sup> are similar to the infralapsarians, except they place God’s order to provide salvation before His order to elect (see Chafer, ST, 2.105). Wesleyans adhere to the same basic order as infralapsarians, except they hold that God’s election is based on His foreknowledge rather than simply in accord with it. Hence, for Wesleyans (Arminians), God’s decree is conditional instead of unconditional (which is maintained by the three Calvinistic views).
 >
-<span style="color:darkred;">Supralapsarians are hypter-Calvinists, being double-predestinarians.</span> <sup>10</sup> <span style="color:#FBB917;">Infralapsarians are strong Calvinists but are not double-predestinarians.</span> <span style="color:#3EA055;">Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement</span>. Again, Wesleyans are Arminians, insisting that election is conditional, not unconditional. Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
+<span style="color:darkred;">Supralapsarians are hypter-Calvinists, being double-predestinarians.</span> <sup>10</sup> <span style="color:#FBB917;">Infralapsarians are strong Calvinists but are not double-predestinarians.</span> <span style="color:#3EA055;">Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement</span>. Again, <span style="color:darkblue;">Wesleyans are Arminians, insisting that election is conditional, not unconditional.</span> Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
 >
 &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
 
