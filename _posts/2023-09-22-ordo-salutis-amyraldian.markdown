@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:25:00 -0500
+date: 2023-09-22 4:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -222,6 +222,14 @@ These scholars hold to **moderate** forms of Calvinism that hold to unlimited at
 
 |||
 |:-:|:-:|
+|**Early Church Fathers**||
+|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
+|||
+|**Historical Scholars**||
+|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+|1596 – 1664|Moïse Amyraut<br>[▫️ Traité de la Predestination (Treatise on Predestination)]()|
+|1615 – 1691|Richard Baxter<br>[▫️ Various Writings](http://digitalpuritan.net/richard-baxter/)|
+|||
 |**Contemporary Scholars**||
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
@@ -229,6 +237,7 @@ These scholars hold to **moderate** forms of Calvinism that hold to unlimited at
 |1946 – Present|Dr. D. A. Carson<br>(Ph.D., University of Cambridge)<br>[▫️ The Difficult Doctrine of the Love of God]()<br>[▫️ Biblical Theology Study Bible]()<br>[▫️ On Atonement](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/)|
 |1959? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |1961 – Present|Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)|
+|1974 – Present|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>[▫️ Unlimited Atonement: Amyraldism and Reformed Theology]()<br>[▫️ Evangelical Theology]()|
 
 <!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
 - Dr. Jack Van Impe (Ph.D., Pacific)

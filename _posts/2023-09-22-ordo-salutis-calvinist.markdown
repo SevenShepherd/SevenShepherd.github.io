@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:45:00 -0500
+date: 2023-09-22 1:50:00 -0500
 categories: salvation
 published: true
 ---
@@ -285,7 +285,7 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 |Early Church Fathers||
 |:-:|:-:|
-|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement|
+|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
 |||
 |**Historical Scholars**||
 |1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
@@ -310,11 +310,11 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 |1947 – Present|<a href="https://www.greystoneinstitute.org/robert-letham" style="color:black;">Robert Letham (Ph.D., Aberdeen)</a><br>[▫️ Systematic Theology]()<br>[▫️ Reformation Theology]()|
 |1952 – Present|<a href="#wallace">Daniel B. Wallace (Ph.D., Dallas)</a><br>[▫️ NET Full Notes]()<br>[▫️ Reinventing Jesus]()|
 |1964 – Present|<a href="https://www.crossway.org/authors/michael-s-horton/" style="color:black;">Michael Horton (Ph.D., Oxford)</a><br>[▫️ The Christian Faith]()<br>[▫️ Reformation Theology]()|
-|1974 – Present|<a href="#bird">Michael F. Bird (Ph.D., Queensland)</a><br>[▫️ Evangelical Theology]()|
 |? – Present|<a href="https://www.mbts.edu/about/faculty/matthew-barrett/" style="color:black;">Matthew Barrett (Ph.D., SBTS)</a><br>[▫️ Reformation Theology]()|
 |? – Present|<a href="https://rts.edu/people/dr-michael-allen/" style="color:black;">R. Michael Allen (Ph.D. Wheaton)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
 |? – Present|<a href="https://rts.edu/people/dr-scott-r-swain/" style="color:black;">Scott R. Swain (Ph.D. Trinity)</a><br>[▫️ Christian Dogmatics]()<br>[▫️ Reformation Theology]()|
 
+<!-- |1974 – Present|<a href="#bird">Michael F. Bird (Ph.D., Queensland)</a><br>[▫️ Evangelical Theology]()| -->
 
 <!-- |1935–2021|<a href="#demarest">Bruce Demarest (Ph.D., Manchester)<br><a href="">▫️ The Cross and Salvation</a>| -->
 
