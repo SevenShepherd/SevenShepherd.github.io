@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:50:00 -0500
+date: 2023-09-22 3:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -195,6 +195,21 @@ on God’s intent in Christ’s cross work than in the mere extent of its signif
 But the issue is not merely one of logic dependent on election. Those who defend definite atonement cite texts. Jesus will save his people from their sins (Matt. 1:21)—not everyone. Christ gave himself “for us,” i.e., for us the people of the new covenant (Tit. 2:14), “to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.” Moreover, in his death Christ did not merely make adequate provision for the elect, but he actually achieved the desired result (Rom. 5:6-10; Eph. 2:15-16). The Son of Man came to give his life a ransom “for many” (Matt. 20:28; Mark 10:45; cf. Isa. 53:10-12). Christ “loved the church and gave himself up for her” (Eph. 5:25).
 >
 &mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, pp. 73-74.
+
+--
+
+> Surely it is best not to introduce disjunctions where God himself has not introduced them. **If one holds that the Atonement is sufficient for all and effective for the elect, then both sets of texts and concerns are accommodated.** As far as I can see, a text such as 1 John 2:2 states something about the potential breadth of the Atonement. As I understand the historical context... **It was not for our sins only, but also for the sins of the whole world.** The context, then, understands this to mean something like “potentially for all without distinction” rather than “effectively for all without exception”—for in the latter case all without exception must surely be saved, and John does not suppose that that will take place.
+>
+&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, p. 76.
+
+--
+
+> **I argue, then, that both Arminians and Calvinists should rightly affirm that Christ died for all**, in the sense that Christ’s death was sufficient for all and that Scripture portrays God as inviting, commanding, and desiring the salvation of all, out of love(in the third sense developed in the first chapter). Further, all Christians ought also to confess that, in a slightly different sense,
+Christ Jesus, in the intent of God, died effectively for the elect alone, in line with the way the Bible speaks of God’s special selecting love for the elect (in the fourth sense developed in the first chapter).
+>
+&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, p. 77.
+
+
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
