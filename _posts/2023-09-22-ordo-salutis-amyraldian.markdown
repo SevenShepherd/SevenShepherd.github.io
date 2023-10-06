@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:20:00 -0500
+date: 2023-09-22 4:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -185,7 +185,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 Read &ldquo;*The Difficult Doctrine of the Love of God*&rdquo; pp. 73-78 (Amyraldian view, 73-74). Or check out this [article](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/) about it.
 
-While Carson &ldquo;lumps together&rdquo; the Arminian and the Amyraldian in this book, he is actually arguing for a ‘multiple-intentions’ view of the atonement, such as is advocated by Amyraldians (Moderate Calvinists).
+While Carson &ldquo;lumps together&rdquo; the Arminian and the Amyraldian in this book, he is actually arguing for a ‘multiple-intentions’ view of the atonement, such as is advocated by Amyraldians (Moderate Calvinists), this is called hypothetical universalism.
 
 > **B. The Love of God and the Intent of the Atonement**
 >
@@ -218,7 +218,7 @@ Christ Jesus, in the intent of God, died effectively for the elect alone, in lin
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
-These scholars hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement.
+These scholars hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement which is called hypothetical universalism.
 
 |||
 |:-:|:-:|
