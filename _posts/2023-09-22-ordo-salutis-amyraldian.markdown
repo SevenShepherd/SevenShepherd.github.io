@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:55:00 -0500
+date: 2023-09-22 4:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -20,6 +20,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 5.1 <a href="#ChurchFathers">Church Fathers Reject Limited</a>
     - 5.2 <a href="#reformers">Reformers Reject Limited</a>
     - 5.3 <a href="#rhodes5.3">Dr. Ron Rhodes Defends Unlimited</a>
+        - 5.3.1 <a href="#martin5.3.1">Dr. Walter Martin Quoted</a>
     - 5.4 <a href="#lennox5.4">Dr. Lennox Dispatches Limited</a>
     - 5.5 <a href="#carson5.5">Dr. Carson's Multiple-Intentions</a>
 6. <a href="#scholars">Scholars & Theologians</a>
@@ -163,6 +164,11 @@ In an article titled &ldquo;[The Extent of the Atonement](https://www.ronrhodes.
 
 > My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), [The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
 
+- <a name="martin5.3.1" href="#contents" style="font-size:1.2em;">5.3.1 Dr. Walter Martin Quoted</a>
+
+    > Walter Martin, founder of the Christian Research Institute, observes: “John the Apostle tells us that Christ gave His life as a propitiation for **our sin (i.e., the elect)**, though not for ours only but for the sins of the **whole world (1 John 2:2)**....[People] cannot evade John’s usage of ‘whole’ (Greek: holos). In the same context the apostle quite cogently points out that ‘the whole (holos) world lies in wickedness’ or, more properly, ‘in the lap of the wicked one’ (1 John 5:19, literal translation). If we assume that ‘whole’ applies only to the chosen or elect of God, then the ‘whole world does not ‘lie in the lap of the wicked one.’ This, of course, all reject.”
+
+
 <a name="lennox5.4" href="#contents" style="font-size:1.6em;">5.4 Dr. John C. Lennox Dispatches Limited Atonement</a>
 
 Dr. John C. Lennox, while **not an Amyraldian** himself and choosing to go **systemless**, also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth and expansive.
@@ -200,16 +206,14 @@ But the issue is not merely one of logic dependent on election. Those who defend
 
 > Surely it is best not to introduce disjunctions where God himself has not introduced them. **If one holds that the Atonement is sufficient for all and effective for the elect, then both sets of texts and concerns are accommodated.** As far as I can see, a text such as 1 John 2:2 states something about the potential breadth of the Atonement. As I understand the historical context... **It was not for our sins only, but also for the sins of the whole world.** The context, then, understands this to mean something like “potentially for all without distinction” rather than “effectively for all without exception”—for in the latter case all without exception must surely be saved, and John does not suppose that that will take place.
 >
-&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, p. 76.
+&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. p. 76.
 
 --
 
 > **I argue, then, that both Arminians and Calvinists should rightly affirm that Christ died for all**, in the sense that Christ’s death was sufficient for all and that Scripture portrays God as inviting, commanding, and desiring the salvation of all, out of love(in the third sense developed in the first chapter). Further, all Christians ought also to confess that, in a slightly different sense,
 Christ Jesus, in the intent of God, died effectively for the elect alone, in line with the way the Bible speaks of God’s special selecting love for the elect (in the fourth sense developed in the first chapter).
 >
-&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, p. 77.
-
-
+&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. p. 77.
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
