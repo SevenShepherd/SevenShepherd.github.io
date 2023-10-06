@@ -208,7 +208,7 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 
 <!-- When you want to learn about Amyraldism you learn it from an Amyraldian, when you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. When you want to learn about it all, in one book, without any bias, you read &ldquo;The Cross and Salvation&rdquo; by Dr. Bruce Demarest (Ph.D., Manchester), the most fair and irenic theologian I've ever read. -->
 
-Below I've selected the very best works on each respective subject to save you a great deal of time.
+<!-- Below I've selected the very best works on each respective subject to save you a great deal of time. -->
 
 <!-- If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive. -->
 
