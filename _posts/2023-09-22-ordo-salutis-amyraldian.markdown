@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 3:35:00 -0500
+date: 2023-09-22 3:40:00 -0500
 categories: salvation
 published: true
 ---
@@ -21,6 +21,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 5.2 <a href="#reformers">Reformers Reject Limited</a>
     - 5.3 <a href="#rhodes5.3">Dr. Ron Rhodes Defends Unlimited</a>
     - 5.4 <a href="#lennox5.4">Dr. Lennox Dispatches Limited</a>
+    - 5.5 <a href="#carson5.5">Dr. Carson's Multiple-Intentions</a>
 6. <a href="#scholars">Scholars & Theologians</a>
 7. <a href="#cite">Sources & Citations</a>
 
@@ -164,7 +165,7 @@ In an article titled &ldquo;[The Extent of the Atonement](https://www.ronrhodes.
 
 <a name="lennox5.4" href="#contents" style="font-size:1.6em;">5.4 Dr. John C. Lennox Dispatches Limited Atonement</a>
 
-Dr. John C. Lennox, while not an amyraldian himself and choosing to go systemless, also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth and expansive.
+Dr. John C. Lennox, while **not an Amyraldian** himself and choosing to go **systemless**, also contributes many vital points in his book &ldquo;[*Determined to Believe?*]()&rdquo; if you want something more in-depth and expansive.
 
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
@@ -173,7 +174,32 @@ Calvin, did not subscribe to limited atonement... this view of the atonement
 was not even introduced until the second or third generation of
 Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
+<a name="carson5.5" href="#contents" style="font-size:1.6em;">5.5 Dr. Carson's Multiple-Intentions</a>
+
+Read &ldquo;*The Difficult Doctrine of the Love of God*&rdquo; pp. 73-78 (Amyraldian view, 73-74). Or check out this [article](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/) about it.
+
+While Carson &ldquo;lumps together&rdquo; the Arminian and the Amyraldian in this book, he is actually arguing for a ‘multiple-intentions’ view of the atonement, such as is advocated by Amyraldians (Moderate Calvinists).
+
+> **B. The Love of God and the Intent of the Atonement**
+>
+Here I wish to see if the approaches we have been following with respect to the love of God may shed some light on another area connected with the sovereignty of God—the purpose of the Atonement.
+>
+The label “limited atonement” is singularly unfortunate for two reasons. First, it is a defensive, restrictive expression: here is atonement, and then someone wants to limit it. The notion of limiting something as glorious as the Atonement is intrinsically offensive. Second, even when inspected more coolly, “limited
+atonement” is objectively misleading. Every view of the Atonement “limits” it in some way, save for the view of the unqualified universalist. For example, the Arminian limits the Atonement by regarding it as merely potential for everyone; the Calvinist regards the Atonement as definite and effective (i.e., those for whom Christ died will certainly be saved), but limits this effectiveness to the elect; **the Amyraldian limits the Atonement in much the same way as the Arminian, even though the undergirding structures are different**.
+>
+It may be less prejudicial, therefore, to distinguish general atonement and definite atonement, rather than unlimited atonement and limited atonement. The Arminian (and the **Amyraldian**, whom I shall lump together for the sake of this discussion) holds that the Atonement is general, i.e., sufficient for all, available to all, on condition of faith; the Calvinist holds that the Atonement is definite, i.e., intended by God to be effective for the elect.
+> 
+At least part of the argument in favor of definite atonement runs as follows. Let us grant, for the sake of argument, the truth of election.1 That is one point where this discussion intersects with what was said in the third chapter about God’s sovereignty and his electing love. In that case the question may be framed in this way: When God sent his Son to the cross, did he think of the
+effect of the cross with respect to his elect differently from the way he thought of the effect of the cross with respect to all others? If one answers negatively, it is very difficult to see that one is really holding to a doctrine of election at all; if one answers positively, then one has veered toward some notion of definite atonement. The definiteness of the Atonement turns rather more
+on God’s intent in Christ’s cross work than in the mere extent of its significance.
+>
+But the issue is not merely one of logic dependent on election. Those who defend definite atonement cite texts. Jesus will save his people from their sins (Matt. 1:21)—not everyone. Christ gave himself “for us,” i.e., for us the people of the new covenant (Tit. 2:14), “to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.” Moreover, in his death Christ did not merely make adequate provision for the elect, but he actually achieved the desired result (Rom. 5:6-10; Eph. 2:15-16). The Son of Man came to give his life a ransom “for many” (Matt. 20:28; Mark 10:45; cf. Isa. 53:10-12). Christ “loved the church and gave himself up for her” (Eph. 5:25).
+>
+&mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. Amyraldian view, pp. 73-74.
+
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
+
+These scholars hold to **moderate** forms of Calvinism.
 
 |||
 |:-:|:-:|
@@ -181,7 +207,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
-|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson<br>(Ph.D., Cambridge)</a><br>[▫️ Biblical Theology Study Bible]()|
+|1946 – Present|<a href="http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/" style="color:black;">D. A. Carson<br>(Ph.D., University of Cambridge)</a><br>[▫️ The Difficult Doctrine of the Love of God]()<br>[▫️ Biblical Theology Study Bible]()|
 |1959? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |1961 – Present|Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)|
 
