@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:55:00 -0500
+date: 2023-09-22 5:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -252,7 +252,7 @@ The contemporary scholars listed below hold to **moderate** forms of Calvinism t
 |1596 – 1664|Moïse Amyraut<br>[▫️ Traiti de la Predestination et de ses principales dependances (1634) (Treatise on Predestination)]()<br>[▫️ Eschantillon de la doctrine de Calvin touchant la predestination (1636)]()|
 |1615 – 1691|Richard Baxter<br>[▫️ Various Writings](http://digitalpuritan.net/richard-baxter/)|
 |||
-|**Contemporary Scholars**||
+|<a name="contemporary" href="#contents" style="font-weight:bold;color:black;">Contemporary Scholars</a>||
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
 |1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
