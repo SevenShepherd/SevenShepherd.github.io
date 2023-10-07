@@ -187,12 +187,12 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 
 |Distinctive|Recommendation|
 |:-:|:-:|
-|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a>|See [article](http://127.0.0.1:8080/ordo-salutis-amyraldian/#contemporary)|
-|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|N/A|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|N/A|
-|<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a>|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br><br>[Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
-|<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
-|<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a>|N/A|
+|<a style="color:#54C571;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a>|See [article](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#contemporary)|
+|<a style="color:#54C571;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|N/A|
+|<a style="color:#F6BE00;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|N/A|
+|<a style="color:coral;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a>|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br><br>[Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
+|<a style="color:coral;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
+|<a style="color:darkred;text-decoration:underline" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a>|N/A|
 
 <!-- - [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
     - 
