@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:50:00 -0500
+date: 2023-09-22 4:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -30,6 +30,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="amyraldism" href="#contents" style="font-size:2.1em;">I. Moderate Calvinism</a>
 
+> **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
+
 Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
 > Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
@@ -50,13 +52,6 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 <!-- > The basic difference may be said to boil down to the question: Who determines who are to be saved? According to Semi-Pelagians, Arminians and Wesleyans, man determines. All hinges on human choice. In a strange way, so agrees **Norman Geisler**, who in an effort to avoid what he calls extreme Calvinism manages to become not a **moderate Calvinist** but a pretty good [**synergist**](https://carm.org/dictionary/synergism/), i.e. an Arminian. &mdash; Robert Duncan Culver (Professor of Theology at Wheaton College and Trinity Evangelical Divinity School). Systematic Theology, Biblical and Historical. Part 3. 8 Theories of the Imputation of Sin. -->
 
 <!-- --- -->
-
-> All of this invalidates the L of TULIP – “limited atonement” –
-the view that Christ did not actually die for all but only for the “elect”.
-In fact, not only Luther but many of the other reformers, including
-Calvin, did not subscribe to limited atonement... this view of the atonement
-was not even introduced until the second or third generation of
-Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
 
 <!-- - [⚠️ Synergistic](https://carm.org/dictionary/synergism/) / ✅ [Monergistic](https://carm.org/dictionary/monergism/) I identify as evangelical in addition to being reformed; this places regeneration in it's proper place before faith. If you're evangelical, and placing regeneration after faith, you're by definition synergistic. I believe reformed evangelicals to be a safe option as long as it remains true to historic protestantism in it's nuances and theological conservatism (no, not politics). -->
@@ -222,8 +217,7 @@ Christ Jesus, in the intent of God, died effectively for the elect alone, in lin
 
 > As will be clear, I stand in the Anglican tradition, which holds to the efficacy of Christs death for the elect combined with a universal atonement and a universal offer of the gospel.
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
-Theology, 4.4 The Death of Jesus, 4.4.3 The Extent of the Atonement. p. 476.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3 The Extent of the Atonement. p. 476.
 
 <!-- --
 
@@ -236,15 +230,13 @@ Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. ???. -->
 
 > Given these failings, I think that **D. B. Knox was right to call limited atonement “a textless doctrine”** since it lacks biblical justification, and such a state is “a fatal defect for any doctrine for which a place in Reformed theology is sought.”
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
-Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. 481.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. 481.
 
 --
 
 > However, **the first phase of the Reformation was Amyraldian** in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement. There is mention of election but no support for limited atonement in the First Helvetic Confession (1536), the Scots Confession (1560), or the Belgic Confession (1561). Lutherans and Anglicans both confess divine predestination while simultaneously affirming a universal atonement and the universal offer of the gospel. <sup>146</sup> On the Anglican side, D. B. Knox, a much-neglected Australian Anglican theologian, stands in this tradition of Anglican Calvinism with a universal view of the atonement.<sup>147</sup> For Knox, the work of Christ extends uniformly to the whole of humanity, and this is clear when based around certain theological tenets.
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
-Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
