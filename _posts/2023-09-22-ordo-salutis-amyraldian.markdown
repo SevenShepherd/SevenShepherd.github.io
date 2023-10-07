@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:45:00 -0500
+date: 2023-09-22 4:50:00 -0500
 categories: salvation
 published: true
 ---
@@ -217,30 +217,34 @@ Christ Jesus, in the intent of God, died effectively for the elect alone, in lin
 >
 &mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. p. 77.
 
-<a name="bird5.6" href="#contents" style="font-size:1.6em;">5.5 Dr. Michael F. Bird's Stance</a>
+<a name="bird5.6" href="#contents" style="font-size:1.6em;">5.6 Dr. Michael F. Bird's Stance</a>
 
 
 > As will be clear, I stand in the Anglican tradition, which holds to the efficacy of Christs death for the elect combined with a universal atonement and a universal offer of the gospel.
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3 The Extent of the Atonement. p. 476.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
+Theology, 4.4 The Death of Jesus, 4.4.3 The Extent of the Atonement. p. 476.
 
 <!-- --
 
 >
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. ???. -->
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
+Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. ???. -->
 
 --
 
 > Given these failings, I think that **D. B. Knox was right to call limited atonement “a textless doctrine”** since it lacks biblical justification, and such a state is “a fatal defect for any doctrine for which a place in Reformed theology is sought.”
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. 481.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
+Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. 481.
 
 --
 
 > However, **the first phase of the Reformation was Amyraldian** in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement. There is mention of election but no support for limited atonement in the First Helvetic Confession (1536), the Scots Confession (1560), or the Belgic Confession (1561). Lutherans and Anglicans both confess divine predestination while simultaneously affirming a universal atonement and the universal offer of the gospel. <sup>146</sup> On the Anglican side, D. B. Knox, a much-neglected Australian Anglican theologian, stands in this tradition of Anglican Calvinism with a universal view of the atonement.<sup>147</sup> For Knox, the work of Christ extends uniformly to the whole of humanity, and this is clear when based around certain theological tenets.
 >
-&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical
+Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
