@@ -194,6 +194,7 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br><br>[Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
 |<a style="color:darkred;" href="">Calvinism</a> (<a style="color:darkred;" href="https://sevenshepherd.github.io/election/#decrees">Supra.</a>)|🚫|
+|<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a>|🚫|
 
 <!-- - [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
