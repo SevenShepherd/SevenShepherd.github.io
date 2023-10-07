@@ -189,7 +189,7 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox (PhD, DPhil, DSc, "Oxbridge")]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a>|See [article](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#contemporary)|
-|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|N/A|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|N/A|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|N/A|
 |<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a>|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br><br>[Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
