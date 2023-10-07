@@ -43,7 +43,7 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 <!-- - [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
 - [Sub. or Wesl. Foreknowledge](https://sevenshepherd.github.io/election/#decrees) -->
 
-My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)](). 
+<!-- My favorite soteriology book is &ldquo;The Cross and Salvation&rdquo; by [Dr. Bruce Demarest (Ph.D., Manchester)]().  -->
 
 <!-- For theology, I also like &ldquo;Concise Theology&rdquo; by [J. I. Packer (Ph.D., University of Oxford)](https://youtu.be/jOFsFgUUdZo); however, I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may hold to a [sub. or foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise. -->
 
@@ -178,19 +178,32 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 As far as my theology is concerned, I hold to the [&ldquo;Historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
-|Professors|Books|
+|Best Theology Books|Highly Recommended|
 |:-:|:-:|
-|**Best Theology Books**||
-|Dr. Bruce Demarest (Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
+|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
+|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>1974 – Present|[▫️ Evangelical Theology]()|
 
-When it comes to the distinctives of protestantism, I would describe myself as a moderate. I've written extensively on the following distinctives.
+When it comes to the distinctives of protestantism, I would describe myself as a moderate. Below I've selected the very best works on each respective subject to save you a great deal of time. I've also color coded them to represent what I think is closest to scripture.
 
-- [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
+|Distinctive|Recommendation|
+|:-:|:-:|
+|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a>|See [article](http://127.0.0.1:8080/ordo-salutis-amyraldian/#contemporary)|
+|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|N/A|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|N/A|
+|<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a>|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br><br>[Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
+|<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
+|<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a>|N/A|
+
+<!-- - [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
+    - 
 - [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/)
 - [Lutheranism](https://sevenshepherd.github.io/ordo-salutis-lutheran/)
 - [Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/) ([Infra.](https://sevenshepherd.github.io/election/#false_dichotomy))
+    - &ldquo;Concise Theology&rdquo; by [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)
+    - &ldquo;Systematic Theology&rdquo; by [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag)
 - [Arminianism](https://sevenshepherd.github.io/ordo-salutis-arminian/)
-- [Catholicism](https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/)
+    - &ldquo;Classic Christianity&rdquo; Dr. Thomas C. Oden (Ph.D., Yale)
+- [Catholicism](https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/) -->
 
 <!-- |[Dr. J. I. Packer<br>(Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)<br>July 22, 1926-July 17, 2020|[▫️ Concise Theology]()<br><span style="color:#828282;">I reject [limited atonement](https://sevenshepherd.github.io/limited-atonement/), and may also hold a [foreknowledge](https://sevenshepherd.github.io/election/) view, but I find this text to be pleasing otherwise.</span>| -->
 
@@ -207,8 +220,6 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 <!-- > *"Since scripture teaches divine sovereignty I believe it's absolutely true, and since scripture teaches that I have a free will and that I am responsible then that's something that I believe in too..."* &mdash; [Dr. Ron Rhodes (ThD, Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4) -->
 
 <!-- When you want to learn about Amyraldism you learn it from an Amyraldian, when you want to learn about Calvinism, you learn it from a Calvinist. When you want to learn about Arminianism you learn from an Arminian. When you want to learn about it all, in one book, without any bias, you read &ldquo;The Cross and Salvation&rdquo; by Dr. Bruce Demarest (Ph.D., Manchester), the most fair and irenic theologian I've ever read. -->
-
-<!-- Below I've selected the very best works on each respective subject to save you a great deal of time. -->
 
 <!-- If you attempt to learn about either from the perspective of the opposing side, you will always receive a bias and incomplete education, no matter how fair and irenic they may seem. Below I've recommended the best teachers to represent their own distinctive. -->
 
