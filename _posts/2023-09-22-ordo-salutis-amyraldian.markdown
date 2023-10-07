@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 5:00:00 -0500
+date: 2023-09-22 5:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -74,7 +74,7 @@ The following is a description of the difference between what Norman Geisler cal
 
 > We have already evaluated the extreme Calvinists’ understanding of T-U-L-I-P (in chapters 4 and 5). Here we simply note how a moderate Calvinist understands these five Calvinistic doctrines. 
 >
-T—Total depravity is amply supported by Scripture in the moderate Calvinist sense. All the Scriptures used by extreme Calvinists are accepted by moderate Calvinists; the only difference is that moderates insist that being “dead” in sin does not mean that unsaved people cannot understand and receive the truth of the gospel as the Spirit of God works on their hearts. That is, it does not in effect erase the image of God (but only ef aces it). 
+T—Total depravity is amply supported by Scripture in the moderate Calvinist sense. All the Scriptures used by extreme Calvinists are accepted by moderate Calvinists; the only difference is that moderates insist that being “dead” in sin does not mean that unsaved people cannot understand and receive the truth of the gospel as the Spirit of God works on their hearts. That is, it does not in effect erase the image of God (but only efaces it). 
 >
 U—Unconditional election is also held by moderate Calvinists. It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. 156 
 >
