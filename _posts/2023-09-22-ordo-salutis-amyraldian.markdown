@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 4:35:00 -0500
+date: 2023-09-22 4:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -23,6 +23,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - 5.3.1 <a href="#martin5.3.1">Dr. Walter Martin Quoted</a>
     - 5.4 <a href="#lennox5.4">Dr. Lennox Dispatches Limited</a>
     - 5.5 <a href="#carson5.5">Dr. Carson's Multiple-Intentions</a>
+    - 5.6 <a href="#bird5.6">Dr. Michael F. Bird's Stance</a>
 6. <a href="#scholars">Scholars & Theologians</a>
 7. <a href="#cite">Sources & Citations</a>
 
@@ -216,6 +217,31 @@ Christ Jesus, in the intent of God, died effectively for the elect alone, in lin
 >
 &mdash; Dr. D. A. Carson (Ph.D., University of Cambridge) &ldquo;*The Difficult Doctrine of the Love of God,*&rdquo; B. The Love of God and the Intent of the Atonement. p. 77.
 
+<a name="bird5.6" href="#contents" style="font-size:1.6em;">5.5 Dr. Michael F. Bird's Stance</a>
+
+
+> As will be clear, I stand in the Anglican tradition, which holds to the efficacy of Christs death for the elect combined with a universal atonement and a universal offer of the gospel.
+>
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3 The Extent of the Atonement. p. 476.
+
+<!-- --
+
+>
+>
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. ???. -->
+
+--
+
+> Given these failings, I think that **D. B. Knox was right to call limited atonement “a textless doctrine”** since it lacks biblical justification, and such a state is “a fatal defect for any doctrine for which a place in Reformed theology is sought.”
+>
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. 481.
+
+--
+
+> However, **the first phase of the Reformation was Amyraldian** in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement. There is mention of election but no support for limited atonement in the First Helvetic Confession (1536), the Scots Confession (1560), or the Belgic Confession (1561). Lutherans and Anglicans both confess divine predestination while simultaneously affirming a universal atonement and the universal offer of the gospel. <sup>146</sup> On the Anglican side, D. B. Knox, a much-neglected Australian Anglican theologian, stands in this tradition of Anglican Calvinism with a universal view of the atonement.<sup>147</sup> For Knox, the work of Christ extends uniformly to the whole of humanity, and this is clear when based around certain theological tenets.
+>
+&mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
+
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
 The contemporary scholars listed below hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement which is called hypothetical universalism.
@@ -227,7 +253,7 @@ The contemporary scholars listed below hold to **moderate** forms of Calvinism t
 |||
 |**Historical Scholars**||
 |1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
-|1596 – 1664|Moïse Amyraut<br>[▫️ Traité de la Predestination (Treatise on Predestination)]()|
+|1596 – 1664|Moïse Amyraut<br>[▫️ Traiti de la Predestination et de ses principales dependances (1634) (Treatise on Predestination)]()<br>[▫️ Eschantillon de la doctrine de Calvin touchant la predestination (1636)]()|
 |1615 – 1691|Richard Baxter<br>[▫️ Various Writings](http://digitalpuritan.net/richard-baxter/)|
 |||
 |**Contemporary Scholars**||
