@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 5:05:00 -0500
+date: 2023-09-22 5:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -24,6 +24,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 5.4 <a href="#lennox5.4">Dr. Lennox Dispatches Limited</a>
     - 5.5 <a href="#carson5.5">Dr. Carson's Multiple-Intentions</a>
     - 5.6 <a href="#bird5.6">Dr. Michael F. Bird's Stance</a>
+    - 5.7 <a href="#letham5.7">Dr. Robert Letham's Description</a>
 6. <a href="#scholars">Scholars & Theologians</a>
 7. <a href="#cite">Sources & Citations</a>
 
@@ -32,7 +33,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 > **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
 
-Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement, also known as hypothetical universalism. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
+Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement. It is one of several hypothetical universalist systems. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
 
 > Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
 
@@ -181,7 +182,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 Read &ldquo;*The Difficult Doctrine of the Love of God*&rdquo; pp. 73-78 (Amyraldian view, 73-74). Or check out this [article](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/) about it.
 
-While Carson &ldquo;lumps together&rdquo; the Arminian and the Amyraldian in this book, he is actually arguing for a ‘multiple-intentions’ view of the atonement, such as is advocated by Amyraldians (Moderate Calvinists), this is called hypothetical universalism.
+While Carson &ldquo;lumps together&rdquo; the Arminian and the Amyraldian in this book, he is actually arguing for a ‘multiple-intentions’ view of the atonement, such as is advocated by Amyraldians (Moderate Calvinists), which is one of several hypothetical universalist systems.
 
 > **B. The Love of God and the Intent of the Atonement**
 >
@@ -238,9 +239,23 @@ Theology, 4.4 The Death of Jesus, 4.4.3.1 Limited Atonement View. p. ???. -->
 >
 &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
+<a name="letham5.7" href="#contents" style="font-size:1.6em;">5.7 Dr. Robert Letham's Description</a>
+
+Dr. Letham is **not an Amyraldian**, as far as I can tell he is a scholasitc or orthodox 5-point Calvinist, but he does describe the moderate Calvinist without bias.
+
+> **14.1.6 Amyraldianism**
+>
+**Moïse Amyraut (1596–1664) held that Christ died on the cross for all people on condition of their faith. However, God the Father elected some to salvation. In turn, the Spirit grants repentance and faith to the elect.** As Reymond points out, for Amyraldianism, “the actual execution of the divine discrimination comes not at the point of Christ’s redemptive accomplishment but at the point of the Spirit’s redemptive application.”<sup>114</sup> Essentially, Amyraldianism sought to maintain the particularity of election and the application of redemption by the Spirit, while also having a universal atonement. For this reason, Warfield classes it as inconsistent Calvinism.<sup>115</sup> Unlike Arminianism, its doctrine of election was **not based on God’s foreknowledge** of the human response to the gospel. However, its view of the efficacy of Christ’s work was split—he died for all but intercedes for the elect. It appears to drive a wedge between the decree of election, the atonement, and the particularity of application.
+>
+**14.1.7 Hypothetical Universalism**
+>
+Some English theologians proposed a slightly different argument than Amyraut.<sup>116</sup> Again, the point of disagreement lay more on the intent of the atonement than on election and reprobation. **Edmund Calamy (1600–1666), a member of the Westminster Assembly, held that Christ died absolutely for the elect and conditionally for the reprobate, in case they believe.** In this context, Calamy preserved the congruence in the works of the Trinity and avoided a split between the atonement and the intercession of Christ.<sup>117</sup> Calamy distinguished his position from Arminianism. Arminians say Christ paid a price placing all in an equal state of salvation. Calamy insisted his views “doth neither intrude upon either [the] doctrine of speciall election or speciall grace.” He argued that Arminianism asserted that Christ simply suffered; all people are placed in a potentially salvable situation, so that any who believe will be saved. In contrast, he believed Christ’s death saves his elect and grants a conditional possibility of salvation to the rest.<sup>118</sup> In distinction from Amyraut, Calamy held that the atonement is efficacious for the elect. Calamy’s views were not seen as posing a major threat to the Reformed consensus.
+>
+This general position is evidenced in John Davenant (1576–1641), a member of the influential British delegation to Dort. From the premise of the need for universal gospel preaching to be grounded on a coterminous provision, he taught that the death of Christ was the basis for the salvation of all people everywhere. The call to faith, given indiscriminately, presupposes that the death or merit of Christ is applicable to all who are promised the benefit on condition of faith. Therefore, the scope and intent of the atonement is universal. Christ paid the penalty for the whole human race, grounded on an evangelical covenant in which he promises everlasting salvation to all on condition of faith in Christ. This sufficiency is ordained by God in the evangelical covenant but is overshadowed by another decree whereby God determined salvation for the elect. No actual reconciliation or salvation comes before a person believes. In this, God makes available or withholds the means of application of salvation to nations or individuals, according to his will. Only the elect receive saving faith. This decree of election, differentiating between elect and reprobate, conflicts with God’s decision that Christ atone for each and every person by his death. God decides first one thing, then another.<sup>119</sup>
+
 <a name="scholars" href="#contents" style="font-size:2.1em;">VI. Scholars & Theologians</a>
 
-The contemporary scholars listed below hold to **moderate** forms of Calvinism that hold to unlimited atonement or multiple-intentions view of atonement which is called hypothetical universalism.
+The contemporary scholars listed below hold to **moderate** forms of Calvinism that uphold unlimited atonement or multiple-intentions view of atonement, which is one of several hypothetical universalist systems.
 
 |||
 |:-:|:-:|
