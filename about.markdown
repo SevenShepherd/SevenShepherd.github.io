@@ -309,9 +309,8 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 [God Created What Scientists Seek To Understand](https://sevenshepherd.github.io/science/).
 
-|Professors||
+|Scientist Theologians||
 |:-:|:-:|
-|**Scientist Theologians**||
 |[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
 |[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
@@ -487,11 +486,13 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 <!-- # Metaphysics (The Ultimate Structure of Reality) -->
 
-My metaphysical views will always be Christian first and foremost, but otherwise fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this harmonizes with a cosmology of higher spatial dimensions. There are only two forms of monism that I find interesting, the first is Leibniz's Monadology, and the other is Tegmark's Ultimate Ensemble. What I find interesting and what I believe, are two different things.
+My metaphysical views will always be Christian first and foremost, but otherwise fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this harmonizes with a cosmology of higher spatial dimensions. There are only two forms of monism that I find interesting, the first is Leibniz's Monadology, and the other is Tegmark's [Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis). What I find interesting and what I believe, are two different things.
 
 <!-- These conclusions will probably only be revealed by an artificial superintelligence or technological singularity. -->
 
 > "The laws of nature become simpler and elegant when expressed in higher dimensions" &mdash; Dr. Peter Freund, as quoted by Dr. Michio Kaku in his book Hyperspace.
+
+Below you'll find some Christian as well as some secular works that seem to coincide.
 
 <!-- https://youtu.be/JTfxKKo8ToE -->
 
@@ -513,7 +514,8 @@ My metaphysical views will always be Christian first and foremost, but otherwise
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism)|
 |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
-|Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"|
+
+<!-- |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"| -->
 
 > "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
 
@@ -525,14 +527,15 @@ My metaphysical views will always be Christian first and foremost, but otherwise
 |Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
 |Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
 |Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
-|Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
-|Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy<br>(Childhood)|
+
+<!-- |Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
+|Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy| -->
 
 <a name="epistemology" href="#contents" style="font-style:Italic;font-size:1.6em">7.2 Epistemology (The Nature of Knowledge)</a>
 
 <!-- # Epistemology (The Nature of Knowledge) -->
 
-My epistemological views are first and foremost Christian, but otherwise fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Spinoza, Leibniz (created calculus like Newton, Leibniz paved the way for Einstein's theory of relativity), Gödel, and Einstein (called himself a "Leibnizian," and was also a Spinozist). etc. I'm also a fan of skeptical scenarios, they remind me of Revelation 6:14.
+My epistemological views are first and foremost Christian, but otherwise fall within the school of rationalism (the criterion of the truth is not sensory but intellectual and deductive) like that of Descartes, Leibniz, Gödel, and Einstein. Leibniz created calculus independantly of Newton, and paved the way for Einstein's theory of relativity. Einstein called himself a "Leibnizian," but was also a Spinozist. I'm also a fan of skeptical scenarios, they remind me of Revelation 6:14.
 
 <!-- First Principals: from which much can be deduced. For example, Einstein's Theory of Relativity can be used to calculate the effect of the speed of a satellite on time in order to sync a highly accurate clock with Earth time. This can all be done with theories and equations that Einstein produced with rational thought. -->
 
@@ -573,16 +576,27 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- # Ethics (Moral Philosophy) -->
 
-My ethics views are Christian and are derived from Romans, John, 1 John, James, & Jude; however, I have observed the truth of Ro 2:15-16 NLT written on the hearts men. Virtue ethics is rife with examples, such as [equanimity](https://en.wikipedia.org/wiki/Equanimity). According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity). It reminds me of how Paul in Acts 17:16-34 converted many stoics and epicureans.
+[My ethics views are Christian](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) and are derived from the gospels & epistles. Overtime I have observed the truth (Ro 2:15-16) written upon the hearts men; virtue ethics is rife with examples of human beings exhibiting their design, even when they were unaware of where it came from. I am reminded of how Paul, in Acts 17:16-34, converted many Stoics and Epicureans. 
+
+> <sup style="font-weight:bold;">22</sup>So Paul, standing before the council,* addressed them as follows: “Men of Athens, I notice that you are very religious in every way, <sup style="font-weight:bold;">23</sup> for as I was walking along I saw your many shrines. And one of your altars had this inscription on it: ‘To an Unknown God.’ This God, whom you worship without knowing, is the one I’m telling you about. &mdash; Acts 17:16–34 (22-23) NLT
+
+<!-- [Equanimity](https://en.wikipedia.org/wiki/Equanimity).   The Roman Stoics called it [aequanimitas](https://en.wikipedia.org/wiki/Equanimity).  -->
+
+<!-- According to the Greek Stoics, [apatheia](https://en.wikipedia.org/wiki/Apatheia) was the quality that characterized the sage. -->
+
+
 
 <!-- to be a reoccurring theme in the philosophies I gravitate towards. -->
 
-> "the doctrine of objective value, the belief that certain attitudes are really true, and others really false, the kind of thing the Universe is and the kind of things we are." &mdash; Lewis, C.S. The Abolition of Man. p. 18.
+<!-- > "the doctrine of objective value, the belief that certain attitudes are really true, and others really false, the kind of thing the Universe is and the kind of things we are." &mdash; Lewis, C.S. The Abolition of Man. p. 18. -->
 
-In some Chinese translations of the New Testament, λόγος (logos) is translated with the Chinese word dao (道) (e.g. John 1:1-3,14), indicating that the translators considered the concept of Tao to be somewhat equivalent to logos in Greek philosophy and the Logos (The Word/Jesus) in Christianity. &mdash; [Sinicizing Christianity, Zheng (2017). p. 187.](https://books.google.com/books?id=M9YkDwAAQBAJ)
+While I find sinicization to be dangerous, I also find it curious that In some Chinese translations of the New Testament, λόγος (logos) is translated with the Chinese word dao (道) (e.g. John 1:1-3,14), indicating that the translators considered the concept of Tao to be somewhat equivalent to logos in Greek philosophy. &mdash; [Sinicizing Christianity, Zheng (2017). p. 187.](https://books.google.com/books?id=M9YkDwAAQBAJ)
 
+<!-- and the Logos (The Word/Jesus) in Christianity -->
 
 <!-- In the thinking of noted Christian author C.S. Lewis, God created the Tao and fully displayed it through the person of Jesus Christ. He asserted that every religion and philosophy contains foundations of universal ethics as an attempt to line up with the Tao—the way mankind was designed to be. In Lewis' thinking, God created the Tao and fully displayed it through the person of Jesus Christ. -->
+
+I've listed below several philosophies that resemble the built in virtues that are inherent to our design. While I am Christian only, I've provided a timeline for perspective.
 
 |||
 |:-:|:-:|
@@ -594,7 +608,8 @@ In some Chinese translations of the New Testament, λόγος (logos) is transla
 |**Christ Jesus**<br>*Yahweh made manifest in the line of King David as prophesied.*<br>4 B.C. – 30 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
 |Emperor Marcus Aurelius<br>121 – 180 A.D.|[Meditations](https://youtu.be/d5E2AQKuCyU)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
-|Charlie Chaplin<br>16 April 1889 to 25 December 1977|[The Great Dictator Speech](https://youtu.be/w8HdOHrc3OQ)|
+
+<!-- |Charlie Chaplin<br>16 April 1889 to 25 December 1977|[The Great Dictator Speech](https://youtu.be/w8HdOHrc3OQ)| -->
 
 <a name="aesthetics" href="#contents" style="font-style:Italic;font-size:1.6em">7.4 Aesthetics (The Nature of Beauty)</a>
 
@@ -683,13 +698,16 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Rudyard Kipling<br>30 December 1865 to 18 January 1936|[If](https://poets.org/poem/if)|
 |Robert Frost<br>March 26, 1874 to January 29, 1963|[Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679)|
 |E.E. Cummings<br>October 14, 1894 to September 3, 1962|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
-|Maurits Cornelis Escher<br>17 June 1898 to 27 March 1972|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
+
+<!-- |Maurits Cornelis Escher<br>17 June 1898 to 27 March 1972|[Mathematical](https://mcescher.com/gallery/mathematical/), [Impossible Constructions](https://mcescher.com/gallery/impossible-constructions/)|
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
-|Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)|
+|Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)| -->
 
 <a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Entertainment</a>
 
 <!-- ## ♟️ Entertainment -->
+
+There is nothing specifically Christian about this section, it's just a place to list my hobbies and recommendations.
 
 
 <!-- 
