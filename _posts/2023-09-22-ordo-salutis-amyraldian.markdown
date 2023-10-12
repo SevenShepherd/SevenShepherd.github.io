@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 5:35:00 -0500
+date: 2023-09-22 5:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -262,18 +262,40 @@ The contemporary scholars listed below hold to **moderate** forms of Calvinism t
 |||
 |:-:|:-:|
 |**Early Church Fathers**||
-|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
+|354 – 430|St. Augustine of Hippo<br>**Rejected Limited Atonement**<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
 |||
 |**Historical Scholars**||
-|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+|1487 – 1555|Hugh Latimer|
+|1488 – 1569|Myles Coverdale|
+|1489 – 1556|Thomas Cranmer|
+|1509 – 1564|John Calvin<br>**Rejected Limited Atonement**<br>[▫️ Institutes of the Christian Religion]()|
+|1587 – 1628|John Preston|
+|1594 – 1670|Jean Daillé|
 |1596 – 1664|Moïse Amyraut<br>[▫️ Traiti de la Predestination et de ses principales dependances (1634) (Treatise on Predestination)]()<br>[▫️ Eschantillon de la doctrine de Calvin touchant la predestination (1636)]()|
+|1600 – 1656|Richard Vines|
 |1615 – 1691|Richard Baxter<br>[▫️ Various Writings](http://digitalpuritan.net/richard-baxter/)|
+|1625 – 1699|William Bates|
+|1627 – 1673|George Swinnock|
+|1628 – 1680|Stephen Charnock|
+|1628 – 1688|John Bunyan<br>[▫️ The Pilgrim's Progress](https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress)|
+|1630 – 1705|John Howe|
+|1671 – 1732|Edmund Calamy|
+|1703 – 1758|Jonathan Edwards (Pres. of Princeton)<br>**Hypothetical Universalist**<br>&ldquo;The greatest theological mind the New World ever produced.&rdquo;<br>[▫️ The Works of Jonathan Edwards, Perry Miller.]()|
+|1718 – 1747|David Brainerd|
+|1754 – 1815|Andrew Fuller|
+|1779 – 1853|Ralph Wardlaw|
+|1780 – 1847|Thomas Chalmers|
+|1816 – 1900|J.C. Ryle|
+|1899 – 1981|David Martyn Lloyd-Jones|
+|1899 – 1993|Norman F. Douty<br>[Did Christ Die Only for the Elect: A Treatise on the Extent of Christ's Atonement]()|
 |||
 |<a name="contemporary" href="#contents" style="font-weight:bold;color:black;">Contemporary Scholars</a>||
 |1928 – 1989|Dr. Walter Martin<br>(Ph.D., California Coast)<br>[▫️ Essential Christianity]()|
 |1932 – 2019|Dr. Norman Geisler<br>(Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)<br>[▫️ Systematic Theology, Volume Three, Sin Salvation.]()|
-|1935 – 2021|Dr. Bruce Demarest (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
+|1932 – Present|Millard J. Erickson (Ph.D., Northwestern)|
+|1935 – 2021|**Dr. Bruce Demarest** (Ph.D., Manchester)<br>[▫️ The Cross and Salvation]()|
 |1946 – Present|Dr. D. A. Carson<br>(Ph.D., University of Cambridge)<br>[▫️ The Difficult Doctrine of the Love of God]()<br>[▫️ Biblical Theology Study Bible]()<br>[▫️ On Atonement](http://www.walkingwithgiants.net/people/carson-d-a/carson-on-the-extent-of-the-atonement/)|
+|1953 – Present|Bruce A. Ware (Ph.D., Fuller Theological Seminary)|
 |1959? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |1961 – Present|Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)|
 |1974 – Present|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>[▫️ Unlimited Atonement: Amyraldism and Reformed Theology]()<br>[▫️ Evangelical Theology]()|

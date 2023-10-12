@@ -292,7 +292,7 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |**NT Textual Criticism**||
 |[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[▫️ Reinventing Jesus]()|
 |[Dr. Peter J. Gurry<br>(Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[▫️ Myths and Mistakes]()|
-|[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[▫️ Authorized]()<br>[▫️ KJV Parallel Bible](https://kjvparallelbible.org/)|
+|[Dr. Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[▫️ Authorized]()<br>[▫️ KJV Parallel Bible](https://kjvparallelbible.org/)|
 |||
 |**Divine Council Theory**<br>**OT Textual Criticism**||
 |[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[▫️ The Unseen Realm]()|

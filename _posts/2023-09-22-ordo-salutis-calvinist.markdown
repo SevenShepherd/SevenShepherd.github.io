@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 1:55:00 -0500
+date: 2023-09-22 2:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -285,12 +285,12 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 |Early Church Fathers||
 |:-:|:-:|
-|354 – 430|St. Augustine of Hippo<br>Rejected Limited Atonement<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
+|354 – 430|St. Augustine of Hippo<br>[**Rejected Limited Atonement**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)<br>[▫️ De Doctrina Christiana (On Christian Doctrine)]()<br>[▫️ De civitate Dei (The City of God, consisting of 22 books)]()|
 |||
 |**Historical Scholars**||
-|1509 – 1564|John Calvin<br>Rejected Limited Atonement<br>[▫️ Institutes of the Christian Religion]()|
+|1509 – 1564|John Calvin<br>[**Rejected Limited Atonement**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)<br>[▫️ Institutes of the Christian Religion]()|
 |1623 – 1687|Francis Turretin (Prof., Geneva)<br>[▫️ Institutes of Elenctic Theology (3 Volumes)]()|
-|1703 – 1758|Jonathan Edwards (Pres. of Princeton) The greatest theological mind the New World ever produced.<br>▫️ The Works of Jonathan Edwards, Perry Miller.|
+|1703 – 1758|Jonathan Edwards (Pres. of Princeton)<br>[**Hypothetical Universalist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)<br>&ldquo;The greatest theological mind the New World ever produced.&rdquo;<br>[▫️ The Works of Jonathan Edwards, Perry Miller.]()|
 |1797 – 1878|Charles Hodge (Prof. & Prin., Princeton)|
 |1820 – 1894|W. G. T. Shedd (Prof., Vermont, Auburn, Andover)|
 |1820 – 1898|Robert L. Dabney (Prof., Union)|
