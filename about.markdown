@@ -32,7 +32,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
-You can also check out my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
+You can also visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
 - Bible Recommendations
     - Leisure Reading (NLT/EXB)
@@ -195,11 +195,11 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox (PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
-|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>Dr. Scott Harrower (PhD, Ridley)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
+|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>Dr. Scott Harrower (PhD, Ridley)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem (PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby (PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper (DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
-|<a style="color:coral;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
+|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
 |<a style="color:darkred;" href="">Calvinism</a> (<a style="color:darkred;" href="https://sevenshepherd.github.io/election/#decrees">Supra.</a>)|🚫|
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫|
@@ -751,11 +751,7 @@ I am creating a [computer programming course for beginners](https://sevenshepher
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
 |Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction| -->
 
-<!-- # 8.3 Japanese (Natural Language)
-
-> Under construction -->
-
-# 8.4 Esperanto (Constructed Language)
+# 8.3 Esperanto (Constructed Language)
 
 Learning a second language can increase problem solving ability. According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
 
@@ -767,6 +763,15 @@ The world's most widely spoken and most successful constructed international aux
 |:-:|:-:|
 |Tim Owen & Judith Meyer|Complete Esperanto<br>*"Learn to read, write, speak and understand Esperanto (Teach Yourself)"*|
 |Esperanto Links|[Dictionary](https://glosbe.com/en/eo), [table words](https://esperanto12.net/en/tabelvortoj/), [phrases](http://esperanto-chicago.org/common-esperanto-phrases/), [names](http://esperanto-chicago.org/esperantizing-your-name/), [vikipedio](https://eo.wikipedia.org/), [lernu](https://lernu.net/), [duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSXYMDKXA7KAG64)|
+
+# 8.4 French & Japanese (Natural Languages)
+
+After one learns Esperanto, it's [propaedeutic value](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) should increase your ability to learn languages like french especially. Use music to get a feel for language.
+
+|||
+|:-:|:-:|
+|French|[Je te laisserai des mots](https://youtu.be/mcdO9UP0hp8?si=nYK6EpNo6Apja-OU)|
+|Japanese|[グッドバイ / Goodbye](https://youtu.be/e1pZIfretEs?si=bAaUR1DiSXRp-I6f)|
 
 <!--
 |||
@@ -857,7 +862,9 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
 
-<!-- > "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification) -->
+> "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification)
+
+> Wealth gained hastily will dwindle, but whoever gathers little by little will increase it. &mdash; Proverbs 13:11
 
 <!-- > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus -->
 

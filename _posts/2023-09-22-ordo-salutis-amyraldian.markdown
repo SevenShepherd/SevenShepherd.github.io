@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 6:05:00 -0500
+date: 2023-09-22 6:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -78,7 +78,7 @@ I—Irresistible Grace – The Holy Spirit applies the finished work of salvatio
 >
 P—Perseverance of the Saints – Those whom God has elected, atoned for, and efficaciously called are preserved in faith until the last day. They will never fall away because God has secured them with the seal of the Holy Spirit. The saints persevere because God preserves them.
 
-- <a name="altdistinctives" href="#contents" style="font-size:2.1em;">2.1 Alternative Distinctives</a>
+- <a name="altdistinctives" href="#contents" style="font-size:1.6em;">2.1 Alternative Distinctives</a>
 
     The following is a description of the difference between what Norman Geisler calls extreme Calvinism (hyper-calvinism), which is not to be confused with what he calls strong Calvinism (17th century scholastic Calvinism), and moderate Calvinism (Amyraldism). I don't think that Geisler is describing Amyraldism, but rather another form of Moderate Calvinism.
 
