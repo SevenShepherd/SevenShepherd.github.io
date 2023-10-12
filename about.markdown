@@ -741,9 +741,8 @@ Recreational mathematics like logic puzzles, and strategy board games like chess
 
 I am creating a [computer programming course for beginners](https://sevenshepherd.github.io/digital-discipleship/) as part of my digital discipleship program. I want to spread the Gospel message throughout the world more efficiently using technology and I need your help to do it.
 
-|||
+|Python Programming||
 |:-:|:-:|
-|**Programming**||
 |SevenShepherd|[SevenShepherd's Courses](https://sevenshepherd.github.io/digital-discipleship/)|
 |Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html)|
 
