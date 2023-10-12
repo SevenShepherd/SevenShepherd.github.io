@@ -34,10 +34,13 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I cr
 
 You can also check out my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
 
-- ESV Study Bible (Bible Study)
-- NET Full Notes (Textual Crit.)
-- [KJVP (Textual Crit.)](https://kjvparallelbible.org/)
-- NLT Filament (Leisure)
+- Bible Recommendations
+    - Leisure Reading (NLT/EXB)
+    - Memorization (ESV/[KJVP](https://kjvparallelbible.org/))
+    - Bible Study (ESVSB)
+    - Word Study (ESV Reverse/BDAG)
+    - Textual Crit. (NETFN/[KJVP](https://kjvparallelbible.org/))
+    - Software (LOGOS)
 - <a href="#theology">Theologically Moderate</a>
 - Soft-cessationist
 
@@ -287,7 +290,8 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |:-:|:-:|
 |**NT Textual Criticism**||
 |[Dr. Daniel B. Wallace<br>(Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)<br>June 5, 1952–Present|[▫️ Reinventing Jesus]()|
-|[Dr. Peter J. Gurry (Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[▫️ Myths and Mistakes]()|
+|[Dr. Peter J. Gurry<br>(Ph.D., Cambridge)](https://youtu.be/QKk5o0hNaPI)|[▫️ Myths and Mistakes]()|
+|[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[▫️ Authorized]()<br>[▫️ KJV Parallel Bible](https://kjvparallelbible.org/)|
 |||
 |**Divine Council Theory**<br>**OT Textual Criticism**||
 |[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin)](https://www.youtube.com/@DRMSH)<br>February 14, 1963–February 20, 2023|[▫️ The Unseen Realm]()|
@@ -368,9 +372,6 @@ Einstein stood on the shoulders of devout Christian minds, and while he was not 
 
 
 <!-- <br>Norman L. Geisler -->
-
-<!-- |[Mark Ward<br>(Ph.D., Bob Jones University)](https://www.youtube.com/@markwardonwords)|[▫️ Authorized]()| -->
-
 
 <!-- |Michael F. Bird (Ph.D., Queensland)<br>November 18, 1974-Present|[▫️ How God Became Jesus]()| -->
 
