@@ -182,10 +182,11 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 As far as my theology is concerned, I hold to the [&ldquo;Historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
-|Best Theology Books|Highly Recommended|
+|Best Theology Book|Highly Recommended|
 |:-:|:-:|
 |Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
-|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>1974 – Present|[▫️ Evangelical Theology]()|
+
+<!-- |Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>1974 – Present|[▫️ Evangelical Theology]()| -->
 
 When it comes to the distinctives of protestantism, I would describe myself as a moderate. Below I've selected the very best works on each respective subject to save you a great deal of time. I've also color coded them to represent what I think is closest to scripture.
 
@@ -194,7 +195,7 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox (PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
-|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;<br>--<br>Dr. Michael F. Bird (PhD, Queensland)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;|
+|<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#54C571;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>Dr. Scott Harrower (PhD, Ridley)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem (PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby (PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper (DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
