@@ -192,10 +192,12 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 
 <!-- See [article](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#contemporary) -->
 
+<!-- Dr. Scott Harrower (PhD, Ridley)<br> -->
+
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox (PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
-|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>Dr. Scott Harrower (PhD, Ridley)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
+|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem (PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby (PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper (DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
