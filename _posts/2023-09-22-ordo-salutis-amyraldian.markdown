@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 5:45:00 -0500
+date: 2023-09-22 5:55:55 -0500
 categories: salvation
 published: true
 ---
@@ -12,9 +12,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 1. <a href="#amyraldism">Amyraldism Is Moderate Calvinism</a>
 2. <a href="#distinctives">Distinctives of Amyraldism</a>
+    - 2.1 <a href="#altdistinctives">Alternate Distinctives</a>
 3. <a href="#decrees">The Order Of Decrees</a>
     - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
-    - 3.2 <a href="#geisler3.2">As delineated by Dr. Norman Geisler</a>
+    - 3.2 <a href="#fisher3.2">As delineated by Dr. Jeff Fisher</a>
+    - 3.3 <a href="#geisler3.3">As delineated by Dr. Norman Geisler</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
 5. <a href="#rejected">Rejections of Limited Atonement</a>
     - 5.1 <a href="#ChurchFathers">Church Fathers Reject Limited</a>
@@ -60,30 +62,44 @@ Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a mo
 <!-- I grew up in Calvary Chapels when they were under the watchful eye of Chuck Smith. After his death, things got complicated and there have been very few who've taken up the mantle correctly. -->
 
 
-<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives</a>
+<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives of Amyraldism</a>
 
+The following information was constructed from [gotquestions.org](https://www.gotquestions.org/Amyraldism.html).
 
-The following is a description of the difference between what Norman Geisler calls extreme Calvinism (hyper-calvinism), which is not to be confused with what he calls strong Calvinism (17th century scholastic Calvinism), and moderate Calvinism (Amyraldism).
+>
+T—Total Depravity – Man, in his fallen state, is completely incapable of doing any good that is acceptable to God.
+>
+U—Unconditional Election – As a result of man’s total depravity, he is unable (and unwilling) to come to God for salvation. Therefore, God must sovereignly choose those who will be saved. His decision to elect individuals for salvation is unconditional. It is not based on anything that man is or does but solely on God’s grace.
+>
+L—**Unlimited Atonement** – The particular point that Amyraldism denies is the third point, limited atonement. Amyraldism replaces it with unlimited atonement, or the concept of “hypothetical universalism,” which asserts that Christ died for the sins of all people, not just the elect. Amyraldism preserves the doctrine of unconditional election even while teaching unlimited atonement this way: because God knew that not all would respond in faith to Christ’s atonement (due to man’s total depravity), He elected some to whom He would impart saving faith.
+>
+I—Irresistible Grace – The Holy Spirit applies the finished work of salvation to the elect by irresistibly drawing them to faith and repentance. This saving call of the Holy Spirit cannot be resisted and is referred to as an efficacious call.
+>
+P—Perseverance of the Saints – Those whom God has elected, atoned for, and efficaciously called are preserved in faith until the last day. They will never fall away because God has secured them with the seal of the Holy Spirit. The saints persevere because God preserves them.
 
-|The Five Points|Extreme Calvinism|Moderate Calvinism|
-|:-:|:-:|:-:|
-|**T**otal Depravity|Intensive (Destructive)|Extensive (Corruptive)|
-|**U**nconditional Election|No condition for God or man|No condition for God; One condition for man (faith)|
-|**L**imited Atonement|Limited in extent (only for the elect)|Limited in result (but for all men)|
-|**I**rresistible Grace|In compulsive sense (against man's will)|In persuasive sense (in accordance with man's will)|
-|**P**erserverence of The Saints|No saint will die in sin|No saint will ever be lost (even if he dies in sin)|
+- <a name="altdistinctives" href="#contents" style="font-size:2.1em;">2.1 Alternative Distinctives</a>
 
-> We have already evaluated the extreme Calvinists’ understanding of T-U-L-I-P (in chapters 4 and 5). Here we simply note how a moderate Calvinist understands these five Calvinistic doctrines. 
->
-T—Total depravity is amply supported by Scripture in the moderate Calvinist sense. All the Scriptures used by extreme Calvinists are accepted by moderate Calvinists; the only difference is that moderates insist that being “dead” in sin does not mean that unsaved people cannot understand and receive the truth of the gospel as the Spirit of God works on their hearts. That is, it does not in effect erase the image of God (but only efaces it). 
->
-U—Unconditional election is also held by moderate Calvinists. It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. 156 
->
-L—Even limited atonement is affirmed by moderate Calvinists in the sense that it is limited in its application. That is, although redemption was purchased for all and is available to all, nonetheless, it will only be applied to those whom God chose from all eternity—the elect. 
->
-I—Irresistible grace is held by moderate Calvinists. Irresistible grace is exercised on all who are willing, as was stated in chapter 5. That is, anyone who is receptive to God’s work in his heart will be overwhelmed by His grace.
->
-P—Perseverance of the saints, too, is an essential part of moderate Calvinism. It affirms that all regenerate (justified) people eventually will be saved. This is supported by numerous Scriptures.
+    The following is a description of the difference between what Norman Geisler calls extreme Calvinism (hyper-calvinism), which is not to be confused with what he calls strong Calvinism (17th century scholastic Calvinism), and moderate Calvinism (Amyraldism). I don't think that Geisler is describing Amyraldism, but rather another form of Moderate Calvinism.
+
+    |The Five Points|Extreme Calvinism|Moderate Calvinism|
+    |:-:|:-:|:-:|
+    |**T**otal Depravity|Intensive (Destructive)|Extensive (Corruptive)|
+    |**U**nconditional Election|No condition for God or man|No condition for God; One condition for man (faith)|
+    |**L**imited Atonement|Limited in extent (only for the elect)|Limited in result (but for all men)|
+    |**I**rresistible Grace|In compulsive sense (against man's will)|In persuasive sense (in accordance with man's will)|
+    |**P**erserverence of The Saints|No saint will die in sin|No saint will ever be lost (even if he dies in sin)|
+
+    > We have already evaluated the extreme Calvinists’ understanding of T-U-L-I-P (in chapters 4 and 5). Here we simply note how a moderate Calvinist understands these five Calvinistic doctrines. 
+    >
+    T—Total depravity is amply supported by Scripture in the moderate Calvinist sense. All the Scriptures used by extreme Calvinists are accepted by moderate Calvinists; the only difference is that moderates insist that being “dead” in sin does not mean that unsaved people cannot understand and receive the truth of the gospel as the Spirit of God works on their hearts. That is, it does not in effect erase the image of God (but only efaces it). 
+    >
+    U—Unconditional election is also held by moderate Calvinists. It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. 156 
+    >
+    L—Even limited atonement is affirmed by moderate Calvinists in the sense that it is limited in its application. That is, although redemption was purchased for all and is available to all, nonetheless, it will only be applied to those whom God chose from all eternity—the elect. 
+    >
+    I—Irresistible grace is held by moderate Calvinists. Irresistible grace is exercised on all who are willing, as was stated in chapter 5. That is, anyone who is receptive to God’s work in his heart will be overwhelmed by His grace.
+    >
+    P—Perseverance of the saints, too, is an essential part of moderate Calvinism. It affirms that all regenerate (justified) people eventually will be saved. This is supported by numerous Scriptures.
 
 <a name="decrees" href="#contents" style="font-size:2.1em;">III. The Order Of Decrees</a>
 
@@ -93,7 +109,18 @@ P—Perseverance of the saints, too, is an essential part of moderate Calvinism.
 
 > In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of <span style="color:#3EA055;">**Sublapsarian Calvinism** [Moderate Calvinism]</span>. <span style="color:darkred;">**It differs from the Supralapsarian** [Hyper-Calvinism]</span> and <span style="color:#FBB917;">**Infralapsarian schemes** [Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And <span style="color:darkblue;">**it differs from the Arminian scheme** [Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup> ... <span style="color:#3EA055;">The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself</span> ... &mdash; Dr. Bruce Demarest (Ph.D., Manchester), The Cross and Salvation. p. 193.
 
-<a name="geisler3.2" href="#contents" style="font-size:1.6em;">3.2 As delineated by Dr. Norman Geisler</a>
+<a name="fisher3.2" href="#contents" style="font-size:1.6em;">3.2 As delineated by Dr. Jeff Fisher</a>
+
+The following is a chart from the book [Unlimited Atonement: Amyraldism and Reformed Theology]() on page 148.
+
+|Supralapsarian<br>(Before the Fall)|Infralapsarian<br>(After the Fall)|Amyraldianism|
+|:-:|:-:|:-:|
+|Elect some and condemn others|Create free humans|Create free humans|
+|Create the elect and the reprobate|Permit the fall|Permit the fall|
+|Permit the fall|Elect some and leave others condemned|Provide salvation for all through Christ's death|
+|Provide salvation for the elect through Christ's death|Provide salvation for the elect through Christ's death|Elect some to receive effectual grace|
+
+<a name="geisler3.3" href="#contents" style="font-size:1.6em;">3.3 As delineated by Dr. Norman Geisler</a>
 
 > The term supralapsarian is from the Latin supra (above) and lapsus (fall), meaning that God’s decree of election (predestination) is considered by supralapsarians to be above, or logically prior to, His decree to permit the Fall. Since infra means “below,” the infralapsarians consider God’s decree of election to be beneath, or logically after, His decree to permit the Fall. The sublapsarians (Amyraldians) <sup>9</sup> are similar to the infralapsarians, except they place God’s order to provide salvation before His order to elect (see Chafer, ST, 2.105). Wesleyans adhere to the same basic order as infralapsarians, except they hold that God’s election is based on His foreknowledge rather than simply in accord with it. Hence, for Wesleyans (Arminians), God’s decree is conditional instead of unconditional (which is maintained by the three Calvinistic views).
 >
@@ -103,7 +130,7 @@ P—Perseverance of the saints, too, is an essential part of moderate Calvinism.
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">IV. Ordo Salutis</a>
 
-The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration tends to be moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
+The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration is sometimes moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
@@ -298,7 +325,7 @@ The contemporary scholars listed below hold to **moderate** forms of Calvinism t
 |1953 – Present|Bruce A. Ware (Ph.D., Fuller Theological Seminary)|
 |1959? – Present|Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)<br>[▫️ The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)|
 |1961 – Present|Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)|
-|1974 – Present|Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>[▫️ Unlimited Atonement: Amyraldism and Reformed Theology]()<br>[▫️ Evangelical Theology]()|
+|1974 – Present|**Dr. Michael F. Bird**<br>(Ph.D., University of Queensland)<br>[▫️ Unlimited Atonement: Amyraldism and Reformed Theology]()<br>[▫️ Evangelical Theology]()|
 
 <!-- - Dr. Skip Heitzig (Ph.D., Trinity Southwest)
 - Dr. Jack Van Impe (Ph.D., Pacific)
