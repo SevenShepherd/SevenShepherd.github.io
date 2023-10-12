@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍💻 Computer Programming And Digital Discipleship"
-date: 2023-03-10 03:30:30 -0500
+date: 2023-03-10 03:35:30 -0500
 categories: digital computer programming python ministry
 published: true
 ---
@@ -11,7 +11,9 @@ published: true
 ## ⚠️ Under Construction
 **Refresh page for updates.**
 
-The goal is to create erudite thinkers capable of ministry automation.
+I am creating a computer programming course for beginners as part of my digital discipleship program. I want to spread the Gospel message throughout the world more efficiently using technology and I need your help to do it. 
+
+<!-- The goal is to create erudite thinkers capable of ministry automation. -->
 
 <!-- <span style="font-style:Italic;font-size:2em;">Computer Programming Courses</span> -->
 

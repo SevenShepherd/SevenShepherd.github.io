@@ -36,6 +36,7 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 
 - ESV Study Bible (Bible Study)
 - NET Full Notes (Textual Crit.)
+- [KJVP (Textual Crit.)](https://kjvparallelbible.org/)
 - NLT Filament (Leisure)
 - <a href="#theology">Theologically Moderate</a>
 - Soft-cessationist
@@ -62,7 +63,7 @@ You can also check out my custom programmed and automated X/Twitter based Christ
 <!-- - <a href="#science">VIII. Science & Mathematics</a> -->
 <!-- - <a href="#references">VII. Dictionaries & Lexicons</a> -->
 - <a href="#wisdom">VII. Wisdom & Philosophy</a>
-- <a href="#entertainment">VIII. Entertainment</a>
+- <a href="#hobbies">VIII. Hobbies & Recreation</a>
 <!-- - <a href="#hobbies">XI. Hobbies & Recreation</a> -->
 - <a href="#quotes">IX. Quotes</a>
 
@@ -669,6 +670,8 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 
 <!-- ## 🎹 Classical Piano -->
 
+The Mozart effect is also interesting to me, and I believe classical music can have beneficial effects on the human brain. Patients with epilepsy find a decrease in epileptiform activity while listening to Mozart’s K.448 and Piano Concerto No. 23 (K. 488). Tempo, structure, melodic and harmonic consonance and predictability are said to be the reason.
+
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
 |||
@@ -703,12 +706,9 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 |Dylan Thomas<br>27 October 1914 to 9 November 1953|[Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night)|
 |Camille Flammarion (Unknown), [Optical Illusions](https://en.wikipedia.org/wiki/List_of_optical_illusions), Origami, Haiku|[Flammarion engraving](https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg), [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram), [Haiku](https://youtu.be/dan5PntGO7E)| -->
 
-<a name="entertainment" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Entertainment</a>
+<a name="hobbies" href="#contents" style="font-style:Italic;font-size:2.1em">VIII. Hobbies & Recreation</a>
 
 <!-- ## ♟️ Entertainment -->
-
-There is nothing specifically Christian about this section, it's just a place to list my hobbies and recommendations.
-
 
 <!-- 
 |💬 Linguistics|[Mark Rosenfelder's The Language Construction Kit](https://libgen.is/book/index.php?md5=F4AF31E4599FA000CAA67DF361E87190)|-->
@@ -716,6 +716,8 @@ There is nothing specifically Christian about this section, it's just a place to
 <!-- <a name="languge" href="#contents" style="font-style:Italic;font-size:1.6em">12.3 Languages</a> -->
 
 # 8.1 Chess & Logic Puzzles
+
+Recreational mathematics like logic puzzles, and strategy board games like chess, have been shown to increase neuroplasticity. Obviously programming, mathematics, and physics would be extremely beneficial.
 
 |||
 |:-:|:-:|
@@ -729,23 +731,29 @@ There is nothing specifically Christian about this section, it's just a place to
 
 # 8.2 Computer Programming (Formal Language)
 
-Programming is so simple, that I don't think you really need books. Stick to the documentation and the random article. When I was young and still learning, sometimes I would just stare at the code and it would start to make sense. I started with C & Perl, but my favorite is Python.
+I am creating a [computer programming course for beginners](https://sevenshepherd.github.io/digital-discipleship/) as part of my digital discipleship program. I want to spread the Gospel message throughout the world more efficiently using technology and I need your help to do it.
 
 |||
 |:-:|:-:|
 |**Programming**||
+|SevenShepherd|[SevenShepherd's Courses](https://sevenshepherd.github.io/digital-discipleship/)|
 |Python Documentation|[Standard Library](https://docs.python.org/3/library/index.html), [Language Reference](https://docs.python.org/3/reference/index.html), [HOWTOs](https://docs.python.org/3/howto/index.html)|
-|Julien Danjou|[Serious Python (2018)](https://nostarch.com/seriouspython)<br>*"Black-Belt Advice on Deployment, Scalability, Testing, and More"*|
+
+<!-- |Julien Danjou|[Serious Python (2018)](https://nostarch.com/seriouspython)<br>*"Black-Belt Advice on Deployment, Scalability, Testing, and More"*|
 |Al Sweigart|[Beyond the Basic Stuff with Python (2020)](https://nostarch.com/beyond-basic-stuff-python)<br>*"Best Practices for Writing Clean Code"*|
-|Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction|
+|Ronald T. Kneusel|[Practical Deep Learning (2021)](https://nostarch.com/practical-deep-learning-python)<br>A Python-Based Introduction| -->
 
-# 8.3 Japanese (Natural Language)
+<!-- # 8.3 Japanese (Natural Language)
 
-> Under construction
+> Under construction -->
 
 # 8.4 Esperanto (Constructed Language)
 
-Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp).
+Learning a second language can increase problem solving ability. According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
+
+> Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). &mdash; [SevenShepherd](https://twitter.com/SevenShepherd)
+
+The world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
 
 |||
 |:-:|:-:|
