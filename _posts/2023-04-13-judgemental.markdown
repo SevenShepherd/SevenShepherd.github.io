@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🔨 The Paradoxical Irony of Accusing Others Of Being Judgemental Without Ever Being Personally Attacked Is An Admission Of Being Convicted By The Word Of God"
-date: 2023-09-01 03:55:00 -0500
+date: 2023-09-01 04:00:00 -0500
 categories: judgemental
-published: true
+published: false
 ---
 
 <!-- The Paradoxical Irony of Accusing Others of Judgmentalism Without Ever Being Personally Attacked -->

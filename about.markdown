@@ -26,7 +26,7 @@ permalink: /about/
 
 <!-- Hello and welcome, My name is... my name does not matter, but my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). To some, I am known as [SevenShepherd](https://twitter.com/SevenShepherd). Please feel free to look around, read articles, or contact me below.  -->
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). I created this blog as a temporary site while my ministry is being built. Please feel free to look around, read articles, or contact me below. 
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a computer programmer who likes to teach people [how to learn](https://en.wikipedia.org/wiki/Autodidacticism). I created this blog as a temporary site while my main website is being built. Please feel free to look around, read articles, or contact me below. 
 
 <!-- !!! In the year 2016, I undertook the task of architecting a bespoke, Python-based Christian ministry, specifically tailored for the Twitter platform, incorporating meticulous programming and automation. This endeavor has been marked by resounding success, running continuously since its inception and facilitated by a purpose-built raspberry pi single-board computer. I extend a cordial invitation to visit @SevenShepherd and witness firsthand the thriving outcome of this technological feat.  -->
 
