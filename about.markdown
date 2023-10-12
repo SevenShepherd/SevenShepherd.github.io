@@ -103,7 +103,7 @@ These highly recommended versions and studies push our understanding far beyond 
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[▫️ **ESV Study Bible**]()<br>[ESV Interlinear]()<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[▫️ **ESV Study Bible**]()|
 
 According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible.
 
@@ -113,8 +113,8 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 
 <!--  -->
 
-- [Dr. Ron Rhodes (Th.D., Dallas)]()
 - [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
 - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
 - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
@@ -126,7 +126,7 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[▫️ **NET Full Notes**]()<br>[EXB Expansions]()|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[▫️ **NET Full Notes**]()<br>[▫️ EXB Expansions]()|
 
 The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
 
