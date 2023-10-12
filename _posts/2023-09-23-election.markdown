@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆚 Lennox v. Grudem, Doctrine of Election"
-date: 2023-09-25 5:50:00 -0500
+date: 2023-09-25 5:55:00 -0500
 categories: election salvation predestination
 published: true
 ---
@@ -249,12 +249,12 @@ There is a simpler chart provided by R.C. Sproul, who simplifies the difference 
 |:-:|:-:|
 |Positive-negative|Positive-positive|
 |Asymmetrical view|Symmetrical view|
-|<span style="font-weight:bold;color:green;">Unequal ultimacy</span>|<span style="font-weight:bold;color:darkred;">Equal ultimacy</span>|
+|<span style="font-weight:bold;color:#FBB917;">Unequal ultimacy</span>|<span style="font-weight:bold;color:darkred;">Equal ultimacy</span>|
 |God passes over the reprobate|God works unbelief in the hearts of the reprobate.|
 
-> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:green;">5-point Scholastic Calvinist</span>
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
 
-> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:green;">5-point Scholastic Calvinist</span>
+> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
 
 
 - <a name="supra" href="#contents" style="font-size:1.6em">2.2 Why Supralapsarianism Doesn't Work</a>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 6:00:00 -0500
+date: 2023-09-22 6:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -17,6 +17,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
     - 3.2 <a href="#fisher3.2">As delineated by Dr. Jeff Fisher</a>
     - 3.3 <a href="#geisler3.3">As delineated by Dr. Norman Geisler</a>
+    - 3.4 <a href="#sproul3.4">As delineated by Dr. R.C. Sproul</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
 5. <a href="#rejected">Rejections of Limited Atonement</a>
     - 5.1 <a href="#ChurchFathers">Church Fathers Reject Limited</a>
@@ -127,6 +128,21 @@ The following is a chart from the book [Unlimited Atonement: Amyraldism and Refo
 <span style="color:darkred;">Supralapsarians are hypter-Calvinists, being double-predestinarians.</span> <sup>10</sup> <span style="color:#FBB917;">Infralapsarians are strong Calvinists but are not double-predestinarians.</span> <span style="color:#3EA055;">Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement</span>. Again, <span style="color:darkblue;">Wesleyans are Arminians, insisting that election is conditional, not unconditional.</span> Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
 >
 &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
+
+<a name="sproul3.4" href="#contents" style="font-size:1.6em;">3.4 As delineated by Dr. R.C. Sproul</a>
+
+There is a simpler chart provided by R.C. Sproul, who simplifies the difference between supralapsarianism and infralapsarianism into an asymmetrical and symmetrical view. It would seem that Hyper-Calvinism (supralapsarianism) is rightly rejected by all sides of the debate about God's decrees, because of the egregious violence it does to God's character in insinuating that He could possibly coerce sin.
+
+|Scholastic Calvinism (Infra.)|Hyper-Calvinism (Supra.)|
+|:-:|:-:|
+|Positive-negative|Positive-positive|
+|Asymmetrical view|Symmetrical view|
+|<span style="font-weight:bold;color:#FBB917;">Unequal ultimacy</span>|<span style="font-weight:bold;color:darkred;">Equal ultimacy</span>|
+|God passes over the reprobate|God works unbelief in the hearts of the reprobate.|
+
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. This does radical violence to the integrity of God’s character. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
+
+> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">IV. Ordo Salutis</a>
 
