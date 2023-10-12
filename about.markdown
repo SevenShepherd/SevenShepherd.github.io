@@ -329,12 +329,13 @@ Einstein stood on the shoulders of devout Christian minds, and while he was not 
 |Historical||
 |:-:|:-:|
 |**Greatest Minds**||
-|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*The greatest scientific mind the world has ever produced*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|**Sir Isaac Newton**<br><sub>***The First Great Unification***</sub><br>[*"The greatest scientific mind the world has ever produced"*](https://youtu.be/bUmULlGACEI?t=430)<br>4 January 1643 to 31 March 1727|[Mathematical Principles of Natural Philosophy](https://libgen.is/book/index.php?md5=BA740CBA836374FE312D2DE28FD52EBA)<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA --><br>(Philosophiæ Naturalis Principia Mathematica)<br>The Principia is considered one of the most important works in the history of science.|
+|**Gottfried Wilhelm Leibniz**<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
 |Michael Faraday<br>*The greatest self-taught experimental physicist, and one of the most influential scientists in history.*<br>22 September 1791 to 25 August 1867|[The Forces of Matter](https://libgen.is/book/index.php?md5=26502EDCD29C845C1F0DC11F5FCFCC10)<br>Albert Einstein kept a picture of Michael Faraday on his study wall, alongside pictures of Isaac Newton and James Clerk Maxwell at his apartment in Berlin, Germany.|
 |**James Clerk Maxwell**<br><sub>***The Second Great Unification***</sub><br>13 June 1831 to 5 November 1879|[A Dynamical Theory of the Electromagnetic Field (1865)](https://libgen.is/book/index.php?md5=FA9A11F22D01120E9699F82C4608D8BF), [A Treatise On Electricity and Magnetism - Volume I](https://libgen.is/book/index.php?md5=0BF9EB125D66D5AC0C2062816747B328), [A Treatise On Electricity and Magnetism.- Volume II](https://libgen.is/book/index.php?md5=CE93B0E22D3813E56449C9A020F238B4)|
 |Nikola Tesla<br>10 July 1856 to 7 January 1943|[My Inventions: The Autobiography of Nikola Tesla](https://libgen.is/book/index.php?md5=3FD79106539E13138672246484114234), [Experiments with Alternate Currents of High Potential and High Frequency](https://libgen.is/book/index.php?md5=508CD513C8D89B27C358AD52D13A86B7)|
 |**Albert Einstein**<br>*When asked if he stood on the shoulders of Newton, he replied “No, on the shoulders of Maxwell”*<br>14 March 1879 to 18 April 1955|[Relativity: The Special and the General Theory](https://libgen.is/book/index.php?md5=FCD0E79C06B6FE563B54AE82AF7CE7B0)<br> Einstein's theory of general relativity comprises the finalization of Newton’s assumption of gravitation and further encompasses Mach’s vision of the relativity of all motion; his theory of special relativity incorporates the finalization of the work of Maxwell and Lorentz.|
-|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|[On Formally Undecidable Propositions of Principia Mathematica and Related Systems](https://libgen.is/book/index.php?md5=D27D511F9AED79476A0E5514D8925809), <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|[On Formally Undecidable Propositions of Principia Mathematica and Related Systems](https://libgen.is/book/index.php?md5=D27D511F9AED79476A0E5514D8925809), <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems" style="color:#006699;">Gödel's incompleteness theorems</a>,<br><a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a><br>*"Kurt Gödel’s astonishing discovery and proof, published in 1931, that even in elementary parts of arithmetic there exist propositions which cannot be proved or disproved within the system, is one of the most important contributions to logic since Aristotle."*|
 
 <!-- |**Deist & Agnostic**||
 |Alan Mathison Turing<br>*The father of computer science*<br>23 June 1912 to 7 June 1954|[The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma](https://libgen.is/book/index.php?md5=B56A8683DE275FE993002F0207849A19)|
@@ -478,6 +479,8 @@ Einstein stood on the shoulders of devout Christian minds, and while he was not 
 
 The word philosophy comes from the Greek word philosophia (φιλοσοφία), which means 'love of wisdom'. There is some overlap in my metaphysical & epistemological views. Proverbs 16:16; James 1:5.
 
+> "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
+
 <!-- > Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence [[Aretē]](https://biblehub.com/greek/703.htm), if there is anything worthy of praise, think about these things. &mdash; Philippians 4:8 -->
 
 <!-- > Even Gentiles, who do not have God’s written law, show that they know his law when they instinctively obey it, even without having heard it. They demonstrate that God’s law is written in their hearts, for their own conscience and thoughts either accuse them or tell them they are doing right. &mdash; Romans 2:14-15 -->
@@ -488,7 +491,9 @@ The word philosophy comes from the Greek word philosophia (φιλοσοφία), 
 
 <!-- # Metaphysics (The Ultimate Structure of Reality) -->
 
-My metaphysical views will always be Christian first and foremost, but otherwise fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this harmonizes with a cosmology of higher spatial dimensions. There are only two forms of monism that I find interesting, the first is Leibniz's Monadology, and the other is Tegmark's [Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis). What I find interesting and what I believe, are two different things.
+My metaphysical views will always be Christian first and foremost, but otherwise fall within the ontological [mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem), more specifically <a href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism" style="color:#006699;">mind–body dualism</a>. I believe this harmonizes with a cosmology of higher spatial dimensions. 
+
+<!-- There are only two forms of monism that I find interesting, the first is Leibniz's Monadology, and the other is Tegmark's [Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis). What I find interesting and what I believe, are two different things. -->
 
 <!-- These conclusions will probably only be revealed by an artificial superintelligence or technological singularity. -->
 
@@ -514,21 +519,19 @@ Below you'll find some Christian as well as some secular works that seem to coin
 |Plato<br>428/427 – 348/347 B.C.|[Phaedo](https://youtu.be/7Dwev9R9wcs), [Republic](https://youtu.be/CqGsg01ycpk?t=11099)<br>*Classical Greek Philosophy & Platonism*<br>(Theory of forms, <a href="https://youtu.be/CqGsg01ycpk?t=11099" style="color:#006699;">Allegory of the cave</a>, Anamnesis)|
 |Thomas Aquinas<br>1225 to 7 March 1274|[Summa Theologica](https://libgen.is/book/index.php?md5=A4050540FB4E90B5091C432CEC5BD0A6)<br>*"Physics says nothing about where the laws of physics themselves come from. So the cosmological proof of Saint Thomas Aquinas concerning the First Mover or First Cause is left relevant even today."* &mdash; Dr. Michio Kaku, Professor of theoretical physics, The God Equation|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), Treatise of Man, Passions of the Soul<br>(Cartesian dualism)|
-|Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
-|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>|
-
-<!-- |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"| -->
-
-> "The mind is not a vessel to be filled, but a fire to be kindled." &mdash; Plutarch
-
-<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
-
-|||
-|:-:|:-:|
 |Edwin A. Abbott<br>20 December 1838 to 12 October 1926|[Flatland](http://library.lol/main/57A1C4C80AB126A6E8ABE316D8B6BDD0), [Flatland Explained](https://youtu.be/UnURElCzGc0)<br>Higher Dimensional Physics|
 |Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
 |Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
 |Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
+
+<!-- |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
+|Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>| -->
+
+<!-- |Max Tegmark<br>*MIT Professor, Physicist, cosmologist and machine learning researcher*<br>5 May 1967|[Ultimate Ensemble](https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)<br>A radical form of Platonism which asserts, that not only do all mathematical objects exist, but nothing else does. "Our external physical reality is a mathematical structure." That is, the physical universe is not merely described by mathematics, it IS mathematics. Observers, including humans, are "self-aware substructures (SASs)". In any mathematical structure complex enough to contain such substructures, they "will subjectively perceive themselves as existing in a physically 'real' world"| -->
+
+
+
+<!-- https://libgen.is/book/index.php?md5=9113ECF276020146CCE7DC37B53285BA -->
 
 <!-- |Dr. Paul A. LaViolette|[Secrets of Antigravity Propulsion](http://library.lol/main/ED3827CCAA48F5BD9A1BAF30A9128802)<br>Antigravity|
 |Kurzgesagt|[Stars](https://youtu.be/3mnSDifDSxQ), [Black Holes](https://youtu.be/0FH9cgRhQ-k)<br>Astronomy| -->
@@ -600,12 +603,14 @@ While I find sinicization to be dangerous, I also find it curious that In some C
 
 I've listed below several philosophies that resemble the built in virtues that are inherent to our design. While I am Christian only, I've provided a timeline for perspective.
 
+<!-- [Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854),  -->
+
 |||
 |:-:|:-:|
 |King David<br>1010 – 970 B.C.|[Psalms](https://youtu.be/KiSEnfyrepI)<br>Sapiential Wisdom Literature|
 |King Solomon<br>971 – 931 B.C.|[Proverbs](https://youtu.be/bupxWZkT8Mk), [Ecclesiastes](https://youtu.be/isbGMX_xNnY)<Br>Sapiential Wisdom Literature|
 |Aesop of Sardis<br>The Sage of Lydia<br>620 – 564 B.C.|[Aesop's Fables](https://www.gutenberg.org/files/19994/19994-h/19994-h.htm)<br>Archaic Greek Fabulist<br>(Childhood)|
-|Lao Tzu<br>6th Century B.C.|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)](https://youtu.be/wRnN_RBBCxI?t=854), [Tao Te Ching, Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html)<br>Ancient Chinese Philosophical Taoism|
+|Lao Tzu<br>6th Century B.C.|[Tao Te Ching (22, 27, 33, 42, 44, 56, 61, 68, 76, 81)<br>Translated by Gia-Fu Feng](https://terebess.hu/english/tao/gia.html)<br>Ancient Chinese Philosophical Taoism|
 |Socrates<br>470 – 399 B.C.|[Quotes](https://youtu.be/6pZl0GVjns4)<br>Classical Greek Philosophy<br>(The Socratic Method)|
 |**Christ Jesus**<br>*Yahweh made manifest in the line of King David as prophesied.*<br>4 B.C. – 30 A.D.|[Matthew, Mark, Luke,](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6) [John,](https://youtu.be/XeRJuK4hCKo) [Acts, Romans](https://libgen.is/book/index.php?md5=8EB63214335674D709BC873C9C1CEFE6)<br>Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός),<br>Followers of “The Way” (ἡ ὁδός - hė hodós)|
 |Lucius Annaeus Seneca the Younger<br>4 B.C. – 65 A.D.|Dialogues<br>[On the Shortness of Life](https://youtu.be/ABRN0E_mI0U), [Of Tranquillity of Mind](https://youtu.be/vl5WDfwY4PY), [Of a Happy Life](https://youtu.be/o2A-hgYqQio)<br>Hellenistic Greek & Roman Philosophy (Stoicism, Eudaimonia, Aretē, & Apatheia)|
@@ -621,7 +626,11 @@ My aesthetics views fall within mathematical and algorithmic beauty. Symmetry, t
 
 |||
 |:-:|:-:|
-|First Cause, Pantokrator, Monas Monadum<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)| 
+|First Cause, Pantokrator, Monas Monadum<br>-∞ to ∞|[Patterns In Nature](https://en.wikipedia.org/wiki/Patterns_in_nature), [Recursion](https://en.wikipedia.org/wiki/Fractal#Common_techniques_for_generating_fractals), [Julia set](https://en.wikipedia.org/wiki/Julia_set), [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)|
+|John Martin<br>19 July 1789 to 17 February 1854|[Sun to Stand Still](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), [Le Pandemonium Louvre](https://upload.wikimedia.org/wikipedia/commons/0/08/John_Martin_Le_Pandemonium_Louvre.JPG)|
+|Gustave Doré<br>6 January 1832 to 23 January 1883|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://uploads0.wikiart.org/images/gustave-dore/paradiso.jpg)|
+
+<!-- |Leonardo da Vinci<br>15 April 1452 to 2 May 1519|[The Lost Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg)| -->
 
 
 <!-- # Thought Experiments & Paradoxes 
@@ -696,9 +705,6 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 
 |||
 |:-:|:-:|
-|Leonardo da Vinci<br>15 April 1452 to 2 May 1519|[The Lost Battle of Anghiari](https://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg), [Salvatore Mundi](https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg), [Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg)|
-|John Martin<br>19 July 1789 to 17 February 1854|[Sun to Stand Still](https://upload.wikimedia.org/wikipedia/commons/4/42/John_Martin%2C_Joshua_Commanding_the_Sun_to_Stand_Still%2C_1827%2C_NGA_124846.jpg), [The Eve of the Deluge](https://upload.wikimedia.org/wikipedia/commons/d/d5/John_Martin_-_The_Eve_of_the_Deluge_-_WGA14146.jpg), [Le Pandemonium Louvre](https://upload.wikimedia.org/wikipedia/commons/0/08/John_Martin_Le_Pandemonium_Louvre.JPG)|
-|Gustave Doré<br>6 January 1832 to 23 January 1883|[Roland à Roncevaux](https://upload.wikimedia.org/wikipedia/commons/2/22/Gustave_Dor%C3%A9_-_Roland_%C3%A0_Roncevaux.jpg), [The Empyrean](https://www.wikiart.org/en/gustave-dore/the-empyrean), [Paradiso](https://uploads0.wikiart.org/images/gustave-dore/paradiso.jpg)|
 |Rudyard Kipling<br>30 December 1865 to 18 January 1936|[If](https://poets.org/poem/if)|
 |Robert Frost<br>March 26, 1874 to January 29, 1963|[Nothing Gold Can Stay](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679)|
 |E.E. Cummings<br>October 14, 1894 to September 3, 1962|[[anyone lived in a pretty how town]](https://www.poetryfoundation.org/poetrymagazine/poems/22653/anyone-lived-in-a-pretty-how-town)|
@@ -812,11 +818,11 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208
+<!-- > “Self-education is, I firmly believe, the only kind of education there is.” &mdash; Isaac Asimov Ph.D. Chemistry, Professor of Biochemistry, "Science Past, Science Future" (1975) p. 208 -->
 
 <!-- > "The only thing that interferes with my learning is my education." &mdash; Albert Einstein -->
 
-> "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894)
+<!-- > "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." &mdash; Oscar Wilde, A Few Maxims for the Instruction of the Over-Educated (1894) -->
 
 <!-- > "Learning is cheap, education is expensive." &mdash; <a href="https://twitter.com/naval" style="color:#0073e6;">Naval Ravikant</a> -->
 
@@ -836,25 +842,25 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > “Genius is the ability to independently arrive at and understand concepts that would normally have to be taught by another person.” &mdash; Immanuel Kant
 
-<!-- > “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci  -->
+> “Study without desire spoils the memory, and it retains nothing that it takes in.” &mdash; Leonardo da Vinci 
 
 <!-- > “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.” &mdash; Thucydides, History of the Peloponnesian War (ca 410 BC) -->
 
-<!-- > "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB -->
+> "Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men." &mdash; Proverbs 22:29 NASB
 
-<!-- > "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city." &mdash; Ecclesiastes 10:15 -->
+> "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city." &mdash; Ecclesiastes 10:15
 
 <!-- > "The crown of the wise is their riches: but the foolishness of fools is folly." &mdash; Proverbs 14:24 -->
 
-<!-- > "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23 -->
+> "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23
 
-<!-- > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3 -->
+> "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
 
 <!-- > "Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land." &mdash; Ecclesiastes 11:2 (Diversification) -->
 
 <!-- > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus -->
 
-<!-- > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus -->
+> “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
 
 <!-- > “If you are the smartest person in the room, then you are in the wrong room.” &mdash; Confucius -->
 
@@ -870,7 +876,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "Happiness in intelligent people is the rarest thing I know." &mdash; Ernest Hemingway -->
 
-<!-- > "For with much wisdom comes much sorrow, and as knowledge grows, grief increases." &mdash; Ecclesiastes 1:18 -->
+> "For with much wisdom comes much sorrow, and as knowledge grows, grief increases." &mdash; Ecclesiastes 1:18
 
 <!-- > "Depression is not a sign of weakness - it is a sign that you were trying to be strong too long" &mdash; Sigmund Freud -->
 
@@ -880,19 +886,21 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.” &mdash; H.P. Lovecraft -->
 
-<!-- > “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie -->
+> “The master has failed more times than the beginner has even tried.” &mdash; Stephen McCranie
 
-<!-- “I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.” &mdash; Marcus Aurelius, Meditations  -->
+> “I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.” &mdash; Marcus Aurelius, Meditations 
 
-<!-- > "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius -->
+> "All men suffer, but not all men pity themselves" &mdash; Emperor Marcus Aurelius
 
-<!-- > "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick -->
+> "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." &mdash; John Patrick
 
 <!-- > "Is all that we see or seem But a dream within a dream?" &mdash; Poe -->
 
-> “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams
+<!-- > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams -->
 
 <!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
+
+> &ldquo;Artful nature has given to the most perfect animal the same six limits as the cube has, most perfectly marked... Man himself is, as it were, a cube.&rdquo; &mdash; Kepler, Mysterium Cosmographicum. Claude Fayette Bragdon, A Primer Of Higher Space, The Fourth Dimension. p. 67.
 
 <!-- <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
