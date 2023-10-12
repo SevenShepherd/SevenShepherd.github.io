@@ -727,7 +727,7 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 
 # 8.1 Chess & Logic Puzzles
 
-Recreational mathematics like logic puzzles, and strategy board games like chess, have been shown to increase neuroplasticity. Obviously programming, mathematics, and physics would be extremely beneficial.
+Recreational mathematics like logic puzzles, and strategy board games like [chess](https://youtu.be/cDJXsPS5FPM), have been shown to increase neuroplasticity. Obviously programming, mathematics, and physics would be extremely beneficial.
 
 |||
 |:-:|:-:|
