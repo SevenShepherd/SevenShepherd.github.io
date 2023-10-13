@@ -196,12 +196,12 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 
 |Distinctive|Recommendation|
 |:-:|:-:|
-|<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox (PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
-|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird (PhD, Queensland)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem (PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby (PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper (DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
-|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden (PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
+|<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
+|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|**~15 Professors**<br>Dr. Michael F. Bird<br>(PhD, Queensland)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo;<br>--<br>[Dr. Carson (PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper<br>(DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
+|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden<br>(PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
 |<a style="color:darkred;" href="">Calvinism</a> (<a style="color:darkred;" href="https://sevenshepherd.github.io/election/#decrees">Supra.</a>)|🚫|
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫|
@@ -584,7 +584,7 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- # Ethics (Moral Philosophy) -->
 
-[My ethics views are Christian](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) and are derived from the gospels & epistles. Overtime I have observed the truth (Ro 2:15-16) written upon the hearts men; virtue ethics is rife with examples of human beings exhibiting their design, even when they were unaware of where it came from. I am reminded of how Paul, in Acts 17:16-34, converted many Stoics and Epicureans. 
+[My ethics views are Christian](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) and are derived from the gospels & epistles. Overtime I have observed the truth (Ro 2:15-16) written upon the hearts of men; virtue ethics is rife with examples of human beings exhibiting their design, even when they are unaware of where it comes from. I am reminded of how Paul, in Acts 17:16-34, converted many Stoics and Epicureans. 
 
 > <sup style="font-weight:bold;">22</sup>So Paul, standing before the council,* addressed them as follows: “Men of Athens, I notice that you are very religious in every way, <sup style="font-weight:bold;">23</sup> for as I was walking along I saw your many shrines. And one of your altars had this inscription on it: ‘To an Unknown God.’ This God, whom you worship without knowing, is the one I’m telling you about. &mdash; Acts 17:16–34 (22-23) NLT
 
@@ -754,11 +754,13 @@ I am creating a [computer programming course for beginners](https://sevenshepher
 
 # 8.3 Esperanto (Constructed Language)
 
+> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
+
 Learning a second language can increase problem solving ability. According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
 
 > Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). &mdash; [SevenShepherd](https://twitter.com/SevenShepherd)
 
-The world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
+Esperanto is the world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
 
 |||
 |:-:|:-:|
@@ -773,6 +775,21 @@ After one learns Esperanto, it's [propaedeutic value](https://en.wikipedia.org/w
 |:-:|:-:|
 |French|[Je te laisserai des mots](https://youtu.be/mcdO9UP0hp8?si=nYK6EpNo6Apja-OU)|
 |Japanese|[グッドバイ / Goodbye](https://youtu.be/e1pZIfretEs?si=bAaUR1DiSXRp-I6f)|
+
+<!-- As an aspiring Esperantist, I intend to utilize the constructed language <a href="https://en.wikipedia.org/wiki/Esperanto" style="color:#0073e6;">Esperanto</a> as a <a href="https://youtu.be/GWSZ1DKjNzY" style="color:#0073e6;">neural ramp</a> or springboard to better understand natural languages. -->
+
+The [Foreign Service Institute (FSI)](https://www.state.gov/foreign-language-training/) of the U.S. Department of State compiled learning expectations for the amount of time it takes a native english speaker to achieve proficiency with any given language. Languages are divided by difficulty into Categories I-IV.
+
+|||
+|:-:|:-:|
+|Category I (Easy)<br>24-30 weeks (600-750 class hours)|Danish, Dutch, **French (30)**, Italian, Norwegian, Portuguese, Romanian, **Spanish**, Swedish|
+|Category II (Moderate)<br>Approximately 36 weeks (900 class hours)|**German**, Haitian Creole, Indonesian, Malay, Swahili|
+|Category III (Hard)<br>Approximately 44 weeks (1100 class hours)|Albanian, Amharic, Armenian, Azerbaijani, Bengali, Bulgarian, Burmese, Czech, Dari, Estonian, Farsi, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Icelandic, Kazakh, Khmer, Kurdish, Kyrgyz, Lao, Latvian, Lithuanian, Macedonian, Mongolian, Nepali, Polish, **Russian**, Serbo-Croatian, Sinhala, Slovak, Slovenian, Somali, Tagalog, Tajiki, Tamil, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese|
+|Category IV (Super Hard)<br>88 weeks (2200 class hours)|Arabic, Cantonese (Chinese), Mandarin (Chinese), **Japanese**, Korean|
+
+According to a preliminary study, Esperanto led to a **50% improvement in French** language acquisition, 40% in English, **30% in German**, and 25% in Russian. If we look at French we can see that learning Esperanto first reduces the amount of time from 750 hours to 375 hours (a difference of 375 hours). German is also cut down from 900 hours to 630 hours (a difference of 270 hours). Together that's 645 hours saved, roughly the size of an enitre language, because of Esperanto.
+
+It's interesting to note that Esperanto can be learned in 150 hours. If we look at the amount of hours left in French, after accounting for the preliminary study, we find that 150 hours of Esperanto + 375 hours of French = 525 hours total. That's 2 languages in 225 hours less than French alone (750 hours).
 
 <!--
 |||
