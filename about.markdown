@@ -26,13 +26,19 @@ permalink: /about/
 
 <!-- Hello and welcome, My name is... my name does not matter, but my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). To some, I am known as [SevenShepherd](https://twitter.com/SevenShepherd). Please feel free to look around, read articles, or contact me below.  -->
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a computer programmer who likes to teach people [how to learn](https://en.wikipedia.org/wiki/Autodidacticism). I created this blog as a temporary site while my main website is being built. Please feel free to look around, read articles, or contact me below. 
-
-<!-- !!! In the year 2016, I undertook the task of architecting a bespoke, Python-based Christian ministry, specifically tailored for the Twitter platform, incorporating meticulous programming and automation. This endeavor has been marked by resounding success, running continuously since its inception and facilitated by a purpose-built raspberry pi single-board computer. I extend a cordial invitation to visit @SevenShepherd and witness firsthand the thriving outcome of this technological feat.  -->
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built. 
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
 
-You can also visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. 
+For several years I've owned, operated, and automated a small ministry of 60,000+ on social media in my spare time. You can visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below. 
+
+<!-- <sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets, 7.6m likes & retweets.</sup> -->
+
+<!-- 2016 - 2023 (1/08/23), 2,639,234 tweets, 7,597,960 likes & retweets, approximately 100 lifetimes. -->
+
+<!-- am a computer programmer who likes to teach people [how to learn](https://en.wikipedia.org/wiki/Autodidacticism).  -->
+
+<!-- !!! In the year 2016, I undertook the task of architecting a bespoke, Python-based Christian ministry, specifically tailored for the Twitter platform, incorporating meticulous programming and automation. This endeavor has been marked by resounding success, running continuously since its inception and facilitated by a purpose-built raspberry pi single-board computer. I extend a cordial invitation to visit @SevenShepherd and witness firsthand the thriving outcome of this technological feat.  -->
 
 - Bible Recommendations
     - Leisure Reading (NLT/EXB)
@@ -584,7 +590,7 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 
 <!-- # Ethics (Moral Philosophy) -->
 
-[My ethics views are Christian](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) and are derived from the gospels & epistles. Overtime I have observed the truth (Ro 2:15-16) written upon the hearts of men; virtue ethics is rife with examples of human beings exhibiting their design, even when they are unaware of where it comes from. I am reminded of how Paul, in Acts 17:16-34, converted many Stoics and Epicureans. 
+[My ethics views are Christian](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) and are derived from the Gospels & Epistles. Overtime I have observed the truth (Ro 2:15-16) written upon the hearts of men; virtue ethics is rife with examples of human beings exhibiting their design, even when they are unaware of where it comes from. I am reminded of how Paul, in Acts 17:16-34, converted many Stoics and Epicureans. 
 
 > <sup style="font-weight:bold;">22</sup>So Paul, standing before the council,* addressed them as follows: “Men of Athens, I notice that you are very religious in every way, <sup style="font-weight:bold;">23</sup> for as I was walking along I saw your many shrines. And one of your altars had this inscription on it: ‘To an Unknown God.’ This God, whom you worship without knowing, is the one I’m telling you about. &mdash; Acts 17:16–34 (22-23) NLT
 
@@ -732,7 +738,8 @@ Recreational mathematics like logic puzzles, and strategy board games like [ches
 |||
 |:-:|:-:|
 |Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
-|Nick de Firmian & Paul Van der Sterren|Modern Chess Openings (2008), Fundamental Chess Openings (2009)|
+|Paul Van der Sterren|Fundamental Chess Openings (2009)|
+|Nick de Firmian|Modern Chess Openings (2008)|
 |Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
 
 <!-- Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
@@ -754,13 +761,13 @@ I am creating a [computer programming course for beginners](https://sevenshepher
 
 # 8.3 Esperanto (Constructed Language)
 
-> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
-
 Learning a second language can increase problem solving ability. According to the [telescope rule](https://en.wikipedia.org/wiki/Constructed_language) it takes less time to first learn a simple constructed language and then a natural language, than to learn only a natural language. The [Sapir–Whorf hypothesis](https://www.youtube.com/embed/RKK7wGAYP6k), or Whorfianism, suggests that language affects our world views and perceptions, relative to ones native language.
 
-> Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). &mdash; [SevenShepherd](https://twitter.com/SevenShepherd)
+> "Thomson's Rule for First-Time Telescope Makers: "It is faster to make a four-inch mirror then a six-inch mirror than to make a six-inch mirror." &mdash; Programming Pearls, Communications of the ACM, September 1985
 
 Esperanto is the world's most widely spoken and most successful constructed international auxiliary language, and the only such language with a population of native speakers. Created by Polish ophthalmologist L. L. Zamenhof in 1887, it was intended to be a universal second language for international communication. According to the University of Manchester, the [propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto) raises language awareness and accelerates subsequent learning of foreign languages. Esperanto has approximately 2640 root words. The word esperanto translates into English as *"one who hopes"*.
+
+> Saluton kaj bonvenon, mi vidas, ke vi trovis mian blogon. Mi nomiĝas [Rajano](http://esperanto-chicago.org/esperantizing-your-name/), kaj mi ŝatas programi komputilojn, ludi pianon kaj lerni lingvojn. Mi ankaŭ lernas paroli [Esperanton](https://eo.wikipedia.org/wiki/Esperanto) flue, sed mi estas nur komencanto nuntempe. Mia filozofio estas konata kiel [aŭtodidaktismo](https://en-m-wikipedia-org.translate.goog/wiki/Autodidacticism?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=en&_x_tr_pto=wapp). &mdash; [SevenShepherd](https://twitter.com/SevenShepherd)
 
 |||
 |:-:|:-:|
@@ -925,6 +932,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 <!-- > “Normal is an illusion. What is normal for the spider is chaos for the fly.” — Charles Addams -->
 
 <!-- > “No man is free who is not master of himself.” &mdash; Epictetus -->
+
+<!-- > “A king may move a man, a father may claim a son, but that man can also move himself, and only then does that man truly begin his own game. Remember that howsoever you are played or by whom, your soul is in your keeping alone, even though those who presume to play you be kings or men of power. When you stand before God, you cannot say, ‘But I was told by others to do thus,’ or that virtue was not convenient at the time. This will not suffice. Remember that.” -->
 
 > &ldquo;Artful nature has given to the most perfect animal the same six limits as the cube has, most perfectly marked... Man himself is, as it were, a cube.&rdquo; &mdash; Kepler, Mysterium Cosmographicum. Claude Fayette Bragdon, A Primer Of Higher Space, The Fourth Dimension. p. 67.
 
