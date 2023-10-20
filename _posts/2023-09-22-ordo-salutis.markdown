@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:35:00 -0500
+date: 2023-10-19 1:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -329,7 +329,7 @@ Like the reformed theologians and lexicons suggest, it's not about knowing facts
 
 The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. Moving from facts of faith to the deeper inexplicable and enigmatic, emotional and intimate, hypothetical reciprocation of Love that has always defied logic, reason, and facts.
 
-A knowing so deep and trancendent that it is beyond knowing with the mind, upon which he elects. This is my theory. True love is always unconditional and reciprocal. Why do you think we're called the bride of Christ? Election should still be unconditional as far as his chosing upon the deeper aspects of the reciprocal relationship that exists outide the spatiotemproal limitations of the human mind. Maybe it's hypothetical like in amyraldianism but with the twist I've described.
+A knowing so deep and trancendent that it is beyond knowing with the mind, upon which he elects. This is my theory. True love is always unconditional and reciprocal. Why do you think we're called the bride of Christ? Election should still be unconditional as far as his chosing upon the deeper aspects of the reciprocal relationship that exists outide the spatiotemporal limitations of the human mind. Maybe it's hypothetical like in amyraldianism but with the twist I've described.
 
 This is a theory still under development.
 
