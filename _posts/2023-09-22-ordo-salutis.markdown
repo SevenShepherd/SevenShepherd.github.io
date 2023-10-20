@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:00:00 -0500
+date: 2023-10-19 1:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -42,7 +42,11 @@ Refresh weekly for updates.
 
 <!-- ![pisteuó](/assets/images/greek/) -->
 
-> For God so loved the world, that he gave his only begotten Son, that whosoever **believeth in** him should not perish, but have everlasting life. &mdash; John 3:16 KJV
+> “For God so loved the world, that he gave his only Son, that whoever **believes in** him should not perish but have eternal life.
+>
+For God so loved the world, that he gave his only begotten Son, that whosoever **believeth in** him should not perish, but have everlasting life. 
+>
+&mdash; John 3:16 ESV, KJV
 
 <!--  -->
 
@@ -90,9 +94,9 @@ We can also double check with the Greek-English Lexicon of the New Testament and
 
 <!-- >> β w. εἰς (cp. Hippol., Elench. 6, 19, 7 W. οἱ εἰς τὸν Σίμωνα καὶ τὴν Ἑλένην πεπιστευκότες; Just., D. 35, 8 al.) God (BGU 874, 11 π. εἰς τὸν θεόν): J 12:44b; 14:1a (cp. ET 21, 1910, 53–57; 68–70; 138f); 1 Pt 1:21 v.l.=Pol 2:1.—Christ: Mt 18:6; Mk 9:42; **J 2:11; 3:15 v.l., 16, 18a, 36; 4:39; 6:29, 35, 40, 47 v.l.;** 7:5, 31, 38f, 48; 8:30; 9:35f; 10:42; 11:25, 26a, 45, 48; 12:11, 36 (εἰς τὸ φῶς), 37, 42, 44a, 46; 14:1b, 12; 16:9; 17:20; Ac 10:43; 14:23; 18:8 D; 19:4; Ro 10:14a; Gal 2:16; Phil 1:29; 1 Pt 1:8; 1J 5:10a; AcPlCor 2:31; Hs 8, 3, 2.— εἰς τὸ ὄνομα Ἰησοῦ (or αὐτοῦ, etc.) J 1:12; 2:23; 3:18c; 1J 5:13 (s. ὄνομα 1dβ and s. 2aα above, end). π. εἰς τὸν θάνατον αὐτοῦ ITr 2:1. π. εἰς τὸ αἷμα Χριστοῦ ISm 6:1. -->
 
-A quick glance at [**Mounce**](https://sevenshepherd.github.io/practicing-sin/#mounce) reveals the following:
+<!-- A quick glance at [**Mounce**](https://sevenshepherd.github.io/practicing-sin/#mounce) reveals the following:
 
-> An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because **it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him.** See NIDNTT-A,367.
+> An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because **it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him.** See NIDNTT-A,367. -->
 
 <a name="james2:19" href="#contents" style="font-size:1.2em;">2.1.3 Teachings Of The Apostle James</a>
 
