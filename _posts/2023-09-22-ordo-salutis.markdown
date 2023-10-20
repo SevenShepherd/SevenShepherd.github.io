@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 2:00:00 -0500
+date: 2023-10-19 2:07:00 -0500
 categories: salvation
 published: true
 ---
@@ -325,9 +325,15 @@ by God from all eternity: to be made like His Son. Note how the words predestine
 
 Like the reformed theologians and lexicons suggest, it's not about knowing facts about whether someone will come to faith, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;, as Demarest alludes:
 
-> &ldquo;With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20)... The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo; &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+> ... &ldquo;With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20)... 
+>
+... the probable meaning of proginōskō with God as subject is to “know intimately” or “forelove.”... 
+>
+... The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo;...
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
 
-The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always been defied logic, reason, facts, choice, will or decision.
+The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
 
 A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen faith (arm.), but a deeper foreloveing by the heart he did foreknow.
 
