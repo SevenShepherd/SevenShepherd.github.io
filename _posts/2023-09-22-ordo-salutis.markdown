@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:20:00 -0500
+date: 2023-10-19 1:30:00 -0500
 categories: salvation
 published: true
 ---
@@ -218,7 +218,21 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 
 <a name="sanctify" href="#contents" style="font-size:1.6em;">2.3 Progressive Sanctification</a>
 
-Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). Therefore, Christ justifies no one whom he does not at the same time sanctify. See <a href="#golden">Golden Chain</a>. While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, this neither says that it &ldquo;includes&rdquo;, nor does this teach perfectionism or complete sanctification. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
+Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, it does not teach that it &ldquo;includes&rdquo; obedience, nor does it teach perfectionism. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
+
+> <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
+>
+<sup style="font-weight:bold;">15</sup> What then? **Shall we sin because we are not under law but under grace? Absolutely not!** &mdash; Romans 6:1-2,15 NET
+
+<!-- <a name="repentance" href="#contents" style="font-size:1.2em;">2.2.2 Repentance Is An Immediate Fruit Of Genuine Saving Faith</a> -->
+
+These verses prove that Christians do not pursue lifestyles of indulgent sin. We are not under the law, we are under grace, yet we still do not make a practice of sinning.
+
+1. We're not under the law (Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. We're under grace (Eph 2:8-10)
+3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
+
+*Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
