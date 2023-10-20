@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:10:00 -0500
+date: 2023-10-19 1:20:00 -0500
 categories: salvation
 published: true
 ---
@@ -18,7 +18,7 @@ published: true
         - 2.1.3 <a href="#james2:19">Teachings Of James</a>
     - 2.2 <a href="#saving">Saving Faith Is Salvific</a>
         - 2.2.1 <a href="#alone">By Grace Through Faith Alone</a>
-        - 2.2.2 <a href="#repentance">Repentance, An Immediate Fruit</a>
+        - 2.2.2 <a href="#repentance">Repentance (Immediate Fruit)</a>
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
