@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 2:07:00 -0500
+date: 2023-10-19 2:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -37,6 +37,8 @@ published: true
 <!-- SevenShepherd was originally a nickname to denote a perfect or ideal Shepherd, of course I had Christ in mind. The epithet "Unseen Shepherd" used for this article, plays into the fact that I don't desire to reveal who I am, I simply wish to share the truth with others.  -->
 
 After reviewing nearly all theologies for the past five-hundred years, I decided to create my own by taking only the most logical and sound aspects from each. I will attempt to construct my own theology in this article over time.
+
+While I quote historic protestants like Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I don't think either are good representatives of the first phase of the reformation, which was [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). My theology would be closer to the moderate positions of Amyraldianism, hypothetical universalism, and Reformed Wesleyanism, except with some alterations which I will describe throughout this article.
 
 <span style="font-size:1.2em;">⚠️ Under Construction</span>
 
@@ -333,7 +335,7 @@ Like the reformed theologians and lexicons suggest, it's not about knowing facts
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
 
-The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
+The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than the one-sided arbitrary choice of Calvinist theology. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
 
 A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen faith (arm.), but a deeper foreloveing by the heart he did foreknow.
 
