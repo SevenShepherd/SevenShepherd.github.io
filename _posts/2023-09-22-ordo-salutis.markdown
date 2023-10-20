@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:30:00 -0500
+date: 2023-10-19 1:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -24,6 +24,9 @@ published: true
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
+        - 3.1.2 <a href="#demarest">Demarest on Foreknow</a>
+        - 3.1.3 <a href="#studies">Studies on Foreknew</a>
+        - 3.1.4 <a href="#unique">My Unique Theory</a>
     - 3.2 <a href="#election">Predestination</a>
 
 <!-- 3. <a href="#decrees">The Order Of Decrees</a> -->
@@ -243,10 +246,112 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <a name="foreknew" href="#contents" style="font-size:1.6em;">3.1 Foreknowledge</a>
 
 ![Foreknowledge](/assets/images/greek/proginosko.png)
+<br><sup style="font-size:9px;color:grey;">Bauer-Danker-Arndt-Gingrich (BDAG)<sup>
 
 <a name="golden" href="#contents" style="font-size:1.2em;">3.1.1 The Golden Chain of Redemption</a>
 
 > <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
+
+<a name="demarest" href="#contents" style="font-size:1.2em;">3.1.2 Demarest on Proginṓskō</a>
+
+> We observe, first, that the foundation of the Christian’s calling to salvation is God’s prothesis, meaning “purpose,” “resolve,” or “decision” (Rom 9:11; Eph 1:11; 3:11; 2 Tim 1:9). The believer’s hope of future glory is grounded not in his own will but in the sovereign, pre-temporal purpose of God. 
+>
+The first of the aorist verbs in the passage is the word proginōskō, to “foreknow,” “choose beforehand.”<sup>111</sup> With humans as subject the word means to “know beforehand” (Acts 26:5; 2 Pet 3:17). With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20). The foundational verbs yâdaʻ and ginōskō often mean to “perceive,” “understand,” and “know.” But they also mean “to set regard upon, to know with particular interest, delight, affection, and action. (Cf. Gen 18:19; Exod 2:25; Ps 1:6; 144:3; Jer 1:5; Amos 3:2; Hos 13:5; Matt 7:23; 1 Cor 8:3; Gal 4:9; 2 Tim 2:19; 1 John 3:1).”<sup>112</sup> The verb ginōskō thus can convey God’s intimate acquaintance with his people, specifically the fact that they are “foreloved” or “chosen.” This latter sense is evident in the following Pauline sayings: “the man who loves God is known by God” (1 Cor 8:3); “but now that you know God—or rather are known by God” (Gal 4:9); and “the Lord knows those that are his” (2 Tim 2:19).
+>
+The verb proginōskō in Rom 8:29 and 11:2 contextually could be taken in either of the two senses, i.e., prescience or foreordination. But given the strongly relational Hebrew background to the word, the unambiguous sense of proginōskō in 1 Pet 1:20 (see below) and prognōsis in Acts 2:23 and 1 Pet 1:2 (see below), and the whole tenor of Paul’s theology, the probable meaning of proginōskō with God as subject is to “know intimately” or “forelove.”<sup>113</sup> F.F. Bruce concurs with this judgment. Concerning Rom 8:29, he wrote, “the words ‘whom he did foreknow’ have the connotation of electing grace which is frequently implied by the verb ‘to know’ in the Old Testament. When God takes knowledge of his people in this special way, he sets his choice upon them.”<sup>114</sup> To the preceding considerations we add that the biblical language of foreknowledge is always used of saints, never of the unsaved. Moreover, what God “foreknows” is the
+saints themselves, not any decision or action of theirs. Thus divine election is according to foreknowledge (foreloving), not simply according to foresight (prescience).
+> 
+Paul continues in the Romans text: “For those God foreknew he also predestined [proōrisen] to be conformed to the likeness of his Son . . .” (v. 29). The verb proōrizō, to “decide beforehand,” or “predestine,” occurs six times in the NT in the sense of God’s predetermined plan of salvation, Christ’s sufferings, or gracious election to life (Rom 8:29-30; 1 Cor 2:7; Eph 1:5, 11). Those on whom God in eternity past set his affection, he sovereignly chose for life. 
+>
+Return for a moment to the larger picture of the golden chain of salvation presented in Rom 8:29-30. The verbs “foreknew,” “predestined,” “called,” “justified,” and “glorified” are in the aorist tense, which denotes God’s prior determination marking these future events with certainty. Moreover the verbs gramatically are in exact sequence; thus if the election and the calling were exclusively corporate, so also would be the justification and the glorification. But God does not justify an empty class; he justifies individuals within the class who are moved to saving faith in Christ. Similarly, it is individuals who possess the Spirit (v. 23), who “groan inwardly” awaiting the day of glorification (v. 23), who exercise “hope” (v. 24), and who display patience (v. 25). Clearly these are spiritual experiences of individual Christians who, when considered aggregately, constitute the class of believers. Thus the focus of the circle of salvation is both corporate and individual.<sup>115</sup> ...
+>
+...The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+
+<a name="studies" href="#contents" style="font-size:1.2em;">3.1.3 Studies On Proginṓskō of Romans 8:29</a>
+
+> **προγινώσϰω** [πρό, γινώσϰω]—1. ‘know before about a matter of moment’—a.
+through personal familiarity, **be previously acquainted with Ac 26:5.—b**. through previous receipt of information, **already know about 2 Pt 3:17.—2**. ‘have in mind as part of a long-standing plan’, **have plans for, know before**, a deeply embedded Hebraic perception **1 Pt 1:20;** in **Ro 8:29; 11:2**, Isaiah 46:8–13 is the matrix for Paul’s use of π. expressing selection of God’s people with purposeful intent for them that awaits certain fulfillment. &mdash; Concise
+
+--
+
+> **proginṓskō, prógnōsis.** The verb means &ldquo;to know in advance,&rdquo; and in the NT it refers to God‘s foreknowledge as election of his people (Rom. 8:29; 11:2) or of Christ (1 Pet. 1:20), or to the advance knowledge that believers have by prophecy (2 Pet. 3:17). Another possible meaning is &ldquo;to know before the time of speaking,&rdquo; as in Acts 26:5. The noun is used by the LXX in Jdt. 9:6 for God‘s predeterminative foreknowledge and in Jdt. 11:19 for prophetic foreknowledge; Justin uses it similarly in Dialogue with Trypho 92.5; 39.2. &mdash; TDNT "Kittel"
+
+--
+
+> **FOREKNOW FOREKNOWLEDGE**
+New Testament
+>
+**Verb**: προγινώσκω (proginōskō) GK
+4589 (S 4267), 5x. proginosko means "to foreknow."
+>
+**Noun**: πρόγνωσις (prognōsis) GK 4590 (S 4268), 2x. prognosis means "foreknowledge." Two occurrences of the verb proginosko refer to human knowledge, namely, that someone "has known" some person or some Christian teaching "for a long time" (Acts 26:5;2 Pet. 3:17). The other three uses of the verb and the two uses of the noun refer to divine foreknowledge. Peter in his Pentecost message indicates that Jesus was delivered over to his enemies "by God's set purpose and foreknowledge" (Acts2:23).In fact, Jesus was divinely "chosen" to this task "before" the creation of the world (l Pet. 1:20). Peter also states that believers "have been chosen according to the foreknowledge of God" (l Pet. l:2). Paul emphasizes the same message, .that "those God foreknew
+he also predestined to be conformed to the image of his Son'? (Rom. 8:29; cf. also l1:2). We serve a God who knows all things and acts in accordance with his will.*
+>
+&mdash; MOUNCE'S Complete Expository Dictionary of Old and New Testament Words
+
+
+--
+
+> 8:29 foreknew. Perhaps “knew ahead of time” (see Acts 26:5; 2 Pet 3:17, where the same Greek word is used): God “foreknew” who would believe in him and so predestined them. But “know” probably has the biblical sense of “enter into relationship with” (see Gen 18:19; Jer 1:5; Amos 3:2, where the same Hebrew word is translated “chosen,” “knew,” and “chosen,” respectively): God chose to initiate a relationship with people “before the creation of the world” (Eph 1:4; cf. Rom 11:2; Acts 2:23; 1 Pet 1:2, 20) and on that basis “predestined” them. &mdash; NIV, Biblical Theology Study Bible
+
+--
+
+> ... Foreknew reaches back to the OT, where the word “know” emphasizes God’s special choice of, or covenantal affection for, his people (e.g., Gen. 18:19; Jer. 1:5; Amos 3:2). See Rom. 11:2, where “foreknew” functions as the contrast to “rejected,” showing that it emphasizes God’s choosing his people (see also 1 Pet. 1:2, 20). God also predestined (i.e., predetermined) that those whom he chose beforehand would become like Christ. &mdash; ESV Study Bible
+
+--
+
+> 8:29 God foreknew, which means simply “to know beforehand.” This has been interpreted by some as God’s free and merciful choice of certain people who would receive His gift of salvation. Those who hold this view contend that His knowledge of future events and people did not determine His choice (see 1 Pet. 1:2). Instead He chose those who would be saved out of His own free will. Others believe that in His wisdom, God knew beforehand those who would respond to Him in faith. According to both views, only God saves; people never earn salvation through any work. 
+>> **predestined**
+>>
+(Gk. proorizō) (8:29, 30; Acts 4:28; 1 Cor. 2:7; Eph. 1:5, 11)
+Strong’s #4309
+>>
+To predestine means “to mark out beforehand,” “to establish one’s boundary, or one’s limits, beforehand.” Our English word horizon is a derivative of this Greek word. The Christian’s ultimate destiny or horizon has been fixed
+by God from all eternity: to be made like His Son. Note how the words predestined, called, justified, and especially glorified in Rom. 8:29, 30 are in the past tense. That is because God, from His eternal perspective, sees this process as having been completed already. From God’s perspective, we have been glorified already because He sees us righteous because of the work of Jesus on the Cross. But still, in the march of time, we must undergo the process of being conformed to the image of God’s Son.
+>
+&mdash; NKJV Thomas Nelson Study Bible, Second Edition, Full-Color Edition
+
+--
+
+> 29: Foreknew . . . predestined, see Eph 1.4. Though from a human perspective God’s intention that humans be conformed to the image of God’s Son can be conceived as being prior in time, Paul affirms that there was never a moment when this was not God’s will. Firstborn, see v. 16–17; see also Col 1.15. 30: Glorified, is in the past tense, like “called” and “justified”; unlike v. 17, Paul sees temporality both from the human and divine perspective: though from our perspective being glorified is future, from God’s perspective it has already occurred since it is God’s will; see also v. 29n. &mdash; New Oxford Annotated (NOAB)
+
+--
+
+> 29: Cf. 1QS 3.15–16; 11.10–11,17–20; 1QH 1.7–8; CD 2.8. Foreknew, a characterization of God’s sovereignty over the future, and not on the existence of free choice among human beings; see 9.10–13n. Within a large family, lit., among many brothers (and sisters) (see translators’ note f). Jesus Christ is the firstborn of those who are raised from the dead (for non-Pauline expression of this idea, see Col 1.15,18). &mdash; The Jewish Annotated New Testament (TJANT)
+
+<a name="unique" href="#contents" style="font-size:1.2em;">3.1.4 My Unique Theory On Foreknowledge</a>
+
+Like the reformed theologians and lexicons suggest, it's not about knowing facts about whether someone will come to faith, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;, as Demarest alludes:
+
+> &ldquo;With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20)... The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo; &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+
+The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. Moving from facts of faith to the deeper inexplicable and enigmatic, emotional and intimate, hypothetical reciprocation of Love that has always defied logic, reason, and facts.
+
+A knowing so deep and trancendent that it is beyond knowing with the mind, upon which he elects. This is my theory. True love is always unconditional and reciprocal. Why do you think we're called the bride of Christ? Election should still be unconditional as far as his chosing upon the deeper aspects of the reciprocal relationship that exists outide the spatiotemproal limitations of the human mind. Maybe it's hypothetical like in amyraldianism but with the twist I've described.
+
+This is a theory still under development.
+
+<!-- If it's not about facts of forseen faith -->
+
+<!-- Is election based upon God's foreknowledge of our faith, or does God grant faith to those whom He elects unconditionally, and arbitrarily, without regard for foreseen human faith? What if the answer was neither? Where is the love in the one-sided arbitrary choice of Calvinist thelogy? Where is the lexicon support for the Arminian election by forseen faith?  -->
+
+<!-- What if instead it was not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time? This isn't based on anything intellectual so it should dodge the litmus test of the Calvinists, and it should also satisfy the Arminians since its only a slight alteration from facts of faith to the deeper more emotional and intimate hypothetical reciprocation of Love that has always defied logic, reason, and facts. -->
+
+<!-- It is the heart and not the mind. What could be more relational than faith (trust & reliance)? -->
+
+<!-- If this is the case, one could imagine that, this foreloving being reciprocated, not by what we do or by facts known, but by that deeper more profound connection to God that exists irrespective of time or fact based knowledge. A knowing deep down and trancendent beyond knowing with the mind, upon which he elects. This is my theory. -->
+
+<!-- How many of you chose your wives without reciprocation? It's deeper than arbitrary selection, reciprocation isn't a choice or an action, it's the inexplicable concept of reciprocal forelove.  -->
+
+<!-- Perhaps God grants faith to whom he would have forlove with. Why do you think we're called the bride of Christ? -->
+
+<!-- It can't be arminianism, because it's not based on forseen faith (facts of), nor works or anything like that. It's forknew relationally and reciprocally without facts of forseen faith. -->
+
+<!-- Agape is nice, but agape returned is better. -->
+
+<!-- If I could push my theory further, one could surmise something more amyraldian mixed with a touch of weslyanism. -->
 
 <a name="election" href="#contents" style="font-size:1.6em;">3.2 Predestination</a>
 
