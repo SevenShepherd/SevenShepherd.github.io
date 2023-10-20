@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 2:30:00 -0500
+date: 2023-10-19 2:35:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -335,7 +335,7 @@ Like the reformed theologians and lexicons suggest, it's not about knowing facts
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
 
-The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than the one-sided arbitrary choice of Calvinist theology. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
+The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will like in Arminianism, but instead something much more profound and deeper than the one-sided arbitrary choice of Calvinist theology. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
 
 A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen faith (arm.), but a deeper foreloveing by the heart he did foreknow.
 
