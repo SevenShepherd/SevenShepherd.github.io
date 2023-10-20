@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:50:00 -0500
+date: 2023-10-19 2:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -336,7 +336,7 @@ A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotempo
 - When has love ever been a choice?
 - When you're in love, you "just know," it's not about free will or decision.
 - This reciprocation was never a logical decision was it.
-- What could be more love based that trust and reliance resulting in obedience (saving faith)?
+- What could be more love based than trust and reliance resulting in obedience (saving faith)?
 
 This is a theory still under development. I feel as though if it were joined with hypothetical universalism or amyraldism, that it would reach a maximal theology.
 
