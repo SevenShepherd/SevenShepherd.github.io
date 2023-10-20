@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 2:15:00 -0500
-categories: salvation
+date: 2023-10-19 2:30:00 -0500
+categories: theology salvation
 published: true
 ---
 
@@ -180,7 +180,7 @@ Repentance an immediate fruit of genuine saving faith, and is defined as a turni
 
 <a name="living" href="#contents" style="font-size:1.2em;">2.2.3 Living Faith v. Dead Faith</a>
 
-James rejects salvation by dead faith (James 2:14-26). Put another way, James rejects salvation by superficial faith, because faith is the instrument on which we lay hold of grace. Paul tells us to test for genuine faith, or a living faith, because Christ lives in you (2 Cor. 13:5).
+James rejects salvation by dead faith (James 2:14-26). Put another way, James rejects salvation by superficial faith, because faith is the instrument by which we lay hold of grace. Paul tells us to test for genuine faith, or a living faith, because Christ lives in you (2 Cor. 13:5).
 
 <!-- There are two verses in the Bible that talk about the difference between a dead faith and a living faith. The first such instance is in James 2:14-26 where James implies that a *dead faith* is not the kind of faith that saves.  -->
 
@@ -344,6 +344,8 @@ A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotempo
 - When has love ever been a choice?
 - When you're in love, you "just know," it's not about free will or decision.
 - This reciprocation was never a logical decision was it.
+- How could something heartfelt (primary) be a human decision (secondary).
+- We were made in the image of God but both sides are stuck on the brain and not the heart or reciprocal love that transcends time.
 - What could be more love based than trust and reliance resulting in obedience (saving faith)?
 
 This is a theory still under development. I feel as though if it were joined with hypothetical universalism or amyraldism, that it would reach a maximal theology.
