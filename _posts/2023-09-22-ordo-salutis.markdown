@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 1:45:00 -0500
+date: 2023-10-19 1:50:00 -0500
 categories: salvation
 published: true
 ---
@@ -327,11 +327,20 @@ Like the reformed theologians and lexicons suggest, it's not about knowing facts
 
 > &ldquo;With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20)... The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo; &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
 
-The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. Moving from facts of faith to the deeper inexplicable and enigmatic, emotional and intimate, hypothetical reciprocation of Love that has always defied logic, reason, and facts.
+The only thing that I would alter is that this foreloving is reciprocal, not in the way of facts of forseen faith, or human free will, but instead something much more profound and deeper than one-sided arbitrary choice of Calvinist thelogy. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always been defied logic, reason, facts, choice, will or decision.
 
-A knowing so deep and trancendent that it is beyond knowing with the mind, upon which he elects. This is my theory. True love is always unconditional and reciprocal. Why do you think we're called the bride of Christ? Election should still be unconditional as far as his chosing upon the deeper aspects of the reciprocal relationship that exists outide the spatiotemporal limitations of the human mind. Maybe it's hypothetical like in amyraldianism but with the twist I've described.
+A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen faith (arm.), but a deeper foreloveing by the heart he did foreknow.
 
-This is a theory still under development.
+- Why do you think we're called the bride of Christ? 
+- How many of you chose your wives or husbands without reciprocation?
+- When has love ever been a choice?
+- When you're in love, you "just know," it's not about free will or decision.
+- This reciprocation was never a logical decision was it.
+- What could be more love based that trust and reliance resulting in obedience (saving faith)?
+
+This is a theory still under development. I feel as though if it were joined with hypothetical universalism or amyraldism, that it would reach a maximal theology.
+
+<!-- It's deeper than arbitrary selection, reciprocation isn't a choice or an action, it's the inexplicable concept of reciprocal forelove.   -->
 
 <!-- If it's not about facts of forseen faith -->
 
