@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ Théologie"
-date: 2023-10-19 1:15:00 -0500
+title: "⚜️ Theology"
+date: 2023-10-19 1:25:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -187,7 +187,7 @@ These quotations make clear that this teaching is sound, neither legalistic, nor
 
 <a name="repentance" href="#contents" style="font-size:1.2em;">2.2.2 Repentance Is An Immediate Fruit Of Genuine Saving Faith</a>
 
-Repentance an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
+Repentance is an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
 
 - Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/chuck-smith-repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
@@ -244,7 +244,7 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 
 <a name="dead" href="#contents" style="font-size:1.2em;">2.2.4 The False Assurance of a Dead Faith</a>
 
-False assurance can also be examined and avoided by understanding the following verses: Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5; Luke 6:46, and secondarily Rev 21:8; 22:15; Ro 1:29-32; Mt 7:21-23. False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
+False assurance can also be examined and avoided by understanding the following verses: Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5; Luke 6:46, and subsequently Rev 21:8; 22:15; Ro 1:29-32; Mt 7:21-23. False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
 
 > “Why do you call me ‘Lord, Lord,’ and not do what I tell you? &mdash; Luke 6:46
 
