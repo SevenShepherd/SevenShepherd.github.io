@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ My Theology"
-date: 2023-10-19 2:40:00 -0500
+title: "⚜️ Théologie"
+date: 2023-10-19 2:45:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -142,7 +142,7 @@ Jesus warning on the sermon on the mount taught that many would come to him in t
 
 > <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:green;">will enter the kingdom of heaven</span>, but <span style="color:green;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:darkred;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/ordo-salutis/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
 
-Here we can identify three three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
+Here we can identify three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
 
 1. &ldquo;did we not prophesy in your name&rdquo;
 2. &ldquo;and cast out demons in your name&rdquo;
@@ -243,7 +243,7 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 
 <a name="dead" href="#contents" style="font-size:1.2em;">2.2.4 The False Assurance of a Dead Faith</a>
 
-False assurance can also be examined and avoided by understanding the following verses: Mt 7:21-23; 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5, and secondarily Rev 21:8; 22:15; Ro 1:29-32. False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
+False assurance can also be examined and avoided by understanding the following verses: Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5; Luke 6:46, and secondarily Rev 21:8; 22:15; Ro 1:29-32; Mt 7:21-23. False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
 
 > “Why do you call me ‘Lord, Lord,’ and not do what I tell you? &mdash; Luke 6:46
 
