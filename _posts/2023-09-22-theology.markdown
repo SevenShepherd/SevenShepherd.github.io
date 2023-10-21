@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Théologie"
-date: 2023-10-19 2:45:00 -0500
+date: 2023-10-19 1:05:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -140,7 +140,7 @@ The elect are believers. This statement takes no stance on the conditionality or
 
 Jesus warning on the sermon on the mount taught that many would come to him in the last days saying &lsquo;Lord, Lord,&rsquo; these people come to Jesus fully assured that they belong to him, and he rejects them, thereby exposing their assurance as counterfeit. Let's examine why that is the case:
 
-> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:green;">will enter the kingdom of heaven</span>, but <span style="color:green;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:darkred;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/ordo-salutis/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:green;">will enter the kingdom of heaven</span>, but <span style="color:green;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:darkred;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
 
 Here we can identify three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
 
