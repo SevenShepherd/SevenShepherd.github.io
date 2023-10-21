@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ My Theology"
-date: 2023-10-19 2:35:00 -0500
+date: 2023-10-19 2:40:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -16,10 +16,12 @@ published: true
         - 2.1.1 <a href="#deduce">Deducing The Answer</a>
         - 2.1.2 <a href="#lexicons">Lexicons & Dictionaries</a>
         - 2.1.3 <a href="#james2:19">Teachings Of James</a>
+        - 2.1.4 <a href="#legal">False Assurance (Legalism)</a>
     - 2.2 <a href="#saving">Saving Faith Is Salvific</a>
         - 2.2.1 <a href="#alone">By Grace Through Faith Alone</a>
         - 2.2.2 <a href="#repentance">Repentance (Immediate Fruit)</a>
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
+        - 2.2.4 <a href="#dead">False Assurance (Dead faith)</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
@@ -134,6 +136,24 @@ Here is some logic to consider:
 
 The elect are believers. This statement takes no stance on the conditionality or unconditionality of election in this section.
 
+<a name="legal" href="#contents" style="font-size:1.2em;">2.1.4 Legalistic False Assurance</a>
+
+Jesus warning on the sermon on the mount taught that many would come to him in the last days saying &lsquo;Lord, Lord,&rsquo; these people come to Jesus fully assured that they belong to him, and he rejects them, thereby exposing their assurance as counterfeit. Let's examine why that is the case:
+
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:green;">will enter the kingdom of heaven</span>, but <span style="color:green;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:darkred;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/ordo-salutis/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+
+Here we can identify three three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
+
+1. &ldquo;did we not prophesy in your name&rdquo;
+2. &ldquo;and cast out demons in your name&rdquo;
+3. &ldquo;and do many mighty **works** in your name?&rdquo;
+
+These all seem to me, to be legalistic pleas. They are all appealing to God, their works, as a reason why they should be admitted into heaven. Instead they should have had "trust and reliance" upon God's grace through faith only. This is why it's important to teach &ldquo;resulting&rdquo; obedience to God instead of &ldquo;including&rdquo; obedience. **You cannot merit your own salvation, and if you rely on your own efforts you're doomed.**
+
+> Legalistic religion in all its forms should be avoided like the plague &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
+
 <a name="saving" href="#contents" style="font-size:1.6em;">2.2 Saving Faith Is Salvific</a>
 
 **I dedicated an entire [article](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) to this topic. Please [read](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) it.**
@@ -220,6 +240,12 @@ When you profess Christ truly, you walk as he walked. We're not saved by this wa
 We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). 
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
+
+<a name="dead" href="#contents" style="font-size:1.2em;">2.2.4 The False Assurance of a Dead Faith</a>
+
+False assurance can also be examined and avoided by understanding the following verses: Mt 7:21-23; 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5, and secondarily Rev 21:8; 22:15; Ro 1:29-32. False assurance speaks of &ldquo;those who are not saved, but have the assurance that they are saved.&rdquo;
+
+> “Why do you call me ‘Lord, Lord,’ and not do what I tell you? &mdash; Luke 6:46
 
 <a name="sanctify" href="#contents" style="font-size:1.6em;">2.3 Progressive Sanctification</a>
 

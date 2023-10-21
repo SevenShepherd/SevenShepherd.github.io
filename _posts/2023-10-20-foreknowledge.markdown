@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ My Unique Theory On Foreknowledge"
-date: 2023-10-20 1:00:00 -0500
+date: 2023-10-20 1:10:00 -0500
 categories: theology salvation
-published: true
+published: false
 ---
 
 A complete description of [my theology](https://sevenshepherd.github.io/ordo-salutis/) can be found [**here**](https://sevenshepherd.github.io/ordo-salutis/).
