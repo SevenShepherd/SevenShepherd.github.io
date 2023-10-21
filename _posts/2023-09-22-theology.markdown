@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Théologie"
-date: 2023-10-19 1:05:00 -0500
+date: 2023-10-19 1:15:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -23,6 +23,7 @@ published: true
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
         - 2.2.4 <a href="#dead">False Assurance (Dead faith)</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
+    - 2.4 <a href="#atonement">The Extent Of The Atonement</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
@@ -264,6 +265,14 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
 
 *Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
+
+<a name="atonement" href="#contents" style="font-size:1.6em;">2.4 The Extent Of The Atonement Is Unlimited</a>
+
+I recently composed [a small article](https://sevenshepherd.github.io/limited-atonement/) on why I reject limited atonement in favor of unlimited atonement. Please also see [Rejections of Limited Atonement](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected) in my article on Amyraldism.
+
+- The Bible does not support limited atonement (1 Jn 2:2, etc.)
+- St. Augustine and virtually every other church father did not hold to limited atonement.
+- Luther, & John Calvin himself did not hold to limited atonement either.
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
