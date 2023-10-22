@@ -47,7 +47,9 @@ For several years I've owned, operated, and automated a small ministry of 60,000
     - Word Study (ESV Reverse/BDAG)
     - Textual Crit. (NETFN/[KJVP](https://kjvparallelbible.org/))
     - Software (LOGOS)
-- <a href="#theology">Theologically Moderate</a>
+- <a href="#theology">Theologically Conservative</a>
+- <a href="#theology">Non-Denominational</a>
+- <a href="#theology">Moderate Distinctives</a>
 - Soft-cessationist
 
 <!-- - [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
@@ -184,11 +186,9 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <a name="theology" href="#contents" style="font-style:Italic;font-size:2.1em">III. Theology & Distinctives</a>
 
-<!-- <span style="font-style:Italic;font-size:2.1em;">Theology</span> -->
+I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/). I hold to the [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
-As far as my theology is concerned, I hold to the [&ldquo;Historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
-
-|Best Theology Book|Highly Recommended|
+|Highly Recommended|Best Theology Book|
 |:-:|:-:|
 |Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>1935–2021|[▫️ The Cross and Salvation]()|
 
@@ -204,7 +204,7 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 
 |Distinctive|Recommendation|
 |:-:|:-:|
-|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
+|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(PhD, Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
 |<a style="color:#12AD2B;" href="">Systemless</a>|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
