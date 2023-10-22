@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 1:50:00 -0500
+date: 2023-10-19 2:00:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -141,15 +141,15 @@ The elect are believers. This statement takes no stance on the conditionality or
 
 Jesus warning on the sermon on the mount taught that many would come to him in the last days saying &lsquo;Lord, Lord,&rsquo; these people come to Jesus fully assured that they belong to him, and he rejects them, thereby exposing their assurance as counterfeit. Let's examine why that is the case:
 
-> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:green;">will enter the kingdom of heaven</span>, but <span style="color:green;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:darkred;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:#009933;">will enter the kingdom of heaven</span>, but <span style="color:#009933;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:orangered;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
 
 Here we can identify three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
 
-1. &ldquo;did we not prophesy in your name&rdquo;
-2. &ldquo;and cast out demons in your name&rdquo;
-3. &ldquo;and do many mighty **works** in your name?&rdquo;
+1. <span style="color:orangered;">&ldquo;did we not prophesy in your name&rdquo;</span>
+2. <span style="color:orangered;">&ldquo;and cast out demons in your name&rdquo;</span>
+3. <span style="color:orangered;">&ldquo;and do many mighty **works** in your name?&rdquo;</span>
 
-These all seem to me, to be legalistic pleas. They are all appealing to God, their works, as a reason why they should be admitted into heaven. Instead they should have had "trust and reliance" upon God's grace through faith only. This is why it's important to teach &ldquo;resulting&rdquo; obedience to God instead of &ldquo;including&rdquo; obedience. **You cannot merit your own salvation, and if you rely on your own efforts you're doomed.**
+These all seem to me, to be legalistic pleas. They are all appealing to God, their works, as a reason why they should be admitted into heaven. Instead they should have had "trust and reliance" upon God's grace through faith only. This is why it's important to teach <span style="color:#009933;">&ldquo;resulting&rdquo; obedience</span> to God instead of <span style="color:orangered;">&ldquo;including&rdquo; obedience</span>. **You cannot merit your own salvation, and if you rely on your own efforts you're doomed.**
 
 > Legalistic religion in all its forms should be avoided like the plague &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
 
@@ -380,17 +380,17 @@ A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotempo
 
 - Why do you think we're called the bride of Christ? 
 - How many of you chose your wives or husbands without reciprocation? None that I know of.
-- When has love ever been a choice? You planned out how you were going to feel on saturday? No.
+- When has love ever been a pre-planned, scheduled event?
 - When you're in love, you "just know," it's not about free will or decision.
 - This reciprocation was never a logical decision was it.
 - How could something heartfelt (primary) be a human decision (secondary).
-- We were made in the image of God but both sides are stuck on the brain and not the heart or reciprocal love that transcends time.
-- What could be more love based than trust and reliance resulting in obedience (saving faith)?
+- We were made in the image of God but both sides are stuck on the brain instead of the heart where it should be (reciprocal love that transcends time).
+- What could be more love based than faith (trust and reliance)?
 - Foreknowledge is non-causative. I know the sun will rise tomorrow, have I caused it to happen? No. The culpability of those involved in Christ’s predestined crucifixion should demonstrate this (Acts 2:23 NET).
 - Foreknowledge of reciprocated love in genuine faith is not a work (Ro 4:5).
 - &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon
 
-This is a theory still under development. I feel as though if it were joined with hypothetical universalism or amyraldism, that it would reach a maximal theology.
+This is a theory still under development. I want to "marry" this idea with a hypothetical universalist system (Les hypothètiques) or amyraldianism. This is not an anti-free will theory per se, it just doesn't need it to satisfy the requirements.
 
 <!-- It's deeper than arbitrary selection, reciprocation isn't a choice or an action, it's the inexplicable concept of reciprocal forelove.   -->
 
