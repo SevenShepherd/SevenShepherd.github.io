@@ -48,7 +48,7 @@ For several years I've owned, operated, and automated a small ministry of 60,000
     - Textual Crit. (NETFN/[KJVP](https://kjvparallelbible.org/))
     - Software (LOGOS)
 - <a href="#theology">Theologically Conservative</a>
-- <a href="#theology">Non-Denominational</a>
+- <a href="#theology">Historic Protestant</a>
 - <a href="#theology">Moderate Distinctives</a>
 - Soft-cessationist
 
