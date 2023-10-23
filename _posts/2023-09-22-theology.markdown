@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 3:35:00 -0500
+date: 2023-10-19 3:45:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -248,7 +248,7 @@ False assurance can also be examined and avoided by understanding the following 
 
 > “Why do you call me ‘Lord, Lord,’ and not do what I tell you? &mdash; Luke 6:46
 
-These warnings were written to people who would be listening to the New Testament epistles as they were read aloud in New Testament Churches (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
+**These warnings were written to people** who would be listening to the New Testament epistles as they were read aloud **in New Testament Churches** (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
 
 <!-- > <sup style="font-weight:bold;">19</sup> Now the works of the flesh are evident: sexual immorality, impurity, sensuality, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, <sup style="font-weight:bold;">21</sup> envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God. &mdash; Galatians 5:19-21 ESV -->
 
