@@ -98,7 +98,7 @@ For several years I've owned, operated, and automated a small ministry of 60,000
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">I. Recommended Articles</span> -->
 
-- [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/). 
+- [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
