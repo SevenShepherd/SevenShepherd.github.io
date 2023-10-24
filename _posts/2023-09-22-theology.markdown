@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 5:00:00 -0500
+date: 2023-10-19 5:05:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -382,19 +382,15 @@ by God from all eternity: to be made like His Son. Note how the words predestine
 
 <a name="unique" href="#contents" style="font-size:1.2em;">3.1.4 My Unique Theory On Foreknowledge</a>
 
-Like the scholars and lexicons suggest, it's not about knowing facts, logic, reason, choices, will, or decisions of what someone will do or decide, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;.
+<!-- Like the scholars and lexicons suggest, it's not about knowing facts, logic, reason, choices, will, or decisions of what someone will do or decide, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;. -->
 
 Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position.
 
-> ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... 
->
-... the probable meaning of proginōskō with God as subject is **to “know intimately”** or “forelove.”... 
->
-... The NT frequently cites the very **close relationship** that exists **between God’s loving and his choosing** (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo;...
->
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+> ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... the probable meaning of proginōskō with God as subject is **to “know intimately”** or “forelove.”... The NT frequently cites the very **close relationship** that exists **between God’s loving and his choosing** (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo;... &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
 
-The only thing that I would alter is that this foreloving is prescient upon it's reciprocity, not in the way of facts of forseen faith, or human free will like in Arminianism, but instead something much more profound. Deeper also, than the one-sided arbitrary choice of Calvinist theology. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
+While I believe that all Protestants have members among the saved within the invisible Church, some of their theologies leave much to be desired:
+
+<!-- The only thing that I would alter is that this foreloving is prescient upon it's reciprocity, not in the way of facts of forseen faith, or human free will like in Arminianism, but instead something much more profound. Deeper also, than the one-sided arbitrary choice of Calvinist theology. Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
 
 A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen faith (arm.), but a deeper foreloving by the heart he did foreknow.
 
@@ -415,18 +411,21 @@ A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotempo
 - Notice how we are judged by the secrets of our hearts (Ro 2:16 NET, 1 Sam 16:7 NET; Ps 139:1-2 NLT; Jer 17:10 NLT).
 - &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon
 
-This is my conclusion. My conclusion seems to have no name, but it does acknowledge predestination (election not reprobation). It also does not require or play upon human free will or choice since that would be works. At the same time it is not an anti-free will theory per se, just that it isn't needed to satisfy the requirements of this scriptual puzzle. While this theory is still under development, I'd like to "marry" this idea with a hypothetical universalist system (Les hypothètiques) or amyraldianism. So in overview:
+This is my conclusion. My conclusion seems to have no name, but it does acknowledge predestination (election not reprobation). It also does not require or play upon human free will or choice since that would be works. At the same time it is not an anti-free will theory per se, just that it isn't needed to satisfy the requirements of this scriptual puzzle. While this theory is still under development, I'd like to "marry" this idea with a hypothetical universalist system (Les hypothètiques) or amyraldianism. So in overview: -->
 
-- 🚫 In Calvinist theology there's an arbitrary election of those to receive saving faith. Salvation, then, isn't based on faith alone, but by a random or arbitrary selection alone.
+- 🚫 In Calvinist theology there's an arbitrary election of those to receive saving faith. Salvation then, isn't based on faith alone, but by a random or arbitrary selection alone.
     - Hopefully you win the lottery. Good luck.
 - 🚫 In Arminian theology salvation is prescient upon human free will and decision. So then salvation is not by faith alone, but by works and decisions alone. 
     - Hopefully you don't have <a href="#legal">legalistic false assurance</a>.
-- 🚫 In modern neotheologies, like hypergrace or extreme forms of the 80s "free grace" movement, salvation is by blind faith (evidenceless), which can lead to <a href="#dead">the false assurance of a dead faith</a>. I view these teachings as flirting with the heresy of [antinomianism](https://sevenshepherd.github.io/antinomian-heresy/). They also twist [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/) away from its definition.
-- ✅ In my theology salvation is prescient upon reciprocated love within genuine saving faith. The heart change and disposition that makes faith genuine (beyond works or choice). So then salvation is neither by random selection nor by human decision, but instead salvation is by faith alone.
+- 🚫 In modern neotheologies, like hypergrace or extreme forms of the 80s "free grace" movement, salvation is by blind faith (evidenceless); these teachings flirt with the heresy of [antinomianism](https://sevenshepherd.github.io/antinomian-heresy/) and twist the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/).
+    - Hopefully you don't have the <a href="#dead">false assurance of a dead faith</a>.
+- ✅ In my theology salvation is prescient upon reciprocated forelove within the genuine dispositions of the heart and the fiducial nature of genuine saving faith. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith.
 
-The Calvinist can't be saved unless faith is given to him, the Arminian must make the decision, a choice, perform an action; my theology is neither, but focuses directly on the genuine dispositions of the heart like both groups technically do, but without the arbirtary election process, or human workings.
+<!-- - ✅ In my theology salvation is prescient upon reciprocated love within genuine saving faith. The heart change and disposition that makes faith genuine (beyond works or choice). So then salvation is neither by random selection nor by human decision, but instead salvation is by faith alone. -->
 
-My theory works irrespective of whether there is free will or not, and whether or not God grants faith or not. I am firmly historic Protestant, but moderate in the distinctives.
+<!-- The Calvinist can't be saved unless faith is given to him, the Arminian must make the decision, a choice, perform an action; my theology is neither, but focuses directly on the genuine dispositions of the heart like both groups technically do, but without the arbirtary election process, or human workings.
+
+My theory works irrespective of whether there is free will or not, and whether or not God grants faith or not. I am firmly historic Protestant, but moderate in the distinctives. -->
 
 <!-- I believe he does grant faith to the elect, it is simply my understanding of who is elect and how that differs. -->
 
