@@ -194,7 +194,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/). 
 
-> Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position.
+> Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position.
 
 Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
