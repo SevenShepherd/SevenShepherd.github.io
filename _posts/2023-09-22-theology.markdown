@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 6:12:00 -0500
+date: 2023-10-19 6:20:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -294,7 +294,7 @@ I recently composed [a small article](https://sevenshepherd.github.io/limited-at
 
 - The Bible does not support limited atonement (1 Jn 2:2, etc.)
 - St. Augustine and virtually every other church father did not hold to limited atonement.
-- Luther, & John Calvin himself did not hold to limited atonement either.
+- Luther & John Calvin did not hold to limited atonement either.
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
