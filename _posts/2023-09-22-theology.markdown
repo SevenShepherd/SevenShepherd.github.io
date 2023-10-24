@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 6:20:00 -0500
+date: 2023-10-19 6:25:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -292,9 +292,11 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 
 I recently composed [a small article](https://sevenshepherd.github.io/limited-atonement/) on why I reject limited atonement in favor of unlimited atonement. Please also see [Rejections of Limited Atonement](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected) in my article on Amyraldism.
 
-- The Bible does not support limited atonement (1 Jn 2:2, etc.)
+- The Bible does not support limited atonement
+    - 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9
 - St. Augustine and virtually every other church father did not hold to limited atonement.
 - Luther & John Calvin did not hold to limited atonement either.
+- Jonathan Edwards was likely a hypothetical universalist.
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
