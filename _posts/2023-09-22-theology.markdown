@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 4:35:00 -0500
+date: 2023-10-19 4:40:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -39,9 +39,13 @@ published: true
 
 <!-- SevenShepherd was originally a nickname to denote a perfect or ideal Shepherd, of course I had Christ in mind. The epithet "Unseen Shepherd" used for this article, plays into the fact that I don't desire to reveal who I am, I simply wish to share the truth with others.  -->
 
-After reviewing nearly all theologies for the past five-hundred years, I decided to create my own by taking only the most logical and sound aspects from each. I will attempt to construct my own theology in this article over time.
+I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side.
 
-While I quote historic protestants like Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I don't think either are good representatives of the first phase of the reformation, which was [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). My theology would be closer to the moderate positions of Amyraldianism, hypothetical universalism, and Reformed Wesleyanism, except with some alterations which I will describe throughout this article.
+> Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position.
+
+Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
+
+<!-- I don't think either are good representatives of the first phase of the reformation, which was [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). My theology would be closer to the moderate positions of Amyraldianism, hypothetical universalism, and Reformed Wesleyanism, except with some alterations which I will describe throughout this article. -->
 
 <span style="font-size:1.2em;">⚠️ Under Construction</span>
 
@@ -378,9 +382,7 @@ by God from all eternity: to be made like His Son. Note how the words predestine
 
 Like the scholars and lexicons suggest, it's not about knowing facts, logic, reason, choices, will, or decisions of what someone will do or decide, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;.
 
-<!-- Like the scholars and lexicons suggest, it's not about knowing facts about whether someone will come to faith, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo; generated hypothetically between God and those with a genuine faith (trust, reliance, and reciprocal love) irrespective of time. Demarest alludes: -->
-
-<!-- &ldquo;resulting&rdquo; obedience -->
+Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position.
 
 > ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... 
 >

@@ -98,7 +98,8 @@ For several years I've owned, operated, and automated a small ministry of 60,000
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">I. Recommended Articles</span> -->
 
-- [**This Is How You Know You're Saved**](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
+- [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/). 
+- [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
@@ -191,7 +192,11 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <a name="theology" href="#contents" style="font-style:Italic;font-size:2.1em">III. Theology & Distinctives</a>
 
-I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/). I hold to the [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) position. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
+I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/). 
+
+> Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position.
+
+Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
 |Highly Recommended|Best Theology Book|
 |:-:|:-:|
