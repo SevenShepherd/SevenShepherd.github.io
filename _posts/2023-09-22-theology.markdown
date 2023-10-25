@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 7:08:00 -0500
+date: 2023-10-19 7:12:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -293,7 +293,7 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 
 I recently composed [a small article](https://sevenshepherd.github.io/limited-atonement/) on why I reject limited atonement in favor of unlimited atonement. Please also see [Rejections of Limited Atonement](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected) in my article on Amyraldism.
 
-- The Bible does not support limited atonement.
+- The Bible does not support limited atonement:
     - 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 - St. Augustine and virtually every other church father did not hold to limited atonement.
 - Luther & John Calvin did not hold to limited atonement either.
@@ -501,7 +501,7 @@ My theory works irrespective of whether there is free will or not, and whether o
 
 <a name="edmund" href="#contents" style="font-size:1.2em;">3.1.5 Edmund Calamy's Hypothetical Universalism</a>
 
-The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes Calamy's unique hypothetical universalism, of which several exist. I think if my <a href="#unique">&ldquo;Precient Forelove View&rdquo;</a> was not an option I would probably default Calamy's. It is a slight alteration [Moïse Amyraut's Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7).
+The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes Calamy's unique hypothetical universalism, of which several exist. I think if my <a href="#unique">&ldquo;Precient Forelove View&rdquo;</a> was not an option I would probably default to Calamy's. It is a slight alteration [Moïse Amyraut's Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7).
 
 >
 **14.1.7 Hypothetical Universalism**
