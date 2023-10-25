@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 6:35:00 -0500
+date: 2023-10-19 6:45:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -264,7 +264,7 @@ False assurance can also be examined and avoided by understanding the following 
 
 Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
 
-> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
+> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
 
 The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
 
@@ -429,7 +429,7 @@ This is my conclusion. My conclusion seems to have no name, but it does acknowle
 - 🚫 In modern neotheologies, like extreme forms of the 80s "free grace" movement, salvation is by blind faith (evidenceless) and assent (which is delusional); these teachings flirt with the heresy of [antinomianism](https://sevenshepherd.github.io/antinomian-heresy/) and twist the meaning of [repentance](https://sevenshepherd.github.io/chuck-smith-repentance/).
     - Hopefully you don't have the <a href="#dead">false assurance of a dead or superficial faith</a>. -->
 
-While I believe that all Protestants have members among the saved within the invisible Church, some of their theologies leave much to be desired. In my theology salvation is prescient upon the fiducial nature of genuine saving faith. It answers the question of upon what is foreknowledge based, or foreknowledge of what? Reciprocated "forelove" via fiducia. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith.
+While I believe that all Protestants have members among the saved within the invisible Church, some of their theologies leave much to be desired. In my theology salvation is prescient upon the fiducial nature of genuine saving faith. It answers the question: &ldquo;what is foreknowledge based upon?&rdquo;, or &ldquo;foreknowledge of what?&rdquo; Reciprocated "forelove" via fiducia. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith.
 
 <!-- In my theology salvation is prescient upon reciprocated forelove within the genuine dispositions of the heart and the fiducial nature of genuine saving faith. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith. -->
 

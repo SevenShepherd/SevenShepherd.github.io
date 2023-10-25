@@ -215,11 +215,11 @@ When it comes to the distinctives of protestantism, I would describe myself as a
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(PhD, Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
-|<span style="color:#12AD2B;">Systemless</span> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford DSc; Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
+|<span style="color:#12AD2B;">Systemless</span> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford; DSc, Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a>|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper<br>(DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a>|Dr. Thomas C. Oden<br>(PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
+|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper<br>(DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
 |<a style="color:darkred;" href="">Calvinism</a> (<a style="color:darkred;" href="https://sevenshepherd.github.io/election/#decrees">Supra.</a>)|🚫|
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫|
