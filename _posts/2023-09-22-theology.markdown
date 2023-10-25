@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 6:45:00 -0500
+date: 2023-10-19 7:00:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -386,6 +386,8 @@ by God from all eternity: to be made like His Son. Note how the words predestine
 <a name="unique" href="#contents" style="font-size:1.2em;">3.1.4 My Unique Theory On Foreknowledge</a>
 
 <!-- Like the scholars and lexicons suggest, it's not about knowing facts, logic, reason, choices, will, or decisions of what someone will do or decide, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;. -->
+
+***The Precient Forelove View***
 
 Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position.
 
