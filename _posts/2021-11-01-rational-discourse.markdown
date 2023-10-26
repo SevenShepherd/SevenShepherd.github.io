@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 12:35:00 -0700
+date: 2021-11-01 1:00:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -187,13 +187,193 @@ Now imagine the reaction of this pure, holy, and limitless God, as he watches th
 
 Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character. 
 
-<!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
+> Do not [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) by appearances, but [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) with right judgment. &mdash; John 7:24
+
+<!-- The Bible Is Clear, If You Hate And Slander Other Believers, You Do Not Belong To God. -->
+
+<!-- If You Say That You Are Christian But You Hate And Slander Other Believers You're By Definition Fake -->
+
+<!-- ⚡ -->
+
+<!-- “With their words, the godless destroy their friends, but knowledge will rescue the righteous.” — Proverbs 11:9" -->
+
+<!-- If anyone is attacking and slandering people in the church, bearing false witness, calling them a liar when they don't know them, or spreading gossip and damaging others reputation, then they should be removed. -->
+
+<!-- this righteous judgement is directed toward you. For those of you not doing this to others, you can all see the proper application of a righteous rebuke. This is my rebuke of the slanderer and the judgemental hypocrite. -->
+
+> It isn’t my responsibility to judge outsiders, but **it certainly is your responsibility to [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) those inside the church who are sinning**. God will [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) those on the outside; but as the Scriptures say, **“You must remove the evil person from among you.”** 1 Cor. 5:12-13 NLT
+
+
+<!-- Don't judge [hypocritically](https://youtube.com/shorts/DtVwpbNWwIo?feature=share), judge with right judgement. We should correct and admonish with gentleness (2Tim 2:25) but not weakness. <span style="font-weight:bold;color:orangered">You must give people the benefit of the doubt until you can verify what they are doing;</span> otherwise, if you believe lying rumors and accuse someone of something they haven't done, and then try to rebuke them for it, you become a partaker in the slander, false witness, and lies. -->
+
+<!-- If you accuse someone of being judgemental and they have never personally attacked you, then you have become [the very thing that you hate](https://youtube.com/shorts/DtVwpbNWwIo?feature=share).  -->
+
+
+<!-- <span style="font-size:2.1em;">An Admonition To Slanderers In The Church</span> -->
+
+**All those who claim to be "Christian," but hate and slander other believers;** the Bible rightly calls <a href="#lying">godless<sup>1</sup></a>, <a href="#lying">liars<sup>1</sup></a>, and <a href="#doomed">children of the devil<sup>5</sup></a>. The Holy Bible specifically states that we can tell who belongs to God and who belongs to the devil, by simply observing their behavior toward other Christians overtime.
+
+<!-- [liars](https://sevenshepherd.github.io/god-is-love/) -->
+
+
+> <sup style="font-weight:bold;">10</sup> So now <span style="font-weight:bold;color:red;">we can tell</span> who are children of God and <span style="font-weight:bold;color:red;">who are children of the devil</span>. <span style="font-weight:bold;"><span style="font-size:1.4em;">Anyone</span> who does not live righteously<span style="font-weight:normal;color:#A8A8A8;">[<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE">dikaiosynē</a>]</span> and does not love<span style="font-weight:normal;color:#A8A8A8;">[<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE">agapaō</a>]</span> other believers does not belong to God</span>. &mdash; 1 John 3:10
+
+The Bible gives a clear warning to all those who practice strife, rivalries, dissensions, and divisions, that they will not <a href="#fruit">inherit the Kingdom of God<sup>3</sup></a>. If a Christian's life is devoid of the <a href="#fruit">fruit of the Holy spirit<sup>3</sup></a>, and they are practicing the works of the flesh continually, they have very likely <a href="#genuine">deceived themselves<sup>4</sup></a> into believing that they have Genuine faith.
+
+> <sup style="font-weight:bold;">21</sup> ... Let me tell you again, as I have before, that <span style="font-weight:bold;"><span style="font-size:1.4em;">anyone</span> living that sort of life will not inherit the Kingdom of God.</span> &mdash; Gal. 5:19-21b
+
+<!-- If you do not cease your relentless assault on true believers<sup><a href="#doomed">5</a></sup>, your -->
+
+The eternal destiny of all those who do not inherit the Kingdom of God is devastating. Do not be <a href="#genuine">self-deceived<sup>4</sup></a>, use scripture to recognize if you have <a href="#genuine">failed the test of Genuine faith.<sup>4</sup></a> There is a lake which burns with fire and brimstone<sup><a href="#brimstone">6</a></sup>; where the worm dies not and the fire is not quenched<sup><a href="#hell">7</a></sup>, and the smoke of the torment of those who end up their will ascend up for ever and ever<sup><a href="#hell">7</a></sup>. Be sure that this isn't you.
+
+> ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced)
+
+As [every authoritative Greek lexicon](https://sevenshepherd.github.io/chuck-smith-repentance/) reveals, repentance means *“feel remorse, repent, be converted” (in religio-ethical sense)*, it is a contrition that leads to a turning away from sin (repentance), and a turning to God (faith); repentance is not an attrition that only produces a worldly sorrow and an intellectual assent to facts (James 2:19).
+
+> For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death. &mdash; 2 Corinthians 7:10 ( cf. 8–13)
+
+If this article describes you, please <a href="#turn">repent and turn away<sup>2</sup></a> from this wickedness and recognize the there is a strong possibility that you've made a false profession (2Pe 2:21-22). All sins can be forgiven men except [blasphemy against the Holy Spirit](https://carm.org/about-the-holy-spirit/what-is-blasphemy-of-the-holy-spirit/) (Matt. 12:31-32; Mk 3:28–29; Heb. 6:4-8; 10:26-31).
+
+<!-- > “Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin” &mdash; Mark 3:28–29 ESV -->
+
+> Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; <a href="#packer">Dr. J. I. Packer (Ph.D., University of Oxford). 88. UNPARDONABLE SIN - **Only Impenitence Cannot Be Forgiven**</a>
+
+Make sure your spirit is of God (Phil. 2:3; 1Thess. 5:11). Repent for the Kingdom of Heaven is at hand (Matt. 3:2, 4:17; Mk 1:15; Lk 15:7). Pastors, you need to place safeguards in your churches to protect the true believers in your congregation who are under assault by the enemy.
+
+
+<!-- Stay away from believers demon, unless you repent and turn (Ac 3:19; 26:20; Mt 3:2,8) from your wickedness and false professions (2Pe 2:21-22). -->
+
+<!-- To all of you who make a mockery of fellowship and attack the innocent who are struggling to do what is right. -->
+
+<!-- That is who your father truly is, the father of lies, false witness, fakes, and slanderers. Stay away from believers demon, unless you repent and turn (Ac 3:19; 26:20; Mt 3:2,8) from your wickedness and false professions (2Pe 2:21-22). -->
+
+<!-- > "With their words, the godless destroy their friends, but knowledge will rescue the righteous." &mdash; Proverbs 11:9 -->
+
+<!-- If a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21), they have likely deceived themselves (James 1:22) into believing that they have genuine faith (2Cor. 13:5).  -->
+
+<!-- Don't you know that the Bible describes those who constantly find fault with others and speak maliciously about them (Ro 1:30) as deserving death (Ro 1:32)? The Bible gives a clear warning to those who practice strife, rivalries, dissensions, and divisions that they will not inherit The Kingdom of God (Gal. 5:19-21). That those who abuse the Grace of our God are those marked out for condemnation long ago (Jd 4 NET). -->
+
+<!-- If you do not cease your assault on true believers (Heb. 10:26-31; Ro 6:1-2; 1Jn 3:9-10), your eternal destiny is the lake which burns with fire and brimstone (Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5; Mt 7:21,23). Where the worm dies not and the fire is not quenched (Mk 9:48), and the smoke of your torment ascends up for ever and ever (Rv. 14:11 KJV). -->
+
+<!-- > <sup style="font-weight:bold;">1</sup> “Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the Lord. <sup style="font-weight:bold;">2</sup> Therefore thus says the Lord, the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil deeds, declares the Lord. <sup style="font-weight:bold;">3</sup> Then I will gather the remnant of my flock out of all the countries where I have driven them, and I will bring them back to their fold, and they shall be fruitful and multiply. <sup style="font-weight:bold;">4</sup> I will set shepherds over them who will care for them, and they shall fear no more, nor be dismayed, neither shall any be missing, declares the Lord. -->
+
+<!-- > <sup style="font-weight:bold;">1</sup> **Woe be unto the pastors that destroy and scatter the sheep of my pasture!** saith the Lord. <sup style="font-weight:bold;">2</sup> Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, **I will visit upon you the evil of your doings**, saith the Lord &mdash; Jeremiah 23:1-2 -->
+
+<!-- Without a caring shepherd, the sheep are scattered and left vulnerable to predators. Pastors, why do you allow this injustice in the house of God? Remove the evil within your church or God will vist upon you the evil of your doings. It is in fact your job to remove the evil person (1 Cor. 5:12-13 NLT) even if they are leading your ministry in worship. -->
+
+<!-- Antinomian hypocrite, don't you understand that abusing God's grace is heresy (Jd 4 NET; Ro 6:1-2; Heb 6:4-6; 10:26-31; 1Jn 2:3-6, 3:9-10)? Ignorant one, have you not considered that if a Christian's life is devoid of the fruit of the Holy spirit (Gal 5:22-23), and instead is full of the works of the flesh (Gal. 5:19-21) that you will not inherit the kingdom of God? -->
 
 > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19
 
+|||
+|:-:|:-:|
+|Rebuke that person even if they believe|Lk 17:3-4|
+|Don't even eat with such a person. Remove the evil person from among you.|1 Cor. 5:11-13 NLT|
+|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
+|Do not associate with the slanderer.|Proverbs 20:19|
+|Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
+|God will destroy the slanderer.|Psalm 101:5|
+|**Whoever utters slander is a fool.**|Proverbs 10:18|
+|By gossip a troublemaker separates the best of friends.|Proverbs 16:28 NLT|
+|Every careless word will be judged.|Matthew 12:36|
+|By speaking evil of others, you judge God's law.|James 4:11-12|
+|Evil words come from an evil heart.|Lk 6:45 NLT|
+|Those who endure persecution will receive the crown of life.|James 1:12|
+|Insulting others has dire consequences.|Matthew 5:22|
+
+<!-- > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19 -->
+
+
+<!-- > “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science -->
+
+<!-- |An admonition to false teachers.|Jeremiah 23:1-3| -->
+
+<!-- 
+
+|Christ|Satan|
+|:-:|:-:|
+|Savior & Truth<br>2 Pe 1:1, Is 43:11|Murderer & Liar<br>Jn 8:44|
+|Authentic|Counterfeit|
+|Righteous|Evil<br>Mt 13:19, 38, Jn 17:15; Eph 6:16; 2 Th 3:3; 1 Jn 3:12; 5:18-19|
+|Friend|Enemy<br>1 Pe 5:8|
+|Honest|Devious|
+|Liberates & Relieves|Oppresses & Enslaves|
+|Loves, Advocates & Intercedes <br>Romans 8:34|Hates, Accuses & Slanders<br>Zech 3:1, Re 12:10|
+|Humble|Prideful|
+|Heals|Debilitates| -->
+
+> If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
+
+Please see our article: [**How Do You Know If You're Saved?**](https://bit.ly/3kaNNLx)
+
+# Conclusion
+
+The Bible instructs us to distance ourselves from the slanderer **after warning them**; however, the bible also says that if our accusers should ever change or ask for forgiveness that we should forgive them. Until that happens have nothing to do with those who slander you or others. There is no reason anyone should be speaking negatively about another person.
+
+> Then Peter came to him and said, “Lord, how many times must I forgive my brother[**a**] who sins against me? As many as seven times?” Jesus said to him, “Not seven times, I tell you, but seventy-seven times![**b**] &mdash; Matthew 18:21-22 NET
+
+Footnotes (NET bible translator notes)
+- **a.** Matthew 18:21 tn Here the term “brother” means “fellow believer” or “fellow Christian” (cf. BDAG 18 s.v. ἀδελφός 2.a), whether male or female. Concerning the familial connotations, see also the note on the first occurrence of this term in v. 15.
+- **b.** Matthew 18:22 tn Or “seventy times seven,” i.e., **an unlimited number of times**. See L&N 60.74 and 60.77 for the two possible translations of the phrase.
+
+> but if you do not forgive others their trespasses, neither will your Father forgive your trespasses. &mdash; Mt 6:15
+
+<br>
+
+---
+
+<br>
+
+<!-- <sup>1</sup> (1 John 4:8, 20; 2:3-6, 9-11; Pr 11:9)<br> -->
+<sup><a name="lying">1</a></sup> 1Jn 4:20, 8; 2:9; Pr 11:9<br>
+<sup><a name="turn">2</a></sup> Ac 3:19; 26:20; Mt 3:2,8<br>
+<sup><a name="fruit">3</a></sup> Gal. 5:19-21; 5:22-23<br>
+<sup><a name="genuine">4</a></sup> 2Cor. 13:5; James 1:22<br>
+<sup><a name="doomed">5</a></sup> 1Jn 3:10, 8-9; Heb. 10:26-31; Ro 6:1-2<br>
+<!-- 1 John 3:8–9; cf. Rom. 6:14–18 -->
+<sup><a name="brimstone">6</a></sup> Re 21:8; 22:15; Ro 1:29-32; 1Co 6:9-10; Gal. 5:19-21; Eph 5:3-5; Mt 7:21,23<br>
+<sup><a name="hell">7</a></sup> Mk 9:48; Rv. 14:11 KJV
+
+<!-- Imagine, for a moment, the perfect [transcendental](https://www.gotquestions.org/God-transcendent.html) infinite God beyond the spatiotemporal limitations of human understanding. A perfect representation of [agape](https://biblehub.com/greek/26.htm) love (1 Jn 4:8) who was made manifest in the flesh (Jn 1:1-3,14) to give his life as a ransom for the sins of the world (Ro 3:23, 1 Ti 2:6, Mt 20:28, Mk 10:45).
+
+> "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light." &mdash; Jesus, Mt 11:28-30
+
+|Attributes||
+|:-:|:-:|
+|[Eternal](https://www.gotquestions.org/eternal-God.html)<br>(Omnitemporal)|Ge 1:1, Ps 90:2;93:2, Dt 33:27, Is 40:28, 1 Tim 1:17; Mic. 5:2; John 1:1; 8:58; Col. 1:17|
+|[Omnipresent](https://www.gotquestions.org/God-omnipresent.html)<br>(Omnispatial)|Ps 139:7-10 NKJV, Jer 23:23-24, Acts 17:27-28; Matt. 18:20; Eph. 4:10|
+|All Knowing<br>([Omniscient](https://www.gotquestions.org/God-omniscient.html))|Is 46:9-10, Psalm 139:4, 1 Jn 3:20, Mt 10:29-30, Prov 15:11 NLT, John 1:47–49; 21:17; Acts 1:24; 1 Cor. 4:5|
+|All Powerful<br>([Omnipotent](https://www.gotquestions.org/God-omnipotent.html))|Jb 42:2, Ps 115:3, Psalm 33:6, Ge 1:3; 1 Cor. 1:23–24; Heb. 1:2–3|
+|All Good<br>([Omnibenevolent](https://www.gotquestions.org/God-omnibenevolent.html))|Mt 5:48, Ex 34:6; Mark 10:17-18; John 10:11,14; Hebrews 7:26|
+|Self-existent<br>([Aseity](https://www.gotquestions.org/aseity-of-God.html))|John 1:1-3,14; Col. 1:16-17; Rev. 1:8, 17-18|
+|Sovereign|Eph. 1:21; Col. 2:10; 1 Pet. 3:22; Jn 5:22|
+|Unique|Dt 4:35;32:39, Is 43:10-11;44:6;45:5|
+
+Now imagine the reaction of this pure, holy, and limitless God, as he watches the depravity of mankind unfold over time. Kingdoms rise and fall, wars are waged, and peace comes and goes, murders are committed, rape, infidelities, scams, corrupt pastors (Je 23:1-3), hypocrites (Matthew 23:3-5,13,15,16-17,23,25,27,29–31,33,37-39; Titus 1:16; 1 Jn 4:8; Re 2:4-5), hatred (1 John 3:15), and slander. Let's compare and contrast God with the enemy of mankind.
+
+> “... When God became a man Himself, the experience proved to be nothing short of pure agony. In man’s time-honored fashion, they would unleash the whole arsenal of weapons against Him: **misrepresentation, slander, and accusation of treason**. The stage was set for a situation without parallel in the history of the earth. God would visit creatures and they would nail Him to the cross!” &mdash; Werner von Braun, the father of space science
+
+|Christ|Satan|
+|:-:|:-:|
+|Savior & Truth<br>2 Pe 1:1, Is 43:11|Murderer & Liar<br>Jn 8:44|
+|Authentic|Counterfeit|
+|Righteous|Evil<br>Mt 13:19, 38, Jn 17:15; Eph 6:16; 2 Th 3:3; 1 Jn 3:12; 5:18-19|
+|Friend|Enemy<br>1 Pe 5:8|
+|Honest|Devious|
+|Liberates & Relieves|Oppresses & Enslaves|
+|Loves, Advocates & Intercedes <br>Romans 8:34|Hates, Accuses & Slanders<br>Zech 3:1, Re 12:10|
+|Humble|Prideful|
+|Heals|Debilitates|
+
+Let's take a closer look at slander. First understand that God righteously hates this behavior, so much that he refers to it as an abomination. An abomination is something that causes hate or disgust. In biblical usage, an abomination is something that God loathes or hates because it is offensive to Him and His character.  -->
+
+<!-- This is why I have adopted the stance that there is no such thing as a stupid person, only stupid decisions. -->
+
+<!-- > There are six things which Yahweh hates, Even seven **which are an abomination to Him**: Haughty eyes, **a lying tongue**, And hands that shed innocent blood, A heart that devises wicked thoughts, Feet that hasten to run to evil, **A false witness who breathes out lies, And one who spreads strife among brothers.** &mdash; Proverbs 6:16-19 -->
+
 <!-- > But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. &mdash; Matthew 5:22 -->
 
-|"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
+<!-- |"If people are causing divisions among you, **give a first and second warning. After that, have nothing more to do with them.**"|Titus 3:10 NLT|
 |Do not associate with the slanderer.|Proverbs 20:19|
 |Put away all hypocrisy, envy, and all slander.|1 Peter 2:1|
 |God will destroy the slanderer.|Psalm 101:5|
@@ -205,13 +385,9 @@ Let's take a closer look at slander. First understand that God righteously hates
 |Evil words come from an evil heart.|Lk 6:45 NLT|
 |Those who endure persecution will receive the crown of life.|James 1:12|
 |Insulting others has dire consequences.|Matthew 5:22|
-|An admonition to false teachers.|Jeremiah 23:1-3|
+|An admonition to false teachers.|Jeremiah 23:1-3| -->
 
 <!-- Let's look at the difference between a true follower of Christ, and one who is Christian in name only, from the context of slander. [This article](https://www.gotquestions.org/works-of-the-flesh.html) is fairly informative as well. -->
-
-> If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
-
-Please see our article: [**How Do You Know If You're Saved?**](https://bit.ly/3kaNNLx)
 
 <!-- |True Christian<br><span style="color:#009933;">Fruit of the Spirit</span>|False Christian<br><span style="color:#990000;">Works of the Flesh</span>|
 |:-:|:-:|
@@ -229,17 +405,6 @@ Please see our article: [**How Do You Know If You're Saved?**](https://bit.ly/3k
 
 > "When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, idolatry, sorcery, **hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, envy**, drunkenness, wild parties, and other sins like these. **Let me tell you again, as I have before, that anyone living that sort of life will not inherit the Kingdom of God."** &mdash; Galatians 5:19-21 NLT -->
 
-# Conclusion
-
-The Bible instructs us to distance ourselves from the slanderer **after warning them**; however, the bible also says that if our accusers should ever change or ask for forgiveness that we should forgive them. Until that happens have nothing to do with those who slander you or others. There is no reason anyone should be speaking negatively about another person.
-
-> Then Peter came to him and said, “Lord, how many times must I forgive my brother[**a**] who sins against me? As many as seven times?” Jesus said to him, “Not seven times, I tell you, but seventy-seven times![**b**] &mdash; Matthew 18:21-22 NET
-
-Footnotes (NET bible translator notes)
-- **a.** Matthew 18:21 tn Here the term “brother” means “fellow believer” or “fellow Christian” (cf. BDAG 18 s.v. ἀδελφός 2.a), whether male or female. Concerning the familial connotations, see also the note on the first occurrence of this term in v. 15.
-- **b.** Matthew 18:22 tn Or “seventy times seven,” i.e., **an unlimited number of times**. See L&N 60.74 and 60.77 for the two possible translations of the phrase.
-
-> but if you do not forgive others their trespasses, neither will your Father forgive your trespasses. &mdash; Mt 6:15
 
 <!-- 
 # The Stoic Method
