@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 03:45:00 -0500
+date: 2023-05-12 03:55:00 -0500
 categories: sin practice
 published: true
 ---
@@ -46,11 +46,11 @@ published: true
 5. <a href="#scholars">Biblical Scholars</a> ([**Scholastic Calvinist**](https://sevenshepherd.github.io/ordo-salutis-calvinist/))
     - 5.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge)</a>
     - 5.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
-    - 5.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
-    - 5.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
-    - 5.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
-    - 5.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
-    - 5.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+    - 5.3 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
+    - 5.4 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
+    - 5.5 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
+    - 5.6 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
+    - 5.7 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
 6. <a href="#scholars">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
     - 6.1 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
     - 6.2 <a href="#demarest">Dr. Demarest (PhD, Manchester)</a>
