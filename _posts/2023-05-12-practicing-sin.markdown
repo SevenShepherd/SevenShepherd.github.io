@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 03:15:00 -0500
+date: 2023-05-12 03:45:00 -0500
 categories: sin practice
 published: true
 ---
@@ -31,6 +31,43 @@ published: true
 <!-- You will do whatever your heart desires, and you will not escape this curse without God. -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#practice">True Christians Practice Righteousness</a>
+    - 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
+2. <a href="#studies">Study Bibles & Commentaries</a>
+    - 2.1 <a href="#ESVSB">ESV Study Bible</a>
+3. <a href="#critics">Textual Critics</a>
+    - 3.1 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
+4. <a href="#scientist">Scientist Theologians</a> ([**Realism**](https://en.wikipedia.org/wiki/Theological_critical_realism))
+    - 4.1 <a href="#lennox">Dr. Lennox (PhD,DPhil,DSc, "Oxbridge")</a>
+    - 4.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
+    - 4.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
+    - 4.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
+5. <a href="#scholars">Biblical Scholars</a> ([**Scholastic Calvinist**](https://sevenshepherd.github.io/ordo-salutis-calvinist/))
+    - 5.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge)</a>
+    - 5.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
+    - 5.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
+    - 5.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
+    - 5.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
+    - 5.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
+    - 5.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+6. <a href="#scholars">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
+    - 6.1 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
+    - 6.2 <a href="#demarest">Dr. Demarest (PhD, Manchester)</a>
+    - 6.3 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
+    - 6.4 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
+    - 6.5 <a href="#turek">Dr. Turek (DMin, SES)</a>
+7. <a href="#scholars">Biblical Scholars (Moderate Neotheist)</a>
+    - 7.1 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
+8. <a href="#pastors">Pastors (Moderate Arminian w/ Eternal Sec.)</a>
+    - 8.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
+    - 8.2 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
+9. <a href="#pastors">Pastors</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
+    - 9.1 <a href="#graham">Billy Graham</a>
+
+
+
+<!-- <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 I. <a href="#practice">True Christians Practice Righteousness</a>
 - 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
@@ -64,7 +101,7 @@ I. <a href="#practice">True Christians Practice Righteousness</a>
         - **Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
         - 1.1.3.x <a href="#graham">Billy Graham</a>
         - **Moderate Neotheist**
-        - 1.1.3.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
+        - 1.1.3.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a> -->
     
     
 <!-- - 1.1.4 <a href="#pastors">Pastors</a>
