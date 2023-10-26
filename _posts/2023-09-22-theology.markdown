@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 7:12:00 -0500
+date: 2023-10-19 7:21:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -24,13 +24,14 @@ published: true
         - 2.2.4 <a href="#dead">False Assurance (Dead faith)</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
     - 2.4 <a href="#atonement">The Extent Of The Atonement</a>
+        - 2.4.1 <a href="#amyraut">Amyraut's Theory</a>
+        - 2.4.2 <a href="#edmund">Calamy's Theory</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
         - 3.1.2 <a href="#demarest">Demarest on Foreknow</a>
         - 3.1.3 <a href="#studies">Studies on Foreknew</a>
         - 3.1.4 <a href="#unique">My Unique Theory</a>
-        - 3.1.5 <a href="#edmund">Calamy's Theory</a>
     - 3.2 <a href="#election">Predestination</a>
 
 <!-- 3. <a href="#decrees">The Order Of Decrees</a> -->
@@ -299,6 +300,23 @@ I recently composed [a small article](https://sevenshepherd.github.io/limited-at
 - Luther & John Calvin did not hold to limited atonement either.
 - Jonathan Edwards was likely a hypothetical universalist.
 
+<a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.1 Moïse Amyraut's Amyraldiansim</a>
+
+Please refer to my full length article on [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian).
+
+<a name="edmund" href="#contents" style="font-size:1.2em;">2.4.2 Edmund Calamy's Hypothetical Universalism</a>
+
+The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes [Calamy's unique hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7), of which several exist. 
+
+<!-- I think if my <a href="#unique">&ldquo;Precient Forelove View&rdquo;</a> was not an option I would probably default to Calamy's. It is a slight alteration of [Moïse Amyraut's Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7). -->
+
+>
+**14.1.7 Hypothetical Universalism**
+>
+Some English theologians proposed a slightly different argument than Amyraut.<sup>116</sup> Again, the point of disagreement lay more on the intent of the atonement than on election and reprobation. **Edmund Calamy (1600–1666), a member of the Westminster Assembly, held that Christ died absolutely for the elect and conditionally for the reprobate, in case they believe.** In this context, Calamy preserved the congruence in the works of the Trinity and avoided a split between the atonement and the intercession of Christ.<sup>117</sup> Calamy distinguished his position from Arminianism. Arminians say Christ paid a price placing all in an equal state of salvation. Calamy insisted his views “doth neither intrude upon either [the] doctrine of speciall election or speciall grace.” He argued that Arminianism asserted that Christ simply suffered; all people are placed in a potentially salvable situation, so that any who believe will be saved. In contrast, he believed Christ’s death saves his elect and grants a conditional possibility of salvation to the rest.<sup>118</sup> In distinction from Amyraut, Calamy held that the atonement is efficacious for the elect. Calamy’s views were not seen as posing a major threat to the Reformed consensus.
+>
+&mdash; Dr. Robert Letham (Ph.D., Aberdeen), “Systematic Theology,” 14. Election and the Counsel of Redemption.
+
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
@@ -498,17 +516,6 @@ My theory works irrespective of whether there is free will or not, and whether o
 <!-- Agape is nice, but agape returned is better. -->
 
 <!-- If I could push my theory further, one could surmise something more amyraldian mixed with a touch of weslyanism. -->
-
-<a name="edmund" href="#contents" style="font-size:1.2em;">3.1.5 Edmund Calamy's Hypothetical Universalism</a>
-
-The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes Calamy's unique hypothetical universalism, of which several exist. I think if my <a href="#unique">&ldquo;Precient Forelove View&rdquo;</a> was not an option I would probably default to Calamy's. It is a slight alteration [Moïse Amyraut's Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7).
-
->
-**14.1.7 Hypothetical Universalism**
->
-Some English theologians proposed a slightly different argument than Amyraut.<sup>116</sup> Again, the point of disagreement lay more on the intent of the atonement than on election and reprobation. **Edmund Calamy (1600–1666), a member of the Westminster Assembly, held that Christ died absolutely for the elect and conditionally for the reprobate, in case they believe.** In this context, Calamy preserved the congruence in the works of the Trinity and avoided a split between the atonement and the intercession of Christ.<sup>117</sup> Calamy distinguished his position from Arminianism. Arminians say Christ paid a price placing all in an equal state of salvation. Calamy insisted his views “doth neither intrude upon either [the] doctrine of speciall election or speciall grace.” He argued that Arminianism asserted that Christ simply suffered; all people are placed in a potentially salvable situation, so that any who believe will be saved. In contrast, he believed Christ’s death saves his elect and grants a conditional possibility of salvation to the rest.<sup>118</sup> In distinction from Amyraut, Calamy held that the atonement is efficacious for the elect. Calamy’s views were not seen as posing a major threat to the Reformed consensus.
->
-&mdash; Dr. Robert Letham (Ph.D., Aberdeen), “Systematic Theology,” 14. Election and the Counsel of Redemption.
 
 <a name="election" href="#contents" style="font-size:1.6em;">3.2 Predestination</a>
 
