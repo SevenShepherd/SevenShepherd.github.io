@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 1:00:00 -0700
+date: 2021-11-01 1:05:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -201,6 +201,8 @@ Let's take a closer look at slander. First understand that God righteously hates
 
 <!-- this righteous judgement is directed toward you. For those of you not doing this to others, you can all see the proper application of a righteous rebuke. This is my rebuke of the slanderer and the judgemental hypocrite. -->
 
+If you accuse someone of being judgemental and they have never personally attacked you, then you have become the very thing that you hate. [Here is some educational material.](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) The Bible here isn't saying attack, berate, slander, or hurt someone in the verse below, it's saying to unhypocritically help other Chrstians, even if that means church discipline.
+
 > It isn’t my responsibility to judge outsiders, but **it certainly is your responsibility to [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) those inside the church who are sinning**. God will [judge](https://youtube.com/shorts/DtVwpbNWwIo?feature=share) those on the outside; but as the Scriptures say, **“You must remove the evil person from among you.”** 1 Cor. 5:12-13 NLT
 
 
@@ -226,7 +228,9 @@ The Bible gives a clear warning to all those who practice strife, rivalries, dis
 
 The eternal destiny of all those who do not inherit the Kingdom of God is devastating. Do not be <a href="#genuine">self-deceived<sup>4</sup></a>, use scripture to recognize if you have <a href="#genuine">failed the test of Genuine faith.<sup>4</sup></a> There is a lake which burns with fire and brimstone<sup><a href="#brimstone">6</a></sup>; where the worm dies not and the fire is not quenched<sup><a href="#hell">7</a></sup>, and the smoke of the torment of those who end up their will ascend up for ever and ever<sup><a href="#hell">7</a></sup>. Be sure that this isn't you.
 
-> ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced)
+<!-- > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced) -->
+
+> It is true that faith is the means by which people receive salvation (Rom 3:22-25; Eph 2:8), but **faith that does not involve repentance is not true faith**. It is not a faith that leads to salvation. Faith means complete trust in Jesus Christ and his atoning death. It means that a person has total dependance on Christ for his entire salvation (see FAITH). But such trust is impossible so long as a person still clings to anything of himself. He cannot rely upon the work of Christ for the forgiveness of sin unless he turns from that sin (Mark 1:15; Acts 11:21; 20:21; 26:18; 1 Thess 1:9). &mdash; [AMG Concise Bible Dictionary](https://sevenshepherd.github.io/chuck-smith-repentance/#amg-concise)
 
 As [every authoritative Greek lexicon](https://sevenshepherd.github.io/chuck-smith-repentance/) reveals, repentance means *“feel remorse, repent, be converted” (in religio-ethical sense)*, it is a contrition that leads to a turning away from sin (repentance), and a turning to God (faith); repentance is not an attrition that only produces a worldly sorrow and an intellectual assent to facts (James 2:19).
 
