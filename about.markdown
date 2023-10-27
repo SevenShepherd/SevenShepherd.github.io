@@ -903,6 +903,8 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > Wealth gained hastily will dwindle, but whoever gathers little by little will increase it. &mdash; Proverbs 13:11
 
+> For the love of money is the root of all kinds of evil. And some people, craving money, have wandered from the true faith and pierced themselves with many sorrows. &mdash; 1 Timothy 6:10
+
 <!-- > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus -->
 
 > “The key is to keep company only with people who uplift you, whose presence calls forth your best.” &mdash; Epictetus
