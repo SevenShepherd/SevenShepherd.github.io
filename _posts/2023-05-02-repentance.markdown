@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 The True Meaning Of Repentance" 
-date: 2023-05-02 02:15:00 -0500
+date: 2023-05-02 02:25:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -16,7 +16,8 @@ published: true
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/kP8rIIps4Sk?start=130" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-As I will prove below, Chuck Smith knew what he was talking about. If you have a teacher that doesn't teach repentance correctly, get rid of them quickly because it is highly likely that they are false teachers. Chuck Smith taught on this topic correctly.
+
+The lexicons, dictionaries, scholars, and pastors mentioned here, know what they're talking about. If you have a teacher that doesn't teach repentance correctly, get rid of them quickly because it is highly likely that they are false teachers. The following are the correct teachings:
 
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
