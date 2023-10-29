@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 8:00:00 -0500
+date: 2023-10-19 8:05:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -43,7 +43,7 @@ published: true
 
 I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side.
 
-> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the fiducial nature of genuine saving faith and resulting genuine dispositions of the heart, and then you'll arrive at my theological position.
+> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
 
 <!-- > Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position. -->
 
@@ -410,7 +410,7 @@ by God from all eternity: to be made like His Son. Note how the words predestine
 
 <!-- Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position. -->
 
-Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the fiducial nature of genuine saving faith and resulting genuine dispositions of the heart, and then you'll arrive at my theological position.
+Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
 
 > ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... 
 >

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 2:25:00 -0500
+date: 2023-09-30 2:35:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -176,7 +176,7 @@ I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://seven
 
 <!-- > Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position. -->
 
-> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the fiducial nature of genuine saving faith and resulting genuine dispositions of the heart, and then you'll arrive at my theological position.
+> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
 
 Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
 
