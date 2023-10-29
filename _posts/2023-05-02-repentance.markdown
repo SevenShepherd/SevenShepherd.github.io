@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "🎓 Every Authoritative Greek Lexicon Agrees With Grudem, Packer, And Chuck Smith On Repentance" 
-date: 2023-05-02 02:10:00 -0500
-categories: repent repentance chuck smith
+title: "🎓 The True Meaning Of Repentance" 
+date: 2023-05-02 02:15:00 -0500
+categories: repent repentance
 published: true
 ---
 
