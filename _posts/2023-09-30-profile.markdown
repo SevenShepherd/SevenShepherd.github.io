@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 2:07:00 -0500
+date: 2023-09-30 2:15:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -81,6 +81,7 @@ For several years I've owned, operated, and automated a small ministry of 60,000
 
 - [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
+- [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
 - [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
