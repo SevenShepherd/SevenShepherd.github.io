@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 2:35:00 -0500
+title: "🧑 Extended Profile"
+date: 2023-09-30 2:45:00 -0500
 categories: about bio biography profile
 published: true
 ---

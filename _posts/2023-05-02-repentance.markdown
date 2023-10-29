@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎓 The True Meaning Of Repentance" 
-date: 2023-05-02 02:25:00 -0500
+title: "🕊️ The True Meaning Of Repentance"
+date: 2023-05-02 02:35:00 -0500
 categories: repent repentance
 published: true
 ---
