@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 04:25:00 -0500
+date: 2023-09-12 04:35:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -67,7 +67,7 @@ Second Corinthians 7:10 proves:
 - Contrition is not attrition.
 
 The aforementioned verses prove the following:
-- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/chuck-smith-repentance/).
+- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance is **a Godly sorrow** that **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
 - Repentance is necessary (Lk 13:3) **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).

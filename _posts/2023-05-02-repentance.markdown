@@ -41,6 +41,7 @@ As I will prove below, Chuck Smith knew what he was talking about. If you have a
     - 4.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
     - 4.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
     - 4.3 <a href="#mounce">Dr. Mounce (Ph.D., Aberdeen)</a> 
+- V. <a href="#summary">Summary</a>
 
 <!-- - 1.3 <a href="#LSJ">Liddell and Scott (LSJ) p. 1115.</a> -->
 
@@ -299,6 +300,27 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 **Definition**:<br>to undergo a change in frame of mind and feeling, to repent, Lk. 17:3, 4; to **make a change of principle and practice, to reform**, Mt. 3:2
 >
 &mdash; Dr. William D. Mounce (Ph.D., Aberdeen), [Greek Dictionary](https://www.billmounce.com/greek-dictionary/metanoeo).
+
+<a name="summary" href="#contents" style="font-size:2.1em;">V. Summary</a>
+
+<!-- ![John the Baptist preaching repentance and being called judgemental meme](/assets/images/repent-meme.jpg) -->
+
+<!-- If you accuse someone of being judgemental and they have never personally attacked you, then you have become the very thing that you hate. [Here is some educational material.](https://youtube.com/shorts/DtVwpbNWwIo?feature=share)  -->
+
+# Repentance
+- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**]().
+    - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
+- Repentance is **a Godly sorrow** that **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+- Repentance is necessary (Lk 13:3) **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- Unrepentant sinners will perish (Luke 13:3; Mt 3:10).
+- Repentance is a command from God himself (Acts 17:30; Mt 4:17).
+- While there may be an initial saving repentance, it is not a one time event (Luke 17:3-4; 1 Cor. 5:12-13 NLT).
+- The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
+- Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
+
+> The gospel can be summarized in different ways. Sometimes faith alone is named as the one thing necessary for salvation (see John 3:16; Acts 16:31; Rom. 10:9; Eph. 2:8–9), other times repentance alone is named (Luke 24:47; Acts 3:19; 5:31; 17:30; 2 Cor. 7:10), and sometimes both are named (Acts 20:21). **Genuine faith always involves repentance, and vice versa**. 
+>
+— ESV Study Bible, note on Acts 2:38.
 
 <br>
 

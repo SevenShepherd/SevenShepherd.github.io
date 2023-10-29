@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 03:55:00 -0500
+date: 2023-05-12 04:00:00 -0500
 categories: sin practice
 published: true
 ---
@@ -289,7 +289,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">1.1.3.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
-    > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced)
+    > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced)
     
 <!-- https://corechristianity.com/resource-library/episodes/am-i-still-a-christian-if-ive-made-jesus-my-savior-but-havent-repented/ -->
 

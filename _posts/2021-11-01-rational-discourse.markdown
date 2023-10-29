@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maintaining Rational Discourse 🪢"
-date: 2021-11-01 1:05:00 -0700
+date: 2021-11-01 1:10:00 -0700
 categories: debate discourse
 published: true
 ---
@@ -228,11 +228,11 @@ The Bible gives a clear warning to all those who practice strife, rivalries, dis
 
 The eternal destiny of all those who do not inherit the Kingdom of God is devastating. Do not be <a href="#genuine">self-deceived<sup>4</sup></a>, use scripture to recognize if you have <a href="#genuine">failed the test of Genuine faith.<sup>4</sup></a> There is a lake which burns with fire and brimstone<sup><a href="#brimstone">6</a></sup>; where the worm dies not and the fire is not quenched<sup><a href="#hell">7</a></sup>, and the smoke of the torment of those who end up their will ascend up for ever and ever<sup><a href="#hell">7</a></sup>. Be sure that this isn't you.
 
-<!-- > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/chuck-smith-repentance/#mounced) -->
+<!-- > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced) -->
 
-> It is true that faith is the means by which people receive salvation (Rom 3:22-25; Eph 2:8), but **faith that does not involve repentance is not true faith**. It is not a faith that leads to salvation. Faith means complete trust in Jesus Christ and his atoning death. It means that a person has total dependance on Christ for his entire salvation (see FAITH). But such trust is impossible so long as a person still clings to anything of himself. He cannot rely upon the work of Christ for the forgiveness of sin unless he turns from that sin (Mark 1:15; Acts 11:21; 20:21; 26:18; 1 Thess 1:9). &mdash; [AMG Concise Bible Dictionary](https://sevenshepherd.github.io/chuck-smith-repentance/#amg-concise)
+> It is true that faith is the means by which people receive salvation (Rom 3:22-25; Eph 2:8), but **faith that does not involve repentance is not true faith**. It is not a faith that leads to salvation. Faith means complete trust in Jesus Christ and his atoning death. It means that a person has total dependance on Christ for his entire salvation (see FAITH). But such trust is impossible so long as a person still clings to anything of himself. He cannot rely upon the work of Christ for the forgiveness of sin unless he turns from that sin (Mark 1:15; Acts 11:21; 20:21; 26:18; 1 Thess 1:9). &mdash; [AMG Concise Bible Dictionary](https://sevenshepherd.github.io/repentance/#amg-concise)
 
-As [every authoritative Greek lexicon](https://sevenshepherd.github.io/chuck-smith-repentance/) reveals, repentance means *“feel remorse, repent, be converted” (in religio-ethical sense)*, it is a contrition that leads to a turning away from sin (repentance), and a turning to God (faith); repentance is not an attrition that only produces a worldly sorrow and an intellectual assent to facts (James 2:19).
+As [every authoritative Greek lexicon](https://sevenshepherd.github.io/repentance/) reveals, repentance means *“feel remorse, repent, be converted” (in religio-ethical sense)*, it is a contrition that leads to a turning away from sin (repentance), and a turning to God (faith); repentance is not an attrition that only produces a worldly sorrow and an intellectual assent to facts (James 2:19).
 
 > For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death. &mdash; 2 Corinthians 7:10 ( cf. 8–13)
 
