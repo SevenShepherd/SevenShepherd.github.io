@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🐱‍👤 Extended Profile"
-date: 2023-09-30 2:15:00 -0500
+date: 2023-09-30 2:25:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -87,8 +87,6 @@ For several years I've owned, operated, and automated a small ministry of 60,000
 - [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
 - [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
 - [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
-- [24 Reasons Why I Use The ESV, NET, & NLT](https://bit.ly/3kVeunT)
-
 
 <a name="bibles" href="#contents" style="font-style:Italic;font-size:2.1em">II. Recommended Bibles, Dictionaries, & Lexicons</a>
 
