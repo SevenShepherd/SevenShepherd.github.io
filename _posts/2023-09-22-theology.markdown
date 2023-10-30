@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 8:05:00 -0500
+date: 2023-10-19 8:21:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -24,8 +24,9 @@ published: true
         - 2.2.4 <a href="#dead">False Assurance (Dead faith)</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
     - 2.4 <a href="#atonement">The Extent Of The Atonement</a>
-        - 2.4.1 <a href="#amyraut">Amyraut's Theory</a>
-        - 2.4.2 <a href="#edmund">Calamy's Theory</a>
+        - 2.4.1 <a href="#amyraut">Amyraut's Amyraldianism</a>
+        - 2.4.2 <a href="#edmund">Calamy's Hypothetical Univers.</a>
+        - 2.4.3 <a href="#remon">Remonstrants and Arminians</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
@@ -317,6 +318,18 @@ Some English theologians proposed a slightly different argument than Amyraut.<su
 >
 &mdash; Dr. Robert Letham (Ph.D., Aberdeen), “Systematic Theology,” 14. Election and the Counsel of Redemption.
 
+<a name="remon" href="#contents" style="font-size:1.2em;">2.4.3 Remonstrants and Arminians Universal Atonement</a>
+
+> ... **Turning to the issue of the extent or intent of the Atonement, Arminians consistently uphold a universal Atonement; Christ died for the purpose of providing salvation for the entire world.** They appeal to texts stating that Christ died for “all” persons (2 Cor 5:14-15; 1 Tim 2:6; Tit 2:11) or for the“world” (John 1:29; 4:42; 1 John 2:2; 4:14). They note that the word “whosoever” is used more than 110 times in the NT. Since the Gospel is for all, every last person can be saved. Christ’s death, however, is effectual only in those who desire it and who believe. Anticipating later developments, many patristic writers held that Christ died for the sins of the world. Athanasius (d. 373) maintained that in the divine scheme of things “death there had to be, and death for all, so that the due of all might be paid.”26 Cyril of Jerusalem (d. 386) affirmed that “Jesus truly suffered for all men.”27
+>
+Later James Arminius (d. 1609) postulated the provisional universality of the Atonement. He said rather directly, “Christ died for all men and for every individual.”28 Desiring that none should perish in their sins, God bestows prevenient grace universally and extends salvation to all through worldwide Gospel proclamation. A year after Arminius’ death a group of his followers drafted the Five Articles of the Remonstrance (1610), article two of which reads:
+>
+>> Jesus Christ, the Savior of the world, died for all men and for every man, so that he has obtained for them all, by his death on the cross, redemption and the forgiveness of sins; yet that no one actually enjoys this forgiveness of sins except the believer, according to the word of the Gospel of John 3:16: “God so loved the world that he gave his only-begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
+>
+Arminians such as Miley aver that an unlimited Atonement makes universal salvation theoretically possible. But since many persons fail to respond to the Gospel in faith, not everyone is actually saved. Arminians further argue that it would be duplicitous of God to offer salvation to all if, in fact, Christ did not make universal provision on the cross. Only on the basis ofa universal Atonement can the Gospel be sincerely preached to all. Many Arminians envisage universal Atonement as a logical outcome of the governmental theory. Miley typically insisted that a universal Atonement maximally upholds the cause of moral government. The broader the intent of the Atonement, the greater the good that accrues. Miley thus concluded, “The atonement, as a provision of infinite love for a common race in a common ruin of sin, with its unrestricted overture of grace and requirement of a universal Atonement can the Gospel be sincerely preached to all. Many Arminians envisage universal Atonement as a logical outcome of the governmental theory. Miley typically insisted that a universal Atonement maximally upholds the cause of moral government. The broader the intent of the Atonement, the greater the good that accrues. Miley thus concluded, “The atonement, as a provision of infinite love for a common race in a common ruin of sin, with its unrestricted overture of grace and requirement of saving faith in Christ, is, and must be, an atonement for all.”29
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 156-157.
+
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
@@ -347,7 +360,7 @@ Return for a moment to the larger picture of the golden chain of salvation prese
 >
 ...The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).
 >
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election. pp. 127-131.
 
 <a name="studies" href="#contents" style="font-size:1.2em;">3.1.3 Studies On Proginṓskō of Romans 8:29</a>
 

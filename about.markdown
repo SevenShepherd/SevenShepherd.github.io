@@ -26,11 +26,11 @@ permalink: /about/
 
 <!-- Hello and welcome, My name is... my name does not matter, but my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). To some, I am known as [SevenShepherd](https://twitter.com/SevenShepherd). Please feel free to look around, read articles, or contact me below.  -->
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built. 
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and for several years I've owned, operated, and automated a small ministry on social media in my spare time. You can visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below. 
+
+<!-- I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built.  -->
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
-
-For several years I've owned, operated, and automated a small ministry of 60,000+ on social media in my spare time. You can visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below. 
 
 If you'd like to learn more about the author of this blog you can visit the [**extended profile**](https://sevenshepherd.github.io/profile/).
 
