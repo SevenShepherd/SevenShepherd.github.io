@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 8:45:00 -0500
+date: 2023-10-19 9:00:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -23,21 +23,34 @@ published: true
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
         - 2.2.4 <a href="#legal">False Assurance (Legalism)</a>
     - 2.3 <a href="#sanctify">Progressive Sanctification</a>
-    - 2.4 <a href="#atonement">The Extent Of The Atonement</a>
-        - 2.4.1 <a href="#amyraut">Amyraut's Amyraldianism</a>
-        - 2.4.2 <a href="#edmund">Calamy's Hypothetical Univers.</a>
-        - 2.4.3 <a href="#remon">Remonstrants and Arminians</a>
-        - 2.4.4 <a href="#atone">Summary & Conclusion</a>
+    - 2.4 Stances On TULIP
+        - 2.4.1 Totalness Of Depravity
+        - 2.4.2 Conditionality of Election
+        - 2.4.3 <a href="#atonement">Extent of Atonement</a>
+            - 2.4.1.1 <a href="#amyraut">Moïse Amyraut</a>
+            - 2.4.1.2 <a href="#edmund">Edmund Calamy</a>
+            - 2.4.1.3 <a href="#arminius">James Arminius</a>
+            - 2.4.1.4 <a href="#atone">Conclusion</a>
+        - 2.4.4 Resistibility of Grace
+        - 2.4.5 Perseverance
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
         - 3.1.2 <a href="#demarest">Demarest on Foreknow</a>
         - 3.1.3 <a href="#studies">Studies on Foreknew</a>
         - 3.1.4 <a href="#unique">My Unique Theory</a>
-    - 3.2 <a href="#election">Predestination</a>
+    - 3.2 <a href="#predestination">Predestination</a>
 
-<!-- 3. <a href="#decrees">The Order Of Decrees</a> -->
-<!-- 5. <a href="#cite">Sources & Citations</a> -->
+<!-- - 2.4 Stances On TULIP
+    - 2.4.1 <a href="#depravity">Totalness Of Depravity</a>
+    - 2.4.2 <a href="#election">Conditionality of Election</a>
+    - 2.4.3 <a href="#atonement">Extent of Atonement</a>
+        - 2.4.1.1 <a href="#amyraut">Moïse Amyraut</a>
+        - 2.4.1.2 <a href="#edmund">Edmund Calamy</a>
+        - 2.4.1.3 <a href="#arminius">James Arminius</a>
+        - 2.4.1.4 <a href="#atone">Conclusion</a>
+    - 2.4.4 <a href="#grace">Resistibility of Grace</a>
+    - 2.4.5 <a href="#perseverance">Perseverance</a> -->
 
 <a name="description" href="#contents" style="font-size:2.1em;">⚜️ 1. Theology</a>
 
@@ -67,9 +80,9 @@ Refresh weekly for updates.
 
 <!-- ![pisteuó](/assets/images/greek/) -->
 
-> “For God so loved the world, that he gave his only Son, that whoever **believes in** him should not perish but have eternal life.
+> “For God so loved the world, that he gave his only Son, that whoever **believes in [pisteúō eis - &ldquo;to trust&rdquo; in]** him should not perish but have eternal life.
 >
-For God so loved the world, that he gave his only begotten Son, that whosoever **believeth in** him should not perish, but have everlasting life. 
+For God so loved the world, that he gave his only begotten Son, that whosoever **believeth in [pisteúō eis &ldquo;to trust&rdquo; in]** him should not perish, but have everlasting life.
 >
 &mdash; John 3:16 ESV, KJV
 
@@ -91,13 +104,13 @@ For God so loved the world, that he gave his only begotten Son, that whosoever *
 Let's define what "Belief in" actually means.
 
 - Q5.  The story goes something like this (based on true events): A witch astral projects to harm a Christian family, she's prevented from doing so because there are angels surrounding and protecting the family's home, clearly this witch believes in God and angels, is she saved?
-    - A5. The answer is obviously no, because there is no "belief in," "faith in," "trust in," "reliance on," "approval of" God, only intellectual assent to facts. So while there may be notitia and assensus, there is no fiducia.
+    - A5. The answer is obviously no, because there is no "trust in," "reliance on," or "approval of" God, only intellectual assent to facts. So while there may be notitia (‘knowledge’) and even assensus (‘agreement’), there is no fiducia (‘trust and reliance’).
 
 <!--  -->
 
 I think [Packer](https://sevenshepherd.github.io/practicing-sin/#packer) describes this best when he delineates that saving faith is composed of three essential elements: notitia, assensus, and fiducia. "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)."
 
-- The latin term notitia means 'knowledge' and refers to an "acquaintance with the content of the gospel"
+- The latin term notitia means ‘knowledge’ and refers to an "acquaintance with the content of the gospel"
 - Assensus or ‘agreement’ means "recognition that the gospel is true"
 - Fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3." 
 
@@ -292,7 +305,10 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 
 *Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
 
-<a name="atonement" href="#contents" style="font-size:1.6em;">2.4 The Extent Of The Atonement Is Unlimited</a>
+<!--  -->
+<!--  -->
+
+<a name="atonement" href="#contents" style="font-size:1.6em;">2.4.3 The Extent Of The Atonement Is Unlimited</a>
 
 I recently composed [a small article](https://sevenshepherd.github.io/limited-atonement/) on why I reject limited atonement in favor of unlimited atonement. Please also see [Rejections of Limited Atonement](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected) in my article on Amyraldism.
 
@@ -302,7 +318,7 @@ I recently composed [a small article](https://sevenshepherd.github.io/limited-at
 - Luther & John Calvin did not hold to limited atonement either.
 - Jonathan Edwards was likely a hypothetical universalist.
 
-<a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.1 Moïse Amyraut's Amyraldianism</a>
+<a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.3.1 Moïse Amyraut's Amyraldianism</a>
 
 Please refer to my full length article on [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian).
 
@@ -318,7 +334,7 @@ How blessed it is to realize that Christ took my place on the cross and was fors
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 193-194.
 
-<a name="edmund" href="#contents" style="font-size:1.2em;">2.4.2 Edmund Calamy's Hypothetical Universalism</a>
+<a name="edmund" href="#contents" style="font-size:1.2em;">2.4.3.2 Edmund Calamy's Hypothetical Universalism</a>
 
 The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes [Calamy's unique hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7), of which several exist. 
 
@@ -331,7 +347,7 @@ Some English theologians proposed a slightly different argument than Amyraut.<su
 >
 &mdash; Dr. Robert Letham (Ph.D., Aberdeen), “Systematic Theology,” 14. Election and the Counsel of Redemption.
 
-<a name="remon" href="#contents" style="font-size:1.2em;">2.4.3 Remonstrants and Arminians Universal Atonement</a>
+<a name="arminius" href="#contents" style="font-size:1.2em;">2.4.3.3 Remonstrants and Arminians Universal Atonement</a>
 
 > ... **Turning to the issue of the extent or intent of the Atonement, Arminians consistently uphold a universal Atonement; Christ died for the purpose of providing salvation for the entire world.** They appeal to texts stating that Christ died for “all” persons (2 Cor 5:14-15; 1 Tim 2:6; Tit 2:11) or for the“world” (John 1:29; 4:42; 1 John 2:2; 4:14). They note that the word “whosoever” is used more than 110 times in the NT. Since the Gospel is for all, every last person can be saved. Christ’s death, however, is effectual only in those who desire it and who believe. Anticipating later developments, many patristic writers held that Christ died for the sins of the world. Athanasius (d. 373) maintained that in the divine scheme of things “death there had to be, and death for all, so that the due of all might be paid.”26 Cyril of Jerusalem (d. 386) affirmed that “Jesus truly suffered for all men.”27
 >
@@ -343,7 +359,7 @@ Arminians such as Miley aver that an unlimited Atonement makes universal salvati
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 156-157.
 
-<a name="atone" href="#contents" style="font-size:1.2em;">2.4.4 Summary & Conclusion</a>
+<a name="atone" href="#contents" style="font-size:1.2em;">2.4.3.4 Summary & Conclusion</a>
 
 > Under Construction
 
@@ -549,7 +565,7 @@ My theory works irrespective of whether there is free will or not, and whether o
 
 <!-- If I could push my theory further, one could surmise something more amyraldian mixed with a touch of weslyanism. -->
 
-<a name="election" href="#contents" style="font-size:1.6em;">3.2 Predestination</a>
+<a name="predestination" href="#contents" style="font-size:1.6em;">3.2 Predestination</a>
 
 <!-- Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
 
