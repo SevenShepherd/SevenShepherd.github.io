@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 8:25:00 -0500
+date: 2023-10-19 8:35:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -306,6 +306,18 @@ I recently composed [a small article](https://sevenshepherd.github.io/limited-at
 
 Please refer to my full length article on [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian).
 
+> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of <span style="color:#3EA055;">**Sublapsarian Calvinism** [Moderate Calvinism]</span>. <span style="color:darkred;">**It differs from the Supralapsarian** [Hyper-Calvinism]</span> and <span style="color:#FBB917;">**Infralapsarian schemes** [Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And <span style="color:darkblue;">**it differs from the Arminian scheme** [Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup>
+>
+Thomas J. Nettles designates this development a modification of the limited Atonement hypothesis.119 Millard J. Erickson, reflecting on classical formulations of the ordo salutis, describes the position as a form of the unlimited or universal Atonement thesis.120 The view presented may be neither, as it divides the question into the divine intention concerning the provision of the cross, which is universal, and his intention concerning the application thereof, which is particular. <span style="color:#3EA055;">The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself</span>—a position that was narrowed by later, scholastic Calvinism. Our perspective, moreover, offers greater specificity than the dictum frequently articulated in evangelical circles: “The Atonement is sufficient for all but efficient for the elect.” Rather, it affirms that by divine intention Christ’s suffering and death are universal in its provision and particular in its application. 
+>
+A. Realize That Christ Died for You
+>
+The multiple purposes of Christ’s death on the cross can be represented by three concentric circles. **The largest circle represents the entire world for whom the Savior died as the adequate provision for sins (1 Tim 4:10; 1 John 2:2; 4:14). The middle circle delineates the sum of all believers, i.e., the church (John 10:11, 15; Acts 20:28; Rom 8:32; Gal 1:4; Eph 5:2), to whom Christ’s saving provisions were actually applied. And the innermost circle represents the individual believer for whom Christ made atonement (Gal 2:20b).** That Christ died for me and for you individually and personally is made clear by Paul’s words in the preceding text: “the Son of God . . . loved me [me] and gave himself for me [hyper emou].” It is highly significant that in describing the true Gospel and its ministry Paul used the first-person, singular pronoun twenty-eight times in this second chapter of Galatians. 
+>
+How blessed it is to realize that Christ took my place on the cross and was forsaken of God for me. For my sins he bore in his body the penalty required by a holy and just God. ...
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 193-194.
+
 <a name="edmund" href="#contents" style="font-size:1.2em;">2.4.2 Edmund Calamy's Hypothetical Universalism</a>
 
 The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes [Calamy's unique hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7), of which several exist. 
@@ -333,17 +345,7 @@ Arminians such as Miley aver that an unlimited Atonement makes universal salvati
 
 <a name="atone" href="#contents" style="font-size:1.2em;">2.4.4 Summary & Conclusion</a>
 
-> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of <span style="color:#3EA055;">**Sublapsarian Calvinism** [Moderate Calvinism]</span>. <span style="color:darkred;">**It differs from the Supralapsarian** [Hyper-Calvinism]</span> and <span style="color:#FBB917;">**Infralapsarian schemes** [Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And <span style="color:darkblue;">**it differs from the Arminian scheme** [Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup>
->
-Thomas J. Nettles designates this development a modification of the limited Atonement hypothesis.119 Millard J. Erickson, reflecting on classical formulations of the ordo salutis, describes the position as a form of the unlimited or universal Atonement thesis.120 The view presented may be neither, as it divides the question into the divine intention concerning the provision of the cross, which is universal, and his intention concerning the application thereof, which is particular. <span style="color:#3EA055;">The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself</span>—a position that was narrowed by later, scholastic Calvinism. Our perspective, moreover, offers greater specificity than the dictum frequently articulated in evangelical circles: “The Atonement is sufficient for all but efficient for the elect.” Rather, it affirms that by divine intention Christ’s suffering and death are universal in its provision and particular in its application. 
->
-A. Realize That Christ Died for You
->
-The multiple purposes of Christ’s death on the cross can be represented by three concentric circles. **The largest circle represents the entire world for whom the Savior died as the adequate provision for sins (1 Tim 4:10; 1 John 2:2; 4:14). The middle circle delineates the sum of all believers, i.e., the church (John 10:11, 15; Acts 20:28; Rom 8:32; Gal 1:4; Eph 5:2), to whom Christ’s saving provisions were actually applied. And the innermost circle represents the individual believer for whom Christ made atonement (Gal 2:20b).** That Christ died for me and for you individually and personally is made clear by Paul’s words in the preceding text: “the Son of God . . . loved me [me] and gave himself for me [hyper emou].” It is highly significant that in describing the true Gospel and its ministry Paul used the first-person, singular pronoun twenty-eight times in this second chapter of Galatians. 
->
-How blessed it is to realize that Christ took my place on the cross and was forsaken of God for me. For my sins he bore in his body the penalty required by a holy and just God. ...
->
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 193-194.
+> Under Construction
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
