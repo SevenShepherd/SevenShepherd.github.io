@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 1:00:00 -0500
+date: 2020-01-01 1:05:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -188,7 +188,7 @@ Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4;
 
 <!-- When it comes to the distinctives of protestantism, I would describe myself as a moderate. Below I've selected the very best works on each respective subject to save you a great deal of time. I've also color coded them to represent what I think is closest to scripture. -->
 
-As far as I can articulate right now, my theology is a systemless hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. See options in yellow.
+As far as I can articulate right now, my theology is a systemless hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. See options in yellow. While I admire J. I. Packer & Grudem's genuine character, and consider them to be extraordinary intellects, I must deviate from limited atonement.
 
 <!-- See [article](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#contemporary) -->
 
