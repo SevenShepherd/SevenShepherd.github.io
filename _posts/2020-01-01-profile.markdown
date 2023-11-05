@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 1:05:00 -0500
+date: 2020-01-01 1:15:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -730,13 +730,18 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 
 # 8.1 Chess & Logic Puzzles
 
-Recreational mathematics like logic puzzles, and strategy board games like [chess](https://youtu.be/cDJXsPS5FPM), have been shown to increase neuroplasticity. Obviously programming, mathematics, and physics would be extremely beneficial.
+Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never taken it seriously as a sport, there are many inspirational figures like Bobby Fischer, & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53) that make the game intriguing.
 
 |||
 |:-:|:-:|
-|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Childhood)|
+|Robert James Fischer<br>"Bobby Fischer"<br>March 9, 1943 to January 17, 2008|[Bobby Fischer Teaches Chess](https://libgen.is/book/index.php?md5=7AC5C8D56C250FE8ECB8B277D1CE73A4)<br>Chess Strategy<br>(Youth)|
 |Paul Van der Sterren|Fundamental Chess Openings (2009)|
 |Nick de Firmian|Modern Chess Openings (2008)|
+
+I don't think theres better logic puzzle material than Smullyan's.
+
+|||
+|:-:|:-:|
 |Dr. Raymond M. Smullyan<br>May 25, 1919|What Is the Name of This Book?, To Mock a Mockingbird, The Lady or the Tiger?, A Beginner's Guide to Mathematical Logic, A Beginner's Further Guide to Mathematical Logic|
 
 <!-- Hello and welcome, my name is ---- and my philosophy is known as [autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism). I have been a hobbyist programmer since the turn of the millennium. In the past, I successfully taught myself how to program in C/C++, grew advanced with Perl, but ultimately my formal language of choice became Python, and as a result, the predominant paradigm you'll see me implement in this blog is of the imperative (procedural & object-oriented) rather than declarative variety.  -->
