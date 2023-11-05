@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 04:35:00 -0500
+date: 2023-09-12 04:45:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -161,7 +161,7 @@ When you profess Christ truly, you walk as he walked. We're not saved by this wa
 
 <!-- We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only have you proven that you do not love God (Jn 14:15,21), but that your profession of faith was false (1Jn 2:3-6).  -->
 
-We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). 
+We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
