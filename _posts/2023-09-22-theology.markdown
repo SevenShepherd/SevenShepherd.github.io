@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 9:45:00 -0500
+date: 2023-10-19 10:00:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -22,7 +22,7 @@ published: true
         - 2.2.2 <a href="#repentance">Repentance (Immediate Fruit)</a>
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
         - 2.2.4 <a href="#legal">False Assurance (Legalism)</a>
-    - 2.3 <a href="#sanctify">Progressive Sanctification</a>
+    - 2.3 <a href="#praise">Praise Music According To Scripture</a>
     - 2.4 Stances On TULIP
         - 2.4.1 <a href="#depravity">Totalness Of Depravity</a>
         - 2.4.2 <a href="#election">Conditionality of Election</a>
@@ -31,8 +31,9 @@ published: true
             - 2.4.3.2 <a href="#edmund">Edmund Calamy</a>
             - 2.4.3.3 <a href="#arminius">James Arminius</a>
             - 2.4.3.4 <a href="#atone">Conclusion</a>
-        - 2.4.4 Resistibility of Grace
-        - 2.4.5 Perseverance
+        - 2.4.4 <a href="#grace">Resistibility of Grace</a>
+        - 2.4.5 <a href="#security">Preservation & Perseverance</a>
+            - 2.4.5.1 <a href="#sanctify">Progressive Sanctification</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge</a>
         - 3.1.1 <a href="#golden">The Golden Chain</a>
@@ -282,26 +283,21 @@ These all seem to me, to be legalistic pleas. They are all appealing to God, the
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
-<a name="sanctify" href="#contents" style="font-size:1.6em;">2.3 Progressive Sanctification</a>
-
-Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, it does not teach that it &ldquo;includes&rdquo; obedience, nor does it teach perfectionism. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
-
-> <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
->
-<sup style="font-weight:bold;">15</sup> What then? **Shall we sin because we are not under law but under grace? Absolutely not!** &mdash; Romans 6:1-2,15 NET
-
-<!-- <a name="repentance" href="#contents" style="font-size:1.2em;">2.2.2 Repentance Is An Immediate Fruit Of Genuine Saving Faith</a> -->
-
-These verses prove that Christians do not pursue lifestyles of indulgent sin. We are not under the law, we are under grace, yet we still do not make a practice of sinning.
-
-1. We're not under the law (Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
-2. We're under grace (Eph 2:8-10)
-3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
-
-*Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
-
 <!--  -->
-<!--  -->
+
+<a name="praise" href="#contents" style="font-size:1.6em;">2.3 Praise Music According To Scripture</a>
+
+Some of my earliest memories with Christian praise music is with my Dad, and also, on a separate occasion, standing next to my Grandfather in the church pews while the choir sang beautiful psalms and hymns to the Lord. As time progresses the church seems to fall further and further away from the heartfelt praise music that **the Bible specifically tells us will be in churches**.
+
+> <sup style="font-weight:bold;">19</sup> addressing one another in **psalms and hymns** and spiritual songs, singing and making melody to the Lord with your heart, &mdash; Ephesians 5:19
+
+While psalms and hymns are specifically mentioned, a third category of praise music is mentioned. In addition to psalms and hymns being present in a true church of God there will also be spiritual songs.
+
+> <sup style="font-weight:bold;">16</sup> Let the word of Christ<sup>[a]</sup> dwell in you richly, teaching and exhorting one another with all wisdom, singing **psalms, hymns, and spiritual songs**, all with grace<sup>[b]</sup> in your hearts to God. — Colossians 3:16
+
+I recommend that your church maintain [**psalms**](https://www.youtube.com/watch?v=pl4ble8bonI) and [**hymns**](https://www.youtube.com/watch?v=55Hlbsp03BE), secondly, spiritual songs are also acceptable if the message is spiritual and Christ centered. Psalms can be old or new, as long as they are Psalms. Hymns can be professional or humble as long as they're hymns.
+
+<a name="TULIP" href="#contents" style="font-size:1.6em;">2.4 Stances On TULIP</a>
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.4.1 Totalness of Depravity</a>
 
@@ -380,7 +376,35 @@ Arminians such as Miley aver that an unlimited Atonement makes universal salvati
 
 <a name="atone" href="#contents" style="font-size:1.2em;">2.4.3.4 Summary & Conclusion</a>
 
-> Under Construction
+> under construction
+
+<a name="grace" href="#contents" style="font-size:1.6em;">2.4.4 The Resistibility of Grace</a>
+
+> under construction
+
+<a name="security" href="#contents" style="font-size:1.6em;">2.4.5 Perserverence Of The Saints</a>
+
+> under construction
+
+<a name="sanctify" href="#contents" style="font-size:1.2em;">2.4.5.1 Progressive Sanctification</a>
+
+Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, it does not teach that it &ldquo;includes&rdquo; obedience, nor does it teach perfectionism. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
+
+> <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
+>
+<sup style="font-weight:bold;">15</sup> What then? **Shall we sin because we are not under law but under grace? Absolutely not!** &mdash; Romans 6:1-2,15 NET
+
+<!-- <a name="repentance" href="#contents" style="font-size:1.2em;">2.2.2 Repentance Is An Immediate Fruit Of Genuine Saving Faith</a> -->
+
+These verses prove that Christians do not pursue lifestyles of indulgent sin. We are not under the law, we are under grace, yet we still do not make a practice of sinning.
+
+1. We're not under the law (Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. We're under grace (Eph 2:8-10)
+3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
+
+*Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
+
+<!--  -->
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">⚜️ 3. Ordo Salutis</a>
 
