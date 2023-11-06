@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 04:00:00 -0500
+date: 2023-05-12 04:05:00 -0500
 categories: sin practice
 published: true
 ---
@@ -332,7 +332,9 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="turek" href="#turek_cite" style="font-size:1.4em;">1.1.3.12 Dr. Frank Turek (D.Min., SES)</a>
 
-    See <a href="#geisler">Geisler</a>
+    > To "believe that" is to have the belief that Christianity is true; to "believe in" is to put your trust in Jesus. To get your moral transgressions forgiven, you have to go from "belief that" to "belief in" because "belief that" alone won't save you.
+
+    See <a href="#geisler">Geisler</a> also.
 
 - <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">1.1.3.13 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
 

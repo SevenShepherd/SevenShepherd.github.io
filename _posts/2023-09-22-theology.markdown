@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 9:35:00 -0500
+date: 2023-10-19 9:45:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -106,6 +106,8 @@ I think [Packer](https://sevenshepherd.github.io/practicing-sin/#packer) describ
 - The latin term notitia means ‘knowledge’ and refers to an "acquaintance with the content of the gospel"
 - Assensus or ‘agreement’ means "recognition that the gospel is true"
 - Fiducia means ‘trust and reliance’ and it speaks of the "personal dependence on the grace of Father, Son, and Spirit for salvation, with thankful cessation of all attempts to save oneself by establishing one’s own righteousness: Rom. 4:5; 10:3." 
+
+> To "believe that" is to have the belief that Christianity is true; to "believe in" is to put your trust in Jesus. To get your moral transgressions forgiven, you have to go from "belief that" to "belief in" because "belief that" alone won't save you. &mdash; Dr. Frank Turek (D.Min., Southern Evangelical Seminary)
 
 **This is the historic protestant understanding and teaching of faith and I believe this is the correct conclusion.**
 
