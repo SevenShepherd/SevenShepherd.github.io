@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 6:25:00 -0500
+date: 2023-09-22 6:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -19,6 +19,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - 3.3 <a href="#geisler3.3">As delineated by Dr. Norman Geisler</a>
     - 3.4 <a href="#sproul3.4">As delineated by Dr. R.C. Sproul</a>
 4. <a href="#OrdoSalutis">Ordo Salutis</a>
+    - 4.1 <a href="#OrdoSalutisAlt">Alternative Ordo Salutis</a>
 5. <a href="#rejected">Rejections of Limited Atonement</a>
     - 5.1 <a href="#ChurchFathers">Church Fathers Reject Limited</a>
     - 5.2 <a href="#reformers">Reformers Reject Limited</a>
@@ -156,34 +157,55 @@ There is a simpler chart provided by R.C. Sproul, who simplifies the difference 
 
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">IV. Ordo Salutis</a>
 
-The Ordo Salutis reads similarly to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/), but regeneration is sometimes moved from before faith, to after. Some might argue that this makes this theology lose its status as monergistic, but that may not be the case as it still upholds unconditional election. Although, it's worth noting that Norman Geisler, who is himself a moderate calvinist, advocates for a form of synergism. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
+Since the only real difference between Calvinism & Moderate Calvinism is the extent of the atonement and slight alteration to the order of decrees, the ordo salutis should be identical to [Scholastic Calvinism](https://sevenshepherd.github.io/ordo-salutis-calvinist/). Ordo salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
-> Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
-
-The following is the Ordo Salutis for broadly reformed evangelicals. Amyraldians may have a further modified Ordo Salutis, but it should be very similar.
-
-1. **Election**
-    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
-2. **Effectual calling**
-    - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
-3. **Belief in the Gospel**
-    - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
+1. **Calling**
+    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
+2. **Regeneration**
+    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
+3. **Faith**
+    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
 4. **Repentance**
-    - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
-5. **Trust in Christ**
-    - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
-6. **Regeneration**
-    - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
-7. **Union with Christ**
-    - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
-8. **Justification**
-    - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
-9. **Sanctification**
-    - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
-10. **Preservation and perseverance**
-    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
-11. **Glorification**
-    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
+    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
+5. **Justification**
+    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
+6. **Sanctification**
+    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
+7. **Preservation and perseverance**
+    - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
+8. **Glorification**
+    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness.
+
+- <a name="OrdoSalutisAlt" href="#contents" style="font-size:1.6em;">4.1. Ordo Salutis Alternative</a>
+    
+    Some forms of Moderate Calvinism play with the order of regeneration. Some might argue that this makes this theology lose its status as monergistic; Geisler for instance, embraces synergism. I do not think synergism is safe, but as long as he doesn't mean that he merits his salvation by his free will, then it's not really falling under these labels. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
+
+    > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
+
+    The following is the Ordo Salutis for broadly reformed evangelicals. Amyraldians may have a further modified Ordo Salutis, but it should be very similar.
+
+    1. **Election**
+        - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
+    2. **Effectual calling**
+        - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
+    3. **Belief in the Gospel**
+        - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
+    4. **Repentance**
+        - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
+    5. **Trust in Christ**
+        - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
+    6. **Regeneration**
+        - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
+    7. **Union with Christ**
+        - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
+    8. **Justification**
+        - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
+    9. **Sanctification**
+        - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
+    10. **Preservation and perseverance**
+        - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
+    11. **Glorification**
+        - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
 <a name="rejected" href="#contents" style="font-size:2.1em;">V. Rejections of Limited Atonement</a>
 
