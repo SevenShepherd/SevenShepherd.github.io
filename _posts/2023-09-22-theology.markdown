@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 10:00:00 -0500
+date: 2023-10-19 10:07:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -311,7 +311,17 @@ I recommend that your church maintain [**psalms**](https://www.youtube.com/watch
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.
 
-<a name="election" href="#contents" style="font-size:1.6em;">2.4.1 Conditionality Of Election</a>
+<a name="election" href="#contents" style="font-size:1.6em;">2.4.2 Conditionality Of Election</a>
+
+God chose you before you developed the ability to choose, even before your body formed in your mother's womb. While I don't know if I care whether I have free will or not since my will is aligned with God's to the point to where mine no longer matters, I will say, irrespective of this, I don't think election is arbitrary nor do I think that it's based on human free will. I believe it's a kind of forelove, a prescient relationship foreknown.
+
+My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and so I call it a hybrid moderate stance, and my view I've named, the [prescient forelove](https://sevenshepherd.github.io/theology/#unique) view. Contrasted:
+
+- [Arminians](https://sevenshepherd.github.io/ordo-salutis-arminian/) say God elected upon our efforts or willing. If you say God elects based upon our willing it, you're works based plain and simple. It's much deeper than that, it's not about the head it's about the heart.
+- [Calvinists](https://sevenshepherd.github.io/ordo-salutis-calvinist/) say God arbitrarily chooses then foreloves in the sense of preordaining. This is likened to a computer rolling the dice with a pseudo-random number generator, only afterwards does love come into play.
+- [Prescient forelove](https://sevenshepherd.github.io/theology/#unique) upholds God's sovereignty and acknowledges that the NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13), so it replaces the arbitrary nature of election (cal.) for a reciprocated “forelove” not based on cognitive assent (arm.), but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith. It works irrespective of human willing even if humans have free will.
+
+Below I've listed various quotes on election and predestination, in an attempt to show that these doctrines are real biblical teachings, even if I hold a unique view on how God does the electing.
 
 > **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
 >
