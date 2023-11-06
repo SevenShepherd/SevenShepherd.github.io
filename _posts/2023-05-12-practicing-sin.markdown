@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 01:45:00 -0500
+date: 2023-11-05 01:55:00 -0500
 categories: sin practice
 published: true
 ---
@@ -68,7 +68,7 @@ We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; 
     - 5.5 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
     - 5.6 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
     - 5.7 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
-    - 5.8 <a href="#macarthur">Dr. John MacArthur (DD, Talbot)</a>
+    - 5.8 <a href="#macarthur">Dr. MacArthur (DD, Talbot)</a>
 6. <a href="#scholars_moderate">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
     - 6.1 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
     - 6.2 <a href="#demarest">Dr. Demarest (PhD, Manchester)</a>
