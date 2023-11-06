@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 01:55:00 -0500
+date: 2023-11-05 02:00:00 -0500
 categories: sin practice
 published: true
 ---
 
 <!-- > <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV -->
 
-I've complied a list of some of the most sound spiritual leaders for Christ as well as the most highly educated minds in theology and science, to prove once and for all the simple and natural reading of the Bible, that Christians do not "practice" sin (1 Jn 3:6-10,31; 5:18; Heb 10:26-31; 6:4-6), abuse grace as a license to sin (Jd 4 NET), or remain in a lifestyle of sin (Ro 6:1-2,15; Gal 5:19-21). If they do, they give strong evidence of false profession if not outright prove by scripture that they are liars (1Jn 2:4; Mt 10:38; Mt 18:3 NLT; Lk 9:23,62).
+I've complied a list of some of the most sound spiritual leaders for Christ as well as the most highly educated minds in theology and science, to prove once and for all the simple and natural reading of the Bible, that Christians do not "practice" sin (1 Jn 3:6-10,31; 5:18; Heb 10:26-31; 6:4-6), abuse grace as a license to sin (Jd 4 NET), or remain in a lifestyle of sin (Ro 6:1-2,15; Gal 5:19-21). If they do, they give strong evidence of false profession (1Jn 2:4; Mt 10:38; Mt 18:3 NLT; Lk 9:23,62).
+
+<!-- if not outright prove by scripture that they are liars -->
 
 > **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
 
