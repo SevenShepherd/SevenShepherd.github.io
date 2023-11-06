@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 01:15:00 -0500
+date: 2023-11-05 01:35:00 -0500
 categories: sin practice
 published: true
 ---
@@ -68,6 +68,7 @@ We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; 
     - 5.5 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
     - 5.6 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
     - 5.7 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
+    - 5.8 <a href="#macarthur">Dr. John MacArthur (DD, Talbot)</a>
 6. <a href="#scholars_moderate">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
     - 6.1 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
     - 6.2 <a href="#demarest">Dr. Demarest (PhD, Manchester)</a>
@@ -269,6 +270,10 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > ... <span style="font-weight:bold;color:orangered;">you can say you know God but if you live a life in the pursuit of <span style="font-size:1.2em;color:red;">practicing</span> sin you have never been born again.</span> Now John is not saying that a christian can never sin, we all sin all right, but we don't love our sin and we're not pursuing our sin. We will occasionally fall into sin, but <span style="font-weight:bold;color:orangered;">the one who is living a life, a <span style="font-size:1.2em;color:red;">lifestyle</span>, of continually sinning has never been born again.</span> So it doesn't matter how many times you've walked an aisle, doesn't matter how many times you've prayed a prayer with a counselor, it doesn't matter how many times you've joined a church, <span style="font-weight:bold;color:orangered;">if your life doesn't match up with your profession of faith it calls into serious account the validity of your profession of faith in christ.</span> So to put it another way wherever there is the root of the new birth <span style="font-weight:bold;color:orangered;">there will always be the fruit of a changed life</span> and even Jesus said in matthew 7 verse 20 you will know them by their fruit you can know what's going on beneath the surface down in the ground where the root is by just examining the fruit and so that's the whole argument that John is making here. To put it another way, there is an inseparable connection between regeneration and sanctification, regeneration will always be evidenced in sanctification, which is a progressive growth into christ's likeness. &mdash; [Dr. Steven J. Lawson](https://www.youtube.com/live/YYTF8cTETzc?feature=share&t=628)
 
+- <a name="macarthur" href="#lawson_cite" style="font-size:1.4em;">5.8 Dr. John MacArthur (D.D., Talbot)</a>
+
+    > under construction
+
 <a name="scholars_moderate" href="#contents" style="font-size:1.6em;">5 Biblical Scholars (Moderate Calvinist)</a>
 
 - <a name="carson" href="#carson_cite" style="font-size:1.4em;">6.1 Dr. D. A. Carson (Ph.D., University of Cambridge)</a>
@@ -335,7 +340,9 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">9.1 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
 
-    See <a href="#geisler">Geisler</a>
+    > As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
+
+    > As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
 
 <br>
 
