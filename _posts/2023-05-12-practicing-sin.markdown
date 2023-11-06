@@ -1,10 +1,28 @@
 ---
 layout: post
-title: "✅ All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals"
-date: 2023-05-12 04:05:00 -0500
+title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
+date: 2023-11-05 01:15:00 -0500
 categories: sin practice
 published: true
 ---
+
+<!-- > <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV -->
+
+I've complied a list of some of the most sound spiritual leaders for Christ as well as the most highly educated minds in theology and science, to prove once and for all the simple and natural reading of the Bible, that Christians do not "practice" sin (1 Jn 3:6-10,31; 5:18; Heb 10:26-31; 6:4-6), abuse grace as a license to sin (Jd 4 NET), or remain in a lifestyle of sin (Ro 6:1-2,15; Gal 5:19-21). If they do, they give strong evidence of false profession if not outright prove by scripture that they are liars (1Jn 2:4; Mt 10:38; Mt 18:3 NLT; Lk 9:23,62).
+
+> **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
+
+The Serpent has been hard at work cleverly disguising his same words of deception that destroyed our parents (Adam & Eve). Modern theologies reflect the lie the serpent spewed, <span style="font-style:italic;">&ldquo;Surely you will not die&rdquo;</span> (Gen. 3:4 NET) by falsely teaching grace as a license to sin (Jd 4 NET).
+
+> <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV
+
+Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling against sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10).
+
+> Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
+
+We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
+
+<!-- All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals -->
 
 <!-- The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a> -->
 
@@ -32,18 +50,17 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#practice">True Christians Practice Righteousness</a>
-    - 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
+1. <a href="#1Jn3:6-10">First John 3:6-10</a>
 2. <a href="#studies">Study Bibles & Commentaries</a>
     - 2.1 <a href="#ESVSB">ESV Study Bible</a>
 3. <a href="#critics">Textual Critics</a>
     - 3.1 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
-4. <a href="#scientist">Scientist Theologians</a> ([**Realism**](https://en.wikipedia.org/wiki/Theological_critical_realism))
-    - 4.1 <a href="#lennox">Dr. Lennox (PhD,DPhil,DSc, "Oxbridge")</a>
-    - 4.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
+4. <a href="#scientist">Scientist Theologians</a> ([**Crit. Realism**](https://en.wikipedia.org/wiki/Theological_critical_realism))
+    - 4.1 <a href="#polkinghorne">Dr. Polkinghorne (PhD, PhD, Cambridge)</a>
+    - 4.2 <a href="#lennox">Dr. Lennox (PhD, DPhil, DSc, "Oxbridge")</a>
     - 4.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
     - 4.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
-5. <a href="#scholars">Biblical Scholars</a> ([**Scholastic Calvinist**](https://sevenshepherd.github.io/ordo-salutis-calvinist/))
+5. <a href="#scholars_calvinist">Biblical Scholars</a> ([**Scholastic Calvinist**](https://sevenshepherd.github.io/ordo-salutis-calvinist/))
     - 5.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge)</a>
     - 5.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
     - 5.3 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
@@ -51,92 +68,37 @@ published: true
     - 5.5 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
     - 5.6 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
     - 5.7 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
-6. <a href="#scholars">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
+6. <a href="#scholars_moderate">Biblical Scholars</a> ([**Moderate Calvinist**](https://sevenshepherd.github.io/ordo-salutis-amyraldian/))
     - 6.1 <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
     - 6.2 <a href="#demarest">Dr. Demarest (PhD, Manchester)</a>
     - 6.3 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
     - 6.4 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
     - 6.5 <a href="#turek">Dr. Turek (DMin, SES)</a>
-7. <a href="#scholars">Biblical Scholars (Moderate Neotheist)</a>
-    - 7.1 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
-8. <a href="#pastors">Pastors (Moderate Arminian w/ Eternal Sec.)</a>
-    - 8.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
-    - 8.2 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
-9. <a href="#pastors">Pastors</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
-    - 9.1 <a href="#graham">Billy Graham</a>
+7. <a href="#pastors_modarm">Pastors (Moderate Arminian w/ Eternal Sec.)</a>
+    - 7.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
+    - 7.2 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
+8. <a href="#pastors_arm">Pastors</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
+    - 8.1 <a href="#graham">Billy Graham</a>
+9. <a href="#scholars_neo">Biblical Scholars (Moderate Neotheist)</a>
+    - 9.1 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
 
+<!-- <a name="practice" href="#contents" style="font-size:2.1em;">I. True Christians Do Not Practice Sin</a>
 
+I've complied a list of some of the most spiritual leaders for Christ as well as the most highly educated minds in theology and science, to prove once and for all the simple and natural reading of the Bible, that Christians do not "practice" sin (1 Jn 3:6-10,31; 5:18; Heb 10:26-31; 6:4-6), abuse grace as a license to sin (Jd 4 NET), or remain in a lifestyle of sin (Ro 6:1-2,15; Gal 5:19-21). If they do, they give strong evidence of false profession if not outright prove by scripture that they are liars (1Jn 2:4; Mt 10:38; Mt 18:3 NLT; Lk 9:23,62).
 
-<!-- <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+> **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
 
-I. <a href="#practice">True Christians Practice Righteousness</a>
-- 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
-    - 1.1.1 <a href="#studies">Study Bibles</a>
-        - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
-    - 1.1.2 <a href="#scientist">Scientist Theologians</a>
-        - **Systemless**
-        - 1.1.2.1 <a href="#lennox">Dr. Lennox (PhD,DPhil,DSc, "Oxbridge")</a>
-        - 1.1.2.2 <a href="#polkinghorne">Dr. Polkinghorne (PhD, Cambridge)</a>
-        - 1.1.2.3 <a href="#mcgrath">Dr. McGrath (PhD, DD, DLitt, Oxford)</a>
-        - 1.1.2.4 <a href="#ross">Dr. Ross (Ph.D., Toronto)</a>
-    - 1.1.3 <a href="#scholars">Biblical Scholars & Pastors</a>
-        - **Scholastic Calvinist ([Infra.](https://sevenshepherd.github.io/election/#decrees))**
-        - 1.1.3.1 <a href="#grudem">Dr. Grudem (PhD, Cambridge; DD, Westminister)</a>
-        - 1.1.3.2 <a href="#packer">Dr. Packer (PhD, Oxford)</a>
-        - 1.1.3.4 <a href="#horton">Dr. Horton (PhD, Oxford)</a>
-        - 1.1.3.5 <a href="#wallace">Dr. Wallace (PhD, Dallas)</a>
-        - 1.1.3.6 <a href="#mounce">Dr. Mounce (PhD, Aberdeen)</a>
-        - 1.1.3.7 <a href="#sproul">Dr. Sproul (PhD, Whitefield)</a>
-        - 1.1.3.8 <a href="#piper">Dr. Piper (DTheol, Munich)</a>
-        - 1.1.3.9 <a href="#piper">Dr. Lawson (DMin, RTS)</a>
-        - **Moderate Cal. Amyraldian ([Sub.](https://sevenshepherd.github.io/election/#decrees))**
-        - 1.1.3.x <a href="#carson">Dr. Carson (PhD, Cambridge)</a>
-        - 1.1.3.x Dr. Demarest (PhD, Manchester)
-        - 1.1.3.10 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
-        - 1.1.3.11 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
-        - 1.1.3.12 <a href="#turek">Dr. Turek (DMin, SES)</a>
-        - **Moderate Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
-        - 1.1.3.x <a href="#smith">Chuck Smith (BA, LBC)</a>
-        - 1.1.3.13 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
-        - **Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
-        - 1.1.3.x <a href="#graham">Billy Graham</a>
-        - **Moderate Neotheist**
-        - 1.1.3.14 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a> -->
-    
-    
-<!-- - 1.1.4 <a href="#pastors">Pastors</a>
-    - **Moderate Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
-    - 1.1.3.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
-    - **Arminian ([Wesl.](https://sevenshepherd.github.io/election/#decrees))**
-    - 1.1.3.2 <a href="#graham">Billy Graham</a> -->
+The Serpent has been hard at work cleverly disguising his same words of deception that destroyed our parents (Adam & Eve). Modern theologies reflect the lie the serpent spewed, <span style="font-style:italic;">&ldquo;Surely you will not die&rdquo;</span> (Gen. 3:4 NET) by falsely teaching grace as a license to sin (Jd 4 NET).
 
+> <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV
 
+Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling against sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). Fact.
 
-<!-- - I. <a href="#practice">True Christians Practice Righteousness</a>
-    - 1.1 <a href="#1Jn3:8-10">First John 3:8-10</a>
-        - 1.1.1 <a href="#studies" style="color:black;">Study Bibles</a>
-            - 1.1.1.1 <a href="#ESVSB">ESV Study Bible</a>
-    - 1.2 <a href="#reformed" style="color:black;">Reformed Theology</a>
-        - 1.2.1 <a href="#orthodox" style="color:black;">Scholastic Calvinism</a>
-            - 1.2.1.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
-            - 1.2.1.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
-            - 1.2.1.3 <a href="#carson">Dr. Carson (Ph.D., Cambridge)</a>
-            - 1.2.1.4 <a href="#horton">Dr. Horton (Ph.D., Oxford)</a>
-            - 1.2.1.5 <a href="#sproul">Dr. Sproul (Ph.D., Whitefield)</a>
-            - 1.2.1.6 <a href="#piper">Dr. Piper (D.Theol., Munich)</a>
-            - 1.2.1.7 <a href="#piper">Dr. Lawson (D.Min., RTS)</a>
-        - 1.2.2 <a href="#moderate" style="color:black;">Moderate Calvinism</a>
-            - 1.2.2.1 <a href="#rhodes">Dr. Rhodes (Th.D., Dallas)</a>
-            - 1.2.2.2 <a href="#geisler">Dr. Geisler (M.A., Wheaton)</a>
-            - 1.2.2.2 <a href="#turek">Dr. Turek (D.Min., SES)</a>
-        - 1.2.3 <a href="#evangelical" style="color:black;">Broadly Reformed / Evangelical</a>
-            - 1.2.3.1 <a href="#smith">Chuck Smith (B.A., LBC)</a>
-            - 1.2.3.2 <a href="#heitzig">Dr. Heitzig (Ph.D., Trinity Southwest)</a> -->
+> Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
 
+We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT). -->
 
-
-<a name="practice" href="#contents" style="font-size:2.1em;">I. True Christians Do Not Practice Sin</a>
-
+<!-- 
 Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling against sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). Fact.
 
 > &ldquo;*the faith that justifies, Luther said, is a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience.*&rdquo; &mdash; [**Dr. R. C. Sproul**](hhttps://youtu.be/-HMb9YjRq8Q?t=703) (Ph.D., Whitefield Theological Seminary)
@@ -150,7 +112,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 |<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
 |<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
 |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
-|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
+|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>| -->
 
 <!-- |True Saving Faith||
 |:-:|:-:|
@@ -160,15 +122,15 @@ When the academic community, the exegetes, the textual critics, the research pro
 |<a href="https://carm.org/dictionary/antinomianism/" style="font-weight:bold;color:darkred">Antinomianism</a><br>Faith = Justification - Works<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>| -->
 
 
-<a name="1Jn3:8-10" href="#contents" style="font-size:1.6em;">1.1 First John 3:8-10</a>
+<a name="1Jn3:6-10" href="#contents" style="font-size:1.6em;">1. First John 3:6-10</a>
 
-> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:orangered">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:orangered">No one born of God makes a practice of sinning</span>, for God's<sup style="color:#A8A8A8">[a]</sup> seed abides in him; and <span style="font-weight:bold;color:orangered">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> By this it is evident who are the children of God, and who are the children of the devil: **whoever does not practice righteousness is not of God, nor is the one who does not love his brother**. &mdash; 1 John 3:8-10 ESV
+> <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> Little children, let no one deceive you. <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:orangered;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:orangered;">No one born of God makes a practice of sinning</span>, for God's<sup style="color:#A8A8A8">[a]</sup> seed abides in him; and <span style="font-weight:bold;color:orangered;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:red;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:red;">who are the children of the devil</span>: whoever does not practice righteousness is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
 
 <!-- > <sup style="font-weight:bold;">8</sup> The one who practices sin is of the devil, because the devil has been sinning from the beginning. For this purpose the Son of God was revealed: to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> Everyone who has been fathered by God does not practice sin, because God’s seed resides in him, and thus he is not able to sin, because he has been fathered by God. <sup style="font-weight:bold;">10</sup> By this the children of God and the children of the devil are revealed: Everyone who does not practice righteousness—the one who does not love his fellow Christian—is not of God. &mdash; 1 Jn 3:8-10 NET -->
 
-<a name="studies" href="#contents" style="font-size:1.6em;">1.1.1 Study Bibles</a>
+<a name="studies" href="#contents" style="font-size:1.6em;">2. Study Bibles</a>
 
-- <a name="ESVSB" href="#esvsb_cite" style="font-size:1.4em;">1.1.1.1 ESV Study Bible</a>
+- <a name="ESVSB" href="#esvsb_cite" style="font-size:1.4em;">2.1 ESV Study Bible</a>
 
     > **3:6–7** No one who abides … keeps on sinning. True followers of Christ do not recklessly and habitually violate what their anointing (2:20, 27) has planted within them (see note on 3:9–10). <span style="font-weight:bold;color:orangered;">Those who do habitually sin have neither seen him nor known him. They are <span style="font-size:1.2em;color:red;">not genuine Christians</span>.</span> On “abides,” see also notes on John 8:31; 15:4.
 
@@ -176,9 +138,19 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > **3:9-10** ... In other words, because the Word is present in the believer’s heart through the work of the Spirit, <span style="font-weight:bold;color:orangered;">the believer <span style="font-size:1.2em;color:red;">cannot</span> keep on sinning. Thus the hearts of <span style="font-size:1.2em;color:red;">genuine Christians</span> (those who are truly children of God) have been so transformed that they cannot live in a pattern of continual sin</span>—though this does not mean that Christians are ever completely free from sin in this life (see 1 John 1:8–10). By this it is evident. Or, as Jesus said of false prophets, *“You will recognize them by their fruits”* (Matt. 7:16).
 
-<a name="scientist" href="#contents" style="font-size:1.6em;">1.1.2 Scientist Theologians</a>
+<a name="scientist" href="#contents" style="font-size:1.6em;">3. Textual Critics</a>
 
-- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">1.1.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+- <a name="wallace" href="#wallace_cite" style="font-size:1.4em;">3.1 Dr. Daniel B. Wallace (Ph.D., Dallas Theological Seminary)</a>
+
+    > Under Construction
+
+<a name="scientist" href="#contents" style="font-size:1.6em;">4 Scientist Theologians</a>
+
+- <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">4.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
+
+    See <a href="#lennox">Lennox</a>
+
+- <a name="lennox" href="#lennox_cite" style="font-size:1.4em;">4.2 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
     > According to the Oxford English Dictionary the word “faith” derives from the Latin fides (from which we get “fidelity”), so its basic meaning is “trust” or “reliance”. The Greek etymological equivalent is pistis, which is found in the New Testament where it has the following principal senses:
     >
@@ -217,11 +189,7 @@ When the academic community, the exegetes, the textual critics, the research pro
     >
     &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; pp. 322-323.
 
-- <a name="polkinghorne" href="#polkinghorne_cite" style="font-size:1.4em;">1.1.2.2 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge)</a>
-
-    See <a href="#lennox">Lennox</a>
-
-- <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">1.1.2.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
+- <a name="mcgrath" href="#mcgrath_cite" style="font-size:1.4em;">4.3 Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford)</a>
 
     <!-- See <a href="#lennox">Lennox</a> -->
 
@@ -229,13 +197,13 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > **Faith is about trust in God, rather than just accepting that God exists.** &mdash; Dr. Alister McGrath (PhD, DD, DLitt), Theology - The Basics, Faith. p. 4.
 
-- <a name="ross" href="#ross_cite" style="font-size:1.4em;">1.1.2.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
+- <a name="ross" href="#ross_cite" style="font-size:1.4em;">4.4 Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)</a>
 
     > Under construction
 
-<a name="scholars" href="#contents" style="font-size:1.6em;">1.1.3 Biblical Scholars</a>
+<a name="scholars_calvinist" href="#contents" style="font-size:1.6em;">5 Biblical Scholars (Scholastic Calvinist)</a>
 
-- <a name="grudem" href="#grudem_cite" style="font-size:1.4em;">1.1.3.1 Dr. Wayne Grudem (Ph.D., University of Cambridge)</a>
+- <a name="grudem" href="#grudem_cite" style="font-size:1.4em;">5.1 Dr. Wayne Grudem (Ph.D., University of Cambridge)</a>
 
     > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; Dr. Wayne Grudem (Ph.D., Cambridge; D.D., Westminster), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 71.
 
@@ -255,7 +223,7 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     The context shows that James was referring to showing one’s faith through doing good deeds. This is not to be confused with Paul (Rom 3:20, 28; Gal 2:16; 3:10–12) when he was referring to “works” (erga) of Jewish law.<sup><a href="#logos_cite">4</a></sup>
 
-- <a name="packer" href="#packer_cite" style="font-size:1.4em;">1.1.3.2 Dr. J. I. Packer (Ph.D., University of Oxford)</a>
+- <a name="packer" href="#packer_cite" style="font-size:1.4em;">5.2 Dr. J. I. Packer (Ph.D., University of Oxford)</a>
 
     Saving faith is composed of three essential elements: notitia, assensus, and fiducia. As Packer points out in Concise Theology: "Without fiducia there is no faith, but without notitia and assensus there can be no fiducia (Rom. 10:14)." 
     
@@ -263,7 +231,47 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > **Justification by works (things we have done) is the heresy of legalism.** Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But <span style="font-weight:bold;color:orangered;">if ‘good works’ (activities of serving God and others) do not follow from our profession of faith</span>, we are as yet believing only from the head, not from the heart: in other words, <span style="font-weight:bold;color:orangered;">justifying faith (fiducia) is <span style="font-size:1.2em;color:red;">not yet ours</span></span>. &mdash; [Concise Theology. Chapter 59 Works. p. 174.](https://amzn.to/40RYx1A)
 
-- <a name="carson" href="#carson_cite" style="font-size:1.4em;">1.1.3.3 Dr. D. A. Carson (Ph.D., University of Cambridge)</a>
+- <a name="horton" href="#horton_cite" style="font-size:1.4em;">5.3 Dr. Michael Horton (Ph.D., Oxford)</a>
+
+    > Under Construction
+
+- <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">5.4 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
+
+    > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced)
+    
+<!-- https://corechristianity.com/resource-library/episodes/am-i-still-a-christian-if-ive-made-jesus-my-savior-but-havent-repented/ -->
+
+<!-- - [Are You Saved by Faith Alone? (Part 1 of 4)](https://youtu.be/Ku4NtSLQclQ)
+- [Are You Saved by Faith Alone? (Part 2 of 4)](https://youtu.be/sOJI6GK9DRg)
+- [Are You Saved by Faith Alone? (Part 3 of 4)](https://youtu.be/q5YsOXiNapk)
+- [Are You Saved by Faith Alone? (Part 4 of 4)](https://youtu.be/GwZD_-Pg7o8) -->
+
+<!-- https://youtu.be/hhISR7b6xwo -->
+
+- <a name="sproul" href="#sproul_cite" style="font-size:1.4em;">5.5 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
+
+    > In our day and age, we have hundreds of thousands, if not millions, of people in America who have made professions of faith, who have never  demonstrated the reality of the faith they claim to possess. [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary](https://youtu.be/-HMb9YjRq8Q?t=616)
+
+    > When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
+
+    |True Saving Faith||
+    |:-:|:-:|
+    |<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
+    |<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
+    |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
+    |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
+
+- <a name="piper" href="#piper_cite" style="font-size:1.4em;">5.6 Dr. John Piper (D.Theol, Munich)</a>
+
+    > Under Construction
+
+- <a name="lawson" href="#lawson_cite" style="font-size:1.4em;">5.7 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
+
+    > ... <span style="font-weight:bold;color:orangered;">you can say you know God but if you live a life in the pursuit of <span style="font-size:1.2em;color:red;">practicing</span> sin you have never been born again.</span> Now John is not saying that a christian can never sin, we all sin all right, but we don't love our sin and we're not pursuing our sin. We will occasionally fall into sin, but <span style="font-weight:bold;color:orangered;">the one who is living a life, a <span style="font-size:1.2em;color:red;">lifestyle</span>, of continually sinning has never been born again.</span> So it doesn't matter how many times you've walked an aisle, doesn't matter how many times you've prayed a prayer with a counselor, it doesn't matter how many times you've joined a church, <span style="font-weight:bold;color:orangered;">if your life doesn't match up with your profession of faith it calls into serious account the validity of your profession of faith in christ.</span> So to put it another way wherever there is the root of the new birth <span style="font-weight:bold;color:orangered;">there will always be the fruit of a changed life</span> and even Jesus said in matthew 7 verse 20 you will know them by their fruit you can know what's going on beneath the surface down in the ground where the root is by just examining the fruit and so that's the whole argument that John is making here. To put it another way, there is an inseparable connection between regeneration and sanctification, regeneration will always be evidenced in sanctification, which is a progressive growth into christ's likeness. &mdash; [Dr. Steven J. Lawson](https://www.youtube.com/live/YYTF8cTETzc?feature=share&t=628)
+
+<a name="scholars_moderate" href="#contents" style="font-size:1.6em;">5 Biblical Scholars (Moderate Calvinist)</a>
+
+- <a name="carson" href="#carson_cite" style="font-size:1.4em;">6.1 Dr. D. A. Carson (Ph.D., University of Cambridge)</a>
 
     > <a href="https://www.thegospelcoalition.org/course/justification-faith-biblical-theological-perspective/#what-is-faith" style="font-size:1.2em;font-weight:bold;">Faith Is More than Belief</a>
     >
@@ -279,48 +287,15 @@ When the academic community, the exegetes, the textual critics, the research pro
     >
     It has a kind of repentance built into it. It’s the very nature of faith to abandon myself to God and His word and His promises, or it’s not saving faith. So when Paul says to the Philippian jailer, “Believe in the Lord Jesus Christ, and you shall be saved,” he certainly means something more than “Believe that Jesus rose from the dead, and you will be saved.” <span style="font-weight:bold;color:orangered;">That you might almost call “demonic faith”; that is to say, it’s faith that a demon can exercise without it saving anybody, whereas genuine saving faith not only believes the truth that God has revealed, but also it finds the believer abandoning himself</span>, abandoning herself, to Christ in wonderful trust.
 
-- <a name="horton" href="#horton_cite" style="font-size:1.4em;">1.1.3.4 Dr. Michael Horton (Ph.D., Oxford)</a>
+- <a name="demarest" href="#demarest_cite" style="font-size:1.4em;">6.2 Dr. Demarest (Ph.D., University of Manchester)</a>
 
     > Under Construction
 
-- <a name="wallace" href="#wallace_cite" style="font-size:1.4em;">1.1.3.5 Dr. Daniel B. Wallace (Ph.D., Dallas Theological Seminary)</a>
-
-    > Under Construction
-
-- <a name="mounce" href="#mounce_cite" style="font-size:1.4em;">1.1.3.6 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
-
-    > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced)
-    
-<!-- https://corechristianity.com/resource-library/episodes/am-i-still-a-christian-if-ive-made-jesus-my-savior-but-havent-repented/ -->
-
-<!-- - [Are You Saved by Faith Alone? (Part 1 of 4)](https://youtu.be/Ku4NtSLQclQ)
-- [Are You Saved by Faith Alone? (Part 2 of 4)](https://youtu.be/sOJI6GK9DRg)
-- [Are You Saved by Faith Alone? (Part 3 of 4)](https://youtu.be/q5YsOXiNapk)
-- [Are You Saved by Faith Alone? (Part 4 of 4)](https://youtu.be/GwZD_-Pg7o8) -->
-
-<!-- https://youtu.be/hhISR7b6xwo -->
-
-    
-
-- <a name="sproul" href="#sproul_cite" style="font-size:1.4em;">1.1.3.7 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
-
-    > In our day and age, we have hundreds of thousands, if not millions, of people in America who have made professions of faith, who have never  demonstrated the reality of the faith they claim to possess. [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary](https://youtu.be/-HMb9YjRq8Q?t=616)
-
-    > When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
-
-- <a name="piper" href="#piper_cite" style="font-size:1.4em;">1.1.3.8 Dr. John Piper (D.Theol, Munich)</a>
-
-    > Under Construction
-
-- <a name="lawson" href="#lawson_cite" style="font-size:1.4em;">1.1.3.9 Dr. Steven J. Lawson (D.Min., Reformed Theological Seminary)</a>
-
-    > ... <span style="font-weight:bold;color:orangered;">you can say you know God but if you live a life in the pursuit of <span style="font-size:1.2em;color:red;">practicing</span> sin you have never been born again.</span> Now John is not saying that a christian can never sin, we all sin all right, but we don't love our sin and we're not pursuing our sin. We will occasionally fall into sin, but <span style="font-weight:bold;color:orangered;">the one who is living a life, a <span style="font-size:1.2em;color:red;">lifestyle</span>, of continually sinning has never been born again.</span> So it doesn't matter how many times you've walked an aisle, doesn't matter how many times you've prayed a prayer with a counselor, it doesn't matter how many times you've joined a church, <span style="font-weight:bold;color:orangered;">if your life doesn't match up with your profession of faith it calls into serious account the validity of your profession of faith in christ.</span> So to put it another way wherever there is the root of the new birth <span style="font-weight:bold;color:orangered;">there will always be the fruit of a changed life</span> and even Jesus said in matthew 7 verse 20 you will know them by their fruit you can know what's going on beneath the surface down in the ground where the root is by just examining the fruit and so that's the whole argument that John is making here. To put it another way, there is an inseparable connection between regeneration and sanctification, regeneration will always be evidenced in sanctification, which is a progressive growth into christ's likeness. &mdash; [Dr. Steven J. Lawson](https://www.youtube.com/live/YYTF8cTETzc?feature=share&t=628)
-
-- <a name="rhodes" href="#rhodes_cite" style="font-size:1.4em;">1.1.3.10 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
+- <a name="rhodes" href="#rhodes_cite" style="font-size:1.4em;">6.3 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
     See <a href="#geisler">Geisler</a>, as they are both moderate calvinists.
 
-- <a name="geisler" href="#geisler_cite" style="font-size:1.4em;">1.1.3.11 Dr. Norman Geisler (M.A., Theology at Wheaton)</a>
+- <a name="geisler" href="#geisler_cite" style="font-size:1.4em;">6.4 Dr. Norman Geisler (M.A., Theology at Wheaton)</a>
 
     > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
@@ -330,23 +305,15 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
-- <a name="turek" href="#turek_cite" style="font-size:1.4em;">1.1.3.12 Dr. Frank Turek (D.Min., SES)</a>
+- <a name="turek" href="#turek_cite" style="font-size:1.4em;">6.5 Dr. Frank Turek (D.Min., SES)</a>
 
     > To "believe that" is to have the belief that Christianity is true; to "believe in" is to put your trust in Jesus. To get your moral transgressions forgiven, you have to go from "belief that" to "belief in" because "belief that" alone won't save you.
 
     See <a href="#geisler">Geisler</a> also.
 
-- <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">1.1.3.13 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
+<a name="pastors_modarm" href="#contents" style="font-size:1.6em;">7. Pastors (Moderate Arminian w/ Eternal Sec.)</a>
 
-    > Our salvation requires both confession and repentance on our part. Though God loves us, He requires us to willingly turn away from our sin and toward Jesus. &mdash; [Skip's Teachings](http://skipheitzig.com/teachings_view.asp?ServiceID=4255)
-
-- <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">1.1.3.14 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
-
-    See <a href="#geisler">Geisler</a>
-
-<a name="pastors" href="#contents" style="font-size:1.6em;">1.1.4 Pastors</a>
-
-- <a name="smith" href="#smith_cite" style="font-size:1.4em;">1.1.4.1 Chuck Smith (B.A., LBC)</a>
+- <a name="smith" href="#smith_cite" style="font-size:1.4em;">7.1 Chuck Smith (B.A., LBC)</a>
 
     The following is an excerpt from Chuck Smith's C2000. We also recommend his topical study on [repentance](https://youtu.be/kP8rIIps4Sk?t=130).
 
@@ -354,9 +321,21 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:orangered;">If you are <span style="font-size:1.2em;color:red;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
 
-- <a name="graham" href="#graham_cite" style="font-size:1.4em;">1.1.4.2 Billy Graham</a>
+- <a name="heitzig" href="#heitzig_cite" style="font-size:1.4em;">7.2 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
+
+    > Our salvation requires both confession and repentance on our part. Though God loves us, He requires us to willingly turn away from our sin and toward Jesus. &mdash; [Skip's Teachings](http://skipheitzig.com/teachings_view.asp?ServiceID=4255)
+
+<a name="pastors_arm" href="#contents" style="font-size:1.6em;">8. Pastors (Arminian)</a>
+
+- <a name="graham" href="#graham_cite" style="font-size:1.4em;">8.1 Billy Graham</a>
 
     > Ask God to reveal the hypocrisy in your life&mdash;<span style="font-weight:bold;color:orangered;">an inconsistency between what you profess and what you <span style="font-size:1.2em;color:red;">practice</span></span>. Then ask God to bring you so close to Christ that you won't have any desire to live an inconsistent, deceitful life. &mdash; Billy Graham
+
+<a name="scholars_neo" href="#contents" style="font-size:1.6em;">9. Biblical Scholars (Moderate Neotheists)</a>
+
+- <a name="ryrie" href="#ryrie_cite" style="font-size:1.4em;">9.1 Dr. Charles C. Ryrie (PhD, Edinburgh)</a>
+
+    See <a href="#geisler">Geisler</a>
 
 <br>
 
