@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 02:10:00 -0500
+date: 2023-11-05 02:15:00 -0500
 categories: sin practice
 published: true
 ---
@@ -22,27 +22,11 @@ I've written this article because certain modern theologies falsely teach grace 
 
 > **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
 
-We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT)
-
-<!--   -->
-
-<!-- They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). -->
-
-<!-- if not outright prove by scripture that they are liars -->
-
-<!-- > **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
-
-The Serpent has been hard at work cleverly disguising his same words of deception that destroyed our parents (Adam & Eve). Modern theologies reflect the lie the serpent spewed, <span style="font-style:italic;">&ldquo;Surely you will not die&rdquo;</span> (Gen. 3:4 NET) by falsely teaching grace as a license to sin (Jd 4 NET).
-
-> <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV
-
-Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_cite">1</a></sup>, a lifestyle of indulgent sin. This is contrasted with struggling against sin, backsliding, and making mistakes. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10).
+We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
 
 > Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
 
-We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT). -->
-
-<!--  -->
+<!--   -->
 
 <!-- All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals -->
 
