@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 02:00:00 -0500
+date: 2023-11-05 02:10:00 -0500
 categories: sin practice
 published: true
 ---
@@ -10,9 +10,27 @@ published: true
 
 I've complied a list of some of the most sound spiritual leaders for Christ as well as the most highly educated minds in theology and science, to prove once and for all the simple and natural reading of the Bible, that Christians do not "practice" sin (1 Jn 3:6-10,31; 5:18; Heb 10:26-31; 6:4-6), abuse grace as a license to sin (Jd 4 NET), or remain in a lifestyle of sin (Ro 6:1-2,15; Gal 5:19-21). If they do, they give strong evidence of false profession (1Jn 2:4; Mt 10:38; Mt 18:3 NLT; Lk 9:23,62).
 
-<!-- if not outright prove by scripture that they are liars -->
+- 🐉 The Serpent says, *&ldquo;Surely you will not die&rdquo;* (Gen. 3:4 NET).
+- 🍇 God says, *&ldquo;Little children, let no one deceive you. ... Whoever makes a practice of sinning is of the devil, ... No one born of God makes a practice of sinning ...&rdquo;* (1 John 3:7-9 ESV)
+- 🧑 Obedience does not merit salvation, salvation produces obedience.
+
+Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
+
+> <span style="font-weight:bold;color:orangered;">Little children, let no one deceive you. ... Whoever makes a practice of sinning <span style="font-size:1.2em;color:red;">is of the devil</span>, ... <span style="font-size:1.2em;color:red;">No one born of God</span> makes a practice of sinning ...</span> &mdash; 1 John 3:7-9 ESV
+
+I've written this article because certain modern theologies falsely teach grace as a license to sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). This is the same deception that Satan used in the garden of eden when he deceived our parents (Adam & Eve). It reflects the lie that the Serpent spewed, *&ldquo;Surely you will not die&rdquo;* (Gen. 3:4 NET). I'm writing this article to protect the children from this demonic teaching.
 
 > **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
+
+We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT)
+
+<!--   -->
+
+<!-- They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31), they will not wallow around in sin (Jd 4 NET; Ro 6:1-2,15; Heb. 10:26-31; 1Jn 2:3-6, 3:8-10). -->
+
+<!-- if not outright prove by scripture that they are liars -->
+
+<!-- > **It would be better for him if a millstone were hung around his neck and he were cast into the sea** <span style="font-weight:bold;color:orangered;">than that he should <span style="font-size:1.3em;color:red;">cause</span> one of these little ones <span style="font-size:1.3em;color:red;">to sin</span></span>. &mdash; Luke 17:2 (cf. 1Jn 3:7-9)
 
 The Serpent has been hard at work cleverly disguising his same words of deception that destroyed our parents (Adam & Eve). Modern theologies reflect the lie the serpent spewed, <span style="font-style:italic;">&ldquo;Surely you will not die&rdquo;</span> (Gen. 3:4 NET) by falsely teaching grace as a license to sin (Jd 4 NET).
 
@@ -22,7 +40,9 @@ Practice in this sense means a lifelong continual pattern<sup><a href="#esvsb_ci
 
 > Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
 
-We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
+We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT). -->
+
+<!--  -->
 
 <!-- All Christian Theologies Agree That No One Born Of God Makes A Practice Of Sinning As Any Unbiased Reading Of The Bible Reveals -->
 
@@ -77,7 +97,7 @@ We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; 
     - 6.3 <a href="#rhodes">Dr. Rhodes (ThD, Dallas)</a>
     - 6.4 <a href="#geisler">Dr. Geisler (PhD, Loyola)</a>
     - 6.5 <a href="#turek">Dr. Turek (DMin, SES)</a>
-7. <a href="#pastors_modarm">Pastors (Moderate Arminian w/ Eternal Sec.)</a>
+7. <a href="#pastors_modarm">Pastors (**Moderate Arminian** w/ Eternal Sec.)</a>
     - 7.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
     - 7.2 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
 8. <a href="#pastors_arm">Pastors</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
