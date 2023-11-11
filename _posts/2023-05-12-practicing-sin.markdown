@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 02:15:00 -0500
+date: 2023-11-05 02:35:00 -0500
 categories: sin practice
 published: true
 ---
@@ -25,6 +25,8 @@ I've written this article because certain modern theologies falsely teach grace 
 We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). If you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
 
 > Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
+
+Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they're not optional, because if the fruit isn't growing, the root is dead (Mt 3:10).
 
 <!--   -->
 
