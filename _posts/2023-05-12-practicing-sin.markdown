@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 02:35:00 -0500
+date: 2023-11-05 02:45:00 -0500
 categories: sin practice
 published: true
 ---
@@ -263,12 +263,14 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     > When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
 
-    |True Saving Faith||
+    |Genuine Saving Faith||
     |:-:|:-:|
-    |<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Rom 3:20,28; Gal 2:16; 3:10-12|<span style="font-weight:bold;color:darkred;">False</span>|
-    |<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph. 2:8-10; Gal. 2:21;5:4|<span style="font-weight:bold;color:darkred;">False</span>|
-    |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph. 2:8-10; Gal. 2:21;5:4<br><span style="color:green;">Reconciles</span>: James 2:14-17,20,24,26|<span style="font-weight:bold;color:green;">True</span>|
-    |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: James 2:14-17,20,24,26<br><span style="color:darkred;">Violates</span>: Jd 4 NET; Ro 6:1-2,15; 1Jn 2:3-6, 3:8-10; Heb. 10:26-31|<span style="font-weight:bold;color:darkred;">False</span>|
+    |<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+    |<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+    |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
+    |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+    
+    <sup style="font-size:10px;font-style:italic;">The verses and descriptions in the chart above were provided by Shepherd, the formulas by R.C. Sproul.</sup>
 
 - <a name="piper" href="#contents" style="font-size:1.4em;">5.6 Dr. John Piper (D.Theol, Munich)</a>
 
