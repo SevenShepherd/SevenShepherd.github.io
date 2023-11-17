@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Your Sin)"
-date: 2023-11-16 01:05:00 -0500
+date: 2023-11-16 01:15:00 -0500
 categories: sects cults movements
 published: true
 ---
@@ -51,7 +51,6 @@ The gospel can be summarized in different ways. Sometimes faith alone is named a
 
 Because belief (Acts 10:43) & repentance (Ac 3:19) are repeatedly said to result in the forgiveness of sins, we say that saving faith results in repentance necessarily. Faith (trust & reliance) is intertwined with a resulting repentance (a turn from sin), because a genuine non-superficial faith carries with it a heart change. This could very will be God's work in us through the concept of regeneration (John 3:7).
 
-
 <a name="commands" href="#contents" style="font-size:2.1em;">II. God Commands Us To Repent</a>
 
 Failing to repent is the best way to show that you don't love God and that you've made a false profession.
@@ -73,9 +72,11 @@ Failing to repent is the best way to show that you don't love God and that you'v
 
 <a name="grief" href="#contents" style="font-size:2.1em;">IV. Godly Grief Produces Repentance</a>
 
-This is a remorse, a **contrition** that leads to salvation. Wordly grief is an **attrition**, that leads to death.
+This is a remorse, a **contrition** that leads to salvation. Worldly grief is an **attrition**, that leads to death.
 
 > For <span style="font-weight:bold;color:orangered;"><span style="font-size:1.2em;color:red;">godly grief produces</span> a repentance that <span style="font-size:1.2em;color:red;">leads to</span> salvation</span> without regret, whereas worldly grief produces death. &mdash; 2 Corinthians 7:10 ESV
+
+<!-- There is only one more consideration; if repentance leads to salvation, and we are saved by faith alone, that would technically place repentance before faith. This poses a problem, if we place repentance before faith and it's not a work of God in us but rather something we do, then we've just done a work before being saved. The only way this isn't a work is if it's God's work of regeneration in us. We could also interpret this as meaning, that faith resulting in repentance leads to salvation-glorification. -->
 
 
 
