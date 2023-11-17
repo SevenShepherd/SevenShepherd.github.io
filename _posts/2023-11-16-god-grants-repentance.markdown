@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Your Sin)"
-date: 2023-11-16 01:00:00 -0500
+date: 2023-11-16 01:05:00 -0500
 categories: sects cults movements
 published: true
 ---
@@ -22,8 +22,9 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 - I. <a href="#grants">God Grants Repentance</a>
+    - 1.2 <a href="#sins">For The Forgiveness Of Sins</a>
 - II. <a href="#commands">God Commands Us To Repent</a>
-- III. <a href="#kindess">Kindness Leads To Repentance</a>
+- III. <a href="#kindness">Kindness Leads To Repentance</a>
 - IV. <a href="#grief">Godly Grief Produces Repentance</a>
 
 <!-- - V. <a href="#led">You Don’t Want To Be Led To Salvation?</a> -->
@@ -36,7 +37,7 @@ Many verses say repent & believe (Mk 1:15; Ac 20:21), while others say believe &
 
 > correcting opponents with gentleness. Perhaps <span style="font-weight:bold;color:orangered;">God will <span style="font-size:1.2em;color:red;">grant</span> them repentance</span> and then knowledge of the truth &mdash; 2 Timothy 2:25 NET
 
-<a name="grants" href="#contents" style="font-size:1.6em;">1.1 For The Forgiveness Of Sins</a>
+<a name="sins" href="#contents" style="font-size:1.6em;">1.1 For The Forgiveness Of Sins</a>
 
 The gospel can be summarized in different ways. Sometimes faith alone is named as the one thing necessary for salvation (see John 3:16; Acts 10:43; 13:38-39; 16:31; Rom. 10:9; Eph. 2:8–9), other times repentance alone is named (Luke 24:47; Acts 3:19,26; 5:31; 17:30; 2 Cor. 7:10), and sometimes both are named (Acts 20:21). Genuine faith always involves repentance, and vice versa. But the preaching of repentance to the death and resurrection of Jesus Christ (Luke 24:46-47).
 
@@ -70,7 +71,7 @@ Failing to repent is the best way to show that you don't love God and that you'v
 > Or do you presume on the riches of **his kindness** and forbearance and patience, not knowing that <span style="font-weight:bold;color:orangered;">God's kindness is meant to lead you to repentance</span>? &mdash; Romans 2:4 ESV
 >> Don’t you see how wonderfully kind, tolerant, and patient God is with you? Does this mean nothing to you? Can’t you see that **his kindness is intended to turn you from your sin**? &mdash; Romans 2:4 NLT (Parallel)
 
-<a name="kindness" href="#contents" style="font-size:2.1em;">IV. Godly Grief Produces Repentance</a>
+<a name="grief" href="#contents" style="font-size:2.1em;">IV. Godly Grief Produces Repentance</a>
 
 This is a remorse, a **contrition** that leads to salvation. Wordly grief is an **attrition**, that leads to death.
 
