@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Your Sin)"
-date: 2023-11-16 01:15:00 -0500
-categories: sects cults movements
+date: 2023-11-16 01:25:00 -0500
+categories: repent repentance
 published: true
 ---
 
 <!-- God Has Granted The Repentance That Leads To Salvation -->
 
-God has granted the repentance (Ac 11:18; 2 Tim. 2:25), and commanded us to repent (Ac 17:30; Mt 4:17; Lk 13:3). Repentance is a turning away from sin to God (Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5), for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31). It is His kindness (Ro 2:4) that leads us to this godly sorrow and contrition which produces a repentance that leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18).
+God has granted the repentance (Ac 11:18; 2 Tim. 2:25), and commanded us to repent (Ac 17:30; Mt 4:17; Lk 13:3). **Repentance is an immediate fruit of genuine saving faith**, and is defined as a turning away from sin to God (Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5), for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31). It is His kindness (Ro 2:4) that leads us to this godly sorrow and contrition which produces a repentance that leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18). Unrepentant sin was not tolerated by the Apostles (Luke 17:3-4 NLT; 1Cor. 5:12-13 NLT).
 
 > No, I tell you; but <span style="font-weight:bold;color:red;">unless you repent</span>, <span style="font-weight:bold;color:red;">you will</span> all likewise <span style="font-weight:bold;color:red;">perish</span>. &mdash; Luke 13:3 ESV
 
@@ -31,7 +31,7 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 
 <a name="grants" href="#contents" style="font-size:2.1em;">I. God Grants Repentance</a>
 
-Many verses say repent & believe (Mk 1:15; Ac 20:21), while others say believe & repent (Acts 11:21; Rev. 3:3). Both faith (Jn 6:29; Phil. 1:29) and repentance (Acts 11:18; 2Tim. 2:25) are referred to as being granted. The reason we say saving faith &ldquo;results&rdquo; in obedience to God, and not &ldquo;includes,&rdquo; is because we know that we are saved by grace through faith alone (Eph. 2:8-10). 
+Many verses say repent & believe (Mk 1:15; Ac 20:21), while others say believe & repent (Acts 11:21; Rev. 3:3). Both faith (Jn 6:29,44,65; Phil. 1:29) and repentance (Acts 11:18; 2Tim. 2:25) are referred to as being granted. The reason we say saving faith &ldquo;results&rdquo; in obedience to God, and not &ldquo;includes,&rdquo; is because we know that we are saved by grace through faith alone (Eph. 2:8-10). 
 
 > When they heard this, they ceased their objections and praised God, saying, “So then, <span style="font-weight:bold;color:orangered;">God has <span style="font-size:1.2em;color:red;">granted</span> the repentance that <span style="font-size:1.2em;color:red;">leads to</span> life</span> even to the Gentiles.” &mdash; Acts 11:18 NET
 
