@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 02:45:00 -0500
+date: 2023-11-05 02:55:00 -0500
 categories: sin practice
 published: true
 ---
@@ -27,6 +27,8 @@ We're saved by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; 
 > Therefore, if anyone is in Christ, he is a new creation. <span style="font-weight:bold;color:orangered;">The old has passed away;</span> <span style="font-weight:bold;color:#3EA055;">behold, the new has come.</span> &mdash; 2 Corinthians 5:17 ESV
 
 Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they're not optional, because if the fruit isn't growing, the root is dead (Mt 3:10).
+
+> The Son of Man will send his angels, and <span style="font-weight:bold;color:orangered;">they will gather from his kingdom <span style="font-size:1.3em;color:red;">everything that causes sin as well as all lawbreakers</span></span>. <span style="font-weight:bold;color:orangered;">They will <span style="font-size:1.3em;color:red;">throw them into the fiery furnace</span>, where there will be weeping and gnashing of teeth.</span> &mdash; Matthew 13:41-42 NET
 
 <!--   -->
 
