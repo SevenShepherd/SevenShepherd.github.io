@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 How Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
-date: 2023-11-11 01:00:00 -0500
+date: 2023-11-19 01:00:00 -0500
 categories: sects cults movements
 published: true
 ---
