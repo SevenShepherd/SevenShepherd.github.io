@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14. (Micro)"
-date: 2023-11-22 01:15:00 -0500
+date: 2023-11-22 01:25:00 -0500
 categories: assurance
 published: true
 ---
@@ -14,7 +14,7 @@ If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; G
 
 > &ldquo;For many are called, but few are chosen.&rdquo; &mdash; Matthew 22:14 ESV
 
-**Giving someone false assurance is one of the most evil and depraved things you can do.**
+People with no understanding of scripture will attempt to tell you that fruit of being saved is works. This is of course the most rediculous lie you will ever be told. The fruit that springs forth from a true and lively faith is post-justification, and is the evidence that God has given us so that we might have assurance at all. Everything else is blind faith and **giving someone false assurance is one of the most evil and depraved things you can do.**
 
 
 
