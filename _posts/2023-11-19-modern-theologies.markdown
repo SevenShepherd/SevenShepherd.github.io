@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🚶📜 How Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
-date: 2023-11-19 01:05:00 -0500
+date: 2023-11-19 01:10:00 -0500
 categories: sects cults movements
-published: false
+published: true
 ---
 
 <!-- 🚶📜 How The 80's \"Free Grace\" Movement Departs From Scripture, Indoctrinating Innocent Children Into Lifestyles Of Sin And False Assurance -->
@@ -56,7 +56,9 @@ The second half of the definition of faith alone &ldquo;*We are justified by fai
 
 <a name="regen" href="#contents" style="font-size:1.6em;">2.1 Lack Of Wisdom On Regeneration</a>
 
-❌ Modern movements and progressives love to depart from scripture and take repentance out of context. They showcase their inability to understand scripture when they attack Christians for repeating the true teachings of Christ on repentance (Lk 13:3). They inadvertently accuse Christ himself (Mt 4:17) and the Apostles (Acts 17:30) of teaching works when no one is doing that. This error in understanding comes from a lack of wisdom surrounding regeneration.
+❌ Modern movements and progressives love to depart from scripture and take repentance out of context. They showcase their inability to understand scripture when they attack Christians for repeating the true teachings of Christ on repentance (Lk 13:3). This error in understanding comes from a lack of wisdom surrounding regeneration.
+
+<!-- TODO They inadvertently accuse Christ himself (Mt 4:17) and the Apostles (Acts 17:30) of teaching works when no one is doing that. -->
 
 <!-- ❌ Modern movements and progressives love to depart from scripture and take repentance out of context. They showcase their inability to understand scripture by essentially accusing Christ himself (Mt 4:17) and the Apostles (Acts 17:30) of teaching works. They do this inadvertently when they attack Christians for repeating the true teachings of scripture. -->
 
@@ -100,7 +102,7 @@ Repentance, obedience, and good works are all fruits of genuine saving faith. Fr
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 7. Conclusion</a>
 
-When you falsely teach anti-Christ doctrines of optional repentance, you teach child molesters to keep molesting, murderers to keep murdering, rapists to keep raping, occultists to keep sacrificing to demons, and idolaters to keep their idolatries. You fill the church with monsters and hypocrites who prey on little children and you understand nothing of faith alone, scripture, or Christ.
+When theologically liberal quacks falsely teach anti-Christ doctrines of no or optional repentance, they teach child molesters to keep molesting, murderers to keep murdering, rapists to keep raping, occultists to keep sacrificing to demons, and idolaters to keep their idolatries. You fill the church with monsters and hypocrites who prey on little children. If you support a repentantless gospel, you understand nothing of faith alone, scripture, or Christ.
 
 ## ⚠️ Under Construction 
 
