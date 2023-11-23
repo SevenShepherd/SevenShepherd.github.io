@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 How Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
-date: 2023-11-19 01:25:00 -0500
+date: 2023-11-19 01:35:00 -0500
 categories: sects cults movements
 published: true
 ---
@@ -102,7 +102,7 @@ Repentance, obedience, and good works are all fruits of genuine saving faith. Fr
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 7. Conclusion</a>
 
-When theologically liberal quacks falsely teach anti-Christ doctrines of no or optional repentance, they teach child molesters to keep molesting, murderers to keep murdering, rapists to keep raping, occultists to keep sacrificing to demons, and idolaters to keep their idolatries. You fill the church with monsters and hypocrites who prey on little children. If you support a repentantless gospel, you understand nothing of faith alone, scripture, or Christ.
+When theologically liberal movements falsely teach anti-Christ doctrines of no or optional repentance, they teach child molesters to keep molesting, murderers to keep murdering, rapists to keep raping, occultists to keep sacrificing to demons, and idolaters to keep their idolatries. You fill the church with monsters and hypocrites who prey on little children. If you support a repentantless gospel, you understand nothing of faith alone, scripture, or Christ.
 
 > <sup style="font-weight:bold;">19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup style="font-weight:bold;">21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
 
