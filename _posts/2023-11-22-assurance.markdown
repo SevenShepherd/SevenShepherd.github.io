@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 02:15:00 -0500
+date: 2023-11-22 02:25:00 -0500
 categories: assurance
 published: true
 ---
@@ -17,6 +17,10 @@ If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; G
 If you're repentant, and are not actively pursuing indulgent lifestyles of sin, but are only struggling against sin, this article is not focusing on you. Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). It can be described in the following ways:
 - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
 - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
+
+The way to tell whether you are being sanctified or using grace as a license to sin and are in danger of false profession, is to examine the following verses (**Jd 4 NET**; 1 Jn 3:6-10; 5:18; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+
+> <sup style="font-weight:bold;">4</sup> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;"><span style="font-size:1.2em;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;">license for evil</span></span> and who <span style="font-weight:bold;">deny our only <span style="font-size:1.2em;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET
 
 <!-- People with no understanding of scripture will attempt to tell you that fruit of being saved is works. This is of course the most rediculous lie you will ever be told. The fruit that springs forth from a true and lively faith is post-justification, and is the evidence that God has given us so that we might have assurance at all. Everything else is blind faith and **giving someone false assurance is one of the most evil and depraved things you can do.** -->
 
