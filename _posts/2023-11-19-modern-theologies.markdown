@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🚶📜 How Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
-date: 2023-11-19 01:35:00 -0500
+title: "🚶📜 How Many Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
+date: 2023-11-19 02:15:00 -0500
 categories: sects cults movements
 published: true
 ---
@@ -56,7 +56,7 @@ The second half of the definition of faith alone &ldquo;*We are justified by fai
 
 <a name="regen" href="#contents" style="font-size:1.6em;">2.1 Lack Of Wisdom On Regeneration</a>
 
-❌ Modern movements and progressives love to depart from scripture and take repentance out of context. They showcase their inability to understand scripture when they attack Christians for repeating the true teachings of Christ on repentance (Lk 13:3). This error in understanding comes from a lack of wisdom surrounding regeneration.
+❌ Modern movements and progressives love to depart from scripture and take repentance out of context. They showcase their inability to understand scripture when they attack Christians for repeating the true teachings of Christ on repentance (Lk 13:3). **This error in understanding comes from a lack of wisdom surrounding God's work of regeneration, the Holy Spirit's sanctification, and God granted repentance** (Ac 11:18; 2Tim. 2:25).
 
 <!-- TODO They inadvertently accuse Christ himself (Mt 4:17) and the Apostles (Acts 17:30) of teaching works when no one is doing that. -->
 
