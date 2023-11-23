@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 02:25:00 -0500
+date: 2023-11-22 02:35:00 -0500
 categories: assurance
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 > No, I tell you; but <span style="font-weight:bold;color:red;">unless you repent</span>, <span style="font-weight:bold;color:red;">you will</span> all likewise <span style="font-weight:bold;color:red;">perish</span>. &mdash; Luke 13:3 ESV -->
 
-If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) **the only assurance you deserve is no assurance**. This is the wake up call that will save your life. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruit of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14).
+If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) **the only assurance you deserve is no assurance**. This is the wake up call that will save your life. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruit of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
 
 > &ldquo;For many are called, but few are chosen.&rdquo; &mdash; Matthew 22:14 ESV
 
