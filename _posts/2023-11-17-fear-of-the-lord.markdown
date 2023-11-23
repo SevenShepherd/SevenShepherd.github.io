@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "😨 Fear Him Who Can Destroy Both Soul And Body In Hell"
-date: 2023-11-17 01:00:00 -0500
+date: 2023-11-17 01:07:00 -0500
 categories: awe reverence terror
 published: true
 ---
 
-Imagine standing in front of the supreme being of the universe and ignorantly thinking that you will not be terrified by his majesty and power as he looks through your soul like a pane glass window at every thought and secret you've ever had (Ro 2:16 NET; Ps 139:1-2 NLT; Jer 17:10 NLT).
+Imagine standing in front of the supreme being of the universe and foolishly thinking that you will not be terrified by his majesty and power as he looks through your soul like a pane glass window at every thought and secret you've ever had (Ro 2:16 NET; Ps 139:1-2 NLT; Jer 17:10 NLT).
 
 > And do not fear those who kill the body but cannot kill the soul. Rather **fear him who can destroy both soul and body in hell**. &mdash; Matthew 10:28 ESV
 
