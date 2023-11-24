@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "😨 Fear Him Who Can Destroy Both Soul And Body In Hell"
-date: 2023-11-17 01:20:00 -0500
+date: 2023-11-17 01:25:00 -0500
 categories: awe reverence terror
 published: true
 ---
@@ -14,7 +14,7 @@ As you lie there, wretched, pitiful, poor, blind, and naked (Revelation 3:15-17)
 
 > **The fear of the Lord is the beginning of wisdom**, and the knowledge of the Holy One is insight.
 
-Now you understand where that awe and reverence comes from. For Christians it's a healthy balance of love, reverence, respect and healthy fear. Imagine God sending an unidentified creature to swallow you, and you still can see why you should fear God in every sense of the word. Jonah was a good example of how we should be, minus the disobedience.
+Now you understand where that awe and reverence comes from. For Christians it's a healthy balance of love, reverence, respect and healthy fear. Imagine God sending an unidentified creature to swallow you, and you still can't see why you should fear God in every sense of the word. Jonah was a good example of how we should be, minus the disobedience.
 
 <!-- > who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen. -->
 
