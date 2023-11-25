@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 02:45:00 -0500
+date: 2023-11-22 02:55:00 -0500
 categories: assurance
 published: true
 ---
@@ -14,7 +14,9 @@ If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; G
 
 > &ldquo;For many are called, but few are chosen.&rdquo; &mdash; Matthew 22:14 ESV
 
-If you're repentant, and are not actively pursuing indulgent lifestyles of sin, but are only struggling against sin, this article is not focusing on you. Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). It can be described in the following ways:
+Tell me, what could give you more assurance then knowing that you're chosen, an that you cannot escape your eternal destiny. Nothing.
+
+<!-- If you're repentant, and are not actively pursuing indulgent lifestyles of sin, but are only struggling against sin, this article is not focusing on you. Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). It can be described in the following ways:
 - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
 - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
 
@@ -22,11 +24,16 @@ If you're just beginning the sanctification process, it may be difficult for you
 
 > <sup style="font-weight:bold;">4</sup> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;"><span style="font-size:1.2em;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;">license for evil</span></span> and who <span style="font-weight:bold;">deny our only <span style="font-size:1.2em;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET
 
-Giving someone false assurance is one of the most evil and depraved things you can do. This ministry will never lie to you, no matter how hard a truth is to hear (Jn 7:7). These hard truths become confidences and comforts at advanced levels of sanctification.
+Giving someone false assurance is one of the most evil and depraved things you can do. This ministry will never lie to you, no matter how hard a truth is to hear (Jn 7:7). These hard truths become confidences and comforts at advanced levels of sanctification. -->
+
+
+
+
+
+
+
 
 <!-- People with no understanding of scripture will attempt to tell you that fruit of being saved is works. This is of course the most rediculous lie you will ever be told. The fruit that springs forth from a true and lively faith is post-justification, and is the evidence that God has given us so that we might have assurance at all. Everything else is blind faith and **giving someone false assurance is one of the most evil and depraved things you can do.** -->
-
-
 
 <!-- Why I'd Rather Have No Assurance Of Salvation Than Be Lied To By Your False Teachers.  -->
 
