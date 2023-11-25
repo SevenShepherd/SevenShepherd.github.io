@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 03:00:00 -0500
+date: 2023-11-22 03:05:00 -0500
 categories: assurance
 published: true
 ---
@@ -14,7 +14,7 @@ If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; G
 
 > &ldquo;For many are called, but few are chosen.&rdquo; &mdash; Matthew 22:14 ESV
 
-Tell me, what could give you more assurance than knowing that you're chosen, an that you cannot escape your eternal destiny. Nothing.
+Tell me, what could give you more assurance than knowing that you're chosen, and that you cannot escape your eternal destiny. Nothing.
 
 <!-- If you're repentant, and are not actively pursuing indulgent lifestyles of sin, but are only struggling against sin, this article is not focusing on you. Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). It can be described in the following ways:
 - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
