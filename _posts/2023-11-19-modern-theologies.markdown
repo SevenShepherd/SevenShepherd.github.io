@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🚶📜 Many Modern Movements Depart From Scripture, Indoctrinating Innocent Children Into Unrepentant Lifestyles Of Sin And False Assurance"
-date: 2023-11-19 02:25:00 -0500
+date: 2023-11-19 02:35:00 -0500
 categories: sects cults movements
-published: true
+published: false
 ---
 
 <!-- 🚶📜 How The 80's \"Free Grace\" Movement Departs From Scripture, Indoctrinating Innocent Children Into Lifestyles Of Sin And False Assurance -->

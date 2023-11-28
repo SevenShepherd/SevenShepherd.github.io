@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🕊️ Genuine Faith Results In Repentance (A Turning From Sin To God)"
-date: 2023-11-03 06:25:00 -0500
+date: 2023-11-03 06:35:00 -0500
 categories: repent repentance faith
-published: true
+published: false
 ---
 
 <!-- Faith That Does Not “Result” In The Fruit Of Repentance (A Turning From Sin) Is A Superficial & Dead Faith -->
