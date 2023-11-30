@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 03:15:00 -0500
+date: 2023-11-22 03:25:00 -0500
 categories: assurance
-published: true
+published: false
 ---
 
 <!-- Christ died for the sins of the world (1Jn 2:2), but not everyone goes to heaven. Only those who do the will of the father (Mt 7:21). They do the will of the father when they are saved by genuine saving faith (Eph 2:8-10), which is a trust and reliance that will “result” in the fruit of obedience to God (Jn 14:15; 1 Jn 2:4). This fruit Jesus spoke about will absolutely spring forth if you have a living faith (John 15:1-17; James 2:14-26) and represents the original definition of *sola fide* or faith alone. All who say otherwise deny the power of the Holy Spirit that indwells the believer upon the moment of faith (Rom. 8:9; 1Cor. 12:13; Eph 1:13-14). 
