@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 The Highest Form Of Assurance Can Be Found In Matthew 22:14 (short article)"
-date: 2023-11-22 03:05:00 -0500
+date: 2023-11-22 03:15:00 -0500
 categories: assurance
 published: true
 ---
