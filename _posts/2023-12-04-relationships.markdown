@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 01:25:00 -0500
+date: 2023-12-04 01:35:00 -0500
 categories: money
 published: true
 ---
@@ -30,7 +30,7 @@ If you're calling it love, and it's not this, it's not love my friend.
 
 <a name="woman" href="#contents" style="font-size:2.1em;">1.2 A Godly Woman Defined</a>
 
-This is the rarest creature in the world. This should be what you're looking for. You need to learn to distinguish love from lust.
+This is the rarest creature in the world. This should be what you're looking for. This will help you distinguish a marriageable women.
 
 > 
 <sup style="font-weight:bold;">10</sup> Who can find a virtuous and capable wife?<br>
@@ -138,7 +138,7 @@ Whoever touches her shall not be innocent.
 >
 &mdash; Proverbs 6:24-29 NKJV
 
-Flee from these destroyers, recognize them before it is too late!
+Flee from these destroyers, recognize them before it is too late! Learn to distinguish love from lust.
 
 > The woman Folly is loud; she is seductive [full of simpleness] and knows nothing. &mdash; Proverbs 9:13 ESV
 
