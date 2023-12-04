@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits And Strange Movements Teach No Fruit (Chart)"
-date: 2023-12-03 01:05:00 -0500
+date: 2023-12-03 01:15:00 -0500
 categories: repent
 published: true
 ---
@@ -10,10 +10,11 @@ published: true
 
 Christians teach a resulting fruit, while heretics teach legalism (included works or faith + works), or antinomianism (faith not resulting in obedience to God).
 
-1. Saving faith **does not include** works, that would be the heresy of legalism. 
+1. Saving faith **does not include** works, including works with faith would be the heresy of legalism. 
 2. Saving faith **results in** obedience to God **after** we're justified. Bearing Fruit Happens Naturally For Living Trees.
-3. Faith that does not **results in** obedience to God is a dead faith and is strong evidence of a false profession. This could be from Antinomianism. 
-4. Genuine saving faith will always be accompanied by good works that come **after justification**. 
+3. Faith that does not **result in** obedience to God is a dead faith and is strong evidence of a false profession. See the heresy of Antinomianism. 
+
+<!-- 4. Genuine saving faith will always be accompanied by good works that come **after justification**.  -->
 
 This chart should help you distinguish between the nuances.
 
