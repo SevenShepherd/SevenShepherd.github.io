@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 01:15:00 -0500
+date: 2023-12-04 01:25:00 -0500
 categories: money
 published: true
 ---
@@ -13,7 +13,8 @@ In my youth I destroyed myself with women, I understand your need little son, bu
 1. <a href="#recognize">Recognizing True Hearts</a>
     - 1.1 <a href="#love">The Definition Of Love</a>
     - 1.2 <a href="#woman">A Godly Woman Defined</a>
-    - 1.3 <a href="#beware">Beware The Harlot</a>
+    - 1.3 <a href="#divorce">Divorced Women?</a>
+    - 1.4 <a href="#beware">Beware The Harlot</a>
 
 <!-- 2. <a href="#responsibility">Responsibility</a>
     - 2.1 <a href="#man">What Is Expected Of Men</a> -->
@@ -89,6 +90,14 @@ This is the rarest creature in the world. This should be what you're looking for
 <!-- <a name="beware" href="#contents" style="font-size:2.1em;">1.3 Time Is Limited</a>
 
 > Under construction -->
+
+<a name="divorce" href="#contents" style="font-size:2.1em;">1.3 Divorced Women</a>
+
+Unless she divorced because he cheated on her, she's a no go. She will do to you what she did to him. 
+
+<!-- Save yourself, and hide your children from the influence of these types of people, lest they grow up in the same misery. -->
+
+> <sup style="font-weight:bold;">32</sup> But I say that a man who divorces his wife, unless she has been unfaithful, causes her to commit adultery. And **anyone who marries a divorced woman also commits adultery**. &mdash; Matthew 5:32 NLT
 
 <a name="beware" href="#contents" style="font-size:2.1em;">1.4 Beware The Harlot</a>
 
