@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 01:00:00 -0500
+date: 2023-12-04 01:15:00 -0500
 categories: money
 published: true
 ---
+
+In my youth I destroyed myself with women, I understand your need little son, but that is not the way. I've lived this once before repenting, I've made love in the rain, in the night and the storm, in places I shouldn't have been and in the most exotic ways. I've experienced the so called story book escapades you think you want and it only leads to pain and suffering. I'm bringing you my experiences on what to look for and what to avoid from a biblical perspective so you don't destroy yourself.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -27,7 +29,7 @@ If you're calling it love, and it's not this, it's not love my friend.
 
 <a name="woman" href="#contents" style="font-size:2.1em;">1.2 A Godly Woman Defined</a>
 
-This is the rarest creature in the world. This should be what you're looking for.
+This is the rarest creature in the world. This should be what you're looking for. You need to learn to distinguish love from lust.
 
 > 
 <sup style="font-weight:bold;">10</sup> Who can find a virtuous and capable wife?<br>
@@ -126,6 +128,10 @@ And his feet not be seared?<br>
 Whoever touches her shall not be innocent. 
 >
 &mdash; Proverbs 6:24-29 NKJV
+
+Flee from these destroyers, recognize them before it is too late!
+
+> The woman Folly is loud; she is seductive [full of simpleness] and knows nothing. &mdash; Proverbs 9:13 ESV
 
 <script>
     var refTagger = {
