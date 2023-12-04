@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits, And Liberal Movements Teach No Fruit (Chart)"
-date: 2023-12-03 01:55:00 -0500
+date: 2023-12-03 02:00:00 -0500
 categories: repent
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 
 <!-- 4. Genuine saving faith will always be accompanied by good works that come **after justification**.  -->
 
-This chart should help you distinguish between the nuances.
+This chart should help you distinguish between the nuances. Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (1Jn 2:4; Jn 14:15,21; James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg).
 
 <!-- Good works and continuing to believe **follow** saving faith (*sola fide*). -->
 
@@ -35,7 +35,7 @@ Pay attention to the nuance, I want you to really think about the difference bet
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
-If a tree was genuinely alive it would bear fruit. Remember that a branch cannot bear fruit by itself (Jn 15:1-17), and it's the fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn’t growing the root is dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
+If a tree was genuinely alive it would bear fruit. Remember that **a branch cannot bear fruit by itself** (Jn 15:1-17), and it's the fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn’t growing the root is dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
 
 > <span style="font-weight:bold;font-size:1.2em;color:red;">Justification by works (things we have done) is the heresy of legalism.</span> Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is <span style="font-size:1.2em;">not yet ours</span>**. &mdash; [Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. Chapter 59 Works. p. 174.](https://youtu.be/jOFsFgUUdZo). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
