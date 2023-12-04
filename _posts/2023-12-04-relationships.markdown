@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 02:25:00 -0500
+date: 2023-12-04 02:35:00 -0500
 categories: love
-published: true
+published: false
 ---
 
 In my youth I nearly destroyed myself by falling for the wrong women, I understand your need little son, but that is not the way. I've lived this once, before repenting. I've made love in the rain, in the night and the storm, in places I shouldn't have been and in the most exotic ways. I've experienced the so called story book escapades you think you want and it only leads to pain and suffering. I'm bringing you my experiences on what to look for and what to avoid from a biblical perspective so you don't destroy yourself.
