@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits And Strange Movements Teach No Fruit (Chart)"
-date: 2023-12-03 01:15:00 -0500
+title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits And Strange Movements And Progressives Teach No Fruit (Chart)"
+date: 2023-12-03 01:25:00 -0500
 categories: repent
 published: true
 ---
