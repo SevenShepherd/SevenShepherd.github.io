@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 01:35:00 -0500
+date: 2023-12-04 01:55:00 -0500
 categories: money
 published: true
 ---
@@ -93,7 +93,7 @@ This is the rarest creature in the world. This should be what you're looking for
 
 <a name="divorce" href="#contents" style="font-size:2.1em;">1.3 Divorced Women</a>
 
-Unless she divorced because he cheated on her, she's a no go. She will do to you what she did to him. 
+Unless she divorced because he cheated on her or abused her, she's a no go. She will do to you what she did to him. Only God can know if she's truly repentant, I don't recommend you be the test dummy.
 
 <!-- Save yourself, and hide your children from the influence of these types of people, lest they grow up in the same misery. -->
 
@@ -126,8 +126,8 @@ Admonitions and Warnings against Dangerous and Destructive Acts
 From the flattering tongue of a seductress.<br>
 <sup style="font-weight:bold;">25</sup> Do not lust after her beauty in your heart,<br>
 Nor let her allure you with her eyelids.<br>
-<sup style="font-weight:bold;">26</sup> For by means of a harlot<br>
-A man is reduced to a crust of bread;<br>
+<sup style="font-weight:bold;">26</sup> **For by means of a harlot**<br>
+**A man is reduced to a crust of bread;**<br>
 And an adulteress will prey upon his precious life.<br>
 <sup style="font-weight:bold;">27</sup> Can a man take fire to his bosom,<br>
 And his clothes not be burned?<br>
