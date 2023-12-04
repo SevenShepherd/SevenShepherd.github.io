@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👫 Navigating Relationships The Christian Way. How Not To Destroy Yourself."
-date: 2023-12-04 02:00:00 -0500
+date: 2023-12-04 02:15:00 -0500
 categories: love
 published: true
 ---
@@ -93,7 +93,7 @@ This is the rarest creature in the world. This should be what you're looking for
 
 <a name="divorce" href="#contents" style="font-size:2.1em;">1.3 Divorced Women</a>
 
-Unless she divorced because he cheated on her or abused her, she's a no go. She will do to you what she did to him. Only God can know if she's truly repentant, I don't recommend you be the test dummy.
+Unless she divorced because he cheated on her or abused her or their contract ended because he died naturally, she's a no go. She will do to you what she did to him. Only God can know if she's truly repentant, I don't recommend you be the test dummy.
 
 <!-- Save yourself, and hide your children from the influence of these types of people, lest they grow up in the same misery. -->
 
