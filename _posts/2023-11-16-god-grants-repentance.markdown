@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Your Sin)"
-date: 2023-11-16 01:25:00 -0500
+date: 2023-11-16 01:45:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -18,6 +18,13 @@ As [the most authoritative Greek lexicon](https://sevenshepherd.github.io/repent
 
 We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey God's commandments, not only are you showing evidence that you do not love God (Jn 14:15,21), but you're also showing evidence that your profession of faith is false (1Jn 2:3-6). Make sure your heart has not betrayed you (Heb 3:12; Jer 17:9), examine your faith to see if it is genuine (2Cor. 13:5 NLT).
 
+<!-- This does not conflict with *Sola Fide* or &ldquo;Faith Alone&rdquo; because repentance is an immediate fruit of genuine saving faith. Saving faith "results" in (**not** &ldquo;includes&rdquo;) obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" (**not** merits) justification (James 2:14-26; Eph 2:10). **It's post-justification.** Once you're already saved, someone who was genuine about their faith would desire to repent. This article is teaching dispositions of the heart post-justification. -->
+
+- 🐉 The Serpent says, *&ldquo;Surely you will not die&rdquo;* (Gen. 3:4 NET).
+- 🍇 God says, *&ldquo;No, I tell you; but unless you repent, you will all likewise perish.&rdquo;* (Luke 13:3 ESV)
+- 🧑 Repentance does not merit salvation, salvation produces repentance.
+
+Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they're not optional, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional after reading the following proofs:
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
