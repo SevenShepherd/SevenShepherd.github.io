@@ -1,0 +1,32 @@
+---
+layout: post
+title: "🔥 What's Worse, A Man Who See's Your Destruction Coming And Warns You Out Of Love, Or A Man Who Sees It Coming And Watches You Die In Flames?"
+date: 2023-12-05 01:00:00 -0500
+categories: hell
+published: true
+---
+
+# If I Didn't Warn You, I'd Be Evil.
+
+There is a lake which burns with fire and brimstone (Re 21:8); where the worm dies not and the fire is not quenched, and the smoke of the torment of those who end up their will ascend up for ever and ever (Mk 9:48; Rv. 14:11 KJV). Be sure that this isn't you.
+
+<!-- > A Held Belief Is Not Judgemental, You Are Judgemental Towards Those Who Believe. -->
+
+> Under construction
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
