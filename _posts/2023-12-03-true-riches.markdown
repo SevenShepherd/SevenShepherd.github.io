@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧔 Listen To The Story Of The Poor Wise Man"
-date: 2023-12-03 02:25:00 -0500
+date: 2023-12-03 02:35:00 -0500
 categories: money wisdom
 published: true
 ---
@@ -25,7 +25,7 @@ It's time for you to recognize that Christ (Mt 8:20) & the Apostles were poor, b
 
 > <sup style="font-weight:bold;">5</sup> Listen, my ·dear <span style="color:#bfbfbf;">[<sup>L</sup> beloved]</span> brothers and sisters <span style="color:#bfbfbf;">[<sup>C</sup> fellow believers]</span>! ·God chose <span style="color:#bfbfbf;">[<sup>L</sup> Did not God choose…?]</span> the poor in the world <span style="color:#bfbfbf;">[1 Cor. 1:26–29]</span> to be rich with faith and to ·receive <span style="color:#bfbfbf;">[<sup>L</sup> be heirs of]</span> the kingdom God promised to those who love him <span style="color:#bfbfbf;">[Luke 6:20]</span>. &mdash; [James 2:5 EXB](https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB)
 
-So, will you listen? Lean not unto your own understanding (Proverbs 3:5), just listen to Christ (Lk 13:3; Mt 4:17). It's time to stop fighting against scripture. Surrender to the Lord of Destiny.
+So, will you listen? Lean not unto your own understanding (Proverbs 3:5), just listen to Christ (Lk 13:3; Mt 4:17). It's time to stop fighting against scripture. Surrender to the Lord of Destiny (Ac 17:30; 1Jn 2:4).
 
 <script>
     var refTagger = {
