@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧔 Listen To The Story Of The Poor Wise Man"
-date: 2023-12-03 02:05:00 -0500
+date: 2023-12-03 02:15:00 -0500
 categories: money wisdom
 published: true
 ---
