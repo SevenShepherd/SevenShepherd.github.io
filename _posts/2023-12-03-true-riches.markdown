@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "🧔 Listen To The Story Of The Poor Wise Man"
-date: 2023-12-03 02:15:00 -0500
+date: 2023-12-03 02:25:00 -0500
 categories: money wisdom
 published: true
 ---
 
 # Listen To The Story Of The Poor Wise Man
 
-Personally, I enjoy the story with the modal nuance. Without the modal nuance the story would say that he saved the city but that no one remembered him, whereas with the modal nuance it says, that he could have saved the city and they were destroyed for not listening. It seems like there is more consequence for ignoring wisdom with this approach, but either way, the wisdom of the poor is despised by the world. What do you think will happen if you keep disregarding his message (Proverbs 29:1 NET)? 
+Personally, I enjoy the story with the modal nuance. Without the modal nuance the story would say that he saved the city but that no one remembered him, whereas with the modal nuance it says, that he could have saved the city but they were destroyed for not listening. It seems like there is more consequence for ignoring wisdom with this approach, but either way, the wisdom of the poor is despised by the world. What do you think will happen if you keep disregarding his message (Proverbs 29:1 NET)? 
 
 > <sup style="font-weight:bold;">13</sup> This is what I also observed about wisdom on earth, and it is a great burden to me: <sup style="font-weight:bold;">14</sup> There was once a small city with a few men in it, and a mighty king attacked it, besieging it and building strong siege works against it. <sup style="font-weight:bold;">15</sup> However, a poor but wise man lived in the city, and <span style="font-weight:bold;color:orangered;">he could have delivered the city by his wisdom, but no one listened to that poor man</span>. <sup style="font-weight:bold;">16</sup> So I concluded that wisdom is better than might, but **a poor man’s wisdom is despised**; no one ever listens to his advice. &mdash; Ecclesiastes 9:13-16 NET
 >>
@@ -24,6 +24,8 @@ It's time for you to recognize that Christ (Mt 8:20) & the Apostles were poor, b
 
 
 > <sup style="font-weight:bold;">5</sup> Listen, my ·dear <span style="color:#bfbfbf;">[<sup>L</sup> beloved]</span> brothers and sisters <span style="color:#bfbfbf;">[<sup>C</sup> fellow believers]</span>! ·God chose <span style="color:#bfbfbf;">[<sup>L</sup> Did not God choose…?]</span> the poor in the world <span style="color:#bfbfbf;">[1 Cor. 1:26–29]</span> to be rich with faith and to ·receive <span style="color:#bfbfbf;">[<sup>L</sup> be heirs of]</span> the kingdom God promised to those who love him <span style="color:#bfbfbf;">[Luke 6:20]</span>. &mdash; [James 2:5 EXB](https://www.biblegateway.com/passage/?search=James+1%3A9-11%3B+2%3A5&version=EXB)
+
+So, will you listen? Lean not unto your own understanding (Proverbs 3:5), just listen to Christ (Lk 13:3; Mt 4:17). It's time to stop fighting against scripture. Surrender to the Lord of Destiny.
 
 <script>
     var refTagger = {
