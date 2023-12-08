@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "🦄 The Rarest Creature In The World"
-date: 2023-12-07 01:15:00 -0500
+date: 2023-12-07 01:35:00 -0500
 categories: love
 published: true
 ---
 
 # Who can find a virtuous and capable wife?
+
+It is better to be alone (Pr 21:9, 19; 27:15) than to marry someone who does not fit this description.
 
 > 
 <sup style="font-weight:bold;">10</sup> Who can find a virtuous and capable wife?<br>
