@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🔥 What's Worse, A Man Who See's Your Destruction Coming And Warns You Out Of Love, Or A Man Who Sees It Coming And Watches You Die In Flames?"
-date: 2023-12-05 01:00:00 -0500
+date: 2023-12-05 01:05:00 -0500
 categories: hell
-published: true
+published: false
 ---
 
 # If I Didn't Warn You, I'd Be Evil.
