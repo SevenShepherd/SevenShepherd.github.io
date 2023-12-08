@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦄 The Rarest Creature In The World"
-date: 2023-12-07 01:35:00 -0500
+date: 2023-12-07 01:45:00 -0500
 categories: love
 published: true
 ---
@@ -47,14 +47,14 @@ It is better to be alone (Pr 21:9, 19; 27:15) than to marry someone who does not
 <span style="margin-left: 40px;">and sashes to sell to the merchants.</span><br>
 >
 <sup style="font-weight:bold;">25</sup> She is clothed with strength and dignity,<br>
-<span style="margin-left: 40px;">and she laughs without fear of the future.</span><br>
+<span style="margin-left: 40px;">and **she laughs without fear of the future**.</span><br>
 <sup style="font-weight:bold;">26</sup> When she speaks, her words are wise,<br>
 <span style="margin-left: 40px;">and she gives instructions with kindness.</span><br>
 <sup style="font-weight:bold;">27</sup> She carefully watches everything in her household<br>
 <span style="margin-left: 40px;">and suffers nothing from laziness.</span><br>
 >
 <sup style="font-weight:bold;">28</sup> Her children stand and bless her.<br>
-<span style="margin-left: 40px;">Her husband praises her:</span><br>
+<span style="margin-left: 40px;">**Her husband praises her**:</span><br>
 <sup style="font-weight:bold;">29</sup> “There are many virtuous and capable women in the world,<br>
 <span style="margin-left: 40px;">but you surpass them all!”</span><br>
 >
@@ -67,7 +67,7 @@ It is better to be alone (Pr 21:9, 19; 27:15) than to marry someone who does not
 
 The Definition of Love
 
-> <sup style="font-weight:bold;">4</sup> Love is patient and kind. Love is not jealous or boastful or proud <sup style="font-weight:bold;">5</sup> or rude. It does not demand its own way. It is not irritable, and it keeps no record of being wronged. <sup style="font-weight:bold;">6</sup> It does not rejoice about injustice but rejoices whenever the truth wins out. <sup style="font-weight:bold;">7</sup> Love never gives up, never loses faith, is always hopeful, and endures through every circumstance. &mdash; 1 Corinthians 13:4-7 NLT
+> <sup style="font-weight:bold;">4</sup> Love is patient and kind. Love is not jealous or boastful or proud <sup style="font-weight:bold;">5</sup> or rude. It does not demand its own way. It is not irritable, and it keeps no record of being wronged. <sup style="font-weight:bold;">6</sup> It does not rejoice about injustice but rejoices whenever the truth wins out. <sup style="font-weight:bold;">7</sup> **Love never gives up, never loses faith, is always hopeful, and endures through every circumstance.** &mdash; 1 Corinthians 13:4-7 NLT
 
 # True Righteousness and Wisdom Are Virtually Nonexistent
 
