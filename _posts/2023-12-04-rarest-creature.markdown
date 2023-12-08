@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "🦄 The Rarest Creature In The World"
-date: 2023-12-07 01:00:00 -0500
+date: 2023-12-07 01:10:00 -0500
 categories: love
 published: true
 ---
+
+# Who can find a virtuous and capable wife?
 
 > 
 <sup style="font-weight:bold;">10</sup> Who can find a virtuous and capable wife?<br>
@@ -60,6 +62,51 @@ published: true
 <span style="margin-left: 40px;">Let her deeds publicly declare her praise.</span>
 >
 &mdash; Proverbs 31:10-31 NLT
+
+The Definition of Love
+
+> <sup style="font-weight:bold;">4</sup> Love is patient and kind. Love is not jealous or boastful or proud <sup style="font-weight:bold;">5</sup> or rude. It does not demand its own way. It is not irritable, and it keeps no record of being wronged. <sup style="font-weight:bold;">6</sup> It does not rejoice about injustice but rejoices whenever the truth wins out. <sup style="font-weight:bold;">7</sup> Love never gives up, never loses faith, is always hopeful, and endures through every circumstance. &mdash; 1 Corinthians 13:4-7 NLT
+
+# True Righteousness and Wisdom Are Virtually Nonexistent
+
+> <sup style="font-weight:bold;">26</sup> And I find more bitter than death<br>
+The woman whose heart is snares and nets,<br>
+Whose hands are fetters.<br>
+He who pleases God shall escape from her,<br>
+But the sinner shall be trapped by her.<br>
+>
+<sup style="font-weight:bold;">27</sup> “Here is what I have found,” says the Preacher,<br>
+“Adding one thing to the other to find out the reason,<br><br>
+<sup style="font-weight:bold;">28</sup> Which my soul still seeks but I cannot find:<br>
+**One man among a thousand I have found,<br>
+But a woman among all these I have not found.**<br>
+<sup style="font-weight:bold;">29</sup> Truly, this only I have found:<br>
+That God made man upright,<br>
+But they have sought out many schemes.”<br>
+>
+&mdash; Ecclesiastes 7:26-29 NKJV
+
+# Admonitions and Warnings against Dangerous and Destructive Acts
+
+> <sup style="font-weight:bold;">24</sup> To keep you from the evil woman,<br>
+From the flattering tongue of a seductress.<br>
+<sup style="font-weight:bold;">25</sup> Do not lust after her beauty in your heart,<br>
+Nor let her allure you with her eyelids.<br>
+<sup style="font-weight:bold;">26</sup> **For by means of a harlot**<br>
+**A man is reduced to a crust of bread;**<br>
+And an adulteress will prey upon his precious life.<br>
+<sup style="font-weight:bold;">27</sup> Can a man take fire to his bosom,<br>
+And his clothes not be burned?<br>
+<sup style="font-weight:bold;">28</sup> Can one walk on hot coals,<br>
+And his feet not be seared?<br>
+<sup style="font-weight:bold;">29</sup> So is he who goes in to his neighbor’s wife;<br>
+Whoever touches her shall not be innocent. 
+>
+&mdash; Proverbs 6:24-29 NKJV
+
+# Beware
+
+> The woman Folly is loud; she is seductive [full of simpleness] and knows nothing. &mdash; Proverbs 9:13 ESV
 
 <script>
     var refTagger = {
