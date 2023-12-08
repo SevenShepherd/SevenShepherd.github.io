@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦄 The Rarest Creature In The World"
-date: 2023-12-07 01:10:00 -0500
+date: 2023-12-07 01:15:00 -0500
 categories: love
 published: true
 ---
@@ -72,8 +72,8 @@ The Definition of Love
 > <sup style="font-weight:bold;">26</sup> And I find more bitter than death<br>
 The woman whose heart is snares and nets,<br>
 Whose hands are fetters.<br>
-He who pleases God shall escape from her,<br>
-But the sinner shall be trapped by her.<br>
+**He who pleases God shall escape from her,**<br>
+**But the sinner shall be trapped by her.**<br>
 >
 <sup style="font-weight:bold;">27</sup> “Here is what I have found,” says the Preacher,<br>
 “Adding one thing to the other to find out the reason,<br><br>
