@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💬 “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.” — Jesus"
-date: 2023-12-08 01:00:00 -0500
+date: 2023-12-08 01:05:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought

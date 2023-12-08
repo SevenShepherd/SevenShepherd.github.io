@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💬 “No, I tell you; but unless you repent, you will all likewise perish.” — Jesus"
-date: 2023-12-08 02:05:00 -0500
+date: 2023-12-08 02:15:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought

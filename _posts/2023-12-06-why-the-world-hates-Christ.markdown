@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "💬 “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus"
-date: 2023-12-06 01:00:00 -0500
+date: 2023-12-06 01:05:00 -0500
 categories: repent
 published: true
 ---
 
 # Food For Thought
 
-> “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus in John 7:7
+> “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus in John 7:7 NLT
 
 <script>
     var refTagger = {
