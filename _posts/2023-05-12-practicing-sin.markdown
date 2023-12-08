@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 03:00:00 -0500
+date: 2023-11-05 03:15:00 -0500
 categories: sin practice
 published: true
 ---
@@ -248,7 +248,9 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="mounce" href="#contents" style="font-size:1.4em;">5.4 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
-    > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced)
+    <!-- > ... <span style="color:#A8A8A8;">[The Gospel Message]</span> does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced) -->
+
+    > An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because **it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him.** See NIDNTT-A,367. &mdash; [Mounce’s Complete Expository Dictionary of Old and New Testament Words](https://sevenshepherd.github.io/repentance/#mounced)
     
 <!-- https://corechristianity.com/resource-library/episodes/am-i-still-a-christian-if-ive-made-jesus-my-savior-but-havent-repented/ -->
 
