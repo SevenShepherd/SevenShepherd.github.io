@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🩸 Repentance Is The Direct Result Of A Genuine Non-Superficial Faith. People Who Refuse To Repent Refuse To Take Up Their Cross. They Prove That They Don't Love God. It's Not About Merit, It's About Love."
-date: 2023-12-08 05:05:00 -0500
+title: "🩸 Repentance Is A Resulting Fruit Of A Genuine Non-Superficial Faith"
+date: 2023-12-08 05:10:00 -0500
 categories: repent repentance faith
-published: true
+published: false
 ---
+
+<!-- Repentance Is The Direct Result Of A Genuine Non-Superficial Faith. People Who Refuse To Repent Refuse To Take Up Their Cross. They Give Evidence That They Don't Love God. It's Not About Merit, It's About Love. -->
 
 <!-- Genuine Faith Results In Repentance (A Turning From Sin To God) -->
 
