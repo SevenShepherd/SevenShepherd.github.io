@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "💬 “Not at all! And you will perish, too, unless you repent of your sins and turn to God.” — Jesus"
-date: 2023-12-08 02:00:00 -0500
+title: "💬 “No, I tell you; but unless you repent, you will all likewise perish.” — Jesus"
+date: 2023-12-08 02:05:00 -0500
 categories: repent
 published: true
 ---
 
 # Food For Thought
 
-> “Not at all! And you will perish, too, unless you repent of your sins and turn to God.” — Jesus in Luke 13:3 NLT
+> “No, I tell you; but unless you repent, you will all likewise perish.” — Jesus in Luke 13:3 ESV
+>> “Not at all! And you will perish, too, unless you repent of your sins and turn to God.” — Jesus in Luke 13:3 NLT (Parallel)
 
 <script>
     var refTagger = {

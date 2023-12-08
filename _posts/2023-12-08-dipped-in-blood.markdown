@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "👑 “He is clothed with a robe dipped in blood, and His name is called The Word of God.”"
-date: 2023-12-08 03:30:00 -0500
+date: 2023-12-08 03:35:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought

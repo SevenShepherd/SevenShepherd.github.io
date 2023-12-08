@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "👑 “Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand.”"
-date: 2023-12-08 03:00:00 -0500
+date: 2023-12-08 03:05:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought
