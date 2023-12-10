@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🛑 “Everyone Sins” But “Not Everyone Pursues” Lifestyles Of Indulgent Sin"
-date: 2023-12-06 01:00:00 -0500
+date: 2023-12-06 01:05:00 -0500
 categories: hell
-published: true
+published: false
 ---
 
 # “Everyone Sins” Is A Common Excuse To Ignore Scripture, But The Bible Teaches That Not Everyone Pursues Lifestyles Of Indulgent Sin. In Fact There Is No Such Thing As A Born Again Believer Who Does

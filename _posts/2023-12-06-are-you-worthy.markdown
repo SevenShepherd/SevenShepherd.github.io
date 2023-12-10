@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💬 “If you refuse to take up your cross and follow me, you are not worthy of being mine.” — Jesus"
-date: 2023-12-06 02:00:00 -0500
+date: 2023-12-06 02:05:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💬 “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus"
-date: 2023-12-06 01:05:00 -0500
+date: 2023-12-06 01:15:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 # Food For Thought
