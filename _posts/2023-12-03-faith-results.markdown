@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits, And Liberal Movements Teach No Fruit (Chart)"
-date: 2023-12-03 02:00:00 -0500
+title: "🍎 Christians Teach \"Resulting\" Fruit, While The Cults Teach \"Included\" Fruits, And Liberal Theologies Teach No Or Optional Fruit (Chart)"
+date: 2023-12-03 02:05:00 -0500
 categories: repent
 published: true
 ---
