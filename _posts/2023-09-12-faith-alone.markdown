@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "📜Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted"
-date: 2023-09-12 04:05:00 -0500
+title: "📜 Justification by \"faith alone\" Is A Reformation Doctrine That Has Always Taught \"Resulting\" Obedience To God. It's The Justification That Is By Faith Only."
+date: 2023-09-12 04:15:00 -0500
 categories: truth
 published: true
 ---
+
+<!-- Justification by \"faith alone\" is a reformation doctrine; the full definition, \"but the faith that justifies is never alone,\" has recently been distorted -->
 
 This distortion has to do with the removal of the second half of the definition. I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
