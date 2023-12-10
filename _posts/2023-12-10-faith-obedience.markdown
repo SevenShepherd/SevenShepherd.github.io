@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 01:45:00 -0500
+date: 2023-12-10 01:55:00 -0500
 categories: repent
 published: true
 ---
@@ -20,7 +20,7 @@ Repentance ([turning from sin](https://sevenshepherd.github.io/repentance/)) doe
 
 > Whoever says “I know him” but does not keep his commandments **is a liar, and the truth is not in him**, &mdash; 1 John 2:4 ESV
 
-Repentance is the fruit of [genuine saving faith](https://sevenshepherd.github.io/faith-results/). Bearing fruit happens naturally for living trees. A branch cannot bear fruit by itself (John 15:1-17).
+Repentance is the fruit of [genuine saving faith](https://sevenshepherd.github.io/faith-results/). Bearing fruit happens naturally for living trees. <span style="font-weight:bold;color:#800080;">A branch cannot bear fruit by itself (John 15:1-17).</span>
 
 <!-- The fruit of the Spirit, not the fruit of human decision (Gal 5:22-23).  -->
 
