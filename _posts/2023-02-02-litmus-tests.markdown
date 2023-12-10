@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ Litmus Test Quick Reference"
-date: 2023-02-02 03:10:00 -0500
+date: 2023-02-02 03:15:00 -0500
 categories: quick reference
 published: true
 ---
@@ -23,7 +23,7 @@ This section is for those of you short on time. With love, here are the worlds m
 
 |🥇 First-Place Winners|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|N/A|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
@@ -32,7 +32,7 @@ This section lists second-place winners. These Bibles are also excellent, except
 
 |🥈 Second-Place|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[LSB](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[LSB](https://sevenshepherd.github.io/legacy-standard-bible/), LEB|
 |Optimal Equivalence<br>"Best-Of-Both-Worlds"|[EXB Expansions](https://amzn.to/3vlMXy5)|
 |Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
