@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Our Sin)"
-date: 2023-11-16 01:55:00 -0500
+date: 2023-11-16 02:00:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -60,7 +60,9 @@ Because belief (Acts 10:43) & repentance (Ac 3:19) are repeatedly said to result
 
 <a name="commands" href="#contents" style="font-size:2.1em;">II. God Commands Us To Repent</a>
 
-Failing to repent is the best way to show that you don't love God and that you've made a false profession.
+Failing to repent gives strong evidence that you don't love God and that you've made a false profession.
+
+<!-- Failing to repent is one of the best ways to give strong evidence that one does not love God (Ac 17:30; Jn 14:15,21), will die (Lk 13:3; Mt 18:3 NLT), made a false profession (Ac 17:30; 1Jn 2:4), and is not being led to salvation and eternal life (2 Cor. 7:10; Ac 11:18). -->
 
 > &ldquo;The times of **ignorance** God overlooked, but now <span style="font-weight:bold;color:red;">he commands</span> all people everywhere to **repent**,&rdquo; &mdash; Acts 17:30 ESV
 
