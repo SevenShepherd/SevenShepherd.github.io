@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 06:10:00 -0500
+date: 2023-01-29 06:20:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -174,10 +174,14 @@ Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS
 |NKJV|60.32%|65.21%|
 |KJV|<span style="font-weight:bold;color:red;">48.83%</span>|66.58%|
 
-    
+
+<span style="font-style:Italic;font-size:24px;">Recommended Bibles</span>
+
+Please see article [Litmus Test](https://sevenshepherd.github.io/litmus-tests/).
+
 <!-- Readability and comprehension is also important for those learning and reading the Bible: KJV <span style="font-weight:bold;color:red;">48.83%</span>, ESV <span style="font-weight:bold;color:green;">62.36%</span>, NET <span style="font-weight:bold;color:green;">66.28%</span>, or NLT <span style="font-weight:bold;color:green;">70.08%</span>. -->
 
-<span style="font-style:Italic;font-size:32px;">Conclusion</span>
+<!-- <span style="font-style:Italic;font-size:32px;">Conclusion</span>
 
 The above points dispel any distrust toward the Alexandrian text-type and give credence as to why we should listen to reason and scholarship instead of YouTube conspiracy theory.
 
@@ -214,7 +218,7 @@ Scholarship has proven that **no cardinal doctrine is affected** by any viable v
 
 > “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Dr. Wayne Grudem, Harvard & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
 
-I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible.
+I should also include the fact that the [**New Living Translation (NLT)**](https://amzn.to/3CcB5Cu) has survived every litmus test I could throw at it, and so I consider it to be the very best dynamic equivalent version of the Bible available. If you don't care about textual criticism and just want to read the Bible, this is your Bible. -->
 
 <script>
     var refTagger = {
