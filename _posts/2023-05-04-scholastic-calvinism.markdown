@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "5️⃣ Scholastic Calvinism Has Always Rejected And Condemned Hyper-Calvinism (Anti-Calvinism)"
-date: 2023-05-04 03:00:00 -0500
+date: 2023-05-04 03:05:00 -0500
 categories: calvinism
-published: true
+published: false
 ---
 
 <span style="font-size:2.1em">I. What Scholastic Calvinism Says</span>
