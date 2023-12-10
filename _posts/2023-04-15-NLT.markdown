@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "📖 The NLT Is Good Except For This One Issue. The NRSVue However Is Terribly Misguided."
-date: 2023-04-15 02:30:00 -0500
-categories: nlt nrsvue version
-published: true
+title: "📖 The NRSVue However Is Terribly Misguided."
+date: 2023-04-15 02:35:00 -0500
+categories: nrsvue version
+published: false
 ---
 
 <!-- The NRSVue Has Become The Worst Bible Version Of The Year. The NLT Is Really Good Except For This One Issue. -->
