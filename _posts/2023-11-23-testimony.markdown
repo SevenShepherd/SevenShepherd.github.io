@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "✝️ I Have Sinned Against God And Against Heaven And Am Deserving Of Everlasting Fire But It Was Not Repaid Me And My Life Shall Look Upon The Light"
-date: 2023-11-23 01:15:00 -0500
+date: 2023-11-23 01:25:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 Repent for the Kingdom of heaven is at hand (Ac 3:19; Mt 3:8; 4:17). If you do not wake up you will die (Rev 3:3; Lk 13:3). Repentance does not merit salvation, but a person who loves God will obey his commandments (Jn 14:15; Ac 17:30; 1Jn 2:4) and I believe will be enabled to desire to do so.
