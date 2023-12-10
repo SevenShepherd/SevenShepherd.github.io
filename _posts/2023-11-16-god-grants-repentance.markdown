@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Your Sin)"
-date: 2023-11-16 01:45:00 -0500
+title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Our Sin)"
+date: 2023-11-16 01:55:00 -0500
 categories: repent repentance
 published: true
 ---
