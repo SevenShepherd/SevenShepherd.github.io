@@ -14,11 +14,15 @@ published: true
 [TimeControl "-"]
 [Termination "TheEsperantist won by checkmate"] -->
 
+![2650 elo](\assets\images\chess\analysis_2650.png)
+
 When I was young I'd play against my family for about a month or so, my dad is the only one who ever beat me. My best friend at the time did as well, except the time I beat him (you owe me a game). After more then 20 years later I decided to play on chess.com recently and managed to get a **2650 elo rated game with the white pieces** after about a month of effort, although this isn't consistent for me since I've yet to take it seriously, though I am considering it.
 
 > 1\. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. e3 e6 7. Nc3 Nf6 8. Bb5 Bxb5 9. Nxb5 Bd6 10. Nxd6+ cxd6 11. O-O O-O 12. b4 a5 13. b5 Rc8 14. a4 Ne4 15. Ba3 f5 16. Rc1 Rf6 17. Rxc8 Qxc8 18. f3 Nc3 19. Qc2 Qc4 20. Rc1 e5 21. Qxc3 Qxc3 22. Rxc3 f4 23. e4 h5 24. d5 Kh7 25. b6 h4 26. h3 Rg6 27. Rc7 Rf6 28. Rxb7 Kg6 29. Rc7 Kh7 30. b7 Rf8    31. Rc8 Rf6 32. b8=Q Kh6 33. Rf8 Kg6 34. Rxf6+ Kxf6 35. Bxd6 Kg5 36. Be7+ Kg6 37. d6 Kf7 38. Qf8+ Kg6 39. d7 Kh6 40. d8=Q Kg6 41. Qde8+ Kh7 42. Qh8# 1-0
 
 The match was played against the 2300 rated AI bot named Francis. It likes to play the chigorin defense as black (Francis), against white (me), repeatedly and by doing so, allowed me time to learn the opening.
+
+Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never taken it seriously as a sport, there are many inspirational figures like Bobby Fischer, & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53) that make the game intriguing.
 
 
 # FIDE Rating System
