@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Our Sin)"
-date: 2023-11-16 02:15:00 -0500
+date: 2023-11-16 02:25:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -24,7 +24,7 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 - 🍇 God says, *&ldquo;No, I tell you; but unless you repent, you will all likewise perish.&rdquo;* (Luke 13:3 ESV)
 - 🧑 Repentance does not merit salvation, salvation produces repentance.
 
-Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they follows naturally, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional, unless death is appealing, after reading the following proofs:
+Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they follow naturally, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional, unless death is appealing, after reading the following proofs:
 
 <!-- Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they're not optional, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional after reading the following proofs: -->
 
