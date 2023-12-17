@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ My Grandmaster Rated Game (2650 Elo) On Chess.com"
-date: 2023-12-17 01:45:00 -0500
+date: 2023-12-17 02:00:00 -0500
 categories: repent
 published: true
 ---
@@ -29,7 +29,7 @@ When I was young I'd play against my family for about a month or so, my dad is t
 
 <!-- <iframe id="11329603" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11329603"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11329603"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-I learned to play chess from Bobby Fischer's book &ldquo;*Bobby Fischer Teaches Chess*&rdquo; when I was a preteen. Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never taken it seriously as a sport, there are many inspirational figures like Bobby Fischer, & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53) that make the game intriguing.
+I learned to play chess from Bobby Fischer's book &ldquo;*Bobby Fischer Teaches Chess*&rdquo; when I was a preteen. Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never committed myself to it as a sport, there are many inspirational figures like Bobby Fischer, & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53) that make the game intriguing.
 
 If I had to attribute this massive increase in skill, without having played chess for 20 years, I would have to attribute it to the fact that I've kept my mind active with autodidactism and polymathy.
 
