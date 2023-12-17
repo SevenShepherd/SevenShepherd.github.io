@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 05:00:00 -0500
+date: 2023-09-12 05:05:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -27,7 +27,7 @@ Final Thoughts
 
 - Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/).
 - Intellectual assent to facts is not salvific (James 2:19), Saving faith includes knowledge (notitia), approval (assensus), and personal trust (fiducia).
-- James rejects salvation by dead faith (James 2:14-26). Put another way, James rejects salvation by superficial faith, because faith is the instrument on which we lay hold of grace.
+- James rejects salvation by dead faith (James 2:14-26). Put another way, James rejects salvation by superficial faith, because faith is the instrument by which we lay hold of grace.
 - Paul tells us to test for genuine faith, or a living faith, because Christ lives in you (2 Cor. 13:5).
 
 ## II. Christians Experience A Godly Contrition

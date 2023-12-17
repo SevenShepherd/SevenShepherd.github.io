@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 1:15:00 -0500
+date: 2020-01-01 1:25:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -731,6 +731,8 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 # 8.1 Chess & Logic Puzzles
 
 Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never taken it seriously as a sport, there are many inspirational figures like Bobby Fischer, & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53) that make the game intriguing.
+
+**You can learn more about my [My Grandmaster Rated Game (2650 Elo) On Chess.com](https://sevenshepherd.github.io/chess-games/).**
 
 |||
 |:-:|:-:|
