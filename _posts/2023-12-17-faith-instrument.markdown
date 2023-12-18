@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🖐️ A Gentle Explanation Of The Five Solas"
+title: "🎼 Faith Is The Instrument By Which We Lay Hold Of God's Grace, And A Branch Cannot Bear Fruit By Itself"
 date: 2023-12-17 03:00:00 -0500
 categories: repent
 published: true
@@ -29,6 +29,12 @@ Being a basic or historic protestant makes us a part of the group responsible fo
 > Some people may contradict our teaching, but **these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life.** 4 Anyone who teaches something different is arrogant and lacks understanding... &mdash; 1 Timothy 6:3-4 NLT
 
 By grace alone, through faith alone, in Christ alone, according to scripture alone, for the glory of God alone. These are known as the [Five Solas](/assets/images/solas.jpg).
+
+This is why we can confidently preach Christ's message of repentance (turning away from sin to God in Mt 4:17; Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5; 3:3) and if you don't repent that you will die (Lk 13:3); and also why we can confidently teach that Christians do not "practice sin" (Ro 6:1-2,15; 1Jn 3:6-10), which means that we do not pursue lifestyles of indulgent sin, because for supernatural reasons we're incapable (1Jn 5:18).
+
+So when Christ says that you can know a true Christian by their fruits he really means it, because if your faith was genuine it would bear these outcomes. **Bearing fruit happens naturally for living trees, both in nature and metaphorically.** The fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn't growing, the root is dead (Mt 3:10).
+
+**So we have learned it is not the fruit that saves, its the salvation the grows the fruit.** If you are saved you will bear fruit (Jn 15:5). This opens up discussions of God's work of regeneration (Jn 3:7), the Holy Spirit's sanctification, and God granted repentance (Ac 11:18; 2Tim. 2:25). This is not your doing it's Gods, so if you're not saved, you won't see these outcomes.
 
 God bless.
 
