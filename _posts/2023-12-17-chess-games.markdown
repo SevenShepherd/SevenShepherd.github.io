@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ My Grandmaster Rated Game (2650 Elo) On Chess.com"
-date: 2023-12-17 03:45:00 -0500
+date: 2023-12-17 03:55:00 -0500
 categories: repent
 published: true
 ---
@@ -52,18 +52,23 @@ If I had to attribute this massive increase in skill, without having played ches
 |1199–1000|Class E, category 5|
 |Below 1000|Novices|
 
-# Top Players
+# Super Grandmasters
 
-|1|Norway|Magnus Carlsen|2830|
-|2|United States|Fabiano Caruana|2794|
-|3|United States|Hikaru Nakamura|2788
-|4|China|Ding Liren|2780|
-|7|Netherlands|Anish Giri|2754|
-|8|United States|Wesley So|2752|
-|10|India|Viswanathan Anand|2748|
+Classical [ratings](https://www.chess.com/ratings) from Chess.com
+
+|1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830|
+|2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2804|
+|3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|2788|
+|4|[Ding Liren](https://www.chess.com/players/ding-liren)|2780|
+|5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788|
+|6|[Wesley So](https://www.chess.com/players/wesley-so)|2757|
 
 # Legendary Players (Past)
 
-|Gary Kasparov|2812|
-|Bobby Fischer|2785|
-|Mikhail Tal|2705|
+Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who was pulled from chess.com.
+
+|[**Bobby Fischer**](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|2895|
+|[Gary Kasparov](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|2886|
+|[José Capablanca](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|2877|
+|[Mikhail Tal](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|2799|
+|Paul Morphy|2500|
