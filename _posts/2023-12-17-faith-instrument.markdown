@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of God's Grace, And A Branch Cannot Bear Fruit By Itself"
-date: 2023-12-17 03:05:00 -0500
+date: 2023-12-17 03:15:00 -0500
 categories: repent
 published: true
 ---
@@ -30,11 +30,20 @@ Being a basic or historic protestant makes us a part of the group responsible fo
 
 By grace alone, through faith alone, in Christ alone, according to scripture alone, for the glory of God alone. These are known as the [Five Solas](/assets/images/solas.jpg).
 
+> “No, I tell you; but unless you repent, you will all likewise perish.” — Jesus in Luke 13:3 ESV
+>> “Not at all! And you will perish, too, unless you repent of your sins and turn to God.” — Jesus in Luke 13:3 NLT (Parallel)
+
 This is why we can confidently preach Christ's message of repentance (turning away from sin to God in Mt 4:17; Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5; 3:3) and if you don't repent that you will die (Lk 13:3); and also why we can confidently teach that Christians do not "practice sin" (Ro 6:1-2,15; 1Jn 3:6-10), which means that we do not pursue lifestyles of indulgent sin, because for supernatural reasons we're incapable (1Jn 5:18).
+
+> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him, &mdash; 1 John 2:4 ESV (cf. Acts 17:30)
 
 So when Christ says that you can know a true Christian by their fruits he really means it, because if your faith was genuine it would bear these outcomes. **Bearing fruit happens naturally for living trees, both in nature and metaphorically.** The fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn't growing, the root is dead (Mt 3:10).
 
+> “If you refuse to take up your cross and follow me, you are not worthy of being mine.” — Jesus in Matthew 10:38 NLT
+
 **So we have learned it is not the fruit that saves, its the salvation the grows the fruit.** If you are saved you will bear fruit (Jn 15:5). This opens up discussions of God's work of regeneration (Jn 3:7), the Holy Spirit's sanctification, and God granted repentance (Ac 11:18; 2Tim. 2:25). This is not your doing it's Gods, so if you're not saved, you won't see these outcomes.
+
+> “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus"
 
 God bless.
 
