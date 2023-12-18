@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of God's Grace, And A Branch Cannot Bear Fruit By Itself"
-date: 2023-12-17 03:00:00 -0500
+date: 2023-12-17 03:05:00 -0500
 categories: repent
 published: true
 ---
@@ -14,7 +14,7 @@ Faith is the instrument by which we lay hold of God's grace, faith means to "tru
 
 > Remain in me, and I will remain in you. **Just as the branch cannot bear fruit by itself**, unless it remains in the vine, so neither can you unless you remain in me. &mdash; John 15:4
 
-Once a person is saved and justified by this trust/faith, he will receive the indwelling of the Holy Spirit the moment we believe (Eph 1:13-14), and we learn in both Galatians 5:22-23 and John 15:1-17 that God works these fruits of the faith in us, like obedience (1Jn 2:4), repentance (Lk 13:3) and good works (James 2:14-26) that characterize a Holy Spirit filled individual.
+Once a person is saved and justified by this trust/faith, they will receive the indwelling of the Holy Spirit the moment they believe (Eph 1:13-14). We learn in both Galatians 5:22-23 and John 15:1-17 that God works these fruits of the faith in us, like obedience (1Jn 2:4), repentance (Lk 13:3) and good works (James 2:14-26) that characterize a Holy Spirit filled individual.
 
 > “Yes, I am the vine; you are the branches. **Those who remain in me, and I in them, will produce much fruit.** For apart from me you can do nothing. &mdash; John 15:5
 
