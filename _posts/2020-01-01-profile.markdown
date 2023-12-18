@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 1:25:00 -0500
+date: 2020-01-01 1:35:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -199,9 +199,9 @@ As far as I can articulate right now, my theology is a systemless hybrid between
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a href="https://sevenshepherd.github.io/theology/" style="color:#12AD2B;">Hybrid Moderate</a><br>(<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/theology/#unique">Prescient Forelove</a>)|See Options In Yellow|
-|<span style="color:#F6BE00;">Systemless</span> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford; DSc, Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(PhD, Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
+|<span style="color:#F6BE00;">Systemless</span> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford; DSc, Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|Dr. Thomas C. Oden<br>(PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper<br>(DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
