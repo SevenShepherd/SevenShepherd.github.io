@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "🎼 Faith Is The Instrument By Which We Lay Hold Of God's Grace, And A Branch Cannot Bear Fruit By Itself"
-date: 2023-12-17 03:15:00 -0500
+title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
+date: 2023-12-17 03:25:00 -0500
 categories: repent
 published: true
 ---
 
-Salvation is by grace alone and justification in the sight of God is by faith alone. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOFsFgUUdZo?si=dGD9nY-WtMAvSmrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<sup>Dr. J. I. Packer (Ph.D., University of Oxford), On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).</sup>
+
+<!-- Salvation is by grace alone and justification in the sight of God is by faith alone. 
 
 > For we hold that one is justified by **faith apart from works** of the law. &mdash; Romans 3:28 ESV (cf. Eph 2:8-10)
 
@@ -21,8 +25,6 @@ Once a person is saved and justified by this trust/faith, they will receive the 
 We're not saved by these fruits, salvation simply produces them post-justification "after we're already saved." That is why I say, obedience does not merit salvation, salvation produces obedience.
 
 > **Those who accept my commandments and obey them are the ones who love me.** And because they love me, my Father will love them. And I will love them and reveal myself to each of them.” &mdash; John 14:21 (cf. Jn 14:15)
-
-<!-- And that is what I and other basic protestants like Chuck Smith, Ron Rhodes, Chuck Missler, and Geisler, Packer, Ryrie, and Grudem all teach. -->
 
 Being a basic or historic protestant makes us a part of the group responsible for the original reformation doctrine of faith alone or sole fide. A faith that results in dispositions of love and Godly character.
 
@@ -45,10 +47,10 @@ So when Christ says that you can know a true Christian by their fruits he really
 
 > “The world can’t hate you, but it does hate me because I accuse it of doing evil.” — Jesus"
 
-God bless.
+God bless. -->
 
 
-<sup>To read more about my theology consider reading [my article detailing the entire thing](https://sevenshepherd.github.io/theology/#alone).</sup>
+<!-- <sup>To read more about my theology consider reading [my article detailing the entire thing](https://sevenshepherd.github.io/theology/#alone).</sup> -->
 
 <script>
     var refTagger = {
