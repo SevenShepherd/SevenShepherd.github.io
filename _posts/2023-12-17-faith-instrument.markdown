@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2023-12-17 03:25:00 -0500
+date: 2023-12-17 03:35:00 -0500
 categories: repent
 published: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jOFsFgUUdZo?si=dGD9nY-WtMAvSmrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="385" height="315" src="https://www.youtube.com/embed/jOFsFgUUdZo?si=dGD9nY-WtMAvSmrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <sup>Dr. J. I. Packer (Ph.D., University of Oxford), On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).</sup>
 

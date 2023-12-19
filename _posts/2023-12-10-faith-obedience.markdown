@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 01:55:00 -0500
+date: 2023-12-10 02:07:00 -0500
 categories: repent
 published: true
 ---
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/gExLXpPJDd8?si=OSFCJc5i1c627oW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<sup>Dr. J. I. Packer (Ph.D., University of Oxford), On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).</sup>
 
 It's by simple observation, that we conclude, that saving faith &ldquo;results&rdquo; in obedience to God, &ldquo;after,&rdquo; we are justified, and that it does not &ldquo;include&rdquo; obedience.
 
@@ -24,10 +28,10 @@ Repentance is the fruit of [genuine saving faith](https://sevenshepherd.github.i
 
 <!-- The fruit of the Spirit, not the fruit of human decision (Gal 5:22-23).  -->
 
-1. Those who do not repent have given strong evidence that they do not love God (Ac 17:30; Jn 14:15,21)
+1. Those who do not repent have &ldquo;given strong evidence&rdquo; that they do not love God (Ac 17:30; Jn 14:15,21)
 2. Those who do not repent will die (Lk 13:3; Mt 18:3 NLT)
-3. Those who do not repent have given strong evidence of false profession (Ac 17:30; 1Jn 2:4)
-4. Those who do not repent have given strong evidence of not being led to salvation and eternal life (2 Cor. 7:10; Ac 11:18)
+3. Those who do not repent have &ldquo;given strong evidence&rdquo; of false profession (Ac 17:30; 1Jn 2:4)
+4. Those who do not repent have &ldquo;given strong evidence&rdquo; of not being led to salvation and eternal life (2 Cor. 7:10; Ac 11:18)
 
 If the fruit isn't growing, the root is dead (Mt 3:10; James 2:14-26). This is the raw logical conclusion.
 
