@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 03:25:00 -0500
+date: 2023-11-05 03:35:00 -0500
 categories: sin practice
 published: true
 ---
@@ -88,8 +88,10 @@ Repentance, obedience, and good works are all fruits of genuine saving faith. Fr
 7. <a href="#pastors_modarm">Pastors (**Moderate Arminian** w/ Eternal Sec.)</a>
     - 7.1 <a href="#smith">Chuck Smith (BA, LBC)</a>
     - 7.2 <a href="#heitzig">Dr. Heitzig (PhD, Trinity)</a>
-8. <a href="#pastors_arm">Pastors</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
+8. <a href="#pastors_arm">Pastors & Scholars</a> ([**Arminian**](https://sevenshepherd.github.io/ordo-salutis-arminian/))
     - 8.1 <a href="#graham">Billy Graham</a>
+    - 8.2 <a href="#lewis">C.S. Lewis (Oxford)</a>
+    - 8.3 <a href="#oden">Dr. Thomas C. Oden (PhD, Yale)</a>
 9. <a href="#scholars_neo">Biblical Scholars (Moderate Neotheist)</a>
     - 9.1 <a href="#ryrie">Dr. Ryrie (PhD, Edinburgh)</a>
 
@@ -349,6 +351,16 @@ When the academic community, the exegetes, the textual critics, the research pro
 - <a name="graham" href="#contents" style="font-size:1.4em;">8.1 Billy Graham</a>
 
     > Ask God to reveal the hypocrisy in your life&mdash;<span style="font-weight:bold;color:orangered;">an inconsistency between what you profess and what you <span style="font-size:1.2em;color:red;">practice</span></span>. Then ask God to bring you so close to Christ that you won't have any desire to live an inconsistent, deceitful life. &mdash; Billy Graham
+
+- <a name="lewis" href="#contents" style="font-size:1.4em;">8.2 C.S. Lewis (Oxford)</a>
+
+    > “Die before you die, there is no chance after.” ― C.S. Lewis
+
+    > Under construction
+
+- <a name="oden" href="#contents" style="font-size:1.4em;">8.2 Dr. Thomas C. Oden (PhD, Yale)</a>
+
+    > Under construction
 
 <a name="scholars_neo" href="#contents" style="font-size:1.6em;">9. Biblical Scholars (Moderate Neotheists)</a>
 
