@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:10:00 -0500
+date: 2023-12-19 01:15:00 -0500
 categories: truth
 published: true
 ---
 
-Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.**
+Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.** 
+
+<!-- If you think about it, TULIP defends us from Catholicism. While I reject limited atonement (1Jn 2:2), and would challenge unconditional election (Romans 4:5), the rest is scriptural. -->
 
 # Chuck Smith
 
@@ -45,6 +47,12 @@ phrase (Augustine coined it), but it is one that brings into fruitful focus the 
 Total depravity entails total inability, that is, the state of not having it in oneself to respond to God and his Word in a sincere and wholehearted way (John 6:44; Rom. 8:7–8). Paul calls this unresponsiveness of the fallen heart a state of death (Eph. 2:1, 5; Col. 2:13), and the Westminster Confession says: ‘Man, by his fall into a state of sin, hath wholly lost all ability of will to any spiritual good accompanying salvation; so as a natural man, being altogether averse from that good, and dead in sin, is not able by his own strength to convert himself, or to prepare himself thereunto’ (IX.3). 
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 31. Original Sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+# GotQuestions.org
+
+A nice [article on total depravity](https://www.gotquestions.org/total-depravity.html)
+
+> The total depravity of man is seen throughout the Bible. Man’s heart is “deceitful and desperately wicked” (Jeremiah 17:9). The Bible also teaches us that man is born dead in transgression and sin (Psalm 51:5, Psalm 58:3, Ephesians 2:1-5). The Bible teaches that because unregenerate man is “dead in transgressions” (Ephesians 2:5), he is held captive by a love for sin (John 3:19; John 8:34) so that he will not seek God (Romans 3:10-11) because he loves the darkness (John 3:19) and does not understand the things of God (1 Corinthians 2:14). Therefore, men suppress the truth of God in unrighteousness (Romans 1:18) and continue to willfully live in sin. Because they are totally depraved, this sinful lifestyle seems right to men (Proverbs 14:12) so they reject the gospel of Christ as foolishness (1 Corinthians 1:18) and their mind is “hostile toward God; for it does not subject itself to the law of God, for it is unable to do so” (Romans 8:7).
 
 # Total Depravity v. Total Inability
 
