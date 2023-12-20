@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:15:00 -0500
+date: 2023-12-19 01:25:00 -0500
 categories: truth
 published: true
 ---
@@ -48,17 +48,31 @@ Total depravity entails total inability, that is, the state of not having it in 
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 31. Original Sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
+# Total Depravity v. Total Inability
+
+Those who dislike the truth of total depravity may actually be thinking of total inability instead.
+
+> 32. INABILITY
+>
+FALLEN HUMAN BEINGS ARE BOTH FREE AND ENSLAVED
+>
+>> The heart is deceitful above all things and beyond cure. Who can understand it? Jeremiah 17:9
+>
+Clear thought about the fallen human condition requires a distinction between what for the past two centuries has been called free agency and what since the start of Christianity has been called free will. Augustine, Luther, Calvin, and others spoke of free will in two senses, the first trivial, the second important; but this was confusing, and it is better always to use free agency for their first sense.
+>
+Free agency is a mark of human beings as such. All humans are free agents in the sense that they make their own decisions as to what they will do, choosing as they please in the light of their sense of right and wrong and the inclinations they feel. Thus they are moral agents, answerable to God and each other for their voluntary choices. So was Adam, both before and after he sinned; so are we now, and so are the glorified saints who are confirmed in grace in such a sense that they no longer have it in them to sin. Inability to sin will be one of the delights and glories of heaven, but it will not terminate anyone’s humanness; glorified saints will still make choices in accordance with their nature, and those choices will not be any the less the product of human free agency just because they will always be good and right.
+>
+Free will, however, has been defined by Christian teachers from the second century on as the ability to choose all the moral options that a situation offers, and Augustine affirmed against Pelagius and most of the Greek Fathers that original sin has robbed us of free will in this sense. We have no natural ability to discern and choose God’s way because we have no natural inclination Godward; our hearts are in bondage to sin, and only the grace of regeneration can free us from that slavery. This, for substance, was what Paul taught in Romans 6:16–23; only the freed will (Paul says, the freed person) freely and heartily chooses righteousness. A permanent love of righteousness – that is, an inclination of heart to the way of living that pleases God – is one aspect of the freedom that Christ gives (John 8:34–36; Gal. 5:1, 13).
+>
+It is worth observing that will is an abstraction. My will is not a part of me which I choose to move or not to move, like my hand or my foot; it is precisely me choosing to act and then going into action. The truth about free agency, and about Christ freeing sin’s slave from sin’s dominion, can be expressed more clearly if the word will is dropped and each person says: I am the morally responsible free agency; I am the slave of sin whom Christ must liberate; I am the fallen being who only have it in me to choose against God till God renews my heart.
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 32. Inability. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
 # GotQuestions.org
 
 A nice [article on total depravity](https://www.gotquestions.org/total-depravity.html)
 
 > The total depravity of man is seen throughout the Bible. Man’s heart is “deceitful and desperately wicked” (Jeremiah 17:9). The Bible also teaches us that man is born dead in transgression and sin (Psalm 51:5, Psalm 58:3, Ephesians 2:1-5). The Bible teaches that because unregenerate man is “dead in transgressions” (Ephesians 2:5), he is held captive by a love for sin (John 3:19; John 8:34) so that he will not seek God (Romans 3:10-11) because he loves the darkness (John 3:19) and does not understand the things of God (1 Corinthians 2:14). Therefore, men suppress the truth of God in unrighteousness (Romans 1:18) and continue to willfully live in sin. Because they are totally depraved, this sinful lifestyle seems right to men (Proverbs 14:12) so they reject the gospel of Christ as foolishness (1 Corinthians 1:18) and their mind is “hostile toward God; for it does not subject itself to the law of God, for it is unable to do so” (Romans 8:7).
-
-# Total Depravity v. Total Inability
-
-Those who dislike the truth of total depravity may actually be thinking of total inability instead.
-
-> under construction
 
 # Conclusion
 
