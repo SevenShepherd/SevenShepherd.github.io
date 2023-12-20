@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:25:00 -0500
+date: 2023-12-19 01:35:00 -0500
 categories: truth
 published: true
 ---
@@ -30,7 +30,7 @@ Total depravity simply says, that man is not good enough to merit his own salvat
 
 > 31\. ORIGINAL SIN
 >
-DEPRAVITY INFECTS EVERYONE
+**DEPRAVITY INFECTS EVERYONE**
 >
 >> Surely I was sinful at birth, sinful from the time my mother conceived me. Psalm 51:5 
 >
@@ -52,9 +52,9 @@ Total depravity entails total inability, that is, the state of not having it in 
 
 Those who dislike the truth of total depravity may actually be thinking of total inability instead.
 
-> 32. INABILITY
+> 32\. INABILITY
 >
-FALLEN HUMAN BEINGS ARE BOTH FREE AND ENSLAVED
+**FALLEN HUMAN BEINGS ARE BOTH FREE AND ENSLAVED**
 >
 >> The heart is deceitful above all things and beyond cure. Who can understand it? Jeremiah 17:9
 >
