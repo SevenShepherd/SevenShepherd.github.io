@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:05:00 -0500
+date: 2023-12-19 01:10:00 -0500
 categories: truth
 published: true
 ---
@@ -10,7 +10,7 @@ Total depravity simply says, that man is not good enough to merit his own salvat
 
 # Chuck Smith
 
-> Truly, war does demonstrate the total depravity of man &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/Hyd93X0luAg?si=7xcqh8He3h8jKKKn)
+> <span style="color:orangered;">Truly, war does demonstrate the <span style="font-weight:bold;color:red;">total depravity</span> of man</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/Hyd93X0luAg?si=7xcqh8He3h8jKKKn)
 
 --
 
