@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:00:00 -0500
+date: 2023-12-19 01:05:00 -0500
 categories: truth
 published: true
 ---
 
-Total depravity simply says, that man is not good enough to merit his own salvation. Those who deny total depravity inadvertently claim they can merit their own salvation. Always learning.
+Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.**
 
 # Chuck Smith
 
@@ -49,6 +49,26 @@ Total depravity entails total inability, that is, the state of not having it in 
 # Total Depravity v. Total Inability
 
 Those who dislike the truth of total depravity may actually be thinking of total inability instead.
+
+> under construction
+
+# Conclusion
+
+I'd like to point out the following two verses, in the first, we have a good example of total depravity and our inability to save ourselves... 
+
+> We are all infected and impure with sin. When we display our righteous deeds, they are nothing but filthy rags. Like autumn leaves, we wither and fall, and our sins sweep us away like the wind. &mdash; Isaiah 64:6 NLT
+
+... and in the second verse, we see that Christians can live righteously, and are expected to practice righteousness. In these examples they are not speaking of merit, they're speaking of fruit.
+
+> Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous. &mdash; 1 John 3:7 ESV
+
+> Some people may contradict our teaching, but **these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life.** 4 Anyone who teaches something different is arrogant and lacks understanding... &mdash; 1 Timothy 6:3-4 NLT
+
+The difference is, that every Christian understands that the righteousness they practice is not meritorious, it is for God's glory and a fruit of genuine saving faith.
+
+> <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
+
+Always learning.
 
 <script>
     var refTagger = {
