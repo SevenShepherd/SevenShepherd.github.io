@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 02:07:00 -0500
+date: 2023-12-10 02:15:00 -0500
 categories: repent
 published: true
 ---
@@ -32,6 +32,10 @@ Repentance is the fruit of [genuine saving faith](https://sevenshepherd.github.i
 2. Those who do not repent will die (Lk 13:3; Mt 18:3 NLT)
 3. Those who do not repent have &ldquo;given strong evidence&rdquo; of false profession (Ac 17:30; 1Jn 2:4)
 4. Those who do not repent have &ldquo;given strong evidence&rdquo; of not being led to salvation and eternal life (2 Cor. 7:10; Ac 11:18)
+5. Faith that does not &ldquo;result&rdquo; in repentance is not a faith (Jas 2:19) that leads to salvation (2Cor. 7:10). It is a <a href="https://sevenshepherd.github.io/theology/#living">dead faith</a>.
+6. Why did Jesus come? (Lk 5:32)
+
+<!-- > "Faith that does not involve repentance is not true faith. It is not a faith that leads to salvation." &mdash; AMG Concise -->
 
 If the fruit isn't growing, the root is dead (Mt 3:10; James 2:14-26). This is the raw logical conclusion.
 
