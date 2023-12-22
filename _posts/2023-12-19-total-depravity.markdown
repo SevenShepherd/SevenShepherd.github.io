@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:35:00 -0500
+date: 2023-12-19 01:45:00 -0500
 categories: truth
 published: true
 ---
 
-Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.** 
+Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.** Don't confuse total depravity for total inability (more on that below).
 
 <!-- If you think about it, TULIP defends us from Catholicism. While I reject limited atonement (1Jn 2:2), and would challenge unconditional election (Romans 4:5), the rest is scriptural. -->
 
@@ -89,8 +89,6 @@ I'd like to point out the following two verses, in the first, we have a good exa
 The difference is, that every Christian understands that the righteousness they practice is not meritorious, it is for God's glory and a fruit of genuine saving faith.
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
-
-Always learning.
 
 <script>
     var refTagger = {
