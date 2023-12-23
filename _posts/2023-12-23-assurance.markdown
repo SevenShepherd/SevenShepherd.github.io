@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 Do Not Be Deceived, If You Are Walking After The Flesh And Involved In The Things Of The Flesh, You Have No Assurance Of Being In The Kingdom Of Heaven — Chuck Smith"
-date: 2023-12-23 01:15:00 -0500
+date: 2023-12-23 01:25:00 -0500
 categories: assurance
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 # Chuck Smith
 
-> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;color:red;">you have no assurance of being in the Kingdom of Heaven</span> &mdash; [Chuck Smith (YouTube Short)](https://youtube.com/shorts/aBG9kH-z8Q8?si=_jqYQqF6bgbN9TZZ)
+> Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;color:red;">you have no assurance of being in the Kingdom of Heaven</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/aBG9kH-z8Q8?si=_jqYQqF6bgbN9TZZ)
 
 <!-- Christ died for the sins of the world (1Jn 2:2), but not everyone goes to heaven. Only those who do the will of the father (Mt 7:21). They do the will of the father when they are saved by genuine saving faith (Eph 2:8-10), which is a trust and reliance that will “result” in the fruit of obedience to God (Jn 14:15; 1 Jn 2:4). This fruit Jesus spoke about will absolutely spring forth if you have a living faith (John 15:1-17; James 2:14-26) and represents the original definition of *sola fide* or faith alone. All who say otherwise deny the power of the Holy Spirit that indwells the believer upon the moment of faith (Rom. 8:9; 1Cor. 12:13; Eph 1:13-14). 
 
