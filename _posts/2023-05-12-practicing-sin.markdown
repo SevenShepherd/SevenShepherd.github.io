@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 03:35:00 -0500
+date: 2023-11-05 03:45:00 -0500
 categories: sin practice
 published: true
 ---
@@ -341,6 +341,8 @@ When the academic community, the exegetes, the textual critics, the research pro
     > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 
     > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:orangered;">If you are <span style="font-size:1.2em;color:red;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
+
+    > Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;color:red;">you have no assurance of being in the Kingdom of Heaven</span> &mdash; [Chuck Smith (YouTube Short)](https://youtube.com/shorts/aBG9kH-z8Q8?si=_jqYQqF6bgbN9TZZ)
 
 - <a name="heitzig" href="#contents" style="font-size:1.4em;">7.2 Dr. Skip Heitzig (Ph.D., Trinity Southwest)</a>
 
