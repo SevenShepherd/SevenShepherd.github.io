@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ My Grandmaster Rated Game (2650 Elo) On Chess.com"
-date: 2023-12-17 04:15:00 -0500
+date: 2023-12-17 04:25:00 -0500
 categories: repent
 published: true
 ---
@@ -54,25 +54,6 @@ If I had to attribute this massive increase in skill, without having played ches
 |1199–1000|Class E, category 5|
 |Below 1000|Novices|
 
-<!-- # Grandmasters
-
-The following are a list of Grandmasters that I've found to be excellent teachers on YouTube.
-
-|#940|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|[YouTube](https://www.youtube.com/@GMIgorSmirnov)|2505| -->
-
-<!-- |[Levy Rozman](https://www.chess.com/players/levy-rozman)|[YouTube Channel](https://www.youtube.com/@GothamChess)|2420| -->
-
-# Super Grandmasters
-
-Current classical [ratings](https://www.chess.com/ratings) from Chess.com.
-
-|1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
-|2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|N/A|2804|
-|3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|[YouTube](https://www.youtube.com/@GMHikaru)|2788|
-|4|[Ding Liren](https://www.chess.com/players/ding-liren)|N/A|2780|
-|5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|N/A|2788|
-|6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757|
-
 # Legendary Players (Past)
 
 Peak Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who was pulled from chess.com.
@@ -81,4 +62,25 @@ Peak Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who wa
 |[Gary Kasparov](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|2886|
 |[José Capablanca](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|2877|
 |[Mikhail Tal](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|2799|
-|Paul Morphy|2563|
+|[Paul Morphy](https://www.chess.com/players/paul-morphy)|2563|
+
+<!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
+
+# Super Grandmasters
+
+Current classical [ratings](https://www.chess.com/ratings) from Chess.com.
+
+|#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
+|#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|N/A|2804|
+|#3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|[YouTube](https://www.youtube.com/@GMHikaru)|2788|
+|#4|[Ding Liren](https://www.chess.com/players/ding-liren)|N/A|2780|
+|#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|N/A|2788|
+|#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757|
+
+# Grandmasters
+
+The following are a list of Grandmasters that I've found to be good teachers on YouTube.
+
+|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|[YouTube](https://www.youtube.com/@GMIgorSmirnov)|2505|
+
+<!-- |[Levy Rozman](https://www.chess.com/players/levy-rozman)|[YouTube Channel](https://www.youtube.com/@GothamChess)|2420| -->
