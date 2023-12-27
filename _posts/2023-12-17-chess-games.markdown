@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ My Grandmaster Rated Game (2650 Elo) On Chess.com"
-date: 2023-12-17 04:25:00 -0500
+date: 2023-12-17 04:35:00 -0500
 categories: repent
 published: true
 ---
@@ -70,17 +70,25 @@ Peak Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who wa
 
 Current classical [ratings](https://www.chess.com/ratings) from Chess.com.
 
-|#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
+|#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830|
+|#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2804|
+|#3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|2788|
+|#4|[Ding Liren](https://www.chess.com/players/ding-liren)|2780|
+|#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788|
+|#6|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2759|
+|#7|[Wesley So](https://www.chess.com/players/wesley-so)|2757|
+
+<!-- |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|N/A|2804|
 |#3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|[YouTube](https://www.youtube.com/@GMHikaru)|2788|
 |#4|[Ding Liren](https://www.chess.com/players/ding-liren)|N/A|2780|
 |#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|N/A|2788|
-|#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757|
+|#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757| -->
 
-# Grandmasters
+<!-- # Grandmasters
 
 The following are a list of Grandmasters that I've found to be good teachers on YouTube.
 
-|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|[YouTube](https://www.youtube.com/@GMIgorSmirnov)|2505|
+|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|[YouTube](https://www.youtube.com/@GMIgorSmirnov)|2505| -->
 
 <!-- |[Levy Rozman](https://www.chess.com/players/levy-rozman)|[YouTube Channel](https://www.youtube.com/@GothamChess)|2420| -->
