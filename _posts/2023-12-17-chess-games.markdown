@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "♟️ My Grandmaster Rated Game (2650 Elo) On Chess.com"
-date: 2023-12-17 04:35:00 -0500
-categories: repent
+title: "♟️ My 2650 Elo Chess Game"
+date: 2023-12-17 04:45:00 -0500
+categories: chess
 published: true
 ---
+
+<!-- My Grandmaster Rated Game (2650 Elo) On Chess.com -->
 
 <!-- 
 [Event "Vs. Computer"]
@@ -21,13 +23,15 @@ published: true
 
 ![2650 elo](\assets\images\chess\analysis_2650.png)
 
-**I played the match with the white pieces and scored a 2650 elo** against the 2300 elo rated AI bot named Francis (2023-11-19). I was annoyed at first as it kept winning, but I noticed a weakness in that it repeatedly played the Chigorin defense as black, and by doing so, allowed me time to learn the opening as white.
+**I played the match with the white pieces and scored a 2650 Elo** against the 2300 Elo rated AI bot named Francis (2023-11-19). I was annoyed at first as it kept winning, but I noticed a weakness in that it repeatedly played the Chigorin defense as black, and by doing so, allowed me time to learn the opening as white.
 
 <!-- It had been around 20 years since I played chess, before I started playing again about a month prior to this win on chess.com -->
 
+<iframe id="11380293" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11380293"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11380293"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
 <!-- > 1\. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. e3 e6 7. Nc3 Nf6 8. Bb5 Bxb5 9. Nxb5 Bd6 10. Nxd6+ cxd6 11. O-O O-O 12. b4 a5 13. b5 Rc8 14. a4 Ne4 15. Ba3 f5 16. Rc1 Rf6 17. Rxc8 Qxc8 18. f3 Nc3 19. Qc2 Qc4 20. Rc1 e5 21. Qxc3 Qxc3 22. Rxc3 f4 23. e4 h5 24. d5 Kh7 25. b6 h4 26. h3 Rg6 27. Rc7 Rf6 28. Rxb7 Kg6 29. Rc7 Kh7 30. b7 Rf8    31. Rc8 Rf6 32. b8=Q Kh6 33. Rf8 Kg6 34. Rxf6+ Kxf6 35. Bxd6 Kg5 36. Be7+ Kg6 37. d6 Kf7 38. Qf8+ Kg6 39. d7 Kh6 40. d8=Q Kg6 41. Qde8+ Kh7 42. Qh8# 1-0 -->
 
-<iframe id="11332347" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11332347"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11332347"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<!-- <iframe id="11332347" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11332347"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11332347"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
 <!-- <iframe id="11329603" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11329603"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11329603"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
