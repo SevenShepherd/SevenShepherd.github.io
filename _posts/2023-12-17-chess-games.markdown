@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "♟️ My 2650 Elo Chess Game"
-date: 2023-12-17 04:45:00 -0500
+title: "♟️ My 2650 Elo Chess Game Win"
+date: 2023-12-17 04:55:00 -0500
 categories: chess
 published: true
 ---

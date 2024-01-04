@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🥇 Do Not Be Deceived, If You Are Walking After The Flesh And Involved In The Things Of The Flesh, You Have No Assurance Of Being In The Kingdom Of Heaven — Chuck Smith"
-date: 2023-12-23 01:25:00 -0500
+title: "🥇 “Do Not Be Deceived, If You Are Walking After The Flesh And Involved In The Things Of The Flesh, You Have No Assurance Of Being In The Kingdom Of Heaven” — Chuck Smith"
+date: 2023-12-23 01:35:00 -0500
 categories: assurance
 published: true
 ---
