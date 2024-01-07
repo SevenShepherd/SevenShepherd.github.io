@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 01:00:00 -0500
+date: 2024-01-06 01:05:00 -0500
 categories: chess
 published: true
 ---
@@ -22,7 +22,7 @@ published: true
 
 I played as the white pieces against the Magnus bot on chess.com. The bot represents [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) at his peak and is unbelievably difficult. I'm a little disappointed after move 40; even though I took the victory, I consider it to be an ugly and inaccurate win. Before december of '23 I hadn't played chess in over two decades, and I recognize that my endgame skill is in need of serious work. If I win again, I'll embed the game below. Hopefully, I can win a more elegant game.
 
-The first sixteen moves are book moves; the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) as black, with 4. ... d5. (MCO 15 ed. pp. 543-44 (g. Sokolov)). You can also see [my other chess game](https://sevenshepherd.github.io/chess-games/) were I use the Chigorin defense with the white pieces. 
+The first sixteen moves are book moves; the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with the bot playing 4. ... d5. (MCO 15 ed. pp. 543-44 (g. Sokolov)). You can also see [my other chess game](https://sevenshepherd.github.io/chess-games/) were I use the Chigorin defense with the white pieces. 
 
 <!-- [Event "Vs. Computer"]
 [Site "http://Chess.com"]
