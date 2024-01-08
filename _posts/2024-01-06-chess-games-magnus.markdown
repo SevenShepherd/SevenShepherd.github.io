@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 02:25:00 -0500
+date: 2024-01-06 02:35:00 -0500
 categories: chess
 published: true
 ---
@@ -18,7 +18,7 @@ published: true
 
 <!-- # The Full Game -->
 
-## First Game (Win)
+## I. First Game (Win)
 
 I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**. 
 
@@ -28,7 +28,7 @@ The first sixteen moves are book moves I memorized as a part of my opening reper
 
 ## II. Second Game (Pending)
 
-In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. I could also... 
+In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. I could also...
 
 <iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
