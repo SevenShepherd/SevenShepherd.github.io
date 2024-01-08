@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 03:05:00 -0500
+date: 2024-01-06 03:15:00 -0500
 categories: chess
 published: true
 ---
@@ -48,7 +48,7 @@ This game is **dead even** by move 32. Unlike the first two games where I had an
 
 ## Conclusion
 
-I have played this bot hundreds of times, but these where the games I wanted to share. You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
+I have played this bot hundreds of times, but these were the games I wanted to share. You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
 <!--  -->
 
