@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 03:00:00 -0500
+date: 2024-01-06 03:05:00 -0500
 categories: chess
 published: true
 ---
@@ -34,15 +34,21 @@ In this second game, even though I've promoted to a queen, I feel as though I am
 
 <iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-Apparently analysis showed that I threw away a superior position as I **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position.
+Apparently analysis showed that I threw away a superior position as **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position.
 
-## III. Third Game (Pending)
+If I come across this position again and manage to win, I'll update this section.
 
-This game is **dead even**. Unlike the first two games where I had an advantage, I simply do not have an advantage here. This is going to be a long game.
+## III. Third Game (Draw)
 
-<iframe id="11392817" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392817"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392817"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+This game is **dead even** by move 32. Unlike the first two games where I had an advantage, I simply do not have an advantage here. This is going to be a long game. Ended up as a draw \*facepalm\*.
 
-You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
+<!-- <iframe id="11392817" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392817"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392817"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
+
+<iframe id="11393091" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11393091"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11393091"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+## Conclusion
+
+I have played this bot hundreds of times, but these where the games I wanted to share. You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
 <!--  -->
 
