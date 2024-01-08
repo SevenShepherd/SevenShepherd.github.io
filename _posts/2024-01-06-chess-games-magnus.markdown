@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 03:15:00 -0500
+date: 2024-01-06 03:25:00 -0500
 categories: chess
 published: true
 ---
+
+![Magnus (2882)](/assets/images/chess/magnus2882.png)
+
+<!-- <sup style="font-size:">\*Is it just me, or is Soccer Magnus (1500) harder than Magnus (2882)? ¯\_(ツ)_/¯</sup> -->
 
 <!-- # The Opening -->
 
@@ -35,6 +39,10 @@ In this second game, even though I've promoted to a queen, I feel as though I am
 <iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 Apparently analysis showed that I threw away a superior position as **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position.
+
+<!-- > Possible continuation: +5.35 26. Qe5+ Kg8 27. Qb8+ Kg7 28. Ne6+ fxe6 29. Qxa7+ Kg8 30. Qa8+ Kf7 31. Qxa3 Rb1 32. Qa7+ Kf6 33. Qd4+ Kf7 34. b6 Nf2 35. Qxf2 d4 36. Qxd4 Rxb6 37. Qd7+ Kg8 38. Qd8+ Kf7 39. Qc7+ Kg8 40. Qe5 h5 41. Ke3 Rb7 42. Kf2 Kh7 43. h3 Rf7 44. g4 Re7 45. e3 hxg4 &mdash; Stockfish 16, Standard (~5 sec, 3430 Rating, depth=40). -->
+
+<!-- (+0.07 Rc5, depth=43) below -->
 
 If I come across this position again and manage to win, I'll update this section.
 
