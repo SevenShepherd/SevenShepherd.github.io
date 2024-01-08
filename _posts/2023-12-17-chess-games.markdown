@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:00:00 -0500
+date: 2023-12-17 05:05:00 -0500
 categories: chess
 published: true
 ---
@@ -62,7 +62,7 @@ If I had to attribute this massive increase in skill, without having played ches
 
 # Legendary Players (Past)
 
-Peak Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who was pulled from chess.com.
+Peak ratings pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp), except morphy, who was pulled from chess.com.
 
 |[**Bobby Fischer**](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|2895|
 |[Gary Kasparov](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|2886|
@@ -74,7 +74,7 @@ Peak Ratings pulled from [chessmetrics](chessmetrics.com), except morphy, who wa
 
 # Super Grandmasters
 
-Current & Peak classical [ratings](https://www.chess.com/ratings) from Chess.com.
+Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com.
 
 |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830 (2882)|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2804 (2844)|
