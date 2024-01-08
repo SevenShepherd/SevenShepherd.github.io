@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 02:15:00 -0500
+date: 2024-01-06 02:25:00 -0500
 categories: chess
 published: true
 ---
@@ -18,11 +18,19 @@ published: true
 
 <!-- # The Full Game -->
 
+## First Game (Win)
+
 I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**. 
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed. pp. 543-44 (g)). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40; even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. 
+The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed. pp. 543-44 (g)). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40 (96.3%); even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. 
+
+## II. Second Game (Pending)
+
+In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. I could also... 
+
+<iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
