@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 01:45:00 -0500
+date: 2024-01-06 02:00:00 -0500
 categories: chess
 published: true
 ---
@@ -18,13 +18,19 @@ published: true
 
 <!-- # The Full Game -->
 
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**. 
+
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-I played as the white pieces against the Magnus bot on chess.com. The bot represents [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) at his peak and is unbelievably difficult. I'm a little disappointed after move 40; even though I took the victory, I consider my endgame to be a bit sloppy. Before december of '23 I hadn't played chess in over two decades, and I recognize that my endgame skill is in need of serious work. If I win again, I'll embed the game below. Hopefully, I can win a more elegant game.
+The first sixteen moves are book moves. (See MCO 15ed. pp. 543-44 (g)). Moves 19-30 I studied analysis for that specific line for awhile. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40; even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
-Magnus (2882) likes to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5. I was able to spend time with this opening because of this. You can also see [my other chess game](https://sevenshepherd.github.io/chess-games/) were I use the Chigorin defense with the white pieces.
+<!--  -->
 
-<!-- The first sixteen moves are book moves; the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with the bot playing 4. ... d5. (MCO 15 ed. pp. 543-44 (g. Sokolov)). You can also see [my other chess game](https://sevenshepherd.github.io/chess-games/) were I use the Chigorin defense with the white pieces.  -->
+<!-- Before december of '23 I hadn't played chess in over two decades, and I recognize that my endgame skill is in need of serious work. If I win again, I'll embed the game below. Hopefully, I can win a more elegant game. -->
+
+ <!-- I was able to spend time with this opening because of this.  -->
+
+
 
 <!-- [Event "Vs. Computer"]
 [Site "http://Chess.com"]
