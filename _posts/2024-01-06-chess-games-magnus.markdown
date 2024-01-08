@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 03:45:00 -0500
+date: 2024-01-06 03:55:00 -0500
 categories: chess
 published: true
 ---
@@ -44,7 +44,7 @@ The position at move 25 I have come across several times. This is my win in this
 
 <!-- Apparently analysis showed that I threw away a superior position as **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position. -->
 
-If I come across this position again and manage to win, I'll update this section.
+<!-- If I come across this position again and manage to win, I'll update this section. -->
 
 ## III. Third Game (Draw)
 
