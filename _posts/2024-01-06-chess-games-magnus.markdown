@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 02:05:00 -0500
+date: 2024-01-06 02:15:00 -0500
 categories: chess
 published: true
 ---
@@ -22,7 +22,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed. pp. 543-44 (g)). Moves 19-30 I studied analysis for that specific line for awhile to extend my skill set against the Nimzo. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40; even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. 
+The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed. pp. 543-44 (g)). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40; even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. 
 
 You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
