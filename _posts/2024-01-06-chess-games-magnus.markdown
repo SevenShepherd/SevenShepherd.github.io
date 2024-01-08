@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 02:55:00 -0500
+date: 2024-01-06 03:00:00 -0500
 categories: chess
 published: true
 ---
@@ -32,9 +32,9 @@ The first sixteen moves are book moves I memorized as a part of my opening reper
 
 In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. There's also Ne6+ fxe6 Qxa7+ Kg8 Qxa3. 
 
-**I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position.
-
 <iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+Apparently analysis showed that I threw away a superior position as I **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position.
 
 ## III. Third Game (Pending)
 
