@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 04:35:00 -0500
+date: 2024-01-06 04:45:00 -0500
 categories: chess
 published: true
 ---
@@ -24,7 +24,7 @@ published: true
 
 ## I. Trophy Game
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces.
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a few draws.
 
 <!-- 1 Win, 3 Draws, 3 Botched at position 25. -->
 
@@ -64,7 +64,13 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- ## Conclusion -->
 
-<!-- I have played this bot hundreds of times, but these were the games I wanted to share.  -->
+<!-- ![Magnus (2882)](/assets/images/chess/magnus2882b.png)
+
+I find it odd that in my game against Francis (2300), where I used the the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with a 92.8 accuracy, that I have a higher Elo than when I beat Magnus (2882) with a 95.0 accuracy. This suggests either the analysis is unreliable, or that we both suppressed each other and prevented each other from playing like we normally do. It could also have something to do with my new account and elo. You'd think that if you beat a 2882, you'd have a 2882+ score. -->
+
+<!-- I'm assuming -->
+
+<!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
 
 You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
