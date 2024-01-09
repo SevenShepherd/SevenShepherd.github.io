@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:05:00 -0500
+date: 2023-12-17 05:15:00 -0500
 categories: chess
 published: true
 ---
@@ -64,10 +64,13 @@ If I had to attribute this massive increase in skill, without having played ches
 
 Peak ratings pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp), except morphy, who was pulled from chess.com.
 
-|[**Bobby Fischer**](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|2895|
-|[Gary Kasparov](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|2886|
-|[José Capablanca](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|2877|
-|[Mikhail Tal](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|2799|
+|[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|[2895](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|
+|[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|[2886](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|
+|[José Capablanca](https://www.chess.com/players/jose-raul-capablanca)|[2877](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|
+|[Anatoly Karpov](https://www.chess.com/players/anatoly-karpov)|[2848](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062745000000111000000000000010100)|
+|[Viswanathan Anand](https://www.chess.com/players/viswanathan-anand)|[2833](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100)|
+|[Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)|[2826](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100)|
+|[Mikhail Tal](https://www.chess.com/players/mikhail-tal)|[2799](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|
 |[Paul Morphy](https://www.chess.com/players/paul-morphy)|2563|
 
 <!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
@@ -83,6 +86,9 @@ Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com
 |#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788 (2795)|
 |#6|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2759 (2804)|
 |#7|[Wesley So](https://www.chess.com/players/wesley-so)|2757 (2822)|
+|#8|[Leinier Perez](https://www.chess.com/players/leinier-dominguez-perez)|2752 (2768)|
+|#9|[Sergey Karjakin](https://www.chess.com/players/sergey-karjakin)|2750 (2788)|
+|#10|[Anish Giri](https://www.chess.com/players/anish-giri)|2749 (2798)|
 
 <!-- |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|N/A|2804|
@@ -91,10 +97,15 @@ Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com
 |#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|N/A|2788|
 |#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757| -->
 
-<!-- # Grandmasters
+# Grandmasters
 
+|#143|[Daniel Naroditsky](https://www.chess.com/players/daniel-naroditsky)|2619 (2647)|
+|#934|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|2505|
+
+<!--
 The following are a list of Grandmasters that I've found to be good teachers on YouTube.
 
-|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|[YouTube](https://www.youtube.com/@GMIgorSmirnov)|2505| -->
+[YouTube](https://www.youtube.com/@GMIgorSmirnov)
+-->
 
 <!-- |[Levy Rozman](https://www.chess.com/players/levy-rozman)|[YouTube Channel](https://www.youtube.com/@GothamChess)|2420| -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 04:15:00 -0500
+date: 2024-01-06 04:25:00 -0500
 categories: chess
 published: true
 ---
@@ -118,13 +118,13 @@ Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
 
 Peak ratings pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp), except morphy, who was pulled from chess.com.
 
-|[**Bobby Fischer**](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|2895|
-|[Gary Kasparov](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|2886|
-|[José Capablanca](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|2877|
-|[Anatoly Karpov](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062745000000111000000000000010100)|2848|
-|[Viswanathan Anand](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100)|2833|
-|[Vladimir Kramnik](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100)|2826|
-|[Mikhail Tal](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|2799|
+|[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|[2895](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|
+|[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|[2886](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|
+|[José Capablanca](https://www.chess.com/players/jose-raul-capablanca)|[2877](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|
+|[Anatoly Karpov](https://www.chess.com/players/anatoly-karpov)|[2848](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062745000000111000000000000010100)|
+|[Viswanathan Anand](https://www.chess.com/players/viswanathan-anand)|[2833](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100)|
+|[Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)|[2826](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100)|
+|[Mikhail Tal](https://www.chess.com/players/mikhail-tal)|[2799](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|
 |[Paul Morphy](https://www.chess.com/players/paul-morphy)|2563|
 
 <!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
