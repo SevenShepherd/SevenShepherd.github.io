@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 04:00:00 -0500
+date: 2024-01-06 04:05:00 -0500
 categories: chess
 published: true
 ---
@@ -22,9 +22,11 @@ published: true
 
 <!-- # The Full Game -->
 
-## I. Main Game (1 Win, 3 Draws, 3 Botched)
+## I. Trophy Game
 
-The position at move 25 I have come across several times. This is my win with the white pieces in this position. It took me a few minutes to play this game from start to finish.
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces.
+
+<!-- 1 Win, 3 Draws, 3 Botched at position 25. -->
 
 <!-- In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. There's also Ne6+ fxe6 Qxa7+ Kg8 Qxa3.  -->
 
@@ -40,29 +42,31 @@ The position at move 25 I have come across several times. This is my win with th
 
 <!-- (+0.07 Rc5, depth=43) below -->
 
-## II. Valuable Learning Experiences
+<!-- ## II. Valuable Learning Experiences -->
 
-# First Win During Study
+<!-- # First Win During Study -->
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**. 
+<!-- I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**.  -->
 
-<iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<!-- <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40 (96.3%); even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier. 
+<!-- The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40 (96.3%); even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier.  -->
 
 <!-- (I. Sokolov) -->
 
-# First Draw
+<!-- # First Draw -->
 
-This game is **dead even** by move 32. Unlike the first two games where I had an advantage, I simply do not have an advantage here. This is going to be a long game. Ended up as a draw \*facepalm\*.
+<!-- This game is **dead even** by move 32. Unlike the first two games where I had an advantage, I simply do not have an advantage here. This is going to be a long game. Ended up as a draw \*facepalm\*. -->
 
 <!-- <iframe id="11392817" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392817"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392817"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-<iframe id="11393091" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11393091"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11393091"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<!-- <iframe id="11393091" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11393091"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11393091"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-## Conclusion
+<!-- ## Conclusion -->
 
-I have played this bot hundreds of times, but these were the games I wanted to share. You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
+<!-- I have played this bot hundreds of times, but these were the games I wanted to share.  -->
+
+You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
 <!--  -->
 
