@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 04:25:00 -0500
+date: 2024-01-06 04:35:00 -0500
 categories: chess
 published: true
 ---
 
-![Magnus (2882)](/assets/images/chess/magnus2882.png)
+![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
 <!-- <sup style="font-size:">\*Is it just me, or is Soccer Magnus (1500) harder than Magnus (2882)? ¯\_(ツ)_/¯</sup> -->
 
