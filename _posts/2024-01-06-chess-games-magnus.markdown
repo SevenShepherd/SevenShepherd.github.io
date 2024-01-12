@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 05:15:00 -0500
+date: 2024-01-06 05:25:00 -0500
 categories: chess
 published: true
 ---
@@ -74,7 +74,7 @@ I find it odd that in my game against Francis (2300), where I used the the [Chig
 
 ## Trophy Game (Draw)
 
-I still consider this to be a win even if I messed up and drew a winnable game. My accuracy here is 98.2%. I should have checked Magnus on move 30.
+I still consider this to be a win as even drawing with magnus is a feat. I messed up and drew a winnable game, even so my accuracy here is 98.2%. I should have checked Magnus on move 30.
 
 <iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
