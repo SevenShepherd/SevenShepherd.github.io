@@ -62,16 +62,19 @@ If I had to attribute this massive increase in skill, without having played ches
 
 # Legendary Players (Past)
 
-Peak ratings pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp), except morphy, who was pulled from chess.com.
+3-year peak average ratings with highest score in parenthesis. Peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp).
 
-|[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|[2895](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS3S038178196609131000000000000010100)|
-|[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|[2886](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S062926196609131000000000000010100)|
-|[José Capablanca](https://www.chess.com/players/jose-raul-capablanca)|[2877](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S019593196609131000000000000010100)|
-|[Anatoly Karpov](https://www.chess.com/players/anatoly-karpov)|[2848](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062745000000111000000000000010100)|
-|[Viswanathan Anand](https://www.chess.com/players/viswanathan-anand)|[2833](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100)|
-|[Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)|[2826](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100)|
-|[Mikhail Tal](https://www.chess.com/players/mikhail-tal)|[2799](http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=196601SSSSS5S129382196609131000000000000010100)|
-|[Paul Morphy](https://www.chess.com/players/paul-morphy)|2563|
+|[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|2867 ([2895](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S038178000000111000000000000010100))|
+|[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|2874 ([2886](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062926000000111000000000000010100))|
+|[José Capablanca](https://www.chess.com/players/jose-raul-capablanca)|2857 ([2877](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S019593000000111000000000000010100))|
+|[Emanuel Lasker](https://www.chess.com/players/emanuel-lasker)|2855 ([2878](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S073076000000111000000000000010100))|
+|[Mikhail Botvinnik](https://www.chess.com/players/mikhail-botvinnik)|2852 ([2885](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S015154000000111000000000000010100))|
+|[Alexander Alekhine](https://www.chess.com/players/alexander-alekhine)|2841 ([2860](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S002138000000111000000000000010100))|
+|[Anatoly Karpov](https://www.chess.com/players/anatoly-karpov)|2833 ([2848](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062745000000111000000000000010100))|
+|[Viswanathan Anand](https://www.chess.com/players/viswanathan-anand)|2822 ([2833](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100))|
+|[Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)|2815 ([2826](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100))|
+|[Mikhail Tal](https://www.chess.com/players/mikhail-tal)|2786 ([2799](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S129382000000111000000000000010100))|
+|[**Paul Morphy**](https://www.chess.com/players/paul-morphy)|2716 (2743)|
 
 <!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
 
