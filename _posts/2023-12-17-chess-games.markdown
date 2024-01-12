@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:15:00 -0500
+date: 2023-12-17 05:25:00 -0500
 categories: chess
 published: true
 ---
@@ -74,7 +74,7 @@ If I had to attribute this massive increase in skill, without having played ches
 |[Viswanathan Anand](https://www.chess.com/players/viswanathan-anand)|2822 ([2833](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S003424000000111000000000000010100))|
 |[Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik)|2815 ([2826](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S068986000000111000000000000010100))|
 |[Mikhail Tal](https://www.chess.com/players/mikhail-tal)|2786 ([2799](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S129382000000111000000000000010100))|
-|[**Paul Morphy**](https://www.chess.com/players/paul-morphy)|2716 (2743)|
+|[Paul Morphy](https://www.chess.com/players/paul-morphy)|2716 ([2743](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S088959000000111000000000000010100))|
 
 <!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
 
