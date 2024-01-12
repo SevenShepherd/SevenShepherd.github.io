@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 05:05:00 -0500
+date: 2024-01-06 05:15:00 -0500
 categories: chess
 published: true
 ---
@@ -22,7 +22,7 @@ published: true
 
 <!-- # The Full Game -->
 
-## I. Trophy Game
+## I. Trophy Game (Win)
 
 I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a dozen draws in this position.
 
@@ -71,6 +71,14 @@ I find it odd that in my game against Francis (2300), where I used the the [Chig
 <!-- I'm assuming -->
 
 <!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
+
+## Trophy Game (Draw)
+
+I still consider this to be a win even if I messed up and drew a winnable game. My accuracy here is 98.2%. I should have checked Magnus on move 30.
+
+<iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+
 
 You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
