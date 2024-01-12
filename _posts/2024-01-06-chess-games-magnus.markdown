@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 05:00:00 -0500
+date: 2024-01-06 05:05:00 -0500
 categories: chess
 published: true
 ---
@@ -122,7 +122,7 @@ Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
 
 # Legendary Players (Past)
 
-3-year peak average ratings with highest score in parenthesis. Peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp).
+Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp). Averages are 3-year peak range.
 
 |[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|2867 ([2895](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S038178000000111000000000000010100))|
 |[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|2874 ([2886](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062926000000111000000000000010100))|

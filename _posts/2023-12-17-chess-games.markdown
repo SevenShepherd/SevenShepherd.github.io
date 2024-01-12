@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:25:00 -0500
+date: 2023-12-17 05:35:00 -0500
 categories: chess
 published: true
 ---
@@ -62,7 +62,7 @@ If I had to attribute this massive increase in skill, without having played ches
 
 # Legendary Players (Past)
 
-3-year peak average ratings with highest score in parenthesis. Peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp).
+Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp). Averages are 3-year peak range.
 
 |[**Bobby Fischer**](https://www.chess.com/players/bobby-fischer)|2867 ([2895](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S038178000000111000000000000010100))|
 |[Gary Kasparov](https://www.chess.com/players/garry-kasparov)|2874 ([2886](http://chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S062926000000111000000000000010100))|
