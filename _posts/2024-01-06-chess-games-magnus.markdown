@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 05:30:00 -0500
+date: 2024-01-06 05:35:00 -0500
 categories: chess
 published: true
 ---
@@ -72,11 +72,17 @@ I find it odd that in my game against Francis (2300), where I used the the [Chig
 
 <!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
 
-## II. Trophy Game (Draw)
+## II. Game Two (Draw)
 
-My accuracy here is 98.2%. I think even though It's a draw, I still like this game. I realized I messed up around move 30 and could have won.
+My accuracy here is 98.2%. I think even though It's a draw, I still like this game. I realized I messed up around move 30 and could have won again.
 
 <iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+## III. Game Three (Stalemate)
+
+\**facepalm*\*
+
+<iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
 
