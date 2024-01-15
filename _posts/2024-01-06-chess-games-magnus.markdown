@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 05:45:00 -0500
+date: 2024-01-06 05:55:00 -0500
 categories: chess
 published: true
 ---
@@ -84,7 +84,7 @@ My accuracy here is 98.2%. I think even though It's a draw, I still like this ga
 
 <iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-IV. Game Four (Win)
+## IV. Game Four (Win)
 
 <iframe id="11411921" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411921"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411921"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
