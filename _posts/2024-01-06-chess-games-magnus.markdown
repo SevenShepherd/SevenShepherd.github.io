@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 06:10:00 -0500
+title: "♟️ Shepherd v. Magnus (2882)"
+date: 2024-01-06 06:35:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
+
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#nimzo">Nimzo-Indian</a>
+    - 1.1 <a href="#one">Trophy Game (Win)</a>
+    - 1.2 <a href="#two">Game Two (Draw)</a>
+    - 1.3 <a href="#three">Game Three (Stalemate)</a>
+    - 1.4 <a href="#four">Game Four (Win)</a>
+    - 1.5 <a href="#five">Game Five (Win)</a>
+    - 1.6 <a href="#six">Game Six (Win)</a>
+
+<a href="#stats">Chess Info</a>
+
+- <a href="#fide">FIDE Rating System</a>
+- <a href="#legend">Legendary Players</a>
+- <a href="#super">Super Grandmasters</a>
+- <a href="#grand">Grandmasters</a>
 
 <!-- <sup style="font-size:">\*Is it just me, or is Soccer Magnus (1500) harder than Magnus (2882)? ¯\_(ツ)_/¯</sup> -->
 
@@ -22,9 +39,13 @@ published: true
 
 <!-- # The Full Game -->
 
-## I. Trophy Game (Win)
+<a name="nimzo" href="#contents" style="font-size:2.1em;">1. Nimzo-Indian</a>
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a dozen draws in this position.
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**.
+
+<a name="one" href="#contents" style="font-size:1.6em;">1.2 Trophy Game (Win)</a>
+
+I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a dozen draws in this position.
 
 <!-- 1 Win, 3 Draws, 3 Botched at position 25. -->
 
@@ -72,31 +93,31 @@ I find it odd that in my game against Francis (2300), where I used the the [Chig
 
 <!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
 
-## II. Game Two (Draw)
+<a name="two" href="#contents" style="font-size:1.6em;">1.2 Game Two (Draw)</a>
 
 My accuracy here is 98.2%. I think even though It's a draw, I still like this game. I realized I messed up around move 30 and could have won again.
 
 <iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-## III. Game Three (Stalemate)
+<a name="three" href="#contents" style="font-size:1.6em;">1.3 Game Three (Stalemate)</a>
 
 \**facepalm*\* I made a big mistake on move 48 apparently, otherwise this could have been another win.
 
 <iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-## IV. Game Four (Win)
+<a name="four" href="#contents" style="font-size:1.6em;">1.4 Game Four (Win)</a>
 
 <iframe id="11411921" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411921"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411921"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-## V. Game Five (Win)
+<a name="five" href="#contents" style="font-size:1.6em;">1.5 Game Five (Win)</a>
 
 This game is similar to the first two by move 25.
 
 <iframe id="11418009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-## Game Six (Win)
+<a name="six" href="#contents" style="font-size:1.6em;">1.6 Game Six (Win)</a>
 
-Ok, so this was actually my first win against Magnus (2882), but I was so annoyed with the endgame I decided to hide it down here lol. The games in this article on not chronological.
+Ok, so this was actually my first win against Magnus (2882), but I was so annoyed with the endgame so I decided to hide it down here lol. The games in this article on not chronological.
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
@@ -133,7 +154,9 @@ Re8 Rb5+ 67. Re5 Rb8 68. h6+ Kxh6 69. Re8 Rb5+ 70. Kf6 Kh5 71. f8=Q Rb6+ 72. Kf7
 Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
 79. Kf6 Rb5 80. Qg6+ Kh4 81. Qfh6+ Rh5 82. Qhxh5# 1-0 -->
 
-# FIDE Rating System
+<a name="stats" href="#contents" style="font-size:2.1em;">Chess Information</a>
+
+<a name="fide" href="#contents" style="font-size:1.6em;">FIDE Rating System</a>
 
 |**2700+**|**No formal title, but sometimes informally called "super grandmasters"**|
 |2700–2500|most Grandmasters (GM)|
@@ -148,7 +171,8 @@ Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
 |1199–1000|Class E, category 5|
 |Below 1000|Novices|
 
-# Legendary Players (Past)
+
+<a name="legend" href="#contents" style="font-size:1.6em;">Legendary Players (Past)</a>
 
 Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm/CM2/PeakList.asp). Averages are 3-year peak range.
 
@@ -166,7 +190,7 @@ Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm
 
 <!-- [](https://en.wikipedia.org/wiki/Paul_Morphy) -->
 
-# Super Grandmasters
+<a name="super" href="#contents" style="font-size:1.6em;">Super Grandmasters</a>
 
 Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com.
 
@@ -189,6 +213,8 @@ Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com
 |#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757| -->
 
 # Grandmasters
+
+<a name="grand" href="#contents" style="font-size:1.6em;">Grandmasters</a>
 
 |#143|[Daniel Naroditsky](https://www.chess.com/players/daniel-naroditsky)|2619 (2647)|
 |#934|[Igor Smirnov](https://www.chessgames.com/player/igor_smirnov.html)|2505|
