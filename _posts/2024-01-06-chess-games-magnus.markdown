@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 06:05:00 -0500
+date: 2024-01-06 06:10:00 -0500
 categories: chess
 published: true
 ---
@@ -93,6 +93,12 @@ My accuracy here is 98.2%. I think even though It's a draw, I still like this ga
 This game is similar to the first two by move 25.
 
 <iframe id="11418009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+## Game Six (Win)
+
+Ok, so this was actually my first win against Magnus (2882), but I was so annoyed with the endgame I decided to hide it down here lol. The games in this article on not chronological.
+
+<iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 You can also see my other chess game against [Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/) and [Francis (2300)](https://sevenshepherd.github.io/chess-games/). After Magnus month ends, I'll come back to Ding Liren.
 
