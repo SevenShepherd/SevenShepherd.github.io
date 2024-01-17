@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Magnus (2882)"
-date: 2024-01-06 06:00:00 -0500
+date: 2024-01-06 06:05:00 -0500
 categories: chess
 published: true
 ---
@@ -94,7 +94,7 @@ This game is similar to the first two by move 25.
 
 <iframe id="11418009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-You can also see my other chess game against Francis were I use the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with the white pieces.
+You can also see my other chess game against [Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/) and [Francis (2300)](https://sevenshepherd.github.io/chess-games/). After Magnus month ends, I'll come back to Ding Liren.
 
 <!--  -->
 

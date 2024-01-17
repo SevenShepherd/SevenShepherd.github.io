@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Nimzo-Indian v. Ding Liren (2788)"
-date: 2024-01-10 01:00:00 -0500
+date: 2024-01-10 01:05:00 -0500
 categories: chess
 published: true
 ---
@@ -12,7 +12,7 @@ I played as the white pieces against the [Ding Liren](https://www.chess.com/play
 
 <iframe id="11418015" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418015"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418015"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-You can also see my other chess game against [Francis (2300)](https://sevenshepherd.github.io/chess-games/) and [Magnus (2882)](https://sevenshepherd.github.io/chess-games-magnus/). After Magnus month ends, I'll come back to Ding Liren.
+You can also see my other chess games against [Magnus (2882)](https://sevenshepherd.github.io/chess-games-magnus/) and [Francis (2300)](https://sevenshepherd.github.io/chess-games/). After Magnus month ends, I'll come back to Ding Liren.
 
 # FIDE Rating System
 
