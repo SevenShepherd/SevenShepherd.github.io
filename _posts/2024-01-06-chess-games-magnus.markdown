@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 07:25:00 -0500
+date: 2024-01-06 07:35:00 -0500
 categories: chess
 published: true
 ---
@@ -20,6 +20,8 @@ published: true
         - Sokolov w/ **18\. Rd1 ...**
         - 1.1.5 <a href="#five">Game Five (Stalemate)</a>
         - 1.1.6 <a href="#six">Game Six (Win)</a>
+    - 1.2 <a href="#rubinstein">Rubinstein</a>
+        - 1.2.1 <a href="#seven">Game Seven (Pending)</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -126,7 +128,11 @@ Ok, so this was actually my first win against Magnus (2882), but I was so annoye
 
 <iframe id="11411921" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411921"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411921"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-You can also see my other chess game against [Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/) and [Francis (2300)](https://sevenshepherd.github.io/chess-games/). After Magnus month ends, I'll come back to Ding Liren.
+<a name="rubinstein" href="#contents" style="font-size:1.6em;">1.2 Rubinstein</a>
+
+<a name="seven" href="#contents" style="font-size:1.2em;">1.2.1 Game Seven (Pending)</a>
+
+I'm working on it.
 
 <!--  -->
 
@@ -160,6 +166,8 @@ Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
 79. Kf6 Rb5 80. Qg6+ Kh4 81. Qfh6+ Rh5 82. Qhxh5# 1-0 -->
 
 <a name="stats" href="#contents" style="font-size:2.1em;">Chess Information</a>
+
+You can also see my other chess game against [Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/) and [Francis (2300)](https://sevenshepherd.github.io/chess-games/). After Magnus month ends, I'll come back to Ding Liren.
 
 <a name="fide" href="#contents" style="font-size:1.2em;">FIDE Rating System</a>
 
