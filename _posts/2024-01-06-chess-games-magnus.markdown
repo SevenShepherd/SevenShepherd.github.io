@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 06:35:00 -0500
+date: 2024-01-06 06:45:00 -0500
 categories: chess
 published: true
 ---
@@ -211,8 +211,6 @@ Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com
 |#4|[Ding Liren](https://www.chess.com/players/ding-liren)|N/A|2780|
 |#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|N/A|2788|
 |#6|[Wesley So](https://www.chess.com/players/wesley-so)|N/A|2757| -->
-
-# Grandmasters
 
 <a name="grand" href="#contents" style="font-size:1.6em;">Grandmasters</a>
 
