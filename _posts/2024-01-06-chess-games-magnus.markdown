@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 07:35:00 -0500
+date: 2024-01-06 07:55:00 -0500
 categories: chess
 published: true
 ---
@@ -11,9 +11,9 @@ published: true
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#nimzo">Nimzo-Indian</a>
-    - 1.1 <a href="#classical">Classical, Noa</a>
+    - 1.1 <a href="#classical">Classical, Noa (White)</a>
         - Sokolov w/ **18\. b5 ...**
-        - 1.1.1 <a href="#one">Trophy Game (Win)</a>
+        - 1.1.1 <a href="#one">**Trophy Game (Win)**</a>
         - 1.1.2 <a href="#two">Game Two (Draw)</a>
         - 1.1.3 <a href="#three">Game Three (Win)</a>
         - 1.1.4 <a href="#four">Game Four (Win)</a>
