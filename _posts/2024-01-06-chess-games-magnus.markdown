@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 07:07:00 -0500
+date: 2024-01-06 07:17:00 -0500
 categories: chess
 published: true
 ---
@@ -11,7 +11,7 @@ published: true
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#nimzo">Nimzo-Indian</a>
-    - 1.1 <a href="#classical">Classical, Noa (Sokolov)</a>
+    - 1.1 <a href="#classical">Classical, Noa</a>
         - **18\. b5 ...**
         - 1.1.1 <a href="#one">Trophy Game (Win)</a>
         - 1.1.2 <a href="#two">Game Two (Draw)</a>
@@ -44,9 +44,11 @@ published: true
 
 <a name="nimzo" href="#contents" style="font-size:2.1em;">1. Nimzo-Indian</a>
 
-<a name="classical" href="#contents" style="font-size:1.6em;">1.1 Classical, Noa (Sokolov)</a>
+<a name="classical" href="#contents" style="font-size:1.6em;">1.1 Classical, Noa</a>
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far.
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. 
+
+<!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
 <a name="one" href="#contents" style="font-size:1.2em;">1.1.1 Trophy Game (Win)</a>
 
