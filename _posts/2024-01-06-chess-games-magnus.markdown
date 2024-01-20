@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 08:25:00 -0500
+date: 2024-01-06 08:35:00 -0500
 categories: chess
 published: true
 ---
@@ -118,7 +118,7 @@ My accuracy here is 98.2%. I think even though It's a draw, I still like this ga
 
 <a name="four" href="#contents" style="font-size:1.2em;">1.1.4 Game Four (Win)</a>
 
-Ok, so this was actually my first win against Magnus (2882), but I was so annoyed with the endgame that I decided to hide it down here lol. I actually played the opening wrong the first time around and didn't play 17. g3 before 18. b5.. so rocky start. The games in this article on not chronological.
+Ok, so this was actually my first win against Magnus (2882), but I was so disappointed with the endgame that I decided to hide it down here lol. I actually played the opening wrong the first time around and didn't play 17. g3 before 18. b5.. so rocky start. The games in this article are not chronological.
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
@@ -150,7 +150,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 Game One (Win)</a>
 
-This is a good position for white to be in by move 22.
+This is a good position for white to be in by move 25.
 
 <!-- Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable.  -->
 
