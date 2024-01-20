@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 08:10:00 -0500
+date: 2024-01-06 08:15:00 -0500
 categories: chess
 published: true
 ---
@@ -140,7 +140,7 @@ I'm working on it.
 
 <a name="grunfeld" href="#contents" style="font-size:2.1em;">2. Grünfeld Defense</a>
 
-<a name="classical" href="#contents" style="font-size:1.6em;">2.1 Exchange Variation, Pawn Grab Line</a>
+<a name="exchange" href="#contents" style="font-size:1.6em;">2.1 Exchange Variation, Pawn Grab Line</a>
 
 I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play into the [Grünfeld Defense: Exchange Variation, Pawn Grab Line](https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Pawn-Grab-Line) as the black pieces.
 
