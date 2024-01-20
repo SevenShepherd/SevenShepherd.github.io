@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 08:00:00 -0500
+date: 2024-01-06 08:05:00 -0500
 categories: chess
 published: true
 ---
@@ -146,9 +146,13 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- Grünfeld Defense: Exchange, Modern Exchange, Pawn Grab Line -->
 
+![Grunfeld](/assets/images/chess/GrunfeldBlur.png)
+
 <a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 Game One (Win)</a>
 
-Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable. This is a really good position for white to be.
+This is a good position for white to be in by move 22.
+
+<!-- Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable.  -->
 
 <iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
