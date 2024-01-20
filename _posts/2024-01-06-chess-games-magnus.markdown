@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 08:05:00 -0500
+date: 2024-01-06 08:10:00 -0500
 categories: chess
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#nimzo">Nimzo-Indian</a>
+1. <a href="#nimzo">Nimzo-Indian Defense</a>
     - 1.1 <a href="#classical">Classical, Noa (White)</a>
         - Sokolov w/ **18\. b5 ...**
         - 1.1.1 <a href="#one">**Trophy Game (Win)**</a>
@@ -48,11 +48,11 @@ published: true
 
 <!-- # The Full Game -->
 
-<a name="nimzo" href="#contents" style="font-size:2.1em;">1. Nimzo-Indian</a>
+<a name="nimzo" href="#contents" style="font-size:2.1em;">1. Nimzo-Indian Defense</a>
 
 <a name="classical" href="#contents" style="font-size:1.6em;">1.1 Classical, Noa</a>
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. 
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Defense: Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. 
 
 <!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
@@ -140,9 +140,9 @@ I'm working on it.
 
 <a name="grunfeld" href="#contents" style="font-size:2.1em;">2. Grünfeld Defense</a>
 
-<a name="classical" href="#contents" style="font-size:1.6em;">2.1 Exchange (White), Pawn Grab (Black)</a>
+<a name="classical" href="#contents" style="font-size:1.6em;">2.1 Exchange Variation, Pawn Grab Line</a>
 
-I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play into the [Grünfeld Defense, Exchange Variation, Pawn Grab Line](https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Pawn-Grab-Line) as the black pieces.
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play into the [Grünfeld Defense: Exchange Variation, Pawn Grab Line](https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Pawn-Grab-Line) as the black pieces.
 
 <!-- Grünfeld Defense: Exchange, Modern Exchange, Pawn Grab Line -->
 
