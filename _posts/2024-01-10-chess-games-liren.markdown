@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "♟️ Shepherd v. Ding Liren (2788)"
-date: 2024-01-10 01:15:00 -0500
+title: "♟️ Shepherd v. Liren (2788)"
+date: 2024-01-10 01:25:00 -0500
 categories: chess
-published: true
+published: false
 ---
 
 ## I. Game One (Draw)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 07:55:00 -0500
+date: 2024-01-06 08:00:00 -0500
 categories: chess
 published: true
 ---
@@ -22,6 +22,10 @@ published: true
         - 1.1.6 <a href="#six">Game Six (Win)</a>
     - 1.2 <a href="#rubinstein">Rubinstein</a>
         - 1.2.1 <a href="#seven">Game Seven (Pending)</a>
+2. <a href="#grunfeld">Grünfeld Defense</a>
+    - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
+        - Avrukh-Sutovsky, Ashdod '04
+        - 2.1.1 <a href="#two-one">Game One (Win)</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -133,6 +137,21 @@ Ok, so this was actually my first win against Magnus (2882), but I was so annoye
 <a name="seven" href="#contents" style="font-size:1.2em;">1.2.1 Game Seven (Pending)</a>
 
 I'm working on it.
+
+<a name="grunfeld" href="#contents" style="font-size:2.1em;">2. Grünfeld Defense</a>
+
+<a name="classical" href="#contents" style="font-size:1.6em;">2.1 Exchange (White), Pawn Grab (Black)</a>
+
+I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play into the [Grünfeld Defense, Exchange Variation, Pawn Grab Line](https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Pawn-Grab-Line) as the black pieces.
+
+<!-- Grünfeld Defense: Exchange, Modern Exchange, Pawn Grab Line -->
+
+<a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 Game One (Win)</a>
+
+Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable. This is a really good position for white to be.
+
+<iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
 
 <!--  -->
 
