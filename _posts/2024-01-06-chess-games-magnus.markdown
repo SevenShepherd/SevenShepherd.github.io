@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 08:15:00 -0500
+date: 2024-01-06 08:25:00 -0500
 categories: chess
 published: true
 ---
@@ -146,7 +146,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- Grünfeld Defense: Exchange, Modern Exchange, Pawn Grab Line -->
 
-![Grunfeld](/assets/images/chess/GrunfeldBlur.png)
+![Grunfeld](/assets/images/chess/GrunfeldMag.png)
 
 <a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 Game One (Win)</a>
 
