@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 02:25:00 -0500
+date: 2023-12-10 02:35:00 -0500
 categories: repent
 published: true
 ---
@@ -36,7 +36,7 @@ This does not conflict with *Sola Fide* or &ldquo;Faith Alone&rdquo; because rep
 - 🍇 God says, *&ldquo;No, I tell you; but unless you repent, you will all likewise perish.&rdquo;* (Luke 13:3 ESV)
 - 🧑 Repentance does not merit salvation, salvation produces repentance.
 
-Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they follow necessarily, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional after reading the following evidences, and that is because we don't control the fruit bearing process, God does.
+Repentance, obedience, and good works are all fruits of genuine saving faith. Fruits of already being saved; that's why we say they follow necessarily, because if the fruit isn't growing, the root is dead (Mt 3:10). I believe that no rational person could ever conclude that repentance is optional after reading the following evidences, and that is because <span style="font-weight:bold;color:#800080;">we don't control the fruit bearing process, <span style="font-size:1.2em;">God does</span></span>.
 
 ## Raw Logical Conclusions
 
