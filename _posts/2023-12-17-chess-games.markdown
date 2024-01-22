@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:45:00 -0500
+title: "♟️ Shepherd (2650) v. Francis (2300)"
+date: 2023-12-17 05:55:00 -0500
 categories: chess
 published: true
 ---
