@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Chigorin defense (2650) v. Francis (2300)"
-date: 2023-12-17 05:35:00 -0500
+date: 2023-12-17 05:45:00 -0500
 categories: chess
 published: true
 ---
@@ -80,18 +80,18 @@ Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm
 
 # Super Grandmasters
 
-Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com.
+Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com. Updated 1/22/2024.
 
 |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830 (2882)|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2804 (2844)|
 |#3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|2788 (2816)|
 |#4|[Ding Liren](https://www.chess.com/players/ding-liren)|2780 (2816)|
-|#5|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788 (2795)|
-|#6|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2759 (2804)|
-|#7|[Wesley So](https://www.chess.com/players/wesley-so)|2757 (2822)|
-|#8|[Leinier Perez](https://www.chess.com/players/leinier-dominguez-perez)|2752 (2768)|
-|#9|[Sergey Karjakin](https://www.chess.com/players/sergey-karjakin)|2750 (2788)|
-|#10|[Anish Giri](https://www.chess.com/players/anish-giri)|2749 (2798)|
+|#5|[Anish Giri](https://www.chess.com/players/anish-giri)|2749 (2798)|
+|#6|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788 (2795)|
+|#7|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2759 (2804)|
+|#8|[Wesley So](https://www.chess.com/players/wesley-so)|2757 (2822)|
+|#9|[Leinier Perez](https://www.chess.com/players/leinier-dominguez-perez)|2752 (2768)|
+|#10|[Sergey Karjakin](https://www.chess.com/players/sergey-karjakin)|2750 (2788)|
 
 <!-- |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|[YouTube](https://www.youtube.com/@themagnuscarlsen)|2830|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|N/A|2804|
