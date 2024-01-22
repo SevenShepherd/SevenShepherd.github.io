@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd (2650) v. Francis (2300)"
-date: 2023-12-17 05:55:00 -0500
+date: 2023-12-17 06:00:00 -0500
 categories: chess
 published: true
 ---
@@ -85,10 +85,10 @@ Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com
 |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830 (2882)|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2804 (2844)|
 |#3|[Hikaru Nakamura](https://www.chess.com/players/Hikaru-Nakamura)|2788 (2816)|
-|#4|[Ding Liren](https://www.chess.com/players/ding-liren)|2780 (2816)|
-|#5|[Anish Giri](https://www.chess.com/players/anish-giri)|2749 (2798)|
-|#6|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2788 (2795)|
-|#7|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2759 (2804)|
+|#4|[Ding Liren](https://www.chess.com/players/ding-liren)|2776 (2816)|
+|#5|[Anish Giri](https://www.chess.com/players/anish-giri)|2769 (2798)|
+|#6|[Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi)|2762 (2795)|
+|#7|[Alireza Firouzja](https://www.chess.com/players/alireza-firouzja)|2758 (2804)|
 |#8|[Wesley So](https://www.chess.com/players/wesley-so)|2757 (2822)|
 |#9|[Leinier Perez](https://www.chess.com/players/leinier-dominguez-perez)|2752 (2768)|
 |#10|[Sergey Karjakin](https://www.chess.com/players/sergey-karjakin)|2750 (2788)|
