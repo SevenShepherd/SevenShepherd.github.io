@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥇 “Do Not Be Deceived, If You Are Walking After The Flesh And Involved In The Things Of The Flesh, You Have No Assurance Of Being In The Kingdom Of Heaven” — Chuck Smith"
-date: 2023-12-23 01:35:00 -0500
+date: 2023-12-23 01:45:00 -0500
 categories: assurance
 published: true
 ---
@@ -24,7 +24,7 @@ The following is an excerpt from Chuck Smith's C2000. We also recommend his topi
 
 # Conclusion
 
-If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) **the only assurance you deserve is no assurance**. This is the wake up call that will save your life. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
+If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) **the only assurance you have, is no assurance**. This is the wake up call that will save your life. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
 
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
