@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd (2850) v. Magnus (2882)"
-date: 2024-01-06 10:00:00 -0500
+date: 2024-01-06 10:05:00 -0500
 categories: chess
 published: true
 ---
@@ -161,7 +161,7 @@ This is a good position for white to be in by move 25.
 
 <iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.1 Trophy Game (Win)</a>
+<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.2 Trophy Game (Win)</a>
 
 ![2850 Elo](/assets/images/chess/2850EloVMagnus.png)
 
