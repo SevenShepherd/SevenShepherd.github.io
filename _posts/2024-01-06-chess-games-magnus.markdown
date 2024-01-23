@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "♟️ Shepherd (2850) v. Magnus (2882)"
-date: 2024-01-06 09:55:00 -0500
+date: 2024-01-06 10:00:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won five times, drawn a dozen times, and lost more times that I'd like to admit.
+My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won six times, drawn a dozen times, and lost more times that I'd like to admit.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -28,7 +28,7 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
         - 2.1.1 <a href="#two-one">Game One (Win)</a>
-        - 2.1.2 <a href="#two-two">Game Two (Win)</a>
+        - 2.1.2 <a href="#two-two">**Trophy Game (Win)**</a>
 
 <a href="#stats">Chess Info</a>
 
