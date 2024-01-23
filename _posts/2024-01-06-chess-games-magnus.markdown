@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd (2800) v. Magnus (2882)"
-date: 2024-01-06 09:25:00 -0500
+date: 2024-01-06 09:45:00 -0500
 categories: chess
 published: true
 ---
@@ -28,6 +28,7 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
         - 2.1.1 <a href="#two-one">Game One (Win)</a>
+        - 2.1.2 <a href="#two-two">Game Two (Win)</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -160,6 +161,13 @@ This is a good position for white to be in by move 25.
 
 <iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
+<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.1 Trophy Game (Win)</a>
+
+![2850 Elo](/assets/images/chess/2850EloVMagnus.png)
+
+This is the highest Elo I've ever reached as the white pieces.
+
+<iframe id="11438263" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438263"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438263"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 <!--  -->
 
