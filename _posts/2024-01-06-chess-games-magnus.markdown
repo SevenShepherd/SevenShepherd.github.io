@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "♟️ Shepherd (2850) v. Magnus (2882)"
-date: 2024-01-06 10:05:00 -0500
+title: "♟️ Shepherd (3000) v. Magnus (2882)"
+date: 2024-01-06 10:15:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won six times, drawn a dozen times, and lost more times that I'd like to admit.
+My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won seven times, drawn a dozen times, and lost more times that I'd like to admit.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#nimzo">Nimzo-Indian Defense</a>
     - 1.1 <a href="#classical">Classical, Noa (White)</a>
         - Sokolov w/ **18\. b5 ...**
-        - 1.1.1 <a href="#one">**Trophy Game (Win)**</a>
+        - 1.1.1 <a href="#one">**2800 Elo (Win)**</a>
         - 1.1.2 <a href="#two">Game Two (Draw)</a>
         - 1.1.3 <a href="#three">Game Three (Win)</a>
         - 1.1.4 <a href="#four">Game Four (Win)</a>
@@ -28,7 +28,8 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
         - 2.1.1 <a href="#two-one">Game One (Win)</a>
-        - 2.1.2 <a href="#two-two">**Trophy Game (Win)**</a>
+        - 2.1.2 <a href="#two-two">**2850 Elo (Win)**</a>
+        - 2.1.3 <a href="#two-three">**3000 Elo (Win)**</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -161,13 +162,19 @@ This is a good position for white to be in by move 25.
 
 <iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.2 Trophy Game (Win)</a>
+<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.2 2850 Elo (Win)</a>
 
 ![2850 Elo](/assets/images/chess/2850EloVMagnus.png)
 
+<iframe id="11438263" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438263"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438263"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+<a name="two-three" href="#contents" style="font-size:1.2em;">2.1.3 3000 Elo (Win)</a>
+
+![3000 Elo](/assets/images/chess/3000EloVMagnus.png)
+
 This is the highest Elo I've ever reached as the white pieces.
 
-<iframe id="11438263" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438263"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438263"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<iframe id="11438331" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438331"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438331"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 <!--  -->
 
