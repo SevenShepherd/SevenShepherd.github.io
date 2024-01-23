@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 09:05:00 -0500
+date: 2024-01-06 09:15:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won five times, drawn a dozen times, and lost more times that I'd like to admit. Without memorization, these wins could not have been possible.
+My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won five times, drawn a dozen times, and lost more times that I'd like to admit.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
