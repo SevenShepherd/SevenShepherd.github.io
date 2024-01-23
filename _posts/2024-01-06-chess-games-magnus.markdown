@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd (3000) v. Magnus (2882)"
-date: 2024-01-06 10:15:00 -0500
+date: 2024-01-06 10:25:00 -0500
 categories: chess
 published: true
 ---
