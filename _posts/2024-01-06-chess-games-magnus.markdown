@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 09:15:00 -0500
+title: "♟️ Shepherd (2800) v. Magnus (2882)"
+date: 2024-01-06 09:25:00 -0500
 categories: chess
 published: true
 ---
@@ -59,6 +59,8 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 <!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
 <a name="one" href="#contents" style="font-size:1.2em;">1.1.1 Trophy Game (Win)</a>
+
+![2800Elo](/assets/images/chess/2800EloVMagnus.png)
 
 I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a dozen draws in this position.
 
