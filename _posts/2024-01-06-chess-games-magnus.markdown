@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd (3000) v. Magnus (2882)"
-date: 2024-01-06 10:25:00 -0500
+date: 2024-01-06 10:45:00 -0500
 categories: chess
 published: true
 ---
@@ -16,18 +16,18 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
     - 1.1 <a href="#classical">Classical, Noa (White)</a>
         - Sokolov w/ **18\. b5 ...**
         - 1.1.1 <a href="#one">**2800 Elo (Win)**</a>
-        - 1.1.2 <a href="#two">Game Two (Draw)</a>
-        - 1.1.3 <a href="#three">Game Three (Win)</a>
-        - 1.1.4 <a href="#four">Game Four (Win)</a>
+        - 1.1.2 <a href="#two">**3100 Elo (Draw)**</a>
+        - 1.1.3 <a href="#three">2700 Elo (Win)</a>
+        - 1.1.4 <a href="#four">2700 Elo (Win)</a>
         - Sokolov w/ **18\. Rd1 ...**
-        - 1.1.5 <a href="#five">Game Five (Stalemate)</a>
-        - 1.1.6 <a href="#six">Game Six (Win)</a>
+        - 1.1.5 <a href="#five">2700 Elo (Stalemate)</a>
+        - 1.1.6 <a href="#six">2700 Elo (Win)</a>
     - 1.2 <a href="#rubinstein">Rubinstein</a>
-        - 1.2.1 <a href="#seven">Game Seven (Pending)</a>
+        - 1.2.1 <a href="#seven">Unknown (Pending)</a>
 2. <a href="#grunfeld">Grünfeld Defense</a>
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
-        - 2.1.1 <a href="#two-one">Game One (Win)</a>
+        - 2.1.1 <a href="#two-one">**2800 Elo (Win)**</a>
         - 2.1.2 <a href="#two-two">**2850 Elo (Win)**</a>
         - 2.1.3 <a href="#two-three">**3000 Elo (Win)**</a>
 
@@ -60,7 +60,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
-<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 Trophy Game (Win)</a>
+<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 2800 Elo (Win)</a>
 
 ![2800Elo](/assets/images/chess/2800EloVMagnus.png)
 
@@ -112,29 +112,39 @@ I find it odd that in my game against Francis (2300), where I used the the [Chig
 
 <!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
 
-<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 Game Two (Draw)</a>
+<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 3100 Elo (Draw)</a>
+
+![3100 Elo](/assets/images/chess/3100DrawB5.png)
 
 My accuracy here is 98.2%. I think even though It's a draw, I still like this game. I realized I messed up around move 30 and could have won again.
 
 <iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="three" href="#contents" style="font-size:1.2em;">1.1.3 Game Three (Win)</a>
+<a name="three" href="#contents" style="font-size:1.2em;">1.1.3 2700 Elo (Win)</a>
+
+![2700 Elo](/assets/images/chess/2700BrilliantB5.png)
 
 <iframe id="11418009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="four" href="#contents" style="font-size:1.2em;">1.1.4 Game Four (Win)</a>
+<a name="four" href="#contents" style="font-size:1.2em;">1.1.4 2700 Elo (Win)</a>
+
+![2700 Elo](/assets/images/chess/2700FirstWinB5.png)
 
 Ok, so this was actually my first win against Magnus (2882), but I was so disappointed with the endgame that I decided to hide it down here lol. I actually played the opening wrong the first time around and didn't play 17. g3 before 18. b5.. so rocky start. The games in this article are not chronological.
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="five" href="#contents" style="font-size:1.2em;">1.1.5 Game Five (Stalemate)</a>
+<a name="five" href="#contents" style="font-size:1.2em;">1.1.5 2700 Elo (Stalemate)</a>
+
+![2700 Elo](/assets/images/chess/2700StalemateRD1.png)
 
 \**facepalm*\* I made a big mistake on move 48 apparently, otherwise this could have been another win.
 
 <iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="six" href="#contents" style="font-size:1.2em;">1.1.6 Game Six (Win)</a>
+<a name="six" href="#contents" style="font-size:1.2em;">1.1.6 2700 Elo (Win)</a>
+
+![2700 Elo](/assets/images/chess/2700SokolovRD1.png)
 
 <iframe id="11411921" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411921"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411921"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
@@ -152,11 +162,13 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- Grünfeld Defense: Exchange, Modern Exchange, Pawn Grab Line -->
 
-![Grunfeld](/assets/images/chess/GrunfeldMag.png)
+<!-- ![Grunfeld](/assets/images/chess/GrunfeldMag.png) -->
 
-<a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 Game One (Win)</a>
+<a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 2800 Elo (Win)</a>
 
 This is a good position for white to be in by move 25.
+
+![2800 Elo](/assets/images/chess/2800EloGrunfeld.png)
 
 <!-- Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable.  -->
 
