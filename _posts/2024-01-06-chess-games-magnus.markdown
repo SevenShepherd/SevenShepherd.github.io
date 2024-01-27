@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:00:00 -0500
+date: 2024-01-06 11:07:00 -0500
 categories: chess
 published: true
 ---
@@ -141,7 +141,9 @@ Ok, so this was actually my first win against Magnus (2882), but I was so disapp
 
 This is the highest Elo I've ever reached as the white pieces. Accuracy is [95.7](/assets/images/chess/3550ElovMagnusAccBlur.png), but i've had higher accuracies.
 
-<iframe id="11451029" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451029"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451029"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+<iframe id="11451045" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451045"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451045"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+<!-- <iframe id="11451029" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451029"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451029"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
 <!-- <iframe id="11444807" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11444807"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11444807"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
