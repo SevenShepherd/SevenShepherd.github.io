@@ -1,0 +1,56 @@
+---
+layout: post
+title: "🆓 If You Truly Believed In Free Will, You'd Believe You Could Renounce Your Faith And Forfeit Salvation. This Is Why We Should Believe In Eternal Security Over Free Will."
+date: 2024-01-27 01:00:00 -0500
+categories: freewill
+published: true
+---
+
+<sup>⚠️ Under Construction. Refresh weekly for updates. I plan on cleaning this article up, adding contents, adding other proofs and examples. Right now it's a rough draft.</sup>
+
+<!-- “God Clearly Does Choose” — Chuck Smith -->
+
+<!-- If You Truly Believed In Free Will, You'd Believe You Could Renounce Your Faith And Forfeit Salvation. Those Who Defend Free Will And Hold To Eternal Security Are Confused. -->
+
+# No One Who Believes In Eternal Security Believes In Free Will
+
+If you truly believed in free will, you'd believe you could renounce your faith permanently and forfeit salvation. That is why no one who believes in eternal security actually believes in free will logically, if they truly understand it. Those who defend free will and hold to eternal security seem to be confused. They should surrender to the Lord of Destiny or face the harsh realities of free will.
+
+# Why Free Will Is Works Based And Not Worth Fighting For
+
+**If you say God elects based upon our choices and decisions, you're works based plain and simple.** Salvation is by faith, not by human power, decision, and choices. God has enabled those who he foreknew. Imagine being asked by God why he should let you in heaven, and you respond **legalistically**, "because I chose to." If that is your answer, you're going to be shocked when you hear the following:
+
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:#009933;">will enter the kingdom of heaven</span>, but <span style="color:#009933;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:orangered;">**did we not** prophesy in your name, and cast out demons in your name, and **do many mighty works** in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+
+**You cannot merit your own salvation, and if you rely on your own efforts you're doomed.** If you're relying on your free will decision to follow Christ, instead of trusting in Christ's grace for salvation through faith, you're not thinking clearly. **The choice has already been made by God**, and those who respond to the effectual call in faith "trust and reliance," are chosen (elect). This is true in both the wesleyan foreknowledge view of election as well as the calvinistic ones.
+
+> &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon
+
+The difference is that in the calvinistic ones, those who are chosen are chosen arbitrarily apart from any forseen faith; whereas in the wesleyan foreknowledge view, everyone who would have trusted in Christ for salvation through faith, will be enabled to do so. I hold to the latter understanding.
+
+> Legalistic religion in all its forms should be avoided like the plague &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
+
+Chuck Smith also understood that God clearly does the choosing, even if he was more of a moderate Arminian. He still held to eternal security (a reformed concept) and understood that God is sovereign. I myself am a reformed leaning **moderate**.
+
+> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+>
+&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+
+The problem is, factoring in our autonomy breaks the truth of God's sovereignty over all things, including eternal security. You simply don't have that power over God, and the fact that you're trying to take it from him makes me think you're defending a debauched lifestyle (Ro 6:1-2,15; 1Jn 3:6-10; Jd 4 NET).
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
