@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:12:00 -0500
+date: 2024-01-06 11:22:00 -0500
 categories: chess
 published: true
 ---
@@ -17,7 +17,7 @@ I'm a little rusty, I haven't played seriously in over 20 years. I've won eight 
         - 1.1.1 <a href="#one">3550 Elo (Win)</a>
         - 1.1.2 <a href="#two">3600 Elo (Draw)</a>
 2. <a href="#grunfeld">Grünfeld Defense (White)</a>
-    - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
+    - 2.1 <a href="#exchange">Exchange, Pawn Grab</a>
         - Avrukh-Sutovsky, Ashdod '04
         - 2.1.1 <a href="#three">3550 Elo (Win)</a>
 
