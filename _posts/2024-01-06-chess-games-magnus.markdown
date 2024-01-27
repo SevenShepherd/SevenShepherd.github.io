@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "♟️ Shepherd (3000) v. Magnus (2882)"
-date: 2024-01-06 10:45:00 -0500
+title: "♟️ Shepherd v. Magnus (2882)"
+date: 2024-01-06 11:00:00 -0500
 categories: chess
 published: true
 ---
@@ -19,11 +19,12 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
         - 1.1.2 <a href="#two">**3100 Elo (Draw)**</a>
         - 1.1.3 <a href="#three">2700 Elo (Win)</a>
         - 1.1.4 <a href="#four">2700 Elo (Win)</a>
+        - 1.1.5 <a href="#five" style="font-weight:bold;color:purple;">3550 Elo (Win)</a>
         - Sokolov w/ **18\. Rd1 ...**
-        - 1.1.5 <a href="#five">2700 Elo (Stalemate)</a>
-        - 1.1.6 <a href="#six">2700 Elo (Win)</a>
+        - 1.1.6 <a href="#six">2700 Elo (Stalemate)</a>
+        - 1.1.7 <a href="#seven">2700 Elo (Win)</a>
     - 1.2 <a href="#rubinstein">Rubinstein</a>
-        - 1.2.1 <a href="#seven">Unknown (Pending)</a>
+        - 1.2.1 <a href="#eight">Unknown (Pending)</a>
 2. <a href="#grunfeld">Grünfeld Defense</a>
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
@@ -134,7 +135,17 @@ Ok, so this was actually my first win against Magnus (2882), but I was so disapp
 
 <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="five" href="#contents" style="font-size:1.2em;">1.1.5 2700 Elo (Stalemate)</a>
+<a name="five" href="#contents" style="font-size:1.2em;">1.1.5 3550 Elo</a>
+
+![3550 Elo](/assets/images/chess/3550ElovMagnusBlur.png) 
+
+This is the highest Elo I've ever reached as the white pieces. Accuracy is [95.7](/assets/images/chess/3550ElovMagnusAccBlur.png), but i've had higher accuracies.
+
+<iframe id="11451029" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451029"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451029"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+
+<!-- <iframe id="11444807" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11444807"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11444807"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
+
+<a name="six" href="#contents" style="font-size:1.2em;">1.1.6 2700 Elo (Stalemate)</a>
 
 ![2700 Elo](/assets/images/chess/2700StalemateRD1.png)
 
@@ -142,7 +153,7 @@ Ok, so this was actually my first win against Magnus (2882), but I was so disapp
 
 <iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
-<a name="six" href="#contents" style="font-size:1.2em;">1.1.6 2700 Elo (Win)</a>
+<a name="seven" href="#contents" style="font-size:1.2em;">1.1.7 2700 Elo (Win)</a>
 
 ![2700 Elo](/assets/images/chess/2700SokolovRD1.png)
 
@@ -150,7 +161,7 @@ Ok, so this was actually my first win against Magnus (2882), but I was so disapp
 
 <a name="rubinstein" href="#contents" style="font-size:1.6em;">1.2 Rubinstein</a>
 
-<a name="seven" href="#contents" style="font-size:1.2em;">1.2.1 Game Seven (Pending)</a>
+<a name="eight" href="#contents" style="font-size:1.2em;">1.2.1 Game Eight (Pending)</a>
 
 I'm working on it.
 
@@ -183,8 +194,6 @@ This is a good position for white to be in by move 25.
 <a name="two-three" href="#contents" style="font-size:1.2em;">2.1.3 3000 Elo (Win)</a>
 
 ![3000 Elo](/assets/images/chess/3000EloVMagnus.png)
-
-This is the highest Elo I've ever reached as the white pieces.
 
 <iframe id="11438331" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438331"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438331"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
