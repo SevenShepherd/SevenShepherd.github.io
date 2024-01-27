@@ -1,36 +1,25 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:07:00 -0500
+date: 2024-01-06 11:12:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-My wins against Magnus (2882) were not casual, nor were they consecutive, but they were wins. I'm a little rusty, I haven't played seriously in over 20 years. I've won seven times, drawn a dozen times, and lost more times that I'd like to admit.
+I'm a little rusty, I haven't played seriously in over 20 years. I've won eight times, drawn a dozen times, and lost more times that I'd like to admit. Would like to keep my anonymity so names were removed.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#nimzo">Nimzo-Indian Defense</a>
-    - 1.1 <a href="#classical">Classical, Noa (White)</a>
-        - Sokolov w/ **18\. b5 ...**
-        - 1.1.1 <a href="#one">**2800 Elo (Win)**</a>
-        - 1.1.2 <a href="#two">**3100 Elo (Draw)**</a>
-        - 1.1.3 <a href="#three">2700 Elo (Win)</a>
-        - 1.1.4 <a href="#four">2700 Elo (Win)</a>
-        - 1.1.5 <a href="#five" style="font-weight:bold;color:purple;">3550 Elo (Win)</a>
-        - Sokolov w/ **18\. Rd1 ...**
-        - 1.1.6 <a href="#six">2700 Elo (Stalemate)</a>
-        - 1.1.7 <a href="#seven">2700 Elo (Win)</a>
-    - 1.2 <a href="#rubinstein">Rubinstein</a>
-        - 1.2.1 <a href="#eight">Unknown (Pending)</a>
-2. <a href="#grunfeld">Grünfeld Defense</a>
+1. <a href="#nimzo">Nimzo-Indian Defense (White)</a>
+    - 1.1 <a href="#classical">Classical, Noa (Sokolov)</a>
+        - 1.1.1 <a href="#one">3550 Elo (Win)</a>
+        - 1.1.2 <a href="#two">3600 Elo (Draw)</a>
+2. <a href="#grunfeld">Grünfeld Defense (White)</a>
     - 2.1 <a href="#exchange">Exchange, Pawn Grab (White)</a>
         - Avrukh-Sutovsky, Ashdod '04
-        - 2.1.1 <a href="#two-one">**2800 Elo (Win)**</a>
-        - 2.1.2 <a href="#two-two">**2850 Elo (Win)**</a>
-        - 2.1.3 <a href="#two-three">**3000 Elo (Win)**</a>
+        - 2.1.1 <a href="#three">3550 Elo (Win)</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -38,20 +27,6 @@ My wins against Magnus (2882) were not casual, nor were they consecutive, but th
 - <a href="#legend">Legendary Players</a>
 - <a href="#super">Super Grandmasters</a>
 - <a href="#grand">Grandmasters</a>
-
-<!-- <sup style="font-size:">\*Is it just me, or is Soccer Magnus (1500) harder than Magnus (2882)? ¯\_(ツ)_/¯</sup> -->
-
-<!-- # The Opening -->
-
-<!-- <iframe id="11387467" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387467"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387467"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<!-- <iframe id="11387489" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387489"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387489"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<!-- # Middle Game -->
-
-<!-- # Endgame -->
-
-<!-- # The Full Game -->
 
 <a name="nimzo" href="#contents" style="font-size:2.1em;">1. Nimzo-Indian Defense</a>
 
@@ -61,81 +36,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
-<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 2800 Elo (Win)</a>
-
-![2800Elo](/assets/images/chess/2800EloVMagnus.png)
-
-I've come across the position found at move 25 several times when facing Magnus. This is my win with the white pieces, I've also had a dozen draws in this position.
-
-<!-- 1 Win, 3 Draws, 3 Botched at position 25. -->
-
-<!-- In this second game, even though I've promoted to a queen, I feel as though I am at a disadvantage. Magnus (2882) has 4 main pieces but I only have a Queen and a Knight. I can either check the king on g7 with Qe5+, or take on a7 with Qxa7. There's also Ne6+ fxe6 Qxa7+ Kg8 Qxa3.  -->
-
-<!-- <iframe id="11392407" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392407"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392407"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<iframe id="11393317" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11393317"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11393317"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<!-- Apparently analysis showed that I threw away a superior position as **I managed to take my winning advantage and run it into a train** by making a really terrible move later on in the game. This position was one of my favorites and I've only reached it twice with Magnus (2882), and both times I managed to waste this really good position. -->
-
-<!-- If I come across this position again and manage to win, I'll update this section. -->
-
-<!-- > Possible continuation: +5.35 26. Qe5+ Kg8 27. Qb8+ Kg7 28. Ne6+ fxe6 29. Qxa7+ Kg8 30. Qa8+ Kf7 31. Qxa3 Rb1 32. Qa7+ Kf6 33. Qd4+ Kf7 34. b6 Nf2 35. Qxf2 d4 36. Qxd4 Rxb6 37. Qd7+ Kg8 38. Qd8+ Kf7 39. Qc7+ Kg8 40. Qe5 h5 41. Ke3 Rb7 42. Kf2 Kh7 43. h3 Rf7 44. g4 Re7 45. e3 hxg4 &mdash; Stockfish 16, Standard (~5 sec, 3430 Rating, depth=40). -->
-
-<!-- (+0.07 Rc5, depth=43) below -->
-
-<!-- ## II. Valuable Learning Experiences -->
-
-<!-- # First Win During Study -->
-
-<!-- I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) bot on Chess.com. Magnus (2882) is inclined to play the [Nimzo-Indian Classical, Noa variation](https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Noa-Variation) with 4. ... d5, against 1. **d4** Nf6 2. **c4** e6 3. **Nc3** Bb4 4. **Qc2**. **This win was unbelievably difficult**.  -->
-
-<!-- <iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<!-- The first sixteen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). Moves 19-33 are my own extended study for that specific line, which I may describe at a later date in this article. After that it was purely intuition and running around like a headless chicken. I'm a little disappointed after move 40 (96.3%); even though I took the victory, I consider my endgame to be a bit subpar. I think if this were against a human, black would have resigned around move 40 or earlier.  -->
-
-<!-- (I. Sokolov) -->
-
-<!-- # First Draw -->
-
-<!-- This game is **dead even** by move 32. Unlike the first two games where I had an advantage, I simply do not have an advantage here. This is going to be a long game. Ended up as a draw \*facepalm\*. -->
-
-<!-- <iframe id="11392817" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11392817"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11392817"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<!-- <iframe id="11393091" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11393091"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11393091"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
-
-<!-- ## Conclusion -->
-
-<!-- ![Magnus (2882)](/assets/images/chess/magnus2882b.png)
-
-I find it odd that in my game against Francis (2300), where I used the the [Chigorin defense](https://sevenshepherd.github.io/chess-games/) with a 92.8 accuracy, that I have a higher Elo than when I beat Magnus (2882) with a 95.0 accuracy. This suggests either the analysis is unreliable, or that we both suppressed each other and prevented each other from playing like we normally do. It could also have something to do with my new account and elo. You'd think that if you beat a 2882, you'd have a 2882+ score. -->
-
-<!-- I'm assuming -->
-
-<!-- I've beaten this bot more than once, found myself in a draw a few times, and lost plenty.  -->
-
-<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 3100 Elo (Draw)</a>
-
-![3100 Elo](/assets/images/chess/3100DrawB5.png)
-
-My accuracy here is 98.2%. I think even though It's a draw, I still like this game. I realized I messed up around move 30 and could have won again.
-
-<iframe id="11404741" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11404741"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11404741"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="three" href="#contents" style="font-size:1.2em;">1.1.3 2700 Elo (Win)</a>
-
-![2700 Elo](/assets/images/chess/2700BrilliantB5.png)
-
-<iframe id="11418009" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11418009"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11418009"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="four" href="#contents" style="font-size:1.2em;">1.1.4 2700 Elo (Win)</a>
-
-![2700 Elo](/assets/images/chess/2700FirstWinB5.png)
-
-Ok, so this was actually my first win against Magnus (2882), but I was so disappointed with the endgame that I decided to hide it down here lol. I actually played the opening wrong the first time around and didn't play 17. g3 before 18. b5.. so rocky start. The games in this article are not chronological.
-
-<iframe id="11387487" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11387487"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11387487"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="five" href="#contents" style="font-size:1.2em;">1.1.5 3550 Elo</a>
+<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 3550 Elo (Win)</a>
 
 ![3550 Elo](/assets/images/chess/3550ElovMagnusBlur.png) 
 
@@ -147,25 +48,13 @@ This is the highest Elo I've ever reached as the white pieces. Accuracy is [95.7
 
 <!-- <iframe id="11444807" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11444807"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11444807"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-<a name="six" href="#contents" style="font-size:1.2em;">1.1.6 2700 Elo (Stalemate)</a>
+<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 3600 Elo (Draw)</a>
 
-![2700 Elo](/assets/images/chess/2700StalemateRD1.png)
+<!-- ![3600 Elo](/assets/images/chess/3100DrawB5.png) -->
 
-\**facepalm*\* I made a big mistake on move 48 apparently, otherwise this could have been another win.
+I realized I messed up around move 30 and could have won again.
 
-<iframe id="11411275" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411275"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411275"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="seven" href="#contents" style="font-size:1.2em;">1.1.7 2700 Elo (Win)</a>
-
-![2700 Elo](/assets/images/chess/2700SokolovRD1.png)
-
-<iframe id="11411921" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11411921"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11411921"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="rubinstein" href="#contents" style="font-size:1.6em;">1.2 Rubinstein</a>
-
-<a name="eight" href="#contents" style="font-size:1.2em;">1.2.1 Game Eight (Pending)</a>
-
-I'm working on it.
+<iframe id="11451149" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451149"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451149"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 <a name="grunfeld" href="#contents" style="font-size:2.1em;">2. Grünfeld Defense</a>
 
@@ -177,58 +66,11 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- ![Grunfeld](/assets/images/chess/GrunfeldMag.png) -->
 
-<a name="two-one" href="#contents" style="font-size:1.2em;">2.1.1 2800 Elo (Win)</a>
+<a name="three" href="#contents" style="font-size:1.2em;">2.1.1 3550 Elo (Win)</a>
 
-This is a good position for white to be in by move 25.
+<!-- ![3550 Elo](/assets/images/chess/3000EloVMagnus.png) -->
 
-![2800 Elo](/assets/images/chess/2800EloGrunfeld.png)
-
-<!-- Surprisingly, everything up to move 22, even up to 33, is reproducible and mostly predictable.  -->
-
-<iframe id="11428051" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11428051"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11428051"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="two-two" href="#contents" style="font-size:1.2em;">2.1.2 2850 Elo (Win)</a>
-
-![2850 Elo](/assets/images/chess/2850EloVMagnus.png)
-
-<iframe id="11438263" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438263"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438263"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<a name="two-three" href="#contents" style="font-size:1.2em;">2.1.3 3000 Elo (Win)</a>
-
-![3000 Elo](/assets/images/chess/3000EloVMagnus.png)
-
-<iframe id="11438331" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11438331"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11438331"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
-
-<!--  -->
-
-<!-- Before december of '23 I hadn't played chess in over two decades, and I recognize that my endgame skill is in need of serious work. If I win again, I'll embed the game below. Hopefully, I can win a more elegant game. -->
-
- <!-- I was able to spend time with this opening because of this.  -->
-
-
-
-<!-- [Event "Vs. Computer"]
-[Site "http://Chess.com"]
-[Date "2024-01-07"]
-[White "TheEsperantist"]
-[Black "Magnus"]
-[Result "1-0"]
-[BlackElo "2882"]
-[TimeControl "-"]
-[Termination "TheEsperantist won by checkmate"]
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
-dxc5 Nc6 9. cxd5 exd5 10. Nf3 Bf5 11. b4 Ng3 12. Qb2 Nxh1 13. Qxg7 Rf8 14. Bh6
-Qe7 15. Qxf8+ Qxf8 16. Bxf8 Kxf8 17. b5 Ne7 18. g3 Rc8 19. Rc1 a6 20. Nd4 Ra8
-21. Nxf5 Nxf5 22. c6 Nd6 23. b6 Ke7 24. Bg2 bxc6 25. Rxc6 Ne4 26. Bxh1 Rb8 27.
-Bxe4 dxe4 28. a4 a5 29. h4 Kd7 30. Rc7+ Kd8 31. Rxf7 Rxb6 32. Rxh7 Rb4 33. Ra7
-Rxa4 34. h5 Ra1+ 35. Kd2 Rh1 36. g4 Rh4 37. f3 exf3 38. exf3 Ke8 39. Ke3 Rh1 40.
-Rxa5 Kf7 41. Ra6 Kg7 42. Ke4 Re1+ 43. Kf5 Re8 44. f4 Rf8+ 45. Kg5 Rf7 46. f5 Rc7
-47. Kh4 Rc4 48. Kg5 Rc7 49. f6+ Kh7 50. Kh4 Rf7 51. g5 Rc7 52. g6+ Kh6 53. f7
-Rc4+ 54. Kg3 Rc3+ 55. Kf4 Rc8 56. Rc6 Rh8 57. Kg4 Rb8 58. Re6 Kg7 59. Kg5 Rb5+
-60. Kg4 Rb8 61. Re8 Rb4+ 62. Kg5 Rb5+ 63. Kg4 Rb4+ 64. Kf5 Rb5+ 65. Re5 Rb8 66.
-Re8 Rb5+ 67. Re5 Rb8 68. h6+ Kxh6 69. Re8 Rb5+ 70. Kf6 Kh5 71. f8=Q Rb6+ 72. Kf7
-Rb7+ 73. Re7 Rb5 74. g7 Rf5+ 75. Ke8 Rb5 76. g8=Q Rb8+ 77. Kf7 Rb6 78. Re6 Rb7+
-79. Kf6 Rb5 80. Qg6+ Kh4 81. Qfh6+ Rh5 82. Qhxh5# 1-0 -->
+<iframe id="11451139" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451139"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451139"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 <a name="stats" href="#contents" style="font-size:2.1em;">Chess Information</a>
 
