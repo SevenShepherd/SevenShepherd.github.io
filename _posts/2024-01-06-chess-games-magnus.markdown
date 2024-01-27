@@ -1,25 +1,27 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:22:00 -0500
+date: 2024-01-06 11:35:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-I'm a little rusty, I haven't played seriously in over 20 years. I've won eight times, drawn a dozen times, and lost more times that I'd like to admit. Would like to keep my anonymity so names were removed.
+I won eight times, drawn a dozen times, and lost more times that I'd like to admit. Of the games I've played against Magnus (2882) these are my favorite. I had time to perfect these specific lines as Magnus (2882) is inclined to play into them. I've noticed that the ratings for these games fluctuate around 3000, which is off the charts. All I know is if you beat someone who is rated 2882, then logically, whatever the rating is, it should be north of 2882. Anyhow, wins are more important than ratings to me, so without further ado, here are my wins. 
+
+<!-- I haven't played in two decades so I might be rusty; I'm not exactly sure why I'm playing so well but i'd have to attribute it to my autodidactism methods and polymathy. -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#nimzo">Nimzo-Indian Defense (White)</a>
     - 1.1 <a href="#classical">Classical, Noa (Sokolov)</a>
-        - 1.1.1 <a href="#one">3550 Elo (Win)</a>
-        - 1.1.2 <a href="#two">3600 Elo (Draw)</a>
+        - 1.1.1 <a href="#one">Game One (Win)</a>
+        - 1.1.2 <a href="#two">Game Two (Draw)</a>
 2. <a href="#grunfeld">Grünfeld Defense (White)</a>
     - 2.1 <a href="#exchange">Exchange, Pawn Grab</a>
         - Avrukh-Sutovsky, Ashdod '04
-        - 2.1.1 <a href="#three">3550 Elo (Win)</a>
+        - 2.1.1 <a href="#three">Game Three (Win)</a>
 
 <a href="#stats">Chess Info</a>
 
@@ -36,11 +38,11 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- The first seventeen moves are book moves I memorized as a part of my opening repertoire. (See MCO 15ed, line 8 (g). pp. 543-44). This has been my most successful line against Magnus (2882) thus far. -->
 
-<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 3550 Elo (Win)</a>
+<a name="one" href="#contents" style="font-size:1.2em;">1.1.1 3550 Rated (Win)</a>
 
 ![3550 Elo](/assets/images/chess/3550ElovMagnusBlur.png) 
 
-This is the highest Elo I've ever reached as the white pieces. Accuracy is [95.7](/assets/images/chess/3550ElovMagnusAccBlur.png), but i've had higher accuracies.
+This is the highest rating I've ever reached as the white pieces. Accuracy is [95.7](/assets/images/chess/3550ElovMagnusAccBlur.png), but i've had higher accuracies.
 
 <iframe id="11451045" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11451045"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11451045"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
@@ -48,7 +50,7 @@ This is the highest Elo I've ever reached as the white pieces. Accuracy is [95.7
 
 <!-- <iframe id="11444807" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=11444807"></iframe><script>window.addEventListener("message",e=>{e['data']&&"11444807"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script> -->
 
-<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 3600 Elo (Draw)</a>
+<a name="two" href="#contents" style="font-size:1.2em;">1.1.2 3600 Rated (Draw)</a>
 
 <!-- ![3600 Elo](/assets/images/chess/3100DrawB5.png) -->
 
@@ -66,7 +68,7 @@ I played as the white pieces against the [Magnus Carlsen](https://www.chess.com/
 
 <!-- ![Grunfeld](/assets/images/chess/GrunfeldMag.png) -->
 
-<a name="three" href="#contents" style="font-size:1.2em;">2.1.1 3550 Elo (Win)</a>
+<a name="three" href="#contents" style="font-size:1.2em;">2.1.1 3550 Rated (Win)</a>
 
 <!-- ![3550 Elo](/assets/images/chess/3000EloVMagnus.png) -->
 
