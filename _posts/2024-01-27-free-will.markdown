@@ -1,18 +1,24 @@
 ---
 layout: post
 title: "🆓 If You Truly Believe In Free Will, You'd Believe You Could Renounce Your Faith And Forfeit Salvation. This Is Why We Should Believe In Eternal Security Over Free Will."
-date: 2024-01-27 01:10:00 -0500
+date: 2024-01-27 01:25:00 -0500
 categories: freewill
 published: true
 ---
 
 <sup>⚠️ Under Construction. Refresh weekly for updates. I plan on cleaning this article up, adding contents, adding other proofs and examples. Right now it's a rough draft.</sup>
 
+Consider the title of this article for awhile while I consider making this a full length article.
+
+> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+>
+&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+
 <!-- “God Clearly Does Choose” — Chuck Smith -->
 
 <!-- If You Truly Believed In Free Will, You'd Believe You Could Renounce Your Faith And Forfeit Salvation. Those Who Defend Free Will And Hold To Eternal Security Are Confused. -->
 
-# Free Will & Eternal Security Are Incompatible
+<!-- # Free Will & Eternal Security Are Incompatible
 
 If you truly believe in free will, you'd believe you could renounce your faith permanently and forfeit salvation. That is why no one who believes in eternal security actually believes in free will logically, if they truly understand it. Those who defend free will and hold to eternal security seem to be confused. They should surrender to the Lord of Destiny or face the harsh realities of free will.
 
@@ -36,7 +42,7 @@ Chuck Smith also understood that God clearly does the choosing, even if he was m
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 
-The problem is, factoring in libertarian free will, breaks the truth of God's sovereignty over all things, including eternal security. You simply don't have that power over God, and the fact that you're trying to take it from him makes me think you're defending a debauched lifestyle (Ro 6:1-2,15; 1Jn 3:6-10; Jd 4 NET).
+The problem is, factoring in libertarian free will, breaks the truth of God's sovereignty over all things, including eternal security. You simply don't have that power over God, and the fact that you're trying to take it from him makes me think you're defending a debauched lifestyle (Ro 6:1-2,15; 1Jn 3:6-10; Jd 4 NET). -->
 
 <script>
     var refTagger = {
