@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 10:55:00 -0500
+date: 2023-10-19 11:00:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -306,6 +306,8 @@ I recommend that your church maintain [**psalms**](https://www.youtube.com/watch
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
 
 --
+
+> <span style="color:orangered;">Truly, war does demonstrate the <span style="font-weight:bold;color:red;">total depravity</span> of man</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/Hyd93X0luAg?si=7xcqh8He3h8jKKKn)
 
 > We believe that all are sinners (Romans 3:23) and unable by human performance to earn, deserve, or merit salvation (Titus 3:5). We believe that the wages of sin is death (Romans 6:23), and that apart from God's grace, no one can be saved (Ephesians 2:8-9). We believe that none are righteous, **or capable of doing good** (Romans 3:10-12), and that **apart from the conviction and regeneration of the Holy Spirit, none can be saved** (John 1:12-13; 16:8-11; 1 Peter 1:23-25). **Mankind is clearly fallen and lost in sin.**
 >
