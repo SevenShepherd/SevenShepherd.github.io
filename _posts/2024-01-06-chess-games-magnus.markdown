@@ -1,14 +1,19 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:35:00 -0500
+date: 2024-01-06 11:55:00 -0500
 categories: chess
 published: true
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)
 
-I won eight times, drawn a dozen times, and lost more times that I'd like to admit. Of the games I've played against Magnus (2882) these are my favorite. I had time to perfect these specific lines as Magnus (2882) is inclined to play into them. I've noticed that the ratings for these games fluctuate around 3000, which is off the charts. All I know is if you beat someone who is rated 2882, then logically, whatever the rating is, it should be north of 2882. Anyhow, wins are more important than ratings to me, so without further ado, here are my wins. 
+After eight wins, a dozen draws, and more losses than I care to admit, here are my favorite wins with the white pieces I played against Magnus (2882). Magnus (2882) was inclined to play into these lines so I had time to perfect my middle and endgame. 
+
+<!-- 1. Learn the lines that people are using. Don't create new ones, you'll never encounter them.
+2. Expand your memory with analysis after you reach the end of your studied lines. Memorize the next several moves for the top 3 branches.
+3. Fight for your life in the end game. Failure is the only path to success.
+4. Make sure to read and understand tactics and patterns well. When there is deviation from theory you will be lost if all you have are lines.  -->
 
 <!-- I haven't played in two decades so I might be rusty; I'm not exactly sure why I'm playing so well but i'd have to attribute it to my autodidactism methods and polymathy. -->
 
