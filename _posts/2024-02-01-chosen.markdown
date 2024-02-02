@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 03:00:00 -0500
+date: 2024-02-01 03:07:00 -0500
 categories: election
 published: true
 ---
@@ -23,6 +23,8 @@ This is a compilation of quotations about the doctrine of election from the most
     - 2.2 <a href="#mod-arm-compat">Compatibilism</a>
         - 2.2.1 <a href="#smith">Chuck Smith</a>
         - 2.2.2 <a href="#missler">Chuck Missler</a>
+    - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
+        - 2.3.1 <a href="#wlc">William Lane Craig</a>
 3. <a href="#corporate">Corporate Election</a>
     - 3.1 <a href="#contemporary">Contemporary Arminians</a>
 4. <a href="#double">Double Unconditional Predestination</a>
@@ -791,6 +793,13 @@ Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believ
 >
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
 
+<a name="molinism" href="#contents" style="font-size:1.6em;">2.3 Molinism "Middle Knowledge"</a>
+
+<a name="wlc" href="#contents" style="font-size:1.2em;">2.3.1 William Lane Craig</a>
+
+William Lane Craig has a very nice [debate with Ben Shapiro](https://youtu.be/hL-zJzE5clA?si=ZMwqo4Mjj2GJSHkR) and came out on top fairly easily.
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/-xiV_reMYE0?si=3lBWGnNDfS4qrWG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a name="corporate" href="#contents" style="font-size:2.1em;">3. Corporate Election</a>
 
