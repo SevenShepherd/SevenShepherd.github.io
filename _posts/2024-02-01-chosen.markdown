@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 02:37:00 -0500
+date: 2024-02-01 02:47:00 -0500
 categories: election
 published: true
 ---
@@ -14,7 +14,7 @@ This is a compilation of quotations about the doctrine of election from the most
     - 1.1 <a href="#moderate-reformed">Moderately Reformed</a>
         - 1.1.1 <a href="#packer">J.I. Packer (Concise)</a>
         - 1.1.2 <a href="#demarest">Bruce Demarest</a>
-    - 1.2 <a href="#reformed-compat">Compatibilism</a>
+    - 1.2 <a href="#mod-reformed-compat">Compatibilism</a>
         - 1.2.3 <a href="#martin">Walter Martin</a>
         - 1.2.4 <a href="#rhodes">Ron Rhodes</a>
 2. <a href="#conditional">**Conditional Election**</a>
@@ -599,7 +599,7 @@ talk of the election of a class, it must be as the sum of elect individuals.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, III. The Exposition Of The Doctrine of Election. pp. 124-135.
 
-<a name="reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Reformed Compatibilism</a>
+<a name="mod-reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Moderate Reformed Compatibilism</a>
 
 Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
 
@@ -775,7 +775,7 @@ See Chuck Smith below for now.
 
 <a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
 
-Like <a href="#reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
+Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
