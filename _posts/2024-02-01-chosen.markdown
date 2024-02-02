@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 01:25:00 -0500
+date: 2024-02-01 01:35:00 -0500
 categories: election
 published: true
 ---
@@ -33,7 +33,7 @@ This is a compilation of quotations about the doctrine of election from the most
 
 <a name="single" href="#contents" style="font-size:2.1em;">1. Unconditional Single Election</a>
 
-<a name="moderate" href="#contents" style="font-size:1.6em;">1.1 Moderately Reformed</a>
+<a name="moderate-reformed" href="#contents" style="font-size:1.6em;">1.1 Moderately Reformed</a>
 
 > II. Historical Interpretations of Election.
 >
