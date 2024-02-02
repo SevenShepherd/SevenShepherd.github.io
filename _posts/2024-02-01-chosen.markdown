@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 02:07:00 -0500
+date: 2024-02-01 02:27:00 -0500
 categories: election
 published: true
 ---
@@ -775,7 +775,7 @@ See Chuck Smith below for now.
 
 <a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
 
-Like <a href="#reformed-compat">Reformed Compatibilism</a> this group believes in God's soverinity (calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
+Like <a href="#reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
