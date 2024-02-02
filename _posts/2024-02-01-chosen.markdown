@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 01:35:00 -0500
+date: 2024-02-01 01:45:00 -0500
 categories: election
 published: true
 ---
@@ -30,6 +30,16 @@ This is a compilation of quotations about the doctrine of election from the most
         - 4.1.4 <a href="#piper-against-hyper">Piper **Against** Double</a>
 5. <a href="#universal">Universal Election in Christ</a>
     - 5.1 <a href="#barthians">Barthians</a>
+6. <a href="#appendix">Dictionaries & Lexicons On Proginṓskō</a>
+    - 6.1 <a href="#BDAG">Bauer-Danker-Arndt-Gingrich (BDAG)</a>
+    - 6.2 <a href="#TDNT">TDNT “Kittel”</a>
+    - 6.3 <a href="#Concise">Concise, Danker</a>
+    - 6.4 <a href="#MOUNCE">MOUNCE’S Complete</a>
+    - 6.5 <a href="#NIVBTSB">NIV, Study Bible</a>
+    - 6.6 <a href="#ESVSB">ESV Study Bible</a>
+    - 6.7 <a href="#NKJVTNSB">NKJV Thomas Nelson</a>
+    - 6.8 <a href="#NOAB">New Oxford Annotated (NOAB)</a>
+    - 6.9 <a href="#TJANT">The Jewish Annotated (TJANT)</a>
 
 <a name="single" href="#contents" style="font-size:2.1em;">1. Unconditional Single Election</a>
 
@@ -1209,6 +1219,65 @@ the whole world.”<sup>63</sup> Pannenberg believes that God’s loving purpose
 be none other than the salvation of the world, given men and women’s creation as image-bearers and their investiture with eternal value and dignity.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 111-113.
+
+<a name="appendix" href="#contents" style="font-size:2.1em;">6. Dictionaries & Lexicons On Proginṓskō</a>
+
+<a name="BDAG" href="#contents" style="font-size:1.6em;">6.1 Bauer-Danker-Arndt-Gingrich (BDAG)</a>
+
+![Foreknowledge](/assets/images/greek/proginosko.png)
+
+<a name="TDNT" href="#contents" style="font-size:1.6em;">6.2 TDNT "Kittel"</a>
+
+> **proginṓskō, prógnōsis.** The verb means &ldquo;to know in advance,&rdquo; and in the NT it refers to God‘s foreknowledge as election of his people (Rom. 8:29; 11:2) or of Christ (1 Pet. 1:20), or to the advance knowledge that believers have by prophecy (2 Pet. 3:17). Another possible meaning is &ldquo;to know before the time of speaking,&rdquo; as in Acts 26:5. The noun is used by the LXX in Jdt. 9:6 for God‘s predeterminative foreknowledge and in Jdt. 11:19 for prophetic foreknowledge; Justin uses it similarly in Dialogue with Trypho 92.5; 39.2. &mdash; TDNT "Kittel"
+
+<a name="Concise" href="#contents" style="font-size:1.6em;">6.3 Concise, Danker</a>
+
+> **προγινώσϰω** [πρό, γινώσϰω]—1. ‘know before about a matter of moment’—a.
+through personal familiarity, **be previously acquainted with Ac 26:5.—b**. through previous receipt of information, **already know about 2 Pt 3:17.—2**. ‘have in mind as part of a long-standing plan’, **have plans for, know before**, a deeply embedded Hebraic perception **1 Pt 1:20;** in **Ro 8:29; 11:2**, Isaiah 46:8–13 is the matrix for Paul’s use of π. expressing selection of God’s people with purposeful intent for them that awaits certain fulfillment. &mdash; Concise
+
+<a name="MOUNCE" href="#contents" style="font-size:1.6em;">6.4 MOUNCE'S Complete Expository Dictionary of Old and New Testament Words</a>
+
+> **FOREKNOW FOREKNOWLEDGE**
+>
+New Testament
+>
+**Verb**: προγινώσκω (proginōskō) GK
+4589 (S 4267), 5x. proginosko means "to foreknow."
+>
+**Noun**: πρόγνωσις (prognōsis) GK 4590 (S 4268), 2x. prognosis means "foreknowledge." Two occurrences of the verb proginosko refer to human knowledge, namely, that someone "has known" some person or some Christian teaching "for a long time" (Acts 26:5;2 Pet. 3:17). The other three uses of the verb and the two uses of the noun refer to divine foreknowledge. Peter in his Pentecost message indicates that Jesus was delivered over to his enemies "by God's set purpose and foreknowledge" (Acts2:23).In fact, Jesus was divinely "chosen" to this task "before" the creation of the world (l Pet. 1:20). Peter also states that believers "have been chosen according to the foreknowledge of God" (l Pet. l:2). Paul emphasizes the same message, .that "those God foreknew
+he also predestined to be conformed to the image of his Son'? (Rom. 8:29; cf. also l1:2). We serve a God who knows all things and acts in accordance with his will.*
+>
+&mdash; MOUNCE'S Complete Expository Dictionary of Old and New Testament Words
+
+
+<a name="NIVBTSB" href="#contents" style="font-size:1.6em;">6.5 NIV, Biblical Theology Study Bible</a>
+
+> 8:29 foreknew. Perhaps “knew ahead of time” (see Acts 26:5; 2 Pet 3:17, where the same Greek word is used): God “foreknew” who would believe in him and so predestined them. But “know” probably has the biblical sense of “enter into relationship with” (see Gen 18:19; Jer 1:5; Amos 3:2, where the same Hebrew word is translated “chosen,” “knew,” and “chosen,” respectively): God chose to initiate a relationship with people “before the creation of the world” (Eph 1:4; cf. Rom 11:2; Acts 2:23; 1 Pet 1:2, 20) and on that basis “predestined” them. &mdash; NIV, Biblical Theology Study Bible
+
+<a name="ESVSB" href="#contents" style="font-size:1.6em;">6.6 ESV Study Bible</a>
+
+> ... Foreknew reaches back to the OT, where the word “know” emphasizes God’s special choice of, or covenantal affection for, his people (e.g., Gen. 18:19; Jer. 1:5; Amos 3:2). See Rom. 11:2, where “foreknew” functions as the contrast to “rejected,” showing that it emphasizes God’s choosing his people (see also 1 Pet. 1:2, 20). God also predestined (i.e., predetermined) that those whom he chose beforehand would become like Christ. &mdash; ESV Study Bible
+
+<a name="NKJVTNSB" href="#contents" style="font-size:1.6em;">6.7 NKJV Thomas Nelson Study Bible, Second Edition, Full-Color Edition</a>
+
+> 8:29 God foreknew, which means simply “to know beforehand.” This has been interpreted by some as God’s free and merciful choice of certain people who would receive His gift of salvation. Those who hold this view contend that His knowledge of future events and people did not determine His choice (see 1 Pet. 1:2). Instead He chose those who would be saved out of His own free will. Others believe that in His wisdom, God knew beforehand those who would respond to Him in faith. According to both views, only God saves; people never earn salvation through any work. 
+>> **predestined**
+>>
+(Gk. proorizō) (8:29, 30; Acts 4:28; 1 Cor. 2:7; Eph. 1:5, 11)
+Strong’s #4309
+>>
+To predestine means “to mark out beforehand,” “to establish one’s boundary, or one’s limits, beforehand.” Our English word horizon is a derivative of this Greek word. The Christian’s ultimate destiny or horizon has been fixed
+by God from all eternity: to be made like His Son. Note how the words predestined, called, justified, and especially glorified in Rom. 8:29, 30 are in the past tense. That is because God, from His eternal perspective, sees this process as having been completed already. From God’s perspective, we have been glorified already because He sees us righteous because of the work of Jesus on the Cross. But still, in the march of time, we must undergo the process of being conformed to the image of God’s Son.
+>
+&mdash; NKJV Thomas Nelson Study Bible, Second Edition, Full-Color Edition
+
+<a name="NOAB" href="#contents" style="font-size:1.6em;">6.8 New Oxford Annotated (NOAB)</a>
+
+> 29: Foreknew . . . predestined, see Eph 1.4. Though from a human perspective God’s intention that humans be conformed to the image of God’s Son can be conceived as being prior in time, Paul affirms that there was never a moment when this was not God’s will. Firstborn, see v. 16–17; see also Col 1.15. 30: Glorified, is in the past tense, like “called” and “justified”; unlike v. 17, Paul sees temporality both from the human and divine perspective: though from our perspective being glorified is future, from God’s perspective it has already occurred since it is God’s will; see also v. 29n. &mdash; New Oxford Annotated (NOAB)
+
+<a name="TJANT" href="#contents" style="font-size:1.6em;">6.9 The Jewish Annotated New Testament (TJANT)</a>
+
+> 29: Cf. 1QS 3.15–16; 11.10–11,17–20; 1QH 1.7–8; CD 2.8. Foreknew, a characterization of God’s sovereignty over the future, and not on the existence of free choice among human beings; see 9.10–13n. Within a large family, lit., among many brothers (and sisters) (see translators’ note f). Jesus Christ is the firstborn of those who are raised from the dead (for non-Pauline expression of this idea, see Col 1.15,18). &mdash; The Jewish Annotated New Testament (TJANT)
 
 <script>
     var refTagger = {
