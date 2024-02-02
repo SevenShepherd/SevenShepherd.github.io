@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 01:55:00 -0500
+date: 2024-02-01 02:00:00 -0500
 categories: election
 published: true
 ---
@@ -14,10 +14,13 @@ This is a compilation of quotations about the doctrine of election from the most
     - 1.1 <a href="#moderate-reformed">Moderately Reformed</a>
         - 1.1.1 <a href="#packer">J.I. Packer (Concise)</a>
         - 1.1.2 <a href="#demarest">Bruce Demarest</a>
+    - 1.2 <a href="#moderate-reformed">Compatibilism</a>
+        - 1.2.3 <a href="#martin">Walter Martin</a>
+        - 1.2.4 <a href="#rhodes">Ron Rhodes</a>
 2. <a href="#conditional">**Conditional Election**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Thomas C. Oden</a>
-    - 2.2 <a href="#moderate-arminian">Moderate Arminians</a>
+    - 2.2 <a href="#moderate-arminian">Compatibilism</a>
         - 2.2.1 <a href="#smith">Chuck Smith</a>
         - 2.2.2 <a href="#missler">Chuck Missler</a>
 3. <a href="#corporate">Corporate Election</a>
@@ -29,6 +32,7 @@ This is a compilation of quotations about the doctrine of election from the most
         - 4.1.3 <a href="#sproul-against-hyper">Sproul **Against** Double</a>
         - 4.1.4 <a href="#piper-against-hyper">Piper **Against** Double</a>
         - 4.1.5 <a href="#spurgeon-against-hyper">Spurgeon **Against** Double</a>
+        - 4.1.6 <a href="#rhodes-against-hyper">Rhodes **Against** Double</a>
 5. <a href="#universal">Universal Election in Christ</a>
     - 5.1 <a href="#barthians">Barthians</a>
 6. <a href="#appendix">Dictionaries & Lexicons On Proginṓskō</a>
@@ -595,6 +599,18 @@ talk of the election of a class, it must be as the sum of elect individuals.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, III. The Exposition Of The Doctrine of Election. pp. 124-135.
 
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Walter Martin</a>
+
+Martin is quoted by Rhodes, who is a moderate 4-point calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism.
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/uuUKE5resPs?si=OSux3CpIRvIRnk61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Ron Rhodes</a>
+
+This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point calvinism).
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/sRVylnxpOgo?si=Gy93CzoAp0UbL-gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <a name="conditional" href="#contents" style="font-size:2.1em;">2. Conditional Election</a>
 
 <a name="classical-arminian" href="#contents" style="font-size:1.6em;">2.1 Classical Arminians</a>
@@ -1147,6 +1163,10 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 <a name="spurgeon-against-hyper" href="#contents" style="font-size:1.2em;">4.1.5 Spurgeon Against Double-Predestination</a>
 
 > I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
+
+<a name="rhodes-against-hyper" href="#contents" style="font-size:1.2em;">4.1.6 Ron Rhodes Against Double-Predestination</a>
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/sg58iXqJRco?si=82r34cYewJ29lob6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a name="universal" href="#contents" style="font-size:2.1em;">5. Universal Election in Christ</a>
 
