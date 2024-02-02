@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you... No one born of God makes a practice of sinning.” — Apostle John"
-date: 2023-11-05 04:00:00 -0500
+date: 2023-11-05 04:05:00 -0500
 categories: sin practice
 published: true
 ---
@@ -271,10 +271,10 @@ When the academic community, the exegetes, the textual critics, the research pro
 
     |Genuine Saving Faith||
     |:-:|:-:|
-    |<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
-    |<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+    |Legalism<br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+    |Synergism<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
     |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
-    |<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+    |Antinomianism<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
     
     <sup style="font-size:10px;font-style:italic;">The verses and descriptions in the chart above were provided by Shepherd, the formulas by R.C. Sproul.</sup>
 

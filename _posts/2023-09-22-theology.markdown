@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 11:10:00 -0500
+date: 2023-10-19 11:25:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -248,10 +248,10 @@ It's true that we are saved by grace and faith alone (Eph 2:8-10), but it's also
 
 |Genuine Saving Faith||
 |:-:|:-:|
-|<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
-|<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Legalism<br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Synergism<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
 |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
-|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+|Antinomianism<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
 
 When you profess Christ truly, you walk as he walked. We're not saved by this walk, but that's what happens as a result of a genuine profession of faith. The answer to all of these questions should be: Yes!
 
@@ -301,6 +301,7 @@ I recommend that your church maintain [**psalms**](https://www.youtube.com/watch
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.4.1 Totalness of Depravity</a>
 
+See the expanded article on [**total depravity**](https://sevenshepherd.github.io/total-depravity/).
 
 <span style="font-size:1.2em;">Chuck Smith</span>
 
@@ -342,6 +343,8 @@ Total depravity entails total inability, that is, the state of not having it in 
 
 <a name="election" href="#contents" style="font-size:1.6em;">2.4.2 Conditionality Of Election</a>
 
+See my expanded article on [**election**](https://sevenshepherd.github.io/chosen/).
+
 God chose you before you developed the ability to choose, even before your body formed in your mother's womb. While I don't know if I care whether I have free will or not since my will is aligned with God's to the point to where mine no longer matters, I will say, irrespective of this, I don't think election is arbitrary nor do I think that it's based on human free will. I believe it's a kind of forelove, a prescient relationship foreknown.
 
 My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and so I call it a hybrid moderate stance, and my view I've named, the [prescient forelove](https://sevenshepherd.github.io/theology/#unique) view or prescientism. As far as I know I'm the first to coin this phrase and use this 'ism. Contrasted:
@@ -352,15 +355,17 @@ My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd
 
 Below I've listed various quotes on election and predestination, in an attempt to show that these doctrines are real biblical teachings, even if I hold a unique view on how God does the electing.
 
-> **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
->
-&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
-
---
+<span style="font-size:1.2em;">Chuck Smith</span>
 
 > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+
+<span style="font-size:1.2em;">Chuck Missler</span>
+
+> **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
+>
+&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
 
 <a name="atonement" href="#contents" style="font-size:1.6em;">2.4.3 The Extent Of The Atonement Is Unlimited</a>
 
