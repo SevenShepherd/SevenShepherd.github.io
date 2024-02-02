@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 01:05:00 -0500
+date: 2024-02-01 01:25:00 -0500
 categories: election
 published: true
 ---
 
-This is a compilation of quotations about the doctrine of election from the most solid sources. I've made bold the only two forms of election that this ministry considers valid possibilities.
+This is a compilation of quotations about the doctrine of election from the most solid sources.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -42,7 +42,7 @@ This is a compilation of quotations about the doctrine of election from the most
 >
 Some claim that the doctrine of sovereign election to life was an
 Augustinian invention. Most pre-Augustinian Fathers failed to articulate
-a clear-cut doctrine of election for at least two reasons. (1) Many early
+a clear-cut doctrine of election for at least two reasons. **(1)** Many early
 Christian authorities reacted against rigorous Stoic and Gnostic fatalism
 and determinism by stressing human freedom and responsibility. From
 Justin Martyr (d. 165) onwards many early church authorities stated that
@@ -56,19 +56,19 @@ the other extreme of Free Will, which they developed in connexion
 with the Stoic idea of autexousion as the presupposition of moral
 responsibility.<sup>64</sup>
 >
-In addition, (2) many early Fathers succumbed to the prevailing spirit
+In addition, **(2)** many early Fathers succumbed to the prevailing spirit
 of Hellenistic naturalism. As Thomas F. Torrance noted, “The converts of
-the first few generations had great difficulty in apprehending the distinctive aspects of the gospel, as for example, the doctrine of grace. It was so astonishingly new to the natural man.”65 Torrance’s studies identified “the urge toward self-justification in the second century fathers.”66 Under the influence of Greek humanism, many early Christian writers judged that God gives saving grace to those who worthily strive after righteousness.
+the first few generations had great difficulty in apprehending the distinctive aspects of the gospel, as for example, the doctrine of grace. It was so astonishingly new to the natural man.”<sup>65</sup> Torrance’s studies identified “the urge toward self-justification in the second century fathers.”<sup>66</sup> Under the influence of Greek humanism, many early Christian writers judged that God gives saving grace to those who worthily strive after righteousness.
 These insights help us to understand why prior to Augustine the doctrines
 of sovereign grace and election were muted.
 >
 Nevertheless, belief in human depravity and greater commitment to the
 divine initiative in salvation gradually developed in the Christian community. Tertullian (d. 220) noted that, contrary to those born in a pagan
 home, “the children of believers were in some sense destined for holiness
-and salvation.”67 Athanasius (d. 373) on occasion spoke the language of
+and salvation.”<sup>67</sup> Athanasius (d. 373) on occasion spoke the language of
 unconditional divine election. Commenting on Eph 1:3-5 and 2 Tim 1:8­
 10, he observed that whereas the Fall was “foreseen” the salvation of some
-people was predestined or “prepared beforehand.”68 In the same vein
+people was predestined or “prepared beforehand.”<sup>68</sup> In the same vein
 Ambrose (d. 397), whose preaching greatly influenced Augustine, wrote
 as follows: “God calls those whom he deigns to call; he makes him pious
 whom he wills to make pious, for if he had willed he could have changed
@@ -80,11 +80,11 @@ of refuting the Pelagian heresy, Augustine changed his view and described
 the synergism he formerly held as the “pest of the Pelagian error.”
 According to Brunner, “Augustine was the only great teacher of the Early
 Church who gave reliable Biblical teaching on the subject of Sin and
-Grace.”70 The bishop insisted that although the unregenerate possess considerable psychological freedom, they lack the moral freedom (i.e., the
+Grace.”<sup>70</sup> The bishop insisted that although the unregenerate possess considerable psychological freedom, they lack the moral freedom (i.e., the
 power) to do the good. In particular, sinners cannot take the first step
 toward God unless enabled by God’s Spirit. Wrote the bishop, “The
 human will does not attain grace through freedom, but rather freedom
-through grace.”71 In other words, the divine commands will be fulfilled
+through grace.”<sup>71</sup> In other words, the divine commands will be fulfilled
 only as God himself gives the ability to perform them. Thus his prayer to
 God was, “Give what you command, and command what you will.”72
 >
@@ -93,7 +93,7 @@ deserve judgment. But if God through unmerited mercy should choose to
 save some sinners and not others, none could charge him with acting
 unrighteously. Thus the bishop understood the Bible to teach that according to his good pleasure and apart from any human merit God in eternity
 past sovereignly chose out of the “mass of perdition” a certain number of
-sinners to be saved. “Grace came into the world that those who were predestined before the world may be chosen out of the world.”73 On this
+sinners to be saved. “Grace came into the world that those who were predestined before the world may be chosen out of the world.”<sup>73</sup> On this
 showing God gives to some more than they deserve, but no one gets less
 than they deserve. Why God chose to bless some sinners and willed to leave others in their sins has not been revealed. Yet God’s elective purpose
 richly displays his mercy and justice. So the bishop reasoned,
@@ -106,14 +106,14 @@ Unrighteousness is never found with God.74
 >
 Augustine believed that predestination is sometimes signified under the
 name of foreknowledge. “The ordering of his future works in His foreknowledge, which cannot be deceived and changed, is absolute, and is
-nothing but predestination.”75 Depraved sinners’ inability morally and
+nothing but predestination.”<sup>75</sup> Depraved sinners’ inability morally and
 spiritually rules out the equation of divine foreknowledge with mere prescience. “Had God chosen us on the ground that he foreknew that we
 should be good, then would he also have foreknown that we would not
-be the first to make choice of him.”76 Moreover, if God chose sinners
+be the first to make choice of him.”<sup>76</sup> Moreover, if God chose sinners
 because he foresaw that they would respond to Christ (a form of human
 merit), grace would cease to be grace. Such persons would have ground
 for boasting. “For it is not by grace if merit preceded: but it is of grace;
-and therefore that grace did not find, but effected the merit.”77 Finally, the bishop held that God did not foreordain persons to damnation in the same
+and therefore that grace did not find, but effected the merit.”<sup>77</sup> Finally, the bishop held that God did not foreordain persons to damnation in the same
 effectual way he foreordained to life. Rather, reprobation represents God’s
 determination that the finally impenitent will suffer the just consequences
 of their sins. Whereas election to life is unconditional, reprobation to
@@ -165,24 +165,24 @@ of his will, hath chosen in Christ, unto everlasting glory, out of his mere free
 John Gill (d. 1771), an English Baptist, believed that many Scriptures
 (e.g., Eph 1:4; 2 Thess 2:13; 2 Tim 1:9) plainly teach God’s unconditional
 election to salvation. “This eternal election of particular persons to salvation is absolute, unconditional, and irrespective of faith, holiness, good works, and perseverance as the moving causes or conditions of it; all
-which are the fruits and effects of electing grace, but not causes or conditions of it; since these are said to be chosen, not because they were holy, but that they should be so.”83 Gill held that sovereign election is the first link in the golden chain of salvation; forgiveness of sins, redemption, justification, and perseverance all proceed therefrom as fruit from a tree. Gill defined reprobation as God (1) passing by some sinners, thus leaving them
-in their sins, and (2) inflicting on them just punishment for their sins.
+which are the fruits and effects of electing grace, but not causes or conditions of it; since these are said to be chosen, not because they were holy, but that they should be so.”<sup>83</sup> Gill held that sovereign election is the first link in the golden chain of salvation; forgiveness of sins, redemption, justification, and perseverance all proceed therefrom as fruit from a tree. Gill defined reprobation as God **(1)** passing by some sinners, thus leaving them
+in their sins, and **(2)** inflicting on them just punishment for their sins.
 >
 Charles Haddon Spurgeon (d. 1892), the Baptist pastor of London’s
-Metropolitan Tabernacle, explained the doctrine as follows. (1) Election
+Metropolitan Tabernacle, explained the doctrine as follows. **(1)** Election
 derives from God’s sovereign purpose. Salvation eventuates not because
 humans will it in time, but because God willed it eternally. “The whole
 scheme of salvation, from the first to the last, hinges and turns on the
-absolute will of God.”84 (2) Election is entirely of grace. Guilty sinners
+absolute will of God.”<sup>84</sup> **(2)** Election is entirely of grace. Guilty sinners
 deserve only wrath and punishment. But from eternity past God loved the
 elect in consequence of his own gracious purpose, not because of any foreseen merit in them. “It is quite certain that any virtue which there may be
 in any man is the result of God’s grace. Now if it be the result of grace it
-cannot be the cause of grace.”85 And (3), election is personal, not corporate. If it be unjust of God to elect a person to life, it would be far more
+cannot be the cause of grace.”<sup>85</sup> And **(3)**, election is personal, not corporate. If it be unjust of God to elect a person to life, it would be far more
 unjust of him to elect a nation, for the latter represents an aggregate of
 individuals. “God chose that Jew, and that Jew, and that Jew. . . . Scripture
 continually speaks of God’s people one by one and speaks of them as having been the special objects of election.”86
 >
-The Baptist theologian A.H. Strong (d. 1921) held that by virtue of universal depravity God must initiate the process of salvation. The fountainhead of God’s initiative is sovereign election, defined as “that eternal act of God, by which in his sovereign pleasure, and on account of no foreseen merit in them, he chooses certain out of the number of sinful men to be the recipients of the special grace of his Spirit, and so to be made voluntary partakers of Christ’s salvation.”87 The divine election is not based on any activity of sinners, including faith, since depravity ensures that without special grace the unregenerate would bring forth no Godward move­ment. Moreover, God’s foreknowledge connotes not merely to “know in advance,” but more actively to “regard with favor” or “make an object of care.” In key biblical texts the words “know” and “foreknow” possess the same meaning. Strong’s measured conclusion is that “in spite of difficulties we must accept the doctrine of election.”88 
+The Baptist theologian A.H. Strong (d. 1921) held that by virtue of universal depravity God must initiate the process of salvation. The fountainhead of God’s initiative is sovereign election, defined as “that eternal act of God, by which in his sovereign pleasure, and on account of no foreseen merit in them, he chooses certain out of the number of sinful men to be the recipients of the special grace of his Spirit, and so to be made voluntary partakers of Christ’s salvation.”<sup>87</sup> The divine election is not based on any activity of sinners, including faith, since depravity ensures that without special grace the unregenerate would bring forth no Godward move­ment. Moreover, God’s foreknowledge connotes not merely to “know in advance,” but more actively to “regard with favor” or “make an object of care.” In key biblical texts the words “know” and “foreknow” possess the same meaning. Strong’s measured conclusion is that “in spite of difficulties we must accept the doctrine of election.”<sup>88</sup> 
 >
 This position of a single, unconditional election to life is well supported not only by historical considerations but also by the biblical data, as will be explained in the section that follows.
 >
@@ -284,13 +284,13 @@ and revealed them to little children. Yes, Father, for this was your good
 pleasure (eudokia).” Eudokia, explaining God’s concealing and revealing
 activity, connotes the good pleasure of God’s sovereign will. “Eudokia
 expresses independent volition, sovereign choice, but always with an
-implication of benevolence.”103 Jesus confirmed this by adding, “No one
+implication of benevolence.”<sup>103</sup> Jesus confirmed this by adding, “No one
 knows the Father except the Son and those to whom the Son chooses
 [present subjunctive of boulomai, to “will”] to reveal him” (Matt 11:27).
 Thus God sovereignly chose to extend his enlightening and saving influence to some persons, while withholding it from others (cf. Matt 13:11).
 Although Matt 11:28-30 likely was spoken at another time in Jesus’ ministry, a universal invitation to receive Jesus (v. 28) is not inconsistent with
-God’s purpose to reveal himself to some. This is so because (1) Christ’s
-provision on the cross was universal (see chap. 4). And (2) all who
+God’s purpose to reveal himself to some. This is so because **(1)** Christ’s
+provision on the cross was universal (see chap. 4). And **(2)** all who
 respond positively to the invitation will be saved (John 11:26; Acts 10:43;
 Rom 10:11, 13); but tragically for themselves, depraved sinners are unresponsive to spiritual impulses—hence the need for a supernatural initiative (see chap. 5).
 >
@@ -310,19 +310,19 @@ group for ministry, but prior to that he chose each one, save Judas, for
 salvation.104
 >
 Speaking figuratively, Jesus in John 10 identified himself as the shepherd
-and his elect people as the “sheep.”105 John drew several important conclusions concerning the relation between the shepherd and the sheep, as
+and his elect people as the “sheep.”<sup>105</sup> John drew several important conclusions concerning the relation between the shepherd and the sheep, as
 follows: **(1)** The sheep are those people whom the Father specifically has
 given to the Son (v. 29). The fact that God has gifted certain persons to
 the Son is reiterated in John 17:2, 6, 9, 24 and 18:9, the frequency of mention suggesting that this was an important concept to John. Jesus taught
 more specifically in John 6:37, “All that the Father gives me will come to
 me” (i.e., will believe and be saved). Concerning the sheep, the Father
 “chose them out of the world for the possession and the service of the
-Son.”106 See also John 15:19, where Christ chose (eklegomai) the disciples out of the world both for salvation and service, a fact taught in similar language in John 17:6, 14, 16. The verb eklegomai (to “choose,”
+Son.”<sup>106</sup> See also John 15:19, where Christ chose (eklegomai) the disciples out of the world both for salvation and service, a fact taught in similar language in John 17:6, 14, 16. The verb eklegomai (to “choose,”
 “select”) is used eight times of Jesus choosing disciples and seven times of
 God’s choice of people for eternal life (Mark 13:20; Acts 17:13; 1 Cor 1:27
 [two times], 28; Eph 1:4; Jas 2:5). Carson rightly concludes that “They
 are Christ’s obedient sheep in his salvific purpose before they are his sheep
-in obedient practice.”107 **(2)** The shepherd died to achieve the salvation of the sheep (vv. 11, 15). Moreover, Jesus reveals himself redemptively to
+in obedient practice.”<sup>107</sup> **(2)** The shepherd died to achieve the salvation of the sheep (vv. 11, 15). Moreover, Jesus reveals himself redemptively to
 those the Father gave him out of the world (John 17:6, 8), and for these
 he intercedes in heaven. **(3)** The shepherd “knows” his sheep and “calls”
 them by name (vv. 3, 14, 27). Just as the oriental shepherd called his sheep
@@ -335,14 +335,14 @@ not my sheep” (v. 26). We might have expected Jesus to say, “You are not
 my sheep because you do not believe,” but he said precisely the opposite.
 A sinner, then, does not become a “sheep” by believing in Jesus; rather, he
 or she believes in Jesus because antecedently appointed by God as one of
-the “sheep.” (5) Jesus’ saying—“I have other sheep that are not of this
+the “sheep.” **(5)** Jesus’ saying—“I have other sheep that are not of this
 sheep pen. I must bring them also” (v. 16)—refers to specific Gentiles who
 de jure belonged to Christ by divine election even though de facto they had
 not yet come to faith. In the Johannine texts cited, the “sheep” are not an
 empty class, for they are said to “hear,” “know,” “believe,” “trust,” “follow,” and “love” the Shepherd—all of which are individual actions before
 being considered as actions of a group or a class.
 >
-The theme of election is not absent from the record of the explosive growth of the church in Acts. At Pisidian Antioch Paul acknowledged God’s corporate election of national Israel for spiritual and temporal blessings (Acts 13:17). Yet at the conclusion of Paul’s and Barnabas’ ministry in that city, Luke stated that “all who were appointed to eternal life believed” (Acts 13:48). The key word is the perfect passive participle of tassō, to “order,” “appoint,” or “ordain.” This verb occurs eight times in the NT, but only here in the sense of appointment to eternal life. F.F. Bruce suggested that the verb might be translated “enrolled” or “inscribed” in the Lamb’s book of life (cf. Luke 10:20; Phil 4:3; Rev 13:8; 17:8).108 Luke’s words clearly indicate that God’s sovereign action, be it ordaining or enrolling (or both), occurred prior to the person’s believing. The Gentile
+The theme of election is not absent from the record of the explosive growth of the church in Acts. At Pisidian Antioch Paul acknowledged God’s corporate election of national Israel for spiritual and temporal blessings (Acts 13:17). Yet at the conclusion of Paul’s and Barnabas’ ministry in that city, Luke stated that “all who were appointed to eternal life believed” (Acts 13:48). The key word is the perfect passive participle of tassō, to “order,” “appoint,” or “ordain.” This verb occurs eight times in the NT, but only here in the sense of appointment to eternal life. F.F. Bruce suggested that the verb might be translated “enrolled” or “inscribed” in the Lamb’s book of life (cf. Luke 10:20; Phil 4:3; Rev 13:8; 17:8).<sup>108</sup> Luke’s words clearly indicate that God’s sovereign action, be it ordaining or enrolling (or both), occurred prior to the person’s believing. The Gentile
 hearers believed because appointed to life; they were not appointed
 because they believed. All of this speaks the language of God’s sovereign
 election of certain persons for salvation.109
@@ -373,13 +373,13 @@ We observe, first, that the foundation of the Christian’s calling to salvation
 is grounded not in his own will but in the sovereign, pre-temporal purpose
 of God.
 >
-The first of the aorist verbs in the passage is the word proginōskō, to “foreknow,” “choose beforehand.”111 With humans as subject the word
+The first of the aorist verbs in the passage is the word proginōskō, to “foreknow,” “choose beforehand.”<sup>111</sup> With humans as subject the word
 means to “know beforehand” (Acts 26:5; 2 Pet 3:17). With God as subject the verb could mean either prescience or foreloving/foreordaining
 (Rom 8:29; 11:2; 1 Pet 1:20). The foundational verbs yāda‘ and ginōskō
 often mean to “perceive,” “understand,” and “know.” But they also mean
 “to set regard upon, to know with particular interest, delight, affection,
 and action. (Cf. Gen 18:19; Exod 2:25; Ps 1:6; 144:3; Jer 1:5; Amos 3:2;
-Hos 13:5; Matt 7:23; 1 Cor 8:3; Gal 4:9; 2 Tim 2:19; 1 John 3:1).”112 The
+Hos 13:5; Matt 7:23; 1 Cor 8:3; Gal 4:9; 2 Tim 2:19; 1 John 3:1).”<sup>112</sup> The
 verb ginōskō thus can convey God’s intimate acquaintance with his people, specifically the fact that they are “foreloved” or “chosen.” This latter
 sense is evident in the following Pauline sayings: “the man who loves God
 is known by God” (1 Cor 8:3); “but now that you know God—or rather
@@ -391,9 +391,9 @@ in either of the two senses, i.e., prescience or foreordination. But given the
 strongly relational Hebrew background to the word, the unambiguous
 sense of proginōskō in 1 Pet 1:20 (see below) and prognōsis in Acts 2:23
 and 1 Pet 1:2 (see below), and the whole tenor of Paul’s theology, the probable meaning of proginōskō with God as subject is to “know intimately”
-or “forelove.”113 F.F. Bruce concurs with this judgment. Concerning Rom
+or “forelove.”<sup>113</sup> F.F. Bruce concurs with this judgment. Concerning Rom
 8:29, he wrote, “the words ‘whom he did foreknow’ have the connotation of electing grace which is frequently implied by the verb ‘to know’ in
-the Old Testament. When God takes knowledge of his people in this special way, he sets his choice upon them.”114 To the preceding considerations
+the Old Testament. When God takes knowledge of his people in this special way, he sets his choice upon them.”<sup>114</sup> To the preceding considerations
 we add that the biblical language of foreknowledge is always used of
 saints, never of the unsaved. Moreover, what God “foreknows” is the
 saints themselves, not any decision or action of theirs. Thus divine election is according to foreknowledge (foreloving), not simply according to
@@ -424,10 +424,10 @@ over Esau (vv. 10-13) before they were born or had done good or evil “in
 order that God’s purpose [prothesis] in election [eklogē, “picking out,”
 “election,” “selection”] might stand” (v. 11). To support this argument. Paul quoted from Mal 1:2-3, “Jacob I have loved, but Esau I have hated.”
 Cranfield concludes that “loved” and “hated” here denote election and
-rejection respectively. 116 Paul’s emphasis clearly is upon God’s sovereign
+rejection respectively. <sup>116</sup> Paul’s emphasis clearly is upon God’s sovereign
 purpose, not man’s response. God’s election of Isaac and Jacob is individual unto salvation and not merely corporate (Israel and Edom) in respect
 of earthly privileges, since in vv. 9-13 each of the children—their birth and
-their deeds—is in the foreground.117 Moreover, in v. 24 Paul stated that
+their deeds—is in the foreground.<sup>117</sup> Moreover, in v. 24 Paul stated that
 God chose and called not only individuals from among the Jews (such as
 Isaac and Jacob) but also individuals from among the Gentiles. A further
 factor is the flow of Paul’s argument. He sought to show that in spite of
@@ -441,7 +441,7 @@ issue at hand were merely the choice of ethnic Israel for earthly privileges.
 But note that Paul’s response to the objection was an emphatic, “Not at
 all!” (v. 14). Although finite beings do not comprehend God’s elective purpose, God reserves the right to exercise mercy upon whom he chooses. So
 the apostle appealed to Yahweh’s words to Moses, “I will have mercy on
-whom I have mercy, and I will have compassion on whom I have compassion” (v. 15; cf. v. 18).119 God is not unjust to give a person more than
+whom I have mercy, and I will have compassion on whom I have compassion” (v. 15; cf. v. 18).<sup>119</sup> God is not unjust to give a person more than
 he deserves while permitting the unsaved to continue in their chosen path
 of sin, any more than it is not unjust of an earthly governor to pardon one
 criminal and not another. Concerning the divine election of a remnant Paul
@@ -458,7 +458,7 @@ clay as he wills, so God has the sovereign right to bestow more grace on
 one of his creatures than on another (v. 21). Paul’s reference to “the
 objects of his mercy, whom he prepared in advance for glory” (v. 23)
 clearly depicts his sovereign, pre-temporal election of some for heavenly
-destiny.120 Pinnock has argued in the light of the potter and the clay analogy that God “has a great deal for which to answer.”121 The crucial issue
+destiny.<sup>120</sup> Pinnock has argued in the light of the potter and the clay analogy that God “has a great deal for which to answer.”<sup>121</sup> The crucial issue
 is, Must the all-perfect God answer to finite and feeble-minded humans,
 or must we mortals bow before and answer to a sovereign, just, and allwise God?
 >
@@ -485,7 +485,7 @@ gracious purpose. God formed the remnant by a personal election within
 the corporate election to yield a spiritual seed within the institutional people. We underscore the conclusion of Jewett: “Israel was elect in a double
 sense: in an outward and temporal sense, the nation, as a nation, was elect;
 in an inward, personal, and eternal sense, a faithful remnant was
-elected.”122 To illustrate this choice of an elect remnant, Paul pointed to
+elected.”<sup>122</sup> To illustrate this choice of an elect remnant, Paul pointed to
 himself (v. 1b) and to 7,000 faithful souls in Elijah’s day who would not
 bow before Baal (vv. 2b-4). The nation as a whole failed to obtain spiritual blessing (v. 7), “but the elect (eklogē) did [obtain it],” not by works
 but by grace (v. 6). We defer discussion of the salvation of many Gentiles
@@ -496,7 +496,7 @@ The apostle, however, concluded his treatment of God’s sovereign elective purp
 gracious choice of certain Jews and Gentiles to be saved lends itself more
 to doxology than to precise rational analysis. The salvation of the remnant
 is the result of the “wisdom,” “knowledge,” “judgments,” and “mind” of
-the Lord.123 God’s sovereign purpose of mercy and grace to sinners is so
+the Lord.<sup>123</sup> God’s sovereign purpose of mercy and grace to sinners is so
 grand and exalted that the only fitting response on the part of feeble
 humans is humble praise and adoration. “For from him and through him
 and to him are all things. To him be the glory forever!” (v. 36).
@@ -510,16 +510,16 @@ also affirmed that God in grace took the saving initiative in his rebellious lif
 aphorisas (“separated”) being related to proōrisas (“predestinate”)—and
 to reveal his Son to him (cf. 2 Cor 4:6). Only then did the Lord commission Paul for Gospel ministry. The apostle thus attested God’s act of separation in eternity past for salvation and in time for service. As he testified
 in Gal 2:20, God’s saving action toward him was profoundly personal.
-Thus Paul saw himself (1) personally loved by Christ (“who loved me”),
-(2) personally justified (“I live by faith in the Son of God”), (3) personally
-regenerated (“Christ lives in me”), and (4) personally united with the
+Thus Paul saw himself **(1)** personally loved by Christ (“who loved me”),
+**(2)** personally justified (“I live by faith in the Son of God”), **(3)** personally
+regenerated (“Christ lives in me”), and **(4)** personally united with the
 Savior (“crucified with Christ”). Four times in this one verse Paul used the
 first-person pronoun (egō, emou, me, emoi). Jewett’s comment again
 proves instructive: “The individual quality in God’s electing love is
 reflected in the use of the singular personal pronoun in Scripture. . . . To
 be elect is to be aware that God has fixed his love on me, called me by
 name, given me a new name (Rev 2:17), and inscribed my name in the
-Book.”124 God had a plan for Saul/Paul and worked efficiently to bring
+Book.”<sup>124</sup> God had a plan for Saul/Paul and worked efficiently to bring
 him to faith in Christ. The same could not be said for God’s relation to
 Judas, Pilate, or Herod.
 >
@@ -527,18 +527,12 @@ A comprehensive Pauline text dealing with election is Eph 1:3-14,
 which we analyze as follows. **(1)** The source of election: “the God and
 Father of our Lord Jesus Christ, who has blessed us in the heavenly realms
 with every spiritual blessing in Christ” (v. 3). Election is a monogeristic
-operation of God, not a synergism (cf. 2 Tim 1:9). **(2)** The fact of election: “we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will” (v. 11; cf. vv. 4-5, 9). Paul’s election words in the preceding verses are heaped one upon the another, powerful and descriptive of what God himself accomplishes: eklegō, to “choose out,” “select;”125 kleroō, to
-“choose,” “destine”; proorizō, to “foreordain,” “predestine”; protithēmi,
-to “purpose,” “intend”; prothesis, “plan,” “purpose,” “resolve;”126
-boulē, “an intention” or “deliberation” (with emphasis on the deliberative aspect of the decision;127 thelēma, “will” or “intention”—i.e., “God’s
-eternal and providential saving will,”128 with emphasis on the volitional
-aspect or the will in exercise; and eudokia, “good pleasure,” “act of the
-will”—a choice grounded in God’s sovereign purpose.129
+operation of God, not a synergism (cf. 2 Tim 1:9). **(2)** The fact of election: “we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will” (v. 11; cf. vv. 4-5, 9). Paul’s election words in the preceding verses are heaped one upon the another, powerful and descriptive of what God himself accomplishes: eklegō, to “choose out,” “select;”<sup>125</sup> kleroō, to “choose,” “destine”; proorizō, to “foreordain,” “predestine”; protithēmi, to “purpose,” “intend”; prothesis, “plan,” “purpose,” “resolve;”<sup>126</sup> boulē, “an intention” or “deliberation” (with emphasis on the deliberative aspect of the decision;<sup>127</sup> thelēma, “will” or “intention”—i.e., “God’s eternal and providential saving will,”<sup>128</sup> with emphasis on the volitional aspect or the will in exercise; and eudokia, “good pleasure,” “act of the will”—a choice grounded in God’s sovereign purpose.<sup>129</sup> 
 >
 **(3)** The time of election: from eternity past, i.e., “before the creation of the world” (v. 4; cf. 2 Thess 2:13; 2 Tim 1:9). Salvation is the unfolding
 of God’s eternal purpose. “The Scriptures say that God chose us in Christ
 from before the foundation of the world, not that he saw us from before
-the foundation of the world as choosing Christ.”130 **(4)** the objects of election: “we” (v. 7) or “us” (vv. 3-6, 8-9). Paul envisaged the elect both in their corporate standing as the church and in their individuality. The latter is clear in Rom 16:13, where Paul wrote, “Greet Rufus, chosen (ton
+the foundation of the world as choosing Christ.”<sup>130</sup> **(4)** the objects of election: “we” (v. 7) or “us” (vv. 3-6, 8-9). Paul envisaged the elect both in their corporate standing as the church and in their individuality. The latter is clear in Rom 16:13, where Paul wrote, “Greet Rufus, chosen (ton
 eklekton) in the Lord,” and in 1 Pet 1:1, discussed below. The people of
 God are viewed both in their unity and in their diversity (Rom 12:4-5; 1
 Cor 10:17; 12:12, 20; Eph 4:25; 5:30; Col 3:15). Berkouwer made this
@@ -569,8 +563,7 @@ be saved through the sanctifying work of the Spirit and through belief in
 the truth.” The middle voice of a verb denotes the subject acting with
 respect to itself. Here the aorist middle indicative of haireomai (to “choose,” “prefer,” “decide”) “emphasizes . . . the relation of the person
 chosen to the special purpose of him who chooses. The ‘chosen’ are
-regarded . . . as they stand to the counsel of God.”134 See also 1 Thess 1:4­
-5, where the saints’ response to the Gospel was evidence of their prior election. Election in eternity past was actualized in time by the sanctifying work of the Spirit and the Thessalonians’ belief in the Gospel as preached by Paul. 2 Thess 2:13 (NRSV) indicates that God actively chose them specifically “for salvation” (eis sōtērian). Paul also stated this truism in 1 Thess 5:9 when he wrote, “God. . . [appointed] us . . . to receive salvation” (eis peripoiēsin sōtērias).135 To the Christian’s experiential question, Why am I a Christian?, the biblically faithful answer must be, Because God chose me.
+regarded . . . as they stand to the counsel of God.”<sup>134</sup> See also 1 Thess 1:4­-5, where the saints’ response to the Gospel was evidence of their prior election. Election in eternity past was actualized in time by the sanctifying work of the Spirit and the Thessalonians’ belief in the Gospel as preached by Paul. 2 Thess 2:13 (NRSV) indicates that God actively chose them specifically “for salvation” (eis sōtērian). Paul also stated this truism in 1 Thess 5:9 when he wrote, “God. . . [appointed] us . . . to receive salvation” (eis peripoiēsin sōtērias).<sup>135</sup> To the Christian’s experiential question, Why am I a Christian?, the biblically faithful answer must be, Because God chose me.
 >
 James also stated that the initiative in salvation lies wholly with the sovereign God: “He chose [boulētheis] us to give us birth through the word
 of truth” (Jas 1:18). Jude 1 affirmed the same in its description of
@@ -581,7 +574,7 @@ by God. Peter viewed the body of Christ as the new people of God (1 Pet
 2:9-10); yet within this new entity he saw the election of individuals to salvation. So Peter wrote his first letter to “God’s elect [eklektois], strangers in the world, scattered” throughout much of Asia Minor (1 Pet 1:1). Since individuals, not a class, scatter or are dispersed, Peter had in mind an aggregate of individuals, not an empty class. The elect ones “have been chosen according to [kata] the foreknowledge [prognōsin] of God the
 Father, through (en) the sanctifying work of the Spirit, for [eis] obedience
 to Jesus Christ and sprinkling by his blood” (v. 2). Several comments on
-this verse are in order. (1) The preposition kata indicates the basis of divine election—namely, the divine foreknowledge. In context, prognōsis denotes the divine foreloving or foreordaining, or as Selwyn stated, God’s “knowing or taking note of those whom He will choose.”136 That God’s foreknowledge of Christians likely indicates more than prescience is confirmed by Peter’s statement that Christ “was chosen (perfect passive participle of proginōskō) before the creation of the world” (1 Pet 1:20; “He was destined,” RSV, NRSV; cf. Acts 2:23). 1 Pet 1:2 says nothing about Christians being chosen on the basis of foreseen faith. (2) The preposition en signifies the means by which eternal election was effected in time—i.e., by operation of the Spirit. And (3) the preposition eis denotes the goal or outcome of election—i.e., obedience to Christ and the application of his atoning benefits. Peter did not state that those who obey Christ are elect, but that the elect proceed to obey Christ. See also Jas 2:5.
+this verse are in order. **(1)** The preposition kata indicates the basis of divine election—namely, the divine foreknowledge. In context, prognōsis denotes the divine foreloving or foreordaining, or as Selwyn stated, God’s “knowing or taking note of those whom He will choose.”<sup>136</sup> That God’s foreknowledge of Christians likely indicates more than prescience is confirmed by Peter’s statement that Christ “was chosen (perfect passive participle of proginōskō) before the creation of the world” (1 Pet 1:20; “He was destined,” RSV, NRSV; cf. Acts 2:23). 1 Pet 1:2 says nothing about Christians being chosen on the basis of foreseen faith. **(2)** The preposition en signifies the means by which eternal election was effected in time—i.e., by operation of the Spirit. And **(3)** the preposition eis denotes the goal or outcome of election—i.e., obedience to Christ and the application of his atoning benefits. Peter did not state that those who obey Christ are elect, but that the elect proceed to obey Christ. See also Jas 2:5.
 >
 In 2 Pet 1:10 the disciple wrote to the dispersed believers, “Therefore, my brothers, be all the more eager to make your calling and election
 [eklogē] sure. For if you do these things, you will never fall.” Truly it is
@@ -624,9 +617,9 @@ everything to hinge on the sick man’s own judgment.” God elects persons
 on the basis of his foreknowledge of their personal worthiness. Chrysostom
 continued, “In order that not everything may depend on divine help, we
 must at the same time bring something ourselves.”5 Calvin judged that
-many pre-Augustinian fathers resisted the doctrine of sovereign election (1)
+many pre-Augustinian fathers resisted the doctrine of sovereign election **(1)**
 so as to accommodate their views to influential worldly philosophers, and
-(2) to avoid the Christians’ constant tendency to slothfulness.<sup>6</sup>
+**(2)** to avoid the Christians’ constant tendency to slothfulness.<sup>6</sup>
 Fourth-century Semi-Pelagians in Southern France—notably John
 >
 Cassian (d. 435), Vincent of Lérins (d. 434), Hilary of Arles (d. 449), and
@@ -672,7 +665,7 @@ inherited depravity. Arminians define election as God’s general purpose to
 save those he foresaw would respond to prevenient grace, repent, and
 believe. They speak of God electing the class of people who exhibit a certain kind of character. “The basis for this divine choice is in the moral
 character which they have been enabled, through God’s transforming
-grace, to embody and experience.”10 Salvation, then, is synergistic; both
+grace, to embody and experience.”<sup>10</sup> Salvation, then, is synergistic; both
 divine grace and the human will are causes of salvation. According to one
 authority: “There is a cooperation, or synergism, between divine grace and
 the human will. The Spirit of God does not work irresistibly, but through
@@ -694,7 +687,7 @@ unconditionally appointed Jesus Christ to be the Savior of humankind.
 What is unconditionally predestined is Christ or the way of salvation. The second focuses on the election of the people of God. God further decreed
 unconditionally that the class of people who adhere to this way of salvation will be saved. “He decreed to receive into favor those who repent and
 believe, and, in Christ . . . to effect the salvation of such penitents and
-believers as persevere to the end.”12 The third relates to the provision of
+believers as persevere to the end.”<sup>12</sup> The third relates to the provision of
 prevenient grace. God supplies all persons with “exciting” grace, which
 mitigates the effects of original sin and enables sinners to respond to the
 Gospel call. God confers on all people grace sufficient for salvation; it is up to the individual to believe or not believe, to be saved or not be saved. The fourth decree concerns the election of individuals on the basis of foreknowledge. God elects to life those he foresees will believe and persevere, and he punishes those who refuse to do so. “This decree has its formulation in the foreknowledge of God, by which he knew from all eternity those individuals who would, through his preventing grace, believe, and through his subsequent grace would persevere.”<sup>13</sup> In other words, God chose those he foresaw would choose him. Hence the determining factor as to whether an individual will be saved or not is his or her own free decision.
@@ -718,15 +711,13 @@ John Wesley (d. 1791), the founder of Methodism, was influenced by
 the theology of the Eastern Fathers and by contemporary Anglicanism that
 had drifted from a Reformed to an Arminian stance. Moreover, the leader
 of the Oxford “holy club” stated, “I reject the blasphemy clearly contained in the horrible decree of predestination. . . . I would sooner be a
-Turk, a Deist, yea an atheist, than I could believe this.”14 Wesley strongly
-opposed Reformed views on predestination in The Arminian Magazine (1778-91) and elsewhere, for several reasons. (1) He judged that unconditional election to life necessarily implied unconditional reprobation to
-death—which doctrine would make God the author of sin. “Election cannot stand without reprobation. Whom God passes by, those he reprobates. It is one and the same thing.”15 (2) Sovereign election renders preaching vain, for the elect then would be saved with or without preaching, and the non-elect to whom the Gospel is preached could not possibly be saved. (3) The Calvinist doctrine of unconditional election undermines biblical holiness, in that it removes the primary motivation to virtuous living, namely, the promise of rewards and the threat of punishment. “The doctrine [of election] . . . has a tendency to destroy holiness; for it wholly takes away those first motives to follow after it . . . the hope of future reward and punishment, the hope of heaven and the fear of hell.”16 (4) The doctrine allegedly destroys Christians’ zeal for good works, if it be that human destinies have been settled from eternity past. And (5) unconditional election makes Christ a hypocrite for pretending love for, and inviting repentance from, persons allegedly reprobated by God.
+Turk, a Deist, yea an atheist, than I could believe this.”<sup>14</sup> Wesley strongly opposed Reformed views on predestination in The Arminian Magazine (1778-91) and elsewhere, for several reasons. **(1)** He judged that unconditional election to life necessarily implied unconditional reprobation to death—which doctrine would make God the author of sin. “Election cannot stand without reprobation. Whom God passes by, those he reprobates. It is one and the same thing.”<sup>15</sup> **(2)** Sovereign election renders preaching vain, for the elect then would be saved with or without preaching, and the non-elect to whom the Gospel is preached could not possibly be saved. **(3)** The Calvinist doctrine of unconditional election undermines biblical holiness, in that it removes the primary motivation to virtuous living, namely, the promise of rewards and the threat of punishment. “The doctrine [of election] . . . has a tendency to destroy holiness; for it wholly takes away those first motives to follow after it . . . the hope of future reward and punishment, the hope of heaven and the fear of hell.”<sup>16</sup> **(4)** The doctrine allegedly destroys Christians’ zeal for good works, if it be that human destinies have been settled from eternity past. And **(5)** unconditional election makes Christ a hypocrite for pretending love for, and inviting repentance from, persons allegedly reprobated by God.
 >
 Positively, Wesley insisted that Christ died for all and his grace is available to all. Viewed as a seamless garment, divine grace universally restrains evil, removes the guilt and penalty of original sin, convicts of sin and judgment, provides the first wish to please God, and imparts power to repent and believe. Thus, “preventing grace” heals the damaging effects of
 Adamic sin universally. To those who respond to prevenient grace and
 choose Christ, God grants justifying grace followed by sanctifying grace.
-Wesley saw two elections in Scripture: (1) an unconditional election of
-individuals to service and nations to privileges, and (2) a conditional election of persons to eternal destiny. Concerning the latter, God in eternity
+Wesley saw two elections in Scripture: **(1)** an unconditional election of
+individuals to service and nations to privileges, and **(2)** a conditional election of persons to eternal destiny. Concerning the latter, God in eternity
 past elected those persons he foresaw would believe and persevere in holy
 living. Wesley thus understood election in the weaker sense of God’s ratification of foreseen human choices. He wrote:
 >
@@ -782,11 +773,8 @@ Moderate Arminians believe the same thing about election as classical Arminians 
 This view represents a refinement of the traditional Arminian view of conditional election. Denying the radical depravity of sinners and the unconditional election of individuals to be saved, this school affirms that God wills to save all people and that Christ died for all. Evangelical interpreters view election passively as God’s purpose to save the class of people who trust Christ. In other words, election is a statement about the divine plan of salvation; it concerns God’s appointment of the believing community to everlasting glory. Accordingly, the dynamic whereby sinners come to Christ lies not with the sovereign God but with the unregenerate themselves.
 >
 Alan Richardson, former theologian at Nottingham and dean of York
-Cathedral, averred that election is corporate, realized, and to service not to
-salvation. (1) Election is corporate. “The categories of predestination, foreknowledge, and so on, are valid . . . for the behavior of groups, but do not apply to this or that individual.”19 In the OT election dealt with God’s
-choice, not of individuals, but of the nation Israel (Deut 7:6-8; Ps 135:4) and of his Anointed to be the instruments of his purposes. This OT perspective
-carries over to the NT. Thus in Rom 8:28-30 that which God “foreknew”
-and “predestined” is the church corporately. According to Richardson:
+Cathedral, averred that election is corporate, realized, and to service not to salvation. **(1)** Election is corporate. “The categories of predestination, foreknowledge, and so on, are valid . . . for the behavior of groups, but do not apply to this or that individual.”<sup>19</sup> In the OT election dealt with God’s
+choice, not of individuals, but of the nation Israel (Deut 7:6-8; Ps 135:4) and of his Anointed to be the instruments of his purposes. This OT perspective carries over to the NT. Thus in Rom 8:28-30 that which God “foreknew” and “predestined” is the church corporately. According to Richardson:
 >
 >> If we read this passage as if it related to atomic individuals, we shall
 create difficulties which are wholly of our imagining; we will then
@@ -797,17 +785,15 @@ of the world. Paul, of course, does not think of the Church as made up of a coll
 Likewise Romans 9–11 does not concern individuals but nations or representative rulers such as Pharaoh. Richardson argues that Christ is the
 Elect One and those who are in the Son are the eklektoi. “If Christians are
 ‘the elect,’ it is because they are ‘in Christ,’ because they are baptized into the person of him who alone may with complete propriety be called the
-Elect of God.”21 
+Elect of God.”<sup>21</sup> 
 >
-(2) Election is realized. Romans 9–11, moreover, says nothing about salvation or damnation in the world-to-come, but about God’s purposes in history. “Election may be defined as the action of God’s grace in history” (emphasis added).22 That is, the election of Israel, the Messiah, and the church has respect to a present, earthly mission among the nations (Isa 45:4-6; Mark 10:45). And (3) election is exclusively to service. God’s euloge has nothing to do with personal destiny in the age to come but everything to do with service for God in the world. “Election refers to God’s purpose in this world. It is true that the elected ones, if they do not fall away, will be saved in the world to come, but that is not the primary meaning of election. In the NT, as in the OT, election is a matter of service, not of privilege.”23
+**(2)** Election is realized. Romans 9–11, moreover, says nothing about salvation or damnation in the world-to-come, but about God’s purposes in history. “Election may be defined as the action of God’s grace in history” (emphasis added).<sup>22</sup> That is, the election of Israel, the Messiah, and the church has respect to a present, earthly mission among the nations (Isa 45:4-6; Mark 10:45). And **(3)** election is exclusively to service. God’s euloge has nothing to do with personal destiny in the age to come but everything to do with service for God in the world. “Election refers to God’s purpose in this world. It is true that the elected ones, if they do not fall away, will be saved in the world to come, but that is not the primary meaning of election. In the NT, as in the OT, election is a matter of service, not of privilege.”23
 >
 Richardson irresponsibly dissolves individual personhood and decisions
 into the corporate unit. Thus in arguing for infant baptism, Richardson
-avers that the faith of the family representative avails for the entire household. “The NT principle of representative faith is established. There is no place for our modern individualism in biblical thinking . . . the faith of one is available for those who are unable as yet to express their own faith.”24
+avers that the faith of the family representative avails for the entire household. “The NT principle of representative faith is established. There is no place for our modern individualism in biblical thinking . . . the faith of one is available for those who are unable as yet to express their own faith.”<sup>24</sup> 
 >
-In their book God’s Strategy in Human History,25 the laymen Forster and Marston propose a passive corporate election. The authors argue that Scripture does not teach sovereign election to salvation; people’s eternal destiny depends on their own moral responses to the universal offer of the
-Gospel. Jesus Christ is the chosen One, and Christians are said to be elect
-because through faith they are in Christ.26 By the free responses of repentance and faith, people become part of Christ’s body, the church, and thus are described as chosen. Forster and Marston write:
+In their book God’s Strategy in Human History,<sup>25</sup> the laymen Forster and Marston propose a passive corporate election. The authors argue that Scripture does not teach sovereign election to salvation; people’s eternal destiny depends on their own moral responses to the universal offer of the Gospel. Jesus Christ is the chosen One, and Christians are said to be elect because through faith they are in Christ.<sup>26</sup> By the free responses of repentance and faith, people become part of Christ’s body, the church, and thus are described as chosen. Forster and Marston write:
 >
 >> The prime point is that the election of the church is a corporate
 rather than an individual thing. It is not that individuals are in the
@@ -819,17 +805,16 @@ In other words, election or predestination points to the future and
 describes the heavenly heritage of the people of God (Rom 8:28-30).
 “Predestination does not concern who should be converted; it concerns
 our future destiny. It is not that we are predestined to be Christians, it is
-rather that as Christians we receive a glorious destiny.”28 The sum of the
-matter is that God did not choose any individual to be saved; rather, corporately he has chosen in Christ the church to be heirs of heavenly glory.
+rather that as Christians we receive a glorious destiny.”<sup>28</sup> The sum of the matter is that God did not choose any individual to be saved; rather, corporately he has chosen in Christ the church to be heirs of heavenly glory.
 >
 William Klein, in The New Chosen People, avers that the Reformed
 doctrine whereby God from eternity chose some individuals to be saved
-and passed by others is “to most of us, a cause of bewilderment or frustration.... Such a claim . . . seems so arrogant, so exclusive.”29 God does not select some sinners to be saved; he wills to save all who believe (Matt 18:14; 1 Tim 2:4; 2 Pet 3:9). Election in Scripture, he insists, has three meanings. (1) The most common use is God’s corporate choice of a people, Israel and the church, for spiritual privileges. Under the old economy
+and passed by others is “to most of us, a cause of bewilderment or frustration.... Such a claim . . . seems so arrogant, so exclusive.”<sup>29</sup> God does not select some sinners to be saved; he wills to save all who believe (Matt 18:14; 1 Tim 2:4; 2 Pet 3:9). Election in Scripture, he insists, has three meanings. **(1)** The most common use is God’s corporate choice of a people, Israel and the church, for spiritual privileges. Under the old economy
 God chose national Israel to be his people (Deut 7:6; 14:2); so under the
 new economy he chooses the people who believe in Christ (the church) to
-be his elect. (2) There is God’s choice of individuals for service, viz.,
+be his elect. **(2)** There is God’s choice of individuals for service, viz.,
 prophets, priests, kings, the seventy, and Christ’s apostles. Where election
-focuses on individuals it is always to a task or ministry. And (3) election
+focuses on individuals it is always to a task or ministry. And **(3)** election
 concerns God’s unique choice of Jesus to perform his redemptive function.
 >
 Election to salvation, the immediate matter of concern, is a corporate
@@ -838,11 +823,11 @@ who have come to faith. The plural language of election (Rom 8:29-30;
 Eph 1:4-5; 2 Thess 2:13; etc.) more adequately refers to the group as a
 whole rather than to individuals. So the OT speaks of the chosen corporately as a “flock,” a “house,” and a “people,” and the NT a “body,” a
 “bride,” and a “temple.” Writes Klein, “God has chosen the church as a
-body rather than the specific individuals who populate that body.”30 Since
+body rather than the specific individuals who populate that body.”<sup>30</sup> Since
 Jesus Christ is God’s Elect One (1 Pet 1:20; 2:4, 6), and those who exercise saving faith are in Christ, Klein concludes that the latter group constitutes God’s chosen or “elect” people. His assumption is that since Jesus
 and the apostles authentically proclaimed the Gospel universally, all persons are capable of repentance and faith. In particular, the opening of
 Lydia’s heart that enabled her to respond to the Gospel (Acts 16:14), was
-not caused by a special, effectual working of the Holy Spirit.31 Klein claims
+not caused by a special, effectual working of the Holy Spirit.<sup>31</sup> Klein claims
 that this view of election is congruent with the biblical concept of corpo­rate solidarity, whereby God regards Israel and the church not as so many individuals but as a corporate reality.
 >
 Klein further argues that foreknowledge in the NT is not a synonym for
@@ -878,15 +863,15 @@ reprobation. Proceeding from divine sovereignty, he argued that if God
 elected some to life, he necessarily must have reprobated the others to
 death, lest their destiny remain uncertain. His bottom line was, “There is
 a twofold predestination, of the elect to blessedness, and of the reprobate
-to death.”33 Gottschalk was condemned by the Council of Quiercy (853)
+to death.”<sup>33</sup> Gottschalk was condemned by the Council of Quiercy (853)
 for making God the author of sin. His works were burned, and he was
 imprisoned in a monastery where maltreatment led to his death.
 >
 Ulrich Zwingli (d. 1531), the leader of the Reformation in Germanspeaking Switzerland, anticipated features of Calvin’s thought. Zwingli
 believed that the sovereign God is the cause of every occurrence, predestination being a synonym for providence. “All things are so done and disposed by the providence of God that nothing takes place without his will
-or command.”34 Election or predestination is God’s free decision and is
+or command.”<sup>34</sup> Election or predestination is God’s free decision and is
 not based on foresight of any human work or merit. “Predestination is the free disposition of God with regard to us, and is without any respect to
-good or evil deeds.”35 Accordingly, the exercise of faith follows election.
+good or evil deeds.”<sup>35</sup> Accordingly, the exercise of faith follows election.
 Zwingli regarded election and reprobation as two aspects of the sovereign
 will. Since God before time unconditionally elected many to life, he also
 fashioned many souls (Cain, Esau, Judas, Simon Magus, etc.) for reprobation to eternal death. Wrote Zwingli, “The bliss of everlasting life and
@@ -905,12 +890,12 @@ Luther steadfastly affirmed that God’s omnipotence is the cause of all
 occurrences. God’s hidden will, into which humans dare not pry, includes
 his unconditional predestination of some to be saved and his reprobation
 of the rest to be damned. “God rejected a number of men and elected and
-predestined others to everlasting life, such is the truth.”38 On one hand,
+predestined others to everlasting life, such is the truth.”<sup>38</sup> On one hand,
 God elected certain ones to be saved not on the basis of foreseen works
 or merits but according to his own good pleasure. On the other hand, “the
-will of the divine majesty purposely abandons and reprobates some to perish.”39 This decree of reprobation is seen in God’s hatred of Esau (Rom
+will of the divine majesty purposely abandons and reprobates some to perish.”<sup>39</sup> This decree of reprobation is seen in God’s hatred of Esau (Rom
 9:13), his hardening of Pharaoh’s heart (Rom 9:17-18), and his energizing Judas’ treachery. To say that the preceding occurred merely by divine
-permission, in Luther’s words, is “double talk.”40 That God hardens the
+permission, in Luther’s words, is “double talk.”<sup>40</sup> That God hardens the
 will of the reprobate while not sinning himself is a mystery embedded in
 his hidden will.
 >
@@ -929,25 +914,25 @@ Concerning the decree of election, Calvin first spoke of a general,
 covenantal election of ethnic Israel, which choice could be revoked by
 national disobedience. More fundamentally, God eternally chose particular individuals, both among Israel (the “remnant”) and the Gentiles, for
 an irrevocable spiritual heritage in Christ. “The general election of the
-nation Israel does not prevent God from choosing in his most secret counsel those whom he pleases.”42 Calvin noted the following characteristics
-of election to life in Christ. (1) Election is according to God’s sovereign
+nation Israel does not prevent God from choosing in his most secret counsel those whom he pleases.”<sup>42</sup> Calvin noted the following characteristics
+of election to life in Christ. **(1)** Election is according to God’s sovereign
 will and good pleasure. It involves God’s unconditional choice of a man
-or woman, not the latter’s choice of God. (2) Election is founded on freely
+or woman, not the latter’s choice of God. **(2)** Election is founded on freely
 given mercy; God is under no obligation to save a single rebellious sinner.
-(3) Election is not based on foreseen faith or holiness. Although God
+**(3)** Election is not based on foreseen faith or holiness. Although God
 knows all things in advance, biblical foreknowledge signifies the divine
 determination to save specific persons. “The foreknowledge of God . . . is
-not a bare prescience . . . but the adoption by which he had always distinguished his children from the reprobate.”43 (4) Election is absolutely
+not a bare prescience . . . but the adoption by which he had always distinguished his children from the reprobate.”<sup>43</sup> **(4)** Election is absolutely
 certain as to its outcome. Since the omnipotent God infallibly accomplishes his purposes, all the elect will be saved. For Calvin election to life
 is a doctrine for the comfort of Christians.
 >
 Calvin went beyond Augustine to assert that God unconditionally destined the majority of humanity to everlasting destruction. “Many . . .
 accept election in such terms as to deny that anyone is condemned. But
 they do this very ignorantly and childishly since election itself could not
-stand except as set over against reprobation.”44 Reprobation means that
+stand except as set over against reprobation.”<sup>44</sup> Reprobation means that
 God purposefully devoted to destruction whomsoever he pleased. “Since
 the disposition of all things is in God’s hand, since the decision of salvation or of death rests in his power, he so ordains by his plan or will that among men some are born destined for certain death from the womb,
-who glorify his name by their own destruction.”45 God’s reprobation of
+who glorify his name by their own destruction.”<sup>45</sup> God’s reprobation of
 the non-elect occurred “for no other reason than that he wills to exclude
 them from the inheritance which he predestines for his own children.”46
 Calvin cited as leading examples of reprobation God’s rejection of Esau
@@ -964,14 +949,14 @@ and creation. Beza viewed God’s just and secret purpose as the efficient
 cause of all occurrences. “Everything happens in the manner in which God
 ordained it from eternity. He disposed the intermediate causes in such a
 powerful and effective fashion that they were necessarily brought to the
-appointed end to which He ordained them.”47 Beza argued that God created some persons for life and others for damnation. Thus predestination
+appointed end to which He ordained them.”<sup>47</sup> Beza argued that God created some persons for life and others for damnation. Thus predestination
 “is God’s eternal and unchangeable ordinance, which came before all the
 causes of salvation and damnation, and by which God has determined to
 glorify himself—in some men by saving them through his simple grace in
 Christ and in other men by damning them through his rightful justice in
-Adam and in themselves.”48 Beza added that “The doctrine of foreseen
+Adam and in themselves.”<sup>48</sup> Beza added that “The doctrine of foreseen
 faith and foreseen works is contrary to the doctrine that preaches and
-teaches the Word of God.”49 Beza asserted that the reprobate are condemned for their own sin and lack of faith. He so argued by distinguishing between God’s decree of election and reprobation and the execution
+teaches the Word of God.”<sup>49</sup> Beza asserted that the reprobate are condemned for their own sin and lack of faith. He so argued by distinguishing between God’s decree of election and reprobation and the execution
 of that decree. Although God willed salvation and damnation, his decree
 was executed by the secondary means of faith and unbelief. By so reasoning, Beza sought to uphold human responsibility and to excuse God as
 the author of sin. Ultimately Beza referred the preceding antimonies to the
@@ -982,23 +967,23 @@ famous for his allegories Grace Abounding (1666) and The Pilgrim’s
 Progress (1682). According to Bunyan, the whole of salvation rests on the
 foundation of God’s sovereign election. Wrote he, “This act of God in
 electing is a choosing or fore-appointing of some infallibly unto eternal
-life.”50 Election according to God’s good pleasure is (1) eternal, having
-been executed before the foundation of the world, (2) unconditional, being
-totally independent of foreseen faith or good works, and (3) effectual, in
+life.”<sup>50</sup> Election according to God’s good pleasure is **(1)** eternal, having
+been executed before the foundation of the world, **(2)** unconditional, being
+totally independent of foreseen faith or good works, and **(3)** effectual, in
 that no impediment can hinder the realization of God’s purposes. Finally,
-(4) election is “in Christ,” since the Savior is the one in whom the elect
+**(4)** election is “in Christ,” since the Savior is the one in whom the elect
 were always considered and without whom there is neither election,
 grace, nor salvation.
 >
 In a lengthy section entitled “Reprobation Asserted: or the Doctrine of
-Eternal Election and Reprobation Promiscuously Handled,” Bunyan stated that the decree of reprobation is the logical correlate of election: “if not elect, what then but reprobate?”51 The decree of reprobation was executed not on the basis of foreseen responses of sinners, but solely on the
+Eternal Election and Reprobation Promiscuously Handled,” Bunyan stated that the decree of reprobation is the logical correlate of election: “if not elect, what then but reprobate?”<sup>51</sup> The decree of reprobation was executed not on the basis of foreseen responses of sinners, but solely on the
 basis of God’s pre-mundane purpose. Arising out of God’s sovereignty,
 reprobation excludes creatures from the sphere of divine election and publicly displays his power and wrath. Bunyan supported his doctrine of
 reprobation by appeal to Paul’s accounts of Jacob and Esau (Rom 9:10­
 13), the hardening of Pharaoh’s heart (vv. 17-18), and the parable of the
 potter and the clay (vv. 19-22). “This decree [of reprobation] is made sure
 by the number, measure, and bounds of election; for election and reprobation do enclose all reasonable creatures . . . election, those that are set
-apart for glory; and reprobation, those left out of this choice.”52 Bunyan
+apart for glory; and reprobation, those left out of this choice.”<sup>52</sup> Bunyan
 further distinguished between the decisions of reprobation and foreordination. The latter, arising out of God’s justice, binds the reprobate over to everlasting punishment. “Sovereignty is according to the will of God, but justice according to the sin of man.”53
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 107-111.
@@ -1024,7 +1009,7 @@ who refused to permit Israel to pass through his territory. Yet the Hebrews
 so attributed ultimate causality to God that Moses could say, “God had
 made his spirit stubborn and his heart obstinate” (Deut 2:30; cf. Num
 21:23), even though God’s involvement was limited to permission of the
-incident.137 The language of rejection, common in the Psalms and indicated by the verbs zānaḥ (Ps 43:2; 44:9, 23; 60:1; etc.) and mā’as (Ps 53:5;
+incident.<sup>137</sup> The language of rejection, common in the Psalms and indicated by the verbs zānaḥ (Ps 43:2; 44:9, 23; 60:1; etc.) and mā’as (Ps 53:5;
 78:59, 67; 89:38), refers to a temporal forfeiture of privileges as a result
 of deliberate covenant-breaking. God’s work among the Egyptians—
 “whose hearts he turned to hate [śānē’] his people” (Ps 105:25)—should
@@ -1037,16 +1022,16 @@ Some interpreters find support for the doctrine of reprobation in certain crucia
 25:31-46) differentiates between the sheep on the right hand (“blessed” by the Father) and the goats on the left (“cursed” [katēramenoi] by him).
 Jesus stated that the righteous inherit the kingdom prepared specifically
 for them (v. 34), whereas the accursed depart into the place of torment prepared, not for them, but for Satan and his angels (v. 41). As Brunner has
-noted, “The distinctive element in the biblical statement is not the ‘congruity’ but the ‘incongruity’ of the ‘right hand and the left hand.’”138 The saved are those whom God has chosen for eternal blessing; the lost are
+noted, “The distinctive element in the biblical statement is not the ‘congruity’ but the ‘incongruity’ of the ‘right hand and the left hand.’”<sup>138</sup> The saved are those whom God has chosen for eternal blessing; the lost are
 those whom God has chosen to “leave” (aphiēmi, Luke 17:34-35) in their
 self-willed state of sinful rebellion.
 >
 Paul’s reference to God’s hardening the human heart in Rom 9:18—
 “God . . . hardens whom he wants to harden”—signifies not reprobation
 but God’s ratification of the sinner’s determination to steel himself or herself against the divine will of pleasure. With Shedd we can say that God
-hardens the hearts of the unsaved in two ways: (1) by permitting persons
-to exercise their sinful wills, and (2) by withdrawing his grace so that their
-sinful lusts go unchecked.139 Paul’s statement that God “raised up”
+hardens the hearts of the unsaved in two ways: **(1)** by permitting persons
+to exercise their sinful wills, and **(2)** by withdrawing his grace so that their
+sinful lusts go unchecked.<sup>139</sup> Paul’s statement that God “raised up”
 (exēgeira) Pharaoh—the Hebrew of Exod 9:16 suggests that God merely
 sustained Pharaoh in life (see the NRSV)—communicates God’s use of hardhearted Pharaoh in the outworking of his saving plan. The Lord was not,
 however, the blameworthy cause of Pharaoh’s actions. God does not efficiently impel sinful rebellion, but he does give sinners sufficient rope to
@@ -1066,7 +1051,7 @@ The fact that Paul here did not use the verb prokatartizō (cf. 2 Cor 9:5)
 suggests that it is not God who reprobated in eternity; rather, sinners prepare themselves for destruction by their own refusal to repent. The emphasis in these verses is not upon God’s pre-mundane reprobation, but upon
 the temporal postponement of his wrath against unbelievers who are ripe
 for destruction. In sum, “there appears here no support for any dogma of
-predestination to damnation, while the parallel foreordination to glory is stated with no uncertainty.”142 The big idea of the potter and the clay analogy is God’s absolute right to deal with his creatures as he sovereignly
+predestination to damnation, while the parallel foreordination to glory is stated with no uncertainty.”<sup>142</sup> The big idea of the potter and the clay analogy is God’s absolute right to deal with his creatures as he sovereignly
 wills. Other texts adduced by some in support of reprobation, such as 1
 Cor 9:27, Gal 4:30, 2 Tim 2:20, 3:8, likewise fall short of actually teaching what Calvin called the “horrible decree.”
 >
@@ -1080,17 +1065,17 @@ the New Testament, and still less in the Old.”143
 >
 First Pet 2:8 affirms the divinely appointed ruin of those who persistently reject the Gospel. The antecedent of the clause—“which is also what
 they were destined for” (etethēsan)—is not the verb “they disobey” (so
-Calvin, Beza), but “they stumble.”144 Hebrews’ mention of Israel’s hardness of heart in Egypt focuses on the individual as the cause of the hardening (Heb 3:8, 13, 15; 4:7). It may be that the aorist passive subjunctive,
+Calvin, Beza), but “they stumble.”<sup>144</sup> Hebrews’ mention of Israel’s hardness of heart in Egypt focuses on the individual as the cause of the hardening (Heb 3:8, 13, 15; 4:7). It may be that the aorist passive subjunctive,
 sklērunthē (“that none of you may be hardened,” Heb 3:13) is properly
 “understood as a passive of permission; i.e., ‘allow or permit one’s self to
-be hardened.’”145 Similarly, Esau was rejected by God only after he had
+be hardened.’”<sup>145</sup> Similarly, Esau was rejected by God only after he had
 rejected divine grace freely offered (Heb 12:17). The teaching of Scripture
 as a whole is that continued resistance to God’s grace produces a fixed
 habit of opposition to God that is not easily broken.
 >
 In sum, the biblical evidence leads us to uphold ‘an election within an
-election,’ namely (1) the corporate election of the people of God for
-earthly privileges and eternal destiny, as well as (2) an election of individuals to the personal enjoyment of these blessings. Scripture leads us to posit first the election of the group (Israel and the church) and then the
+election,’ namely **(1)** the corporate election of the people of God for
+earthly privileges and eternal destiny, as well as **(2)** an election of individuals to the personal enjoyment of these blessings. Scripture leads us to posit first the election of the group (Israel and the church) and then the
 personal election of those individuals who comprise the true, spiritual people of God.
 >
 The Roman and Arminian views posit sinful men and women as the
@@ -1109,7 +1094,7 @@ election to damnation. When we speak about damnation, we mean that
 God predestines persons not to sin and disobedience but to the condemnation that issues from sin.**
 >
 **Concerning this doctrine of election to life, we concur with the carefully measured conclusion of Jewett, who wrote: “In my judgment, this
-Augustinian approach reflects a much more impressive biblical and exegetical effort than does the Pelagian and Arminian view.”146 We do not wish
+Augustinian approach reflects a much more impressive biblical and exegetical effort than does the Pelagian and Arminian view.”<sup>146</sup> We do not wish
 to blow the importance of this debated doctrine of predestination out of
 proportion. But neither do we neglect what is undoubtedly a significant
 biblical theme. The following section will discuss the practical relevance
@@ -1165,26 +1150,26 @@ Through grace alone God makes people what they cannot become by their
 own decisions and actions. Consistent with his rigorous Christocentrism,
 Barth viewed Jesus Christ and his electing activity as the grace of God. For
 Barth election constitutes the heart of the Gospel. His reasons for rejecting the Augustinian and Calvinist view of election in favor of a novel
-scheme of double predestination are as follows. (1) The Calvinist view
+scheme of double predestination are as follows. **(1)** The Calvinist view
 postulates a hidden, antecedent will of God independent of Jesus Christ,
-who is the beginning and the sum of God’s saving purposes. (2) It regards
+who is the beginning and the sum of God’s saving purposes. **(2)** It regards
 election as a static, fixed decision (“decretum absolutum”) rather than a
-dynamic history between God and persons. And (3) it suggests that God
+dynamic history between God and persons. And **(3)** it suggests that God
 is for some persons and against others, whereas the Gospel is Good News
 for all.
 >
 Barth developed his mature view of election in Church Dogmatics, volume II, part 2 under three headings. The first heading he entitled, “The
 Election of Jesus Christ.” The cornerstone of his doctrine is that Jesus
-Christ “is both the electing God and elected man in One.”54 As the eternally electing God, Christ is the divine freedom in action. The Son of God,
+Christ “is both the electing God and elected man in One.”<sup>54</sup> As the eternally electing God, Christ is the divine freedom in action. The Son of God,
 in other words, is the subject who elects others. “Before him and without
-him and beside him God does not, then, elect or will anything.”55 But Jesus Christ also is the eternally elected man. As the Son of Man (with a
+him and beside him God does not, then, elect or will anything.”<sup>55</sup> But Jesus Christ also is the eternally elected man. As the Son of Man (with a
 pre-existent humanity?) he is the object of God’s election. Negatively, this
 means that Christ was elected to rejection. On the cross God said, “No”
 to himself as Christ bore the sentence of man’s rejection. The elected man,
 therefore, is also the rejected or reprobated man. Positively, Christ as
 elected man means that God has chosen humankind for fellowship with
 himself. At Calvary God said, “Yes” to his Son and to humanity in him.
-“His election carries in it and with it the election of the rest.”56 Barth thus asserted that “Predestination is the non-rejection of man. It is so because it is the rejection of the Son of God.”57
+“His election carries in it and with it the election of the rest.”<sup>56</sup> Barth thus asserted that “Predestination is the non-rejection of man. It is so because it is the rejection of the Son of God.”57
 >
 The second heading of Barth’s development is “The Election of the
 Community.” From his exegesis of Romans 9–11, Barth concluded that
@@ -1202,25 +1187,25 @@ part of the human family, is already elected in Jesus Christ, the elected man
 who bore his rejection. Thus each person is eternally loved and objectively
 justified and sanctified in God’s Son. Even if an individual does not personally receive the Gospel, his or her unbelief is overcome by Christ’s election. So Barth stated, “This choice of the godless man is void; he belongs
 eternally to Jesus Christ and therefore is not rejected, but elected by God
-in Jesus Christ.”59 The chief difference between explicit believers and
+in Jesus Christ.”<sup>59</sup> The chief difference between explicit believers and
 unbelievers is that the latter do not yet know they are elected. Thus Barth
 often addressed general audiences as “dear brothers and sisters.”
 Although Barth provided a theoretical basis for universal salvation, he
 held that to conclude every person will be saved would limit God’s freedom. But since universal salvation is an affirmation of faith and hope,
-Barth confidently trusted that all are saved.60 In the end, divine grace triumphs over every form of sinful opposition.
+Barth confidently trusted that all are saved.<sup>60</sup> In the end, divine grace triumphs over every form of sinful opposition.
 >
 Wolfhart Pannenberg (b. 1928) rejects the classical formulation of an
-individualistic election from eternity. Rather he proposes “a concretely historical concept of election”61 that affirms that through the medium of his­tory God fulfills his purpose to bring humanity to eternal communion with
+individualistic election from eternity. Rather he proposes “a concretely historical concept of election”<sup>61</sup> that affirms that through the medium of his­tory God fulfills his purpose to bring humanity to eternal communion with
 himself. God has been accomplishing this salvific purpose for the race
 through the election and history of Israel and the Christian church. Not
 the sole purveyor of truth, the church functions as a sign and symbol of
 the destiny of humankind in the future kingdom of God. Writes
-Pannenberg, “The community of the church symbolizes the eschatological Kingdom of a new mankind in communion with God.”62 Consisting
+Pannenberg, “The community of the church symbolizes the eschatological Kingdom of a new mankind in communion with God.”<sup>62</sup> Consisting
 of people from all nations, the church witnesses to the fact that God willed
 through Christ’s cross the reconciliation of the race. “The liberation from
 the power of sin and death to the enjoyment of freedom in communion
 with God is not meant for the Christians as the happy few. It is meant for
-the whole world.”63 Pannenberg believes that God’s loving purpose could
+the whole world.”<sup>63</sup> Pannenberg believes that God’s loving purpose could
 be none other than the salvation of the world, given men and women’s creation as image-bearers and their investiture with eternal value and dignity.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 111-113.
