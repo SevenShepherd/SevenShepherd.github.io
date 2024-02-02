@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 02:27:00 -0500
+date: 2024-02-01 02:37:00 -0500
 categories: election
 published: true
 ---
@@ -601,17 +601,17 @@ talk of the election of a class, it must be as the sum of elect individuals.
 
 <a name="reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Reformed Compatibilism</a>
 
-Reformed compatibilists are moderate 4-point calvinists or amyraldians who also hold God's sovereignty (calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
+Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
 
 <a name="martin" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Walter Martin</a>
 
-Martin is quoted by Rhodes, who is a moderate 4-point calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism.
+Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/uuUKE5resPs?si=OSux3CpIRvIRnk61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Ron Rhodes</a>
 
-This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point calvinism).
+This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point Calvinism).
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/sRVylnxpOgo?si=Gy93CzoAp0UbL-gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -775,7 +775,7 @@ See Chuck Smith below for now.
 
 <a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
 
-Like <a href="#reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
+Like <a href="#reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
@@ -1164,7 +1164,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 <a name="piper-against-hyper" href="#contents" style="font-size:1.2em;">4.1.4 Piper Against Double-Predestination</a>
 
-> ... there is such a thing as <span style="color:darkred;">hyper-calvinism which <span style="font-weight:bold;">is not historic calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
+> ... there is such a thing as <span style="color:darkred;">hyper-Calvinism which <span style="font-weight:bold;">is not historic Calvinism</span></span> it's always been a tiny group who have twisted the bible by their unbiblical logic. [Dr. John Piper (D.Theol., Munich)](https://youtu.be/tK_YIDMQuJc?t=215), a devout <span style="font-weight:bold;color:#FBB917;">5-point Scholastic Calvinist</span>
 
 <a name="spurgeon-against-hyper" href="#contents" style="font-size:1.2em;">4.1.5 Spurgeon Against Double-Predestination</a>
 
