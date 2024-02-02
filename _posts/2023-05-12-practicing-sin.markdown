@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🚸 Little children, let no one deceive you. No one born of God makes a practice of sinning."
-date: 2023-11-05 03:55:00 -0500
+title: "🚸 “Little children, let no one deceive you... No one born of God makes a practice of sinning.” — Apostle John"
+date: 2023-11-05 04:00:00 -0500
 categories: sin practice
 published: true
 ---
