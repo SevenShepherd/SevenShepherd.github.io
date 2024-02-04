@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 04:15:00 -0500
+date: 2024-02-01 04:25:00 -0500
 categories: election predestination
 published: true
 ---
@@ -656,7 +656,11 @@ Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>.
 
 <a name="mod-reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Moderate Reformed Compatibilism</a>
 
-Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
+<!-- Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead. -->
+
+Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosphical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately reformed views in the sense that they do not view election as being based on human free will or foreknowledge of forseen faith, but they still acknowledge that human free will exists.
+
+<!-- > ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) -->
 
 <a name="martin" href="#contents" style="font-size:1.2em;">1.2.1 Dr. Walter Martin (PhD, University of California Coast)</a>
 
@@ -882,7 +886,11 @@ See Chuck Smith below for now.
 
 <a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
 
-Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense.
+Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosphical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately arminian views in the sense that they view election as being based on human free will or foreknowledge of forseen faith. The determinism they are speaking of is always God's sovereignty.
+
+> ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, **one interprets sovereignty as determinism**. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
+
+<!-- Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense. -->
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
