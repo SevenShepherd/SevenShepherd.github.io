@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 04:10:00 -0500
+date: 2024-02-01 04:15:00 -0500
 categories: election predestination
 published: true
 ---
@@ -1272,9 +1272,13 @@ of the doctrine of election for the life of Christian believers.**
 > ... In light of this, the use of this text to promote **“double
 predestination” seems completely wrong** &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 246.
 
-Dr. Lennox wrote an entire book critiquing this very subject, where he attempts to dismantle everything but the P in TULIP, including unconditional election and predestination.
+<!-- Dr. Lennox wrote an entire book critiquing this very subject, where he attempts to dismantle everything but the P in TULIP, including unconditional election and predestination. -->
+
+--
 
 > There are some who take these texts to mean that in eternity God mysteriously or even arbitrarily chose who was to be a vessel of wrath and who was to be a vessel of mercy; and that choice permanently and unconditionally fixes their destinies. There is a fundamental flaw in this reasoning, even apart from the fact that it makes no moral sense. **The flaw is to assume that, if someone is a vessel of wrath, they can never become a vessel of mercy.** But **that is false**, as Jeremiah’s use of the potter analogy indicates. **Paul was a vessel of wrath who became a vessel of mercy.** Also, in Ephesians, Paul describes the believers as having once been children of wrath, but because they had repented and trusted Christ as Saviour and Lord they had become vessels of mercy (see Ephesians 2:3–4). &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 272.
+
+--
 
 > All of this invalidates the L of TULIP – “limited atonement” –
 the view that Christ did not actually die for all but only for the “elect”.
