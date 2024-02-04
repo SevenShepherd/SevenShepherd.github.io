@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 03:07:00 -0500
+date: 2024-02-01 03:15:00 -0500
 categories: election
 published: true
 ---
@@ -12,19 +12,21 @@ This is a compilation of quotations about the doctrine of election from the most
 
 1. <a href="#single">**Unconditional Single Election**</a>
     - 1.1 <a href="#moderate-reformed">Moderately Reformed</a>
-        - 1.1.1 <a href="#packer">J.I. Packer (Concise)</a>
-        - 1.1.2 <a href="#demarest">Bruce Demarest</a>
+        - 1.1.1 <a href="#packer">Dr. J.I. Packer (Oxford)</a>
+        - 1.1.2 <a href="#demarest">Dr. Bruce Demarest (Manchester)</a>
+        - 1.1.3 <a href="#grudem">Dr. Wayne Grudem (Cambridge)</a>
     - 1.2 <a href="#mod-reformed-compat">Compatibilism</a>
-        - 1.2.3 <a href="#martin">Walter Martin</a>
-        - 1.2.4 <a href="#rhodes">Ron Rhodes</a>
+        - 1.2.1 <a href="#martin">Dr. Walter Martin (CCU)</a>
+        - 1.2.2 <a href="#rhodes">Dr. Ron Rhodes (Dallas)</a>
+        - 1.2.3 <a href="#geisler">Dr. Norman Geisler (Loyola))</a>
 2. <a href="#conditional">**Conditional Election**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
-        - 2.1.1 <a href="#oden">Thomas C. Oden</a>
+        - 2.1.1 <a href="#oden">Dr. Thomas C. Oden (Yale)</a>
     - 2.2 <a href="#mod-arm-compat">Compatibilism</a>
         - 2.2.1 <a href="#smith">Chuck Smith</a>
         - 2.2.2 <a href="#missler">Chuck Missler</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
-        - 2.3.1 <a href="#wlc">William Lane Craig</a>
+        - 2.3.1 <a href="#wlc">Dr. William Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
     - 3.1 <a href="#contemporary">Contemporary Arminians</a>
 4. <a href="#double">Double Unconditional Predestination</a>
@@ -205,7 +207,7 @@ This position of a single, unconditional election to life is well supported not 
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 113-118.
 
-<a name="packer" href="#contents" style="font-size:1.2em;">1.1.1 J.I. Packer</a>
+<a name="packer" href="#contents" style="font-size:1.2em;">1.1.1 Dr. J.I. Packer (PhD, University of Oxford)</a>
 
 > 55. ELECTION
 >
@@ -275,7 +277,7 @@ among the elect.
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 55. Election. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<a name="demarest" href="#contents" style="font-size:1.2em;">1.1.2 Dr. Bruce Demarest</a>
+<a name="demarest" href="#contents" style="font-size:1.2em;">1.1.2 Dr. Bruce Demarest (PhD, University of Manchester)</a>
 
 > III. The Exposition Of The Doctrine of Election.
 >
@@ -601,21 +603,80 @@ talk of the election of a class, it must be as the sum of elect individuals.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, III. The Exposition Of The Doctrine of Election. pp. 124-135.
 
+<a name="grudem" href="#contents" style="font-size:1.2em;">1.1.3 Dr. Wayne Grudem (PhD, University of Cambridge)</a>
+
+> We may define election as follows: Election is an act of God before creation in which he chooses some people to be saved, not on account of any foreseen merit in them, but only because of his sovereign good pleasure.
+>
+&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), Systematic Theology, Chapter 32: Election and Reprobation.
+
+--
+
+> **A. Does the New Testament Teach Predestination?**
+>
+> Several passages in the New Testament seem to affirm quite clearly that God ordained beforehand those who would be saved. For example, when Paul and Barnabas began to preach to the Gentiles in Antioch in Pisidia, Luke writes, “And when the Gentiles heard this, they were glad and glorified the word of God; and as many as were ordained to eternal life believed” (Acts 13:48). It is significant that Luke mentions the fact of election almost in passing. It is as if this were the normal occurrence when the gospel was preached. How many believed? “As many as were ordained to eternal life believed.”
+>
+In Romans 8:28 – 30, we read:
+>
+>>We know that in everything God works for good with those who love him, who are called according to his purpose. For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the first-born among many brethren. And those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified. 3
+>
+In the following chapter, when talking about God’s chosing Jacob and not Esau, Paul says it was not because of anything that Jacob or Esau had done, but simply in order that God’s purpose of election might continue.
+>
+Though they were not yet born and had done nothing either good or bad, in order that God’s purpose of election might continue, not because of works but because of his call, she was told, “The elder will serve the younger.” As it is written, “Jacob I loved, but Esau I hated.” (Rom. 9:11 – 13)
+>
+Regarding the fact that some of the people of Israel were saved, but others were not, Paul says: “Israel failed to obtain what it sought. The elect obtained it, but the rest were hardened” (Rom. 11:7). Here again Paul indicates two distinct groups within the people of Israel. Those who were “the elect” obtained the salvation that they sought, while those who were not the elect simply “were hardened.”
+>
+Paul talks explicitly about God’s choice of believers before the foundation of the world in the beginning of Ephesians.
+>
+“He chose us in him before the foundation of the world, that we should be holy and blameless before him. He destined us in love to be his sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace.” (Eph. 1:4 – 6)
+>
+Here Paul is writing to believers and he specifically says that God “chose us” in Christ, referring to believers generally. In a similar way, several verses later he says, “We who first hoped in Christ have been destined and appointed to live for the praise of his glory” (Eph. 1:12).
+>
+He writes to the Thessalonians, “For we know, brethren beloved by God, that he has chosen you; for our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction” (1 Thess. 1:4 – 5).
+>
+Paul says that the fact that the Thessalonians believed the gospel when he preached it (“for our gospel came to you . . . in power . . . and with full conviction”) is the reason he knows that God chose them. As soon as they came to faith Paul concluded that long ago God had chosen them, and therefore they had believed when he preached. He later writes to the same church, “We are bound to give thanks to God always for you, brethren beloved by the Lord, because God chose you from the beginning to be saved, through sanctification by the Spirit and belief in the truth” (2 Thess. 2:13).
+>
+Although the next text does not specifically mention the election of human beings, it is interesting at this point also to notice what Paul says about angels. When he gives a solemn command to Timothy, he writes, “In the presence of God and of Christ Jesus and of the elect angels I charge you to keep these rules without favor” (1 Tim. 5:21). Paul is aware that there are good angels witnessing his command and witnessing Timothy’s response to it, and he is so sure that it is God’s act of election that has affected every one of those good angels that he can call them “elect angels.”
+>
+When Paul talks about the reason why God saved us and called us to himself, he explicitly denies that it was because of our works, but points rather to God’s own purpose and his unmerited grace in eternity past. He says God is the one “who saved us and called us with a holy calling, not in virtue of our works but in virtue of his own purpose and the grace which he gave us in Christ Jesus ages ago” (2 Tim. 1:9).
+>
+When Peter writes an epistle to hundreds of Christians in many churches in Asia Minor, he writes, “To God’s elect . . . scattered throughout Pontus, Galatia, Cappadocia, Asia and Bithynia” (1 Peter 1:1 NIV). He later calls them “a chosen race” (1 Peter 2:9).
+>
+In John’s vision in Revelation, those who do not give in to persecution and begin to worship the beast are persons whose names have been written in the book of life before the foundation of the world: “And authority was given it over every tribe and people and tongue and nation, and all who dwell on earth will worship it, every one whose name has not been written before the foundation of the world in the book of life of the Lamb that was slain” (Rev. 13:7 – 8)4 In a similar way, we read of the beast from the bottomless pit in Revelation 17: “The dwellers on earth whose names have not been written in the book of life from the foundation of the world, will marvel to behold the beast, because it was and is not and is to come” (Rev. 17:8).
+>
+&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), Systematic Theology, Chapter 32: Election and Reprobation.
+
 <a name="mod-reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Moderate Reformed Compatibilism</a>
 
 Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
 
-<a name="martin" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Walter Martin</a>
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.1 Dr. Walter Martin</a>
 
 Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/uuUKE5resPs?si=OSux3CpIRvIRnk61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Ron Rhodes</a>
+<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
 This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point Calvinism).
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/sRVylnxpOgo?si=Gy93CzoAp0UbL-gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
+
+> **Sovereignty and free will. Is it one or the other, or is it both one and the other? The Bible says both.** In the first chapter we saw that God is sovereign over all things, including human events and free choices. Nothing catches God by surprise, and nothing is outside His control (see chapter 1). On the other hand, in this chapter we have seen that human beings, even in their fallen state, have the God-given power of free choice. &mdash; Chosen but free.
+
+> **Moderate Calvinists like myself** are willing to affirm that God can be as persuasive as He desires to be, short of coercion. In theological terms, this means God can use irresistible grace on the willing. &mdash; Chosen but free.
+
+> **Unconditional election is also held by moderate Calvinists.** It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. &mdash; Chosen but free.
+
+> **Moderate Calvinists, such as I am**, differ with Arminians on many points. One crucial point has to do with whether or not “once saved, always saved” is accurate. That is, whether or not it is possible to lose one’s salvation. It is my conviction that the Bible favors the Calvinist’s position of eternal security—that a truly saved person can never lose his/her salvation. &mdash; Chosen but free.
+
+> In spite of the fact that The Potter’s Freedom (hereafter PF) is **a sharp critique of my moderate Calvinism**, strangely enough, I found myself agreeing with much of what it says.
+>
+>> All in all, The Potter’s Freedom is a good critique. But unfortunately, it is not a critique of my view. It often misunderstands, misrepresents, and mischaracterizes the moderate Calvinistic presentation of Chosen But Free. PF is permeated with logical fallacies and reveals an inadequate comprehension of the unjustified theological and philosophical underpinnings of extreme Calvinism. By distorting the obvious, caricaturizing the opposing, and sidestepping the dif icult, PF futilely attempts to make the implausible sound plausible and the unbiblical seem biblical.
+>
+&mdash; Chosen but free.
+
 
 <a name="conditional" href="#contents" style="font-size:2.1em;">2. Conditional Election</a>
 
@@ -769,7 +830,7 @@ Charles G. Finney (d. 1875), the Congregationalist pastor and evangelist, held t
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 99-104.
 
-<a name="oden" href="#contents" style="font-size:1.2em;">2.1.1 Thomas C. Oden</a>
+<a name="oden" href="#contents" style="font-size:1.2em;">2.1.1 Thomas C. Oden (PhD, University of Yale)</a>
 
 See Chuck Smith below for now.
 
