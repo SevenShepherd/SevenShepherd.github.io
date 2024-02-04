@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 03:55:00 -0500
-categories: election
+date: 2024-02-01 04:10:00 -0500
+categories: election predestination
 published: true
 ---
 
-This is a compilation of quotations about the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. To those of you who like to argue and bicker, I hope, that by the end of this article, you will begin to realize that you are not omniscient, far from it. God clearly does choose.
+This is a compilation of quotations about the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. 
+
+<!-- To those of you who like to argue and bicker, I hope, that by the end of this article, you will begin to realize that you are not omniscient, far from it. God clearly does choose. -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -15,6 +17,7 @@ This is a compilation of quotations about the doctrine of election from the most
         - 1.1.1 <a href="#packer">Dr. J.I. Packer (Oxford)</a>
         - 1.1.2 <a href="#demarest">Dr. Bruce Demarest (Manchester)</a>
         - 1.1.3 <a href="#grudem">Dr. Wayne Grudem (Cambridge)</a>
+        - 1.1.4 <a href="#carson">Dr. D.A. Carson (Cambridge)</a>
     - 1.2 <a href="#mod-reformed-compat">Compatibilism</a>
         - 1.2.1 <a href="#martin">Dr. Walter Martin (CCU)</a>
         - 1.2.2 <a href="#rhodes">Dr. Ron Rhodes (Dallas)</a>
@@ -25,6 +28,7 @@ This is a compilation of quotations about the doctrine of election from the most
     - 2.2 <a href="#mod-arm-compat">Compatibilism</a>
         - 2.2.1 <a href="#smith">Chuck Smith</a>
         - 2.2.2 <a href="#missler">Chuck Missler</a>
+        - 2.2.3 <a href="#lennox">Dr. John C. Lennox ("Oxbridge")</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
         - 2.3.1 <a href="#wlc">Dr. William Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
@@ -645,6 +649,11 @@ In John’s vision in Revelation, those who do not give in to persecution and be
 >
 &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), Systematic Theology, Chapter 32: Election and Reprobation.
 
+<a name="carson" href="#contents" style="font-size:1.2em;">1.1.4 Dr. D.A. Carson (PhD, University of Cambridge)</a>
+
+Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>.
+
+
 <a name="mod-reformed-compat" href="#contents" style="font-size:1.6em;">1.2 Moderate Reformed Compatibilism</a>
 
 Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
@@ -888,6 +897,24 @@ Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believ
 > **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
 >
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
+
+<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.3 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+
+> Commenting on John 6:44 (*No-one can come to me unless the Father who sent me draws him, and I will raise him up at the last day*), Carson writes:
+>
+>> Yet despite the strong predestinarian strain, it must be insisted with no less vigour that John emphasizes the responsibility of people to come to Jesus, and can excoriate them for refusing to do so (e.g. 5:40).<sup>78</sup>
+>
+**Carson’s view is that “John is quite happy with the position that modern philosophy calls ‘compatibilism’ ”**.<sup>79</sup>
+>
+**If what Carson means is that that John believes in both God’s sovereignty and human responsibility, and that both must be held equally firmly, however paradoxical the resulting tension may appear to us, then that would be fine.** However, the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism.<sup>80</sup>
+>
+Of course, what is meant by “each side in the discussion”, or which version of which side is compatible with the other, is another matter! A further illustration of holding the views in tension is given by the seventeenth-century Westminster Confession of Faith (Section 3):
+>
+>> God from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass; yet so as thereby neither is God the author of sin; nor is violence offered to the will of creatures; nor is the liberty or contingency of second causes taken away, but rather established.
+>
+The second clause raises immediate questions as to what is really meant by the first. However, this statement has the considerable merit of clearly acknowledging that Scripture teaches both God’s sovereignty and human responsibility, in which case all interpretations that press one side to the exclusion of the other must be incorrect, for the simple reason that Scripture itself does not allow one side to override the other ...
+>
+&mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() pp. 101-102.
 
 <a name="molinism" href="#contents" style="font-size:1.6em;">2.3 Molinism "Middle Knowledge"</a>
 
