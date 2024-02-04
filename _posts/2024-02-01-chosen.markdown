@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 03:15:00 -0500
+date: 2024-02-01 03:25:00 -0500
 categories: election
 published: true
 ---
@@ -18,7 +18,7 @@ This is a compilation of quotations about the doctrine of election from the most
     - 1.2 <a href="#mod-reformed-compat">Compatibilism</a>
         - 1.2.1 <a href="#martin">Dr. Walter Martin (CCU)</a>
         - 1.2.2 <a href="#rhodes">Dr. Ron Rhodes (Dallas)</a>
-        - 1.2.3 <a href="#geisler">Dr. Norman Geisler (Loyola))</a>
+        - 1.2.3 <a href="#geisler">Dr. Norman Geisler (Loyola)</a>
 2. <a href="#conditional">**Conditional Election**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Dr. Thomas C. Oden (Yale)</a>
@@ -649,11 +649,24 @@ In John’s vision in Revelation, those who do not give in to persecution and be
 
 Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead.
 
-<a name="martin" href="#contents" style="font-size:1.2em;">1.2.1 Dr. Walter Martin</a>
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.1 Dr. Walter Martin (PhD, University of California Coast)</a>
 
 Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/uuUKE5resPs?si=OSux3CpIRvIRnk61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Pro single predestination. anti double predestination. anti arminianism and wesleyan foreknowledge.
+
+> [@2:37](https://youtu.be/uuUKE5resPs?si=jQ4AtZMyP1R4Mya2&t=157) ... **you didn't get there because you chose** the goodness of God rather than the corruption of your sin you didn't get there because God jiggles your Willer and all of a sudden you decided that it was better to be saved and lost **you didn't walk into the hand of God by your own volition you are drawn there by the power of Jesus Christ** in John chapter 6 he said you have not chosen me I have chosen you **he tells us specifically that we are here for the purpose of bringing forth fruit** we are his children and we have been selected by him by Christ before time began... &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=jQ4AtZMyP1R4Mya2&t=157)
+
+--
+
+> [@7:06](https://youtu.be/uuUKE5resPs?si=OqABJ16pUf8UIi46&t=426) ... **Calvin was wrong when he said God predestined them to hell** and James **Arminius was wrong when he said you will your way to heaven,**
+**you don't** some people say that if God had foreknowledge he looked down the corridors of the century and he saw who was going to believe and the ones that were going to believe he predestined and chose and they smiled benignly and tell you they have solved the problem of predestination **no they haven't** they've only complicated the problem of predestination... &mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=OqABJ16pUf8UIi46&t=426)
+
+--
+
+> [@20:25](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) ... head of Christ and that no flesh should be able to glory in its own sight but whoever makes an appearance before the throne of the Lord his glory will be in the lord of hosts now some may say that's the sovereignty of God hallelujah **but what about my free will well if not as free as you think it is you are free to make choices but you are not free to enforce all of them** ... there is freedom but it's quite limited. In lots of respects, you have not chosen me I've chosen you means that God had the last word ...&mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225)
 
 <a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
@@ -661,21 +674,35 @@ This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also use
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/sRVylnxpOgo?si=Gy93CzoAp0UbL-gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+> My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), [The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement).
+
 <a name="geisler" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
 
 > **Sovereignty and free will. Is it one or the other, or is it both one and the other? The Bible says both.** In the first chapter we saw that God is sovereign over all things, including human events and free choices. Nothing catches God by surprise, and nothing is outside His control (see chapter 1). On the other hand, in this chapter we have seen that human beings, even in their fallen state, have the God-given power of free choice. &mdash; Chosen but free.
 
+--
+
 > **Moderate Calvinists like myself** are willing to affirm that God can be as persuasive as He desires to be, short of coercion. In theological terms, this means God can use irresistible grace on the willing. &mdash; Chosen but free.
+
+--
 
 > **Unconditional election is also held by moderate Calvinists.** It is unconditional from the standpoint of the Giver, even though there is one condition for the receiver—faith. &mdash; Chosen but free.
 
+--
+
 > **Moderate Calvinists, such as I am**, differ with Arminians on many points. One crucial point has to do with whether or not “once saved, always saved” is accurate. That is, whether or not it is possible to lose one’s salvation. It is my conviction that the Bible favors the Calvinist’s position of eternal security—that a truly saved person can never lose his/her salvation. &mdash; Chosen but free.
+
+--
 
 > In spite of the fact that The Potter’s Freedom (hereafter PF) is **a sharp critique of my moderate Calvinism**, strangely enough, I found myself agreeing with much of what it says.
 >
 >> All in all, The Potter’s Freedom is a good critique. But unfortunately, it is not a critique of my view. It often misunderstands, misrepresents, and mischaracterizes the moderate Calvinistic presentation of Chosen But Free. PF is permeated with logical fallacies and reveals an inadequate comprehension of the unjustified theological and philosophical underpinnings of extreme Calvinism. By distorting the obvious, caricaturizing the opposing, and sidestepping the dif icult, PF futilely attempts to make the implausible sound plausible and the unbiblical seem biblical.
 >
 &mdash; Chosen but free.
+
+--
+
+> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” **This confirms moderate Calvinism**’s view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
 
 <a name="conditional" href="#contents" style="font-size:2.1em;">2. Conditional Election</a>
