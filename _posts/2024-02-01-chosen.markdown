@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 06:10:00 -0500
+date: 2024-02-01 06:15:00 -0500
 categories: election predestination
 published: true
 ---
@@ -22,9 +22,10 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 1.1.4 <a href="#bird">Dr. Bird (Queensland)</a>
     - 1.2 <a href="#mod-reformed-compat">**Compatibilism (Both)**</a>
         - 1.2.1 <a href="#carson">Dr. Carson (Cambridge)</a>
-        - 1.2.2 <a href="#martin">Dr. Martin (CCU)</a>
-        - 1.2.3 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
-        - 1.2.4 <a href="#geisler">Dr. Geisler (Loyola)</a>
+        - 1.2.2 <a href="#ross">Dr. Ross (Toronto)</a>
+        - 1.2.3 <a href="#martin">Dr. Martin (CCU)</a>
+        - 1.2.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
+        - 1.2.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">**Conditional Election (Foreknowledge)**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Dr. Oden (Yale)</a>
@@ -673,7 +674,17 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>. See <a href="#wlc">Craig</a> also.
 
-<a name="martin" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Walter Martin (PhD, University of California Coast)</a>
+<a name="ross" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)</a>
+
+> Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?
+>
+My Answer: These three models are each broad in their doctrinal beliefs. However, all Calvinists believe in the supremacy of God’s will over human will and that God has predetermined everything that will happen in the future. In particular, Calvinists believe that every human God chooses to receive salvation indeed will receive salvation and that only humans that God has called to be saved will be saved. All Arminianists believe that all humans possess free will and that the free will of humans is the deciding factor on who will be saved. In particular, only humans who choose to be saved will be saved. Traditionalists tire of the acrimony and debate that has existed between Calvinists and Arminianists. They call for unity through a focus on the doctrines that both Calvinists and Arminianists uphold. Both Calvinists and Arminianists counter that what divides them are critically important doctrines for the Christian faith. 
+>
+I wrote an entire book addressing the posed question: Beyond the Cosmos, now in its third edition. Anyone can get a free chapter at [reasons.org/ross](https://reasons.org/connect-to-a-scholar/ross). In that book I explain why each of Calvinism, Arminianism, and Traditionalism are inadequate by themselves to address all that the Bible teaches on sotierology and our relationship with Christ. I point out, for example, that **the Bible teaches that both divine predetermination and human free will simultaneously operate.** I explain why there is no possible resolution of this paradox within the spacetime dimemsions of the universe. However, the Bible teaches and the spacetime theorems prove that God created the cosmic spacetime dimensions and in no way is limited by them. **I show three different ways how the paradox of divine predetermination and human free will can be resolved in the extra- and trans-dimensional context of God.** I also show how several other biblical paradoxes can be resolved from God’s extra-/trans-dimensional perspective.
+>
+&mdash; [Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)](https://m.facebook.com/RTBHughRoss/posts/3266294876781927/)
+
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Walter Martin (PhD, University of California Coast)</a>
 
 <!-- Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism. -->
 
@@ -692,7 +703,7 @@ Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>.
 
 > [@20:25](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) ... head of Christ and that no flesh should be able to glory in its own sight but whoever makes an appearance before the throne of the Lord his glory will be in the lord of hosts now some may say that's the sovereignty of God hallelujah **but what about my free will, well it's not as free as you think it is, you are free to make choices but you are not free to enforce all of them** ... there is freedom but it's quite limited. In lots of respects, you have not chosen me I've chosen you means that God had the last word ...&mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225)
 
-<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
+<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
 <!-- This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point Calvinism). -->
 
@@ -708,7 +719,7 @@ Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>.
 
 > [@2:58](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178) ... Arminians will come in and say that God's predetermination or election is based on his foreknowledge in other words God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** ... &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178)
 
-<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
+<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.5 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
 
 > **Sovereignty and free will. Is it one or the other, or is it both one and the other? The Bible says both.** In the first chapter we saw that God is sovereign over all things, including human events and free choices. Nothing catches God by surprise, and nothing is outside His control (see chapter 1). On the other hand, in this chapter we have seen that human beings, even in their fallen state, have the God-given power of free choice. &mdash; Chosen but free.
 
