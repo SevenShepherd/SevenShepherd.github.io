@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 06:15:00 -0500
+date: 2024-02-01 06:25:00 -0500
 categories: election predestination
 published: true
 ---
@@ -21,11 +21,13 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 1.1.3 <a href="#grudem">Dr. Grudem (Cambridge)</a>
         - 1.1.4 <a href="#bird">Dr. Bird (Queensland)</a>
     - 1.2 <a href="#mod-reformed-compat">**Compatibilism (Both)**</a>
-        - 1.2.1 <a href="#carson">Dr. Carson (Cambridge)</a>
-        - 1.2.2 <a href="#ross">Dr. Ross (Toronto)</a>
-        - 1.2.3 <a href="#martin">Dr. Martin (CCU)</a>
-        - 1.2.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
-        - 1.2.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
+        - **They Have An Answer**
+            - 1.2.1 <a href="#carson">Dr. Carson (Cambridge)</a>
+            - 1.2.2 <a href="#ross">Dr. Ross (Toronto)</a>
+        - They Can't Explain How
+            - 1.2.3 <a href="#martin">Dr. Martin (CCU)</a>
+            - 1.2.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
+            - 1.2.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">**Conditional Election (Foreknowledge)**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Dr. Oden (Yale)</a>
