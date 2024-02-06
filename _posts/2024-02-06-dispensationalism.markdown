@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-06 01:00:00 -0500
+date: 2024-02-06 01:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
-Dispensationalism is probably one of the best eschatological systems we have, but despite this, here is a small critique. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by Dr. Walter Martin.
+Dispensationalism is probably one of the best eschatological systems we have, but despite this, here is a small critique. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
 
 # 🔥 Dispensational Theology Was Developed From The Vision Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.
 
@@ -18,7 +18,7 @@ Dispensationalism is probably one of the best eschatological systems we have, bu
 
 The first 1:20 seconds of this video will floor you if you understand the gravity of what is being said.
 
-> so what I elected to do this evening is something very simple how many have your Bibles good what I'd like to do is to tell you first off that the position I am going to set forth tonight is not new as number one secondly the position I will set forth tonight was believed by the Christian Church for 19 centuries the Church Fathers the Reformers every great theologian in the entire history of the church up until the last 140 years believed that we would see the Anti Christ that we would be persecuted by him and that we would be delivered from him by the second coming of Jesus Christ you will find this in Catholic theology you will find that in Orthodox theology you will find it in all of the reformers and **you will not find the idea that we are going to escape the Antichrist until approximately a hundred and forty years ago when a 15 year old girl had a revelation and that revelation was picked up by J. N. Darby the founder of the Plymouth Brethren and developed into a form of theology known as dispensational theology** the church for 19 centuries. &mdash; Dr. Walter Martin (Ph.D., California Coast University).
+> so what I elected to do this evening is something very simple how many have your Bibles good what I'd like to do is to tell you first off that the position I am going to set forth tonight is not new as number one secondly the position I will set forth tonight was believed by the Christian Church for 19 centuries the Church Fathers the Reformers every great theologian in the entire history of the church up until the last 140 years believed that we would see the Anti Christ that we would be persecuted by him and that we would be delivered from him by the second coming of Jesus Christ you will find this in Catholic theology you will find that in Orthodox theology you will find it in all of the reformers and **you will not find the idea that we are going to escape the Antichrist until approximately a hundred and forty years ago when a 15 year old girl had a revelation and that revelation was picked up by J. N. Darby the founder of the Plymouth Brethren and developed into a form of theology known as dispensational theology** the church for 19 centuries. &mdash; [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
 
 # 💭 Charles Ryrie Made Things Up To Make Dispensationalism Work
 
