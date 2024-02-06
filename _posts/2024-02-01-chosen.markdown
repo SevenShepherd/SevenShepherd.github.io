@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 05:05:00 -0500
+date: 2024-02-01 05:15:00 -0500
 categories: election predestination
 published: true
 ---
@@ -1343,7 +1343,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/sg58iXqJRco?si=82r34cYewJ29lob6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a name="craig-against-hyper" href="#contents" style="font-size:1.2em;">4.1.6 Dr. William Lane Craig Against Double-Predestination</a>
+<a name="craig-against-hyper" href="#contents" style="font-size:1.2em;">4.1.7 Dr. William Lane Craig Against Double-Predestination</a>
 
 > **3\.** ***Universal, divine, determinism makes God the author of sin and precludes human responsibility.*** In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us.
 >
