@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 06:05:00 -0500
+date: 2024-02-01 06:10:00 -0500
 categories: election predestination
 published: true
 ---
 
-This is a compilation of quotations and excerpts pertaining to the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. God's absolute sovereignty must be preserved, free will or not. I've made bold acceptable options.
+This is a compilation of quotations and excerpts pertaining to the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. God's absolute sovereignty must be preserved, free will or not. I've made bold acceptable stances, red is unacceptable.
 
 <!-- I will state, that I would not accept a view that did not preserve God's absolute sovereignty, free will or not. -->
 
@@ -36,8 +36,8 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 2.3.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
     - 3.1 <a href="#contemporary">Contemporary Arminians</a>
-4. <a href="#double">Double Unconditional Predestination</a>
-    - 4.1 <a href="#hyper">High Calvinists (Hyper)</a>
+4. <a href="#double" style="color:darkred;">Double Unconditional Predestination</a>
+    - 4.1 <a href="#hyper" style="color:darkred;">High Calvinists (Hyper)</a>
         - 4.1.1 <a href="#demarest-against-hyper">Demarest **Against** Double</a>
         - 4.1.2 <a href="#lennox-against-hyper">Lennox **Against** Double</a>
         - 4.1.3 <a href="#sproul-against-hyper">Sproul **Against** Double</a>
