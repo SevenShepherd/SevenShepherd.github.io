@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 05:35:00 -0500
+date: 2024-02-01 05:45:00 -0500
 categories: election predestination
 published: true
 ---
 
-This is a compilation of quotations about the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. I will state, that I would not accept a view that did not preserve God's absolute sovereignty, free will or not.
+This is a compilation of quotations and excerpts pertaining to the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election. I will state, that I would not accept a view that did not preserve God's absolute sovereignty, free will or not.
 
 <!-- To those of you who like to argue and bicker, I hope, that by the end of this article, you will begin to realize that you are not omniscient, far from it. God clearly does choose. -->
 
@@ -17,19 +17,19 @@ This is a compilation of quotations about the doctrine of election from the most
         - 1.1.1 <a href="#packer">Dr. Packer (Oxford)</a>
         - 1.1.2 <a href="#demarest">Dr. Demarest (Manchester)</a>
         - 1.1.3 <a href="#grudem">Dr. Grudem (Cambridge)</a>
-        - 1.1.4 <a href="#carson">Dr. Carson (Cambridge)</a>
-        - 1.1.5 <a href="#bird">Dr. Bird (Queensland)</a>
+        - 1.1.4 <a href="#bird">Dr. Bird (Queensland)</a>
     - 1.2 <a href="#mod-reformed-compat">Compatibilism</a>
-        - 1.2.1 <a href="#martin">Dr. Martin (CCU)</a>
-        - 1.2.2 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
-        - 1.2.3 <a href="#geisler">Dr. Geisler (Loyola)</a>
+        - 1.2.1 <a href="#carson">Dr. Carson (Cambridge)</a>
+        - 1.2.2 <a href="#martin">Dr. Martin (CCU)</a>
+        - 1.2.3 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
+        - 1.2.4 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">**Conditional Election**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Dr. Oden (Yale)</a>
     - 2.2 <a href="#mod-arm-compat">Compatibilism</a>
-        - 2.2.1 <a href="#smith">Chuck Smith</a>
-        - 2.2.2 <a href="#missler">Chuck Missler</a>
-        - 2.2.3 <a href="#lennox">Dr. Lennox ("Oxbridge")</a>
+        - 2.2.1 <a href="#lennox">Dr. Lennox ("Oxbridge")</a>
+        - 2.2.2 <a href="#smith">Chuck Smith</a>
+        - 2.2.3 <a href="#missler">Chuck Missler</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
         - 2.3.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
@@ -651,11 +651,7 @@ In John’s vision in Revelation, those who do not give in to persecution and be
 >
 &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), Systematic Theology, Chapter 32: Election and Reprobation.
 
-<a name="carson" href="#contents" style="font-size:1.2em;">1.1.4 Dr. D.A. Carson (PhD, University of Cambridge)</a>
-
-Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>. See <a href="#wlc">Craig</a> also.
-
-<a name="bird" href="#contents" style="font-size:1.2em;">1.1.5 Dr. Michael F. Bird (PhD, University of Queensland)</a>
+<a name="bird" href="#contents" style="font-size:1.2em;">1.1.4 Dr. Michael F. Bird (PhD, University of Queensland)</a>
 
 > I submit that divine foreknowledge is determined by predestination rather than vice versa. God foreknows those who will be saved because he has predestined them to salvation &mdash; Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology. 2nd ed. pp. 568-9.
 
@@ -671,7 +667,11 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 <!-- > ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) -->
 
-<a name="martin" href="#contents" style="font-size:1.2em;">1.2.1 Dr. Walter Martin (PhD, University of California Coast)</a>
+<a name="carson" href="#contents" style="font-size:1.2em;">1.2.1 Dr. D.A. Carson (PhD, University of Cambridge)</a>
+
+Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>. See <a href="#wlc">Craig</a> also.
+
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Walter Martin (PhD, University of California Coast)</a>
 
 <!-- Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism. -->
 
@@ -690,7 +690,7 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 > [@20:25](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225) ... head of Christ and that no flesh should be able to glory in its own sight but whoever makes an appearance before the throne of the Lord his glory will be in the lord of hosts now some may say that's the sovereignty of God hallelujah **but what about my free will, well it's not as free as you think it is, you are free to make choices but you are not free to enforce all of them** ... there is freedom but it's quite limited. In lots of respects, you have not chosen me I've chosen you means that God had the last word ...&mdash; [Dr. Walter Martin (PhD, University of California Coast)](https://youtu.be/uuUKE5resPs?si=h3FO_qxcKIjM7uF7&t=1225)
 
-<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.2 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
+<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
 <!-- This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point Calvinism). -->
 
@@ -706,7 +706,7 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 > [@2:58](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178) ... Arminians will come in and say that God's predetermination or election is based on his foreknowledge in other words God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** ... &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178)
 
-<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.3 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
+<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.4 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
 
 > **Sovereignty and free will. Is it one or the other, or is it both one and the other? The Bible says both.** In the first chapter we saw that God is sovereign over all things, including human events and free choices. Nothing catches God by surprise, and nothing is outside His control (see chapter 1). On the other hand, in this chapter we have seen that human beings, even in their fallen state, have the God-given power of free choice. &mdash; Chosen but free.
 
@@ -903,19 +903,7 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
-<a name="smith" href="#contents" style="font-size:1.2em;">2.2.1 Chuck Smith</a>
-
-> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
->
-&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
-
-<a name="missler" href="#contents" style="font-size:1.2em;">2.2.2 Chuck Missler</a>
-
-> **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
->
-&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
-
-<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.3 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
 > Commenting on John 6:44 (*No-one can come to me unless the Father who sent me draws him, and I will raise him up at the last day*), Carson writes:
 >
@@ -932,6 +920,18 @@ Of course, what is meant by “each side in the discussion”, or which version 
 The second clause raises immediate questions as to what is really meant by the first. However, this statement has the considerable merit of clearly acknowledging that Scripture teaches both God’s sovereignty and human responsibility, in which case all interpretations that press one side to the exclusion of the other must be incorrect, for the simple reason that Scripture itself does not allow one side to override the other ...
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() pp. 101-102.
+
+<a name="smith" href="#contents" style="font-size:1.2em;">2.2.2 Chuck Smith</a>
+
+> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+>
+&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+
+<a name="missler" href="#contents" style="font-size:1.2em;">2.2.3 Chuck Missler</a>
+
+> **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
+>
+&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
 
 <a name="molinism" href="#contents" style="font-size:1.6em;">2.3 Molinism "Middle Knowledge"</a>
 
