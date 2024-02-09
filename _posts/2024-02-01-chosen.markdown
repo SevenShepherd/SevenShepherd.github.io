@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 07:35:00 -0500
+date: 2024-02-01 07:45:00 -0500
 categories: election predestination
 published: true
 ---
@@ -36,10 +36,11 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#oden">Dr. Oden (Yale)</a>
     - 2.2 <a href="#mod-arm-compat">**Compatibilism (Sovereign)**</a>
-        - 2.2.1 <a href="#lennox" style="font-weight:bold;color:purple;">Dr. Lennox ("Oxbridge")</a>
-        - 2.2.2 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
-        - 2.2.3 <a href="#smith">**Chuck Smith**</a>
-        - 2.2.4 <a href="#missler">Chuck Missler</a>
+        - 2.2.1 <a href="#polkinghorne" style="font-weight:bold;color:purple;">Dr. Polkinghorne (Cambridge)</a>
+        - 2.2.2 <a href="#lennox" style="font-weight:bold;color:purple;">Dr. Lennox ("Oxbridge")</a>
+        - 2.2.3 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
+        - 2.2.4 <a href="#smith">**Chuck Smith**</a>
+        - 2.2.5 <a href="#missler">Chuck Missler</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
         - 2.3.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
@@ -925,7 +926,54 @@ I describe this group as compatibilists in a philosophically non-traditional way
 
 <!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
 
-<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+<a name="polkinghorne" href="#contents" style="font-size:1.2em;">2.2.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
+
+Polkinhorne was <a href="#lennox">Lennox's</a> science teacher.
+
+> Dreadful as the resulting sufferings are, their immediate source is clear. They result from the exercise of human will. Men and women are directly responsible for them. That responsibility may be diffused, for we are all subject to the pressures of society and of our upbringings, but it is primarily located in humanity. **The classic answer to the allowed existence of moral evil is the free-will defense**— the claim that it is better for God to have created a world of freely choosing beings, with the possibility of their voluntary response to him and to each other, as well as the possibility of sinful selfishness, than to have created a world of blindly obedient automata. &mdash; Science and providence. p. 76.
+
+--
+
+> We now understand that even at those macroscopic levels where classical physics gives an adequate account, there is an openness to the future which relaxes the unrelenting grip of mechanical determinism. The universe may not look like an organism, but it looks even less like a machine &mdash; Science and providence. p. 37.
+
+--
+
+> Inability to predict might be due either to ignorance of hidden causal detail of a conventional kind, or it might be the sign of a true openness to the operation of new forms of causal principle. It is a matter for metaphysical decision which of these alternatives is to be chosen, a point made clearly enough by the existence of both an indeterministic interpretation (Niels Bohr) and a deterministic interpretation (David Bohm) of quantum theory, each having the same empirical adequacy in relation to experimental results, so that physics by itself cannot settle the issue between them. &mdash; Science and providence. p. xi.
+
+--
+
+> I think, from an undue bewitchment by the Newtonian equations from which chaos theory originally sprang. Of course, as they stand, these equations are deterministic in their character, but we know that they are only approximations to reality, since Newtonian thinking is not adequate at the scale of atomic phenomena. Dismissive talk of ‘deterministic chaos’ is, therefore, a highly challengeable metaphysical decision, rather than an established conclusion of physics. It might be thought that understanding could be advanced by a fusion of quantum theory and chaos theory, since the behavior of chaotic systems soon comes ostensibly to depend upon fine detail at a level of accuracy that is rendered inaccessible by Heisenberg’s uncertainty principle. &mdash; Science and providence. p. xii.
+
+--
+
+> Time does not elapse; the world line is not traversed. It is simply
+there. Spacetime diagrams are great chunks of frozen history. Not
+only can God take an atemporal view of such a universe; it is really the
+only right perspective from which to consider it. Just before his death
+Einstein wrote the astonishing words: “For us convinced physicists,
+the distinction between past, present and future is an illusion, though
+a persistent one.”
+>
+Such talk is only possible in a totally deterministic universe, where
+Laplace’s calculator can retrodict the past and predict the future from
+the dynamic circumstances of the present, so that effectively the distinction between past, present and future is abolished. There is simply
+a given spacetime pattern. That world is a world of being, but it is not
+a world of becoming. Nothing essentially new can ever happen within
+it. That world is certainly not the world of human experience, where
+the past is closed and the future is open. Nor is it the world described
+by modern science. 
+>
+...
+>
+In his attitude, Einstein was the last of the great ancients rather than the first of the great moderns. It is notorious that he rejected the radical indeterminism of probabilistic quantum theory. He could not stomach a God who played dice.
+>
+...
+>
+Thus quantum theory does not encourage the view that the flux of time is an illusion. Successive acts of measurement bring about genuinely new states of the system.
+>
+&mdash; Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College), Science and providence. pp. 89-90.
+
+<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.2 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
 > Commenting on John 6:44 (*No-one can come to me unless the Father who sent me draws him, and I will raise him up at the last day*), Carson writes:
 >
@@ -955,7 +1003,7 @@ The very first quote under “foreknowledge” (which is the same as the second 
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
 
-<a name="heiser" href="#contents" style="font-size:1.2em;">2.2.2 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
+<a name="heiser" href="#contents" style="font-size:1.2em;">2.2.3 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
 
 <!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/BoDcfYFO-rw?si=MS9LEv-ImnpZ2hzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
@@ -965,13 +1013,13 @@ This video of Heiser's is on his death bed. It's unclear what kind of compatibil
 
 > [@0:48](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48) ... the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48)
 
-<a name="smith" href="#contents" style="font-size:1.2em;">2.2.3 Chuck Smith</a>
+<a name="smith" href="#contents" style="font-size:1.2em;">2.2.4 Chuck Smith</a>
 
 > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 
-<a name="missler" href="#contents" style="font-size:1.2em;">2.2.4 Chuck Missler</a>
+<a name="missler" href="#contents" style="font-size:1.2em;">2.2.5 Chuck Missler</a>
 
 > **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
 >
