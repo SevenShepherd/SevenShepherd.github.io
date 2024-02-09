@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you... No one born of God makes a practice of sinning.” — Apostle John"
-date: 2023-11-05 04:05:00 -0500
+date: 2023-11-05 04:15:00 -0500
 categories: sin practice
 published: true
 ---
@@ -161,7 +161,9 @@ When the academic community, the exegetes, the textual critics, the research pro
 
 - <a name="polkinghorne" href="#contents" style="font-size:1.4em;">4.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
 
-    See <a href="#lennox">Lennox</a>
+    Polkinghorne was <a href="#lennox">Lennox's</a> science teacher.
+
+    > ... Repentance can avert his judgment and apostasy incur it. &mdash; Science and providence. p. 91.
 
 - <a name="lennox" href="#contents" style="font-size:1.4em;">4.2 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
