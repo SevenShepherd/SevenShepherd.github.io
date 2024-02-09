@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 07:15:00 -0500
+date: 2024-02-01 07:25:00 -0500
 categories: election predestination
 published: true
 ---
@@ -942,6 +942,18 @@ Of course, what is meant by “each side in the discussion”, or which version 
 The second clause raises immediate questions as to what is really meant by the first. However, this statement has the considerable merit of clearly acknowledging that Scripture teaches both God’s sovereignty and human responsibility, in which case all interpretations that press one side to the exclusion of the other must be incorrect, for the simple reason that Scripture itself does not allow one side to override the other ...
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() pp. 101-102.
+
+Lennox & <a href="#heiser">Heiser</a> agree that foreknowledge is not causative, or as heiser puts it <a href="https://youtu.be/kwyZxAtTHfc?si=OLkco2ZFu6gION7s">&ldquo;foreknowledge, does not necessitate predestination.&rdquo;</a>
+
+> 23 this man, who was **handed over by the predetermined plan and foreknowledge of God**, you executed by nailing him to a cross at the hands of Gentiles. &mdash; Acts 2:23 NET
+
+> Is God’s foreknowledge causative – i.e. **does the fact that God knows that something will happen cause it to happen**, and therefore relieve any participant from responsibility? **Surely the answer is: not necessarily**; if for no other reason than the fact that the Bible itself does not regard God’s foreknowledge or predestination as diminishing human responsibility.
+>
+The very first quote under “foreknowledge” (which is the same as the second quote under “predestination”) says that **Christ’s crucifixion was both foreknown and predestined**, but that the men involved in it were wicked and therefore **morally responsible**. One could add to this that the death of Christ was actually predicted in Scripture centuries before it happened. However, **Scripture itself tells us that this fact does not diminish the culpability of those involved** in crucifying the Lord.
+>
+... Of course on the human level foreknowledge – knowing something in advance – is not necessarily causative. ...
+>
+&mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
 
 <a name="heiser" href="#contents" style="font-size:1.2em;">2.2.2 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
 
