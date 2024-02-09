@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 07:45:00 -0500
+date: 2024-02-01 08:00:00 -0500
 categories: election predestination
 published: true
 ---
@@ -34,13 +34,13 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
                 - 1.1.5.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">**Conditional Election (Foreknowledge)**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
-        - 2.1.1 <a href="#oden">Dr. Oden (Yale)</a>
+        - 2.1.1 <a href="#polkinghorne" style="font-weight:bold;color:purple;">Dr. Polkinghorne (Cambridge)</a>
+        - 2.1.2 <a href="#oden">Dr. Oden (Yale)</a>
     - 2.2 <a href="#mod-arm-compat">**Compatibilism (Sovereign)**</a>
-        - 2.2.1 <a href="#polkinghorne" style="font-weight:bold;color:purple;">Dr. Polkinghorne (Cambridge)</a>
-        - 2.2.2 <a href="#lennox" style="font-weight:bold;color:purple;">Dr. Lennox ("Oxbridge")</a>
-        - 2.2.3 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
-        - 2.2.4 <a href="#smith">**Chuck Smith**</a>
-        - 2.2.5 <a href="#missler">Chuck Missler</a>
+        - 2.2.1 <a href="#lennox" style="font-weight:bold;color:purple;">Dr. Lennox ("Oxbridge")</a>
+        - 2.2.2 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
+        - 2.2.3 <a href="#smith">**Chuck Smith**</a>
+        - 2.2.4 <a href="#missler">Chuck Missler</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
         - 2.3.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
@@ -908,27 +908,9 @@ Charles G. Finney (d. 1875), the Congregationalist pastor and evangelist, held t
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 99-104.
 
-<a name="oden" href="#contents" style="font-size:1.2em;">2.1.1 Thomas C. Oden (PhD, University of Yale)</a>
+<a name="polkinghorne" href="#contents" style="font-size:1.2em;">2.1.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
 
-See Chuck Smith below for now.
-
-> Under construction
-
-<a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
-
-<!-- Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosphical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately arminian views in the sense that they view election as being based on foreknowledge of forseen faith. The determinism they are speaking of is always God's sovereignty. -->
-
-I describe this group as compatibilists in a philosophically non-traditional way. They do not believe in determinism, but they do believe that God is absolutely sovereign, while maintaining moderately arminian views in the sense that they view election as being based on foreknowledge of forseen faith.
-
-> ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, **one interprets sovereignty as determinism**. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
-
-<!-- Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense. -->
-
-<!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
-
-<a name="polkinghorne" href="#contents" style="font-size:1.2em;">2.2.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
-
-Polkinhorne was <a href="#lennox">Lennox's</a> science teacher.
+Polkinghorne was <a href="#lennox">Lennox's</a> science teacher. Since Polkinghorne attended the Church of England, which is Anglican, I'm going to conclude that if he's not compatibilist, then he's Classical Arminian. Since his student was Lennox, and Lennox, is ok with compatibilism, if sovereignty were interpreted as determinism, we could deduce that he falls into one of the Arminian sided groups. I think since, he was an Anglican priest, I'm going to go ahead and stick him in Classical Arminian.
 
 > Dreadful as the resulting sufferings are, their immediate source is clear. They result from the exercise of human will. Men and women are directly responsible for them. That responsibility may be diffused, for we are all subject to the pressures of society and of our upbringings, but it is primarily located in humanity. **The classic answer to the allowed existence of moral evil is the free-will defense**— the claim that it is better for God to have created a world of freely choosing beings, with the possibility of their voluntary response to him and to each other, as well as the possibility of sinful selfishness, than to have created a world of blindly obedient automata. &mdash; Science and providence. p. 76.
 
@@ -973,7 +955,25 @@ Thus quantum theory does not encourage the view that the flux of time is an illu
 >
 &mdash; Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College), Science and providence. pp. 89-90.
 
-<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.2 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+<a name="oden" href="#contents" style="font-size:1.2em;">2.1.2 Thomas C. Oden (PhD, University of Yale)</a>
+
+See Chuck Smith below for now.
+
+> Under construction
+
+<a name="mod-arm-compat" href="#contents" style="font-size:1.6em;">2.2 Moderate Arminian Compatibilism</a>
+
+<!-- Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosphical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately arminian views in the sense that they view election as being based on foreknowledge of forseen faith. The determinism they are speaking of is always God's sovereignty. -->
+
+I describe this group as compatibilists in a philosophically non-traditional way. They do not believe in determinism, but they do believe that God is absolutely sovereign, while maintaining moderately arminian views in the sense that they view election as being based on foreknowledge of forseen faith.
+
+> ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, **one interprets sovereignty as determinism**. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
+
+<!-- Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense. -->
+
+<!-- Moderate Arminians believe the same thing about election as classical Arminians do, except sometimes they hold to some reformed points like eternal security. I made this extra section, not because there is a difference in their beliefs on election, but because they should not be viewed strictly as Arminian. -->
+
+<a name="lennox" href="#contents" style="font-size:1.2em;">2.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
 
 > Commenting on John 6:44 (*No-one can come to me unless the Father who sent me draws him, and I will raise him up at the last day*), Carson writes:
 >
@@ -1003,7 +1003,7 @@ The very first quote under “foreknowledge” (which is the same as the second 
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
 
-<a name="heiser" href="#contents" style="font-size:1.2em;">2.2.3 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
+<a name="heiser" href="#contents" style="font-size:1.2em;">2.2.2 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
 
 <!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/BoDcfYFO-rw?si=MS9LEv-ImnpZ2hzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
@@ -1013,13 +1013,13 @@ This video of Heiser's is on his death bed. It's unclear what kind of compatibil
 
 > [@0:48](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48) ... the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48)
 
-<a name="smith" href="#contents" style="font-size:1.2em;">2.2.4 Chuck Smith</a>
+<a name="smith" href="#contents" style="font-size:1.2em;">2.2.3 Chuck Smith</a>
 
 > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 
-<a name="missler" href="#contents" style="font-size:1.2em;">2.2.5 Chuck Missler</a>
+<a name="missler" href="#contents" style="font-size:1.2em;">2.2.4 Chuck Missler</a>
 
 > **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
 >
