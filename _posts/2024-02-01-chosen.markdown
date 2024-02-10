@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 08:55:00 -0500
+date: 2024-02-01 09:00:00 -0500
 categories: election predestination
 published: true
 ---
@@ -18,7 +18,7 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#single">**Unconditional Single Election (Determinism)**</a>
+1. <a href="#single">**Unconditional Single Election (Foreordination)**</a>
     - 1.1 <a href="#moderate-reformed">Moderately Reformed</a>
         - 5-Point Scholastic Calvinist
             - 1.1.1 <a href="#packer">Dr. Packer (Oxford)</a>
