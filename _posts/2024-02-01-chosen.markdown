@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 08:00:00 -0500
+date: 2024-02-01 08:05:00 -0500
 categories: election predestination
 published: true
 ---
@@ -35,10 +35,10 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
 2. <a href="#conditional">**Conditional Election (Foreknowledge)**</a>
     - 2.1 <a href="#classical-arminian">Classical Arminians</a>
         - 2.1.1 <a href="#polkinghorne" style="font-weight:bold;color:purple;">Dr. Polkinghorne (Cambridge)</a>
-        - 2.1.2 <a href="#oden">Dr. Oden (Yale)</a>
+        - 2.1.2 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
+        - 2.1.3 <a href="#oden">Dr. Oden (Yale)</a>
     - 2.2 <a href="#mod-arm-compat">**Compatibilism (Sovereign)**</a>
         - 2.2.1 <a href="#lennox" style="font-weight:bold;color:purple;">Dr. Lennox ("Oxbridge")</a>
-        - 2.2.2 <a href="#heiser">Dr. Heiser (Wisconsin)</a>
         - 2.2.3 <a href="#smith">**Chuck Smith**</a>
         - 2.2.4 <a href="#missler">Chuck Missler</a>
     - 2.3 <a href="#molinism">Molinism "Middle Knowledge"</a>
@@ -955,7 +955,20 @@ Thus quantum theory does not encourage the view that the flux of time is an illu
 >
 &mdash; Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College), Science and providence. pp. 89-90.
 
-<a name="oden" href="#contents" style="font-size:1.2em;">2.1.2 Thomas C. Oden (PhD, University of Yale)</a>
+<a name="heiser" href="#contents" style="font-size:1.2em;">2.1.2 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
+
+<!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/BoDcfYFO-rw?si=MS9LEv-ImnpZ2hzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+<!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/njDBMW7tlFU?si=MA6oF6SUbClejVQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+Heiser has said multiple times that **we don't need systems**, just like Lennox, but Heisers distinctives include renouncing your faith and forfeiting your salvation, just like the Classical Arminians. He does state in his book, The Unseen Realm (p. 17), &ldquo;***If your background, like mine, is in the evangelical, noncharismatic branch of protestantism ...***&rdquo; His [website](https://drmsh.com/election-posts/) may reveal more nuances. He's similar to Lennox in his conclusions, that <a href="https://youtu.be/kwyZxAtTHfc?si=OLkco2ZFu6gION7s">&ldquo;foreknowledge, does not necessitate predestination.&rdquo;</a> But Lennox, unlike Heiser, believes in Perserverence of the saints and eternal security.
+
+<!-- This video of Heiser's is on his death bed. It's unclear what kind of compatibilist that [Heiser](https://www.youtube.com/@DRMSH) was, but h -->
+
+
+> [@0:48](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48) ... the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48)
+
+<a name="oden" href="#contents" style="font-size:1.2em;">2.1.3 Thomas C. Oden (PhD, University of Yale)</a>
 
 See Chuck Smith below for now.
 
@@ -1002,16 +1015,6 @@ The very first quote under “foreknowledge” (which is the same as the second 
 ... Of course on the human level foreknowledge – knowing something in advance – is not necessarily causative. ...
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*](). p. 109.
-
-<a name="heiser" href="#contents" style="font-size:1.2em;">2.2.2 Dr. Michael S. Heiser (PhD, University of Wisconsin-Madison)</a>
-
-<!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/BoDcfYFO-rw?si=MS9LEv-ImnpZ2hzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
-<iframe width="385" height="315" src="https://www.youtube.com/embed/njDBMW7tlFU?si=MA6oF6SUbClejVQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This video of Heiser's is on his death bed. It's unclear what kind of compatibilist that [Heiser](https://www.youtube.com/@DRMSH) was, but he does state in his book, The Unseen Realm (p. 17), &ldquo;If your background, like mine, is in the evangelical, noncharismatic branch of protestantism ...&rdquo; something that implies a reformed heritage. His [website](https://drmsh.com/election-posts/) may reveal more nuances. He's similar to Lennox in his conclusions, that <a href="https://youtu.be/kwyZxAtTHfc?si=OLkco2ZFu6gION7s">&ldquo;foreknowledge, does not necessitate predestination.&rdquo;</a>
-
-> [@0:48](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48) ... the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48)
 
 <a name="smith" href="#contents" style="font-size:1.2em;">2.2.3 Chuck Smith</a>
 
