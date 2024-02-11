@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "3️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-06 01:05:00 -0500
+date: 2024-02-06 01:15:00 -0500
 categories: dispensationalism
-published: true
+published: false
 ---
 
 <!-- “140 years ago, when a 15 year old girl had a revelation, and that revelation was picked up by J. N. Darby, the founder of the Plymouth Brethren, and developed into a form of theology known as dispensational theology” — Dr. Walter Martin... Now That Is Strange Fire." -->
 
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
-Dispensationalism is probably one of the best eschatological systems we have, but despite this, here is a small critique. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
+Dispensationalism is probably one of the best eschatological systems we have, but despite this, here is a small critique. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and D. A. Carson.
 
 # 🔥 Dispensational Theology Was Developed From The Vision Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.
 
