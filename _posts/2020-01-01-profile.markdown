@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 2:05:00 -0500
+date: 2020-01-01 2:15:00 -0500
 categories: about bio biography profile
 published: true
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and God has blessed me with many skills, through autodidactictism, that I've used to successfully create this small research ministry. Since 2016, I've owned, operated, automated, and maintained said ministry. First from a custom built raspberry pi single-board computer, then from my laptop. Please feel free to look around, read articles, or contact me below. 
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and God has blessed me with many skills, through autodidactictism and computer programming, that I've used to successfully create this small research ministry. Since 2016, I've owned, operated, automated, and maintained said ministry. First from a custom built raspberry pi single-board computer, then from my laptop. Please feel free to look around, read articles, or contact me below. 
 
 <!-- (e.g. computer programming and [automating](https://twitter.com/SevenShepherd) my social media, [chess](https://sevenshepherd.github.io/chess-games-magnus/), piano (Chopin), and constructed languages like Esperanto which I'm considering). I am currently hand designing both the front-end and back-end of my latest website.  -->
 
@@ -227,7 +227,7 @@ A brief overview of my stances are as follows: theologically conservative, moder
 |Distinctive|Recommendation|
 |:-:|:-:|
 |<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism / Compatibilism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;*Divine Sovereignty & Human Responsibility*&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;|
-|👆🏻|[Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;|
+|👆🏻|[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;|
 |👆🏻|Dr. Walter Martin (Ph.D., California Coast University)<br>&ldquo;[Essential Christianity]()&rdquo;|
 |👆🏻|Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;|
 |<a style="color:#F6BE00;">Reformed Arminianism w/ Eternal Security</a>|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[▫️ C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
@@ -349,9 +349,9 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 |Scientist Theologians||
 |:-:|:-:|
-|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ **Beyond The Cosmos**]()<br>[▫️ Why the Universe Is the Way It Is]()|
+|[Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)]()<br>July 24, 1945|[▫️ **Beyond The Cosmos**]()<br>[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
-|[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
+|[Dr. John C. Lennox<br>(Ph.D., University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 
