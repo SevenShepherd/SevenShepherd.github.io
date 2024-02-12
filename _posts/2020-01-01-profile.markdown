@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Extended Profile"
-date: 2020-01-01 1:55:00 -0500
+title: "About"
+date: 2020-01-01 2:00:00 -0500
 categories: about bio biography profile
 published: true
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built. 
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and God has blessed me with many skills, through autodidactictism, that I've used to successfully create this small research ministry. Since 2016, I've owned, operated, automated, and maintained said ministry. First from a custom built raspberry pi single-board computer, then from my laptop. Please feel free to look around, read articles, or contact me below. 
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET 
+<!-- (e.g. computer programming and [automating](https://twitter.com/SevenShepherd) my social media, [chess](https://sevenshepherd.github.io/chess-games-magnus/), piano (Chopin), and constructed languages like Esperanto which I'm considering). I am currently hand designing both the front-end and back-end of my latest website.  -->
 
-For several years I've owned, operated, and automated a small ministry of 60,000+ on social media in my spare time. You can visit my custom programmed and automated X/Twitter based Christian ministry at [@SevenShepherd](https://twitter.com/SevenShepherd) that has been running successfully since 2016 from a custom built raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below. 
+<!-- and I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built.  -->
+
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+
+<!-- >> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, **rightly dividing the word of truth**. &mdash; 2 Timothy 2:15 NET,KJV  -->
 
 <!-- <sup style="font-size:9px;font-family:monospace;color:darkgrey;">7 years, 2.6m tweets, 7.6m likes & retweets.</sup> -->
 
@@ -28,15 +33,24 @@ For several years I've owned, operated, and automated a small ministry of 60,000
     - Textual Crit. (NETFN/[KJVP](https://kjvparallelbible.org/))
     - Software (LOGOS) -->
 
-- <a href="#theology">Historic Protestant</a>
+<!-- A brief overview of my stances are as follows: theologically conservative, moderate distinctives (amyraldian), with compatibilist views on the sovereignty-responsibility tension problem. I could be described as either historically protestant or basic (Five Sola). I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the signs gifts only for those bringing the gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available. -->
+
+> But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
+
+<!-- >> **Test all things**; hold fast what is good. &mdash; 1 Thessalonians 5:21 NET, NKJV -->
+
+<!-- - <a href="#theology">Basic Protestant</a>
     - <a href="#theology">Theologically Conservative</a>
     - <a href="#theology">Moderate Distinctives</a>
+    - <a href="#theology">Compatibilist</a>
     - <a href="#theology">Five Solas</a>
-    - Soft-cessationist
-- Recommendations
+    - <a href="#theology">Soft-cessationist</a> -->
+
+<!-- - Recommendations
     - ESV Study Bible
-    - NET Full Notes Edition
-    - The Cross & Salvation
+    - NET Full Notes Edition -->
+
+<!-- - The Cross & Salvation -->
 
 <!-- - [Unlimited Atonement](https://sevenshepherd.github.io/limited-atonement/)
 - [Sub. or Wesl. Foreknowledge](https://sevenshepherd.github.io/election/#decrees) -->
@@ -79,7 +93,9 @@ For several years I've owned, operated, and automated a small ministry of 60,000
 
 <!-- <span style="font-style:Italic;font-size:2.1em;">I. Recommended Articles</span> -->
 
+
 - [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/)
+- [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
 - [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
@@ -110,12 +126,12 @@ The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.
 
 <!--  -->
 
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [**Dr. D. A. Carson (Ph.D., Cambridge)**](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
 - [Dr. Ron Rhodes (Th.D., Dallas)]()
 - [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
 - [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
 - [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
-- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 - [Dr. John Piper (D.Theol., Munich)]()
 
@@ -145,7 +161,7 @@ The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and
 
 The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
 
-- [Dr. D. A. Carson (Ph.D., Cambridge)](https://www.crossway.org/authors/d-a-carson/)
+- [**Dr. D. A. Carson (Ph.D., Cambridge)**](https://www.crossway.org/authors/d-a-carson/)
 - [Dr. Tremper Longman III (Ph.D., Yale)]()
 - [Dr. Darrell L. Bock (Ph.D., Dallas)]()
 - [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
@@ -172,13 +188,12 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <a name="theology" href="#contents" style="font-style:Italic;font-size:2.1em">III. Theology & Distinctives</a>
 
-I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/). 
+<!-- I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).  -->
 
-<!-- > Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position. -->
+A brief overview of my stances are as follows: theologically conservative, moderate distinctives (amyraldian), with compatibilist views on the sovereignty-responsibility tension problem. I could be described as either historically protestant or basic (Five Sola). I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the signs gifts only for those bringing the gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
 
-> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
 
-Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
+<!-- Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg).  -->
 
 <!-- |Highly Recommended|Best Theology Book|
 |:-:|:-:|
@@ -188,7 +203,7 @@ Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4;
 
 <!-- When it comes to the distinctives of protestantism, I would describe myself as a moderate. Below I've selected the very best works on each respective subject to save you a great deal of time. I've also color coded them to represent what I think is closest to scripture. -->
 
-As far as I can articulate right now, my theology is a systemless hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. See options in yellow. While I admire J. I. Packer & Grudem's genuine character, and consider them to be extraordinary intellects, I must deviate from limited atonement.
+<!-- As far as I can articulate right now, my theology is a systemless hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. See options in yellow. While I admire J. I. Packer & Grudem's genuine character, and consider them to be extraordinary intellects, I must deviate from limited atonement. -->
 
 <!-- See [article](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#contemporary) -->
 
@@ -196,7 +211,7 @@ As far as I can articulate right now, my theology is a systemless hybrid between
 
 <!-- <br>--<br>~15 Professors<br>Dr. Michael F. Bird<br>(PhD, Queensland)<br>&ldquo;Unlimited Atonement: Amyraldism and Reformed Theology&rdquo; -->
 
-|Distinctive|Recommendation|
+<!-- |Distinctive|Recommendation|
 |:-:|:-:|
 |<a href="https://sevenshepherd.github.io/theology/" style="color:#12AD2B;">Hybrid Moderate</a><br>(<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/theology/#unique">Prescient Forelove</a>)|See Options In Yellow|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(PhD, Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
@@ -207,7 +222,18 @@ As far as I can articulate right now, my theology is a systemless hybrid between
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-lutheran/">Lutheranism</a>|Dr. Francis Pieper<br>(DD, Northwestern)<br>&ldquo;Christian Dogmatics. 4 vols.&rdquo;|
 |<a style="color:darkred;" href="">Calvinism</a> (<a style="color:darkred;" href="https://sevenshepherd.github.io/election/#decrees">Supra.</a>)|🚫|
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
-|<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫|
+|<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫| -->
+
+|Distinctive|Recommendation|
+|:-:|:-:|
+|<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism / Compatibilism</a> (<a style="color:#12AD2B;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;*Divine Sovereignty & Human Responsibility*&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;|
+|👆🏻|[Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;|
+|👆🏻|Dr. Walter Martin (Ph.D., California Coast University)<br>&ldquo;[Essential Christianity]()&rdquo;|
+|👆🏻|Dr. Ron Rhodes (ThD, Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;|
+|<a style="color:#F6BE00;">Reformed Arminianism w/ Eternal Security</a>|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[▫️ C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
+
+
+<!-- <br>June 25, 1927–October 3, 2013|[▫️ C2000](https://calvarychapel.com/posts/c2000/)<br>[▫️ Calvinism, Arminianism, & The Word Of God]()| -->
 
 <!-- - [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) ([Sub.](https://sevenshepherd.github.io/election/#false_dichotomy))
     - 
@@ -311,8 +337,9 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 |**Apologetics**||
 |Dr. Walter Martin<br>(Ph.D., California Coast)|[▫️ The Kingdom of the Cults]()<br>[▫️ The Kingdom of the Occult]()<br>[▫️ Quick Reference]()|
 |Dr. Ron Rhodes<br>(Th.D., Dallas Theological Seminary)|[▫️ Reasoning from the Scriptures]()<br>[▫️ 10 Most Important Things]()|
-|Matt Slick<br>(M.Div., Westminster)|[▫️ CARM](https://carm.org/)|
 |[Dr. Frank Turek<br>(D.Min., Southern Evangelical Seminary)](https://youtu.be/XjHhtWL_3Og)|[▫️ I Don't Have Enough Faith to Be an Atheist]()<br>[▫️ Stealing from God]()|
+
+<!-- |Matt Slick<br>(M.Div., Westminster)|[▫️ CARM](https://carm.org/)| -->
 
 <a name="scientist_theologians" href="#contents" style="font-style:Italic;font-size:2.1em">VI. Scientists</a>
 
@@ -322,10 +349,10 @@ Are you defending YOUR faith, or are you defending **THE faith**? Before you tak
 
 |Scientist Theologians||
 |:-:|:-:|
+|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ **Beyond The Cosmos**]()<br>[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. John C. Polkinghorne<br>(Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)](https://www.britannica.com/biography/John-Polkinghorne)<br>October 16, 1930–March 9, 2021|[▫️ Quarks, Chaos & Christianity]()|
 |[Dr. John C. Lennox<br>(PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)](https://youtu.be/mKh51FxQ4io?si=GkGY4Ahi4vAHn2l5)<br>7 November 1943 &mdash; Present|[▫️ Can Science Explain Everything?]()<br>[▫️ God and Stephen Hawking]()|
 |Dr. Alister McGrath<br>(Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)<br>January 23, 1953–Present|[▫️ Mere Apologetics]()<br>[▫️ The Dawkins Delusion]()|
-|[Dr. Hugh Ross<br>(Ph.D., Astrophysicist at the University of Toronto)]()|[▫️ Why the Universe Is the Way It Is]()|
 |[Dr. Stephen C. Meyer<br>(Ph.D., University of Cambridge)](https://youtu.be/FDSpLBNQk5I?si=GMPhadbEP6rKLVnb)|[▫️ Return of the God Hypothesis]()<br>[▫️ Darwin's Doubt]()<br>[▫️ Signature in the Cell]()|
 
 Einstein stood on the shoulders of devout Christian minds, and while he was not Christian, he was a deist, so I'm placing him here only for the fact that he recognized the truth, however faint. Science was born in the womb of a Christian worldview.
@@ -529,6 +556,7 @@ Below you'll find some Christian as well as some secular works that seem to coin
 |Claude Fayette Bragdon<br>August 1, 1866 to September 17, 1946|[A Primer Of Higher Space (The Fourth Dimension)](/assets/books/claude_fayette_bragdon/the_fourth_dimension.pdf)<br>Higher Dimensional Physics|
 |Dr. Carlo H. Séquin<br>Professor of Computer Science, U.C. Berkeley<br>October 30, 1941|[Perfect Shapes in Higher Dimensions](https://youtu.be/2s4TqVAbfz4)|
 |Dr. Michio Kaku<br>January 24, 1947|[Hyperspace](http://library.lol/main/DF7C42C58347DAE266016FCDC0C686A7), [Parallel Worlds](https://libgen.is/book/index.php?md5=55AC8F9F4D8B2CDFFC512F878273B5FB), [The God Equation](https://libgen.is/book/index.php?md5=74DDFDDF53159C7F1C82B56A0AE87426), [Physics of the Impossible](https://libgen.is/book/index.php?md5=7F67C950EEB22F8A19A8F2C4AF10C51D)<br>Parallel Universes, Time Warps, the 10th Dimension, Phasers, Force Fields, Teleportation, and Time Travel|
+|Dr. Hugh Ross<br>July 24, 1945|[**Beyond the Cosmos**]()|
 
 <!-- |Gottfried Wilhelm Leibniz<br>*Created calculus (like newton), and paved the way for Einstein's theory of relativity*<br>1 July 1646 to 14 November 1716|[Monadology](https://libgen.is/book/index.php?md5=0FCAB26D87F754065E07CCE9852B4915)<br>*Einstein, who called himself a "Leibnizian" even wrote that Leibnizianism was superior to Newtonianism, and his ideas would have dominated over Newton's had it not been for the poor technological tools of the time.*|
 |Kurt Friedrich Gödel<br>*The Greatest Logician & Analytic Philosopher*<br>April 28, 1906 to January 14, 1978|<a href="https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism" style="color:#006699;">Kurt Gödel's Platonism</a>| -->
@@ -734,8 +762,10 @@ Recreational mathematics, logic puzzles, and strategy board games like <a style=
 
 **My Chess Games**
 - [Shepherd v. Magnus (2882)](https://sevenshepherd.github.io/chess-games-magnus/)
-- [Shepherd v. Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/)
-- [Shepherd (2650) v. Francis (2300)](https://sevenshepherd.github.io/chess-games/).
+- [Shepherd (2700) v. Francis (2300)](https://sevenshepherd.github.io/chess-games/).
+
+<!-- - [Shepherd v. Ding Liren (2788)](https://sevenshepherd.github.io/chess-games-liren/) -->
+
 
 |||
 |:-:|:-:|
