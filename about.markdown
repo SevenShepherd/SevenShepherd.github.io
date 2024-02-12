@@ -14,7 +14,10 @@ A brief overview of my stances are as follows: theologically conservative, moder
 
 > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
 
-My favorite Bible teachers, aside from the obvious answer of Jesus, the Apostles, and Kings David & Solomon, would be: D. A. Carson (Ph.D., University of Cambridge), Hugh Ross (PhD, Astrophysicist at University of Toronto), Walter Martin (Ph.D., California Coast University), Ron Rhodes (ThD, Dallas Theological Seminary), and my original pastors, Chuck Smith, & Dr. Jack Van Impe. 
+My favorite Bible teachers, aside from the obvious answer of Jesus, the Apostles, and Kings David & Solomon, would be: D.A. Carson (Ph.D., University of Cambridge), Hugh Ross (PhD, Astrophysicist at University of Toronto), Walter Martin (Ph.D., California Coast University), Ron Rhodes (ThD, Dallas Theological Seminary), <a href="https://youtu.be/jOFsFgUUdZo" style="color:black;">Dr. J.I. Packer (PhD, University of Oxford)</a>, <a href="https://youtu.be/s9e3Y2SMXag" style="color:black;">Dr. Wayne Grudem (PhD, University of Cambridge)</a>, and my original pastors, <a href="https://youtu.be/kP8rIIps4Sk?t=130" style="color:black;">Chuck Smith</a>, & Dr. Jack Van Impe. 
+
+
+
 
 > &ldquo;Artful nature has given to the most perfect animal the same six limits as the cube has, most perfectly marked... Man himself is, as it were, a cube.&rdquo; &mdash; Kepler, Mysterium Cosmographicum. Claude Fayette Bragdon, A Primer Of Higher Space, The Fourth Dimension. p. 67.
 
@@ -22,7 +25,7 @@ My favorite philosophers apart from a biblical context would be: Plato, René De
 
 > "My theory is rationalistic, idealistic, optimistic, and theological" &mdash; Kurt Friedrich Gödel
 
-Favorite scientists include: Sir Isaac Newton, Gottfried Wilhelm Leibniz, Michael Faraday, James Clerk Maxwell, Nikola Tesla, Albert Einstein, Kurt Friedrich Gödel, Dr. Hugh Ross Dr. John C. Polkinghorne, Dr. John C. Lennox, Dr. Alister McGrath, Dr. Stephen C. Meyer, Dr. Michio Kaku.
+Favorite scientists include: Sir Isaac Newton, Gottfried Wilhelm Leibniz, Michael Faraday, James Clerk Maxwell, Nikola Tesla, Albert Einstein, Kurt Friedrich Gödel, Dr. Hugh Ross, Dr. John C. Polkinghorne, Dr. John C. Lennox, Dr. Alister McGrath, Dr. Stephen C. Meyer, Dr. Michio Kaku.
 
 See my [**Extended Profile**](https://sevenshepherd.github.io/profile/).
 
