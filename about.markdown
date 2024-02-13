@@ -8,7 +8,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
-A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives ([amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as either historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available.
+A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives ([amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available.
 
 > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
 
