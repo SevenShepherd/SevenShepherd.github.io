@@ -1,19 +1,23 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 2:15:00 -0500
+date: 2020-01-01 2:25:00 -0500
 categories: about bio biography profile
 published: true
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and God has blessed me with many skills, through autodidactictism and computer programming, that I've used to successfully create this small research ministry. Since 2016, I've owned, operated, automated, and maintained said ministry. First from a custom built raspberry pi single-board computer, then from my laptop. Please feel free to look around, read articles, or contact me below. 
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X/Twitter account is run from a custom built raspberry pi single-board computer and a custom computer program. Please feel free to look around, read articles, or contact me below.
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+
+> But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
 
 <!-- (e.g. computer programming and [automating](https://twitter.com/SevenShepherd) my social media, [chess](https://sevenshepherd.github.io/chess-games-magnus/), piano (Chopin), and constructed languages like Esperanto which I'm considering). I am currently hand designing both the front-end and back-end of my latest website.  -->
 
 <!-- and I am a hobbyist computer programmer and pianist, aspiring entrepreneur and writer, intermediate to advanced chess player and esperantist. I am currently hand designing both the front-end and back-end of my latest website. I spend a lot of time and thought on this project. I created this blog as a temporary site while my main website is being built.  -->
 
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
+<!-- > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET -->
 
 <!-- >> Study to shew thyself approved unto God, a workman that needeth not to be ashamed, **rightly dividing the word of truth**. &mdash; 2 Timothy 2:15 NET,KJV  -->
 
@@ -35,7 +39,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and G
 
 <!-- A brief overview of my stances are as follows: theologically conservative, moderate distinctives (amyraldian), with compatibilist views on the sovereignty-responsibility tension problem. I could be described as either historically protestant or basic (Five Sola). I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the signs gifts only for those bringing the gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available. -->
 
-> But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
+<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
 
 <!-- >> **Test all things**; hold fast what is good. &mdash; 1 Thessalonians 5:21 NET, NKJV -->
 
@@ -190,7 +194,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <!-- I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).  -->
 
-A brief overview of my stances are as follows: theologically conservative, moderate distinctives (amyraldian), with compatibilist views on the sovereignty-responsibility tension problem. I could be described as either historically protestant or basic (Five Sola). I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the signs gifts only for those bringing the gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
+A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives ([amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
 
 
 <!-- Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg).  -->
