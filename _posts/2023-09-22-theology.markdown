@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 12:00:00 -0500
+date: 2023-10-19 12:05:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -429,7 +429,7 @@ Even though I'm reformed leaning, I appreciate the clear logic of <a href="https
 
 > the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; <a href="https://sevenshepherd.github.io/chosen/#heiser">Dr. Michael S. Heiser (PhD, University of Wisconsin)</a>
 
-So right at the get go, we sould not confuse one for the other. *The Golden Chain of Redemption* also demonstrates two seperate concepts. &ldquo;For those whom he **foreknew** he also **predestined**&rdquo;:
+So right at the get go, we should not confuse one for the other. *The Golden Chain of Redemption* also demonstrates two seperate concepts. &ldquo;For those whom he **foreknew** he also **predestined**&rdquo;:
 
 > <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
 
@@ -457,7 +457,7 @@ Propnents of <a href="https://sevenshepherd.github.io/chosen" style="font-weight
 
 <span style="font-size:1.2em;">🧩 Narrowing Down Possible Views</span>
 
-1. If the word proginṓskō means to foreordain as the Calvinists, Amyraldians, and Compatibilists say, and as the lexicons lean, logic shows that it would not be all encompassing or mechanically deterministic. Since foreknowledge as foreordination would not necessitate predestination in every instance. It is always true that God is absolutely sovereign, but it seems that he allows some form of freedom in the system he designed and so a <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;">Moderately Reformed Compatibilist</a> view would be the most precise.
+1. If the word proginṓskō means to foreordain as the Calvinists, Amyraldians, and Compatibilists say, and as the lexicons lean... and since foreknowledge as foreordination would not necessitate predestination in every instance. It would seem that he allows some form of freedom in the system he designed and so a <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;">Moderately Reformed Compatibilist</a> view would be the most precise.
 2. If proginṓskō means prescience, then I would say, the best definition put forth would be the <a href="https://sevenshepherd.github.io/chosen/#smith" style="font-weight:bold;">Reformed Wesleyan Foreknowledge</a> view.
 
 <span style="font-size:1.2em;">⌛ My Old But Unique Theory</span>
