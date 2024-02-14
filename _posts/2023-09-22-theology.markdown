@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 11:25:00 -0500
+date: 2023-10-19 11:35:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -27,20 +27,25 @@ published: true
         - 2.4.1 <a href="#depravity">Totalness Of Depravity</a>
         - 2.4.2 <a href="#election">Conditionality of Election</a>
         - 2.4.3 <a href="#atonement">Extent of Atonement</a>
-            - 2.4.3.1 <a href="#amyraut">Moïse Amyraut</a>
-            - 2.4.3.2 <a href="#edmund">Edmund Calamy</a>
-            - 2.4.3.3 <a href="#arminius">James Arminius</a>
-            - 2.4.3.4 <a href="#atone">Conclusion</a>
         - 2.4.4 <a href="#grace">Resistibility of Grace</a>
         - 2.4.5 <a href="#security">Preservation & Perseverance</a>
             - 2.4.5.1 <a href="#sanctify">Progressive Sanctification</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
-    - 3.1 <a href="#foreknew">Foreknowledge</a>
-        - 3.1.1 <a href="#golden">The Golden Chain</a>
-        - 3.1.2 <a href="#demarest">Demarest on Foreknow</a>
-        - 3.1.3 <a href="#studies">Studies on Foreknew</a>
-        - 3.1.4 <a href="#unique">My Unique Theory</a>
-    - 3.2 <a href="#predestination">Predestination</a>
+    - 3.1 <a href="#foreknew">Foreknowledge & Predestination</a>
+
+
+<!-- - 3.2 <a href="#predestination">Predestination & Determinism</a> -->
+
+
+<!-- - 2.4.3.1 <a href="#amyraut">Moïse Amyraut</a>
+- 2.4.3.2 <a href="#edmund">Edmund Calamy</a>
+- 2.4.3.3 <a href="#arminius">James Arminius</a>
+- 2.4.3.4 <a href="#atone">Conclusion</a> -->
+
+<!-- - 3.1.1 <a href="#golden">The Golden Chain</a>
+- 3.1.2 <a href="#demarest">Demarest on Foreknow</a>
+- 3.1.3 <a href="#studies">Studies on Foreknew</a>
+- 3.1.4 <a href="#unique">My Unique Theory</a> -->
 
 <!-- 
     - 2.4.4 <a href="#grace">Resistibility of Grace</a>
@@ -50,13 +55,13 @@ published: true
 
 <!-- SevenShepherd was originally a nickname to denote a perfect or ideal Shepherd, of course I had Christ in mind. The epithet "Unseen Shepherd" used for this article, plays into the fact that I don't desire to reveal who I am, I simply wish to share the truth with others.  -->
 
-I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side.
+<!-- I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. -->
 
-> Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
+<!-- > Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position. -->
 
 <!-- > Take reformed theology, apply unlimited atonement or a hypothetical universalist system like amyraldism, and replace the arbitrary nature of election for a reciprocated forelove not based on cognitive assent or human choice, and you'll have my theological position. -->
 
-Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg). 
+<!-- Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg).  -->
 
 <!-- I don't think either are good representatives of the first phase of the reformation, which was [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/). My theology would be closer to the moderate positions of Amyraldianism, hypothetical universalism, and Reformed Wesleyanism, except with some alterations which I will describe throughout this article. -->
 
@@ -303,69 +308,9 @@ I recommend that your church maintain [**psalms**](https://www.youtube.com/watch
 
 See the expanded article on [**total depravity**](https://sevenshepherd.github.io/total-depravity/).
 
-<span style="font-size:1.2em;">Chuck Smith</span>
-
-> <span style="color:orangered;">Truly, war does demonstrate the <span style="font-weight:bold;color:red;">total depravity</span> of man</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/Hyd93X0luAg?si=7xcqh8He3h8jKKKn)
-
---
-
-> We believe that all are sinners (Romans 3:23) and unable by human performance to earn, deserve, or merit salvation (Titus 3:5). We believe that the wages of sin is death (Romans 6:23), and that apart from God's grace, no one can be saved (Ephesians 2:8-9). We believe that none are righteous, **or capable of doing good** (Romans 3:10-12), and that **apart from the conviction and regeneration of the Holy Spirit, none can be saved** (John 1:12-13; 16:8-11; 1 Peter 1:23-25). **Mankind is clearly fallen and lost in sin.**
->
-&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.
-
-<span style="font-size:1.2em;">Chuck Missler</span>
-
-> **The concept of total depravity is consistent with Scripture**, but the doctrine of limited atonement, that Jesus did not die for the sins of the whole world, is clearly contrary to Biblical teaching. The Bible clearly teaches that Jesus died for everyone’s sins and that everyone is able to be saved **if they will repent and turn to Christ**. Limited atonement is a non-Biblical doctrine.
->
-&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
-
-<span style="font-size:1.2em;">J.I. Packer</span>
-
-> 31\. ORIGINAL SIN
->
-**DEPRAVITY INFECTS EVERYONE**
->
->> Surely I was sinful at birth, sinful from the time my mother conceived me. Psalm 51:5 
->
-Scripture diagnoses sin as a universal deformity of human nature, found at every point in every person (1 Kgs. 8:46; Rom. 3:9–23; 7:18; 1 John 1:8–10). Both Testaments have names for it that display its ethical character as rebellion against God’s rule, missing the mark God set us to aim at, transgressing God’s law, disobeying God’s directives, offending God’s purity by defiling oneself, and incurring guilt before God the Judge. This moral deformity is dynamic: sin stands revealed as an energy of irrational, negative, and rebellious reaction to God’s call and command, a spirit of fighting God in order to play God. The root of sin is pride and enmity against God, the spirit seen in Adam’s first transgression; and sinful acts always have behind them thoughts, motives, and desires that one way or another express the wilful opposition of the fallen heart to God’s claims on our lives.
->
-Sin may be comprehensively defined as lack of conformity to the law of
-God in act, habit, attitude, outlook, disposition, motivation, and mode of existence. Scriptures that illustrate different aspects of sin include Jeremiah 17:9; Matthew 12:30–37; Mark 7:20–23; Romans 1:18 – 3:20; 7:7–25; 8:5– 8; 14:23 (Luther said that Paul wrote Romans to ‘magnify sin’); Galatians 5:16–21; Ephesians 2:1–3; 4:17–19; Hebrews 3:12; James 2:10–11; 1 John 3:4; 5:17. Flesh in Paul usually means a human being driven by sinful desire; the NIV renders these instances of the word as ‘sinful nature’. The particular faults and vices (i.e. forms and expressions of sin) that Scripture detects and denounces are too numerous to list here.
->
-Original sin, meaning sin derived from our origin, is not a biblical
-phrase (Augustine coined it), but it is one that brings into fruitful focus the reality of sin in our spiritual system. The assertion of original sin means not that sin belongs to human nature as God made it (God made mankind upright, Eccles. 7:29), nor that sin is involved in the processes of reproduction and birth (the uncleanness connected with menstruation, semen, and childbirth in Leviticus 12 and 15 was typical and ceremonial only, not moral and real), but that (a) sinfulness marks everyone from birth, and is there in the form of a motivationally twisted heart, prior to any actual sins; (b) this inner sinfulness is the root and source of all actual sins; (c) it derives to us in a real though mysterious way from Adam, our first representative before God. The assertion of original sin makes the point that we are not sinners because we sin, but rather we sin because we are sinners, born with a nature enslaved to sin.
->
-**The phrase total depravity is commonly used to make explicit the implications of original sin. It signifies a corruption of our moral and spiritual nature that is total not in degree (for no-one is as bad as he or she might be) but in extent. It declares that no part of us is untouched by sin, and therefore no action of ours is as good as it should be, and consequently nothing in us or about us ever appears meritorious in God’s eyes. We cannot earn God’s favour, no matter what we do; unless grace saves us, we are lost.**
->
-Total depravity entails total inability, that is, the state of not having it in oneself to respond to God and his Word in a sincere and wholehearted way (John 6:44; Rom. 8:7–8). Paul calls this unresponsiveness of the fallen heart a state of death (Eph. 2:1, 5; Col. 2:13), and the Westminster Confession says: ‘Man, by his fall into a state of sin, hath wholly lost all ability of will to any spiritual good accompanying salvation; so as a natural man, being altogether averse from that good, and dead in sin, is not able by his own strength to convert himself, or to prepare himself thereunto’ (IX.3). 
->
-&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 31. Original Sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
-
 <a name="election" href="#contents" style="font-size:1.6em;">2.4.2 Conditionality Of Election</a>
 
 See my expanded article on [**election**](https://sevenshepherd.github.io/chosen/).
-
-God chose you before you developed the ability to choose, even before your body formed in your mother's womb. While I don't know if I care whether I have free will or not since my will is aligned with God's to the point to where mine no longer matters, I will say, irrespective of this, I don't think election is arbitrary nor do I think that it's based on human free will. I believe it's a kind of forelove, a prescient relationship foreknown.
-
-My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and so I call it a hybrid moderate stance, and my view I've named, the [prescient forelove](https://sevenshepherd.github.io/theology/#unique) view or prescientism. As far as I know I'm the first to coin this phrase and use this 'ism. Contrasted:
-
-- [Arminians](https://sevenshepherd.github.io/ordo-salutis-arminian/) say God elected upon foreseen faith, but the emphasis seems to be on our free will. If you say God elects based upon our choices and decisions, you're works based plain and simple. It's much deeper than that, it's not about the head it's about the heart, my theory makes that philosophical distinction, whereas I think Arminianism does not.
-- [Calvinists](https://sevenshepherd.github.io/ordo-salutis-calvinist/) say God arbitrarily chooses then foreloves in the sense of preordaining. This is likened to a computer rolling the dice with a pseudo-random number generator, only afterwards does love come into play. There is a sense of security only Calvinists have and I don't think we should depart from that, but pushing it so far as to become arbitrary is missing the deeper reciprocal relationship the Bible describes.
-- [Prescient forelove](https://sevenshepherd.github.io/theology/#unique) upholds God's sovereignty and acknowledges that the NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13), so it replaces the arbitrary nature of election (cal.) for a reciprocated “forelove” not based on cognitive assent or human decision (arm.), but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith. It works irrespective of assent or the logical decision making process even if humans have free will.
-
-Below I've listed various quotes on election and predestination, in an attempt to show that these doctrines are real biblical teachings, even if I hold a unique view on how God does the electing.
-
-<span style="font-size:1.2em;">Chuck Smith</span>
-
-> **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
->
-&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
-
-<span style="font-size:1.2em;">Chuck Missler</span>
-
-> **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
->
-&mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
 
 <a name="atonement" href="#contents" style="font-size:1.6em;">2.4.3 The Extent Of The Atonement Is Unlimited</a>
 
@@ -377,7 +322,7 @@ I recently composed [a small article](https://sevenshepherd.github.io/limited-at
 - Luther & John Calvin did not hold to limited atonement either.
 - Jonathan Edwards was likely a hypothetical universalist.
 
-<a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.3.1 Moïse Amyraut's Amyraldianism</a>
+<!-- <a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.3.1 Moïse Amyraut's Amyraldianism</a>
 
 Please refer to my full length article on [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian).
 
@@ -397,7 +342,6 @@ How blessed it is to realize that Christ took my place on the cross and was fors
 
 The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes [Calamy's unique hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7), of which several exist. 
 
-<!-- I think if my <a href="#unique">&ldquo;prescient Forelove View&rdquo;</a> was not an option I would probably default to Calamy's. It is a slight alteration of [Moïse Amyraut's Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7). -->
 
 >
 **14.1.7 Hypothetical Universalism**
@@ -420,7 +364,7 @@ Arminians such as Miley aver that an unlimited Atonement makes universal salvati
 
 <a name="atone" href="#contents" style="font-size:1.2em;">2.4.3.4 Summary & Conclusion</a>
 
-> under construction
+> under construction -->
 
 <a name="grace" href="#contents" style="font-size:1.6em;">2.4.4 The Resistibility of Grace</a>
 
@@ -454,98 +398,22 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century.
 
+I derive my understanding from multiple trustworthy sources. I do not &ldquo;*throw the baby out with the bathwater*&rdquo; when it comes to my research. I use all protestant sources to piece the puzzle together. See my expanded article on [**election**](https://sevenshepherd.github.io/chosen/) for more details.
+
+
+
+<!-- &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://youtu.be/kwyZxAtTHfc?si=-haAYGzQ7WumCiVp&t=48) -->
+
 <!-- > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest -->
 
-<a name="foreknew" href="#contents" style="font-size:1.6em;">3.1 Foreknowledge</a>
+<a name="foreknew" href="#contents" style="font-size:1.6em;">3.1 Foreknowledge & Predestination</a>
 
 ![Foreknowledge](/assets/images/greek/proginosko.png)
 <br><sup style="font-size:9px;color:grey;">Bauer-Danker-Arndt-Gingrich (BDAG)<sup>
 
-<a name="golden" href="#contents" style="font-size:1.2em;">3.1.1 The Golden Chain of Redemption</a>
+<span style="font-size:1.2em;">🧩 The Meaning Can Be Either</span>
 
-> <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
-
-<a name="demarest" href="#contents" style="font-size:1.2em;">3.1.2 Demarest on Proginṓskō</a>
-
-> We observe, first, that the foundation of the Christian’s calling to salvation is God’s prothesis, meaning “purpose,” “resolve,” or “decision” (Rom 9:11; Eph 1:11; 3:11; 2 Tim 1:9). The believer’s hope of future glory is grounded not in his own will but in the sovereign, pre-temporal purpose of God. 
->
-The first of the aorist verbs in the passage is the word proginōskō, to “foreknow,” “choose beforehand.”<sup>111</sup> With humans as subject the word means to “know beforehand” (Acts 26:5; 2 Pet 3:17). With God as subject the verb could mean either prescience or foreloving/foreordaining (Rom 8:29; 11:2; 1 Pet 1:20). The foundational verbs yâdaʻ and ginōskō often mean to “perceive,” “understand,” and “know.” But they also mean “to set regard upon, to know with particular interest, delight, affection, and action. (Cf. Gen 18:19; Exod 2:25; Ps 1:6; 144:3; Jer 1:5; Amos 3:2; Hos 13:5; Matt 7:23; 1 Cor 8:3; Gal 4:9; 2 Tim 2:19; 1 John 3:1).”<sup>112</sup> The verb ginōskō thus can convey God’s intimate acquaintance with his people, specifically the fact that they are “foreloved” or “chosen.” This latter sense is evident in the following Pauline sayings: “the man who loves God is known by God” (1 Cor 8:3); “but now that you know God—or rather are known by God” (Gal 4:9); and “the Lord knows those that are his” (2 Tim 2:19).
->
-The verb proginōskō in Rom 8:29 and 11:2 contextually could be taken in either of the two senses, i.e., prescience or foreordination. But given the strongly relational Hebrew background to the word, the unambiguous sense of proginōskō in 1 Pet 1:20 (see below) and prognōsis in Acts 2:23 and 1 Pet 1:2 (see below), and the whole tenor of Paul’s theology, the probable meaning of proginōskō with God as subject is to “know intimately” or “forelove.”<sup>113</sup> F.F. Bruce concurs with this judgment. Concerning Rom 8:29, he wrote, “the words ‘whom he did foreknow’ have the connotation of electing grace which is frequently implied by the verb ‘to know’ in the Old Testament. When God takes knowledge of his people in this special way, he sets his choice upon them.”<sup>114</sup> To the preceding considerations we add that the biblical language of foreknowledge is always used of saints, never of the unsaved. Moreover, what God “foreknows” is the
-saints themselves, not any decision or action of theirs. Thus divine election is according to foreknowledge (foreloving), not simply according to foresight (prescience).
-> 
-Paul continues in the Romans text: “For those God foreknew he also predestined [proōrisen] to be conformed to the likeness of his Son . . .” (v. 29). The verb proōrizō, to “decide beforehand,” or “predestine,” occurs six times in the NT in the sense of God’s predetermined plan of salvation, Christ’s sufferings, or gracious election to life (Rom 8:29-30; 1 Cor 2:7; Eph 1:5, 11). Those on whom God in eternity past set his affection, he sovereignly chose for life. 
->
-Return for a moment to the larger picture of the golden chain of salvation presented in Rom 8:29-30. The verbs “foreknew,” “predestined,” “called,” “justified,” and “glorified” are in the aorist tense, which denotes God’s prior determination marking these future events with certainty. Moreover the verbs gramatically are in exact sequence; thus if the election and the calling were exclusively corporate, so also would be the justification and the glorification. But God does not justify an empty class; he justifies individuals within the class who are moved to saving faith in Christ. Similarly, it is individuals who possess the Spirit (v. 23), who “groan inwardly” awaiting the day of glorification (v. 23), who exercise “hope” (v. 24), and who display patience (v. 25). Clearly these are spiritual experiences of individual Christians who, when considered aggregately, constitute the class of believers. Thus the focus of the circle of salvation is both corporate and individual.<sup>115</sup> ...
->
-...The NT frequently cites the very close relationship that exists between God’s loving and his choosing (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).
->
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election. pp. 127-131.
-
-<a name="studies" href="#contents" style="font-size:1.2em;">3.1.3 Studies On Proginṓskō of Romans 8:29</a>
-
-> **προγινώσϰω** [πρό, γινώσϰω]—1. ‘know before about a matter of moment’—a.
-through personal familiarity, **be previously acquainted with Ac 26:5.—b**. through previous receipt of information, **already know about 2 Pt 3:17.—2**. ‘have in mind as part of a long-standing plan’, **have plans for, know before**, a deeply embedded Hebraic perception **1 Pt 1:20;** in **Ro 8:29; 11:2**, Isaiah 46:8–13 is the matrix for Paul’s use of π. expressing selection of God’s people with purposeful intent for them that awaits certain fulfillment. &mdash; Concise
-
---
-
-> **proginṓskō, prógnōsis.** The verb means &ldquo;to know in advance,&rdquo; and in the NT it refers to God‘s foreknowledge as election of his people (Rom. 8:29; 11:2) or of Christ (1 Pet. 1:20), or to the advance knowledge that believers have by prophecy (2 Pet. 3:17). Another possible meaning is &ldquo;to know before the time of speaking,&rdquo; as in Acts 26:5. The noun is used by the LXX in Jdt. 9:6 for God‘s predeterminative foreknowledge and in Jdt. 11:19 for prophetic foreknowledge; Justin uses it similarly in Dialogue with Trypho 92.5; 39.2. &mdash; TDNT "Kittel"
-
---
-
-> **FOREKNOW FOREKNOWLEDGE**
->
-New Testament
->
-**Verb**: προγινώσκω (proginōskō) GK
-4589 (S 4267), 5x. proginosko means "to foreknow."
->
-**Noun**: πρόγνωσις (prognōsis) GK 4590 (S 4268), 2x. prognosis means "foreknowledge." Two occurrences of the verb proginosko refer to human knowledge, namely, that someone "has known" some person or some Christian teaching "for a long time" (Acts 26:5;2 Pet. 3:17). The other three uses of the verb and the two uses of the noun refer to divine foreknowledge. Peter in his Pentecost message indicates that Jesus was delivered over to his enemies "by God's set purpose and foreknowledge" (Acts2:23).In fact, Jesus was divinely "chosen" to this task "before" the creation of the world (l Pet. 1:20). Peter also states that believers "have been chosen according to the foreknowledge of God" (l Pet. l:2). Paul emphasizes the same message, .that "those God foreknew
-he also predestined to be conformed to the image of his Son'? (Rom. 8:29; cf. also l1:2). We serve a God who knows all things and acts in accordance with his will.*
->
-&mdash; MOUNCE'S Complete Expository Dictionary of Old and New Testament Words
-
-
---
-
-> 8:29 foreknew. Perhaps “knew ahead of time” (see Acts 26:5; 2 Pet 3:17, where the same Greek word is used): God “foreknew” who would believe in him and so predestined them. But “know” probably has the biblical sense of “enter into relationship with” (see Gen 18:19; Jer 1:5; Amos 3:2, where the same Hebrew word is translated “chosen,” “knew,” and “chosen,” respectively): God chose to initiate a relationship with people “before the creation of the world” (Eph 1:4; cf. Rom 11:2; Acts 2:23; 1 Pet 1:2, 20) and on that basis “predestined” them. &mdash; NIV, Biblical Theology Study Bible
-
---
-
-> ... Foreknew reaches back to the OT, where the word “know” emphasizes God’s special choice of, or covenantal affection for, his people (e.g., Gen. 18:19; Jer. 1:5; Amos 3:2). See Rom. 11:2, where “foreknew” functions as the contrast to “rejected,” showing that it emphasizes God’s choosing his people (see also 1 Pet. 1:2, 20). God also predestined (i.e., predetermined) that those whom he chose beforehand would become like Christ. &mdash; ESV Study Bible
-
---
-
-> 8:29 God foreknew, which means simply “to know beforehand.” This has been interpreted by some as God’s free and merciful choice of certain people who would receive His gift of salvation. Those who hold this view contend that His knowledge of future events and people did not determine His choice (see 1 Pet. 1:2). Instead He chose those who would be saved out of His own free will. Others believe that in His wisdom, God knew beforehand those who would respond to Him in faith. According to both views, only God saves; people never earn salvation through any work. 
->> **predestined**
->>
-(Gk. proorizō) (8:29, 30; Acts 4:28; 1 Cor. 2:7; Eph. 1:5, 11)
-Strong’s #4309
->>
-To predestine means “to mark out beforehand,” “to establish one’s boundary, or one’s limits, beforehand.” Our English word horizon is a derivative of this Greek word. The Christian’s ultimate destiny or horizon has been fixed
-by God from all eternity: to be made like His Son. Note how the words predestined, called, justified, and especially glorified in Rom. 8:29, 30 are in the past tense. That is because God, from His eternal perspective, sees this process as having been completed already. From God’s perspective, we have been glorified already because He sees us righteous because of the work of Jesus on the Cross. But still, in the march of time, we must undergo the process of being conformed to the image of God’s Son.
->
-&mdash; NKJV Thomas Nelson Study Bible, Second Edition, Full-Color Edition
-
---
-
-> 29: Foreknew . . . predestined, see Eph 1.4. Though from a human perspective God’s intention that humans be conformed to the image of God’s Son can be conceived as being prior in time, Paul affirms that there was never a moment when this was not God’s will. Firstborn, see v. 16–17; see also Col 1.15. 30: Glorified, is in the past tense, like “called” and “justified”; unlike v. 17, Paul sees temporality both from the human and divine perspective: though from our perspective being glorified is future, from God’s perspective it has already occurred since it is God’s will; see also v. 29n. &mdash; New Oxford Annotated (NOAB)
-
---
-
-> 29: Cf. 1QS 3.15–16; 11.10–11,17–20; 1QH 1.7–8; CD 2.8. Foreknew, a characterization of God’s sovereignty over the future, and not on the existence of free choice among human beings; see 9.10–13n. Within a large family, lit., among many brothers (and sisters) (see translators’ note f). Jesus Christ is the firstborn of those who are raised from the dead (for non-Pauline expression of this idea, see Col 1.15,18). &mdash; The Jewish Annotated New Testament (TJANT)
-
-<a name="unique" href="#contents" style="font-size:1.2em;">3.1.4 My Unique Theory On Foreknowledge</a>
-
-<!-- Like the scholars and lexicons suggest, it's not about knowing facts, logic, reason, choices, will, or decisions of what someone will do or decide, as no relationship exists or lasts based on knowledge alone, but it is instead a more profound &ldquo;foreloving&rdquo;. -->
-
-***The Prescient Forelove View (prescientism)***
-
-> My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and so I call it a hybrid moderate stance, and my view I've named, the <a href="#unique">prescient forelove</a> view or prescientism. As far as I know I'm the first to coin this phrase and use this 'ism. &mdash; <a href="#election">Conditionality of Election</a>
-
-<!-- Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position. -->
-
-Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position.
+The [Lexicon & Dictionary](https://sevenshepherd.github.io/chosen/#appendix) definitions of proginṓskō do seem to favor the Calvinist interpretation; however, <a href="https://sevenshepherd.github.io/chosen/#demarest">Dr. Demarest</a> demonstrates that the verb could mean either prescience or foreordaining.
 
 > ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... 
 >
@@ -553,7 +421,92 @@ Take reformed theology, apply unlimited atonement or [hypothetical universalism]
 >
 ... The NT frequently cites the very **close relationship** that exists **between God’s loving and his choosing** (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo;... 
 >
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131.
+&mdash; <a href="https://sevenshepherd.github.io/chosen/#demarest">Dr. Bruce Demarest (Ph.D., University of Manchester)</a>, Chapter Three, The Doctrine of Election. pp. 127-131.
+
+<span style="font-size:1.2em;">🧩 Is God’s Foreknowledge Causative?</span>
+
+Even though I'm reformed leaning, I appreciate the clear logic of <a href="https://sevenshepherd.github.io/chosen/#heiser">Dr. Heiser</a> who provided us with a piece of the puzzle. ***&ldquo;foreknowledge does not necessitate predestination&rdquo;***. He goes on to make a good example by saying the following:
+
+> the fact that God knows possibilities, and all possibilities don't happen. tells you that God's foreknowledge of those possibilities did not result in the predestination of all those possibilities. foreknowledge and predestination are not inextricably linked, **foreknowledge does not necessitate predestination**. God knowing all things real and possible actually undermines that idea. &mdash; <a href="https://sevenshepherd.github.io/chosen/#heiser">Dr. Michael S. Heiser (PhD, University of Wisconsin)</a>
+
+So right at the get go, we sould not confuse one for the other. *The Golden Chain of Redemption* also demonstrates two seperate concepts. &ldquo;For those whom he **foreknew** he also **predestined**&rdquo;:
+
+> <sup style="font-weight:bold;">29</sup> For those whom he **foreknew** he also **predestined** to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. <sup style="font-weight:bold;">30</sup> And those whom he predestined he also **called**, and those whom he called he also **justified**, and those whom he justified he also **glorified**. &mdash; Romans 8:29-30 ESV
+
+For this reason, we will view the topic of foreknowledge and the topic of predestination as individual, but intertwined, sections. God predestined some, not all, of the things in which he foreknew.
+
+<span style="font-size:1.2em;">🧩 Demonstrating Foreordination</span>
+
+Propnents of <a href="https://sevenshepherd.github.io/chosen" style="font-weight:bold;">unconditional single election</a> have provided many examples in the bible that demonstrate events which are determined or foreordained.
+
+<!-- If could be demonstrated, that determinism is in the Bible, in any way, shape, or form, then the <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;">Compatibilist</a> would be more likely, but if it were point 2, then the view would have to be a <a href="https://sevenshepherd.github.io/chosen/#smith" style="font-weight:bold;">Reformed Wesleyan</a> view, where God's sovereign choice is given precedence over our free will, even if we have free will. These two stances are like two different compatibilist views, one unconditional and the other conditioned upon foreseen faith. -->
+
+> [@2:58](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178) ... Arminians will come in and say that God's predetermination or election is based on his foreknowledge in other words God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** ... &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178)
+
+[Dr. D.A. Carson (PhD, University of Cambridge)](https://sevenshepherd.github.io/chosen/#god-as-sovereign) provides incontrovertible proof of determinism as foreordination in scripture:
+
+> ... Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence **the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7)**.
+
+> ... **Human thoughts and decisions are often attributed directly to God's determining (e.g. 2 Sam. 24.1; Isa. 19.13f.; 37.7; Prov. 21.1; Ezra 1.1; 7.6, 27f.; Neh. 2.11f.).** ...
+
+> Examples are so numerous that only a few instances may be cited. Micaiah's description of the heavenly courts and **the selection of a lying spirit whose success is guaranteed (1 Kgs. 22.19-22; 2 Chr. 18.18-22), the inciting of David to evil purpose (2 Sam. 24.1)**, the selling of Joseph into slavery (Gen. 50.20), **the sending forth of evil spirits to their appointed tasks (e.g. Judg. 9.23ff.; 1 Sam. 16.14; 18.10)**, the prologue of Job, not to mention the specific remarks of the prophets (e.g. Does evil (rā'āh) befall a city, unless the LORD has done it?" Amos 3.6; cf. Isa. 14.24-7; 45.7), all clamour for attention. ...
+
+> ... **God is also said to control the minds of his people for good. Sometimes he is petitioned to do so.** Such expressions are particularly common in the prophets who look forward to the new covenant (cf. Jer. 31.31-4; 32.40; Ezek. 11.19f.; 36.22ff.; Zeph. 3.9-13; etc.), but are certainly not restricted to such a framework (e.g. 1 Chr. 29.17-19).
+
+> Yahweh is holy, sovereign, full of special regard for his elect, and personally ruling in the affairs of men. This view of God makes the perplexity of his people understandable when, from the human perspective, it appears that Yahweh has dealt harshly (Ruth 1.20f.), unfairly (Job 3ff.), or without due consideration of the wickedness of other men (Habbakuk; Ps. 73). It prompts a cry like that in Isaiah 63.17: '**O LORD, why dost thou make us err from thy ways, and harden our heart**, so that we fear thee not? Return for the sake of thy servants, for the tribes of thy heritage. (Cf. also Isa. 64.76.).
+
+<span style="font-size:1.2em;">🧩 Narrowing Down Possible Views</span>
+
+1. If the word proginṓskō means to foreordain as the Calvinists, Amyraldians, and Compatibilists say, and as the lexicons lean, logic shows that it would not be all encompassing or mechanically deterministic. Since foreknowledge as foreordination would not necessitate predestination in every instance. It is always true that God is absolutely sovereign, but it seems that he allows some form of freedom in the system he designed and so a <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;">Moderately Reformed Compatibilist</a> view would be the most precise.
+2. If proginṓskō means prescience, then I would say, the best definition put forth would be the <a href="https://sevenshepherd.github.io/chosen/#smith" style="font-weight:bold;">Reformed Wesleyan Foreknowledge</a> view.
+
+<span style="font-size:1.2em;">🧩 Conclusion</span>
+
+<!-- Before concluding any [research](https://sevenshepherd.github.io/chosen/) on the topic, I was raised to believe in the <a href="https://sevenshepherd.github.io/chosen/#smith" style="font-weight:bold;">Wesleyan Foreknowledge</a> view.  -->
+
+Between Heiser, Lennox, & Turek we know that foreknowledge is non-causative. I know the sun will rise tomorrow, have I caused it to happen? No. The culpability of those involved in Christ’s predestined crucifixion should demonstrate this (Acts 2:23 NET). Lennox has also pointed out that foreknowledge of faith is not a work (Ro 4:5). πιστεύω (pisteuō) is the same word used in John 3:16. 
+
+From the other side, Demarest, Rhodes, & Carson have provided evidence of foreordination in the Bible. It would be difficult to say if election is conditional and based upon foreseen faith a kind of prescience, or if it were unconditional sovereign act of forelove/forordination. I do know one thing, the Compatibilists are correct that both God's sovereign choice is in just about everything that happens, as well as human responsibility.
+
+I have to side with <a href="https://sevenshepherd.github.io/chosen/#carson">D.A. Carson</a> on this; however, I must state again, it is unclear upon what God is basing election. Just because God determines and chooses who will be saved, does not mean he bases it upon nothing. 
+
+<span style="font-size:1.2em;">🧩 Unique Theory & Basis Speculation</span>
+
+I did have a view that sat between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and I once called it the &ldquo;*prescient forelove view*&rdquo; or &ldquo;prescientism&rdquo;. 
+
+It was uniquely compatibilist but foreknowledge leaning. It was essentially the wesleyan foreknowledge view with free will stripped out of the reason for the election. It made the philosphical distinction between love and decision. It replaced the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent and choice making, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith.
+
+Not "knowledge of facts" but instead a forefelt "foreloving" of reciprocated love irrespective of time. It describes the deeper inexplicable and enigmatic ways of reciprocal love that has always defied logic, reason, facts, choice, will or decision.
+
+A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotemporal limitations of human understanding or free decision. Neither by arbitrary or random selection (cal.), nor by facts of forseen free will choice (arm.), but a deeper foreloving by the heart he did foreknow.
+
+- Why do you think we're called the bride of Christ?
+- How many of you chose your wives or husbands without reciprocation? None that I know of.
+- When has love ever been a pre-planned, scheduled event? Marriage maybe but not love.
+- People don't control or decide the way their hearts feel.
+- When you're in love, you "just know," it's not about free will or decision.
+- This reciprocation was never a logical decision was it.
+- We were made in the image of God but both sides are stuck on the brain instead of the heart where it should be (reciprocal love that transcends time).
+- What could be more love based than faith (trust and reliance)?
+- Faith alone is not a decision (of the mind), it is a disposition (of the heart). Assenting to facts even a demon (James 2:19), or computer can do.
+- Notice how we are judged by the secrets of our hearts (Ro 2:16 NET, 1 Sam 16:7 NET; Ps 139:1-2 NLT; Jer 17:10 NLT).
+- &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon
+
+<!-- ***The Prescient Forelove View (prescientism)*** -->
+
+<!-- > My theory sits between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and so I call it a hybrid moderate stance, and my view I've named, the <a href="#unique">prescient forelove</a> view or prescientism. As far as I know I'm the first to coin this phrase and use this 'ism. &mdash; <a href="#election">Conditionality of Election</a> -->
+
+<!-- Take reformed theology, apply unlimited atonement or a hypothetical universalist system like [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), and replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and you'll arrive at my theological position. -->
+
+<!-- Take reformed theology, apply unlimited atonement or [hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), replace the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith, and then you'll arrive at my theological position. -->
+
+<!-- > ... &ldquo;With God as subject **the verb could mean either prescience or foreloving/foreordaining** (Rom 8:29; 11:2; 1 Pet 1:20)... 
+>
+... the probable meaning of proginōskō with God as subject is **to “know intimately”** or **“forelove.”**... 
+>
+... The NT frequently cites the very **close relationship** that exists **between God’s loving and his choosing** (Eph 1:4; Col 3:12; 1 Thess 1:4; 2 Thess 2:13).&rdquo;... 
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), Chapter Three, The Doctrine of Election. pp. 127-131. -->
 
 <!-- While I believe that all Protestants have members among the saved within the invisible Church, some of their theologies leave much to be desired: -->
 
@@ -587,25 +540,23 @@ This is my conclusion. My conclusion seems to have no name, but it does acknowle
 - 🚫 In modern neotheologies, like extreme forms of the 80s "free grace" movement, salvation is by blind faith (evidenceless) and assent (which is delusional); these teachings flirt with the heresy of [antinomianism](https://sevenshepherd.github.io/antinomian-heresy/) and twist the meaning of [repentance](https://sevenshepherd.github.io/repentance/).
     - Hopefully you don't have the <a href="#dead">false assurance of a dead or superficial faith</a>. -->
 
-While I believe that all Protestants have members among the saved within the invisible Church, some of their theologies leave much to be desired. In my theology salvation is prescient upon the fiducial nature of genuine saving faith. It answers the question: &ldquo;what is foreknowledge based upon?&rdquo;, or &ldquo;foreknowledge of what?&rdquo; Reciprocated "forelove" via fiducia. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith.
-
 <!-- In my theology salvation is prescient upon reciprocated forelove within the genuine dispositions of the heart and the fiducial nature of genuine saving faith. So then salvation is neither by random selection, nor by human works, but instead salvation is by grace through genuine faith. -->
 
-- Foreknowledge is non-causative. I know the sun will rise tomorrow, have I caused it to happen? No. The culpability of those involved in Christ’s predestined crucifixion should demonstrate this (Acts 2:23 NET).
-- Foreknowledge of reciprocated love in genuine faith is not a work (Ro 4:5). πιστεύω (pisteuō) is the same word used in John 3:16.
+<!-- - Foreknowledge is non-causative. I know the sun will rise tomorrow, have I caused it to happen? No. The culpability of those involved in Christ’s predestined crucifixion should demonstrate this (Acts 2:23 NET).
+- Foreknowledge of reciprocated love in genuine faith is not a work (Ro 4:5). πιστεύω (pisteuō) is the same word used in John 3:16. -->
 
 <!-- - Some do not teach trust and reliance on the person of Christ, these people are likely not saved. -->
 
 <!-- - Moderate forms hold to an evidence-based faith like most rational groups but still butcher [repentance](https://sevenshepherd.github.io/repentance/). -->
 
-As far as I can articluate right now, my theology is a hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. Here are some additonal thoughts that are **subject to change**:
+<!-- As far as I can articluate right now, my theology is a hybrid between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). Two moderate views that better describe the first wave of the reformation and their founders. Here are some additonal thoughts that are **subject to change**: -->
 
 <!-- My slightly altered [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) theology, which you could say is slightly Reformed Wesleyan in it's election view, is still being developed. Here are some additonal thoughts that are **subject to change**: -->
 
-- It's possible that "before the foundation of the world" (Eph. 1:4), implies, that God's electing "forelove" was prescient upon a hypothetical future not corrupted by total depravity. This would neither interfere with total depravity in our reality nor the need of being rescued by the Sovereign Lord.
-- By keeping God's foreknowledge hypothetical upon those who would have reciprocated him had there not been a fall, the position of regeneration could stay the same.
+<!-- - It's possible that "before the foundation of the world" (Eph. 1:4), implies, that God's electing "forelove" was prescient upon a hypothetical future not corrupted by total depravity. This would neither interfere with total depravity in our reality nor the need of being rescued by the Sovereign Lord.
+- By keeping God's foreknowledge hypothetical upon those who would have reciprocated him had there not been a fall, the position of regeneration could stay the same. -->
 
-I also believe that my theory works irrespective of human free will. In other words, believe what you want on that, because its not about the head it's about the heart.
+<!-- I also believe that my theory works irrespective of human free will. In other words, believe what you want on that, because its not about the head it's about the heart.
 
 - Why do you think we're called the bride of Christ?
 - How many of you chose your wives or husbands without reciprocation? None that I know of.
@@ -617,7 +568,7 @@ I also believe that my theory works irrespective of human free will. In other wo
 - What could be more love based than faith (trust and reliance)?
 - Faith alone is not a decision (of the mind), it is a disposition (of the heart). Assenting to facts even a demon (James 2:19), or computer can do.
 - Notice how we are judged by the secrets of our hearts (Ro 2:16 NET, 1 Sam 16:7 NET; Ps 139:1-2 NLT; Jer 17:10 NLT).
-- &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon
+- &ldquo;Free will carried many a soul to hell, but never a soul to heaven.&rdquo; &mdash; Spurgeon -->
 
 <!-- - ✅ In my theology salvation is prescient upon reciprocated love within genuine saving faith. The heart change and disposition that makes faith genuine (beyond works or choice). So then salvation is neither by random selection nor by human decision, but instead salvation is by faith alone. -->
 
@@ -654,7 +605,7 @@ My theory works irrespective of whether there is free will or not, and whether o
 
 <!-- If I could push my theory further, one could surmise something more amyraldian mixed with a touch of weslyanism. -->
 
-<a name="predestination" href="#contents" style="font-size:1.6em;">3.2 Predestination</a>
+<!-- <a name="predestination" href="#contents" style="font-size:1.6em;">3.2 Predestination & Determinism</a> -->
 
 <!-- Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
 
@@ -684,7 +635,7 @@ My theory works irrespective of whether there is free will or not, and whether o
 
 <span style="font-size:1.2em;">⚠️ Under Construction</span>
 
-Refresh weekly for updates.
+Refresh weekly for updates. This article will probably always be under construction, because I read a lot. One time I read nearly 20 books in one week. Other times I'll contemplate a simple quotation for days. When I come to a conclusion I update my views in this article.
 
 <!-- <br>
 
