@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 12:05:00 -0500
+date: 2023-10-19 12:15:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -462,7 +462,7 @@ Propnents of <a href="https://sevenshepherd.github.io/chosen" style="font-weight
 
 <span style="font-size:1.2em;">⌛ My Old But Unique Theory</span>
 
-I did have a view that sat between Moderate Calvinism ([Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and I once called it the &ldquo;*prescient forelove view*&rdquo; or &ldquo;prescientism&rdquo;. 
+I did have a view that sat between [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) and I once called it the &ldquo;*prescient forelove view*&rdquo; or &ldquo;prescientism&rdquo;. 
 
 It was uniquely compatibilist but foreknowledge leaning. It was essentially the wesleyan foreknowledge view with free will stripped out of the reason for the election. It made the philosophical distinction between love and decision. It replaced the arbitrary nature of election for a reciprocated "forelove" not based on cognitive assent and choice making, but on the genuine dispositions of the heart and the fiducial nature of genuine saving faith.
 
