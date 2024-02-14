@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 12:25:00 -0500
+date: 2023-10-19 12:35:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -437,7 +437,7 @@ For this reason, we will view the topic of foreknowledge and the topic of predes
 
 <span style="font-size:1.2em;">🧩 Demonstrating Foreordination</span>
 
-Propnents of <a href="https://sevenshepherd.github.io/chosen" style="font-weight:bold;">unconditional single election</a> have provided many examples in the bible that demonstrate events which are determined or foreordained.
+Proponents of <a href="https://sevenshepherd.github.io/chosen" style="font-weight:bold;">unconditional single election</a> have provided many examples in the bible that demonstrate events which are determined or foreordained.
 
 <!-- If could be demonstrated, that determinism is in the Bible, in any way, shape, or form, then the <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;">Compatibilist</a> would be more likely, but if it were point 2, then the view would have to be a <a href="https://sevenshepherd.github.io/chosen/#smith" style="font-weight:bold;">Reformed Wesleyan</a> view, where God's sovereign choice is given precedence over our free will, even if we have free will. These two stances are like two different compatibilist views, one unconditional and the other conditioned upon foreseen faith. -->
 
