@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 12:45:00 -0500
+date: 2023-10-19 12:55:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -443,7 +443,7 @@ Proponents of <a href="https://sevenshepherd.github.io/chosen" style="font-weigh
 
 > [@2:58](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178) ... Arminians will come in and say that God's predetermination or election is based on his foreknowledge in other words God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** ... &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178)
 
-[Dr. D.A. Carson (PhD, University of Cambridge)](https://sevenshepherd.github.io/chosen/#god-as-sovereign) provides incontrovertible proof of determinism as foreordination in scripture:
+[Dr. D.A. Carson (PhD, University of Cambridge)](https://sevenshepherd.github.io/chosen/#god-as-sovereign) provides incontrovertible proof of God's sovereign determining:
 
 > ... Chance is excluded; and if here and there we read of something that might be considered a chance event, it is not really thought of apart from God's direction (1 Sam. 6.9; 20.26; 1 Kgs. 22.34; Ruth 2.3; 2 Chr. 18.33). Hence **the lot is used to discover Yahweh's will, 'and is didactically recognised as under His control' (Prov. 16.33; cf. Josh. 7.16; 14.2; 18.6; 1 Sam. 10.19-21; Jonah 1.7)**.
 
