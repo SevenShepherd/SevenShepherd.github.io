@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 Why I've Always Rejected Limited Atonement" 
-date: 2023-09-22 02:35:00 -0500
+date: 2023-09-22 02:45:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -19,13 +19,20 @@ Calvin, did not subscribe to limited atonement... this view of the atonement
 was not even introduced until the second or third generation of
 Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() p. 179.
 
+Consider the following points:
+- The Bible does not support limited atonement:
+    - 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+- St. Augustine and virtually every other church father did not hold to limited atonement.
+- Luther & John Calvin did not hold to limited atonement either.
+- Jonathan Edwards was likely a hypothetical universalist.
+
 <!-- "🌷 “My position is known in theological circles as “4-point Calvinism.”” — Dr. Ron Rhodes. Is He Correct To Drop The 'L' From TULIP?" -->
 
-<!-- Reformed theology contains a majority position known as orthodox Calvinism, and a minority view which posits a moderate position, often referred to as moderate Calvinism. This nuanced perspective deviates from the conventional doctrine of limited atonement and instead favors a libertarian conception of free will, as opposed to the prevailing view of [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55). In this regard, there are few individuals better equipped than Dr. Ron Rhodes to articulate and defend this stance with precision and clarity. -->
+<!-- Reformed theology contains a majority position known as Scholastic Calvinism, and a minority view which posits a moderate position, often referred to as moderate Calvinism. This nuanced perspective deviates from the conventional doctrine of limited atonement and instead favors a libertarian conception of free will, as opposed to the prevailing view of [freedom of inclination](https://youtu.be/kSgYJbXGb04?t=55). In this regard, there are few individuals better equipped than Dr. Ron Rhodes to articulate and defend this stance with precision and clarity. -->
 
 <!-- > My position is known in theological circles as “4-point Calvinism. ... As a 4-point Calvinist, I hold to all the above <span style="color:#A8A8A8">[TULIP]</span> except limited atonement <span style="color:#A8A8A8">['L']</span>. &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/Efc5MA2Vtu4), <span style="font-weight:bold;color:#FBB917;">4-point Moderate Calvinist</span>, [The Extent of the Atonement—Limited Atonement versus Unlimited Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement). -->
 
-<!-- As for who will defend the majority orthodox Calvinist position, I will be pulling from a wide body of <a href="#cite">sources</a> to verify if Rhodes has been answered. -->
+<!-- As for who will defend the majority Scholastic Calvinist position, I will be pulling from a wide body of <a href="#cite">sources</a> to verify if Rhodes has been answered. -->
 
 <!-- <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -38,7 +45,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
 <!-- The focal point of this article is a comparison between Limited and Unlimited Atonement; nonetheless, it is of utmost importance to accurately convey the Calvinistic perspective on free will. It has been observed that numerous individuals tend to misconstrue this notion. It is pertinent to note that the charts presented herein are derived from Sproul's authoritative work ["Chosen by God."](https://amzn.to/42w1i9y) -->
 
-<!-- > Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>. -->
+<!-- > Every person who's ever been a Calvinist that I know of in history, has affirmed without reservation, that we are moral agents. We are volitional creatures that God has made; each one of us with a mind, with a heart, with affections, and with a will. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=55), <span style="font-weight:bold;color:#3EA055;">5-point Scholastic Calvinist</span>. -->
 
 <!-- |Pre-Fall|Post-Fall|
 |:-:|:-:|
@@ -54,7 +61,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 |Unable to not sin|Unable to not sin|
 |Unable to sin|<span style="font-weight:bold;color:#3EA055;">Unable to sin</span>| -->
 
-<!-- > Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>. -->
+<!-- > Unless it <span style="color:#A8A8A8">[your will]</span> has no bias to either side it's not truly free. Calvinism teaches that your desires are only wicked continuously in your fallen condition. They <span style="color:#A8A8A8">[Arminians]</span> would say then "Well your will isn't free," I'd say "Well it's free from coercion, but what it's not free from is you," because when I choose something I choose what I want, and if what I want is corrupt, then my choice will be corrupt. That's why I have to be changed, inside of me, for my will to choose the things of God. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/kSgYJbXGb04?t=209), <span style="font-weight:bold;color:#3EA055;">5-point Scholastic Calvinist</span>. -->
 
 <!-- <a name="atonement" href="#contents" style="font-size:2.1em">🌷 II. Whosoever Believes</a> -->
 
@@ -77,7 +84,7 @@ Reformers... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Em
 
     Furthermore, of those who survived, there were some who still did not repent even though the cure rate was 100%. Thus, &ldquo;any man&rdquo; is not &ldquo;every man&rdquo; by observation.
 
-    > What is left unstated in this narrative is the number of people who died despite this remedy that God provided. Some of the people clearly repented, but the implication of the text is that **some of those who were bitten** looked at the bronze serpent while others **did not**. Even in their death agonies, in the throes of the terror and pain inflicted by these serpents, they would not trust God’s prescribed course—**even though the cure rate was one hundred percent**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary), John: An Expositional Commentary](https://amzn.to/42bfUdW), <span style="font-weight:bold;color:#3EA055;">5-point Orthodox Calvinist</span>.
+    > What is left unstated in this narrative is the number of people who died despite this remedy that God provided. Some of the people clearly repented, but the implication of the text is that **some of those who were bitten** looked at the bronze serpent while others **did not**. Even in their death agonies, in the throes of the terror and pain inflicted by these serpents, they would not trust God’s prescribed course—**even though the cure rate was one hundred percent**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary), John: An Expositional Commentary](https://amzn.to/42bfUdW), <span style="font-weight:bold;color:#3EA055;">5-point Scholastic Calvinist</span>.
     
     All Christian theologies including Rhodes' acknowledges an effectual call. While I find Rhodes answer to be a good one, I don't find it to be convincing. I'd need something more to tip the scales of interpretation. I find this subject to be dangerous to get wrong so I'm not advocating for either position as of yet. -->
 
