@@ -8,9 +8,16 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
-A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives ([amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I recommend the ESV Study Bible & NET Full Notes Edition as the most state of the art and accurate Bible versions available.
-
 > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
+
+1. Historic Protestant (The Five Solas)
+2. Theologically Conservative
+3. Moderate Distinctives
+    - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
+4. Soft-cessationist
+5. ESV Study Bible & NET Full Notes Edition
+
+<!-- - [Reformed Wesleyan Foreknowledge](https://sevenshepherd.github.io/chosen/#smith) -->
 
 <!-- My favorite Bible teachers, aside from the obvious answer of Jesus, the Apostles, and Kings David & Solomon, would be: D.A. Carson (Ph.D., University of Cambridge), Hugh Ross (PhD, Astrophysicist at University of Toronto), Walter Martin (Ph.D., California Coast University), Ron Rhodes (Th.D., Dallas Theological Seminary), <a href="https://youtu.be/jOFsFgUUdZo" style="color:black;">Dr. J.I. Packer (Ph.D., University of Oxford)</a>, <a href="https://youtu.be/s9e3Y2SMXag" style="color:black;">Dr. Wayne Grudem (PhD, University of Cambridge)</a>, and my original pastors, <a href="https://youtu.be/kP8rIIps4Sk?t=130" style="color:black;">Chuck Smith</a>, & Dr. Jack Van Impe.  -->
 
