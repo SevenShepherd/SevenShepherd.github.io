@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 2:45:00 -0500
+date: 2020-01-01 3:00:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -14,12 +14,11 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives
+3. Moderate Distinctives (or)
     - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
+    - [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Soft-cessationist
 5. ESV Study Bible & NET Full Notes Edition
-
-<!-- - [Reformed Wesleyan Foreknowledge](https://sevenshepherd.github.io/chosen/#smith) -->
 
 <!-- (e.g. computer programming and [automating](https://twitter.com/SevenShepherd) my social media, [chess](https://sevenshepherd.github.io/chess-games-magnus/), piano (Chopin), and constructed languages like Esperanto which I'm considering). I am currently hand designing both the front-end and back-end of my latest website.  -->
 

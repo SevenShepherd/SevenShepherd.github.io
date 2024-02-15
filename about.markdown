@@ -14,6 +14,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 2. Theologically Conservative
 3. Moderate Distinctives
     - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
+    - [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Soft-cessationist
 5. ESV Study Bible & NET Full Notes Edition
 
