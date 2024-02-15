@@ -10,9 +10,11 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET
 
+<span style="font-size:1.2em;">Overview</span>
+
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives
+3. Moderate Distinctives (or)
     - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
     - [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith) / [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Soft-cessationist
