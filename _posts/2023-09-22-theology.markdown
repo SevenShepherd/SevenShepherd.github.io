@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 13:00:00 -0500
+date: 2023-10-19 13:05:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -23,19 +23,20 @@ published: true
         - 2.2.3 <a href="#living">Living Faith v. Dead Faith</a>
         - 2.2.4 <a href="#legal">False Assurance (Legalism)</a>
     - 2.3 <a href="#praise">Praise Music According To Scripture</a>
-    - 2.4 Stances On TULIP
-        - 2.4.1 <a href="#depravity">Totalness Of Depravity</a>
-        - 2.4.2 <a href="#election">Conditionality of Election</a>
-        - 2.4.3 <a href="#atonement">Extent of Atonement</a>
-        - 2.4.4 <a href="#grace">Resistibility of Grace</a>
-        - 2.4.5 <a href="#security">Preservation & Perseverance</a>
-            - 2.4.5.1 <a href="#sanctify">Progressive Sanctification</a>
+    - 2.4 <a href="#TULIP">Stances On TULIP</a>
 3. <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
     - 3.1 <a href="#foreknew">Foreknowledge & Predestination</a>
 
 
 <!-- - 3.2 <a href="#predestination">Predestination & Determinism</a> -->
 
+
+<!-- - 2.4.1 <a href="#depravity">Totalness Of Depravity</a>
+- 2.4.2 <a href="#election">Conditionality of Election</a>
+- 2.4.3 <a href="#atonement">Extent of Atonement</a>
+- 2.4.4 <a href="#grace">Resistibility of Grace</a>
+- 2.4.5 <a href="#security">Preservation & Perseverance</a>
+    - 2.4.5.1 <a href="#sanctify">Progressive Sanctification</a> -->
 
 <!-- - 2.4.3.1 <a href="#amyraut">Moïse Amyraut</a>
 - 2.4.3.2 <a href="#edmund">Edmund Calamy</a>
@@ -304,85 +305,20 @@ I recommend that your church maintain [**psalms**](https://www.youtube.com/watch
 
 <a name="TULIP" href="#contents" style="font-size:1.6em;">2.4 Stances On TULIP</a>
 
-<a name="depravity" href="#contents" style="font-size:1.6em;">2.4.1 Totalness of Depravity</a>
+<!-- <a name="depravity" href="#contents" style="font-size:1.6em;">2.4.1 Totalness of Depravity</a> -->
 
-See the expanded article on [**total depravity**](https://sevenshepherd.github.io/total-depravity/).
+See articles below
+- [**Depravity**](https://sevenshepherd.github.io/total-depravity/)
+- [**Election**](https://sevenshepherd.github.io/chosen/)
+- [**Atonement**](https://sevenshepherd.github.io/limited-atonement/)<sup>[[R]](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected)</sup>
+- Grace
+- Perseverance
 
-<a name="election" href="#contents" style="font-size:1.6em;">2.4.2 Conditionality Of Election</a>
-
-See my expanded article on [**election**](https://sevenshepherd.github.io/chosen/).
-
-<a name="atonement" href="#contents" style="font-size:1.6em;">2.4.3 The Extent Of The Atonement Is Unlimited</a>
-
-I recently composed [a small article](https://sevenshepherd.github.io/limited-atonement/) on why I reject limited atonement in favor of unlimited atonement. Please also see [Rejections of Limited Atonement](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#rejected) in my article on Amyraldism.
-
-- The Bible does not support limited atonement:
-    - 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
-- St. Augustine and virtually every other church father did not hold to limited atonement.
-- Luther & John Calvin did not hold to limited atonement either.
-- Jonathan Edwards was likely a hypothetical universalist.
-
-<!-- <a name="amyraut" href="#contents" style="font-size:1.2em;">2.4.3.1 Moïse Amyraut's Amyraldianism</a>
-
-Please refer to my full length article on [Amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian).
-
-> In sum, regarding the question, For whom did Christ die? we find biblical warrant for dividing the question into God’s purpose regarding the provision of the Atonement and his purpose concerning the application thereof. **Scripture leads us to conclude that God loves all people he created and that Christ died to provide salvation for all.** The provision side of the Atonement is part of the general will of God that must be preached to all. But beyond this, the Father loves the “sheep” with a special love,<sup>117</sup> and in the divine will the Spirit applies the benefits of Christ’s death to the “sheep,” or the elect. The application side of the Atonement is part of the special will of God shared with those who come to faith. This conclusion—that Christ died to make atonement for all to the end that its benefits would be applied to the elect—coheres with the perspective of <span style="color:#3EA055;">**Sublapsarian Calvinism** [Moderate Calvinism]</span>. <span style="color:darkred;">**It differs from the Supralapsarian** [Hyper-Calvinism]</span> and <span style="color:#FBB917;">**Infralapsarian schemes** [Scholastic Calvinism]</span>, which teach that Christ died to make provision only for the sins of the elect. And <span style="color:darkblue;">**it differs from the Arminian scheme** [Wesleyan]</span>  of decrees, which states that God willed the application of the Atonement to all, but that the divine purpose was frustrated by human resistance. A.H. Strong reflected the biblical perspective when he wrote, “Not the atonement therefore is limited, but the application through the work of the Holy Spirit.”<sup>118</sup>
->
-Thomas J. Nettles designates this development a modification of the limited Atonement hypothesis.119 Millard J. Erickson, reflecting on classical formulations of the ordo salutis, describes the position as a form of the unlimited or universal Atonement thesis.120 The view presented may be neither, as it divides the question into the divine intention concerning the provision of the cross, which is universal, and his intention concerning the application thereof, which is particular. <span style="color:#3EA055;">The position outlined is not Arminianism (as some allege) but a viewpoint close to that of Calvin himself</span>—a position that was narrowed by later, scholastic Calvinism. Our perspective, moreover, offers greater specificity than the dictum frequently articulated in evangelical circles: “The Atonement is sufficient for all but efficient for the elect.” Rather, it affirms that by divine intention Christ’s suffering and death are universal in its provision and particular in its application. 
->
-A. Realize That Christ Died for You
->
-The multiple purposes of Christ’s death on the cross can be represented by three concentric circles. **The largest circle represents the entire world for whom the Savior died as the adequate provision for sins (1 Tim 4:10; 1 John 2:2; 4:14). The middle circle delineates the sum of all believers, i.e., the church (John 10:11, 15; Acts 20:28; Rom 8:32; Gal 1:4; Eph 5:2), to whom Christ’s saving provisions were actually applied. And the innermost circle represents the individual believer for whom Christ made atonement (Gal 2:20b).** That Christ died for me and for you individually and personally is made clear by Paul’s words in the preceding text: “the Son of God . . . loved me [me] and gave himself for me [hyper emou].” It is highly significant that in describing the true Gospel and its ministry Paul used the first-person, singular pronoun twenty-eight times in this second chapter of Galatians. 
->
-How blessed it is to realize that Christ took my place on the cross and was forsaken of God for me. For my sins he bore in his body the penalty required by a holy and just God. ...
->
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 193-194.
-
-<a name="edmund" href="#contents" style="font-size:1.2em;">2.4.3.2 Edmund Calamy's Hypothetical Universalism</a>
-
-The following is an excerpt from Dr. Robert Letham's “Systematic Theology,” Chapter 14. Election and the Counsel of Redemption. Letham unbiasedly describes [Calamy's unique hypothetical universalism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#letham5.7), of which several exist. 
-
-
->
-**14.1.7 Hypothetical Universalism**
->
-Some English theologians proposed a slightly different argument than Amyraut.<sup>116</sup> Again, the point of disagreement lay more on the intent of the atonement than on election and reprobation. **Edmund Calamy (1600–1666), a member of the Westminster Assembly, held that Christ died absolutely for the elect and conditionally for the reprobate, in case they believe.** In this context, Calamy preserved the congruence in the works of the Trinity and avoided a split between the atonement and the intercession of Christ.<sup>117</sup> Calamy distinguished his position from Arminianism. Arminians say Christ paid a price placing all in an equal state of salvation. Calamy insisted his views “doth neither intrude upon either [the] doctrine of speciall election or speciall grace.” He argued that Arminianism asserted that Christ simply suffered; all people are placed in a potentially salvable situation, so that any who believe will be saved. In contrast, he believed Christ’s death saves his elect and grants a conditional possibility of salvation to the rest.<sup>118</sup> In distinction from Amyraut, Calamy held that the atonement is efficacious for the elect. Calamy’s views were not seen as posing a major threat to the Reformed consensus.
->
-&mdash; Dr. Robert Letham (Ph.D., Aberdeen), “Systematic Theology,” 14. Election and the Counsel of Redemption.
-
-<a name="arminius" href="#contents" style="font-size:1.2em;">2.4.3.3 Remonstrants and Arminians Universal Atonement</a>
-
-> ... **Turning to the issue of the extent or intent of the Atonement, Arminians consistently uphold a universal Atonement; Christ died for the purpose of providing salvation for the entire world.** They appeal to texts stating that Christ died for “all” persons (2 Cor 5:14-15; 1 Tim 2:6; Tit 2:11) or for the“world” (John 1:29; 4:42; 1 John 2:2; 4:14). They note that the word “whosoever” is used more than 110 times in the NT. Since the Gospel is for all, every last person can be saved. Christ’s death, however, is effectual only in those who desire it and who believe. Anticipating later developments, many patristic writers held that Christ died for the sins of the world. Athanasius (d. 373) maintained that in the divine scheme of things “death there had to be, and death for all, so that the due of all might be paid.”26 Cyril of Jerusalem (d. 386) affirmed that “Jesus truly suffered for all men.”27
->
-Later James Arminius (d. 1609) postulated the provisional universality of the Atonement. He said rather directly, “Christ died for all men and for every individual.”28 Desiring that none should perish in their sins, God bestows prevenient grace universally and extends salvation to all through worldwide Gospel proclamation. A year after Arminius’ death a group of his followers drafted the Five Articles of the Remonstrance (1610), article two of which reads:
->
->> Jesus Christ, the Savior of the world, died for all men and for every man, so that he has obtained for them all, by his death on the cross, redemption and the forgiveness of sins; yet that no one actually enjoys this forgiveness of sins except the believer, according to the word of the Gospel of John 3:16: “God so loved the world that he gave his only-begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
->
-Arminians such as Miley aver that an unlimited Atonement makes universal salvation theoretically possible. But since many persons fail to respond to the Gospel in faith, not everyone is actually saved. Arminians further argue that it would be duplicitous of God to offer salvation to all if, in fact, Christ did not make universal provision on the cross. Only on the basis ofa universal Atonement can the Gospel be sincerely preached to all. Many Arminians envisage universal Atonement as a logical outcome of the governmental theory. Miley typically insisted that a universal Atonement maximally upholds the cause of moral government. The broader the intent of the Atonement, the greater the good that accrues. Miley thus concluded, “The atonement, as a provision of infinite love for a common race in a common ruin of sin, with its unrestricted overture of grace and requirement of a universal Atonement can the Gospel be sincerely preached to all. Many Arminians envisage universal Atonement as a logical outcome of the governmental theory. Miley typically insisted that a universal Atonement maximally upholds the cause of moral government. The broader the intent of the Atonement, the greater the good that accrues. Miley thus concluded, “The atonement, as a provision of infinite love for a common race in a common ruin of sin, with its unrestricted overture of grace and requirement of saving faith in Christ, is, and must be, an atonement for all.”29
->
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Four, The Doctrine of Atonement. pp. 156-157.
-
-<a name="atone" href="#contents" style="font-size:1.2em;">2.4.3.4 Summary & Conclusion</a>
-
-> under construction -->
-
-<a name="grace" href="#contents" style="font-size:1.6em;">2.4.4 The Resistibility of Grace</a>
-
-> under construction
-
-<a name="security" href="#contents" style="font-size:1.6em;">2.4.5 Perserverence Of The Saints</a>
-
-> under construction
-
-<a name="sanctify" href="#contents" style="font-size:1.2em;">2.4.5.1 Progressive Sanctification</a>
-
-Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, it does not teach that it &ldquo;includes&rdquo; obedience, nor does it teach perfectionism. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
+<!-- Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15). While the scriptures teach that a living or saving faith &ldquo;results&rdquo; in obedience to God, it does not teach that it &ldquo;includes&rdquo; obedience, nor does it teach perfectionism. Obedience is only seen as a fruit of genuine saving faith, and only as an evidence not a proof.
 
 > <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
 >
 <sup style="font-weight:bold;">15</sup> What then? **Shall we sin because we are not under law but under grace? Absolutely not!** &mdash; Romans 6:1-2,15 NET
-
-<!-- <a name="repentance" href="#contents" style="font-size:1.2em;">2.2.2 Repentance Is An Immediate Fruit Of Genuine Saving Faith</a> -->
 
 These verses prove that Christians do not pursue lifestyles of indulgent sin. We are not under the law, we are under grace, yet we still do not make a practice of sinning.
 
@@ -390,7 +326,7 @@ These verses prove that Christians do not pursue lifestyles of indulgent sin. We
 2. We're under grace (Eph 2:8-10)
 3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
 
-*Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>.
+*Therefore, Christ justifies no one whom he does not at the same time sanctify.* See <a href="#golden">Golden Chain</a>. -->
 
 <!--  -->
 
@@ -480,7 +416,7 @@ A forelove, deep, transcendant, intimate, and reciprocal, beyond the spatiotempo
 
 Between Heiser, Lennox, & Turek we know that foreknowledge is not always causative. I know the sun will rise tomorrow, have I caused it to happen? No. The culpability of those involved in Christ’s predestined crucifixion should demonstrate this (Acts 2:23 NET). Lennox has also pointed out that foreknowledge of faith is not a work (Ro 4:5). πιστεύω (pisteuō) is the same word used in John 3:16. 
 
-From the other side, Demarest, Rhodes, & Carson have provided evidence of foreordination in the Bible. It would be difficult to say if election is conditional and based upon foreseen faith as a kind of prescience, or if it were unconditional sovereign act of forelove/forordination. I do know one thing, the Compatibilists are correct that both God's sovereign choice is in everything that happens, as well as human responsibility existing simultaneously.
+From the other side, Demarest, Rhodes, & Carson have provided evidence of foreordination in the Bible. It would be difficult to say if election is conditional and based upon foreseen faith as a kind of prescience, or if it were unconditional sovereign act of forelove/foreordination. I do know one thing, the Compatibilists are correct that both God's sovereign choice is in everything that happens, as well as human responsibility existing simultaneously.
 
 I have to side with <a href="https://sevenshepherd.github.io/chosen/#carson">D.A. Carson</a> on this; however, I must state again, it is unclear upon what God is basing election. Just because God determines and chooses who will be saved, does not mean he bases it upon nothing. If we do have free will it is extraordinarily limited. Think about the following:
 
