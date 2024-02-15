@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛏️ “God Clearly Does Choose” — Chuck Smith"
-date: 2024-02-01 10:25:00 -0500
+title: "⛏️ “You did not choose me, but I chose you ...” — Christ Jesus"
+date: 2024-02-01 10:35:00 -0500
 categories: election predestination
 published: true
 ---
@@ -14,10 +14,10 @@ published: true
 
 This is a compilation of quotations and excerpts pertaining to the doctrine of election from the most solid sources. Keep in mind that we're justified by faith only (Eph 2:8-9; Rom 3:28), not by our understanding of predestination and election.
 
-<!-- > <sup style="">16</sup> **You did not choose me, but I chose you** and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you. &mdash; Jesus in John 15:16 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1 Pe 1:2; 2 Pe 1:10; Re 13:8; Lk 24:45 + 1 Cor 2:14; Jn 17:9, and Ro 10:9 + 1 Cor 12:3 + Lk 6:46) -->
+> <sup style="">16</sup> **You did not choose me, but I chose you** and appointed you that you should go and bear fruit and that your fruit should abide, so that whatever you ask the Father in my name, he may give it to you. &mdash; Jesus in John 15:16 (cf. Acts 13:48,2:23; Mt 22:14; Eph 1:4,11; Jn 15:16,18-19; Jn 6:44,65; Ro 8:29-30; 9:11-16; 1Pe 1:2; 2 Pe 1:10; Re 13:8; Lk 24:45+1Cor 2:14; Jn 17:9, and Ro 10:9+1Cor 12:3+Lk 6:46)
 
-- ⭐ <span style="font-weight:bold;color:DarkKhaki;">Views held or considering</span>
-- 🟦 <span style="font-weight:bold;color:SteelBlue;">Acceptable / Noteworthy Stances</span>
+- ⭐ <span style="font-weight:bold;color:#afa73c;">Views held or considering</span>
+- 🟦 <span style="font-weight:bold;color:#1d70b4;">Acceptable / Noteworthy Stances</span>
 - 🟩 <span style="font-weight:bold;color:SeaGreen;">Scientist Theologians</span>
 - 🟥 <span style="font-weight:bold;color:FireBrick;">Unacceptable Stances</span>
 
@@ -37,11 +37,11 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 1.1.2 [Amyraldian (4-Point Calvinist)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
             - 1.1.2.1 <a href="#demarest">Dr. Demarest (Manchester)</a>
             - 1.1.2.2 <a href="#bird">Dr. Bird (Queensland)</a>
-        - 1.1.3 <a href="#mod-reformed-compat" style="font-weight:bold;color:SteelBlue;">Compatibilism</a>
+        - 1.1.3 <a href="#mod-reformed-compat" style="font-weight:bold;color:#1d70b4;">Compatibilism</a>
             - 1.1.3.1 ⭐ <a href="#ross" style="font-weight:bold;color:SeaGreen;">Dr. Ross (Toronto)</a>
-            - 1.1.3.2 ⭐ <a href="#carson" style="font-weight:bold;color:SteelBlue;">Dr. Carson (Cambridge)</a>
-                - 1.1.3.2.1 <a href="#men-as-responsible" style="font-weight:bold;color:SteelBlue;">Men As Responsible</a>
-                - 1.1.3.2.2 <a href="#god-as-sovereign" style="font-weight:bold;color:SteelBlue;">God As Sovereign</a>
+            - 1.1.3.2 ⭐ <a href="#carson" style="font-weight:bold;color:#1d70b4;">Dr. Carson (Cambridge)</a>
+                - 1.1.3.2.1 <a href="#men-as-responsible" style="font-weight:bold;color:#1d70b4;">Men As Responsible</a>
+                - 1.1.3.2.2 <a href="#god-as-sovereign" style="font-weight:bold;color:#1d70b4;">God As Sovereign</a>
             - 1.1.3.3 <a href="#martin">Dr. Martin (CCU)</a>
             - 1.1.3.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
             - 1.1.3.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
@@ -51,11 +51,11 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 2.1.2 <a href="#oden">Dr. Oden (Yale)</a>
     - 2.2 <a href="#systemless">Systemless / Armin.</a>
         - 2.2.1 <a href="#lennox" style="font-weight:bold;color:SeaGreen;">Dr. Lennox ("Oxbridge")</a>
-        - 2.2.2 <a href="#heiser" style="font-weight:bold;color:SteelBlue;">Dr. Heiser (Wisconsin)</a>
+        - 2.2.2 <a href="#heiser" style="font-weight:bold;color:#1d70b4;">Dr. Heiser (Wisconsin)</a>
     - 2.3 <a href="#moderate-arminian">Reformed Arminianism</a> ([link](https://www.gotquestions.org/Reformed-Arminianism.html))
         - 2.3.1 <a href="#ashby">Dr. Ashby (Bowling Green State)</a>
-        - 2.3.2 <a href="#mod-arm-eternal" style="font-weight:bold;color:SteelBlue;">Reformed Armin. w/ Eternal Sec.</a>
-            - 2.3.2.1 <a href="#smith" style="font-weight:bold;color:SteelBlue;">⭐ Chuck Smith</a>
+        - 2.3.2 <a href="#mod-arm-eternal" style="font-weight:bold;color:#1d70b4;">Reformed Armin. w/ Eternal Sec.</a>
+            - 2.3.2.1 <a href="#smith" style="font-weight:bold;color:#1d70b4;">⭐ Chuck Smith</a>
             - 2.3.2.2 <a href="#missler">Chuck Missler</a>
     - 2.4 <a href="#molinism">Molinism "Middle Knowledge"</a>
         - 2.4.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
@@ -1151,7 +1151,7 @@ The second clause raises immediate questions as to what is really meant by the f
 >
 &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*]() pp. 101-102.
 
-Lennox & <a href="#heiser">Heiser</a> agree that foreknowledge is not causative, or as heiser puts it <a href="https://youtu.be/kwyZxAtTHfc?si=OLkco2ZFu6gION7s">&ldquo;foreknowledge, does not necessitate predestination.&rdquo;</a>
+Lennox & <a href="#heiser">Heiser</a> agree that foreknowledge is not always causative, or as heiser puts it <a href="https://youtu.be/kwyZxAtTHfc?si=OLkco2ZFu6gION7s">&ldquo;foreknowledge, does not necessitate predestination.&rdquo;</a>
 
 > 23 this man, who was **handed over by the predetermined plan and foreknowledge of God**, you executed by nailing him to a cross at the hands of Gentiles. &mdash; Acts 2:23 NET
 
