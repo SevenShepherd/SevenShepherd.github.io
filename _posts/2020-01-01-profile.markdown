@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 3:15:00 -0500
+date: 2020-01-01 3:25:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -16,7 +16,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives (or)
+3. Moderate Distinctives
     - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith)
     - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Soft-cessationist
@@ -616,8 +616,10 @@ lack of individuation inherent to the system of Spinoza, which represents indivi
 |Aristotle<br>384–322 BC|Metaphysics 1011a6<br>[The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)|
 |Zhuang Zhou<br>369 - 286 B.C.|Zhuangzi<br>["The Butterfly Dream" or "Zhuangzi paradox"](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument)<br>(See René Descartes' evil demon, or the contemporary brain-in-a-vat, and Simulation hypothesis)|
 |René Descartes<br>*"cogito, ergo sum"*<br>31 March 1596 to 11 February 1650|[Meditations on First Philosophy](https://youtu.be/3lfcOb35Ors), [The Rationalists](https://libgen.is/book/index.php?md5=04D314AA8FF4194FC5633D4CEE7BFDDF)<br>(Descartes' Evil Demon, [The Dream Argument](https://en.wikipedia.org/wiki/Dream_argument))|
-|Gilbert Harman<br>May 26, 1938 to November 13, 2021|[Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat)|
-|Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)|
+
+
+<!-- |Gilbert Harman<br>May 26, 1938 to November 13, 2021|[Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat)|
+|Nick Bostrom<br>10 March 1973|[Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)| -->
 
 
 <!-- A Logical Journey: From Gödel to Philosophy, pg. <a href="https://books.google.com.au/books?id=pckvCy6L_ocC&pg=PA8" style="color:#006699;">8</a> -->
@@ -735,7 +737,7 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 
 > “Music is the one incorporeal entrance into the higher world of knowledge which comprehends mankind but which mankind cannot comprehend.” &mdash; Ludwig van Beethoven
 
-|||
+<!-- |||
 |:-:|:-:|
 |Antonio Vivaldi<br>4 March 1678 to 28 July 1741|[Summer / The Four Seasons](https://youtu.be/H_3JiTfmuzg)|
 |Ludwig van Beethoven<br>17 December 1770 to 26 March 1827|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
@@ -746,7 +748,19 @@ The Mozart effect is also interesting to me, and I believe classical music can h
 |Sergei Vasilyevich Rachmaninoff<br>1 April 1873 to 28 March 1943|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">Moment Musicaux No. 4 in E Minor</a>|
 |Maurice Ravel<br>7 March 1875 to 28 December 1937|[Gaspard de la nuit](https://youtu.be/n_yIgrkSNzE)|
 |Philip Glass<br>January 31 1937|[Études - No. 6 (Víkingur Ólafsson)](https://youtu.be/sZffgf4GoMQ), [Metamorphosis Two](https://youtu.be/M73x3O7dhmg?t=414), [Metamorphosis Five](https://youtu.be/M73x3O7dhmg?t=1589), <a href="https://youtu.be/UoxV0hKlWHM" style="color:#0073e6;">Mad Rush</a>, <a href="https://youtu.be/6Stu7h7Qup8" style="color:#0073e6;">Glassworks Opening</a>|
-|Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)|
+|Ludovico Maria Enrico Einaudi<br>23 November 1955|[Experience](https://youtu.be/Tu96yevGMEA)| -->
+
+At first my fascination was with songs like, Fantasie-Impromptu Op.66, "Moonlight" Sonata Op.27 #2 Mov 3, and Etude Op.10 #4. Eventually, I realized that I harbored a love for waltzes and ballads. Complex songs like the former may be impressive, but I think something that speaks to you on a deeper level is more impressive even if it is slower.
+
+|By Date||
+|:-:|:-:|
+|Ludwig van Beethoven<br>17 December 1770 to 26 March 1827|["Moonlight" Sonata Op.27 #2 Mov 3](https://youtu.be/zucBfXpCA6s), [Für Elise](https://youtu.be/wfF0zHeU3Zs)|
+|**Frédéric François Chopin**<br>1 March 1810 to 17 October 1849|[Etude Op.10 #4](https://youtu.be/oHiU-u2ddJ4), [Winter Wind Op.25-11 (Hayato Sumino)](https://youtu.be/pHlqEvAwdVc), [Fantasie-Impromptu Op.66](https://youtu.be/APQ2RKECMW8), [**Minute Waltz Op.64 #1**](https://youtu.be/3H0SRv8QNwk), [**Waltz in C Sharp Minor (Op. 64 No. 2)**](https://youtu.be/SUT_0c2QVzo), [Marche Funèbre](https://youtu.be/7-9wXQpzESo), [**Ballade No. 4 in F Minor**](https://youtu.be/3F5glYefwio), [Op. 55, No. 1 in F minor Andante (Brigitte Engerer)](https://youtu.be/evuxBxMd1vM), [Nocturne in C Sharp Minor (No. 20)](https://youtu.be/DqpPRj6UZqc)|
+|Franz Liszt<br>22 October 1811 to 31 July 1886|<a href="https://youtu.be/L42sbnQxEmw" style="color:#0073e6;">Un Sospiro</a>, <a href="https://youtu.be/H1Dvg2MxQn8" style="color:#0073e6;">La Campanella</a>|
+|Claude Debussy<br>22 August 1862 to 25 March 1918|<a href="https://youtu.be/WNcsUNKlAKw" style="color:#0073e6;">Clair de lune</a>, <a href="https://youtu.be/A6s49OKp6aE" style="color:#0073e6;">Arabesque</a>, <a href="https://youtu.be/rpTmjUkvXnQ" style="color:#0073e6;">Préludes / Book 1, L. 117 - VI. Des pas sur la neige (Víkingur Ólafsson)</a>|
+|Sergei Vasilyevich Rachmaninoff<br>1 April 1873 to 28 March 1943|<a href="https://youtu.be/v8rzHZHi9Zw" style="color:#0073e6;">**Moment Musicaux No. 4 in E Minor**</a>|
+
+
 
 <!-- <a name="art" href="#contents" style="font-style:Italic;font-size:1.6em">12.2 Art, Poetry, & Literature</a> -->
 
@@ -937,7 +951,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 <!-- > "The crown of the wise is their riches: but the foolishness of fools is folly." &mdash; Proverbs 14:24 -->
 
-> "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23
+<!-- > "In all labor there is profit, But idle chatter leads only to poverty." &mdash; Proverbs 14:23
 
 > "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words." &mdash; Ecclesiastes 5:3
 
@@ -945,7 +959,7 @@ which any human being can fight and never stop fighting." &mdash; E.E. Cummings 
 
 > Wealth gained hastily will dwindle, but whoever gathers little by little will increase it. &mdash; Proverbs 13:11
 
-> For the love of money is the root of all kinds of evil. And some people, craving money, have wandered from the true faith and pierced themselves with many sorrows. &mdash; 1 Timothy 6:10
+> For the love of money is the root of all kinds of evil. And some people, craving money, have wandered from the true faith and pierced themselves with many sorrows. &mdash; 1 Timothy 6:10 -->
 
 <!-- > “I laugh at those who think they can damage me. They do not know who I am, they do not know what I think, they cannot even touch the things which are really mine and with which I live.” &mdash; Epictetus -->
 

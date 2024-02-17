@@ -14,7 +14,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives (or)
+3. Moderate Distinctives
     - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith)
     - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Soft-cessationist
