@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "3️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-06 01:15:00 -0500
+date: 2024-02-06 01:25:00 -0500
 categories: dispensationalism
-published: false
+published: true
 ---
 
 <!-- “140 years ago, when a 15 year old girl had a revelation, and that revelation was picked up by J. N. Darby, the founder of the Plymouth Brethren, and developed into a form of theology known as dispensational theology” — Dr. Walter Martin... Now That Is Strange Fire." -->
