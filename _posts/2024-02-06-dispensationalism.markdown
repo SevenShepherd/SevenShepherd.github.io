@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 02:00:00 -0500
+date: 2024-02-19 02:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -78,9 +78,14 @@ Just some food for thought.
 
 ## ☠️ It Is Appointed Unto Men Once To Die
 
-Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they have prove? For me, in the past it was hope, but I suspect many people overlook what scripture says out of fear.
+Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they cannot prove? For me, in the past it was hope and trust in teacher who I thought knew better, but I suspect many people overlook what scripture says out of fear.
 
 > And just as **each person is destined to die once** and after that comes judgment, &mdash; Hebrews 9:27 NLT
+
+You might be quick to provide me with verses I've known since I was a child such as, &ldquo;*We shall not all sleep*&rdquo;, but this is likely talking about the second coming, and is not only just as applicable to it, but more logical to say, that upon Christ's return we're transformed post-tribulationally.
+
+> Behold! I tell you a mystery. **We shall not all sleep**, but we shall all be changed,
+>> But let me reveal to you a wonderful secret. **We will not all die**, but we will all be transformed! &mdash; 1 Corinthians 15:51 ESV, NLT (Parallel)
 
 <script>
     var refTagger = {
