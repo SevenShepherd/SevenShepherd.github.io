@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-06 01:35:00 -0500
+date: 2024-02-19 01:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -56,7 +56,25 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 
 # 🌲 The Bible Only Speaks Of One Tree
 
-> Under construction
+|Theologies||
+|:-:|:-:|
+|<span style="color:#F6BE00;">Dispensationalism</span>|The Church is separate from true Israel|
+|<span style="color:darkred;">Replacement Theology</span>|The Church has superseded true Israel|
+|<span style="color:ForestGreen;">Covenant Theology</span>|The Church is an expansion of true Israel|
+
+> 16 And since Abraham and the other patriarchs were holy, their descendants will also be holy—just as the entire batch of dough is holy because the portion given as an offering is holy. For if the roots of **the tree** are holy, the **branches** will be, too.
+>
+17 But some of these **branches** from Abraham’s tree—some of the people of Israel—have been broken off. And you Gentiles, who were **branches** from a wild olive tree, have been grafted in. So now you also receive the blessing God has promised Abraham and his children, sharing in the rich nourishment from the root of God’s special olive tree. 18 But you must not brag about being grafted in to replace the **branches** that were broken off. You are just a branch, not the root.
+>
+19 “Well,” you may say, “those **branches** were broken off to make room for me.” 20 Yes, but remember—those **branches** were broken off because they didn’t believe in Christ, and you are there because you do believe. So don’t think highly of yourself, but fear what could happen. 21 For if God did not spare the original **branches**, he won’t spare you either.
+>
+22 Notice how God is both kind and severe. He is severe toward those who disobeyed, but kind to you if you continue to trust in his kindness. But if you stop trusting, you also will be cut off. 23 And if the people of Israel turn from their unbelief, they will be grafted in again, for God has the power to graft them back into the tree. 24 You, by nature, were a branch cut from a wild olive tree. So if God was willing to do something contrary to nature by grafting you into his cultivated tree, he will be far more eager to graft the original **branches** back into the tree where they belong.
+>
+&mdash; Romans 11:16-24 NLT
+
+Just some food for thought.
+
+> And now that you belong to Christ, you are the true children[a] of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
 <script>
     var refTagger = {
