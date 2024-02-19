@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-06 01:25:00 -0500
+title: "4️⃣ Things You Probably Didn't Know About Dispensationalism"
+date: 2024-02-06 01:35:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -53,6 +53,10 @@ It's not that the church is raptured to go meet him, but rather he returns defin
 As Paul says, he then hands over the kingdom to the Father. This is the moment where Jesus will be by might what he is by right, Lord of all.
 >
 &mdash; Michael F. Bird (Ph.D., University of Queensland).
+
+# 🌲 The Bible Only Speaks Of One Tree
+
+> Under construction
 
 <script>
     var refTagger = {
