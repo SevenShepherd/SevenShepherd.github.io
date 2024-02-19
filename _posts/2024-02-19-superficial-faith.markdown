@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💬 “If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.” — Apostle John"
-date: 2024-02-19 03:00:00 -0500
+title: "💬 “If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.” — The Apostle John"
+date: 2024-02-19 03:05:00 -0500
 categories: fakes liars
 published: true
 ---
