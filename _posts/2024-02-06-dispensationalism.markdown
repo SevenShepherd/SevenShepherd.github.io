@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 01:35:00 -0500
+date: 2024-02-19 01:45:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
-Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be. I'm presenting this small critique because i'm about to study eschatology from 6 different systems simultaneously. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and D. A. Carson.
+Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be. I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
 
 # 🔥 Dispensational Theology Was Developed From The Vision Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.
 
@@ -54,7 +54,7 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 >
 &mdash; Michael F. Bird (Ph.D., University of Queensland).
 
-# 🌲 The Bible Only Speaks Of One Tree
+## 🌲 The Bible Only Speaks Of One Tree. Dispensationalism Speaks Of Two.
 
 |Theologies||
 |:-:|:-:|
@@ -76,7 +76,7 @@ Just some food for thought.
 
 > And now that you belong to Christ, you are the true children of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
-# ☠️ It Is Appointed Unto Men Once To Die
+## ☠️ It Is Appointed Unto Men Once To Die
 
 How will you be raptured when you are destined to die?
 
