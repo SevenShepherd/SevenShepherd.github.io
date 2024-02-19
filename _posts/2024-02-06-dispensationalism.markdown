@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 02:05:00 -0500
+date: 2024-02-19 02:15:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be. I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
 
-# 🔥 Dispensational Theology Was Developed From The Vision Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.
+## 🔥 Dispensational Theology Was Developed From The Vision Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Joy9pDTx88E?si=g5qoPC_QH2JKHvvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ The first 1:20 seconds of this video will floor you if you understand the gravit
 
 > so what I elected to do this evening is something very simple how many have your Bibles good what I'd like to do is to tell you first off that the position I am going to set forth tonight is not new as number one secondly the position I will set forth tonight was believed by the Christian Church for 19 centuries the Church Fathers the Reformers every great theologian in the entire history of the church up until the last 140 years believed that we would see the Anti Christ that we would be persecuted by him and that we would be delivered from him by the second coming of Jesus Christ you will find this in Catholic theology you will find that in Orthodox theology you will find it in all of the reformers and **you will not find the idea that we are going to escape the Antichrist until approximately a hundred and forty years ago when a 15 year old girl had a revelation and that revelation was picked up by J. N. Darby the founder of the Plymouth Brethren and developed into a form of theology known as dispensational theology** the church for 19 centuries. &mdash; [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
 
-# 💭 Charles Ryrie Made Things Up To Make Dispensationalism Work
+## 💭 Charles Ryrie Made Things Up To Make Dispensationalism Work
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/_T4AhNUHxZA?si=PDyA7VeqX_PR7m8q&amp;start=547" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ I feel just as betrayed as Heiser, as I was also raised in dispensational theolo
 >
 &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH). Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He was far greater than a normal theologian, he was a textual critic.
 
-# 3️⃣ Dispensationalism Effectively Teaches Two Second Comings
+## 3️⃣ Dispensationalism Effectively Teaches Two Second Comings
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Vi1Nr7IihHo?si=pkeQUEpcAV8nlb9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
