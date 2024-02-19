@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 01:45:00 -0500
+date: 2024-02-19 02:00:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -54,7 +54,7 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 >
 &mdash; Michael F. Bird (Ph.D., University of Queensland).
 
-## 🌲 The Bible Only Speaks Of One Tree. Dispensationalism Speaks Of Two.
+## 🌲 The Bible Only Speaks Of One Tree In Which We Are Grafted
 
 |Theologies||
 |:-:|:-:|
@@ -78,7 +78,7 @@ Just some food for thought.
 
 ## ☠️ It Is Appointed Unto Men Once To Die
 
-How will you be raptured when you are destined to die?
+Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they have prove? For me, in the past it was hope, but I suspect many people overlook what scripture says out of fear.
 
 > And just as **each person is destined to die once** and after that comes judgment, &mdash; Hebrews 9:27 NLT
 
