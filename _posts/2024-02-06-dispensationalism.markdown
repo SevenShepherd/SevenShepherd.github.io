@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 01:15:00 -0500
+date: 2024-02-19 01:25:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -64,7 +64,7 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 
 > 16 And since Abraham and the other patriarchs were holy, their descendants will also be holy—just as the entire batch of dough is holy because the portion given as an offering is holy. For if the roots of **the tree** are holy, the **branches** will be, too.
 >
-17 But some of these **branches** from Abraham’s tree—some of the people of Israel—have been broken off. And you Gentiles, who were **branches** from a wild olive tree, have been grafted in. So now you also receive the blessing God has promised Abraham and his children, sharing in the rich nourishment from the root of God’s special olive tree. 18 But you must not brag about being grafted in to replace the **branches** that were broken off. You are just a branch, not the root.
+17 But some of these **branches** from Abraham’s tree—some of the people of Israel—have been broken off. <span style="font-weight:bold;color:ForestGreen;">And you Gentiles, who were **branches** from a wild olive tree, have been grafted in.</span> So now you also receive the blessing God has promised Abraham and his children, sharing in the rich nourishment from the root of God’s special olive tree. 18 But you must not brag about being grafted in to replace the **branches** that were broken off. You are just a branch, not the root.
 >
 19 “Well,” you may say, “those **branches** were broken off to make room for me.” 20 Yes, but remember—those **branches** were broken off because they didn’t believe in Christ, and you are there because you do believe. So don’t think highly of yourself, but fear what could happen. 21 For if God did not spare the original **branches**, he won’t spare you either.
 >
