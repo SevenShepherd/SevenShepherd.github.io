@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 04:35:00 -0500
+date: 2024-02-19 04:45:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -27,7 +27,7 @@ published: true
 
 <a name="packer-on-legalism" href="#contents" style="font-size:1.6em;">1.1 Dr. J.I. Packer (PhD, University of Oxford) On Legalism</a>
 
-> 65\. LEGALISM
+> 65\. LEGALISM<br>
 WORKING FOR GOD’S FAVOUR FORFEITS IT
 >
 >> . . . do not do what they do, for they do not practise what they preach. They tie up heavy loads and put them on men’s shoulders, but they themselves are not willing to lift a finger to move them. Everything they do is done for men to see . . .
@@ -85,7 +85,7 @@ feeding our pride. **Legalistic religion in all its forms should be avoided like
 
 <a name="packer-on-liberty" href="#contents" style="font-size:1.6em;">1.2 Dr. J.I. Packer (PhD, University of Oxford) On Liberty</a>
 
-> 64\. LIBERTY
+> 64\. LIBERTY<br>
 SALVATION BRINGS FREEDOM
 >
 >> It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.
@@ -181,7 +181,7 @@ Practice in this sense means a lifelong continual pattern. It speaks of the purs
 
 <a name="packer-on-antinomianism" href="#contents" style="font-size:1.6em;">2.1 Dr. J.I. Packer (PhD, University of Oxford) On Antinomianism</a>
 
-> 66\. ANTINOMIANISM
+> 66\. ANTINOMIANISM<br>
 WE ARE NOT SET FREE TO SIN
 >
 >>Dear children, do not let anyone lead you astray. He who does what is right
@@ -256,7 +256,7 @@ faith, do not seek to turn from sin to righteousness (1 Cor. 6:9–11; Rev.
 
 <a name="packer-on-works" href="#contents" style="font-size:1.6em;">3.1 Dr. J.I. Packer (PhD, University of Oxford) On Resulting Works (Fruits)</a>
 
-> 59\. WORKS
+> 59\. WORKS<br>
 GOOD WORKS ARE AN EXPRESSION OF FAITH
 >
 >>You see that a person is justified by what he does and not by faith alone.
