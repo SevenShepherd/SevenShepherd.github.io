@@ -1,17 +1,12 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 05:05:00 -0500
+date: 2024-02-19 05:15:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
 
 <!-- "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin" -->
-
-<!-- - 🍎 Bearing Fruit Happens Naturally For Living Trees. 
-- 🍎 A Branch Cannot Bear Fruit By Itself (John 15:1-17). 
-- 🍎 Fruit Of The Spirit Not Of Human Decision (Gal 5:22-23). 
-- 🍎 If The Fruit Isn't Growing The Root Is Dead (Mt 3:8,10; Jn 15:8; Jas 2:17). -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -253,6 +248,13 @@ faith, do not seek to turn from sin to righteousness (1 Cor. 6:9–11; Rev.
 <br>
 
 <a name="fruit-bearing" href="#contents" style="font-size:2.1em;">3. Christ's Fruit-Bearing Metaphor</a>
+
+Bearing fruit happens naturally for living trees, both in nature and metaphorically. A branch cannot bear fruit by itself (John 15:1-17). If a tree was genuinely alive it would bear fruit. It's the fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn’t growing the root is dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
+
+- 🍎 Bearing Fruit Happens Naturally For Living Trees. 
+- 🍎 A Branch Cannot Bear Fruit By Itself (John 15:1-17). 
+- 🍎 Fruit Of The Spirit Not Of Human Decision (Gal 5:22-23). 
+- 🍎 If The Fruit Isn't Growing The Root Is Dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
 
 <a name="packer-on-works" href="#contents" style="font-size:1.6em;">3.1 Dr. J.I. Packer (PhD, University of Oxford) On Resulting Works (Fruits)</a>
 
