@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 04:45:00 -0500
+date: 2024-02-19 05:05:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#legalism">The Heresy Of Legalism</a>
-    - 1.1 <a href="#packer-on-legalism">Working for God’s favour forfeits it</a>
+    - 1.1 <a href="#packer-on-legalism">Working For God’s Favour Forfeits It</a>
     - 1.2 <a href="#packer-on-liberty">Salvation Brings Freedom</a>
 2. <a href="#antinomianism">The Heresy Of Antinomianism</a>
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
@@ -283,7 +283,7 @@ Spirit, and it ordinarily has in it some measure of conscious-assurance
 through the witnessing of the Spirit (Rom. 8:15–17). Calvin defined faith as
 ‘a firm and sure knowledge of the divine favour towards us, founded on the
 truth of a free promise in Christ, and revealed to our minds and sealed on
-our hearts by the Holy Spirit.’ Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. The truth is that, though we are justified by faith alone, the faith that justifies is never alone. It produces moral fruit; it expresses itself ‘through love’ (Gal. 5:6); it transforms one’s way of living; it begets virtue. This is not only because holiness is commanded, but also because the regenerate heart, of which fiducia is the expression, desires holiness and can find full contentment only in seeking it.
+our hearts by the Holy Spirit.’ **Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are.** But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. The truth is that, though we are justified by faith alone, the faith that justifies is never alone. It produces moral fruit; it expresses itself ‘through love’ (Gal. 5:6); it transforms one’s way of living; it begets virtue. This is not only because holiness is commanded, but also because the regenerate heart, of which fiducia is the expression, desires holiness and can find full contentment only in seeking it.
 >
 When James says that faith without works is dead (i.e. a corpse), he is
 using the word faith in the limited sense of notitia plus assensus, which is
