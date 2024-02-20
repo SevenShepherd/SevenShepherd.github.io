@@ -1,23 +1,31 @@
 ---
 layout: post
-title: "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin"
-date: 2024-02-19 04:15:00 -0500
-categories: heresies heresy
+title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomian Heretics And Legalists"
+date: 2024-02-19 04:25:00 -0500
+categories: fruit heresies heresy
 published: true
 ---
+
+<!-- "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin" -->
+
+<!-- - 🍎 Bearing Fruit Happens Naturally For Living Trees. 
+- 🍎 A Branch Cannot Bear Fruit By Itself (John 15:1-17). 
+- 🍎 Fruit Of The Spirit Not Of Human Decision (Gal 5:22-23). 
+- 🍎 If The Fruit Isn't Growing The Root Is Dead (Mt 3:8,10; Jn 15:8; Jas 2:17). -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#legalism">The Heresy Of Legalism</a>
-    - 1.1 <a href="#packer-on-legalism">Packer On Legalism</a>
-        - 1.1.1 <a href="#packer-on-liberty">Packer On Liberty</a>
+    - 1.1 <a href="#packer-on-legalism">Working for God’s favour forfeits it</a>
+    - 1.2 <a href="#packer-on-liberty">Salvation Brings Freedom</a>
 2. <a href="#antinomianism">The Heresy Of Antinomianism</a>
-    - 2.1 <a href="#packer-on-antinomianism">Packer On Antinomianism</a>
-
+    - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
+3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
+    - 3.1 <a href="#packer-on-works">Works Are An Expression Of Faith</a>
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
 
-<a name="packer-on-legalism" href="#contents" style="font-size:1.6em;">1.1 Packer On Legalism</a>
+<a name="packer-on-legalism" href="#contents" style="font-size:1.6em;">1.1 Dr. J.I. Packer (PhD, University of Oxford) On Legalism</a>
 
 > 65\. LEGALISM
 WORKING FOR GOD’S FAVOUR FORFEITS IT
@@ -72,8 +80,10 @@ So far, then, from enriching our relationship with God, as it seeks to do,
 legalism in all its forms does the opposite. It puts that relationship in
 jeopardy and, by stopping us focusing on Christ, it starves our souls while
 feeding our pride. **Legalistic religion in all its forms should be avoided like the plague.**
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 65. Legalism: Working for God’s favour forfeits it. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<a name="packer-on-liberty" href="#contents" style="font-size:1.6em;">1.1 Packer On Liberty</a>
+<a name="packer-on-liberty" href="#contents" style="font-size:1.6em;">1.2 Dr. J.I. Packer (PhD, University of Oxford) On Liberty</a>
 
 > 64\. LIBERTY
 SALVATION BRINGS FREEDOM
@@ -117,6 +127,8 @@ This is the bondage to the law from which Christ sets us free.
 **2\.** Christians have been set free from sin’s domination (John 8:34–36; Rom. 6:14–23). They have been supernaturally regenerated and made alive to God through union with Christ in his death and risen life (Rom. 6:3–11), and this means that the deepest desire of their heart now is to serve God by practising righteousness (Rom. 6:18, 22). Sin’s domination involved not only constant acts of disobedience, but also a constant lack of zeal for lawkeeping, rising sometimes to positive resentment and hatred towards the law. Now, however, being changed in heart, motivated by gratitude for acceptance through free grace, and energized by the Holy Spirit, they ‘serve in the new way of the Spirit, and not in the old way of the written code’ (Rom. 7:6). This means that their attempts at obedience are now joyful and integrated in a way that was never true before. Sin rules them no longer. In this respect, too, they have been liberated from bondage.
 >
 **3\.** Christians have been set free from the superstition that treats matter and physical pleasure as intrinsically evil. Against this idea, Paul insists that Christians are free to enjoy as God’s good gifts all created things and the pleasures that they yield (1 Tim. 4:1–5), provided only that we do not transgress the moral law in our enjoyments or hinder our own spiritual wellbeing or that of others (1 Cor. 6:12–13; 8:7–13). The Reformers renewed this emphasis against various forms of medieval legalism.
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 64. Liberty: Salvation brings freedom. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
 <br>
 
@@ -147,7 +159,7 @@ Bearing fruit happens naturally for living trees, both in nature and metaphorica
 
 > 3 And we can be sure that we know him if we obey his commandments. 4 <span style="font-weight:bold;color:orangered;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</span> 5 But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:ForestGreen;">That is how we know we are living in him.</span> 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT
 
-<span style="font-weight:bold;font-size:1.2em">This message is not legalistic</span>, it is not speaking of meriting or earning your salvation. This is speaking of the fruit of genuine saving faith. This is also not speaking of perfection (1Jn 2:1-3). It is simply saying, that if your faith is not superficial, your life will bare fruit (Gal 5:22-23; John 15:1-17). Justification is by faith alone (Rom. 3:28; Eph 2:8-10), but the faith that saves is never alone in the person justified (Jn 14:15,21).
+<span style="font-weight:bold;font-size:1.2em">This message is not legalistic</span>, it is not speaking of meriting or earning your salvation. This is speaking of the fruit of genuine saving faith. This is also not speaking of perfection (1Jn 2:1-3). It is simply saying, that if your faith is not superficial, your life will bear fruit (Gal 5:22-23; John 15:1-17). Justification is by faith alone (Rom. 3:28; Eph 2:8-10), but the faith that saves is never alone in the person justified (Jn 14:15,21).
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
@@ -167,7 +179,7 @@ Practice in this sense means a lifelong continual pattern. It speaks of the purs
 
 > <sup style="font-weight:bold;">21</sup> <span style="font-weight:bold;">It would be better if they had never known the way to righteousness than to know it and then reject the **command** they were given <span style="font-weight:bold;color:orangered;">to live a</span> <span style="font-size:1.2em;color:red;">holy life</span>.</span> <sup style="font-weight:bold;">22</sup> They prove the truth of this proverb: <span style="font-weight:bold;">“A dog returns to its vomit.”</span> And another says, “A washed pig returns to the mud.” &mdash; 2 Peter 2:21-22 NLT
 
-<a name="packer-on-antinomianism" href="#contents" style="font-size:1.6em;">2.1 Packer On Antinomianism</a>
+<a name="packer-on-antinomianism" href="#contents" style="font-size:1.6em;">2.1 Dr. J.I. Packer (PhD, University of Oxford) On Antinomianism</a>
 
 > 66\. ANTINOMIANISM
 WE ARE NOT SET FREE TO SIN
@@ -231,24 +243,66 @@ law-keeping is in fact the fulfilling of our human nature, and Scripture
 holds out no hope of salvation for any who, whatever their profession of
 faith, do not seek to turn from sin to righteousness (1 Cor. 6:9–11; Rev.
 21:8).
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<script>
-    var refTagger = {
-        settings: {
-            bibleVersion: 'NLT'
-        }
-    }; 
+<br>
 
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
-</script>
+---
 
+<br>
+
+<a name="fruit-bearing" href="#contents" style="font-size:2.1em;">3. Christ's Fruit-Bearing Metaphor</a>
+
+<a name="packer-on-works" href="#contents" style="font-size:1.6em;">3.1 Dr. J.I. Packer (PhD, University of Oxford) On Resulting Works (Fruits)</a>
+
+> 59\. WORKS
+GOOD WORKS ARE AN EXPRESSION OF FAITH
+>
+>>You see that a person is justified by what he does and not by faith alone.
+James 2:24
+>
+In the New Testament, faith (believing trust, or trustful belief, based on testimony received as from God) is crucially important, for it is the means or instrumental cause of salvation. It is by faith that Christians are justified before God (Rom. 3:26; 4:1–5; Gal. 2:16), live their lives (literally ‘walk’, 2 Cor. 5:7), and sustain their hope (Heb. 10:35 – 12:3).
+>
+Faith cannot be defined in subjective terms, as a confident and
+optimistic mindset, or in passive terms, as acquiescent orthodoxy or
+confidence in God without commitment to God. Faith is an object-oriented
+response, shaped by that which is trusted, namely God himself, God’s
+promises, and Jesus Christ, all as set forth in the Scriptures. And faith is a
+whole-souled response, involving mind, heart, will, and affections. Older
+Reformed theology analysed faith as notitia (‘knowledge’, i.e. acquaintance
+with the content of the gospel), plus assensus (‘agreement’, i.e. recognition
+that the gospel is true), plus fiducia (‘trust and reliance’, i.e. personal
+dependence on the grace of Father, Son, and Spirit for salvation, with
+thankful cessation of all attempts to save oneself by establishing one’s own
+righteousness: Rom. 4:5; 10:3). Without fiducia there is no faith, but
+without notitia and assensus there can be no fiducia (Rom. 10:14).
+>
+God’s gift of faith is a fruit of applicatory illumination by the Holy
+Spirit, and it ordinarily has in it some measure of conscious-assurance
+through the witnessing of the Spirit (Rom. 8:15–17). Calvin defined faith as
+‘a firm and sure knowledge of the divine favour towards us, founded on the
+truth of a free promise in Christ, and revealed to our minds and sealed on
+our hearts by the Holy Spirit.’ Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But if ‘good works’ (activities of serving God and others) do not follow from our profession of faith, we are as yet believing only from the head, not from the heart: in other words, justifying faith (fiducia) is not yet ours. The truth is that, though we are justified by faith alone, the faith that justifies is never alone. It produces moral fruit; it expresses itself ‘through love’ (Gal. 5:6); it transforms one’s way of living; it begets virtue. This is not only because holiness is commanded, but also because the regenerate heart, of which fiducia is the expression, desires holiness and can find full contentment only in seeking it.
+>
+When James says that faith without works is dead (i.e. a corpse), he is
+using the word faith in the limited sense of notitia plus assensus, which is
+how those he addresses were using it. When he says that one is justified by
+what one does, not by faith alone, he means by ‘justified’ ‘proved genuine;
+vindicated from the suspicion of being a hypocrite and a fraud’. James is
+making the point that barren orthodoxy saves no-one (Jas. 2:14–26). Paul
+would have agreed, and James’s whole letter shows him agreeing with Paul
+that faith must change one’s life. Paul denounces the idea of salvation by
+dead works; James rejects salvation by dead faith.
+> 
+Though the believer’s works do not merit salvation and always have
+something imperfect about them (Rom. 7:13–20; Gal. 5:17), in their
+character as expressions of the love and fidelity that faith calls forth they
+are the basis on which God promises rewards in heaven (Phil. 3:12–14; 2
+Tim. 4:7–8). For God thus to reward us according to our works is, as
+Augustine noted, his gracious crowning of his own gracious gifts.
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 59. Works: Good works are an expression of faith. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
 <script>
     var refTagger = {
