@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 05:45:00 -0500
+date: 2024-02-19 06:00:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -16,6 +16,8 @@ published: true
     - 1.3 Verses Legalists Fail To Understand
         - 1.3.1 <a href="#Matthew7:21-23">Matthew 7:21</a>
         - 1.3.2 <a href="#James2:14-26">James 2:24</a>
+        - 1.3.3 <a href="#Romans2:7,13">Romans 2:13</a>
+        - 1.3.4 <a href="#James1:22">James 1:22</a>
 2. <a href="#antinomianism">The Heresy Of Antinomianism</a>
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
@@ -176,6 +178,42 @@ making the point that barren orthodoxy saves no-one (Jas. 2:14–26). Paul
 would have agreed, and James’s whole letter shows him agreeing with Paul
 that faith must change one’s life. Paul denounces the idea of salvation by
 dead works; James rejects salvation by dead faith. &mdash; <a href="#packer-on-works">Packer on works.</a>
+
+<a name="Romans2:7,13" href="#contents" style="font-size:1.6em;">1.3.3 Romans 2:7,13 IS NOT Teaching Legalism</a>
+
+<!-- This one is another instance of legalists taking things out of context. Upon first inspection and cherry picking of the verse it would seem like a strong case, but when one looks at the overall message in context we can see that Christ is explaining that  -->
+
+All works mentioned in the NT should be viewed through the lens of <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> fruit-bearing, not meritorious works righteousness. Since the Bible is very explicit about being justified by faith alone (Eph 2:8-10; Rom. 3:28). This reminds me of Mt 5:17 where the gist of the message is that we need Christ to be the perfect the archetypal law-keeper because we simply cannot, we are [totally depraved](https://sevenshepherd.github.io/total-depravity/) and unable to merit our own salvation (Isaiah 64:6 NLT).
+
+> <span style="font-weight:bold;color:OrangeRed">eternal life to those who by perseverance in good works</span> seek glory and honor and immortality &mdash; Romans 2:7 NET
+
+> For it is not the hearers of the law who are righteous before God, but <span style="font-weight:bold;color:OrangeRed">the doers of the law who will be justified</span>. &mdash; Romans 2:13 ESV
+
+<!-- > Are just - Are justified before God, or are personally holy. Or, in other words, simply hearing the Law is not meeting all its requirements, and making people holy. If they expected to be saved by the Law, it required something more than merely to hear it. It demanded perfect obedience. &mdash; [Barnes' Notes on the Bible](https://biblehub.com/commentaries/romans/2-13.htm) -->
+
+The New Oxford Annotated Bible, Fifth (NRSV) has a very revealing thing to say about this verse.
+
+> **13**: The statement that it is the doers of the law who will be justified serves as **a building block in Paul’s argument toward his central conviction that all have sinned and consequently justification comes only as God’s gift through faith (Ro 3.23-25).** &mdash; New Oxford Annotated Bible (Fifth) on Romans 2:13 NRSV. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
+
+<a name="James1:22" href="#contents" style="font-size:1.6em;">1.3.4 James 1:22 IS NOT Teaching Legalism</a>
+
+All works mentioned in the NT should be viewed through the lens of <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> fruit-bearing, not meritorious works righteousness. The cults will attempt to teach you <span style="color:Red;">&ldquo;*included*&rdquo;</span> fruits, or <span style="color:Red">&ldquo;*plus works*&rdquo;</span>, but the Bible is very clear that these are <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> works that come after you're already saved as an evidence of genuine saving faith.
+
+<!-- > But be sure you live out the message and do not merely listen to it and so deceive yourselves.
+>> But don’t just listen to God’s word. You must do what it says. Otherwise, you are only fooling yourselves.
+> &mdash; James 1:22 NET, NLT (Parallel) -->
+
+> But **be doers** of the word, and not hearers only, deceiving yourselves.
+>> But don’t just listen to God’s word. **You must do what it says.** Otherwise, you are only fooling yourselves.
+> &mdash; James 1:22 ESV, NLT (Parallel)
+
+It will also help you to make the distinction between justification (which is by faith alone Eph 2:8-10; Rom 3:28), and assurance of salvation which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT) &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;
+
+> **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
+
+Evidence is something that happens after-the-fact, after we're justified by faith alone. Then you can inspect for sanctification, which is a <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> fruit, not an <span style="color:Red;">&ldquo;*included*&rdquo;</span> work. You cannot add to or improve upon the Cross. The Cross is sufficent.
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:OrangeRed">not faith <span style="font-size:1.2em;color:Red">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
 <br>
 
