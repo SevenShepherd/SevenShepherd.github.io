@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:00:00 -0500
+date: 2024-02-19 06:06:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -183,7 +183,7 @@ dead works; James rejects salvation by dead faith. &mdash; <a href="#packer-on-w
 
 <!-- This one is another instance of legalists taking things out of context. Upon first inspection and cherry picking of the verse it would seem like a strong case, but when one looks at the overall message in context we can see that Christ is explaining that  -->
 
-All works mentioned in the NT should be viewed through the lens of <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> fruit-bearing, not meritorious works righteousness. Since the Bible is very explicit about being justified by faith alone (Eph 2:8-10; Rom. 3:28). This reminds me of Mt 5:17 where the gist of the message is that we need Christ to be the perfect the archetypal law-keeper because we simply cannot, we are [totally depraved](https://sevenshepherd.github.io/total-depravity/) and unable to merit our own salvation (Isaiah 64:6 NLT).
+All works mentioned in the NT should be viewed through the lens of <span style="color:ForestGreen;">&ldquo;*resulting*&rdquo;</span> fruit-bearing, not meritorious works righteousness. Since the Bible is very explicit about being justified by faith alone (Eph 2:8-10; Rom. 3:28). This reminds me of Mt 5:17 where the gist of the message is that we need Christ to be the perfect archetypal law-keeper because we simply cannot, we are [totally depraved](https://sevenshepherd.github.io/total-depravity/) and unable to merit our own salvation (Isaiah 64:6 NLT).
 
 > <span style="font-weight:bold;color:OrangeRed">eternal life to those who by perseverance in good works</span> seek glory and honor and immortality &mdash; Romans 2:7 NET
 
