@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-02-19 02:35:00 -0500
+date: 2024-02-19 02:45:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -56,11 +56,11 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 
 ## 🌲 The Bible Only Speaks Of One Tree In Which We Are Grafted
 
-||Theologies|Stance|
+|Theology|Stance|
 |:-:|:-:|
-|🧍🏻\|🧍🏻|<span style="color:#F6BE00;">Dispensationalism</span>|The Church is separate from true Israel|
-|🚶🏻‍♂️\|🧍🏻‍♂️|<span style="color:darkred;">Replacement Theology</span>|The Church has superseded true Israel|
-|👨🏻‍👦🏻‍👦🏻|<span style="color:ForestGreen;">Covenant Theology</span>|The Church is an expansion of true Israel|
+|<span style="color:#F6BE00;">Dispensationalism</span>|The Church is separate from true Israel|
+|<span style="color:darkred;">Replacement Theology</span>|The Church has superseded true Israel|
+|<span style="color:ForestGreen;">Covenant Theology</span>|The Church is an expansion of true Israel|
 
 > 16 And since Abraham and the other patriarchs were holy, their descendants will also be holy—just as the entire batch of dough is holy because the portion given as an offering is holy. For if the roots of **the tree** are holy, the **branches** will be, too.
 >
