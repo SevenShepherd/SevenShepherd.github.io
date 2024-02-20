@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 05:35:00 -0500
+date: 2024-02-19 05:45:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -154,7 +154,7 @@ These all seem to me, to be legalistic pleas. They are all appealing to God, the
 
 > <sup style="font-weight:bold;">14</sup> What good is it, my brothers, if **someone** says he has faith but does not have works? <span style="font-weight:bold;color:GoldenRod;">Can that faith <span style="font-size:1.2em;color:Gold;">save him</span>?</span> <sup style="font-weight:bold;">15</sup> If a brother or sister is poorly clothed and lacking in daily food, <sup style="font-weight:bold;">16</sup> and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that? <sup style="font-weight:bold;">17</sup> So also <span style="font-weight:bold;color:GoldenRod;">faith by itself, if it does not have works, <span style="font-size:1.2em;color:Gold;">is dead</span></span>. &mdash; James 2:14-17 ESV
 
-Understanding James 2:24 is the difference between having sound doctrine, being legalist, or being antinomian.
+Understanding James 2:24 is the difference between having sound doctrine, being legalist, or being antinomian. [Sproul](https://youtu.be/-HMb9YjRq8Q?si=jId5EfSDUTEhMmMS&t=71) actually explains this really well.
 
 > <sup style="font-weight:bold;">20</sup> Do you want to be shown, you foolish person, that faith apart from works is useless? ... <sup style="font-weight:bold;">24</sup> <span style="font-weight:bold;color:OrangeRed;">You see that a person is justified by works and <span style="font-size:1.2em;color:Red">not by faith alone</span>.</span> ... <sup style="font-weight:bold;">26</sup> For as the body apart from the spirit is dead, so also <span style="font-weight:bold;color:GoldenRod;">faith apart from works <span style="font-size:1.2em;color:Gold;">is dead</span></span>. &mdash; James 2:20,24,26 ESV
 
@@ -166,6 +166,16 @@ If the Bible is to work together, Eph 2:8-10; Rom 3:28 & James 2:24 must be reco
 4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
 5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
 6. Verses for good works after salvation (James 2:14-26; Eph 2:10)
+
+> When James says that faith without works is dead (i.e. a corpse), he is
+using the word faith in the limited sense of notitia plus assensus, which is
+how those he addresses were using it. When he says that one is justified by
+what one does, not by faith alone, he means by ‘justified’ ‘proved genuine;
+vindicated from the suspicion of being a hypocrite and a fraud’. James is
+making the point that barren orthodoxy saves no-one (Jas. 2:14–26). Paul
+would have agreed, and James’s whole letter shows him agreeing with Paul
+that faith must change one’s life. Paul denounces the idea of salvation by
+dead works; James rejects salvation by dead faith. &mdash; <a href="#packer-on-works">Packer on works.</a>
 
 <br>
 
