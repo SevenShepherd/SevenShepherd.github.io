@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 05:15:00 -0500
+date: 2024-02-19 05:25:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -13,6 +13,7 @@ published: true
 1. <a href="#legalism">The Heresy Of Legalism</a>
     - 1.1 <a href="#packer-on-legalism">Working For God’s Favour Forfeits It</a>
     - 1.2 <a href="#packer-on-liberty">Salvation Brings Freedom</a>
+    - 1.3 <a href="#Matthew7:21-23">Matthew 7:21-23 IS NOT Legalistic</a>
 2. <a href="#antinomianism">The Heresy Of Antinomianism</a>
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
@@ -124,6 +125,26 @@ This is the bondage to the law from which Christ sets us free.
 **3\.** Christians have been set free from the superstition that treats matter and physical pleasure as intrinsically evil. Against this idea, Paul insists that Christians are free to enjoy as God’s good gifts all created things and the pleasures that they yield (1 Tim. 4:1–5), provided only that we do not transgress the moral law in our enjoyments or hinder our own spiritual wellbeing or that of others (1 Cor. 6:12–13; 8:7–13). The Reformers renewed this emphasis against various forms of medieval legalism.
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 64. Liberty: Salvation brings freedom. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+<a name="Matthew7:21-23" href="#contents" style="font-size:1.6em;">1.3 Matthew 7:21-23 IS NOT Teaching Legalism</a>
+
+Jesus warning on the sermon on the mount taught that many would come to him in the last days saying &lsquo;Lord, Lord,&rsquo; these people come to Jesus fully assured that they belong to him, and he rejects them, thereby exposing their assurance as counterfeit. 
+
+Many people teach this incorrectly by telling people that they must perform some action to merit or earn their way into Heaven... <span style="color:#009933;">The context</span> shows that not only is this about <span style="color:#009933;">fruit-bearing (Mt 7:15-20)</span>, but it's also <span style="color:orangered;">against legalism!</span> Ive color coded fruit bearing green and legalism red. Let's examine the verse:
+
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:#009933;">will enter the kingdom of heaven</span>, but <span style="color:#009933;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:orangered;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+
+Here we can identify three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
+
+1. <span style="color:orangered;">&ldquo;**did we not** prophesy in your name&rdquo;</span>
+2. <span style="color:orangered;">&ldquo;and cast out demons in your name&rdquo;</span>
+3. <span style="color:orangered;">&ldquo;and do many mighty **works** in your name?&rdquo;</span>
+
+These all seem to me, to be legalistic pleas. They are all appealing to God, their works, as a reason why they should be admitted into heaven. Instead they should have had "trust and reliance" upon God's grace through faith only. This is why it's important to teach <span style="color:#009933;">&ldquo;resulting&rdquo; obedience</span> to God instead of <span style="color:orangered;">&ldquo;including&rdquo; obedience</span>. **You cannot merit your own salvation, and if you rely on your own efforts you're doomed.**
+
+> Legalistic religion in all its forms should be avoided like the plague &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
 <br>
 
