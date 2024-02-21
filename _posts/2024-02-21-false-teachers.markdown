@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 04:15:00 -0500
+date: 2024-02-21 04:25:00 -0500
 categories: repent
 published: true
 ---
 
-see [Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism](https://sevenshepherd.github.io/fruit-bearing/#oden)
+See [Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism](https://sevenshepherd.github.io/fruit-bearing/#oden)
 
 > <sup style="font-weight:bold;">15</sup> “Beware of false prophets who come disguised as harmless sheep but are really vicious wolves. <sup style="font-weight:bold;">16</sup> **You can identify them by their fruit, that is, by the way they act.** Can you pick grapes from thornbushes, or figs from thistles? <sup style="font-weight:bold;">17</sup> A good tree produces good fruit, and a bad tree produces bad fruit. <sup style="font-weight:bold;">18</sup> A good tree can’t produce bad fruit, and a bad tree can’t produce good fruit. <sup style="font-weight:bold;">19</sup> So every tree that does not produce good fruit is chopped down and thrown into the fire. <sup style="font-weight:bold;">20</sup> <span style="font-weight:bold;color:ForestGreen;">Yes, just as you can identify a tree by its fruit, so you can identify <span style="font-size:1.2em;color:YellowGreen;">people</span> by their actions.</span> &mdash; Matthew 7:15-20 NLT
 
@@ -20,7 +20,7 @@ This teaching isn't limited to false teachers only, as the fruit-bearing metapho
 >
 &mdash; John 15:1-17 NLT
 
-True believers will always be marked by the fruit of the Holy Spirit (Gal 5:22-23) and fakes will always demonstrate the works of the flesh (Gal 519-21).
+True believers will always be marked by the fruit of the Holy Spirit (Gal 5:22-23) and fakes will always demonstrate the works of the flesh (Gal 5:19-21).
 
 > <sup style="font-weight:bold;">19</sup> When you follow the desires of your sinful nature, the results are very clear: sexual immorality, impurity, lustful pleasures, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostility, quarreling, jealousy, outbursts of anger, selfish ambition, dissension, division, <sup style="font-weight:bold;">21</sup> envy, drunkenness, wild parties, and other sins like these. Let me tell you again, as I have before, that <span style="font-weight:bold;color:OrangeRed;">anyone living that sort of life <span style="font-size:1.2em;color:Red;">will not</span> inherit the Kingdom of God.</span>
 >
