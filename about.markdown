@@ -21,6 +21,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 5. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
+    - NLT Filament
 
 <!-- - [Reformed Wesleyan Foreknowledge](https://sevenshepherd.github.io/chosen/#smith) -->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:35:00 -0500
+date: 2024-02-19 07:45:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -522,7 +522,7 @@ Founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM) -->
 
-<a name="ashby" href="#contents" style="font-size:1.6em;">3.2.5 Dr. Stephen M. Ashby (Ph.D., Bowling ForestGreen State)</a>
+<a name="ashby" href="#contents" style="font-size:1.6em;">3.2.5 Dr. Stephen M. Ashby (Ph.D., Bowling Green State)</a>
 
 > **6\. John 15:1-6.**
 >
@@ -554,7 +554,7 @@ abide in Jesus, i.e., to continue believing."
 >
 **In other words, the branch's attachment to the vine-indeed, the individual's union with Christ-is what makes possible a life characterized by Christian virtue and fruitfulness.** C. K. Barrett proclaims that "this union, originating in his initiative and sealed by his death on their behalf, is completed by the believer's responsive love and obedience, and is the essence of Christianity."
 >
-&mdash; Dr. Stephen M. Ashby (PhD, Bowling ForestGreen State) &ldquo;*Four Views on Eternal Security*&rdquo;. pp. 180-1.
+&mdash; Dr. Stephen M. Ashby (PhD, Bowling Green State) &ldquo;*Four Views on Eternal Security*&rdquo;. pp. 180-1.
 
 <a name="oden" href="#contents" style="font-size:1.6em;">3.2.6 Dr. Thomas C. Oden (PhD, University of Yale)</a>
 

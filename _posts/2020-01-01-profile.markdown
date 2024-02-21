@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 3:45:00 -0500
+date: 2020-01-01 3:55:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -23,6 +23,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 5. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
+    - NLT Filament
 
 <!-- (e.g. computer programming and [automating](https://twitter.com/SevenShepherd) my social media, [chess](https://sevenshepherd.github.io/chess-games-magnus/), piano (Chopin), and constructed languages like Esperanto which I'm considering). I am currently hand designing both the front-end and back-end of my latest website.  -->
 
@@ -231,7 +232,7 @@ A brief overview of my stances are as follows: I am theologically conservative w
 |:-:|:-:|
 |<a href="https://sevenshepherd.github.io/theology/" style="color:ForestGreen;">Hybrid Moderate</a><br>(<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/theology/#unique">Prescient Forelove</a>)|See Options In Yellow|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(PhD, Manchester)<br><span style="font-weight:bold;">&ldquo;The Cross and Salvation&rdquo;</span><br>--<br>[Dr. D. A. Carson<br>(PhD, Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;The Difficult Doctrine of the Love of God&rdquo;|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|Dr. Stephen M. Ashby<br>(PhD, Bowling ForestGreen State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Wesleyanism</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;Four Views on Eternal Security&rdquo;|
 |<span style="color:#F6BE00;">Systemless</span> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|[Dr. John C. Lennox<br>(PhD, Cambridge; DPhil, Oxford; DSc, Cardiff)]()<br>&ldquo;Determined to Believe?&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Calvinism</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;Concise Theology&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;Systematic Theology&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-arminian/">Arminianism</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)|Dr. Thomas C. Oden<br>(PhD, Yale)<br>&ldquo;Classic Christianity&rdquo;|
@@ -247,7 +248,7 @@ If only Amyraldian Compatibilists had something as succinct as Packer's Concise 
 |<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Compatibilist</a> (<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;***Divine Sovereignty & Human Responsibility***&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;<br>--<br>[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;<br>--<br>Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;<br>--<br>Dr. Walter Martin (Ph.D., California Coast University)|
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Inclination</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>&ldquo;***The Cross and Salvation***&rdquo;<br>--<br>Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>&ldquo;*Unlimited Atonement: Amyraldism and Reformed Theology*&rdquo;|
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Calvary Chapel Distinctive / Libertarian</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Wesl.</a>)<br>Essentially Reformed Arminianism w/ Eternal Security|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
-|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism / Libertarian</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)<br>Can Renounce Faith & Lose Salvation|Dr. Stephen M. Ashby<br>(PhD, Bowling ForestGreen State)<br>&ldquo;*Four Views on Eternal Security*&rdquo;|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism / Libertarian</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)<br>Can Renounce Faith & Lose Salvation|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;*Four Views on Eternal Security*&rdquo;|
 |<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Scholastic Calvinist / Inclination</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)<br>I Reject Limited Atonement|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;***Concise Theology***&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;*Systematic Theology*&rdquo;|
 |<span style="color:darkred;" href="">Hyper-Calvinism (<a href="https://sevenshepherd.github.io/election/#decrees" style="color:darkred;">Supra.</a>), Hyper-Grace, 80s &ldquo;Free Grace&rdquo;, Catholicism, Theological Liberalism etc.</span>|🚫|
 
