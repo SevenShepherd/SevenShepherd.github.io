@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Our Sin)"
-date: 2023-11-16 02:25:00 -0500
+date: 2023-11-16 02:35:00 -0500
 categories: repent repentance
-published: true
+published: false
 ---
 
 <!-- God Has Granted The Repentance That Leads To Salvation -->

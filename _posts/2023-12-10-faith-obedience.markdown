@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 02:35:00 -0500
+date: 2023-12-10 02:45:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/gExLXpPJDd8?si=OSFCJc5i1c627oW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
