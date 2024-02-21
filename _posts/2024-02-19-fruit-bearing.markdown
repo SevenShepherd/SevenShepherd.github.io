@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:55:00 -0500
+date: 2024-02-19 07:00:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -27,7 +27,7 @@ published: true
         - 3.2.2 <a href="#sproul">Dr. Sproul (Scholastic Calvinists)</a>
         - 3.2.3 <a href="#geisler">Dr. Geisler (Moderate Calvinists)</a>
     - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
-        - 3.3.1 <a href="#reformed">Presbyterian & Reformed Baptist (1646)</a>
+        - 3.3.1 <a href="#reformed">Presbyterian & R. Baptist (1646)</a>
         - 3.3.2 <a href="#lutheran">Lutheranism (1576)</a>
         - 3.3.3 <a href="#anglican">Anglican and Episcopalian (1571)</a>
         - 3.3.4 <a href="#baptist">Baptist (1833)</a>
