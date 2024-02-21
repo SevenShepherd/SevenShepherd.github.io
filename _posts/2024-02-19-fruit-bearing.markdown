@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:55:00 -0500
+date: 2024-02-19 08:00:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
 
 <!-- "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin" -->
+
+The fruits of the faith are not the efforts of man, they're the workings of God (1Cor. 3:6-7) upon closer union with Christ. Fruit-bearing is anti-legalistic by nature because it is post-justification. We must never tell a person that they must perform some action in order to merit salvation, instead, we would tell them that if they are saved already, and their faith is genuine, that their lives would bear fruit. &ldquo;*Therefore Christ justifies no one whom he does not at the same time sanctify.*&rdquo;
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
