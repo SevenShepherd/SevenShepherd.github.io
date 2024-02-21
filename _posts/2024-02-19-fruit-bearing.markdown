@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:45:00 -0500
+date: 2024-02-19 06:55:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -26,8 +26,6 @@ published: true
         - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless / Armin.)</a>
         - 3.2.2 <a href="#sproul">Dr. Sproul (Scholastic Calvinists)</a>
         - 3.2.3 <a href="#geisler">Dr. Geisler (Moderate Calvinists)</a>
-        - 3.2.4 <a href="#calvin">John Calvin (Hyper-Calvinists)</a>
-        - 3.2.5 <a href="#wesley">John Wesley (Arminians)</a>
     - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
         - 3.3.1 <a href="#reformed">Presbyterian & Reformed Baptist (1646)</a>
         - 3.3.2 <a href="#lutheran">Lutheranism (1576)</a>
@@ -35,6 +33,9 @@ published: true
         - 3.3.4 <a href="#baptist">Baptist (1833)</a>
         - 3.3.5 <a href="#methodist">Methodist (1703-91)</a>
         - 3.3.6 <a href="#pentecostal">Pentecostal (1916)</a>
+
+<!-- - 3.2.4 <a href="#calvin">John Calvin (Hyper-Calvinists)</a>
+- 3.2.5 <a href="#wesley">John Wesley (Arminians)</a> -->
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
 
@@ -428,7 +429,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 <a name="sproul" href="#contents" style="font-size:1.6em;">3.2.2 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
 
-> When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
+> When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:ForestGreen;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:Green;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
 
 |Genuine Saving Faith||
 |:-:|:-:|
@@ -449,7 +450,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
-<a name="calvin" href="#contents" style="font-size:1.6em;">3.2.4 John Calvin (1509-1564)</a>
+<!-- <a name="calvin" href="#contents" style="font-size:1.6em;">3.2.4 John Calvin (1509-1564)</a>
 
 The first and most influential theologian in the Reformed tradition.
 
@@ -462,7 +463,7 @@ The first and most influential theologian in the Reformed tradition.
 
 Founder of Methodism.
 
-> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
+> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM) -->
 
 <a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Protestant Denominations</a>
 
