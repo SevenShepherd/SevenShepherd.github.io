@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 04:35:00 -0500
+date: 2024-02-21 04:45:00 -0500
 categories: repent
 published: true
 ---
 
 See [Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism](https://sevenshepherd.github.io/fruit-bearing/#oden)
 
-> <sup style="font-weight:bold;">15</sup> “Beware of false prophets who come disguised as harmless sheep but are really vicious wolves. <sup style="font-weight:bold;">16</sup> **You can identify them by their fruit, that is, by the way they act.** Can you pick grapes from thornbushes, or figs from thistles? <sup style="font-weight:bold;">17</sup> A good tree produces good fruit, and a bad tree produces bad fruit. <sup style="font-weight:bold;">18</sup> A good tree can’t produce bad fruit, and a bad tree can’t produce good fruit. <sup style="font-weight:bold;">19</sup> So every tree that does not produce good fruit is chopped down and thrown into the fire. <sup style="font-weight:bold;">20</sup> <span style="font-weight:bold;color:ForestGreen;">Yes, just as you can identify a tree by its fruit, so you can identify <span style="font-size:1.2em;color:YellowGreen;">people</span> by their actions.</span> &mdash; Matthew 7:15-20 NLT
+> <sup style="font-weight:bold;">15</sup> “Beware of false prophets who come disguised as harmless sheep but are really vicious wolves. <sup style="font-weight:bold;">16</sup> <span style="font-weight:bold;color:ForestGreen;">You can identify them by their fruit, that is, by the way they act.</span> Can you pick grapes from thornbushes, or figs from thistles? <sup style="font-weight:bold;">17</sup> A good tree produces good fruit, and a bad tree produces bad fruit. <sup style="font-weight:bold;">18</sup> A good tree can’t produce bad fruit, and a bad tree can’t produce good fruit. <sup style="font-weight:bold;">19</sup> So every tree that does not produce good fruit is chopped down and thrown into the fire. <sup style="font-weight:bold;">20</sup> <span style="font-weight:bold;color:ForestGreen;">Yes, just as you can identify a tree by its fruit, so you can identify <span style="font-size:1.2em;color:YellowGreen;">people</span> by their actions.</span> &mdash; Matthew 7:15-20 NLT
 
 This teaching isn't limited to false teachers only, as the fruit-bearing metaphor is applied to all the people of God. Even so far back as the Old Testament (Ps 1:3). Logically, false teachers create false disciples.
 
