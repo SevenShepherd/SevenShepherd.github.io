@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:15:00 -0500
+date: 2024-02-19 07:25:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -28,6 +28,7 @@ published: true
         - 3.2.3 <a href="#demarest">Dr. Demarest (Amyraldian / Single / 4)</a>
         - 3.2.4 <a href="#geisler">Dr. Geisler (Moderate Cal. / Other)</a>
         - 3.2.5 <a href="#ashby">Dr. Ashby (Reformed Arminian)</a>
+        - 3.2.6 <a href="#oden">Dr. Oden (Arminian)</a>
     - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
         - 3.3.1 <a href="#reformed">Presbyterian & R. Baptist (1646)</a>
         - 3.3.2 <a href="#lutheran">Lutheranism (1576)</a>
@@ -554,6 +555,77 @@ abide in Jesus, i.e., to continue believing."
 **In other words, the branch's attachment to the vine-indeed, the individual's union with Christ-is what makes possible a life characterized by Christian virtue and fruitfulness.** C. K. Barrett proclaims that "this union, originating in his initiative and sealed by his death on their behalf, is completed by the believer's responsive love and obedience, and is the essence of Christianity."
 >
 &mdash; Dr. Stephen M. Ashby (PhD, Bowling ForestGreen State) &ldquo;*Four Views on Eternal Security*&rdquo;. pp. 180-1.
+
+<a name="oden" href="#contents" style="font-size:1.6em;">3.2.6 Dr. Thomas C. Oden (PhD, University of Yale)</a>
+
+> **E. True and False Disciples**
+>
+**1\. Beware of False Prophets**
+>
+The text of Wesley’s twelfth discourse on the Sermon on the Mount is Matthew 7:15 – 20 on false prophets:
+>
+>> “Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves. <span style="font-weight:bold;color:ForestGreen;">By their fruit you will recognize them.</span> Do people pick grapes from thornbushes, or figs from thistles? Likewise, every good tree bears good fruit, but a bad tree bears bad fruit. <span style="font-weight:bold;color:ForestGreen;">A good tree cannot bear bad fruit</span>, and <span style="font-weight:bold;color:Red;">a bad tree cannot bear good fruit</span>. Every tree that does not bear good fruit is cut down and thrown into the <span style="font-weight:bold;color:Orange;">fire</span>. Thus, by their fruit you will recognize them.” [NIV; Homily #32, “Upon Our Lord’s Sermon on the Mount: Discourse 12,” B 1:675 – 86, J V:413 – 22 (1750)]
+>
+There are compelling reasons why Jesus so solemnly cautioned us in the Sermon on the Mount to discern false prophecy.144 Countless souls run toward destruction because they follow evil teachers who refuse to walk in the narrow way even when they are aware of the hazards of destruction.145 They have so many companions on this broad way that they are mesmerized by its popularity. “Such is the amazing influence of example over the weak.”146
+>
+To guard as many as possible against this contagion, God has called forth watchmen to cry out, to show multitudes the danger they are in. Throughout the generations, God has sent prophets “to point out the narrow path, and exhort all men not to be conformed to this world.”147
+>
+But what happens “if the watchmen themselves fall into the snare against which they should warn others”?148 What if they deceive the people to fall into the errors of the watchmen?149 We find such deceivers in every age and nation.
+>
+Wesley asks who are these false prophets, what is their typical disguise, and by what means can the faithful discover who they are and discern their reliability?
+>
+**a. Outwardly They Appear in Sheep’s Clothing**
+>
+Ravenous wolves can appear in innocent sheep’s clothing.150 Wesley found it necessary to speak out in “rough, plain truths, such as none can deny.”151 They “teach a false way to heaven.”152 They pretend to “speak in the name of God,” professing “to be sent of God, to teach others the way to heaven.”153 They have taken Holy Scripture and grossly distorted it. They appear to clarify God’s Word while undermining it. They distort the truthful stability of apostolic teaching. Their teaching causes the destruction of others. “Since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless.”154
+>
+As Jesus had established in the previous verses: “Every broad way is infallibly a false one.” Jesus’ “plain, sure rule” is this: “Those who teach others to walk in a broad way are false prophets.”155 The true way to heaven by Jesus’ definition is always a narrow way. Narrowness is intrinsic to the definition of the way of life. “They are false prophets who do not teach men to walk in this way.”156 The way to participate in life in Christ has already been made clear. It is “lowliness, mourning, meekness, and holy desire, love of God and of our neighbor, doing good, and suffering evil for Christ’s sake.”157 It matters less what you call this way than that you follow it.158
+>
+They are false prophets “who teach the directly opposite way, <span style="font-weight:bold;color:ForestGreen;">the way of pride … of worldly desires, of loving pleasure more than God</span>, of unkindness to our neighbor, of <span style="font-weight:bold;color:ForestGreen;">unconcern for good works</span>.”159 They may appear at first to be “wise and honorable.” Meanwhile they teach others to imagine they are on the way to heaven while stumbling in the opposite direction.160 They are “traitors both to God and man,” because their teaching ends in destroying the souls of others.
+>
+**b. They Appear Harmless, Useful, Religious, and Loving**
+>
+The false prophets come in disguise, “with an appearance of harmlessness. They come in the most mild, inoffensive manner, without any mark or token of enmity. Who can imagine that these quiet creatures would do any hurt to anyone?”161
+>
+They come with “an appearance of usefulness,” with the pretense that they were “set apart for this very thing … particularly commissioned to watch over your soul” and teach you about “healing those that are oppressed.”162 And they come “with an appearance of religion,” as if “all they do is for conscience’ sake!” While they appear to be zealous for God, “they are making God a liar.”163 They may even have a stamp of approval or degree certifying their religious qualifications.
+>
+Finally, they come “with an appearance of love,” making conspicuous “professions of their goodwill, and of their concern.”164
+>
+**2\. Know Them by Their Fruits**
+>
+How do we recognize false teachers? How do we find out what they are really up to? <span style="font-weight:bold;color:ForestGreen;">By their fruit we will recognize them.</span>165 Our Lord was not a master of disguise; he was a master of removing disguises. He did not propose a long, complicated series of arguments by which one might analyze deception, but rather “a short and plain rule, easy to be understood” by anyone on any occasion: <span style="font-weight:bold;color:ForestGreen;">“You shall know them by their fruits.”</span>166
+>
+To discover their fruitfulness, ask first, “What effect does their teaching have on their own behavior? Does their temperament show a picture of that mind in them which is in Christ Jesus? Are they in practice ‘meek, lowly, patient, lovers of God and man, and zealous of good works’?”167 Then ask, “What are the fruits of their teaching?” Look at those who are following them: <span style="font-weight:bold;color:ForestGreen;">Do they walk as Christ walked? If not, then you know that God has not sent them.</span>168
+>
+**a. Analogies for Determining Authenticity of Witnesses**
+>
+Our Lord has provided several clear and convincing analogies for discernment. <span style="font-weight:bold;color:ForestGreen;">Jesus asked the multitude on the mount to consider: “Do people pick grapes from thornbushes, or figs from thistles?”169 “Do you expect that these evil men should bring forth good fruit?</span> As well might you expect that thorns should bring forth grapes, or that figs should grow upon thistles!”170 <span style="font-weight:bold;color:ForestGreen;">A true prophet sent by God will bear the fruits of holy living.</span> A false prophet, a teacher not sent by God, will bring forth corruption. A true prophet or teacher “does not bring forth evil fruit accidentally or sometimes only, but always, and of necessity.”171 Test them by their fruits in engendering the holy life.172
+>
+“Every tree that does not bear good fruit is cut down and thrown into the fire.”173 The outcome of the teaching of false prophets will always be destructiveness lacking saving grace.
+>
+**b. They Come to Destroy**
+>
+Their purpose is to destroy the worshiping community. “They only destroy and devour the flock. They tear them in pieces…. O beware they do not turn you out of the way.”174 “They come to you in sheep’s clothing, but inwardly they are ferocious wolves.”175
+>
+If this is what Jesus taught, should believers even listen to the ordained ministers who evidence false teaching? Surprisingly, Wesley turned to the unique wisdom of the Lord in Matthew 23:2 – 4: “The teachers of the law and the Pharisees sit in Moses’ seat. So you must be careful to do everything they tell you. But do not do what they do, for they do not practice what they preach. They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them.”176 Do what Jesus did. Jesus himself listened to them but judged them by their fruits. To the people he gave the warning: It is not forbidden that you listen even to false prophets, but attend to the quality of lives they lead and elicit in others.177
+>
+In listening to and discerning false and true prophets, do not cut the people of God off from the ordinances of God. “The validity of the ordinance doth not depend on the goodness of him that administers [it], but on the faithfulness of him that ordained it. Do not neglect the sacraments just because they are offered by those who teach inappropriately…. Even by these who are under a curse themselves, God can and doth give us his blessing. For the bread which they break, we have experimentally known to be ‘the communion of the body of Christ,’ and the cup which God blessed, even by their unhallowed lips, was to us the communion of the blood of Christ.”178
+>
+Do not let the false teachers prevent you from hearing the Word and receiving the sacrament. “Wait upon God by humble and earnest prayer, and then act according to the best light you have. Act according to what you are persuaded, upon the whole, will be most for your spiritual advantage. Take great care that you do not judge rashly; that you do not lightly think any to be false prophets: and when you have full proof, see that no anger or contempt have any place in your heart.”179
+>
+After you have listened to and received their ministries, determine for yourself in the presence and in the fear of God what you should do. God will guide you. “If by experience you find that the hearing them hurts your soul, then hear them not; then quietly refrain, and hear those that profit you. If, on the other hand, you find it does not hurt your soul, you then may hear them still. Only ‘take heed how you hear’.… Hear with fear and trembling, lest you should be deceived. Receive nothing untried, nothing till it is weighed in the balance of the sanctuary” and confirmed by Holy Writ.180
+>
+**c. Woe: A Word to False Prophets**
+>
+Jesus pronounced woe upon the blind leaders of the blind who shut the kingdom of heaven against men and women.181 Similarly Paul in Paphos, “filled with the Holy Spirit,” excoriated the sorcerer Elymas: “You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord? Now the hand of the Lord is against you. You are going to be blind for a time, not even able to see the light of the sun.”182 False disciples are responsible for their false teachings.
+>
+Ezekiel’s warning is pertinent to false prophets of all times: “When I say to the wicked, ‘You wicked person, you will surely die,’ and you do not speak out to dissuade them from their ways, that wicked person will die for their sin, and I will hold you accountable for their blood.”183
+>
+To the false teachers in Wesley’s day, he said similarly, “Thus you cause them to stumble at the very threshold; yea, to fall and rise no more…. How long will ye pervert the right ways of the Lord, putting darkness for light, and light for darkness? How long will ye teach the way of death, and call it the way of life?”184
+>
+The annoying presence of false teachers does not cause the faithful to harden their hearts. Rather, it prompts them to open their eyes. “Eternity is at stake.”185 Ask God first to quicken your own soul, giving you the faith that works by love. In this way, the Spirit of glory and of Christ shall rest upon you. God will make it known whom he has and has not sent. So shall the word of God in your mouth be “like a hammer that breaks a rock in pieces.”186 So shall the teachers both true and false be known by their fruits.187
+> 
+&mdash; Dr. Thomas C. Oden (PhD, University of Yale), Chapter 9
+Entering the Kingdom, E. True and False Disciples. 
 
 <a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Protestant Denominations</a>
 
