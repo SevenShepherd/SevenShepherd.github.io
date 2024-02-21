@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 04:25:00 -0500
+date: 2024-02-21 04:35:00 -0500
 categories: repent
 published: true
 ---
@@ -10,7 +10,7 @@ See [Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From 
 
 > <sup style="font-weight:bold;">15</sup> “Beware of false prophets who come disguised as harmless sheep but are really vicious wolves. <sup style="font-weight:bold;">16</sup> **You can identify them by their fruit, that is, by the way they act.** Can you pick grapes from thornbushes, or figs from thistles? <sup style="font-weight:bold;">17</sup> A good tree produces good fruit, and a bad tree produces bad fruit. <sup style="font-weight:bold;">18</sup> A good tree can’t produce bad fruit, and a bad tree can’t produce good fruit. <sup style="font-weight:bold;">19</sup> So every tree that does not produce good fruit is chopped down and thrown into the fire. <sup style="font-weight:bold;">20</sup> <span style="font-weight:bold;color:ForestGreen;">Yes, just as you can identify a tree by its fruit, so you can identify <span style="font-size:1.2em;color:YellowGreen;">people</span> by their actions.</span> &mdash; Matthew 7:15-20 NLT
 
-This teaching isn't limited to false teachers only, as the fruit-bearing metaphor is applied to all the people of God. Even so far back as the old testament (Ps 1:3).
+This teaching isn't limited to false teachers only, as the fruit-bearing metaphor is applied to all the people of God. Even so far back as the Old Testament (Ps 1:3). Logically, false teachers create false disciples.
 
 > <sup style="font-weight:bold;">1</sup> “I am the true grapevine, and my Father is the gardener. <sup style="font-weight:bold;">2</sup> He cuts off every branch of mine that doesn’t produce fruit, and he prunes the branches that do bear fruit so they will produce even more. <sup style="font-weight:bold;">3</sup> You have already been pruned and purified by the message I have given you. <sup style="font-weight:bold;">4</sup> Remain in me, and I will remain in you. <span style="font-weight:bold;color:ForestGreen;">For a branch cannot produce fruit if it is severed from the vine, and you cannot be fruitful unless you remain in me.</span>
 > 
