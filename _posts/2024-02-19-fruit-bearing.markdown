@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:25:00 -0500
+date: 2024-02-19 07:35:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -460,15 +460,15 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Five, C. Trust God to Give the Spiritual Fruit. pp. 233-4.
 
---
+<!-- --
 
 > Indeed, wherever faith exists, one finds proof of the soul’s prior regeneration. “Faith in the living God and his Son Jesus Christ is always the result of the new birth, and can never exist except in the regenerate.”66 Spurgeon added that repentance, an effect of faith, includes sorrow for transgressions and a forsaking of all known sins. Likewise a fruit of the new birth, repentance also is a gift of God’s grace.
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Six, F. A Divinely Enabled Human Response (Reformed Evangelicals). p. 248.
 
---
+-- -->
 
-> As to whether true believers can forfeit salvation, consider Jesus’ allegory of the vine and the branches (John 15:1-8). Jesus said, “my Father . . . cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful” (vv. 1-2). **The dry and fruitless branches cut off signify professed believers whom Christ rejects because their relation to him was not genuine.** The Lord referred to the perdition of unregenerate professors such as Judas in v. 6: “If anyone does not remain in me, he is like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.” “The absence of fruit in the branch of the vine casts grave doubt upon its real union with the central stem, however attractive it may appear. Such useless members must be cut off.”57
+<!-- > As to whether true believers can forfeit salvation, consider Jesus’ allegory of the vine and the branches (John 15:1-8). Jesus said, “my Father . . . cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful” (vv. 1-2). **The dry and fruitless branches cut off signify professed believers whom Christ rejects because their relation to him was not genuine.** The Lord referred to the perdition of unregenerate professors such as Judas in v. 6: “If anyone does not remain in me, he is like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.” “The absence of fruit in the branch of the vine casts grave doubt upon its real union with the central stem, however attractive it may appear. Such useless members must be cut off.”57
 >
 Did Paul teach that Christians can forfeit salvation when he wrote to the
 Galatians, “you have fallen away from grace” (Gal 5:4)? The apostle clarified the meaning of this statement by the words that precede: “You who
@@ -490,7 +490,7 @@ and does not continue in the teaching of Christ does not have God” (2
 John 9a), John described Gnostic/Docetic teachers who claimed to have
 advanced beyond apostolic teaching about Christ but who failed to continue therein. 
 >
-&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 456-7.
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 456-7. -->
 
 <!-- --
 
@@ -499,13 +499,13 @@ advanced beyond apostolic teaching about Christ but who failed to continue there
 
 <a name="geisler" href="#contents" style="font-size:1.6em;">3.2.4 Dr. Norman Geisler (M.A., Theology at Wheaton; Ph.D., Philosophy at Loyola)</a>
 
-> As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
+> As Charles Ryrie correctly observed, <span style="font-weight:bold;color:ForestGreen;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
 
-> Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
+> Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that saving faith (which <span style="font-weight:bold;color:orangered;">involves repentance</span>) <span style="font-weight:bold;color:ForestGreen;">will naturally tend to produce good works</span>—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
 
 > As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
 
-> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
+> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;color:ForestGreen;">This confirms moderate Calvinism</span>’s view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. <span style="font-weight:bold;color:orangered;">If someone does, then he is not born of God.</span> That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
 <!-- <a name="calvin" href="#contents" style="font-size:1.6em;">3.2.4 John Calvin (1509-1564)</a>
 
