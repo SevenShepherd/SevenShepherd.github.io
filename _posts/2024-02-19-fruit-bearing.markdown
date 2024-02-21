@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:06:00 -0500
+date: 2024-02-19 06:15:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -22,6 +22,11 @@ published: true
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
     - 3.1 <a href="#packer-on-works">Works Are An Expression Of Faith</a>
+    - 3.2 <a href="#consensus">Consensus Among Christians</a>
+        - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless & Arminians)</a>
+        - 3.2.2 <a href="#sproul">Dr. Sproul (Calvinists)</a>
+        - 3.2.3 <a href="#geisler">Dr. Geisler (Moderates)</a>
+
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
 
@@ -395,6 +400,46 @@ Tim. 4:7–8). For God thus to reward us according to our works is, as
 Augustine noted, his gracious crowning of his own gracious gifts.
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 59. Works: Good works are an expression of faith. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+<a name="consensus" href="#contents" style="font-size:1.6em;">3.2 Consensus Among Christian Scholars</a>
+
+For a complete list see contents of my article on [**practicing sin**](https://sevenshepherd.github.io/practicing-sin/).
+
+<a name="lennox" href="#contents" style="font-size:1.6em;">3.2.1 Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)</a>
+
+> **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. One of its evidences is a deepening commitment to the word of Christ. A disciple is a learner. The hallmark of a true disciple is a readiness to learn more and more of the truth, thereby discovering that knowledge of truth leads to freedom. Genuine faith perseveres. &mdash; &ldquo;[*Determined to Believe?*]()&rdquo;, On John 8:31–47. p. 218.
+
+--
+
+> A second way of knowing that we have eternal life is **by observing the spiritual and moral outworking of our faith in our behaviour**:
+>> We know that we have come to know him if we obey his commands. The man who says, “I know him,” but does not do what he commands is a liar, and the truth is not in him. (1 John 2:3–4.)
+>
+>>We know that we have passed from death to life, because we love our brothers. Anyone who does not love remains in death. (1 John 3:14.)
+>
+Jesus made a similar point when he said, **by their fruit you will recognise them (Matthew 7:20)**. **If there is no moral consistency between our lives and our professed belief in God, then our claim to know God will not be credible.** It is in this context that Peter exhorts his readers to make your calling and election sure by our development of Christian character and moral virtues. The phrase “making sure” means “confirming”. That is, the development of visible Christian moral virtues in **a person’s life confirms the genuineness of their claim to be believers. True faith in God will be evidenced by its moral consequences in the life of a believer.** &mdash; &ldquo;[*Determined to Believe?*]()&rdquo; p. 313.
+
+<a name="sproul" href="#contents" style="font-size:1.6em;">3.2.2 Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)</a>
+
+> When Luther was challenged for his doctrine of justification by faith alone and was asked about this faith, as I said before does that mean you can just believe and live however you want to? Well, Paul answers that same question, and his answer is, “God forbid,” (Ro 6:1-2,15) and Luther said, “Justification is by faith alone but not by faith that is alone.” Then he went on to say that <span style="font-weight:bold;color:orangered;">the faith that justifies, Luther said, is <span style="font-size:1.2em;color:red;">a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience</span>.</span> &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield Theological Seminary)](https://youtu.be/-HMb9YjRq8Q?t=703)
+
+|Genuine Saving Faith||
+|:-:|:-:|
+|Legalism<br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Synergism<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
+|Antinomianism<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+
+<sup style="font-size:10px;font-style:italic;">The verses and descriptions in the chart above were provided by Shepherd, the formulas by R.C. Sproul.</sup>
+
+<a name="geisler" href="#contents" style="font-size:1.6em;">3.2.3 Dr. Norman Geisler (M.A., Theology at Wheaton; Ph.D., Philosophy at Loyola)</a>
+
+> As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
+
+> Since saving faith is an act of trust in and obedience to Jesus Christ regarding the gospel, it is evident from its very essence that **saving faith (which <span style="color:orangered;">involves repentance</span>) will naturally tend to produce good works**—a nominal, noncommittal, <span style="font-weight:bold;color:orangered;">purely intellectual-type faith will not</span>. Therefore, whereas <span style="font-weight:bold;color:orangered;">we are saved by faith alone, saving faith is not alone</span> but is inclined to produce good works. &mdash; Dr. Norman Geisler
+
+> As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
+
+> 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
 <script>
     var refTagger = {
