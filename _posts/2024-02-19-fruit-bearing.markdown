@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:45:00 -0500
+date: 2024-02-19 07:55:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -25,7 +25,7 @@ published: true
     - 3.2 <a href="#consensus">Consensus Among Distinctives</a>
         - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless / Armin.)</a>
         - 3.2.2 <a href="#sproul">Dr. Sproul (Calvinism / Single / 5)</a>
-        - 3.2.3 <a href="#demarest">Dr. Demarest (Amyraldian / Single / 4)</a>
+        - 3.2.3 <a href="#demarest">Dr. Demarest (Amyraldian / 4)</a>
         - 3.2.4 <a href="#geisler">Dr. Geisler (Moderate Cal. / Other)</a>
         - 3.2.5 <a href="#ashby">Dr. Ashby (Reformed Arminian)</a>
         - 3.2.6 <a href="#oden">Dr. Oden (Arminian)</a>
