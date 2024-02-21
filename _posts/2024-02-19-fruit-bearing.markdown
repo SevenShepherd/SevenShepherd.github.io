@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:25:00 -0500
+date: 2024-02-19 06:35:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -22,13 +22,19 @@ published: true
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
     - 3.1 <a href="#packer-on-works">Works Are An Expression Of Faith</a>
-    - 3.2 <a href="#consensus">Consensus Among Christians</a>
+    - 3.2 <a href="#consensus">Consensus Among Distinctives</a>
         - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless / Armin.)</a>
         - 3.2.2 <a href="#sproul">Dr. Sproul (Scholastic Calvinists)</a>
         - 3.2.3 <a href="#geisler">Dr. Geisler (Moderate Calvinists)</a>
         - 3.2.4 <a href="#calvin">John Calvin (Hyper-Calvinists)</a>
         - 3.2.5 <a href="#wesley">John Wesley (Arminians)</a>
-
+    - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
+        - 3.3.1 <a href="#reformed">Presbyterian & Reformed Baptist</a>
+        - 3.3.2 <a href="#lutheran">Lutheranism</a>
+        - 3.3.3 <a href="#anglican">Anglican and Episcopalian</a>
+        - 3.3.4 <a href="#baptist">Baptist</a>
+        - 3.3.5 <a href="#methodist">Methodist</a>
+        - 3.3.6 <a href="#pentecostal">Pentecostal</a>
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
 
@@ -403,7 +409,7 @@ Augustine noted, his gracious crowning of his own gracious gifts.
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 59. Works: Good works are an expression of faith. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<a name="consensus" href="#contents" style="font-size:1.6em;">3.2 Consensus Among Christian Scholars</a>
+<a name="consensus" href="#contents" style="font-size:1.6em;">3.2 Consensus Among Distinctives</a>
 
 For a complete list see contents of my article on [**practicing sin**](https://sevenshepherd.github.io/practicing-sin/).
 
@@ -443,7 +449,7 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
 
-<a name="calvin" href="#contents" style="font-size:1.6em;">3.2.3 John Calvin (1509-1564)</a>
+<a name="calvin" href="#contents" style="font-size:1.6em;">3.2.4 John Calvin (1509-1564)</a>
 
 The first and most influential theologian in the Reformed tradition.
 
@@ -452,11 +458,56 @@ The first and most influential theologian in the Reformed tradition.
 
 > **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.](https://amzn.to/3KhLphl)
 
-<a name="wesley" href="#contents" style="font-size:1.6em;">3.2.3 John Wesley (1703-1791)</a>
+<a name="wesley" href="#contents" style="font-size:1.6em;">3.2.5 John Wesley (1703-1791)</a>
 
 Founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
+
+<a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Denominations</a>
+
+<a name="reformed" href="#contents" style="font-size:1.6em;">3.3.1 Reformed Baptist & Presbyterian</a>
+
+John Calvin (1509-1564) was the first and most influential theologian in the Reformed tradition.
+
+> Therefore Christ justifies no one whom he does not at the same time
+**sanctify**. ... Thus it is clear how true it is that we are justified **not without works yet not through works**. &mdash; John Calvin, [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc)
+
+> **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.](https://amzn.to/3KhLphl)
+
+Westminster Confession of Faith (1646) is the doctrinal standard for Presbyterian and Reformed churches.
+
+> 11.2: Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: **yet is not alone in the person justified**, but is ever accompanied with all the other saving graces, and **is no dead faith**, but worketh by love. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:626](https://amzn.to/3k5v2cZ)
+
+<a name="lutheran" href="#contents" style="font-size:1.6em;">3.3.2 Lutheranism</a>
+
+Formula of Concord (1576) the great summary and consensus of Lutheran doctrine.
+
+> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and **good works always follow justifying faith**, and are most certainly found together with it, provided only it be true and living faith. For **true faith is never alone** ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118](https://amzn.to/3k5v2cZ)
+
+<a name="anglican" href="#contents" style="font-size:1.6em;">3.3.3 Anglican and Episcopalian</a>
+
+Thirty-Nine Articles of the Church of England (1571) doctrinal standard for Anglican and Episcopalian churches.
+
+> XII. Of Good Works: Albeit that **Good Works, which are fruits of Faith, and follow after Justification**... do spring out necessarily of a true and lively faith... by them a lively Faith may be as **evidently known as a tree discerned by the fruit**. &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
+
+<a name="baptist" href="#contents" style="font-size:1.6em;">3.3.4 Baptist</a>
+
+New Hampshire Baptist Confession (1833) Statement for Baptist churches.
+
+> VII. & VIII. Regeneration ... is effected ... by the power of the Holy Spirit ... **its proper evidence appears in the holy fruits of repentance, and faith, and newness of life**. ... We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ, we turn to God with unfeigned contrition, confession, and supplication for mercy ... &mdash; [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:744-45](https://amzn.to/3k5v2cZ)
+
+<a name="methodist" href="#contents" style="font-size:1.6em;">3.3.5 Methodist</a>
+
+John Wesley (1703-1791) the founder of Methodism.
+
+> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
+
+<a name="pentecostal" href="#contents" style="font-size:1.6em;">3.3.6 Pentecostal</a>
+
+Assemblies of God Statement of Fundamental Truths (1916) one of the oldest and largest Pentecostal denominations.
+
+> Salvation is received through repentance toward God and faith toward the Lord Jesus Christ. ... **The outward evidence to all men is a life of righteousness and true holiness**. (Eph. 4:24; Titus 2:12). &mdash; ["Assemblies of God Statement of Fundamental Truths," sec. 5]()
 
 <script>
     var refTagger = {
