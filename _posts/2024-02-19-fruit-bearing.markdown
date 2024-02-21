@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:35:00 -0500
+date: 2024-02-19 06:45:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -29,12 +29,12 @@ published: true
         - 3.2.4 <a href="#calvin">John Calvin (Hyper-Calvinists)</a>
         - 3.2.5 <a href="#wesley">John Wesley (Arminians)</a>
     - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
-        - 3.3.1 <a href="#reformed">Presbyterian & Reformed Baptist</a>
-        - 3.3.2 <a href="#lutheran">Lutheranism</a>
-        - 3.3.3 <a href="#anglican">Anglican and Episcopalian</a>
-        - 3.3.4 <a href="#baptist">Baptist</a>
-        - 3.3.5 <a href="#methodist">Methodist</a>
-        - 3.3.6 <a href="#pentecostal">Pentecostal</a>
+        - 3.3.1 <a href="#reformed">Presbyterian & Reformed Baptist (1646)</a>
+        - 3.3.2 <a href="#lutheran">Lutheranism (1576)</a>
+        - 3.3.3 <a href="#anglican">Anglican and Episcopalian (1571)</a>
+        - 3.3.4 <a href="#baptist">Baptist (1833)</a>
+        - 3.3.5 <a href="#methodist">Methodist (1703-91)</a>
+        - 3.3.6 <a href="#pentecostal">Pentecostal (1916)</a>
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
 
@@ -464,7 +464,7 @@ Founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
 
-<a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Denominations</a>
+<a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Protestant Denominations</a>
 
 <a name="reformed" href="#contents" style="font-size:1.6em;">3.3.1 Reformed Baptist & Presbyterian</a>
 
