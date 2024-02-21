@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 06:15:00 -0500
+date: 2024-02-19 06:25:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -23,9 +23,11 @@ published: true
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
     - 3.1 <a href="#packer-on-works">Works Are An Expression Of Faith</a>
     - 3.2 <a href="#consensus">Consensus Among Christians</a>
-        - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless & Arminians)</a>
-        - 3.2.2 <a href="#sproul">Dr. Sproul (Calvinists)</a>
-        - 3.2.3 <a href="#geisler">Dr. Geisler (Moderates)</a>
+        - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless / Armin.)</a>
+        - 3.2.2 <a href="#sproul">Dr. Sproul (Scholastic Calvinists)</a>
+        - 3.2.3 <a href="#geisler">Dr. Geisler (Moderate Calvinists)</a>
+        - 3.2.4 <a href="#calvin">John Calvin (Hyper-Calvinists)</a>
+        - 3.2.5 <a href="#wesley">John Wesley (Arminians)</a>
 
 
 <a name="legalism" href="#contents" style="font-size:2.1em;">1. The Heresy Of Legalism</a>
@@ -440,6 +442,21 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 > As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup>
 
 > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms moderate Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11.
+
+<a name="calvin" href="#contents" style="font-size:1.6em;">3.2.3 John Calvin (1509-1564)</a>
+
+The first and most influential theologian in the Reformed tradition.
+
+> Therefore Christ justifies no one whom he does not at the same time
+**sanctify**. ... Thus it is clear how true it is that we are justified **not without works yet not through works**. &mdash; John Calvin, [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc)
+
+> **It is therefore faith alone which justifies, and yet the faith which justifies is not alone** ... &mdash; John Calvin, [Tracts and Letters: Acts of the Council of Trent, Antidote to the Canons of the Council of Trent, Canon 11.](https://amzn.to/3KhLphl)
+
+<a name="wesley" href="#contents" style="font-size:1.6em;">3.2.3 John Wesley (1703-1791)</a>
+
+Founder of Methodism.
+
+> We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM)
 
 <script>
     var refTagger = {
