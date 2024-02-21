@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 07:00:00 -0500
+date: 2024-02-19 07:15:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -24,8 +24,10 @@ published: true
     - 3.1 <a href="#packer-on-works">Works Are An Expression Of Faith</a>
     - 3.2 <a href="#consensus">Consensus Among Distinctives</a>
         - 3.2.1 <a href="#lennox">Dr. Lennox (Systemless / Armin.)</a>
-        - 3.2.2 <a href="#sproul">Dr. Sproul (Scholastic Calvinists)</a>
-        - 3.2.3 <a href="#geisler">Dr. Geisler (Moderate Calvinists)</a>
+        - 3.2.2 <a href="#sproul">Dr. Sproul (Calvinism / Single / 5)</a>
+        - 3.2.3 <a href="#demarest">Dr. Demarest (Amyraldian / Single / 4)</a>
+        - 3.2.4 <a href="#geisler">Dr. Geisler (Moderate Cal. / Other)</a>
+        - 3.2.5 <a href="#ashby">Dr. Ashby (Reformed Arminian)</a>
     - 3.3 <a href="#consensus-denom">Consensus Among Denominations</a>
         - 3.3.1 <a href="#reformed">Presbyterian & R. Baptist (1646)</a>
         - 3.3.2 <a href="#lutheran">Lutheranism (1576)</a>
@@ -244,6 +246,15 @@ Jude calls the church to defend the truth aggressively against this infiltration
 They pervert, twist, and distort the gospel, falsely teaching that our God's grace allows them to live immoral lives. The NET Bible nails it with the phrase *"turned the grace of our God into **a license for evil**."* Greek [“debauchery.”](https://www.biblegateway.com/passage/?search=Jude%204&version=NET) This is the same word Peter uses to predict what the false teachers will be like (2 Pet 2:2, 7, 18). 
 
 > <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">debauched lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
+>> Second Pet 2:1 describes “false prophets” who “secretly introduce
+destructive heresies, even denying the Sovereign Lord who bought them.”
+These persons professed to be Christians and were influential teachers of
+the church. Peter’s elaboration of them as “brute beasts, creatures of
+instinct, born only to be caught and destroyed” (v. 12), “springs without
+water and mists driven by a storm” (v. 17), and “slaves of depravity”
+(v. 19) shows that the subjects were unregenerate professors of the faith.
+The end of their apostasy is described as “swift destruction” (cf. v. 12b,
+17b). &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 457.
 
 The phrase *"deny Jesus as Master and Lord"* is eerily reminiscent of modern neotheologies of today. They use the gospel to teach that grace is an excuse for ungodly living (cf. Rom. 3:8; 6:1, 15; 2 Pet. 3:15–16). Some even claiming you don't need to accept Jesus as Master & Lord to be saved!
 
@@ -440,7 +451,52 @@ Jesus made a similar point when he said, **by their fruit you will recognise the
 
 <sup style="font-size:10px;font-style:italic;">The verses and descriptions in the chart above were provided by Shepherd, the formulas by R.C. Sproul.</sup>
 
-<a name="geisler" href="#contents" style="font-size:1.6em;">3.2.3 Dr. Norman Geisler (M.A., Theology at Wheaton; Ph.D., Philosophy at Loyola)</a>
+<a name="demarest" href="#contents" style="font-size:1.6em;">3.2.3 Dr. Bruce Demarest (Ph.D., University of Manchester)</a>
+
+> As Augustine wrote, “Do not make judgments about whom God draws and whom He does not draw, unless you wish to fall into error. Accept this once and for all, and understand it: you are not yet drawn to God? Pray that you may be drawn!”73 **God’s responsibility is to bring forth spiritual fruit** through his Word that we share. Recall the teaching of St. Paul that human messengers sow the seed of the Word and water it, but **it is God who makes the seed grow (1 Cor 3:6-7)**. We preach, we persuade, and we plead with sinners to repent and be reconciled to God. But **ultimately we know that it is the sovereign and all-powerful God who gives spiritual fruit**. It is he who draws sinners to Christ, who causes the church to multiply, who makes the Gospel prevail and break down strongholds. Thus as Christ’s servants faithfully preach the Gospel we need not fear that our words will fall on deaf and unresponsive ears, for God has promised that his Word will prosper. The Lord encourages us through the prophet Isaiah:
+>
+>>As the rain and the snow come down from heaven, and do not return to it without watering the earth and making it bud and flourish, so that it yields seed for the sower and bread for the eater, so is my word that goes out from my mouth: It will not return to me empty, but will accomplish what I desire and achieve the purpose for which I sent it. — 55:10-11
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Five, C. Trust God to Give the Spiritual Fruit. pp. 233-4.
+
+--
+
+> Indeed, wherever faith exists, one finds proof of the soul’s prior regeneration. “Faith in the living God and his Son Jesus Christ is always the result of the new birth, and can never exist except in the regenerate.”66 Spurgeon added that repentance, an effect of faith, includes sorrow for transgressions and a forsaking of all known sins. Likewise a fruit of the new birth, repentance also is a gift of God’s grace.
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Six, F. A Divinely Enabled Human Response (Reformed Evangelicals). p. 248.
+
+--
+
+> As to whether true believers can forfeit salvation, consider Jesus’ allegory of the vine and the branches (John 15:1-8). Jesus said, “my Father . . . cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful” (vv. 1-2). **The dry and fruitless branches cut off signify professed believers whom Christ rejects because their relation to him was not genuine.** The Lord referred to the perdition of unregenerate professors such as Judas in v. 6: “If anyone does not remain in me, he is like a branch that is thrown away and withers; such branches are picked up, thrown into the fire and burned.” “The absence of fruit in the branch of the vine casts grave doubt upon its real union with the central stem, however attractive it may appear. Such useless members must be cut off.”57
+>
+Did Paul teach that Christians can forfeit salvation when he wrote to the
+Galatians, “you have fallen away from grace” (Gal 5:4)? The apostle clarified the meaning of this statement by the words that precede: “You who
+are trying to be justified by law have been alienated from Christ.” Paul’s
+readers were immature believers who, influenced by Jewish legalists, lapsed
+in their understanding of God’s plan of salvation by grace through faith.
+What the erring Galatians did was to defect from a theology of justification by grace to a theology of justification by law-keeping. They were running the race well until the Judaizers caused them to turn aside. Paul expressed confidence that the erring saints would soon return to the truth (v. 10). Thus this text does not uphold the apostasy of genuine Christians
+>
+...
+>
+John plainly taught that those who withdrew from the believing community never were saved in the first place. “They went out from us, but
+they did not really belong to us. For if they had belonged to us, they would
+have remained with us; but their going showed that none of them belonged
+to us” (1 John 2:19). It is not always possible to distinguish between the
+saved and the unsaved. But God grants the saved grace that enables them
+to endure; those who fail to endure do so because they never possessed
+regenerating and preserving grace. In writing “Anyone who runs ahead
+and does not continue in the teaching of Christ does not have God” (2
+John 9a), John described Gnostic/Docetic teachers who claimed to have
+advanced beyond apostolic teaching about Christ but who failed to continue therein. 
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 456-7.
+
+<!-- --
+
+>
+&mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 456-7. -->
+
+<a name="geisler" href="#contents" style="font-size:1.6em;">3.2.4 Dr. Norman Geisler (M.A., Theology at Wheaton; Ph.D., Philosophy at Loyola)</a>
 
 > As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
 
@@ -464,6 +520,40 @@ The first and most influential theologian in the Reformed tradition.
 Founder of Methodism.
 
 > We are, doubtless, justified by faith. This is the corner-stone of the whole Christian building. ... **So that if good works do not follow our faith**, even all inward and outward holiness, **it is plain our faith is nothing worth; we are yet in our sins**. &mdash; [John Wesley, "The Law Established Through Faith," in The Sermons of John Wesley](https://amzn.to/3IBevqM) -->
+
+<a name="ashby" href="#contents" style="font-size:1.6em;">3.2.5 Dr. Stephen M. Ashby (Ph.D., Bowling ForestGreen State)</a>
+
+> **6\. John 15:1-6.**
+>
+>> I am the true vine, and my Father is the gardener. He
+cuts off every branch in me that bears no fruit, while every
+branch that does bear fruit he prunes so it will be even more
+fruitful. You are already clean because of the word I have
+spoken to you. Remain in me, and I will remain in you. No
+branch can bear fruit by itself; it must remain in the vine.
+Neither can you bear fruit unless you remain in me. I am
+the vine; you are the branches. If a man remains in me and
+I in him, he will bear much fruit; apart from me you can do
+nothing. If anyone does not remain in me, he is like a
+branch that isthrown away and withers; such branches are
+picked up, thrown into the fire and burned.
+>
+This particular passage is speaking poignantly about the
+believer's union with Christ. This union serves as the basis for
+all fruitfulness in the Christian's experience, for apart from him
+we can do nothing. However, as I. Howard Marshall states:
+>
+>>John thus uses the verb "abide" [remain] to express the
+need for disciples to continue in their personal commitment
+to Jesus; the abiding of Jesus in them is not an automatic
+process which is independent of their attitude to Him, but
+is the reverse side of their abiding in Him. Just as men are
+summoned to believe in Jesus, so they are summoned to
+abide in Jesus, i.e., to continue believing."
+>
+**In other words, the branch's attachment to the vine-indeed, the individual's union with Christ-is what makes possible a life characterized by Christian virtue and fruitfulness.** C. K. Barrett proclaims that "this union, originating in his initiative and sealed by his death on their behalf, is completed by the believer's responsive love and obedience, and is the essence of Christianity."
+>
+&mdash; Dr. Stephen M. Ashby (PhD, Bowling ForestGreen State) &ldquo;*Four Views on Eternal Security*&rdquo;. pp. 180-1.
 
 <a name="consensus-denom" href="#contents" style="font-size:1.6em;">3.3 Consensus Among Protestant Denominations</a>
 
