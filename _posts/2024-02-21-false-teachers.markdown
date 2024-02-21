@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 04:45:00 -0500
+date: 2024-02-21 04:55:00 -0500
 categories: repent
 published: true
 ---
@@ -27,6 +27,8 @@ True believers will always be marked by the fruit of the Holy Spirit (Gal 5:22-2
 <sup style="font-weight:bold;">22</sup> But <span style="font-weight:bold;color:ForestGreen;">the Holy Spirit produces this kind of <span style="font-size:1.2em;color:YellowGreen;">fruit</span> in our lives</span>: love, joy, peace, patience, kindness, goodness, faithfulness, <sup style="font-weight:bold;">23</sup> gentleness, and self-control. There is no law against these things!
 >
 &mdash; Galatians 5:19-23 NLT.
+
+Bearing fruit happens naturally for living trees, both in nature and metaphorically. A branch cannot bear fruit by itself (John 15:1-17). If a tree was genuinely alive it would bear fruit. It's the fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn’t growing the root is dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
 
 <script>
     var refTagger = {
