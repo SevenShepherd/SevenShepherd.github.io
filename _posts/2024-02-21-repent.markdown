@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience."
-date: 2024-02-21 01:17:00 -0500
+date: 2024-02-21 01:27:00 -0500
 categories: repent repentance faith
 published: true
 ---
@@ -101,13 +101,17 @@ direction, to practise the virtues most directly opposed to it.
 
 <span style="font-size:1.2em;">Genuine faith always results in repentance.</span>
 
-It's by simple observation, that we conclude, that saving faith &ldquo;results&rdquo; in obedience to God, &ldquo;after,&rdquo; we are justified, and that it does not &ldquo;include&rdquo; obedience. In other words, we do not repent to merit or earn our salvation, we repent because or faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4). 
+It's by simple observation, that we conclude, that saving faith &ldquo;results&rdquo; in obedience to God, &ldquo;after,&rdquo; we are justified, and that it does not &ldquo;include&rdquo; obedience. In other words, we do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4). 
 
 <!-- those with genuine saving faith are granted to do so (Acts 11:18; 2Tim. 2:25). -->
 
 > For we hold that one is justified by **faith apart from works** of the law. &mdash; Romans 3:28 ESV
 
+> The times of ignorance God overlooked, but now <span style="font-size:1.2em;font-weight:bold;color:red;">he commands</span> all people everywhere to <span style="font-size:1.2em;font-weight:bold;color:red;">repent</span>, &mdash; Acts 17:30 ESV
+
 > <span style="font-weight:bold;color:orangered;">“If you love me,</span> <span style="font-size:1.2em;font-weight:bold;color:red;">you will obey my commandments</span>. &mdash; John 14:15 NET
+
+> Whoever says “I know him” but does not keep <span style="font-size:1.2em;font-weight:bold;color:red;">his commandments</span> <span style="font-weight:bold;color:orangered;">is a liar, and the truth is not in him</span>, &mdash; 1 John 2:4 ESV
 
 <!-- Repentance ([turning from sin](https://sevenshepherd.github.io/repentance/)) does not merit salvation, but  -->
 
@@ -119,10 +123,6 @@ A person who loves God will obey his commandment to repent (Ac 17:30; Jn 14:15,2
 4. Those who do not repent have **&ldquo;given strong evidence&rdquo;** of not being led to salvation and eternal life (2 Cor. 7:10; Ac 11:18)
 5. Faith that does not &ldquo;result&rdquo; in repentance is not a faith (Jas 2:19) that leads to salvation (2Cor. 7:10). It is a <a href="https://sevenshepherd.github.io/theology/#living">dead faith</a>.
 6. Why did Jesus come? (Lk 5:32) -->
-
-<!-- > The times of ignorance God overlooked, but now <span style="font-size:1.2em;font-weight:bold;color:red;">he commands</span> all people everywhere to <span style="font-size:1.2em;font-weight:bold;color:red;">repent</span>, &mdash; Acts 17:30 ESV
-
-> Whoever says “I know him” but does not keep <span style="font-size:1.2em;font-weight:bold;color:red;">his commandments</span> <span style="font-weight:bold;color:orangered;">is a liar, and the truth is not in him</span>, &mdash; 1 John 2:4 ESV -->
 
 <!-- Repentance is the fruit of [genuine saving faith](https://sevenshepherd.github.io/faith-results/). Bearing fruit happens naturally for living trees, both in nature and metaphorically. <span style="font-weight:bold;color:#800080;">A branch cannot bear fruit by itself (John 15:1-17).</span> -->
 
@@ -171,7 +171,7 @@ I don't think we should sugarcoat the gospel, but because we cannot see into a p
 - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
 - Repentance for the **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
 - Unrepentant sinners will perish (Luke 13:3; Mt 3:10).
-- Repentance is a command from God himself (Acts 17:30; Mt 4:17).
+- Repentance is a command from God himself (Acts 17:30; Mt 4:17; 1Jn 2:4).
 - While there may be an initial saving repentance, it is not a one time event (Luke 17:3-4; 1 Cor. 5:12-13 NLT).
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
 - Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)

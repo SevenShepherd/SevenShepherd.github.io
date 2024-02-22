@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥀 “Die before you die, there is no chance after.” ― C.S. Lewis"
-date: 2024-02-21 02:05:00 -0500
+date: 2024-02-21 02:15:00 -0500
 categories: sin eternal
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 
 ## A Sin That Not Even The Cross Can Save You From Is The Rejection Of The Cross
 
-> Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. 88. UNPARDONABLE SIN - <a href="#packer" style="font-weight:bold;">Only Impenitence Cannot Be Forgiven</span>. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+> Christians who fear that they may have committed the unpardonable sin show by their very anxiety that they have not done so. Persons who have committed it are unremorseful and unconcerned; indeed, they are ordinarily unaware of what they have done and to what fate they have sentenced themselves. &mdash; Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. 88. UNPARDONABLE SIN - <a href="#packer" style="font-weight:bold;">Only Impenitence Cannot Be Forgiven</a>. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
