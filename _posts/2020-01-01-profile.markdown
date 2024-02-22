@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 3:55:00 -0500
+date: 2020-01-01 4:00:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -207,7 +207,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <!-- I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).  -->
 
-A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives ([amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)) and a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
+A brief overview of my stances are as follows: I am theologically conservative with moderate distinctives, which either takes the form of [amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) or [reformed wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). I also hold a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I could be described as historically protestant, as I hold to the five solas. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
 
 
 <!-- Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone](https://sevenshepherd.github.io/faith-alone/) in the person justified (James 2:14-26; Eph 2:10). [Sola fide](/assets/images/solas.jpg).  -->
@@ -241,7 +241,7 @@ A brief overview of my stances are as follows: I am theologically conservative w
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫| -->
 
-If only Amyraldian Compatibilists had something as succinct as Packer's Concise Theology. Packer's book would be almost perfect if it championed hypothetical universalism or unlimited atonement, and a Compatibilist view of God's absolute sovereignty and a limited version of libertarian free will instead of freedom of inclination. [D.A. Carson's 3rd chapter of &lsquo;Divine Sovereignty & Human Responsibility&rsquo;](https://sevenshepherd.github.io/chosen/#carson) is the perfect material for just such a project.
+If only Amyraldian Compatibilists had something as succinct as Packer's Concise Theology. Packer's book would be almost perfect if it championed hypothetical universalism or unlimited atonement, and a compatibilist view of God's absolute sovereignty juxtaposed with a limited version of libertarian free will instead of freedom of inclination. [D.A. Carson's 3rd chapter of &lsquo;Divine Sovereignty & Human Responsibility&rsquo;](https://sevenshepherd.github.io/chosen/#carson) is the perfect material for just such a project.
 
 |Distinctive / Stance on Free Will (Decree)|Recommendation|
 |:-:|:-:|
