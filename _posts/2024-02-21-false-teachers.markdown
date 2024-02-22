@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 05:00:00 -0500
+title: "🍎 Jesus Revealed How To Spot A Fake When He Warned, “You will recognize them by their fruits.”"
+date: 2024-02-21 05:05:00 -0500
 categories: repent
 published: true
 ---
+
+<!-- Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.” -->
 
 See [Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism](https://sevenshepherd.github.io/fruit-bearing/#oden)
 
