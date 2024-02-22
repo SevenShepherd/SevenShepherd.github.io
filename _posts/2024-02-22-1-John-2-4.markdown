@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💬 “If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.” ― The Apostle John."
-date: 2024-02-22 01:07:00 -0500
+date: 2024-02-22 01:17:00 -0500
 categories: obedience verse
 published: true
 ---
@@ -39,6 +39,7 @@ The fruits of the faith are not the efforts of man, they're the workings of God 
     - 1.4 <a href="#NLTF">NLT Filament Study</a>
     - 1.5 <a href="#NKJVSB">NKJV Study Bible</a>
     - 1.6 <a href="#NOAB">NOAB Study Bible</a>
+    - 1.7 <a href="#TJANT">TJANT Study Bible</a>
 
 <!-- 3. <a href="#conclusion">Conclusion</a> -->
 
@@ -153,6 +154,9 @@ as high priest in Heb 4.15–5.4. Here Christ is the advocate, who defends the f
 Holy Spirit as advocate see Jn 14.15–16). 3–5: Knowledge of God requires obedience to God’s commandments (cf.
 Ezek 36.26–27). 6: Jesus exemplifies the love which is God’s commandment (Jn 13.1; 15.11–13).
 
+<a name="TJANT" href="#contents" style="font-size:1.6em">1.7 The Jewish Annotated New Testament</a>
+
+> 3: Know, a favorite Johannine term, here alluding to the personal knowledge of God that leads one to love other members of the community (Jn 13.34). **4–6**: Obey, in conforming one’s behavior one exemplifies the love of God. Abide in, participate in the life of. Walk, live one’s life; cf. e.g., Ps 1.1; 15.2.
 
 <script>
     var refTagger = {
