@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 08:45:00 -0500
+date: 2024-02-19 08:55:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -28,6 +28,7 @@ The fruits of the faith are not the efforts of man, they're the workings of God 
         - 1.3.2 <a href="#James2:14-26">James 2:24</a>
         - 1.3.3 <a href="#Romans2:7,13">Romans 2:13</a>
         - 1.3.4 <a href="#James1:22">James 1:22</a>
+        - 1.3.5 <a href="#1John2:4">1 John 2:4</a>
 2. <a href="#antinomianism">The Heresy Of Antinomianism</a>
     - 2.1 <a href="#packer-on-antinomianism">We Are Not Set Free To Sin</a>
 3. <a href="#fruit-bearing">Christ's Fruit-Bearing Metaphor</a>
@@ -242,6 +243,10 @@ Evidence is something that happens after-the-fact, after we're justified by fait
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:OrangeRed">not faith <span style="font-size:1.2em;color:Red">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
+<a name="1John2:4" href="#contents" style="font-size:1.6em;">1.3.5 First John 2:4 IS NOT Teaching Legalism</a>
+
+See my [**article**](https://sevenshepherd.github.io/1-John-2-4/).
+
 <br>
 
 ---
@@ -278,7 +283,7 @@ Bearing fruit happens naturally for living trees, both in nature and metaphorica
 
 <!-- > Whoever says “I know him” but does not keep <span style="font-size:1.2em;font-weight:bold;color:Red;">his commandments</span> <span style="font-weight:bold;color:OrangeRed;">is a liar, and the truth is not in him</span>, &mdash; 1 John 2:4 ESV -->
 
-> 3 And we can be sure that we know him if we obey his commandments. 4 <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.</span> 5 But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:ForestGreen;">That is how we know we are living in him.</span> 6 Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT
+> <sup style="font-weight:bold;">3</sup> And we can be sure that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:ForestGreen;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT
 
 <span style="font-weight:bold;font-size:1.2em">This message is not legalistic</span>, it is not speaking of meriting or earning your salvation. This is speaking of the fruit of genuine saving faith. This is also not speaking of perfection (1Jn 2:1-3). It is simply saying, that if your faith is not superficial, your life will bear fruit (Gal 5:22-23; John 15:1-17). Justification is by faith alone (Rom. 3:28; Eph 2:8-10), but the faith that saves is never alone in the person justified (Jn 14:15,21).
 
