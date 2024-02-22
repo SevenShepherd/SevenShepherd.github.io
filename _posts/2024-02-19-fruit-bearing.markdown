@@ -1,21 +1,21 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 08:25:00 -0500
+date: 2024-02-19 08:45:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
 
 <!-- "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin" -->
 
-The fruits of the faith are not the efforts of man, they're the workings of God (1Cor.3:6-7; Jn 15:4; Ga 5:22-23) upon closer union with Christ. Fruit-bearing is anti-legalistic by nature because it is post-justification. We must never tell a person that they must perform some action in order to merit salvation, for we know that justification is by faith only (Eph 2:8-10; Rom 3:28), instead, we would tell them that if they are saved already, and their faith is genuine, that their lives would bear fruit (Mt 3:8;Jn 15:8,16). &ldquo;*Therefore Christ justifies no one whom he does not at the same time sanctify.*&rdquo;
+The fruits of the faith are not the efforts of man, they're the workings of God (1Cor.3:6-7; Jn 15:4; Ga 5:22-23) upon closer union with Christ. Fruit-bearing is anti-legalistic by nature because it is post-justification. We must never tell a person that they must perform some action in order to merit salvation, for we know that justification is by faith only (Eph 2:8-10; Rom 3:28), instead, we would say that if their faith was truly genuine, and they were in fact saved, that their lives would bear the fruits of obedience (Mt 3:8;Jn 15:8,16). &ldquo;*Therefore Christ justifies no one whom he does not at the same time sanctify.*&rdquo;
 
 <span style="font-size:0.9em;">
 🍎 Fruit grows on salvation<br>
-🍎 Bearing Fruit Happens Naturally For Living Trees.<br>
-🍎 A Branch Cannot Bear Fruit By Itself (Jn 15:4).<br>
-🍎 Fruit Of The Spirit Not Of Human Decision (Ga 5:22-23).<br>
-🍎 If The Fruit Isn't Growing The Root Is Dead (Mt 3:10; Jas 2:17; 2Cor.13:5).<br>
+🍎 Bearing fruit happens naturally for living trees.<br>
+🍎 A branch cannot bear fruit by itself (Jn 15:4).<br>
+🍎 Fruit of the spirit not of human decision (Ga 5:22-23).<br>
+🍎 If the fruit isn't growing the root is dead (Mt 3:10; Jas 2:17; 2Cor.13:5).<br>
 </span>
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>

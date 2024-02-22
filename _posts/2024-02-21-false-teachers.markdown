@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🍎 Jesus Revealed How We Can Spot a Fake. He Warned About False Teachers & Converts When He Said “You will recognize them by their fruits.”"
-date: 2024-02-21 04:55:00 -0500
+date: 2024-02-21 05:00:00 -0500
 categories: repent
 published: true
 ---
@@ -28,7 +28,15 @@ True believers will always be marked by the fruit of the Holy Spirit (Gal 5:22-2
 >
 &mdash; Galatians 5:19-23 NLT.
 
-Bearing fruit happens naturally for living trees, both in nature and metaphorically. A branch cannot bear fruit by itself (John 15:1-17). If a tree was genuinely alive it would bear fruit. It's the fruit of the Spirit, not the fruit of human decision (Gal 5:22-23). If the fruit isn’t growing the root is dead (Mt 3:8,10; Jn 15:8; Jas 2:17).
+The fruits of the faith are not the efforts of man, they're the workings of God (1Cor.3:6-7; Jn 15:4; Ga 5:22-23) upon closer union with Christ. Fruit-bearing is anti-legalistic by nature because it is post-justification. We must never tell a person that they must perform some action in order to merit salvation, for we know that justification is by faith only (Eph 2:8-10; Rom 3:28), instead, we would say that if their faith was truly genuine, and they were in fact saved, that their lives would bear the fruits of obedience (Mt 3:8;Jn 15:8,16). &ldquo;*Therefore Christ justifies no one whom he does not at the same time sanctify.*&rdquo;
+
+<span style="font-size:0.9em;">
+🍎 Fruit grows on salvation<br>
+🍎 Bearing fruit happens naturally for living trees.<br>
+🍎 A branch cannot bear fruit by itself (Jn 15:4).<br>
+🍎 Fruit of the spirit not of human decision (Ga 5:22-23).<br>
+🍎 If the fruit isn't growing the root is dead (Mt 3:10; Jas 2:17; 2Cor.13:5).<br>
+</span>
 
 <script>
     var refTagger = {
