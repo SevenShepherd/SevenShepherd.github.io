@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2023-12-17 03:35:00 -0500
+date: 2024-02-21 03:05:00 -0500
 categories: repent
 published: true
 ---
@@ -9,6 +9,69 @@ published: true
 <iframe width="385" height="315" src="https://www.youtube.com/embed/jOFsFgUUdZo?si=dGD9nY-WtMAvSmrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <sup>Dr. J. I. Packer (Ph.D., University of Oxford), On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).</sup>
+
+> **61\. JUSTIFICATION**<br>
+SALVATION IS BY GRACE THROUGH FAITH
+>
+>>Clearly no-one is justified before God by the law, because, ‘The righteous will live by faith.’
+Galatians 3:11
+>
+The doctrine of justification, the storm-centre of the Reformation, was a
+major concern of the apostle Paul. For him it was the heart of the gospel
+(Rom. 1:17; 3:21 – 5:21; Gal. 2:15 – 5:1) shaping both his message (Acts
+13:38–39) and his devotion and spiritual life (2 Cor. 5:13–21; Phil. 3:4–14).
+Though other New Testament writers affirm the same doctrine in substance,
+the terms in which Protestants have affirmed and defended it for almost five
+centuries are drawn primarily from Paul.
+>
+Justification is a judicial act of God pardoning sinners (wicked and
+ungodly persons, Rom. 4:5; 3:9–24), accepting them as just, and so putting
+permanently right their previously estranged relationship with himself. This
+justifying sentence is God’s gift of righteousness (Rom. 5:15–17), his
+bestowal of a status of acceptance for Jesus’ sake (2 Cor. 5:21).
+>
+God’s justifying judgment seems strange, for pronouncing sinners
+righteous may appear to be precisely the unjust action on the judge’s part
+that God’s own law forbade (Deut. 25:1; Prov. 17:15). Yet it is in fact a just
+judgment, for its basis is the righteousness of Jesus Christ who as ‘the last
+Adam’ (1 Cor. 15:45), our representative head acting on our behalf, obeyed
+the law that bound us and endured the retribution for lawlessness that was
+our due and so (to use a medieval technical term) ‘merited’ our justification.
+So we are justified justly, on the basis of justice done (Rom. 3:25–26) and
+Christ’s righteousness reckoned to our account (Rom. 5:18–19).
+>
+God’s justifying decision is the judgment of the Last Day, declaring
+where we shall spend eternity, brought forward into the present and
+pronounced here and now. It is the last judgment that will ever be passed on
+our destiny; God will never go back on it, however much Satan may appeal
+against God’s verdict (Zech. 3:1; Rev. 12:10; Rom. 8:33–34). To be
+justified is to be eternally secure (Rom. 5:1–5; 8:30).
+>
+The necessary means, or instrumental cause, of justification is personal
+faith in Jesus Christ as crucified Saviour and risen Lord (Rom. 4:23–25;
+10:8–13). This is because the meritorious ground of our justification is
+entirely in Christ. As we give ourselves in faith to Jesus, Jesus gives us his
+gift of righteousness, so that in the very act of ‘closing with Christ’, as older
+Reformed teachers put it, we receive divine pardon and acceptance which
+we could not otherwise have (Gal. 2:15–16; 3:24).
+>
+Official Roman Catholic theology includes sanctification in the
+definition of justification, which it sees as a process rather than a single
+decisive event, and affirms that while faith contributes to our acceptance
+with God, our works of satisfaction and merit contribute too. Rome sees
+baptism, viewed as a channel of sanctifying grace, as the primary
+instrumental cause of justification, and the sacrament of penance, whereby
+congruous merit is achieved through works of satisfaction, as the
+supplementary restorative cause whenever the grace of God’s initial
+acceptance is lost through mortal sin. Congruous, as distinct from condign,
+merit means merit that it is fitting, though not absolutely necessary, for God
+to reward by a fresh flow of sanctifying grace. On the Roman Catholic
+view, therefore, believers save themselves with the help of the grace that
+flows from Christ through the church’s sacramental system, and in this life
+no sense of confidence in God’s grace can ordinarily be had. Such teaching
+is a far cry from that of Paul.
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 61. Justification: Salvation Is By Grace Through Faith. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Verses (cf. Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
 
 <!-- Salvation is by grace alone and justification in the sight of God is by faith alone. 
 
