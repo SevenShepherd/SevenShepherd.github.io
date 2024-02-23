@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience."
-date: 2024-02-21 01:27:00 -0500
+date: 2024-02-21 01:47:00 -0500
 categories: repent repentance faith
 published: true
 ---
@@ -30,7 +30,9 @@ published: true
 
 <sup>Dr. J. I. Packer (Ph.D., University of Oxford), On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).</sup>
 
-<a name="intro" href="#contents" style="font-size:1.2em;">🍎 Repentance is the &ldquo;resulting&rdquo; fruit of a genuine non-superficial faith, it is neither meritorious nor within your power to perform alone, it is the work of God in the elect, those with genuine saving faith.</a>
+<a name="intro" href="#contents" style="font-size:1.6em;">🍎 Repentance is the &ldquo;resulting&rdquo; fruit of a genuine non-superficial faith, it is the work of God in the elect.</a>
+
+<!-- <a name="intro" href="#contents" style="font-size:1.2em;">🍎 Repentance is the &ldquo;resulting&rdquo; fruit of a genuine non-superficial faith, it is neither meritorious nor within your power to perform alone, it is the work of God in the elect, those with genuine saving faith.</a> -->
 
 See [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/).
 
@@ -176,7 +178,7 @@ I don't think we should sugarcoat the gospel, but because we cannot see into a p
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
 - Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
 
-Saving faith <span style="color:OrangeRed;">&ldquo;**does not include**&rdquo;</span> obedience, saving faith <span style="color:ForestGreen;">&ldquo;**results in**&rdquo;</span> obedience. Faith is not merely an intellectual assent to facts but instead a trust and reliance in Christ. Genuine saving faith will always be accompanied by good works that come <span style="color:ForestGreen;">&ldquo;**after justification**&rdquo;</span>. Good works <span style="color:ForestGreen;">&ldquo;**follow**&rdquo;</span> saving faith (*sola fide*).
+Saving faith <span style="color:OrangeRed;">&ldquo;**does not include**&rdquo;</span> obedience, saving faith <span style="color:ForestGreen;">&ldquo;**results in**&rdquo;</span> obedience. Faith is not merely an intellectual assent to facts but instead a trust and reliance in Christ. Genuine saving faith will always be accompanied by good works that come <span style="color:ForestGreen;">&ldquo;**after justification**&rdquo;</span>. Good works and continuing to believe <span style="color:ForestGreen;">&ldquo;**follow**&rdquo;</span> saving faith (*sola fide*).
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:OrangeRed">not faith <span style="font-size:1.2em;color:Red">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
