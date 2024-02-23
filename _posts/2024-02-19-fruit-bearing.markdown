@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 08:55:00 -0500
+date: 2024-02-19 09:00:00 -0500
 categories: fruit heresies heresy
 published: true
 ---
@@ -164,7 +164,7 @@ Jesus warning on the sermon on the mount taught that many would come to him in t
 
 Many people teach this incorrectly by telling people that they must perform some action to merit or earn their way into Heaven... <span style="color:#009933;">The context</span> shows that not only is this about <span style="color:#009933;">fruit-bearing (Mt 7:15-20)</span>, but it's also <span style="color:OrangeRed;">against legalism!</span> Ive color coded fruit bearing green and legalism red. Let's examine the verse:
 
-> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:#009933;">will enter the kingdom of heaven</span>, but <span style="color:#009933;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:OrangeRed;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never [knew](https://sevenshepherd.github.io/theology/#foreknew) you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
+> <sup style="font-weight:bold;">21</sup> “Not everyone who says to me, ‘Lord, Lord,’ <span style="color:#009933;">will enter the kingdom of heaven</span>, but <span style="color:#009933;">the one who does the will of my Father</span> who is in heaven. <sup style="font-weight:bold;">22</sup> <span style="font-weight:bold;">On that day many will say to me, ‘Lord, Lord,</span> <span style="color:OrangeRed;">did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?</span>’ <sup style="font-weight:bold;">23</sup> <span style="font-weight:bold;">And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’</span> &mdash; Matthew 7:21-23
 
 Here we can identify three types of individuals exhibiting assent to facts (notitia and assensus) but not "trust and reliance" (fiducia) that defines genuine saving faith.
 
