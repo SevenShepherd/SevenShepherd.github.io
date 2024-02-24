@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 01:05:00 -0500
+date: 2024-02-24 01:15:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -15,6 +15,16 @@ published: true
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
 Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be (Ecc 1:18). I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
+
+> The Lord says,<br>
+>>“I will put a curse on people<br>
+who trust in mere human beings,<br>
+who depend on mere flesh and blood for their strength,<br>
+and whose hearts have turned away from the Lord.
+>
+&mdash; Jeremiah 17:5 NET
+
+Let's not forget that man made theologies like dispensationalism do not deserve your trust, none of them do. TEST ALL THINGS (1Thes. 5:21). Put your trust in Christ alone.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
