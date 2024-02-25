@@ -15,13 +15,16 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
 3. Moderate Distinctives
-    - [Amyraldian](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) / [Reformed Wesleyan](https://sevenshepherd.github.io/chosen/#smith)
+    - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
     - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
+4. Denomination
+    - Reformed Baptist (4-Point)
+    - Presbyterian (Amyraldian)
 4. Soft-cessationist
 5. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
-    - NLT Filament
+    - NLT Filament (Parallel)
 
 <!-- - [Reformed Wesleyan Foreknowledge](https://sevenshepherd.github.io/chosen/#smith) -->
 
