@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 02:00:00 -0500
+date: 2024-02-24 02:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -100,7 +100,7 @@ I feel just as betrayed as Heiser, as I was also raised in dispensational theolo
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Vi1Nr7IihHo?si=pkeQUEpcAV8nlb9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
---
+ℹ️ Disclaimer: This is technically a critique on pretribulational rapture, an option of premillennialism that can be made when selecting an eschatological system. It can exist independently from dispensationalism.
 
 > The Rapture is a belief that Jesus Christ will return initially for the church. He will come—but not quite to earth. Here’s how: Jesus will come, and then the church will be taken up to meet him. This view of the rapture is prominent in a system of theology called premillennial dispensationalism. 
 >
@@ -144,13 +144,17 @@ Just some food for thought.
 
 <a name="death" href="#contents" style="font-size:2.1em">☠️ It Is Appointed Unto Men Once To Die</a>
 
-Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they cannot prove? For me, in the past it was hope and trust in teachers who I thought knew better, but I suspect many people overlook what scripture says out of fear.
+ℹ️ Disclaimer: This is technically a critique on pretribulational rapture, an option of premillennialism that can be made when selecting an eschatological system. It can exist independently from dispensationalism.
+
+<!-- Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they cannot prove? For me, in the past it was hope and trust in teachers who I thought knew better, but I suspect many people overlook what scripture says out of fear. -->
 
 > And just as **each person is destined to die once** and after that comes judgment, &mdash; Hebrews 9:27 NLT
 
 > for God gave us a spirit **not of fear** but of power and love and self-control. &mdash; 2 Timothy 1:7
 
-You might be quick to provide me with verses I've known since I was a child such as, &ldquo;*We shall not all sleep*&rdquo;, but this is likely talking about the second coming, and is not only just as applicable to it, but more logical to say, that upon Christ's return we're transformed post-tribulationally.
+<!-- You might be quick to provide me with verses I've known since I was a child such as, &ldquo;*We shall not all sleep*&rdquo;, but this is likely talking about the second coming, and is not only just as applicable to it, but more logical to say, that upon Christ's return we're transformed post-tribulationally. -->
+
+All verses used to support the rapture can also be applied to a post-trib stance. Remember that even in dispensationalism, all signs and prophecies point to the second coming, none to the rapture.
 
 > Behold! I tell you a mystery. **We shall not all sleep**, but we shall all be changed,
 >> But let me reveal to you a wonderful secret. **We will not all die**, but we will all be transformed! &mdash; 1 Corinthians 15:51 ESV, NLT (Parallel)
