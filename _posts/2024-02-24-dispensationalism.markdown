@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 02:15:00 -0500
+date: 2024-02-24 02:25:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -82,7 +82,7 @@ These verses prove the following three things:
 >
 &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
 
-Certain names & titles have been redacted to protect my audience from possible dangerous teachings by Chafer and the Free Grace community. You can always refer to the source yourself as I've supplied it at the end of each text. It should be stated that **I do not think that Free Grace Theology is a false gospel, only an incomplete, weakened, or diminished one**.
+Certain names & titles have been redacted to protect my audience from possible dangerous teachings by Chafer and the Free Grace community. You can always refer to the source yourself as I've supplied it at the end of each text. It should be stated that **I do not think that Free Grace Theology is a false gospel, only an incomplete, weakened, or diminished one**. I recommend moderate forms of protestantism instead.
 
 > **6\. The Relationship between Dispensationalism and the Free Grace Movement**
 >
@@ -103,8 +103,6 @@ Although my definition of repentance (p. 865) includes "a heartfelt sorrow for s
 <!-- 100% proof will be provided, but for now, refer to actual teachers like [Chuck Smith](https://sevenshepherd.github.io/repentance/) and Lexicons like [BDAG](https://sevenshepherd.github.io/repentance/#BDAG) to see that &ldquo;*Change of mind*&rdquo; was a meaning that was never applied to NT instances of repentance. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 
 **Chuck Smith was a dispensationalist but he was definitely [not a dispensational antinomian](https://sevenshepherd.github.io/assurance/).** If you want to stick to dispensationalism, Smith or Rhodes will teach it without antinomianism. -->
-
-> Under construction
 
 <a name="ryrie" href="#contents" style="font-size:2.1em">💭 Charles Ryrie Made Things Up To Make Dispensationalism Work</a>
 
