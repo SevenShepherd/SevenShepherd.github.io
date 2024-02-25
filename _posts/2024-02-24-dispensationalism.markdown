@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 02:25:00 -0500
+date: 2024-02-24 02:35:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -30,7 +30,7 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 
 <!-- 1. <a href="#1Jn2:4">A Critique of Dispensationalism</a> -->
 
-1. <a href="#strange-fire">Cult Like 1800s Strange Fire</a>
+1. <a href="#strange-fire">1800s Strange Fire Origins</a>
 2. <a href="#antinomianism">Can Introduce Antinomianism</a>
 3. <a href="#chafer">Did Chafer Diminish The Gospel?</a>
 4. <a href="#ryrie">Ryrie Made Things Up</a>
