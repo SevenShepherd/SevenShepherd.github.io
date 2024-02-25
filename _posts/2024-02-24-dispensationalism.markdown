@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 01:35:00 -0500
+date: 2024-02-24 02:00:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -32,7 +32,7 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 
 1. <a href="#strange-fire">Cult Like 1800s Strange Fire</a>
 2. <a href="#antinomianism">Can Introduce Antinomianism</a>
-3. <a href="#chafer">Did Chafer Corrupt The Gospel</a>
+3. <a href="#chafer">Did Chafer Corrupt The Gospel?</a>
 4. <a href="#ryrie">Ryrie Made Things Up</a>
 5. <a href="#contradiction">Two Second Comings Contradiction</a>
 6. <a href="#one-tree">There Is Only One Tree Not Two</a>
@@ -44,7 +44,10 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 
 The first 1:20 seconds of this video will floor you if you understand the gravity of what is being said.
 
-> so what I elected to do this evening is something very simple how many have your Bibles good what I'd like to do is to tell you first off that the position I am going to set forth tonight is not new as number one secondly the position I will set forth tonight was believed by the Christian Church for 19 centuries the Church Fathers the Reformers every great theologian in the entire history of the church up until the last 140 years believed that we would see the Anti Christ that we would be persecuted by him and that we would be delivered from him by the second coming of Jesus Christ you will find this in Catholic theology you will find that in Orthodox theology you will find it in all of the reformers and **you will not find the idea that we are going to escape the Antichrist until approximately a hundred and forty years ago when a 15 year old girl had a revelation and that revelation was picked up by J. N. Darby the founder of the Plymouth Brethren and developed into a form of theology known as dispensational theology** the church for 19 centuries. &mdash; [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
+> so what I elected to do this evening is something very simple how many have your Bibles good what I'd like to do is to tell you first off that the position I am going to set forth tonight is not new as number one secondly the position I will set forth tonight was believed by the Christian Church for 19 centuries the Church Fathers the Reformers every great theologian in the entire history of the church up until the last 140 years believed that we would see the Anti Christ that we would be persecuted by him and that we would be delivered from him by the second coming of Jesus Christ you will find this in Catholic theology you will find that in Orthodox theology you will find it in all of the reformers and **you will not find the idea that we are going to escape the Antichrist until approximately a hundred and forty years ago when a 15 year old girl had a revelation and that revelation was picked up by J. N. Darby the founder of the Plymouth Brethren and developed into a form of theology known as dispensational theology.** The church for 19 centuries
+never heard this doctrine, never believed it, and never preached it, if you want absolute proof of it, the simplest thing in the world is to go back and read Martin Luther, John Calvin, Melancthon, Knox, all the Reformation thinkers ...
+>
+&mdash; [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
 
 <a name="antinomianism" href="#contents" style="font-size:2.1em">👁️‍🗨️ Can Introduce Antinomianism</a>
 
