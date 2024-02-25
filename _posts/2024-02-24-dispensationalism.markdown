@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 02:05:00 -0500
+date: 2024-02-24 02:10:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -32,7 +32,7 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 
 1. <a href="#strange-fire">Cult Like 1800s Strange Fire</a>
 2. <a href="#antinomianism">Can Introduce Antinomianism</a>
-3. <a href="#chafer">Did Chafer Corrupt The Gospel?</a>
+3. <a href="#chafer">Did Chafer Diminish The Gospel?</a>
 4. <a href="#ryrie">Ryrie Made Things Up</a>
 5. <a href="#contradiction">Two Second Comings Contradiction</a>
 6. <a href="#one-tree">There Is Only One Tree Not Two</a>
@@ -74,7 +74,7 @@ These verses prove the following three things:
 2. We're under grace (Eph 2:8-10)
 3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
 
-<a name="chafer" href="#contents" style="font-size:2.1em">🆖 Did Chafer Corrupt The Gospel Message Surrounding Repentance?</a>
+<a name="chafer" href="#contents" style="font-size:2.1em">🆖 Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
 
 <!-- Chafer contributed a lot to Dispensationalism. It can be demonstrated
 
