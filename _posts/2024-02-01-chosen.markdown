@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ For Many Are Called But Few Are Chosen"
-date: 2024-02-01 11:15:00 -0500
+date: 2024-02-01 11:35:00 -0500
 categories: election predestination
 published: true
 ---
@@ -49,8 +49,11 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
             - 1.1.3.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">Conditional Election (Foreknowledge)</a>
     - 2.1 <a href="#classical-arminian">Classical Arminianism</a> ([info](https://sevenshepherd.github.io/ordo-salutis-arminian/))
-        - 2.1.1 <a href="#polkinghorne" style="font-weight:bold;color:#20ac5d;">Dr. Polkinghorne (Cambridge)</a>
-        - 2.1.2 <a href="#oden">Dr. Oden (Yale)</a>
+        - 2.1.1 Libertarian Free Will
+            - 2.1.1.1 <a href="#polkinghorne" style="font-weight:bold;color:#20ac5d;">Dr. Polkinghorne (Cambridge)</a>
+            - 2.1.1.2 <a href="#oden">Dr. Oden (Yale)</a>
+        - 2.1.2 <a href="#molinism">Molinism "Middle Knowledge"</a>
+            - 2.1.2.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
     - 2.2 <a href="#systemless">Systemless / Armin.</a>
         - 2.2.1 <a href="#lennox" style="font-weight:bold;color:#20ac5d;">Dr. Lennox ("Oxbridge")</a>
         - 2.2.2 <a href="#heiser" style="font-weight:bold;color:#1d70b4;">Dr. Heiser (Wisconsin)</a>
@@ -59,8 +62,6 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 2.3.2 <a href="#mod-arm-eternal" style="font-weight:bold;color:#1d70b4;">Reformed Armin. w/ Eternal Sec.</a>
             - 2.3.2.1 <a href="#smith" style="font-weight:bold;color:#1d70b4;">⭐ Chuck Smith</a>
             - 2.3.2.2 <a href="#missler">Chuck Missler</a>
-    - 2.4 <a href="#molinism">Molinism "Middle Knowledge"</a>
-        - 2.4.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
 3. <a href="#corporate">Corporate Election</a>
     - 3.1 <a href="#contemporary">Contemporary Arminians</a>
 4. <a href="#double" style="font-weight:bold;color:FireBrick;">Double Unconditional Predestination</a>
@@ -1076,7 +1077,7 @@ Charles G. Finney (d. 1875), the Congregationalist pastor and evangelist, held t
 >
 &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Three, The Doctrine of Election, II. Historical Interpretations of Election. pp. 99-104.
 
-<a name="polkinghorne" href="#contents" style="font-size:1.2em;">2.1.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
+<a name="polkinghorne" href="#contents" style="font-size:1.2em;">2.1.1.1 Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College)</a>
 
 Since Polkinghorne attended the Church of England, which is Anglican, and was also an Anglican priest, I'm going to conclude that he's Classical Arminian. Polkinghorne was <a href="#lennox">Lennox's</a> science teacher. 
 
@@ -1123,11 +1124,38 @@ Thus quantum theory does not encourage the view that the flux of time is an illu
 >
 &mdash; Dr. John C. Polkinghorne (Prof., Mathematical Physics at Cambridge; Ph.D., Quantum Field Theory at Cambridge; Ph.D., Theoretical Elementary Particle Physics from Trinity College), Science and providence. pp. 89-90.
 
-<a name="oden" href="#contents" style="font-size:1.2em;">2.1.2 Thomas C. Oden (PhD, University of Yale)</a>
-
-See Chuck Smith below for now.
+<a name="oden" href="#contents" style="font-size:1.2em;">2.1.1.2 Thomas C. Oden (PhD, University of Yale)</a>
 
 > Under construction
+
+<a name="molinism" href="#contents" style="font-size:1.6em;">2.1.2 Molinism "Middle Knowledge"</a>
+
+<a name="wlc" href="#contents" style="font-size:1.2em;">2.1.2.1 Dr. William Lane Craig (University of Birmingham)</a>
+
+William Lane Craig had a very nice [debate with Ben Shapiro](https://youtu.be/hL-zJzE5clA?si=ZMwqo4Mjj2GJSHkR) and came out on top fairly easily. He's also one of the main influences on [Jordan Peterson's partial conversion to Christianity](https://youtu.be/uZPvtRcGgPM?si=iFmMGMTUHbNhMKGG). 
+
+<iframe width="385" height="315" src="https://www.youtube.com/embed/-xiV_reMYE0?si=3lBWGnNDfS4qrWG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> There’s nothing wrong with mystery per se (the correct physical interpretation of quantum mechanics is a mystery!); the problem is that some Reformed theologians, like my two collaborators in the four-views book, try to resolve the mystery by holding to universal, divine, causal determinism and a compatibilist view of human freedom. According to this view, the way in which God sovereignly controls everything that happens is by causing it to happen, and freedom is re-interpreted to be consistent with being causally determined by factors outside oneself.
+>
+It is this view, which affirms universal determinism and compatibilism, that runs into the problems you mention. Making God the author of evil is just one of the problems this neo-Reformed view faces. At least five come immediately to mind:
+>
+**Molinism vs Calvinism – Five difficulties with the Reformed view**
+>
+**1\.** ***Universal, divine, causal determinism cannot offer a coherent interpretation of Scripture.*** The classical Reformed divines recognized this. They acknowledge that the reconciliation of Scriptural texts affirming human freedom and contingency with Scriptural texts affirming divine sovereignty is inscrutable. D. A. Carson identifies nine streams of texts affirming human freedom: (1) People face a multitude of divine exhortations and commands, (2) people are said to obey, believe, and choose God, (3) people sin and rebel against God, (4) people’s sins are judged by God, (5) people are tested by God, (6) people receive divine rewards, (7) the elect are responsible to respond to God’s initiative, (8) prayers are not mere showpieces scripted by God, and (9) God literally pleads with sinners to repent and be saved (Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension, pp. 18-22). These passages rule out a deterministic understanding of divine providence, which would preclude human freedom. Determinists reconcile universal, divine, causal determinism with human freedom by re-interpreting freedom in compatibilist terms. Compatibilism entails determinism, so there’s no mystery here. The problem is that adopting compatibilism achieves reconciliation only at the expense of denying what various Scriptural texts seem clearly to affirm: genuine indeterminacy and contingency.
+>
+**2\.** ***Universal causal determinism cannot be rationally affirmed.*** There is a sort of dizzying, self-defeating character to determinism. For if one comes to believe that determinism is true, one has to believe that the reason he has come to believe it is simply that he was determined to do so. One has not in fact been able to weigh the arguments pro and con and freely make up one’s mind on that basis. The difference between the person who weighs the arguments for determinism and rejects them and the person who weighs them and accepts them is wholly that one was determined by causal factors outside himself to believe and the other not to believe. When you come to realize that your decision to believe in determinism was itself determined and that even your present realization of that fact right now is likewise determined, a sort of vertigo sets in, for everything that you think, even this very thought itself, is outside your control. Determinism could be true; but it is very hard to see how it could ever be rationally affirmed, since its affirmation undermines the rationality of its affirmation.
+
+Point 3: seems to be a critique on Hyper-Calvinism (supralapsarianism) double-predestination. Orthodox or Scholastic Calvinism (infralapsarianism) does not teach double-predestination. Moderate Calvinism (sublapsarianism) does not either. **This would be a strawman if used on scholastic or moderate calvinism.**
+
+>
+**3\.** ***Universal, divine, determinism makes God the author of sin and precludes human responsibility.*** In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us.
+>
+**4\.** ***Universal, divine, determinism nullifies human agency.*** Since our choices are not up to us but are caused by God, human beings cannot be said to be real agents. They are mere instruments by means of which God acts to produce some effect, much like a man using a stick to move a stone. Of course, secondary causes retain all their properties and powers as intermediate causes, as the Reformed divines remind us, just as a stick retains its properties and powers which make it suitable for the purposes of the one who uses it. Reformed thinkers need not be occasionalists like Nicholas Malebranche, who held that God is the only cause there is. But these intermediate causes are not agents themselves but mere instrumental causes, for they have no power to initiate action. Hence, it’s dubious that on divine determinism there really is more than one agent in the world, namely, God. This conclusion not only flies in the face of our knowledge of ourselves as agents but makes it inexplicable why God then treats us as agents, holding us responsible for what He caused us and used us to do.
+>
+**5\.** ***Universal, divine determinism makes reality into a farce.*** On the deterministic view, the whole world becomes a vain and empty spectacle. There are no free agents in rebellion against God, whom God seeks to win through His love, and no one who freely responds to that love and freely gives his love and praise to God in return. The whole spectacle is a charade whose only real actor is God Himself. Far from glorifying God, the deterministic view, I’m convinced, denigrates God for engaging in a such a farcical charade. It is deeply insulting to God to think that He would create beings which are in every respect causally determined by Him and then treat them as though they were free agents, punishing them for the wrong actions He made them do or loving them as though they were freely responding agents. God would be like a child who sets up his toy soldiers and moves them about his play world, pretending that they are real persons whose every motion is not in fact of his own doing and pretending that they merit praise or blame. I’m certain that Reformed determinists, in contrast to classical Reformed divines, will bristle at such a comparison. But why it’s inapt for the doctrine of universal, divine, causal determinism is a mystery to me.
+>
+&mdash; [Molinism vs Calvinism](https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism)
 
 <a name="systemless" href="#contents" style="font-size:1.6em;">2.2 Systemless / Moderate Arminianism</a>
 
@@ -1207,38 +1235,6 @@ I describe this group as compatibilists in a philosophically non-traditional way
 > **Election and predestination are Biblical doctrines.** God knows everything and therefore He cannot be surprised by anything. He is beyond the constraints of mass, acceleration and gravity, therefore He is outside time. He knows, and has known from “eternity past,” who will exercise their free will to accept Him and who will reject Him. The former are “the elect” and the latter are the “non-elect.” Everyone who is not saved will have only himself to blame: God will not send anyone to hell, but many people will choose to go there by exercising their free will to reject Christ.
 >
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089).
-
-<a name="molinism" href="#contents" style="font-size:1.6em;">2.4 Molinism "Middle Knowledge"</a>
-
-<a name="wlc" href="#contents" style="font-size:1.2em;">2.4.1 Dr. William Lane Craig (University of Birmingham)</a>
-
-William Lane Craig had a very nice [debate with Ben Shapiro](https://youtu.be/hL-zJzE5clA?si=ZMwqo4Mjj2GJSHkR) and came out on top fairly easily. He's also one of the main influences on [Jordan Peterson's partial conversion to Christianity](https://youtu.be/uZPvtRcGgPM?si=iFmMGMTUHbNhMKGG). 
-
-<iframe width="385" height="315" src="https://www.youtube.com/embed/-xiV_reMYE0?si=3lBWGnNDfS4qrWG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-> There’s nothing wrong with mystery per se (the correct physical interpretation of quantum mechanics is a mystery!); the problem is that some Reformed theologians, like my two collaborators in the four-views book, try to resolve the mystery by holding to universal, divine, causal determinism and a compatibilist view of human freedom. According to this view, the way in which God sovereignly controls everything that happens is by causing it to happen, and freedom is re-interpreted to be consistent with being causally determined by factors outside oneself.
->
-It is this view, which affirms universal determinism and compatibilism, that runs into the problems you mention. Making God the author of evil is just one of the problems this neo-Reformed view faces. At least five come immediately to mind:
->
-**Molinism vs Calvinism – Five difficulties with the Reformed view**
->
-**1\.** ***Universal, divine, causal determinism cannot offer a coherent interpretation of Scripture.*** The classical Reformed divines recognized this. They acknowledge that the reconciliation of Scriptural texts affirming human freedom and contingency with Scriptural texts affirming divine sovereignty is inscrutable. D. A. Carson identifies nine streams of texts affirming human freedom: (1) People face a multitude of divine exhortations and commands, (2) people are said to obey, believe, and choose God, (3) people sin and rebel against God, (4) people’s sins are judged by God, (5) people are tested by God, (6) people receive divine rewards, (7) the elect are responsible to respond to God’s initiative, (8) prayers are not mere showpieces scripted by God, and (9) God literally pleads with sinners to repent and be saved (Divine Sovereignty and Human Responsibility: Biblical Perspectives in Tension, pp. 18-22). These passages rule out a deterministic understanding of divine providence, which would preclude human freedom. Determinists reconcile universal, divine, causal determinism with human freedom by re-interpreting freedom in compatibilist terms. Compatibilism entails determinism, so there’s no mystery here. The problem is that adopting compatibilism achieves reconciliation only at the expense of denying what various Scriptural texts seem clearly to affirm: genuine indeterminacy and contingency.
->
-**2\.** ***Universal causal determinism cannot be rationally affirmed.*** There is a sort of dizzying, self-defeating character to determinism. For if one comes to believe that determinism is true, one has to believe that the reason he has come to believe it is simply that he was determined to do so. One has not in fact been able to weigh the arguments pro and con and freely make up one’s mind on that basis. The difference between the person who weighs the arguments for determinism and rejects them and the person who weighs them and accepts them is wholly that one was determined by causal factors outside himself to believe and the other not to believe. When you come to realize that your decision to believe in determinism was itself determined and that even your present realization of that fact right now is likewise determined, a sort of vertigo sets in, for everything that you think, even this very thought itself, is outside your control. Determinism could be true; but it is very hard to see how it could ever be rationally affirmed, since its affirmation undermines the rationality of its affirmation.
-
-Point 3: seems to be a critique on Hyper-Calvinism (supralapsarianism) double-predestination. Orthodox or Scholastic Calvinism (infralapsarianism) does not teach double-predestination. Moderate Calvinism (sublapsarianism) does not either. **This would be a strawman if used on scholastic or moderate calvinism. This point seems disingenuous.** WLC is not so ignorant that he doesn't understand these nuances.
-
->
-**3\.** ***Universal, divine, determinism makes God the author of sin and precludes human responsibility.*** In contrast to the Molinist view, on the deterministic view even the movement of the human will is caused by God. God moves people to choose evil, and they cannot do otherwise. God determines their choices and makes them do wrong. If it is evil to make another person do wrong, then on this view God is not only the cause of sin and evil, but becomes evil Himself, which is absurd. By the same token, all human responsibility for sin has been removed. For our choices are not really up to us: God causes us to make them. We cannot be responsible for our actions, for nothing we think or do is up to us.
-
-Point 4: I'm not sure why people continue to confuse the doctrine of election with the doctrine of divine providence. Election is only about who comes to faith (cal.), or foreknowledge of foreseen faith (arm), it is not about anything else, least of all a twig breaking in the woods or a blade of grass moving in such a way as to be interpreted as being determined by God. This also seems disingenuous.
-
->
-**4\.** ***Universal, divine, determinism nullifies human agency.*** Since our choices are not up to us but are caused by God, human beings cannot be said to be real agents. They are mere instruments by means of which God acts to produce some effect, much like a man using a stick to move a stone. Of course, secondary causes retain all their properties and powers as intermediate causes, as the Reformed divines remind us, just as a stick retains its properties and powers which make it suitable for the purposes of the one who uses it. Reformed thinkers need not be occasionalists like Nicholas Malebranche, who held that God is the only cause there is. But these intermediate causes are not agents themselves but mere instrumental causes, for they have no power to initiate action. Hence, it’s dubious that on divine determinism there really is more than one agent in the world, namely, God. This conclusion not only flies in the face of our knowledge of ourselves as agents but makes it inexplicable why God then treats us as agents, holding us responsible for what He caused us and used us to do.
->
-**5\.** ***Universal, divine determinism makes reality into a farce.*** On the deterministic view, the whole world becomes a vain and empty spectacle. There are no free agents in rebellion against God, whom God seeks to win through His love, and no one who freely responds to that love and freely gives his love and praise to God in return. The whole spectacle is a charade whose only real actor is God Himself. Far from glorifying God, the deterministic view, I’m convinced, denigrates God for engaging in a such a farcical charade. It is deeply insulting to God to think that He would create beings which are in every respect causally determined by Him and then treat them as though they were free agents, punishing them for the wrong actions He made them do or loving them as though they were freely responding agents. God would be like a child who sets up his toy soldiers and moves them about his play world, pretending that they are real persons whose every motion is not in fact of his own doing and pretending that they merit praise or blame. I’m certain that Reformed determinists, in contrast to classical Reformed divines, will bristle at such a comparison. But why it’s inapt for the doctrine of universal, divine, causal determinism is a mystery to me.
->
-&mdash; [Molinism vs Calvinism](https://www.reasonablefaith.org/writings/question-answer/molinism-vs.-calvinism)
 
 <a name="corporate" href="#contents" style="font-size:2.1em;">3. Corporate Election</a>
 
