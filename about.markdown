@@ -18,8 +18,8 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
     - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
     - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
 4. Denomination
-    - Reformed Baptist (4-Point)
-    - Presbyterian (Amyraldian)
+    - Reformed Baptist (SBC)
+    - Presbyterian (PCA)
 4. Soft-cessationist
 5. Bible Recommendations
     - ESV Study Bible
