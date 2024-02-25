@@ -20,8 +20,11 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 4. Denomination
     - Reformed Baptist (SBC)
     - Presbyterian (PCA)
-4. Soft-cessationist
-5. Bible Recommendations
+5. Eschatological System
+    - Pretrib. Premil. Disp. (Previously)
+    - Historic Premillennialism (Investigating)
+6. Soft-cessationist
+7. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
     - NLT Filament (Parallel)
