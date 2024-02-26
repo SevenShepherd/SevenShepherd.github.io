@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism (1647)"
-date: 2024-02-25 01:35:00 -0500
+date: 2024-02-25 01:45:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 
 <a name="contents"></a>
 
-The original text of 1647, with the Assembly’s proof texts.
+<span style="font-size:1.6em">The original text of 1647, with the Assembly’s proof texts.</span>
 
 <a href="#Q1">1</a> <a href="#Q2">2</a> <a href="#Q3">3</a> <a href="#Q4">4</a> <a href="#Q5">5</a> <a href="#Q6">6</a> <a href="#Q7">7</a> <a href="#Q8">8</a> <a href="#Q9">9</a> <a href="#Q10">10</a> <a href="#Q11">11</a> <a href="#Q12">12</a> <a href="#Q13">13</a> <a href="#Q14">14</a> <a href="#Q15">15</a> <a href="#Q16">16</a> <a href="#Q17">17</a> <a href="#Q18">18</a> <a href="#Q19">19</a> <a href="#Q20">20</a> <a href="#Q21">21</a> <a href="#Q22">22</a> <a href="#Q23">23</a> <a href="#Q24">24</a> <a href="#Q25">25</a> <a href="#Q26">26</a> <a href="#Q27">27</a> <a href="#Q28">28</a> <a href="#Q29">29</a> <a href="#Q30">30</a> <a href="#Q31">31</a> <a href="#Q32">32</a> <a href="#Q33">33</a> <a href="#Q34">34</a> <a href="#Q35">35</a> <a href="#Q36">36</a> <a href="#Q37">37</a> <a href="#Q38">38</a> <a href="#Q39">39</a> <a href="#Q40">40</a> <a href="#Q41">41</a> <a href="#Q42">42</a> <a href="#Q43">43</a> <a href="#Q44">44</a> <a href="#Q45">45</a> <a href="#Q46">46</a> <a href="#Q47">47</a> <a href="#Q48">48</a> <a href="#Q49">49</a> <a href="#Q50">50</a> <a href="#Q51">51</a> <a href="#Q52">52</a> <a href="#Q53">53</a> <a href="#Q54">54</a> <a href="#Q55">55</a> <a href="#Q56">56</a> <a href="#Q57">57</a> <a href="#Q58">58</a> <a href="#Q59">59</a> <a href="#Q60">60</a> <a href="#Q61">61</a> <a href="#Q62">62</a> <a href="#Q63">63</a> <a href="#Q64">64</a> <a href="#Q65">65</a> <a href="#Q66">66</a> <a href="#Q67">67</a> <a href="#Q68">68</a> <a href="#Q69">69</a> <a href="#Q70">70</a> <a href="#Q71">71</a> <a href="#Q72">72</a> <a href="#Q73">73</a> <a href="#Q74">74</a> <a href="#Q75">75</a> <a href="#Q76">76</a> <a href="#Q77">77</a> <a href="#Q78">78</a> <a href="#Q79">79</a> <a href="#Q80">80</a> <a href="#Q81">81</a> <a href="#Q82">82</a> <a href="#Q83">83</a> <a href="#Q84">84</a> <a href="#Q85">85</a> <a href="#Q86">86</a> <a href="#Q87">87</a> <a href="#Q88">88</a> <a href="#Q89">89</a> <a href="#Q90">90</a> <a href="#Q91">91</a> <a href="#Q92">92</a> <a href="#Q93">93</a> <a href="#Q94">94</a> <a href="#Q95">95</a> <a href="#Q96">96</a> <a href="#Q97">97</a> <a href="#Q98">98</a> <a href="#Q99">99</a> <a href="#Q100">100</a> <a href="#Q101">101</a> <a href="#Q102">102</a> <a href="#Q103">103</a> <a href="#Q104">104</a> <a href="#Q105">105</a> <a href="#Q106">106</a> <a href="#Q107">107</a> 
 
@@ -25,6 +25,12 @@ The original text of 1647, with the Assembly’s proof texts.
 <!-- <span style="font-weight:bold;font-size:1\.2em;">Q(\d+)\. (.+)\?</span><br>
  -->
 <!-- <a name="Q$1" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q$1. $2?</a><br> -->
+
+<br>
+
+---
+
+<br>
 
 <a name="Q1" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q1. What is the chief end of man?</a><br>
 A1. Man’s chief end is to glorify God,<sup style="font-weight:bold;">1</sup> and to enjoy him for ever.<sup style="font-weight:bold;">2</sup>
