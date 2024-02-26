@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♻️ “Sanctification is the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.”"
-date: 2024-02-24 03:00:00 -0500
+date: 2024-02-24 03:05:00 -0500
 categories: sanctification
 published: true
 ---
@@ -13,11 +13,11 @@ published: true
 > **Quest. 35. What is sanctification?**<br>
 Ans. 35. Sanctification is the work of God’s free grace,**(1)** whereby we are renewed in the whole man after the image of God,**(2)** and are enabled more and more to die unto sin, and live unto righteousness.**(3)**
 >
-**(1)** II Thess. 2:13.<br>
-**(2)** Eph. 4:23-24.<br>
-(**3)** Rom. 6:4, 6.<br>
+(1) II Thess. 2:13.<br>
+(2) Eph. 4:23-24.<br>
+(3) Rom. 6:4, 6.<br>
 >
-&mdash; [Westminster Shorter Catechism (Q.35), The original text of 1647, with the Assembly’s proof texts.](https://www.westminsterconfession.org/resources/confessional-standards/the-westminster-shorter-catechism/)
+&mdash; [Westminster Shorter Catechism (Q.35), The original text of 1647, with the Assembly’s proof texts.](https://sevenshepherd.github.io/westminster-shorter-catechism/)
 
 <!-- The Presbytery of The United States, Free Church of Scotland (continuing). -->
 
