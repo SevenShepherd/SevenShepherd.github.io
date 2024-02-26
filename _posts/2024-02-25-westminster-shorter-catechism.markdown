@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism"
-date: 2024-02-25 01:00:00 -0500
+date: 2024-02-25 01:07:00 -0500
 categories: creeds confessions
 published: true
 ---
+
+<style>
+    * {
+        font-family:'Times New Roman', Times, serif;
+    }
+</style>
 
 <span style="font-size:2.1em">The Westminster Shorter Catechism</span><br>
 <sup>The original text of 1647, with the Assembly’s proof texts.<sup>
