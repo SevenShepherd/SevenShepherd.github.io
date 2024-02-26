@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism"
-date: 2024-02-25 01:07:00 -0500
+date: 2024-02-25 01:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -12,8 +12,9 @@ published: true
     }
 </style>
 
-<span style="font-size:2.1em">The Westminster Shorter Catechism</span><br>
-<sup>The original text of 1647, with the Assembly’s proof texts.<sup>
+<!-- <span style="font-size:2.1em">The Westminster Shorter Catechism</span><br> -->
+
+The original text of 1647, with the Assembly’s proof texts.
 
 <span style="font-weight:bold;font-size:1.2em;">Q1. What is the chief end of man?</span><br>
 A1. Man’s chief end is to glorify God,<sup style="font-weight:bold;">1</sup> and to enjoy him for ever.<sup style="font-weight:bold;">2</sup>
