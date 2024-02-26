@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism (1647)"
-date: 2024-02-25 01:45:00 -0500
+date: 2024-02-25 02:00:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -25,8 +25,6 @@ published: true
 <!-- <span style="font-weight:bold;font-size:1\.2em;">Q(\d+)\. (.+)\?</span><br>
  -->
 <!-- <a name="Q$1" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q$1. $2?</a><br> -->
-
-<br>
 
 ---
 
