@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 02:35:00 -0500
+date: 2024-02-24 02:45:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -76,7 +76,7 @@ These verses prove the following three things:
 
 <a name="chafer" href="#contents" style="font-size:2.1em">🆖 Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
 
-[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. A new group has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware people who believe this! It's not a biblical or scholarly conclusion.
+[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. A new group has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware this teaching! It's not a Biblical or scholarly conclusion.
 
 > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
