@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Heidelberg Catechism (1563)"
-date: 2024-02-26 02:05:00 -0500
+date: 2024-02-26 02:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -946,7 +946,7 @@ A. These words teach us not to think of God's heavenly majesty in an earthly man
 1. Jer.23:23,24; Acts 17:24, 25. 
 2. Mt.6:25-34; Rom.8:31,32.
 
-........................................................................................................
+---
 
 <br><a name="Q122" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q122. What is the first petition?</a><br>
 
