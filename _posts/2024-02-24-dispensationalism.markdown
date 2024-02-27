@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "7️⃣ Things You Probably Didn't Know About Dispensationalism (Revised)"
-date: 2024-02-24 03:00:00 -0500
+date: 2024-02-24 03:05:00 -0500
 categories: dispensationalism
-published: true
+published: false
 ---
 
 <!-- Zero Reasons Why You Should Believe Dispensationalism -->
