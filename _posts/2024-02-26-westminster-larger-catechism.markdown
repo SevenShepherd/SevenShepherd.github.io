@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648)"
-date: 2024-02-26 01:00:00 -0500
+date: 2024-02-26 01:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -407,7 +407,7 @@ A44. Christ executeth the office of a priest, in his once offering himself a sac
 
 A45. Christ executeth the office of a king, in calling out of the world a people to himself,<sup style="font-weight:bold;">1</sup> and giving them officers,<sup style="font-weight:bold;">2</sup> laws,<sup style="font-weight:bold;">3</sup> and censures, by which he visibly governs them;<sup style="font-weight:bold;">4</sup> in bestowing saving grace upon his elect,<sup style="font-weight:bold;">5</sup> rewarding their obedience,<sup style="font-weight:bold;">6</sup> and correcting them for their sins,<sup style="font-weight:bold;">7</sup> preserving and supporting them under all their temptations and sufferings,<sup style="font-weight:bold;">8</sup> restraining and overcoming all their enemies,<sup style="font-weight:bold;">9</sup> and powerfully ordering all things for his own glory,<sup style="font-weight:bold;">10</sup> and their good;<sup style="font-weight:bold;">11</sup> and also in taking vengeance on the rest, who know not God, and obey not the gospel.<sup style="font-weight:bold;">12</sup>
 
-1. Acts 15;14-16; Isa. 4:4-5; Gen. 49:10; Psa. 110:3
+1. Acts 15:14-16; Isa. 4:4-5; Gen. 49:10; Psa. 110:3
 2. Eph. 4:11-12; I Cor. 12:28
 3. Isa. 33:22
 4. Matt. 18:17-18; I Cor. 5:4-5
@@ -886,6 +886,8 @@ A99. For the right understanding of the ten commandments, these rules are to be 
 
 7. That what is forbidden or commanded to ourselves, we are bound, according to our places, to endeavor that it may be avoided or performed by others, according to the duty of their places.<sup style="font-weight:bold;">12</sup>
 8. That in what is commanded to others, we are bound, according to our places and callings, to be helpful to them;<sup style="font-weight:bold;">13</sup> and to take heed of partaking with others in: What is forbidden them.<sup style="font-weight:bold;">14</sup>
+
+<!--  -->
 
 1. Psa. 19:7; James 2:10; Matt. 5:21-22
 2. Rom. 7:14; Deut. 6:5; Matt. 5:21-22, 27-28, 33-34, 37-39, 43-44; 22:37-39
