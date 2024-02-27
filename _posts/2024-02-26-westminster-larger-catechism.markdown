@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648)"
-date: 2024-02-26 01:05:00 -0500
+date: 2024-02-26 01:10:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -158,7 +158,7 @@ A14. God executeth his decrees in the works of creation and providence, accordin
 <br><a name="Q15" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q15. What is the work of creation?</a><br>
 A15. The work of creation is that wherein God did in the beginning, by the word of his power, make of nothing the world, and all things therein, for himself, within the space of six days, and all very good.<sup style="font-weight:bold;">1</sup>
 
-1. Gen. ch. 1; Heb. 11:3; Prov 16:4
+1. Gen. 1; Heb. 11:3; Prov 16:4
 
 <br><a name="Q16" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q16. How did God create angels?</a><br>
 A16. God created all the angels<sup style="font-weight:bold;">1</sup> spirits,<sup style="font-weight:bold;">2</sup> immortal,<sup style="font-weight:bold;">3</sup> holy,<sup style="font-weight:bold;">4</sup> excelling in knowledge,<sup style="font-weight:bold;">5</sup> mighty in power,<sup style="font-weight:bold;">6</sup> to execute his commandments, and to praise his name,<sup style="font-weight:bold;">7</sup> yet subject to change.<sup style="font-weight:bold;">8</sup>
@@ -318,7 +318,7 @@ A34. The covenant of grace was administered under the Old Testament, by promises
 3. Heb. 10:1
 4. Rom. 4:11
 5. I Cor. 5:7
-6. Heb. ch. 8-10; 11:13
+6. Heb. 8-10; 11:13
 7. Gal. 3:7-9, 14
 
 <br><a name="Q35" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q35. How is the covenant of grace administered under the New Testament?</a><br>
@@ -735,7 +735,7 @@ A80. Such as truly believe in Christ, and endeavor to walk in all good conscienc
 A81. Assurance of grace and salvation not being of the essence of faith,<sup style="font-weight:bold;">1</sup> true believers may wait long before they obtain it;<sup style="font-weight:bold;">2</sup> and, after the enjoyment thereof, may have it weakened and intermitted, through manifold distempers, sins, temptations, and desertions;<sup style="font-weight:bold;">3</sup> yet are they never left without such a presence and support of the Spirit of God as keeps them from sinking into utter despair.<sup style="font-weight:bold;">4</sup>
 
 1. Eph. 1:13
-2. Isa. 50:10; Psa. ch. 88
+2. Isa. 50:10; Psa. 88
 3. Psa. 22:1; 31:22; 51:8, 12; 77:1-12; Song of Sol. 5:2-3, 6
 4. I John 3:9; Job 13:15; Psa. 73:15, 23; Isa. 54:7-10
 
@@ -883,7 +883,6 @@ A99. For the right understanding of the ten commandments, these rules are to be 
 4. That as, where a duty is commanded, the contrary sin is forbidden;<sup style="font-weight:bold;">4</sup> and, where a sin is forbidden, the contrary duty is commanded:<sup style="font-weight:bold;">5</sup> so, where a promise is annexed, the contrary threatening is included;<sup style="font-weight:bold;">6</sup> and, where a threatening is annexed, the contrary promise is included.<sup style="font-weight:bold;">7</sup>
 5. That what God forbids, is at no time to be done;<sup style="font-weight:bold;">8</sup> What he commands, is always our duty;<sup style="font-weight:bold;">9</sup> and yet every particular duty is not to be done at all times.<sup style="font-weight:bold;">10</sup>
 6. That under one sin or duty, all of the same kind are forbidden or commanded; together with all the causes, means, occasions, and appearances thereof, and provocations thereunto.<sup style="font-weight:bold;">11</sup>
-
 7. That what is forbidden or commanded to ourselves, we are bound, according to our places, to endeavor that it may be avoided or performed by others, according to the duty of their places.<sup style="font-weight:bold;">12</sup>
 8. That in what is commanded to others, we are bound, according to our places and callings, to be helpful to them;<sup style="font-weight:bold;">13</sup> and to take heed of partaking with others in: What is forbidden them.<sup style="font-weight:bold;">14</sup>
 
@@ -902,7 +901,6 @@ A99. For the right understanding of the ten commandments, these rules are to be 
 11. Matt. 5:21-22, 27-28; 15:4-6; Heb. 10:24-25; I Thess. 5:22-23; Gal. 5:26; Col. 3:21
 12. Exod. 20:10; Lev. 19:17; Gen. 18:19; Josh. 24:15; Deut. 6:6-7
 13. II Cor. 1:24
-
 14. I Tim. 5:22
 
 <br><a name="Q100" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q100. What special things are we to consider in the ten commandments?</a><br>
@@ -1026,7 +1024,7 @@ A108. The duties required in the second commandment are, the receiving, observin
 2. Phil. 4:6; Eph. 5:20
 3. Deut. 17:18-19; Acts 15:21; II Tim. 4:2; James 1:21-22
 4. Matt. 28:19; I Cor. 11:23-30
-5. Matt. 16:19; 18:15-17; I Cor. ch. 5; 12:28
+5. Matt. 16:19; 18:15-17; I Cor. 5; 12:28
 6. Eph. 4:11-12; I Tim. 5:17-18; I Cor. 9:1-15
 7. Joel 2:12-13; I Cor. 7:5
 8. Deut. 6:13
@@ -1125,7 +1123,7 @@ A113. The sins forbidden in the third commandment are, the not using of God’s 
 18. Rom. 9:14, 19-20
 19. Deut. 29:29
 20. Rom. 3:5, 7; 6:1-2
-21. Eccl. 8:11; 9:3; Psa. ch. 39
+21. Eccl. 8:11; 9:3; Psa. 39
 22. Matt. 5:21-48
 23. Ezek 13:22
 24. II Peter 3:16; Matt. 22:24-31
@@ -1171,7 +1169,7 @@ A117. The sabbath or Lord’s day is to be sanctified by an holy resting all the
 1. Exod. 20:8, 10
 2. Exod. 16:25-28; Neh. 13:15-22; Jer. 17:21-22
 3. Matt. 12:1-13
-4. Isa. 58:13-14; 66:23; Luke 4:16; Acts 20:7; I Cor. 16:1-2; Psa. ch. 92; Lev. 23:3
+4. Isa. 58:13-14; 66:23; Luke 4:16; Acts 20:7; I Cor. 16:1-2; Psa. 92; Lev. 23:3
 5. Exod. 16:22, 25-26, 29; 20:8; Luke 23:54, 56; Neh. 13:19
 
 <br><a name="Q118" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q118. Why is the charge of keeping the sabbath more specially directed to governors of families, and other superiors?</a><br>
@@ -1369,7 +1367,7 @@ A136. The sins forbidden in the sixth commandment are, all taking away the life 
 1. Acts 16:28
 2. Gen. 9:6
 3. Num. 35:31, 33
-4. Jer. 48:10; Deut. ch. 20
+4. Jer. 48:10; Deut. 20
 5. Exod. 22:2-3
 6. Matt. 25:42-43; James 2:15-16; Eccl. 6:1-2
 7. Matt. 5:22
@@ -1605,10 +1603,10 @@ A150. All transgressions of the law of God are not equally heinous; but some sin
 A151. Sins receive their aggravations,
 1. From the persons offending:<sup style="font-weight:bold;">1</sup> if they be of riper age,<sup style="font-weight:bold;">2</sup> greater experience or grace,<sup style="font-weight:bold;">3</sup> eminent for profession,<sup style="font-weight:bold;">4</sup> gifts,<sup style="font-weight:bold;">5</sup> place,<sup style="font-weight:bold;">6</sup> office,<sup style="font-weight:bold;">7</sup> guides to others,<sup style="font-weight:bold;">8</sup> and whose example is likely to be followed by others.<sup style="font-weight:bold;">9</sup>
 2. From the parties offended:<sup style="font-weight:bold;">10</sup> if immediately against God,<sup style="font-weight:bold;">11</sup> his attributes,<sup style="font-weight:bold;">12</sup> and worship;<sup style="font-weight:bold;">13</sup> against Christ, and his grace;<sup style="font-weight:bold;">14</sup> the Holy Spirit,<sup style="font-weight:bold;">15</sup> his witness,<sup style="font-weight:bold;">16</sup> and workings;<sup style="font-weight:bold;">17</sup> against superiors, men of eminency,<sup style="font-weight:bold;">18</sup> and such as we stand especially related and engaged unto;<sup style="font-weight:bold;">19</sup> against any of the saints,<sup style="font-weight:bold;">20</sup> particularly weak brethren,<sup style="font-weight:bold;">21</sup> the souls of them, or any other,<sup style="font-weight:bold;">22</sup> and the common good of all or many.<sup style="font-weight:bold;">23</sup>
-
 3. From the nature and quality of the offense:<sup style="font-weight:bold;">24</sup> if it be against the express letter of the law,<sup style="font-weight:bold;">25</sup> break many commandments, contain in it many sins:<sup style="font-weight:bold;">26</sup> if not only conceived in the heart, but breaks forth in words and actions,<sup style="font-weight:bold;">27</sup> scandalize others,<sup style="font-weight:bold;">28</sup> and admit of no reparation:<sup style="font-weight:bold;">29</sup> if against means,<sup style="font-weight:bold;">30</sup> mercies,<sup style="font-weight:bold;">31</sup> judgments,<sup style="font-weight:bold;">32</sup> light of nature,<sup style="font-weight:bold;">33</sup> conviction of conscience,<sup style="font-weight:bold;">34</sup> public or private admonition,<sup style="font-weight:bold;">35</sup> censures of the church,<sup style="font-weight:bold;">36</sup> civil punishments;<sup style="font-weight:bold;">37</sup> and our prayers, purposes, promises,<sup style="font-weight:bold;">38</sup> vows,<sup style="font-weight:bold;">39</sup> covenants,<sup style="font-weight:bold;">40</sup> and engagements to God or men:<sup style="font-weight:bold;">41</sup> if done deliberately,<sup style="font-weight:bold;">42</sup> wilfully,<sup style="font-weight:bold;">43</sup> presumptuously,<sup style="font-weight:bold;">44</sup> impudently,<sup style="font-weight:bold;">45</sup> boastingly,<sup style="font-weight:bold;">46</sup> maliciously,<sup style="font-weight:bold;">47</sup> frequently,<sup style="font-weight:bold;">48</sup> obstinately,<sup style="font-weight:bold;">49</sup> with delight,<sup style="font-weight:bold;">50</sup> continuance,<sup style="font-weight:bold;">51</sup> or relapsing after repentance.<sup style="font-weight:bold;">52</sup>
-
 4. From circumstances of time <sup style="font-weight:bold;">53</sup> and place:<sup style="font-weight:bold;">54</sup> if on the Lord’s day,<sup style="font-weight:bold;">55</sup> or other times of divine worship;<sup style="font-weight:bold;">56</sup> or immediately before <sup style="font-weight:bold;">57</sup> or after these,<sup style="font-weight:bold;">58</sup> or other helps to prevent or remedy such miscarriages:<sup style="font-weight:bold;">59</sup> if in public, or in the presence of others, who are thereby likely to be provoked or defiled.<sup style="font-weight:bold;">60</sup>
+
+<!--  -->
 
 1. Jer. 2:8
 2. Job 32:7, 9; Eccl. 4:13
@@ -1703,7 +1701,6 @@ A155. The Spirit of God makes the reading, but especially the preaching of the w
 4. II Cor. 3:18
 5. II Cor. 10:4-6; Rom. 6:17
 6. Matt. 4:4, 7, 10; Eph. 6:16-17; Psa. 19:11; I Cor. 10:11
-
 7. Acts 20:32; II Tim. 3:15-17
 8. Rom. 1:16; 10:13-17; 15:4; 16:25; I Thess. 3:2, 10-11, 13
 
@@ -1783,7 +1780,7 @@ A161. The sacraments become effectual means of salvation, not by any power in th
 <br><a name="Q162" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q162. What is a sacrament?</a><br>
 A162. A sacrament is a holy ordinance instituted by Christ in his church,<sup style="font-weight:bold;">1</sup> to signify, seal, and exhibit <sup style="font-weight:bold;">2</sup> unto those that are within the covenant of grace,<sup style="font-weight:bold;">3</sup> the benefits of his mediation;<sup style="font-weight:bold;">4</sup> to strengthen and increase their faith, and all other graces;<sup style="font-weight:bold;">5</sup> to oblige them to obedience;<sup style="font-weight:bold;">6</sup> to testify and cherish their love and communion one with another;<sup style="font-weight:bold;">7</sup> and to distinguish them from those that are without.<sup style="font-weight:bold;">8</sup>
 
-1. Gen. 17:7, 10; Exod. ch. 12; Matt. 26:26-28; 28:19
+1. Gen. 17:7, 10; Exod. 12; Matt. 26:26-28; 28:19
 2. Rom. 4:11; I Cor. 11:24-25
 3. Rom. 15:8; Exod. 12:48
 4. Acts 2:38; I Cor. 10:16
@@ -1871,7 +1868,7 @@ A171. They that receive the sacrament of the Lord’s supper are, before they co
 7. I Cor. 10:16-17; Acts 2:46-47
 8. I Cor. 5:8; 11:18, 20
 9. Matt. 5:23-24
-10. Isa .55:1; John 7:37
+10. Isa 55:1; John 7:37
 11. I Cor. 5:7-8
 12. I Cor. 11:25-26, 28; Heb. 10:21-22, 24; Psa. 26:6
 13. I Cor. 11:24-25
@@ -1892,7 +1889,7 @@ A172. One who doubteth of his being in Christ, or of his due preparation to the 
 <br><a name="Q173" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q173. May any who profess the faith, and desire to come to the Lord’s supper, be kept from it?</a><br>
 A173. Such as are found to be ignorant or scandalous, notwithstanding their profession of the faith, and desire to come to the Lord’s supper, may and ought to be kept from that sacrament, by the power which Christ hath left in his church,<sup style="font-weight:bold;">1</sup> until they receive instruction, and manifest their reformation.<sup style="font-weight:bold;">2</sup>
 
-1. I Cor. ch. 5; 11:27-31; Matt. 7:6; Jude 1:23; I Tim. 5:22
+1. I Cor. 5; 11:27-31; Matt. 7:6; Jude 1:23; I Tim. 5:22
 2. II Cor. 2:7
 
 <br><a name="Q174" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q174. What is required of them that receive the sacrament of the Lord’s supper in the time of the administration of it?</a><br>
@@ -1959,7 +1956,6 @@ A178. Prayer is an offering up of our desires unto God,<sup style="font-weight:b
 A179. God only being able to search the hearts,<sup style="font-weight:bold;">1</sup> hear the requests,<sup style="font-weight:bold;">2</sup> pardon the sins,<sup style="font-weight:bold;">3</sup> and fulfil the desires of all;<sup style="font-weight:bold;">4</sup> and only to be believed in,<sup style="font-weight:bold;">5</sup> and worshiped with religious worship;<sup style="font-weight:bold;">6</sup> prayer, which is a special part thereof,<sup style="font-weight:bold;">7</sup> is to be made by all to him alone,<sup style="font-weight:bold;">8</sup> and to none other.<sup style="font-weight:bold;">9</sup>
 
 1. I Kings 8:39; Acts 1:24; Rom. 8:27
-
 2. Psa. 65:2
 3. Micah 7:18
 4. Psa. 145:18-19
@@ -2063,7 +2059,7 @@ A190. In the first petition (which is, Hallowed be thy name,)<sup style="font-we
 4. Psa. 83:18
 5. Psa. 86:10-13, 15
 6. II Thess. 3:1; Psa. 138:1-3; 147:19-20; II Cor. 2:14-15
-7. Psa. ch. 8; ch. 145
+7. Psa. 8; 145
 8. Psa. 19:14; 103:1
 9. Phil. 1:9, 11
 10. Psa. 67:1-4
@@ -2071,7 +2067,7 @@ A190. In the first petition (which is, Hallowed be thy name,)<sup style="font-we
 12. Psa. 97:7
 13. Psa. 74:18, 22-23
 14. II Kings 19:15-16
-15. II Chr. 20:6, 10-12; Psa. ch. 83; 140:4, 8
+15. II Chr. 20:6, 10-12; Psa. 83; 140:4, 8
 
 <br><a name="Q191" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q191. What do we pray for in the second petition.?</a><br>
 A191. In the second petition (which is, Thy kingdom come,)<sup style="font-weight:bold;">1</sup> acknowledging ourselves and all mankind to be by nature under the dominion of sin and Satan,<sup style="font-weight:bold;">2</sup> we pray, that the kingdom of sin and Satan may be destroyed,<sup style="font-weight:bold;">3</sup> the gospel propagated throughout the world,<sup style="font-weight:bold;">4</sup> the Jews called,<sup style="font-weight:bold;">5</sup> the fulness of the Gentiles brought in;<sup style="font-weight:bold;">6</sup> the church furnished with all gospel officers and ordinances,<sup style="font-weight:bold;">7</sup> purged from corruption,<sup style="font-weight:bold;">8</sup> countenanced and maintained by the civil magistrate:<sup style="font-weight:bold;">9</sup> that the ordinances of Christ may be purely dispensed, and made effectual to the converting of those that are yet in their sins, and the confirming, comforting, and building up of those that are already converted:<sup style="font-weight:bold;">10</sup> that Christ would rule in our hearts here,<sup style="font-weight:bold;">11</sup> and hasten the time of his second coming, and our reigning with him forever:<sup style="font-weight:bold;">12</sup> and that he would be pleased so to exercise the kingdom of his power in all the world, as may best conduce to these ends.<sup style="font-weight:bold;">13</sup>
@@ -2081,7 +2077,7 @@ A191. In the second petition (which is, Thy kingdom come,)<sup style="font-weigh
 3. Psa. 68:1, 18; Rev. 12:10-11
 4. II Thess. 3:1
 5. Rom. 10:1
-6. John 17:9, 20; Rom. 11:25-26; Psa. ch. 67
+6. John 17:9, 20; Rom. 11:25-26; Psa. 67
 7. Matt. 9:38; II Thess. 3:1
 8. Mal. 1:11; Zeph. 3:9
 9. I Tim. 2:1-2
