@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Heidelberg Catechism (1563)"
-date: 2024-02-26 02:15:00 -0500
+date: 2024-02-26 02:25:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -150,7 +150,7 @@ A. One who is a true<sup style="font-weight:bold;">1</sup> and righteous<sup sty
 
 A. He must be a true man because the justice of God requires that the same human nature which has sinned should pay for sin.<sup style="font-weight:bold;">1</sup> He must be a righteous man because one who himself is a sinner cannot pay for others.<sup style="font-weight:bold;">2</sup>
 
-1. Rom: 5:12, 15; I Cor. 15:21; Heb. 2:14-16. 
+1. Rom. 5:12, 15; I Cor. 15:21; Heb. 2:14-16. 
 2. Heb. 7:26, 27; I Pet. 3:18.
 
 <br><a name="Q17" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q17. Why must He at the same time be true God?</a><br>
@@ -219,7 +219,7 @@ A. Because God has so revealed Himself in His Word<sup style="font-weight:bold;"
 
 A. That the eternal Father of our Lord Jesus Christ, who out of nothing created heaven and earth and all that is in them,<sup style="font-weight:bold;">1</sup> and who still upholds and governs them by His eternal counsel and providence,<sup style="font-weight:bold;">2</sup> is, for the sake of Christ His Son, my God and my Father.<sup style="font-weight:bold;">3</sup> In Him I trust so completely as to have no doubt that He will provide me with all things necessary for body and soul,<sup style="font-weight:bold;">4</sup> and will also turn to my good whatever adversity He sends me in this life of sorrow.<sup style="font-weight:bold;">5</sup> He is able to do so as almighty God,<sup style="font-weight:bold;">6</sup> and willing also as a faithful Father.<sup style="font-weight:bold;">7</sup>
 
-1. Gen. 1 and 2; Ex. 20:11; Job 38 and 39; Ps. 33:6; Is. 44:24; Acts 4:24; 14:15. 
+1. Gen. 1, 2; Ex. 20:11;Job 38,39; Ps. 33:6; Is. 44:24; Acts 4:24; 14:15. 
 2. Ps. 104:27-30; Matt. 6:30; 10:29; Eph. 1:11. 
 3. John 1:12, 13; Rom. 8:15, 16; Gal. 4:4-7; Eph. 1:5. 
 4. Ps. 55:22; Matt. 6:25, 26; Luke 12:22-31. 

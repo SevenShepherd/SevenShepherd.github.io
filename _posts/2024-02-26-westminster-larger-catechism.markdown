@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648)"
-date: 2024-02-26 01:15:00 -0500
+date: 2024-02-26 01:35:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -244,7 +244,6 @@ A25. The sinfulness of that estate whereinto man fell, consisteth in the guilt o
 
 1. Rom. 5:12, 19
 2. Rom. 3:10-19; 5:6; 8:7-8; Eph. 2:1-3; Gen. 6:5
-
 3. James 1:14-15; Matt. 15:19
 
 <br><a name="Q26" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q26. How is original sin conveyed from our first parents unto their posterity?</a><br>
@@ -542,7 +541,6 @@ A58. We are made partakers of the benefits which Christ hath procured,<sup style
 A59. Redemption is certainly applied, and effectually communicated, to all those for whom Christ hath purchased it;<sup style="font-weight:bold;">1</sup> who are in time by the Holy Ghost enabled to believe in Christ according to the gospel.<sup style="font-weight:bold;">2</sup>
 
 1. Eph. 1:13-14; John 6:37, 39; 10:15-16
-
 2. Eph. 2:8; II Cor. 4:13
 
 <br><a name="Q60" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q60. Can they who have never heard the gospel, and so know not Jesus Christ, nor believe in him, be saved by their living according to the light of nature?</a><br>
@@ -1271,7 +1269,6 @@ A129. It is required of superiors, according to that power they receive from God
 
 1. Col. 3:19; Titus 2:4
 2. I Sam. 12:23; Job 1:5
-
 3. I Kings 8:55-56; Heb. 7:7; Gen. 49:28
 4. Deut. 6:6-7
 5. Eph. 6:4
