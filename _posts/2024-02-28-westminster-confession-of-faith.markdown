@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:05:00 -0500
+date: 2024-02-28 01:10:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -107,7 +107,15 @@ now ceased.<sup style="font-weight:bold;">6</sup>
 
 <span style="font-weight:bold;">II.</span> Under the name of Holy Scripture, or the Word of God written,
 are now contained all the books of the Old and New Testament,
-which are these: Of the Old Testament: Genesis, Exodus, Leviticus,
+which are these: 
+
+|Of the Old Testament|Of the New Testament|
+|:-:|:-:|
+|Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, I Samuel, II Samuel, I Kings, II Kings, I Chronicles, II Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.|The Gospels according to Matthew, Mark, Luke, John, The Acts of the Apostles, Paul's Epistles to the Romans, Corinthians I, Corinthians II, Galatians, Ephesians, Philippians, Colossians, Thessalonians I , Thessalonians II , To Timothy I , To Timothy II, To Titus, To Philemon, The Epistle to the Hebrews, The Epistle of James, The first and second Epistles of Peter, The first, second, and third Epistles of John, The Epistle of Jude, The Revelation of John.|
+
+All which are given by inspiration of God to be the rule of faith and life.<sup style="font-weight:bold;">7</sup>
+
+<!-- Of the Old Testament: Genesis, Exodus, Leviticus,
 Numbers, Deuteronomy, Joshua, Judges, Ruth, I Samuel, II Samuel,
 I Kings, II Kings, I Chronicles, II Chronicles, Ezra, Nehemiah, Esther,
 Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah,
@@ -121,7 +129,7 @@ II , To Timothy I , To Timothy II, To Titus, To Philemon, The Epistle to
 the Hebrews, The Epistle of James, The first and second Epistles of
 Peter, The first, second, and third Epistles of John, The Epistle of
 Jude, The Revelation of John. All which are given by inspiration of
-God to be the rule of faith and life.<sup style="font-weight:bold;">7</sup>
+God to be the rule of faith and life.<sup style="font-weight:bold;">7</sup> -->
 
 <ol start="7">
   <li id="7">Luk 16:29,31; Eph 2:20; Rev 22:18,19; 2Ti 3:16</li>
