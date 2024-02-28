@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:00:00 -0500
+date: 2024-02-28 01:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -2455,7 +2455,7 @@ sinners, by the ministry of the Gospel; and by absolution from
 censures, as occasion shall require.<sup style="font-weight:bold;">2</sup>
 
 <ol start="2">
-    <li id="2">Mat 16:19,18; Joh 20:21,22,23; 2Co 2:6,7,8; 
+    <li id="2">Mat 16:19,18; Joh 20:21,22,23; 2Co 2:6-8</li>
 </ol>
 
 <span style="font-weight:bold;">III.</span> Church censures are necessary, for the reclaiming and gaining of
