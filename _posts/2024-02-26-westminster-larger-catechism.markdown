@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648)"
-date: 2024-02-26 01:35:00 -0500
+date: 2024-02-26 01:45:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -12,32 +12,19 @@ published: true
     }
 </style>
 
-
-<!-- THE WESTMINSTER LARGER CATECHISM;
+> <span style="font-size:1.6em">THE WESTMINSTER LARGER CATECHISM;</span><br>
 AGREED UPON BY THE ASSEMBLY OF DIVINES AT WESTMINSTER, WITH THE ASSISTANCE
 OF COMMISSIONERS FROM THE CHURCH OF SCOTLAND, AS A PART OF THE COVENANTED
-
 UNIFORMITY IN RELIGION BETWIXT THE CHURCHES OF CHRIST IN THE KINGDOMS OF
-
-SCOTLAND, ENGLAND, AND IRELAND.
-
-AND
-
-APPROVED ANNO 1648, BY THE GENERAL ASSEMBLY OF THE CHURCH OF SCOTLAND, TO
-
-BE A DIRECTORY FOR CATECHISING SUCH AS HAVE MADE SOME PROFICIENCY IN THE
-
-KNOWLEDGE OF THE GROUNDS OF RELIGION,
-
-WITH
-
-THE PROOFS FROM THE SCRIPTURE .
-
+SCOTLAND, ENGLAND, AND IRELAND. AND APPROVED ANNO 1648, BY THE GENERAL ASSEMBLY OF THE CHURCH OF SCOTLAND, TO BE A DIRECTORY FOR CATECHISING SUCH AS HAVE MADE SOME PROFICIENCY IN THE KNOWLEDGE OF THE GROUNDS OF RELIGION,
+>
+WITH THE PROOFS FROM THE SCRIPTURE.
+>
 Assembly at EDINBURGH, July 2, 1648. Sess. 10.
-
+>
 Act approving the LARGER CATECHISM.
-
-THE General Assembly having exactly examined and seriously considered the LARGER CATECHISM, agreed upon by the Assembly of Divines sitting at Westminster, with assistance of Commissioners from this Kirk, copies thereof being printed, and sent to Presbyteries, for the more exact trial thereof; and publick intimation being frequently made in this Assembly, that every one that had any doubts or objections upon it might put them in; do find, upon due examination thereof, That the said Catechism is agreeable to the word of God, and in nothing contrary to the received doctrine, worship, discipline, and government of this Kirk; a necessary part of the intended uniformity in religion, and a rich treasure for increasing knowledge among the people of God: and therefore the Assembly, as they bless the Lord that so excellent a Catechism is prepared, so they approve the same, as a part of uniformity; agreeing, for their part, that it be a common Catechism for the three kingdoms, and a Directory for catechising such as have made some proficiency in the knowledge of the grounds of religion. -->
+>
+THE General Assembly having exactly examined and seriously considered the LARGER CATECHISM, agreed upon by the Assembly of Divines sitting at Westminster, with assistance of Commissioners from this Kirk, copies thereof being printed, and sent to Presbyteries, for the more exact trial thereof; and publick intimation being frequently made in this Assembly, that every one that had any doubts or objections upon it might put them in; do find, upon due examination thereof, That the said Catechism is agreeable to the word of God, and in nothing contrary to the received doctrine, worship, discipline, and government of this Kirk; a necessary part of the intended uniformity in religion, and a rich treasure for increasing knowledge among the people of God: and therefore the Assembly, as they bless the Lord that so excellent a Catechism is prepared, so they approve the same, as a part of uniformity; agreeing, for their part, that it be a common Catechism for the three kingdoms, and a Directory for catechising such as have made some proficiency in the knowledge of the grounds of religion.
 
 <a name="contents"></a>
 
