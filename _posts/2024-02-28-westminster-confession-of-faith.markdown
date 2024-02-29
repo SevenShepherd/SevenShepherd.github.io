@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 02:07:00 -0500
+title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
+date: 2024-02-28 02:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -30,7 +30,7 @@ PROOFS FROM THE SCRIPTURE
 <span style="font-size:1em;">
 <a href="#CHI">Ch I &mdash; Of the Holy Scripture</a><br>
 <a href="#CHII">Ch II &mdash; Of God, and of the Holy Trinity</a><br>
-<a href="#CHIII">Ch III &mdash; Of God’s Eternal Decree</a><br>
+<a href="#CHIII" style="color:ForestGreen;">Ch III &mdash; Of God’s Eternal Decree</a><br>
 <a href="#CHIV">Ch IV &mdash; Of Creation</a><br>
 <a href="#CHV">Ch V &mdash; Of Providence</a><br>
 <a href="#CHVI">Ch VI &mdash; Of the Fall of Man, of Sin, and of the Punishment Thereof</a><br>
@@ -367,14 +367,21 @@ such conditions.<sup style="font-weight:bold;">5</sup>
     <li id="5">Rom 9:11,13,16,18</li>
 </ol>
 
-<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some
-men and angels<sup style="font-weight:bold;">6</sup> are predestinated unto everlasting life; and others
-foreordained to everlasting death.<sup style="font-weight:bold;">7</sup>
+<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">are predestinated unto everlasting life.<sup style="font-weight:bold;">7</sup></a>
+
+<ol start="6">
+    <li id="6">1Ti 5:21; Mat 25:41</li> 
+    <li id="7">Eph 1:5,6;</li>
+</ol>
+
+<blockquote>
+<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">are predestinated unto everlasting life; and others foreordained to everlasting death.<sup style="font-weight:bold;">7</sup></a>
 
 <ol start="6">
     <li id="6">1Ti 5:21; Mat 25:41</li> 
     <li id="7">Rom 9:22,23; Eph 1:5,6; Pro 16:4</li>
 </ol>
+</blockquote>
 
 <span style="font-weight:bold;">IV.</span> These angels and men, thus predestinated, and foreordained,
 are particularly and unchangeably designed, and their number so
