@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:35:00 -0500
+date: 2024-02-28 01:45:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -618,8 +618,8 @@ conveyed to all their posterity descending from them by ordinary
 generation.<sup style="font-weight:bold;">7</sup>
 
 <ol start="6">
-    <li id="6">Gen 1:27,28,17; Act 17:26; Rom 5:12,15,16,17,18,19; 1Co 15:21,22,45,49</li> 
-    <li id="7">Psa 51:5; Gen 5:3; Job 14:4</li> 
+    <li id="6">Gen 1:27,28 with Gen 2:16,17 and Act 17:26; Rom 5:12,15-19; 1Co 15:21,22,45,49</li> 
+    <li id="7">Psa 51:5; Gen 5:3; Job 14:4; Job 15:14</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> From this original corruption, whereby we are utterly indisposed,
@@ -628,7 +628,7 @@ evil,<sup style="font-weight:bold;">9</sup> do proceed all actual transgressions
 
 <ol start="8">
     <li id="8">Rom 5:6; Rom 8:7; Rom 7:18; Col 1:21</li> 
-    <li id="9">Gen 6:5; Rom 3:10,11,12</li> 
+    <li id="9">Gen 6:5; Gen 8:21; Rom 3:10,11,12</li> 
     <li id="10">Jam 1:14,15; Eph 2:2,3; Mat 15:19</li> 
 </ol>
 
@@ -671,7 +671,7 @@ God's part, which He has been pleased to express by way of
 covenant.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Isa 40:13,14,15,16,17; Job 9:32,33; 1Sa 2:25; Psa 113:5,6; Psa 100:2,3; Job 22:2,3; Job 35:7,8; Luk 17:10; Act 17:24,25</li> 
+    <li id="1">Isa 40:13-17; Job 9:32,33; 1Sa 2:25; Psa 113:5,6; Psa 100:2,3; Job 22:2,3; Job 35:7,8; Luk 17:10; Act 17:24,25</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> The first covenant made with man was a covenant of works,<sup style="font-weight:bold;">2</sup>
@@ -720,10 +720,10 @@ whom they had full remission of sins, and eternal salvation; and is
 called the Old Testament.<sup style="font-weight:bold;">12</sup>
 
 <ol start="9">
-    <li id="9">2Co 3:6,7,8,9</li> 
-    <li id="10">Rom 4:11; Col 2:11,12; 1Co 5:7</li> 
-    <li id="11">1Co 10:1,2,3,4; Heb 11:13; Joh 8:56</li> 
-    <li id="12">Gal 3:7,8,9,14</li> 
+    <li id="9">2Co 3:6-9</li> 
+    <li id="10">Heb 8-10; Rom 4:11; Col 2:11,12; 1Co 5:7</li> 
+    <li id="11">1Co 10:1-4; Heb 11:13; Joh 8:56</li> 
+    <li id="12">Gal 3:7-9,14</li> 
 </ol>
 
 <span style="font-weight:bold;">VI.</span> Under the Gospel, when Christ, the substance,<sup style="font-weight:bold;">13</sup> was exhibited,
@@ -740,8 +740,8 @@ dispensations.<sup style="font-weight:bold;">18</sup>
 <ol start="13">
     <li id="13">Col 2:17</li> 
     <li id="14">Mat 28:19,20; 1Co 11:23,24,25</li> 
-    <li id="15">Heb 12:22,23,24,25,26,27; Jer 31:33,34</li> 
-    <li id="16">Mat 28:19; Eph 2:15,16,17,18,19</li> 
+    <li id="15">Heb 12:22-27; Jer 31:33,34</li> 
+    <li id="16">Mat 28:19; Eph 2:15-19</li> 
     <li id="17">Luk 22:20</li> 
     <li id="18">Gal 3:14,16; Act 15:11; Rom 3:21,22,23,30; Psa 32:1; Rom 4:3,6,16,17,23,24; Heb 13:8</li> 
 </ol>
@@ -784,11 +784,11 @@ composition, or confusion.<sup style="font-weight:bold;">13</sup> Which person i
 man, yet one Christ, the only Mediator between God and man.<sup style="font-weight:bold;">14</sup>
 
 <ol start="10">
-    <li id="10">Joh 1:1,14; 1Jo 5:20; Phi 2:6; Gal 4:4</li> 
-    <li id="11">Heb 2:14,16,17</li> 
+    <li id="10">Joh 1:1,14; 1Jo 5:20; Phil 2:6; Gal 4:4</li> 
+    <li id="11">Heb 2:14,16,17; Heb 4:15</li> 
     <li id="12">Luk 1:27,31,35; Gal 4:4</li> 
     <li id="13">Luk 1:35; Col 2:9; Rom 9:5; 1Pe 3:18; 1Ti 3:16</li> 
-    <li id="14">Rom 1:3; Rom 1:4; 1Ti 2:5</li> 
+    <li id="14">Rom 1:3,4; 1Ti 2:5</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> The Lord Jesus, in His human nature thus united to the divine,
@@ -823,18 +823,18 @@ ascended into heaven, and there sits at the right hand of His Father,<sup style=
 angels, at the end of the world.<sup style="font-weight:bold;">33</sup>
 
 <ol start="22">
-    <li id="22">Psa 40:7,8; Heb 10:5,6,7,8,9,10; Joh 10:18; Phi 2:8</li> 
+    <li id="22">Psa 40:7,8; Heb 10:5-10; Joh 10:18; Phi 2:8</li> 
     <li id="23">Gal 4:4</li> 
-    <li id="24">Mat 3:15</li> 
+    <li id="24">Mat 3:15; Matt 5:17</li> 
     <li id="25">Mat 26:37,38; Luk 22:44; Mat 27:46</li> 
     <li id="26">Mat 26, 27</li> 
     <li id="27">Phi 2:8</li> 
-    <li id="28">Act 2:23,24,27; Rom 6:9</li> 
+    <li id="28">Act 2:23,24,27; and Acts 13:37; Rom 6:9</li> 
     <li id="29">1Co 15:3,4,5</li> 
     <li id="30">Joh 20:25,27</li> 
     <li id="31">Mar 16:19</li> 
-    <li id="32">Rom 8:34; Heb 9:24,25</li> 
-    <li id="33">Rom 14:9,10; Act 1:11; Mat 13:40,41,42,6; 2Pe 2:4</li> 
+    <li id="32">Rom 8:34; Heb 9:24; Heb 7:25</li> 
+    <li id="33">Rom 14:9,10; Act 1:11; Acts 10:42; Mat 13:40,41,42; Jd 6; 2Pe 2:4</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> The Lord Jesus, by His perfect obedience, and sacrifice of
@@ -882,10 +882,10 @@ power and wisdom, in such manner, and ways, as are most
 consonant to His wonderful and unsearchable dispensation.<sup style="font-weight:bold;">43</sup>
 
 <ol start="39">
-    <li id="39">Joh 6:37,39,16</li> 
+    <li id="39">Joh 6:37,39; Jn 10:15,16</li> 
     <li id="40">1Jo 2:1,2; Rom 8:34</li> 
     <li id="41">Joh 15:13,15; Eph 1:7,8,9; Joh 17:6</li> 
-    <li id="42">Joh 14:16; Heb 12:2; 2Co 4:13; Rom 8:9,14,19; Joh 17:17</li> 
+    <li id="42">Joh 14:16; Heb 12:2; 2Co 4:13; Rom 8:9,14; Rom 15:18,19; Joh 17:17</li> 
     <li id="43">Psa 110:1; 1Co 15:25,26; Mal 4:2,3; Col 2:15</li>
 </ol>
 
@@ -907,7 +907,7 @@ mutably, so that he might fall from it.<sup style="font-weight:bold;">3</sup>
 
 <ol start="2">
     <li id="2">Ecc 7:29; Gen 1:26</li> 
-    <li id="3">Gen 2:16,17</li> 
+    <li id="3">Gen 2:16,17; Gen 3:6</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> Man, by his fall into a state of sin, has wholly lost all ability of will
@@ -918,10 +918,10 @@ not able, by his own strength, to convert himself, or to prepare
 himself thereunto.<sup style="font-weight:bold;">7</sup>
 
 <ol start="4">
-    <li id="4">Rom 5:6; Joh 15:5</li> 
+    <li id="4">Rom 5:6; Rom 8:7; Joh 15:5</li> 
     <li id="5">Rom 3:10,12</li> 
     <li id="6">Eph 2:1,5; Col 2:13</li> 
-    <li id="7">Joh 6:44,65; Eph 2:2,3,4,5; 1Co 2:14; Tit 3:3,4,5</li> 
+    <li id="7">Joh 6:44,65; Eph 2:2-5; 1Co 2:14; Tit 3:3-5</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> When God converts a sinner, and translates him into the state of
@@ -941,7 +941,7 @@ does also will that which is evil.<sup style="font-weight:bold;">10</sup>
 alone in the state of glory only.<sup style="font-weight:bold;">11</sup>
 
 <ol start="11">
-    <li id="11">Eph 4:13; Heb 12:23; 1Jo 3:2; 24</li> 
+    <li id="11">Eph 4:13; Heb 12:23; 1Jo 3:2; Jd 24</li> 
 </ol>
 
 <a name="CHX" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter X.</a><br>
@@ -960,12 +960,12 @@ Christ:<sup style="font-weight:bold;">7</sup> yet so, as they come most freely, 
 grace.<sup style="font-weight:bold;">8</sup>
 
 <ol start="1">
-    <li id="1">Rom 8:30; Eph 1:10,11</li> 
+    <li id="1">Rom 8:30; Rom 11:7; Eph 1:10,11</li> 
     <li id="2">2Th 2:13,14; 2Co 3:3,6</li> 
-    <li id="3">Rom 8:2; Eph 2:1,2,3,4,5; 2Ti 1:9,10</li> 
+    <li id="3">Rom 8:2; Eph 2:1-5; 2Ti 1:9,10</li> 
     <li id="4">Act 26:18; 1Co 2:10,12; Eph 1:17,18</li> 
     <li id="5">Eze 36:26</li> 
-    <li id="6">Eze 11:19; Phi 2:13; Deut 30:6; Eze 36:27</li> 
+    <li id="6">Eze 11:19; Phil 2:13; Deut 30:6; Eze 36:27</li> 
     <li id="7">Eph 1:19; Joh 6:44,45</li> 
     <li id="8">Son 1:4; Psa 110:3; Joh 6:37; Rom 6:16,17,18</li> 
 </ol>
@@ -988,7 +988,7 @@ He pleases:<sup style="font-weight:bold;">13</sup> so also are all other elect p
 of being outwardly called by the ministry of the Word.<sup style="font-weight:bold;">14</sup>
 
 <ol start="12">
-    <li id="12">Luk 18:15,16; Act 2:38,39; Joh 3:3,5; 1Jo 5:12; Rom 8:9</li> 
+    <li id="12">Luk 18:15,16 and Act 2:38,39 and Joh 3:3,5 and 1Jo 5:12 and Rom 8:9 [compared together]</li> 
     <li id="13">Joh 3:8</li> 
     <li id="14">1Jo 5:12; Act 4:12</li> 
 </ol>
@@ -1004,10 +1004,10 @@ that they may, is very pernicious, and to be detested.<sup style="font-weight:bo
 
 <ol start="15">
     <li id="15">Mat 22:14</li> 
-    <li id="16">Mat 7:22,21; Heb 6:4,5</li> 
-    <li id="17">Joh 6:64,65,66</li> 
-    <li id="18">Act 4:12; Joh 14:6; Eph 2:12; Joh 4:22</li> 
-    <li id="19">2Jo 1:9,10,11; 1Co 16:22; Gal 1:6,7; 8</li> 
+    <li id="16">Mat 7:22; Matt 13:20,21; Heb 6:4,5</li> 
+    <li id="17">Joh 6:64,65,66; Jn 8:24</li> 
+    <li id="18">Act 4:12; Joh 14:6; Eph 2:12; Joh 4:22; Jn 17:3</li> 
+    <li id="19">2Jo 9,10,11; 1Co 16:22; Gal 1:6,7,8</li> 
 </ol>
 
 <a name="CHXI" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XI.</a><br>
@@ -1027,8 +1027,8 @@ faith they have not of themselves, it is the gift of God.<sup style="font-weight
 
 <ol start="1">
     <li id="1">Rom 8:30; Rom 3:24</li> 
-    <li id="2">Rom 4:5,6,7,8; 2Co 5:19,21; Rom 3:22,24,25,27,28; Tit 3:5,7; Eph 1:7; Jer 23:6; 1Co 1:30,31; Rom 5:17,18,19</li> 
-    <li id="3">Act 10:44; Gal 2:16; Phi 3:9; Act 13:38,39; Eph 2:7,8</li> 
+    <li id="2">Rom 4:5-8; 2Co 5:19,21; Rom 3:22,24,25,27,28; Tit 3:5,7; Eph 1:7; Jer 23:6; 1Co 1:30,31; Rom 5:17,18,19</li> 
+    <li id="3">Act 10:44; Gal 2:16; Phil 3:9; Act 13:38,39; Eph 2:7,8</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> Faith, thus receiving and resting on Christ and His righteousness,
@@ -1067,7 +1067,7 @@ Spirit does, in due time, actually apply Christ unto them.<sup style="font-weigh
 <ol start="11">
     <li id="11">Gal 3:8; 1Pe 1:2,19,20; Rom 8:30</li> 
     <li id="12">Gal 4:4; 1Ti 2:6; Rom 4:25</li> 
-    <li id="13">Col 1:21,22; Gal 2:16; Tit 3:4,5,6,7</li> 
+    <li id="13">Col 1:21,22; Gal 2:16; Tit 3:4-7</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> God does continue to forgive the sins of those that are justified;<sup style="font-weight:bold;">14</sup>
@@ -1080,7 +1080,7 @@ faith and repentance.<sup style="font-weight:bold;">16</sup>
 <ol start="14">
     <li id="14">Mat 6:12; 1Jo 1:7,9; 1Jo 2:1,2</li> 
     <li id="15">Luk 22:32; Joh 10:28; Heb 10:14</li> 
-    <li id="16">Psa 89:31,32,33; Psa 51:7,8,9,10,11,12; Psa 32:5; Mat 26:75; 1Co 11:30,32; Luk 1:20</li> 
+    <li id="16">Psa 89:31,32,33; Psa 51:7-12; Psa 32:5; Mat 26:75; 1Co 11:30,32; Luk 1:20</li> 
 </ol>
 
 <span style="font-weight:bold;">VI.</span> The justification of believers under the Old Testament was, in all
@@ -1137,11 +1137,11 @@ to the practice of true holiness, without which no man shall see the
 Lord.<sup style="font-weight:bold;">6</sup>
 
 <ol start="1">
-    <li id="1">1Co 6:11; Act 20:32; Phi 3:10; Rom 6:5,6</li> 
+    <li id="1">1Co 6:11; Act 20:32; Phil 3:10; Rom 6:5,6</li> 
     <li id="2">Joh 17:17; Eph 5:26; 2Th 2:13</li> 
     <li id="3">Rom 6:6,14</li> 
     <li id="4">Gal 5:24; Rom 8:13</li> 
-    <li id="5">Col 1:11; Eph 3:16,17,18,19</li> 
+    <li id="5">Col 1:11; Eph 3:16-19</li> 
     <li id="6">2Co 7:1; Heb 12:14</li> 
 </ol>
 
@@ -1181,7 +1181,7 @@ it is increased and strengthened.<sup style="font-weight:bold;">4</sup>
 
 <ol start="1">
     <li id="1">Heb 10:39</li> 
-    <li id="2">2Co 4:13; Eph 1:17,18,19</li> 
+    <li id="2">2Co 4:13; Eph 1:17,18,19; Eph 2:8</li> 
     <li id="3">Rom 10:14,17</li> 
     <li id="4">1Pe 2:2; Act 20:32; Rom 4:11; Luk 17:5; Rom 1:16,17</li> 
 </ol>
@@ -1211,8 +1211,8 @@ Christ,<sup style="font-weight:bold;">12</sup> who is both the author and finish
 
 <ol start="10">
     <li id="10">Heb 5:13,14; Rom. 4:19-20; Matt 6:30; Matt 8:10</li> 
-    <li id="11">Luke 22:31-32; Eph 6:16</li> 
-    <li id="12">Heb 6:11-12</li> 
+    <li id="11">Luke 22:31-32; Eph 6:16; 1Jn 5:4,5</li> 
+    <li id="12">Heb 6:11-12; Heb 10:22; Col 2:2</li> 
     <li id="13">Heb. 12:2</li> 
 </ol>
 
@@ -1239,7 +1239,7 @@ purposing and endeavouring to walk with Him in all the ways of His
 commandments.<sup style="font-weight:bold;">4</sup>
 
 <ol start="3">
-    <li id="3">Eze 18:30,31; Isa 30:22; Psa 51:4; Jer 31:18,19; Joe 2:12,13; Amo 5:15; Psa 119:128; 2Co 7:11</li> 
+    <li id="3">Eze 18:30,31; Ezek 36:31; Isa 30:22; Psa 51:4; Jer 31:18,19; Joe 2:12,13; Amos 5:15; Psa 119:128; 2Co 7:11</li> 
     <li id="4">Psa 119:6,59,106; Luk 1:6; 2Ki 23:25</li> 
 </ol>
 
@@ -1249,7 +1249,7 @@ free grace in Christ,<sup style="font-weight:bold;">6</sup> yet it is of such ne
 none may expect pardon without it.<sup style="font-weight:bold;">7</sup>
 
 <ol start="5">
-    <li id="5">Eze 36:31,32; Eze 16:61,62,63</li> 
+    <li id="5">Eze 36:31,32; Eze 16:61-63</li> 
     <li id="6">Hos 14:2,4; Rom 3:24; Eph 1:7</li> 
     <li id="7">Luk 13:3; Act 17:30,31</li> 
 </ol>
