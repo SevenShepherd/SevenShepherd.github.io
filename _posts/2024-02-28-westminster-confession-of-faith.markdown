@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:25:00 -0500
+date: 2024-02-28 01:35:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -409,11 +409,11 @@ Neither are any other redeemed by Christ, effectually called,
 justified, adopted, sanctified, and saved, but the elect only.<sup style="font-weight:bold;">16</sup>
 
 <ol start="12">
-    <li id="12">1Pe 1:2; Eph 1:4,5; 2Th 2:13</li> 
+    <li id="12">1Pe 1:2; Eph 1:4,5; Eph 2:10; 2Th 2:13</li> 
     <li id="13">1Th 5:9,10; Tit 2:14</li> 
     <li id="14">Rom 8:30; Eph 1:5; 2Th 2:13</li> 
     <li id="15">1Pe 1:5</li> 
-    <li id="16">Joh 17:9; Rom 8:28; Joh 6:64,65; 1Jo 2:19</li> 
+    <li id="16">Joh 17:9; Rom 8:28-39; Joh 6:64,65; Jn 10:26; Jn 8:47; 1Jo 2:19</li> 
 </ol>
 
 <span style="font-weight:bold;">VII.</span> The rest of mankind God was pleased, according to the
@@ -423,7 +423,7 @@ over His creatures, to pass by; and to ordain them to dishonor and
 wrath for their sin, to the praise of His glorious justice.<sup style="font-weight:bold;">17</sup>
 
 <ol start="17">
-    <li id="17">Mat 11:25,26; Rom 9:17,18,21,22; 2Ti 2:19,20,4; 1Pe 2:8</li> 
+    <li id="17">Mat 11:25,26; Rom 9:17,18,21,22; 2Ti 2:19,20; Jd 4 NET; 1Pe 2:8</li> 
 </ol>
 
 <span style="font-weight:bold;">VIII.</span> The doctrine of this high mystery of predestination is to be
@@ -437,7 +437,7 @@ diligence, and abundant consolation to all that sincerely obey the
 Gospel.<sup style="font-weight:bold;">21</sup>
 
 <ol start="18">
-    <li id="18">Rom 9:20; Deut 29:29</li> 
+    <li id="18">Rom 9:20; Rom 11:33; Deut 29:29</li> 
     <li id="19">2Pe 1:10</li> 
     <li id="20">Eph 1:6; Rom 11:33</li> 
     <li id="21">Rom 11:5,6,20; 2Pe 1:10; Rom 8:33; Luk 10:20</li>
@@ -456,9 +456,9 @@ world, and all things therein whether visible or invisible, in the space
 of six days; and all very good.<sup style="font-weight:bold;">3</sup>
 
 <ol start="1">
-    <li id="1">Heb 1:2; Joh 1:2,3; Gen 1:2; Job 26:13</li> 
-    <li id="2">Rom 1:20; Jer 10:12; Psa 104:24,6</li> 
-    <li id="3">Heb 11:3; Col 1:16; Act 17:24</li> 
+    <li id="1">Heb 1:2; Joh 1:2,3; Gen 1:2; Job 26:13; Job 33:4</li> 
+    <li id="2">Rom 1:20; Jer 10:12; Psa 104:24; Psa 33:5,6</li> 
+    <li id="3">Gen 1; Heb 11:3; Col 1:16; Act 17:24</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> After God had made all other creatures, He created man, male
@@ -478,7 +478,7 @@ over the creatures.<sup style="font-weight:bold;">11</sup>
     <li id="7">Rom 2:14,15</li> 
     <li id="8">Ecc 7:29</li> 
     <li id="9">Gen 3:6; Ecc 7:29</li> 
-    <li id="10">Gen 2:17,9,10,11,23</li> 
+    <li id="10">Gen 2:17; Gen 8-11,23</li> 
     <li id="11">Gen 1:26; 28</li> 
 </ol>
 
@@ -497,10 +497,10 @@ wisdom, power, justice, goodness, and mercy.<sup style="font-weight:bold;">7</su
 
 <ol start="1">
     <li id="1">Heb 1:3</li> 
-    <li id="2">Dan 4:34,35; Psa 135:6; Act 17:25,26,27,28</li> 
+    <li id="2">Dan 4:34,35; Psa 135:6; Act 17:25,26,27,28; Job 38-41</li> 
     <li id="3">Mat 10:29,30,31</li> 
-    <li id="4">Pro 15:3; Psa 104:24</li> 
-    <li id="5">Act 15:18; Psa 94:8,9,10,11</li> 
+    <li id="4">Pro 15:3; Psa 104:24; Psa 145:17</li> 
+    <li id="5">Act 15:18; Psa 94:8-11</li> 
     <li id="6">Eph 1:11; Psa 33:10,11</li> 
     <li id="7">Isa 63:14; Eph 3:10; Rom 9:17; Gen 45:7; Psa 145:7</li> 
 </ol>
@@ -536,7 +536,7 @@ and not from God, who, being most holy and righteous, neither is nor
 can be the author or approver of sin.<sup style="font-weight:bold;">18</sup>
 
 <ol start="14">
-    <li id="14">Rom 11:32,33,34; 2Sa 24:1; 1Ch 21:1; 1Ki 22:22,23; 1Ch 10:4; 2Sa 16:10; Act 2:23; Act 4:27,28</li> 
+    <li id="14">Rom 11:32,33,34; 2Sa 24:1 with 1Ch 21:1; 1Ki 22:22,23; 1Ch 10:4,13,14; 2Sa 16:10; Act 2:23; Act 4:27,28</li> 
     <li id="15">Act 14:16</li> 
     <li id="16">Psa 76:10; 2Ki 19:28</li> 
     <li id="17">Gen 50:20; Isa 10:6,7,12</li> 
@@ -554,7 +554,7 @@ future occasions of sin, and for sundry other just and holy ends.<sup style="fon
 
 <ol start="19">
     <li id="19">2Ch 32:25,26,31; 2Sa 24:1</li> 
-    <li id="20">2Co 12:7,8,9; Psa 77:1,10,12; Mar 14:66-72; Joh 21:15,16,17</li> 
+    <li id="20">2Co 12:7,8,9; Psa 73; Psa 77:1-12; Mar 14:66-72 with Joh 21:15,16,17</li> 
 </ol>
 
 <span style="font-weight:bold;">VI.</span> As for those wicked and ungodly men whom God, as a righteous
@@ -570,12 +570,12 @@ they harden themselves, even under those means which God uses
 for the softening of others.<sup style="font-weight:bold;">26</sup>
 
 <ol start="21">
-    <li id="21">Rom 1:24,26,28,8</li> 
+    <li id="21">Rom 1:24,26,28; Rom 11:7,8</li> 
     <li id="22">Deut 29:4</li> 
-    <li id="23">Mat 13:12</li> 
+    <li id="23">Mat 13:12; Matt 25:29</li> 
     <li id="24">Deut 2:30; 2Ki 8:12,13</li> 
     <li id="25">Psa 81:11,12; 2Th 2:10,11,12</li> 
-    <li id="26">Exo 7:3,32; 2Co 2:15,16; Isa 8:14; 1Pe 2:7,8; Isa 6:9,10; Act 28:26,27</li> 
+    <li id="26">Exo 7:3 with Exod 8:15,32; 2Co 2:15,16; Isa 8:14; 1Pe 2:7,8; Isa 6:9,10; Act 28:26,27</li> 
 </ol>
 
 <span style="font-weight:bold;">VII.</span> As the providence of God does, in general, reach to all
@@ -583,7 +583,7 @@ creatures; so, after a most special manner, it takes care of His
 Church, and disposes all things to the good thereof.<sup style="font-weight:bold;">27</sup>
 
 <ol start="27">
-    <li id="27">1Ti 4:10; Amos 9:8,9; Rom 8:28; Isa 43:3,4,5; 14</li> 
+    <li id="27">1Ti 4:10; Amos 9:8,9; Rom 8:28; Isa 43:3,4,5;14</li> 
 </ol>
 
 <a name="CHVI" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter VI.</a><br>
