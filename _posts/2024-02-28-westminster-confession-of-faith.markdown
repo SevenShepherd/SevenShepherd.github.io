@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 02:25:00 -0500
+date: 2024-02-28 02:35:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -30,13 +30,13 @@ PROOFS FROM THE SCRIPTURE
 <span style="font-size:1em;">
 <a href="#CHI">Ch I &mdash; Of the Holy Scripture</a><br>
 <a href="#CHII">Ch II &mdash; Of God, and of the Holy Trinity</a><br>
-<a href="#CHIII" style="color:ForestGreen;">Ch III &mdash; Of God’s Eternal Decree</a><br>
+<a href="#CHIII" style="font-weight:bold;color:ForestGreen;">Ch III &mdash; Of God’s Eternal Decree</a><br>
 <a href="#CHIV">Ch IV &mdash; Of Creation</a><br>
 <a href="#CHV">Ch V &mdash; Of Providence</a><br>
 <a href="#CHVI">Ch VI &mdash; Of the Fall of Man, of Sin, and of the Punishment Thereof</a><br>
 <a href="#CHVII">Ch VII &mdash; Of God’s Covenant with Man</a><br>
 <a href="#CHVIII">Ch VIII &mdash; Of Christ the Mediator</a><br>
-<a href="#CHIX">Ch IX &mdash; Of Free Will</a><br>
+<a href="#CHIX" style="font-weight:bold;color:ForestGreen;">Ch IX &mdash; Of Free Will</a><br>
 <a href="#CHX">Ch X &mdash; Of Effectual Calling</a><br>
 <a href="#CHXI">Ch XI &mdash; Of Justification</a><br>
 <a href="#CHXII">Ch XII &mdash; Of Adoption</a><br>
@@ -901,6 +901,7 @@ consonant to His wonderful and unsearchable dispensation.<sup style="font-weight
 <a name="CHIX" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter IX.</a><br>
 <span style="font-style:italic;font-weight:bold;">Of Free Will</span>
 
+<span style="color:ForestGreen;">The view presented in the &lsquo;Westminister Confession of Faith&rsquo; is known as &ldquo;freedom of inclination.&rdquo;</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Amyraldians</a> <span style="color:ForestGreen;">can either hold to this view or</span> <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">compatibilism.</a>
 
 <span style="font-weight:bold;">I.</span> <span style="font-weight:bold;font-size:1.2em;">God</span> has endued the will of man with that natural liberty, that is
 neither forced, nor, by any absolute necessity of nature, determined
