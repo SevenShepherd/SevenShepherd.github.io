@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ For Many Are Called But Few Are Chosen"
-date: 2024-02-01 11:35:00 -0500
+date: 2024-02-01 11:45:00 -0500
 categories: election predestination
 published: true
 ---
@@ -64,7 +64,7 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
             - 2.3.2.2 <a href="#missler">Chuck Missler</a>
 3. <a href="#corporate">Corporate Election</a>
     - 3.1 <a href="#contemporary">Contemporary Arminians</a>
-4. <a href="#double" style="font-weight:bold;color:FireBrick;">Double Unconditional Predestination</a>
+4. <a name="hyper-double" href="#double" style="font-weight:bold;color:FireBrick;">Double Unconditional Predestination</a>
     - 4.1 <a href="#hyper" style="font-weight:bold;color:FireBrick;">High Calvinists (Hyper)</a>
         - 4.1.1 <a href="#demarest-against-hyper">Demarest **Against** Double</a>
         - 4.1.2 <a href="#lennox-against-hyper">Lennox **Against** Double</a>
