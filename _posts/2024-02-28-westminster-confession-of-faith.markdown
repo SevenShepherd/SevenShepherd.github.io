@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 03:05:00 -0500
+title: "⛪ The Westminster Confession of Faith (1647) Amended With Baptist (1689) For Amyraldism Side-By-Side With Original With Emphasis On Minimalism"
+date: 2024-02-28 03:10:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -366,15 +366,22 @@ such conditions.<sup style="font-weight:bold;">5</sup>
     <li id="5">Rom 9:11,13,16,18</li>
 </ol>
 
-<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">are predestinated unto everlasting life.<sup style="font-weight:bold;">7</sup></a>
+<span style="font-weight:bold;">III. (Amended With Baptist 1689 3.3)</span> By the decree of God, for the manifestation of His glory, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">some men and angels<sup style="font-weight:bold;">6</sup> are predestinated, or foreordained to eternal life</a> through Jesus Christ,<sup style="font-weight:bold;">7.1</sup> to the praise of His glorious grace;<sup style="font-weight:bold;">7.2</sup> others being left to act in their sin to their just condemnation, to the praise of His glorious justice<sup style="font-weight:bold;">7.3</sup>
 
-<ol start="6">
-    <li id="6">1Ti 5:21; Mat 25:41</li> 
-    <li id="7">Eph 1:5,6;</li>
-</ol>
+<!-- <span style="font-weight:bold;">III. (Amended With Baptist 1689 3.3)</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">are predestinated unto everlasting life.<sup style="font-weight:bold;">7</sup></a> -->
+
+<span style="margin-left:1em;">6 & 7.1\. 1Ti 5:21; Matt 25:34</span><br> 
+<span style="margin-left:1em;">7.2\. Eph 1:5-6</span><br> 
+<span style="margin-left:1em;">7.3\. Rom. 9:22–23; Jude 4</span><br> 
+
+<!-- <ol start="7.1" >
+    <li id="7.1">1Ti 5:21; Matt 25:34</li> 
+    <li id="7.2">Eph 1:5-6</li>
+    <li id="7.3">Rom. 9:22–23; Jude 4</li>
+</ol> -->
 
 <blockquote>
-<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> are predestinated unto everlasting life; <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and others foreordained to everlasting death.<sup style="font-weight:bold;">7</sup></a>
+<span style="font-weight:bold;">III. (Westminster Confession of Faith (1647))</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> are predestinated unto everlasting life; <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and others foreordained to everlasting death.<sup style="font-weight:bold;">7</sup></a>
 
 <br><br>
 
@@ -424,8 +431,9 @@ justified, adopted, sanctified, and saved, but the elect only.<sup style="font-w
     <li id="16">Joh 17:9; Rom 8:28-39; Joh 6:64,65; Jn 10:26; Jn 8:47; 1Jo 2:19</li> 
 </ol>
 
-<span style="font-weight:bold;">VII.</span> The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">to pass by</a> them to dishonor and
-wrath for their sin, to the praise of His glorious justice.<sup style="font-weight:bold;">17</sup>
+<span style="font-weight:bold;">VII. (Amended With Baptist 1689 3.x)</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Removed completely.</a> One could drop <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">&ldquo;and to ordain&rdquo;</a> to create the following paragraph:
+
+- &ldquo;The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">to pass by</a> them to dishonor and wrath for their sin, to the praise of His glorious justice.&rdquo;<sup style="font-weight:bold;">17</sup>
 
 <!-- <span style="font-weight:bold;">VII.</span> The rest of mankind, though not elected unto salvation, are not left without hope, for God, in His infinite wisdom and mercy, has provided<sup style="font-weight:bold;">17</sup>
 
@@ -434,7 +442,7 @@ wrath for their sin, to the praise of His glorious justice.<sup style="font-weig
 </ol> -->
 
 <blockquote>
-<span style="font-weight:bold;">VII.</span> The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, to pass by; <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and to ordain</a> them to dishonor and
+<span style="font-weight:bold;">VII. (Westminster Confession of Faith (1647))</span> The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, to pass by; <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and to ordain</a> them to dishonor and
 wrath for their sin, to the praise of His glorious justice.<sup style="font-weight:bold;">17</sup>
 
 <br><br>
