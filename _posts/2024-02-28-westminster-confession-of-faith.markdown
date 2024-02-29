@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:45:00 -0500
+date: 2024-02-28 02:00:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -1296,7 +1296,7 @@ by men, out of blind zeal, or upon any pretence of good intention.<sup style="fo
 
 <ol start="1">
     <li id="1">Mic 6:8; Rom 12:2; Heb 13:21</li> 
-    <li id="2">Mat 15:9; Isa 29:13; 1Pe 1:18; Rom 10:2; Joh 16:2; 1Sa 15:21,22,23</li> 
+    <li id="2">Mat 15:9; Isa 29:13; 1Pe 1:18; Rom 10:2; Joh 16:2; 1Sa 15:21-23</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> These good works, done in obedience to God's commandments,
@@ -1311,11 +1311,11 @@ unto holiness, they may have the end, eternal life.<sup style="font-weight:bold;
 <ol start="3">
     <li id="3">Jam 2:18,22</li> 
     <li id="4">Psa 116:12,13; 1Pe 2:9</li> 
-    <li id="5">1Jo 2:3,5; 2Pe 1:5,6,7,8,9,10</li> 
+    <li id="5">1Jo 2:3,5; 2Pe 1:5-10</li> 
     <li id="6">2Co 9:2; Mat 5:16</li> 
-    <li id="7">Tit 2:5,9,10,11,12; 1Ti 6:1</li> 
+    <li id="7">Tit 2:5,9-12; 1Ti 6:1</li> 
     <li id="8">1Pe 2:15</li> 
-    <li id="9">1Pe 2:12; Phi 1:11; Joh 15:8</li> 
+    <li id="9">1Pe 2:12; Phil 1:11; Joh 15:8</li> 
     <li id="10">Eph 2:10</li> 
     <li id="11">Rom 6:22</li> 
 </ol>
@@ -1331,8 +1331,8 @@ diligent in stirring up the grace of God that is in them.<sup style="font-weight
 
 <ol start="12">
     <li id="12">Joh 15:4,5,6; Eze 36:26,27</li> 
-    <li id="13">Phi 2:13; 2Co 3:5</li> 
-    <li id="14">Phi 2:12; Heb 6:11,12; 2Pe 1:3,5,10,11; Isa 64:7; 2Ti 1:6; Act 26:6,7,20,21</li> 
+    <li id="13">Phil 2:13; Phil 4:13; 2Co 3:5</li> 
+    <li id="14">Phil 2:12; Heb 6:11,12; 2Pe 1:3,5,10,11; Isa 64:7; 2Ti 1:6; Act 26:6,7; Jd 20,21</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> They who, in their obedience, attain to the greatest height which
@@ -1356,7 +1356,7 @@ weakness and imperfection, that they cannot endure the severity of
 God's judgment.<sup style="font-weight:bold;">19</sup>
 
 <ol start="16">
-    <li id="16">Rom 3:20; Rom 4:2,4,6; Eph 2:8,9; Tit 3:5,6,7; Rom 8:18; Psa 16:2; Job 22:2,3,8</li> 
+    <li id="16">Rom 3:20; Rom 4:2,4,6; Eph 2:8,9; Tit 3:5,6,7; Rom 8:18; Psa 16:2; Job 22:2,3; Job 35:7,8</li> 
     <li id="17">Luk 17:10</li> 
     <li id="18">Gal 5:22,23</li> 
     <li id="19">Isa 64:6; Gal 5:17; Rom 7:15,18; Psa 143:2; Psa 130:3</li> 
@@ -1385,12 +1385,12 @@ meet to receive grace from God:<sup style="font-weight:bold;">27</sup> and yet, 
 more sinful and displeasing unto God.<sup style="font-weight:bold;">28</sup>
 
 <ol start="23">
-    <li id="23">2Ki 10:30,31; 1Ki 21:27,29; Phi 1:15; Phi 1:16,18</li> 
+    <li id="23">2Ki 10:30,31; 1Ki 21:27,29; Phil 1:15,16,18</li> 
     <li id="24">Gen 4:5; Heb 11:4,6</li> 
     <li id="25">1Co 13:3; Isa 1:12</li> 
     <li id="26">Mat 6:2,5,16</li> 
-    <li id="27">Hag 2:14; Tit 1:15; Amo 5:21,22; Hos 1:4; Rom 9:16; Tit 3:15</li> 
-    <li id="28">Psa 14:4; Job 21:14,15; Mat 25:41,42,43,45; Mat 23:23</li>
+    <li id="27">Hag 2:14; Tit 1:15; Amos 5:21,22; Hos 1:4; Rom 9:16; Tit 3:15</li> 
+    <li id="28">Psa 14:4; Psa 36:3; Job 21:14,15; Mat 25:41,42,43,45; Mat 23:3</li>
 </ol>
 
 <a name="CHXVII" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XVII.</a><br>
@@ -1403,7 +1403,7 @@ from the state of grace, but shall certainly persevere therein to the
 end, and be eternally saved.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Phi 1:6; 2Pe 1:10; Joh 10:28,29; 1Jo 3:9; 1Pe 1:5,9</li> 
+    <li id="1">Phil 1:6; 2Pe 1:10; Joh 10:28,29; 1Jo 3:9; 1Pe 1:5,9</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> This perseverance of the saints depends not upon their own free
@@ -1418,7 +1418,7 @@ infallibility thereof.<sup style="font-weight:bold;">6</sup>
 
 <ol start="2">
     <li id="2">2Ti 2:18,19; Jer 31:3</li> 
-    <li id="3">Heb 10:10,14,20,21; Heb 9:12,13,14,15; Rom 8:33,34,35,36,37,38,39; Joh 17:11,24; Luk 22:32; Heb 7:25</li> 
+    <li id="3">Heb 10:10,14; Heb 13:20,21; Heb 9:12-15; Rom 8:33-39; Joh 17:11,24; Luk 22:32; Heb 7:25</li> 
     <li id="4">Joh 14:16,17; 1Jo 2:27; 1Jo 3:9</li> 
     <li id="5">Jer 32:40</li> 
     <li id="6">Joh 10:28; 2Th 3:3; 1Jo 2:19</li> 
@@ -1434,12 +1434,13 @@ hardened,<sup style="font-weight:bold;">12</sup> and their consciences wounded;<
 others,<sup style="font-weight:bold;">14</sup> and bring temporal judgments upon themselves.<sup style="font-weight:bold;">15</sup>
 
 <ol start="7">
-    <li id="7">Mat 26:70,72,74; <sup style="font-weight:bold;">8</sup>,51</li> 
+    <li id="7">Mat 26:70,72,74;</li>
+    <li id="8">Psa 51: (title), 14</li> 
     <li id="9">Isa 64:5,7,9; 2Sa 11:27</li> 
     <li id="10">Eph 4:30</li> 
     <li id="11">Psa 51:8,10,12; Rev 2:4; Son 5:2,3,4,6</li> 
-    <li id="12">Isa 63:17; Mar 6:52</li> 
-    <li id="13">Psa 32:3,4</li> 
+    <li id="12">Isa 63:17; Mar 6:52; Mark 16:14</li> 
+    <li id="13">Psa 32:3,4; Psa 51:8</li> 
     <li id="14">2Sa 12:14</li> 
     <li id="15">Psa 89:31,32; 1Co 11:32</li> 
 </ol>
@@ -1461,7 +1462,7 @@ which hope shall never make them ashamed.<sup style="font-weight:bold;">4</sup>
 <ol start="1">
     <li id="1">Job 8:13,14; Mic 3:11; Deut 29:19; Joh 8:41</li> 
     <li id="2">Mat 7:22,23</li> 
-    <li id="3">1Jo 2:3,18,19,21,24; 1Jo 5:13</li> 
+    <li id="3">1Jo 2:3; 1Jn 3:14,18,19,21,24; 1Jo 5:13</li> 
     <li id="4">Rom 5:2,5</li> 
 </ol>
 
@@ -1478,9 +1479,9 @@ of our inheritance, whereby we are sealed to the day of redemption.<sup style="f
 <ol start="5">
     <li id="5">Heb 6:11,19</li> 
     <li id="6">Heb 6:17,18</li> 
-    <li id="7">2Pe 1:4,5,10,11; 1Jo 2:3; 2Co 1:12</li> 
+    <li id="7">2Pe 1:4,5,10,11; 1Jo 2:3; 1Jn 3:14; 2Co 1:12</li> 
     <li id="8">Rom 8:15,16</li> 
-    <li id="9">Eph 1:13,14; 2Co 1:21,22</li> 
+    <li id="9">Eph 1:13,14; Eph 4:30; 2Co 1:21,22</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> This infallible assurance does not so belong to the essence of
@@ -1498,10 +1499,10 @@ the proper fruits of this assurance; so far is it
 from inclining men to looseness.<sup style="font-weight:bold;">14</sup>
 
 <ol start="10">
-    <li id="10">1Jo 5:13; Isa 1:10; Mar 9:24</li> 
+    <li id="10">1Jo 5:13; Isa 1:10; Mar 9:24; Psa 88; Psa 77:1-12</li> 
     <li id="11">1Co 2:12; 1Jo 4:13; Heb 6:11,12; Eph 3:17,18,19</li> 
     <li id="12">2Pe 1:10</li> 
-    <li id="13">Rom 5:1,2,5; Eph 1:3,4; Psa 4:6,7</li> 
+    <li id="13">Rom 5:1,2,5; Rom 14:17; Rom 15:13; Eph 1:3,4; Psa 4:6,7; Psa 119:32</li> 
     <li id="14">1Jo 2:1,2; Rom 6:1,2; Tit 2:11,12,14; 2Co 7:1; Rom 8:1,12; 1Jo 3:2,3; Psa 130:4; 1Jo 1:6,7</li> 
 </ol>
 
@@ -1518,9 +1519,9 @@ Spirit, this assurance may, in due time, be revived;<sup style="font-weight:bold
 which, in the mean time, they are supported from utter despair.<sup style="font-weight:bold;">17</sup>
 
 <ol start="15">
-    <li id="15">Son 5:2,3,6; Psa 51:8,12,14; Eph 4:30,31; Psa 77:1,2,3,4,5,6,7,8,9,10; Mat 26:69,70,71,72; Psa 31:22,88; Isa 50:10</li> 
+    <li id="15">Son 5:2,3,6; Psa 51:8,12,14; Eph 4:30,31; Psa 77:1-10; Mat 26:69-72; Psa 31:22; Psa 88; Isa 50:10</li> 
     <li id="16">1Jo 3:9; Luk 22:32; Job 13:15; Psa 73:15; Psa 51:8,12; Isa 50:10</li> 
-    <li id="17">Mic 7:7,8,9; Jer 32:40; Isa 54:7,8,9,10; Psa 22:1; 88</li> 
+    <li id="17">Mic 7:7,8,9; Jer 32:40; Isa 54:7-10; Psa 22:1; Psa 88</li> 
 </ol>
 
 <a name="CHXIX" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XIX.</a><br>
@@ -1534,7 +1535,7 @@ death upon the breach of it, and endued him with power and ability
 to keep it.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Gen 1:26,27; Rom 2:14,15; Rom 5:12,19; Gal 3:10,12; Ecc 7:29; Job 28:28</li> 
+    <li id="1">Gen 1:26,27 with Gen 2:17; Rom 2:14,15; Rom 5:12,19; Gal 3:10,12; Ecc 7:29; Job 28:28</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> This law, after his fall, continued to be a perfect rule of
@@ -1545,8 +1546,8 @@ four commandments containing our duty towards God; and the other
 six, our duty to man.<sup style="font-weight:bold;">3</sup>
 
 <ol start="2">
-    <li id="2">Jam 1:25,10,11,12; Rom 13:8,9; Deut 5:32; Exo 24:1</li> 
-    <li id="3">Mat 22:37,38,39,40</li> 
+    <li id="2">Jam 1:25; Jam 2:8,10,11,12; Rom 13:8,9; Deut 5:32; Deut 10:4; Exo 24:1</li> 
+    <li id="3">Mat 22:37-40</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> Besides this law, commonly called moral, God was pleased to
@@ -1557,8 +1558,8 @@ holding forth divers instructions of moral duties.<sup style="font-weight:bold;"
 ceremonial laws are now abrogated, under the New Testament.<sup style="font-weight:bold;">6</sup>
 
 <ol start="4">
-    <li id="4">Heb 10:1; Gal 4:1,2,3; Col 2:17</li> 
-    <li id="5">1Co 5:7; 2Co 6:17,23</li> 
+    <li id="4">Heb 9; Heb 10:1; Gal 4:1,2,3; Col 2:17</li> 
+    <li id="5">1Co 5:7; 2Co 6:17; Jd 23</li> 
     <li id="6">Col 2:14,16,17; Dan 9:27; Eph 2:15,16</li> 
 </ol>
 
@@ -1567,7 +1568,7 @@ which expired together with the State of that people; not obliging
 under any now, further than the general equity thereof may require.<sup style="font-weight:bold;">7</sup>
 
 <ol start="7">
-    <li id="7">Gen 49:10; 1Pe 2:13,14; Mat 5:17,38,39; 1Co 9:8,9,10</li> 
+    <li id="7">Eod 21; Exod 22:1-29; Gen 49:10 with 1Pe 2:13,14; Mat 5:17 with Mt 5:38,39; 1Co 9:8-10</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> The moral law does forever bind all, as well justified persons as
@@ -1604,16 +1605,16 @@ encourages to the one and deters from the other, is no evidence of
 his being under the law: and not under grace.<sup style="font-weight:bold;">20</sup>
 
 <ol start="11">
-    <li id="11">Rom 6:14; Gal 2:16,5; Act 13:39; Rom 8:1</li> 
-    <li id="12">Rom 7:12,22,25; Psa 119:4,5,6; 1Co 7:19; Gal 5:14,16,18,19,20,21,22,23</li> 
+    <li id="11">Rom 6:14; Gal 2:16; Gal 3:13; Gal 4:4,5; Act 13:39; Rom 8:1</li> 
+    <li id="12">Rom 7:12,22,25; Psa 119:4,5,6; 1Co 7:19; Gal 5:14,16,18-23</li> 
     <li id="13">Rom 7:7; Rom 3:20</li> 
     <li id="14">Jam 1:23,24,25; Rom 7:9,14,24</li> 
     <li id="15">Gal 3:24; Rom 7:24,25; Rom 8:4</li> 
     <li id="16">Jam 2:11; Psa 119:101,104,128</li> 
-    <li id="17">Ezr 9:13,14; Psa 89:30,31,32,33,34</li> 
-    <li id="18">2Co 6:16; Eph 6:2,3; Psa 37:11; Mat 5:5; Psa 19:11</li> 
+    <li id="17">Ezr 9:13,14; Psa 89:30-34</li> 
+    <li id="18">Lev 26:1-14 with 2Co 6:16; Eph 6:2,3; Psa 37:11; Mat 5:5; Psa 19:11</li> 
     <li id="19">Gal 2:16; Luk 17:10</li> 
-    <li id="20">Rom 6:12,14; 1Pe 3:8,9,10,11,12; Psa 34:12,13,14,15,16; Heb 12:28,29</li> 
+    <li id="20">Rom 6:12,14; 1Pe 3:8-12; Psa 34:12-16; Heb 12:28,29</li> 
     <li id="21">Gal 3:21</li> 
     <li id="22">Eze 36:27; Heb 8:10; Jer 31:33</li> 
 </ol>
@@ -1653,12 +1654,12 @@ God, than believers under the law did ordinarily partake of.<sup style="font-wei
 <ol start="1">
     <li id="1">Tit 2:14; 1Th 1:10; Gal 3:13</li> 
     <li id="2">Gal 1:4; Col 1:13; Act 26:18; Rom 6:14</li> 
-    <li id="3">Rom 8:28; Psa 119:71; 1Co 15:54,55,56,57; Rom 8:1</li> 
+    <li id="3">Rom 8:28; Psa 119:71; 1Co 15:54-57; Rom 8:1</li> 
     <li id="4">Rom 5:1,2</li> 
     <li id="5">Rom 8:14,15; 1Jo 4:18</li> 
     <li id="6">Gal 3:9,14</li> 
-    <li id="7">Gal 4:1,2,3,6,7; Act 15:10,11</li> 
-    <li id="8">Heb 4:14,16,20,21,22</li> 
+    <li id="7">Gal 4:1,2,3,6,7; Gal 5:1; Act 15:10,11</li> 
+    <li id="8">Heb 4:14,16; Heb 10:19-22</li> 
     <li id="9">Joh 7:38,39; 2Co 3:13,17,18</li> 
 </ol>
 
@@ -1672,9 +1673,9 @@ to destroy liberty of conscience, and reason also.<sup style="font-weight:bold;"
 
 <ol start="10">
     <li id="10">Jam 4:12; Rom 14:4</li> 
-    <li id="11">Act 4:19; 1Co 7:23; Mat 23:8,9,10; 2Co 1:24; Mat 15:9</li> 
-    <li id="12">Col 2:20,22,23; Gal 1:10,5</li> 
-    <li id="13">Rom 10:17; Isa 8:20; Act 17:11; Joh 4:22; Hos 5:11; Rev 13:12,16,17; Jer 8:9</li> 
+    <li id="11">Act 4:19; Acts 5:29; 1Co 7:23; Mat 23:8,9,10; 2Co 1:24; Mat 15:9</li> 
+    <li id="12">Col 2:20,22,23; Gal 1:10; Gal 2:4,5; Gal 5:1</li> 
+    <li id="13">Rom 10:17; Rom 14:23; Isa 8:20; Act 17:11; Joh 4:22; Hos 5:11; Rev 13:12,16,17; Jer 8:9</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> They who, upon pretence of Christian liberty, do practice any sin,
@@ -1703,9 +1704,9 @@ they may lawfully be called to account,<sup style="font-weight:bold;">16</sup> a
 the censures of the Church. and by the power of the civil magistrate.<sup style="font-weight:bold;">17</sup>
 
 <ol start="15">
-    <li id="15">Mat 12:25; 1Pe 2:13,14,16; Rom 13:1,2,3,4,5,6,7,8; Heb 13:17</li> 
-    <li id="16">Rom 1:32; 1Co 5:1,5,11,13; 2Jo 1:10,11; 2Th 3:14; 1Ti 6:3,4,5; Tit 1:10,11,13; Tit 3:10; Mat 18:15,16,17; 1Ti 1:19,20; Rev 2:2,14,15,20; Rev 3:9.</li> 
-    <li id="17">Deut 13:6,7,8,9,10,11; Rom 13:3,4; 2Jo 1:10,11; Ezr 7:23,25,26,27,28; Rev 17:12,16,17; Neh 13:15,17,21,22,25,30; 2Ki 23:5,6,9,20,21; 2Ch 34:33; 2Ch 15:12,13,16; Dan 3:29; 1Ti 2:2; Isa 49:23; Zec 13:2; 3</li> 
+    <li id="15">Mat 12:25; 1Pe 2:13,14,16; Rom 13:1-8; Heb 13:17</li> 
+    <li id="16">Rom 1:32; 1Co 5:1,5,11,13; 2Jo 1:10,11; 2Th 3:14 and 1Ti 6:3,4,5 and Tit 1:10,11,13 and Tit 3:10 with Mat 18:15,16,17; 1Ti 1:19,20; Rev 2:2,14,15,20; Rev 3:9.</li> 
+    <li id="17">Deut 13:6-12; Rom 13:3,4 with 2Jo 1:10,11; Ezr 7:23,25-28; Rev 17:12,16,17; Neh 13:15,17,21,22,25,30; 2Ki 23:5,6,9,20,21; 2Ch 34:33; 2Ch 15:12,13,16; Dan 3:29; 1Ti 2:2; Isa 49:23; Zec 13:2,3</li> 
 </ol>
 
 <a name="CHXXI" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XXI.</a><br>
