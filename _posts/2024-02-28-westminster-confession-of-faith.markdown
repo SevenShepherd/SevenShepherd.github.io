@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:10:00 -0500
+date: 2024-02-28 01:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -336,7 +336,7 @@ the Holy
 Ghost eternally proceeding from the Father and the Son.<sup style="font-weight:bold;">40</sup>
 
 <ol start="38">
-    <li id="38">Matt 3:16-17; Matt 28:19; Cor 13:14</li> 
+    <li id="38">1Jn 5:7; Matt 3:16-17; Matt 28:19; 2Cor 13:14</li> 
     <li id="39">John 1:14,18</li> 
     <li id="40">John 15:26; Gal 4:6</li>
 </ol>
