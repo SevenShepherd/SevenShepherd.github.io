@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended With Baptist (1689) For Amyraldism Side-By-Side With Original With Emphasis On Minimalism"
-date: 2024-02-28 03:10:00 -0500
+date: 2024-02-28 03:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -366,7 +366,7 @@ such conditions.<sup style="font-weight:bold;">5</sup>
     <li id="5">Rom 9:11,13,16,18</li>
 </ol>
 
-<span style="font-weight:bold;">III. (Amended With Baptist 1689 3.3)</span> By the decree of God, for the manifestation of His glory, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">some men and angels<sup style="font-weight:bold;">6</sup> are predestinated, or foreordained to eternal life</a> through Jesus Christ,<sup style="font-weight:bold;">7.1</sup> to the praise of His glorious grace;<sup style="font-weight:bold;">7.2</sup> others being left to act in their sin to their just condemnation, to the praise of His glorious justice<sup style="font-weight:bold;">7.3</sup>
+<span style="font-weight:bold;">III. (Amended With Baptist 1689 3.3)</span> By the decree of God, for the manifestation of His glory, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">some men and angels<sup style="font-weight:bold;">6</sup> are predestinated, or foreordained to eternal life</a> through Jesus Christ,<sup style="font-weight:bold;">7.1</sup> to the praise of His glorious grace;<sup style="font-weight:bold;">7.2</sup> others being left to act in their sin to their just condemnation, to the praise of His glorious justice.<sup style="font-weight:bold;">7.3</sup>
 
 <!-- <span style="font-weight:bold;">III. (Amended With Baptist 1689 3.3)</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">are predestinated unto everlasting life.<sup style="font-weight:bold;">7</sup></a> -->
 
