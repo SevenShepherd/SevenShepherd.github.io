@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 02:00:00 -0500
+date: 2024-02-28 02:07:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -1723,7 +1723,7 @@ other way not prescribed in the holy Scripture.<sup style="font-weight:bold;">2<
 
 <ol start="1">
     <li id="1">Rom 1:20; Act 17:24; Psa 119:68; Jer 10:7; Psa 31:23; Psa 18:3; Rom 10:12; Psa 62:8; Jos 24:14; Mar 12:33</li> 
-    <li id="2">Deut 12:32; Mat 15:9; Act 17:25; Mat 4:9,10; Deut 4:15-20; Exo 20:4,5,6</li> 
+    <li id="2">Deut 12:32; Mat 15:9; Act 17:25; Mat 4:9,10; Deut 15:1-20; (see also Deut 4:15-20) Exo 20:4,5,6; Col 2:23</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> Religious worship is to be given to God, the Father, Son, and Holy
@@ -1732,7 +1732,7 @@ creature:<sup style="font-weight:bold;">4</sup> and, since the fall, not without
 mediation of any other but of Christ alone.<sup style="font-weight:bold;">5</sup>
 
 <ol start="3">
-    <li id="3">Mat 4:10; Joh 5:23; 2Co 13:14</li> 
+    <li id="3">Mat 4:10 with Joh 5:23 and 2Co 13:14</li> 
     <li id="4">Col 2:18; Rev 19:10; Rom 1:25</li> 
     <li id="5">Joh 14:6; 1Ti 2:5; Eph 2:18; Col 3:17</li> 
 </ol>
@@ -1783,9 +1783,9 @@ to be used in an holy and religious manner.<sup style="font-weight:bold;">26</su
     <li id="18">2Ti 4:2</li> 
     <li id="19">Jam 1:22; Act 10:33; Mat 13:19; Heb 4:2; Isa 66:2</li> 
     <li id="20">Col 3:16; Eph 5:19; Jam 5:13</li> 
-    <li id="21">Mat 28:19; 1Co 11:23,24,25,26,27,28; Act 2:42</li> 
-    <li id="22">Deut 6:13; Neh 10:29</li> 
-    <li id="23">Isa 19:21; Ecc 5:4,5</li> 
+    <li id="21">Mat 28:19; 1Co 11:23-29; Act 2:42</li> 
+    <li id="22">Deut 6:13 with Neh 10:29</li> 
+    <li id="23">Isa 19:21 with Ecc 5:4,5</li> 
     <li id="24">Joe 2:12; Est 4:16; Mat 9:15; 1Co 7:5</li>
     <li id="25">Psa 107; Est 9:22</li> 
     <li id="26">Heb 12:28</li> 
@@ -1825,7 +1825,7 @@ continued to the end of the world, as the Christian Sabbath.<sup style="font-wei
     <li id="34">Exo 20:8,10,11; Isa 56:2,4,6,7</li> 
     <li id="35">Gen 2:2,3; 1Co 16:1,2; Act 20:7</li> 
     <li id="36">Rev 1:10</li> 
-    <li id="37">Exo 20:8,10; Mat 5:17,18</li> 
+    <li id="37">Exo 20:8,10 with Mat 5:17,18</li> 
 </ol>
 
 <span style="font-weight:bold;">VIII.</span> This Sabbath is to be kept holy unto the Lord when men, after a
@@ -1837,8 +1837,8 @@ and private exercises of His worship, and in the duties of necessity
 and mercy.<sup style="font-weight:bold;">39</sup>
 
 <ol start="38">
-    <li id="38">Exo 20:8; Exo 16:23,25,26,29,30; Exo 31:15,16,17; Isa 58:13; Neh 13:15,16,17,18,19,21,22</li> 
-    <li id="39">Isa 58:13</li> 
+    <li id="38">Exo 20:8 with Exo 16:23,25,26,29,30; Exo 31:15-17; Isa 58:13; Neh 13:15-19,21,22</li> 
+    <li id="39">Isa 58:13; Matt 12:1-13</li> 
 </ol>
 
 <a name="CHXXII" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XXII.</a><br>
@@ -1882,7 +1882,7 @@ imposed by lawful authority.<sup style="font-weight:bold;">9</sup>
 <ol start="7">
     <li id="7">Exo 20:7; Jer 4:2</li> 
     <li id="8">Gen 24:2,3,5,6,8,9</li> 
-    <li id="9">Num 5:19,21; Neh 5:12; Exo 22:7,8,9,10,11</li> 
+    <li id="9">Num 5:19,21; Neh 5:12; Exo 22:7-11</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> An oath is to be taken in the plain and common sense of the
@@ -1903,7 +1903,7 @@ made with the like religious care, and to be performed with the like
 faithfulness.<sup style="font-weight:bold;">13</sup>
 
 <ol start="13">
-    <li id="13">Isa 19:21; Ecc 5:4,5,6; Psa 61:8,14</li> 
+    <li id="13">Isa 19:21; Ecc 5:4,5,6; Psa 61:8; Psa 66:13,14</li> 
 </ol>
 
 <span style="font-weight:bold;">VI.</span> It is not to be made to any creature, but to God alone:<sup style="font-weight:bold;">14</sup> and
@@ -1915,7 +1915,7 @@ as they may fitly conduce thereunto.<sup style="font-weight:bold;">15</sup>
 
 <ol start="14">
     <li id="14">Psa 76:11; Jer 44:25,26</li> 
-    <li id="15">Deut 23:21,22,23; Psa 50:14; Gen 28:20,21,22; 1Sa 1:11; Psa 66:13,14,3,4,5</li> 
+    <li id="15">Deut 23:21,22,23; Psa 50:14; Gen 28:20,21,22; 1Sa 1:11; Psa 66:13,14; Psa 132:2-5</li> 
 </ol>
 
 <span style="font-weight:bold;">VII.</span> No man may vow to do any thing forbidden in the Word of God,
@@ -1944,7 +1944,7 @@ power of the sword, for the defence and encouragement of them
 that are good, and for the punishment of evil doers.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Rom 13:1,2,3,4; 1Pe 2:13,14</li> 
+    <li id="1">Rom 13:1-4; 1Pe 2:13,14</li> 
 </ol> 
 
 <span style="font-weight:bold;">II.</span> It is lawful for Christians to accept and execute the office of a
@@ -1974,9 +1974,9 @@ provide that whatsoever is transacted in them be according to the
 mind of God.<sup style="font-weight:bold;">7</sup>
 
 <ol start="5">
-    <li id="5">2Ch 26:18; Mat 18:17; Mat 16:19; 1Co 12:28,29; Eph 4:11,12; 1Co 4:1,2; Rom 10:15; Heb 5:4</li> 
-    <li id="6">Isa 49:23; Psa 122:9; Ezr 7:23,25,26,27,28; Lev 24:16; Deut 13:5,6,12; 2Ki 18:4; 1Ch 13:1-8; 2Ki 24:1-25; 2Ch 34:33; 2Ch 15:12,13</li> 
-    <li id="7">2Ch 19:8,9,10,11; Mat 2:4,5</li> 
+    <li id="5">2Ch 26:18 with Mat 18:17 and Mat 16:19; 1Co 12:28,29; Eph 4:11,12; 1Co 4:1,2; Rom 10:15; Heb 5:4</li> 
+    <li id="6">Isa 49:23; Psa 122:9; Ezr 7:23,25-28; Lev 24:16; Deut 13:5,6,12; 2Ki 18:4; 1Ch 13:1-9; 2Ki 24:1-26; 2Ch 34:33; 2Ch 15:12,13</li> 
+    <li id="7">2Ch 19:8-11; 2Ch 29 and 2Ch 30; Mat 2:4,5</li> 
 </ol> 
 
 <span style="font-weight:bold;">IV.</span> It is the duty of people to pray for magistrates,<sup style="font-weight:bold;">8</sup>
@@ -2000,8 +2000,8 @@ them to be heretics, or upon any other pretence whatsoever.<sup style="font-weig
     <li id="10">Rom 13:6,7</li> 
     <li id="11">Rom 13:5; Tit 3:1</li> 
     <li id="12">1Pe 2:13,14,16</li> 
-    <li id="13">Rom 13:1; 1Ki 2:35; Act 25:9,10,11; 2Pe 2:1,10,11,8,9,10,11</li> 
-    <li id="14">2Th 2:4; Rev 13:15,16; 17</li>
+    <li id="13">Rom 13:1; 1Ki 2:35; Act 25:9,10,11; 2Pe 2:1,10,11; Jd 8-11</li> 
+    <li id="14">2Th 2:4; Rev 13:15-17</li>
 </ol>
 
 <a name="CHXXIV" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XXIV.</a><br>
@@ -2035,7 +2035,7 @@ marrying with such as are notoriously wicked in their life, or maintain
 damnable heresies.<sup style="font-weight:bold;">7</sup>
 
 <ol start="5">
-    <li id="5">Heb 13:4; 1Ti 4:3; 1Co 7:36,37,38; Gen 24:57</li> 
+    <li id="5">Heb 13:4; 1Ti 4:3; 1Co 7:36,37,38; Gen 24:57,58</li> 
     <li id="6">1Co 7:39</li> 
     <li id="7">Gen 34:14; Exo 34:16; Deut 7:3,4; 1Ki 11:4; Neh 13:25,26,27; Mal 2:11,12; 2Co 6:14</li> 
 </ol>
@@ -2049,9 +2049,9 @@ his own: nor the woman of her husband's kindred, nearer in blood
 than of her own.<sup style="font-weight:bold;">10</sup>
 
 <ol start="8">
-    <li id="8">1Co 5:1; Amo 2:7</li> 
-    <li id="9">Mar 6:18; Lev 18:24,25,26,27,28</li> 
-    <li id="10">Lev 20:19,20,21</li> 
+    <li id="8">Lev 18; 1Co 5:1; Amos 2:7</li> 
+    <li id="9">Mar 6:18; Lev 18:24-28</li> 
+    <li id="10">Lev 20:19-21</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> Adultery or fornication committed after a contract, being detected
@@ -2063,7 +2063,7 @@ to
 marry another, as if the offending party were dead.<sup style="font-weight:bold;">13</sup>
 
 <ol start="11">
-    <li id="11">Mat 1:18,19,20</li> 
+    <li id="11">Mat 1:18-20</li> 
     <li id="12">Mat 5:31,32</li> 
     <li id="13">Mat 19:9; Rom 7:2,3</li> 
 </ol>
@@ -2092,7 +2092,7 @@ into one, under Christ the Head thereof; and is the spouse, the body,
 the fulness of Him that fills all in all.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Eph 1:10,22,23,27,32; Col 1:18</li> 
+    <li id="1">Eph 1:10,22,23; 5:23,27,32; Col 1:18</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> The visible Church, which is also catholic or universal under the
@@ -2104,10 +2104,10 @@ the house and family of God,<sup style="font-weight:bold;">5</sup> out of which 
 no ordinary possibility of salvation.<sup style="font-weight:bold;">6</sup>
 
 <ol start="2">
-    <li id="2">1Co 1:2; 1Co 12:12,13; Psa 2:8; Rev 7:9; Rom 15:9,10,11,12</li> 
+    <li id="2">1Co 1:2; 1Co 12:12,13; Psa 2:8; Rev 7:9; Rom 15:9-12</li> 
     <li id="3">1Co 7:14; Act 2:39; Eze 16:20,21; Rom 11:16; Gen 3:15</li> 
     <li id="4">Mat 13:47; Isa 9:7</li> 
-    <li id="5">Eph 2:19</li> 
+    <li id="5">Eph 2:19; Eph 3:15</li> 
     <li id="6">Act 2:47</li> 
 </ol>
 
@@ -2129,7 +2129,7 @@ performed more or less purely in them.<sup style="font-weight:bold;">9</sup>
 
 <ol start="8">
     <li id="8">Rom 11:3,4; Rev 12:6,14</li> 
-    <li id="9">1Co 5:6,7</li> 
+    <li id="9">Rev 2 and Rev 3; 1Co 5:6,7</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> The purest Churches under heaven are subject both to mixture
@@ -2139,9 +2139,9 @@ shall be always a Church on earth to worship God according to His
 will.<sup style="font-weight:bold;">12</sup>
 
 <ol start="10">
-    <li id="10">1Co 13:12; Mat 13:24-30,,47</li> 
-    <li id="11">Rev 18:2; Rom 11:18,19,20,21,22</li> 
-    <li id="12">Mat 16:18; Psa 72:17; Mat 28:19,20</li> 
+    <li id="10">1Co 13:12; Rev 2 and Rev 3; Mat 13:24-30,47</li> 
+    <li id="11">Rev 18:2; Rom 11:18-22</li> 
+    <li id="12">Mat 16:18; Psa 72:17; Psa 102:28; Mat 28:19,20</li> 
 </ol>
 
 <span style="font-weight:bold;">VI.</span> There is no other head of the Church but the Lord Jesus Christ.<sup style="font-weight:bold;">13</sup> Nor can the Pope of Rome, in any sense, be head thereof; but is
@@ -2150,7 +2150,7 @@ himself, in the Church, against Christ and all that is called God.<sup style="fo
 
 <ol start="13">
     <li id="13">Col 1:18; Eph 1:22</li> 
-    <li id="14">Mat 23:8,9,10; 2Th 2:3,4,8,9; Rev 13:6</li> 
+    <li id="14">Mat 23:8-10; 2Th 2:3,4,8,9; Rev 13:6</li> 
 </ol>
 
 <a name="CHXXVI" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XXVI.</a><br>
@@ -2165,9 +2165,9 @@ obliged to the performance of such duties, public and private, as do
 conduce to their mutual good, both in the inward and outward man.<sup style="font-weight:bold;">3</sup>
 
 <ol start="1">
-    <li id="1">1Jo 1:3; Eph 3:16,17,18,19; Joh 1:16; Eph 2:5,6; Phi 3:10; Rom 6:5,6; 2Ti 2:12</li> 
-    <li id="2">Eph 4:15,16; 1Co 12:7; 1Co 3:21,22,23; Col 2:19</li> 
-    <li id="3">1Th 5:11,14; Rom 1:11,12,14; 1Jo 3:16,17,18; Gal 6:10</li> 
+    <li id="1">1Jo 1:3; Eph 3:16-19; Joh 1:16; Eph 2:5,6; Phil 3:10; Rom 6:5,6; 2Ti 2:12</li> 
+    <li id="2">Eph 4:15,16; 1Co 12:7; 1Co 3:21-23; Col 2:19</li> 
+    <li id="3">1Th 5:11,14; Rom 1:11,12,14; 1Jo 3:16-18; Gal 6:10</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> Saints by profession are bound to maintain an holy fellowship and
@@ -2191,7 +2191,7 @@ another, as saints, take away, or infringe the title or propriety which
 each man has in his goods and possessions.<sup style="font-weight:bold;">7</sup>
 
 <ol start="6">
-    <li id="6">Col 1:18,19; 1Co 8:6; Isa 42:8; 1Ti 6:15,16; Psa 45:7; Heb 1:8,9</li> 
+    <li id="6">Col 1:18,19; 1Co 8:6; Isa 42:8; 1Ti 6:15,16; Psa 45:7 with Heb 1:8,9</li> 
     <li id="7">Exo 20:15; Eph 4:28; Act 5:4</li> 
 </ol>
 
@@ -2210,7 +2210,7 @@ Christ, according to His Word.<sup style="font-weight:bold;">5</sup>
 <ol start="1">
     <li id="1">Rom 4:11; Gen 17:7,10</li> 
     <li id="2">Mat 28:19; 1Co 11:23</li> 
-    <li id="3">1Co 10:16,26; Gal 3:27</li> 
+    <li id="3">1Co 10:16; 1Co 11:25,26; Gal 3:27; Gal 3:17</li> 
     <li id="4">Rom 15:8; Exo 12:48; Gen 34:14</li> 
     <li id="5">Rom 6:3,4; 1Co 10:16,21</li> 
 </ol>
@@ -2270,12 +2270,12 @@ of the world.<sup style="font-weight:bold;">8</sup>
 <ol start="1">
     <li id="1">Mat 28:19</li> 
     <li id="2">1Co 12:13</li> 
-    <li id="3">Rom 4:11; Col 2:11,12</li> 
+    <li id="3">Rom 4:11 with Col 2:11,12</li> 
     <li id="4">Gal 3:27; Rom 6:5</li> 
     <li id="5">Tit 3:5</li> 
     <li id="6">Mar 1:4</li> 
     <li id="7">Rom 6:3,4</li> 
-    <li id="8">Mat 28:19</li> 
+    <li id="8">Mat 28:19,20</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> The outward element to be used in this sacrament is water,
@@ -2292,7 +2292,7 @@ Baptism is rightly administered by pouring, or sprinkling water upon
 the person.<sup style="font-weight:bold;">10</sup>
 
 <ol start="10">
-    <li id="10">Heb 9:10,19,20,21,22; Act 2:41; Mar 7:4</li> 
+    <li id="10">Heb 9:10,19,20,21,22; Act 2:41; Acts 16:33; Mar 7:4</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> Not only those that do actually profess faith in and obedience
@@ -2301,7 +2301,7 @@ are to be baptized.<sup style="font-weight:bold;">12</sup>
 
 <ol start="11">
     <li id="11">Mar 16:15,16; Act 8:37,38</li> 
-    <li id="12">Gen 17:7,9; Gal 3:9,14; Col 2:11,12; Act 2:38,39; Rom 4:11,12; 1Co 7:14; Mat 28:19; Mar 10:13,14,15,16; Luk 18:15</li> 
+    <li id="12">Gen 17:7,9 with Gal 3:9,14 and Col 2:11,12 and Act 2:38,39 and Rom 4:11,12; 1Co 7:14; Mat 28:19; Mar 10:13-16; Luk 18:15</li> 
 </ol>
 
 <span style="font-weight:bold;">V.</span> Although it is a great sin to contemn or neglect this ordinance,<sup style="font-weight:bold;">13</sup>
@@ -2310,7 +2310,7 @@ that no person can be regenerated, or saved, without it:<sup style="font-weight:
 all that are baptized are undoubtedly regenerated.<sup style="font-weight:bold;">15</sup>
 
 <ol start="13">
-    <li id="13">Luk 7:30; Exo 4:24,25,26</li> 
+    <li id="13">Luk 7:30; Exo 4:24-26</li> 
     <li id="14">Rom 4:11; Act 10:2,4,22,31,45,47</li> 
     <li id="15">Act 8:13,23</li> 
 </ol>
@@ -2349,7 +2349,7 @@ their communion with Him, and with each other, as members of His
 mystical body.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">1Co 11:23,24,25,26; 1Co 10:16,17,21; 1Co 12:13</li> 
+    <li id="1">1Co 11:23-26; 1Co 10:16,17,21; 1Co 12:13</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> In this sacrament, Christ is not offered up to His Father; nor any
@@ -2363,7 +2363,7 @@ His elect.<sup style="font-weight:bold;">4</sup>
 <ol start="2">
     <li id="2">Heb 9:22,25,26,28</li> 
     <li id="3">1Co 11:24,25,26; Mat 26:26,27</li> 
-    <li id="4">Heb 7:23,24,27,12,14,18</li> 
+    <li id="4">Heb 7:23,24,27; Heb 10:11,12,14,18</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> The Lord Jesus has, in this ordinance, appointed His ministers to
@@ -2375,7 +2375,7 @@ the communicants;<sup style="font-weight:bold;">5</sup> but to none who are not 
 congregation.<sup style="font-weight:bold;">6</sup>
 
 <ol start="5">
-    <li id="5">Mat 26:26,27,28; Mar 14:22,23,24; Luk 22:19,20; 1Co 11:23,24,25,26</li> 
+    <li id="5">Mat 26:26,27,28 and Mar 14:22-24 and Luk 22:19,20; 1Co 11:23-26</li> 
     <li id="6">Act 20:7; 1Co 11:20</li> 
 </ol>
 
@@ -2388,7 +2388,7 @@ the institution of Christ.<sup style="font-weight:bold;">9</sup>
 
 <ol start="7">
     <li id="7">1Co 10:6</li> 
-    <li id="8">Mar 14:23; 1Co 11:25,26,27,28,29</li> 
+    <li id="8">Mar 14:23; 1Co 11:25,26,27-29</li> 
     <li id="9">Mat 15:9</li> 
 </ol>
 
@@ -2400,7 +2400,7 @@ albeit, in substance and nature, they still remain truly and only bread
 and wine, as they were before.<sup style="font-weight:bold;">11</sup>
 
 <ol start="10">
-    <li id="10">Mat 26:26,27,28</li> 
+    <li id="10">Mat 26:26-28</li> 
     <li id="11">1Co 11:26,27,28; Mat 26:29</li> 
 </ol>
 
@@ -2413,7 +2413,7 @@ sacrament, and has been, and is, the cause of manifold
 superstitions; yes, of gross idolatries.<sup style="font-weight:bold;">12</sup>
 
 <ol start="12">
-    <li id="12">Act 3:21; 1Co 11:24,25,26; Luk 24:6,39</li> 
+    <li id="12">Act 3:21 with 1Co 11:24-26; Luk 24:6,39</li> 
 </ol>
 
 <span style="font-weight:bold;">VII.</span> Worthy receivers, outwardly partaking of the visible elements, in
@@ -2440,7 +2440,7 @@ without great sin against Christ, while they remain such, partake of
 these holy mysteries,<sup style="font-weight:bold;">15</sup> or be admitted thereunto.<sup style="font-weight:bold;">16</sup>
 
 <ol start="15">
-    <li id="15">1Co 11:27,28,29; 2Co 6:14,15,16</li> 
+    <li id="15">1Co 11:27,28,29; 2Co 6:14-16</li> 
     <li id="16">1Co 5:6,7,13; 2Th 3:6,14,15; Mat 7:6</li> 
 </ol>
 
@@ -2453,7 +2453,7 @@ appointed a government, in the hand of Church officers, distinct from
 the civil magistrate.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
-    <li id="1">Isa 9:6,7; 1Ti 5:17; 1Th 5:12; Act 20:17,18; Heb 13:7,17,24; 1Co 12:28; Mat 28:18,19,20</li> 
+    <li id="1">Isa 9:6,7; 1Ti 5:17; 1Th 5:12; Act 20:17,18; Heb 13:7,17,24; 1Co 12:28; Mat 28:18-20</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> To these officers the keys of the kingdom of heaven are
@@ -2464,7 +2464,7 @@ sinners, by the ministry of the Gospel; and by absolution from
 censures, as occasion shall require.<sup style="font-weight:bold;">2</sup>
 
 <ol start="2">
-    <li id="2">Mat 16:19,18; Joh 20:21,22,23; 2Co 2:6-8</li>
+    <li id="2">Mat 16:19; Matt 18:17,18; Joh 20:21-23; 2Co 2:6-8</li>
 </ol>
 
 <span style="font-weight:bold;">III.</span> Church censures are necessary, for the reclaiming and gaining of
@@ -2476,7 +2476,7 @@ upon the Church, if they should suffer His covenant, and the seals
 thereof, to be profaned by notorious and obstinate offenders.<sup style="font-weight:bold;">3</sup>
 
 <ol start="3">
-    <li id="3">1Cor 5; 1Ti 5:20; Mat 7:6; 1Ti 1:20; 1Co 11:27-34; Jd 23</li> 
+    <li id="3">1Cor 5; 1Ti 5:20; Mat 7:6; 1Ti 1:20; 1Co 11:27-34 with Jd 23</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> For the better attaining of these ends, the officers of the Church
@@ -2509,7 +2509,7 @@ persons upon delegation from their Churches, may meet together in
 such assemblies.<sup style="font-weight:bold;">3</sup>
 
 <ol start="2">
-    <li id="2">Isa 49:23; 1Ti 2:1,2; 2Ch 19:8,9,10,11; Mat 2:4,5; Pro 11:14</li> 
+    <li id="2">Isa 49:23; 1Ti 2:1,2; 2Ch 19:8,9,10,11; 2Ch 29-30; Mat 2:4,5; Pro 11:14</li> 
     <li id="3">Act 15:2,4,22,23,25</li> 
 </ol>
 
@@ -2525,7 +2525,7 @@ made, as being an ordinance of God appointed thereunto in His
 Word.<sup style="font-weight:bold;">4</sup>
 
 <ol start="4">
-    <li id="4">Act 15:15,19,24,27,28,29,30,31; Mat 18:17,18,19,20</li> 
+    <li id="4">Act 15:15,19,24,27,28,29,30,31; Ac 16:4; Mat 18:17-20</li> 
 </ol>
 
 <span style="font-weight:bold;">IV.</span> All synods or councils, since the apostles' times, whether general
@@ -2564,8 +2564,8 @@ Scripture acknowledges none.
 <ol start="1">
     <li id="1">Gen 3:19; Act 13:36</li> 
     <li id="2">Luk 23:43; Ecc 12:7</li> 
-    <li id="3">Heb 12:23; 2Co 5:1,6,8; Phi 1:23; Act 3:21; Eph 4:10</li> 
-    <li id="4">Luk 16:23,24; Act 1:25,6,7; 1Pe 3:19</li> 
+    <li id="3">Heb 12:23; 2Co 5:1,6,8; Phil 1:23 with Act 3:21 and Eph 4:10</li> 
+    <li id="4">Luk 16:23,24; Act 1:25; Jd 6,7; 1Pe 3:19</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> At the last day, such as are found alive shall not die, but be
@@ -2575,7 +2575,7 @@ be united again to their souls forever.<sup style="font-weight:bold;">6</sup>
 
 <ol start="5">
     <li id="5">1Th 4:17; 1Co 15:51,52</li> 
-    <li id="6">Job 19:26,27; 1Co 15:42,43,44</li> 
+    <li id="6">Job 19:26,27; 1Co 15:42-44</li> 
 </ol>
 
 <span style="font-weight:bold;">III.</span> The bodies of the unjust shall, by the power of Christ, be raised
@@ -2583,7 +2583,7 @@ to dishonor: the bodies of the just, by His Spirit, unto honor; and be
 made conformable to His own glorious body.<sup style="font-weight:bold;">7</sup>
 
 <ol start="7">
-    <li id="7">Act 24:15; Joh 5:28,29; 1Co 15:43; Phi 3:21</li> 
+    <li id="7">Act 24:15; Joh 5:28,29; 1Co 15:43; Phil 3:21</li> 
 </ol>
 
 <a name="CHXXXIII" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter XXXIII.</a><br>
@@ -2602,9 +2602,9 @@ have done in the body, whether good or evil.<sup style="font-weight:bold;">4</su
 
 <ol start="1">
     <li id="1">Act 17:31</li> 
-    <li id="2">Joh 5:27</li> 
-    <li id="3">1Co 6:3,6; 2Pe 2:4</li> 
-    <li id="4">2Co 5:10; Ecc 12:14; Rom 2:16,12; Mat 12:36,37</li> 
+    <li id="2">John 5:22,27</li> 
+    <li id="3">1Co 6:3; Jd 6; 2Pe 2:4</li> 
+    <li id="4">2Co 5:10; Ecc 12:14; Rom 2:16; Rom 14:10,12; Mat 12:36,37</li> 
 </ol>
 
 <span style="font-weight:bold;">II.</span> The end of God's appointing this day is for the manifestation of
@@ -2630,8 +2630,8 @@ hour the Lord will come; and may be ever prepared to say, Come
 Lord Jesus, come quickly, Amen.<sup style="font-weight:bold;">7</sup>
 
 <ol start="6">
-    <li id="6">2Pe 3:11,14; 2Co 5:10,11; 2Th 1:5,6,7; Luk 21:7,28; Rom 8:23,24,25</li> 
-    <li id="7">Mat 24:36,42,43,44; Mar 13:35,36,37; Luk 12:35,36; Rev 22:20</li> 
+    <li id="6">2Pe 3:11,14; 2Co 5:10,11; 2Th 1:5-7; Luk 21:7,28; Rom 8:23-25</li> 
+    <li id="7">Mat 24:36,42-44; Mar 13:35-37; Luk 12:35,36; Rev 22:20</li> 
 </ol>
 
 <!-- <sup style="font-weight:bold;">\d+</sup> (?:\d+)?[A-Z]+ \d+:\d+  -->
