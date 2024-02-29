@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647)"
-date: 2024-02-28 01:15:00 -0500
+date: 2024-02-28 01:25:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -97,7 +97,7 @@ those former ways of God's revealing His will unto His people being
 now ceased.<sup style="font-weight:bold;">6</sup>
 
 <ol>
-    <li id="1">Rom 2:14,15,20; Psa 19:1,2,3; Rom 1:32</li>
+    <li id="1">Rom 2:14,15; Ro 1:19,20; Psa 19:1,2,3; Rom 1:32 with Rom 2:1</li>
     <li id="2">1Co 1:21,14</li>
     <li id="3">Heb 1:1</li>
     <li id="4">Pro 22:19,20,21; Luk 1:3,4; Rom 15:4; Mat 4:4,7,10; Isa 8:19,20</li>
@@ -187,8 +187,8 @@ the general rules of the Word, which are always to be observed.<sup style="font-
  
 <ol start="12">
     <li id="12">2Ti 3:15,16,17; Gal 1:8,9; 2Th 2:2</li>
-    <li id="13">Joh 6:45; 1Co 2:9,10,11,12</li>
-    <li id="14">1Co 11:13,14,40</li>
+    <li id="13">Joh 6:45; 1Co 2:9-12</li>
+    <li id="14">1Co 11:13,14; 1Co 14:26,40</li>
 </ol>
 
 <span style="font-weight:bold;">VII.</span> All things in Scripture are not alike plain in themselves, nor alike
