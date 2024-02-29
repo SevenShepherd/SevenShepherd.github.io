@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 02:15:00 -0500
+date: 2024-02-28 02:25:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -375,7 +375,9 @@ such conditions.<sup style="font-weight:bold;">5</sup>
 </ol>
 
 <blockquote>
-<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">are predestinated unto everlasting life; and others foreordained to everlasting death.<sup style="font-weight:bold;">7</sup></a>
+<span style="font-weight:bold;">III.</span> By the decree of God, for the manifestation of His glory, some men and angels<sup style="font-weight:bold;">6</sup> are predestinated unto everlasting life; <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and others foreordained to everlasting death.<sup style="font-weight:bold;">7</sup></a>
+
+<br><br>
 
 <ol start="6">
     <li id="6">1Ti 5:21; Mat 25:41</li> 
