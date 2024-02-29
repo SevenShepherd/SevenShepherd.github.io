@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Larger Catechism (1648)"
-date: 2024-02-26 01:45:00 -0500
+title: "⛪ The Westminster Larger Catechism (1648) Amended For Amyraldism Side-By-Side With Original"
+date: 2024-02-26 02:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -130,12 +130,25 @@ A12. God’s decrees are the wise, free, and holy acts of the counsel of his wil
 1. Eph. 1:11; Rom. 9:14-15, 18; 11:33
 2. Eph. 1:4, 11; Rom. 9:22-23; Psa. 33:11
 
-<br><a name="Q13" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q13. What hath God especially decreed concerning angels and men?</a><br>
-A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup>
+
+<br><a name="Q13" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q13. What hath God especially decreed concerning angels and men?</a><br> A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup></a>
 
 1. I Tim. 5:21
 2. Eph. 1:4-6; II Thess. 2:13-14
-3. Rom. 9:17-18, 21-22; Matt. 11:25-26; II Tim. 2:20; Jude 1:4; I Peter 2:8
+
+<blockquote>
+<a name="Q13" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q13. What hath God especially decreed concerning angels and men?</a><br> A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup></a>
+
+<br><br>
+
+<ol>
+    <li>I Tim. 5:21</li>
+    <li>Eph. 1:4-6; II Thess. 2:13-14</li>
+    <li>Rom. 9:17-18, 21-22; Matt. 11:25-26; II Tim. 2:20; Jude 1:4; I Peter 2:8</li>
+</ol>
+</blockquote>
+
+<!--  -->
 
 <br><a name="Q14" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q14. How doth God execute his decrees?</a><br>
 A14. God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.<sup style="font-weight:bold;">1</sup>
