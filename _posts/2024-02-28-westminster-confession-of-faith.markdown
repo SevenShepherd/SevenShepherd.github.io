@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 02:45:00 -0500
+date: 2024-02-28 03:00:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -344,7 +344,6 @@ Ghost eternally proceeding from the Father and the Son.<sup style="font-weight:b
 <a name="CHIII" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter III.</a><br>
 <span style="font-style:italic;font-weight:bold;">Of God's Eternal Decree</span>
 
-
 <span style="font-weight:bold;">I.</span> <span style="font-weight:bold;font-size:1.2em;">God</span> from all eternity, did, by the most wise and holy counsel of His
 own will, freely, and unchangeably ordain whatsoever comes to
 pass;<sup style="font-weight:bold;">1</sup> yet so, as thereby neither is God the author of sin,<sup style="font-weight:bold;">2</sup> nor is
@@ -425,15 +424,24 @@ justified, adopted, sanctified, and saved, but the elect only.<sup style="font-w
     <li id="16">Joh 17:9; Rom 8:28-39; Joh 6:64,65; Jn 10:26; Jn 8:47; 1Jo 2:19</li> 
 </ol>
 
-<span style="font-weight:bold;">VII.</span> The rest of mankind God was pleased, according to the
-unsearchable counsel of His own will, whereby He extends or
-withholds mercy, as He pleases, for the glory of His sovereign power
-over His creatures, to pass by; and to ordain them to dishonor and
-wrath for their sin, to the praise of His glorious justice.<sup style="font-weight:bold;">17</sup>
+<span style="font-weight:bold;">VII.</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Removed.</a>
+
+<!-- <span style="font-weight:bold;">VII.</span> The rest of mankind, though not elected unto salvation, are not left without hope, for God, in His infinite wisdom and mercy, has provided<sup style="font-weight:bold;">17</sup>
+
+<ol start="17">
+    <li id="17">1Tim 2:3-4; 1Jn 2:2; 2Pe 3:9; John 6:37</li> 
+</ol> -->
+
+<blockquote>
+<span style="font-weight:bold;">VII.</span> The rest of mankind <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, to pass by; and to ordain them to dishonor and
+wrath for their sin, to the praise of His glorious justice.</a><sup style="font-weight:bold;">17</sup>
+
+<br><br>
 
 <ol start="17">
     <li id="17">Mat 11:25,26; Rom 9:17,18,21,22; 2Ti 2:19,20; Jd 4 NET; 1Pe 2:8</li> 
 </ol>
+</blockquote>
 
 <span style="font-weight:bold;">VIII.</span> The doctrine of this high mystery of predestination is to be
 handled with special prudence and care,<sup style="font-weight:bold;">18</sup>
