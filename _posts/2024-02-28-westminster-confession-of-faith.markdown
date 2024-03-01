@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Confession of Faith (1647) Amended With Baptist (1689) For Amyraldism Side-By-Side With Original With Emphasis On Minimalism"
-date: 2024-02-28 03:15:00 -0500
+title: "⛪ The Westminster Confession of Faith (1647) Amended With Baptist (1689) For Unconditional Single Election Side-By-Side With Original"
+date: 2024-02-28 03:25:00 -0500
 categories: creeds confessions
 published: true
 ---

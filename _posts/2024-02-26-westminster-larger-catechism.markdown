@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Larger Catechism (1648) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-26 02:25:00 -0500
+title: "⛪ The Westminster Larger Catechism (1648) Amended For Unconditional Single Election Side-By-Side With Original"
+date: 2024-02-26 02:35:00 -0500
 categories: creeds confessions
 published: true
 ---
