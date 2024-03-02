@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 03:45:00 -0500
+date: 2024-02-28 04:00:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -431,9 +431,9 @@ justified, adopted, sanctified, and saved, but the elect only.<sup style="font-w
     <li id="16">Joh 17:9; Rom 8:28-39; Joh 6:64,65; Jn 10:26; Jn 8:47; 1Jo 2:19</li> 
 </ol>
 
-<span style="font-weight:bold;">VII. (Amended With Baptist 1689 3.x)</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Removed completely.</a> One could drop <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">&ldquo;and to ordain&rdquo;</a> to create the following paragraph:
+<span style="font-weight:bold;">VII. (Amended With Baptist 1689 3.x)</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Removed completely.</a> One could drop <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">&ldquo;; and to ordain&rdquo;</a>, and add <a href="https://sevenshepherd.github.io/westminster-larger-catechism/#Q13" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">&ldquo;the rest&rdquo;</a>, which is wording from the &lsquo;Larger Catechism&rsquo;, to create the following paragraph:
 
-- &ldquo;The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">to pass by</a> them to dishonor and wrath for their sin, to the praise of His glorious justice.&rdquo;<sup style="font-weight:bold;">17</sup>
+- &ldquo;The rest of mankind God was pleased, according to the unsearchable counsel of His own will, whereby He extends or withholds mercy, as He pleases, for the glory of His sovereign power over His creatures, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">to pass by the rest</a> to dishonor and wrath for their sin, to the praise of His glorious justice.&rdquo;<sup style="font-weight:bold;">17</sup>
 
 <!-- <span style="font-weight:bold;">VII.</span> The rest of mankind, though not elected unto salvation, are not left without hope, for God, in His infinite wisdom and mercy, has provided<sup style="font-weight:bold;">17</sup>
 
