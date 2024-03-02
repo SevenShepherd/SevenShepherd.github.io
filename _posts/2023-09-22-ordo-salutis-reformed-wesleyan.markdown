@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Reformed Wesleyanism)"
-date: 2023-09-22 4:05:00 -0500
+date: 2023-09-22 4:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -40,8 +40,6 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">III. Ordo Salutis</a>
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
-
-The following is the Ordo Salutis for broadly reformed evangelicals. Amyraldians may have a further modified Ordo Salutis, but it should be very similar.
 
 1. **Election**
     - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
