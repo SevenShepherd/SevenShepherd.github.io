@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ For Many Are Called But Few Are Chosen"
-date: 2024-02-01 11:45:00 -0500
+date: 2024-02-01 12:00:00 -0500
 categories: election predestination
 published: true
 ---
@@ -54,6 +54,7 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
             - 2.1.1.2 <a href="#oden">Dr. Oden (Yale)</a>
         - 2.1.2 <a href="#molinism">Molinism "Middle Knowledge"</a>
             - 2.1.2.1 <a href="#wlc">Dr. Craig (Birmingham)</a>
+            - 2.1.2.2 <a href="#plantinga">Dr. Alvin Plantinga (Yale)</a>
     - 2.2 <a href="#systemless">Systemless / Armin.</a>
         - 2.2.1 <a href="#lennox" style="font-weight:bold;color:#20ac5d;">Dr. Lennox ("Oxbridge")</a>
         - 2.2.2 <a href="#heiser" style="font-weight:bold;color:#1d70b4;">Dr. Heiser (Wisconsin)</a>
