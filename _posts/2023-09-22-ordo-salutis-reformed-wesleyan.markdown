@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Reformed Wesleyanism)"
-date: 2023-09-22 4:00:00 -0500
+date: 2023-09-22 4:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -25,7 +25,7 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 <!-- <span style="font-style:Italic;font-size:1.6em;">Ordo Salutis</span> -->
 
 
-<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives of Amyraldism</a>
+<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives of Moderate Arminianism</a>
 
 - Total Depravity (Reformed)
 - Conditional Election (Arminian)
