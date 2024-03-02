@@ -14,12 +14,10 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives
+3. Moderate Distinctives (Mixture)
     - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
+    - [Reformed Wesleyan](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/)
     - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
-4. Denomination
-    - Reformed Baptist (SBC)
-    - Presbyterian (PCA)
 5. Eschatological System
     - Pretrib. Premil. Disp. (Previously)
     - Historic Premillennialism (Investigating)
@@ -28,6 +26,10 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
     - ESV Study Bible
     - NET Full Notes
     - NLT Filament (Parallel)
+
+<!-- 4. Denomination
+    - Reformed Baptist (SBC)
+    - Presbyterian (PCA) -->
 
 <!-- - [Reformed Wesleyan Foreknowledge](https://sevenshepherd.github.io/chosen/#smith) -->
 
