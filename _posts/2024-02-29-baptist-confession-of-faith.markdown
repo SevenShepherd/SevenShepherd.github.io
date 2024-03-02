@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ Baptist Confession Of Faith (1689)"
-date: 2024-02-29 01:00:00 -0500
+title: "⛪ Baptist Confession Of Faith (1689) Amended For Amyraldism Side-By-Side With Original"
+date: 2024-02-29 01:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -43,9 +43,9 @@ CHAPTER TITLES -->
 <a href="#CH6">Ch 6 &mdash; Of the Fall of Man, of Sin, and of the Punishment thereof</a><br>
 <a href="#CH7">Ch 7 &mdash; Of God’s Covenant</a><br>
 <a href="#CH8">Ch 8 &mdash; Of Christ the Mediator</a><br>
-<a href="#CH9">Ch 9 &mdash; Of Free Will</a><br>
+<a href="#CH9" style="font-weight:bold;color:ForestGreen;">Ch 9 &mdash; Of Free Will</a><br>
 <a href="#CH10">Ch 10 &mdash; Of Effectual Calling</a><br>
-<a href="#CH11">Ch 11 &mdash; Of Justification</a><br>
+<a href="#CH11" style="font-weight:bold;color:ForestGreen;">Ch 11 &mdash; Of Justification</a><br>
 <a href="#CH12">Ch 12 &mdash; Of Adoption</a><br>
 <a href="#CH13">Ch 13 &mdash; Of Sanctification</a><br>
 <a href="#CH14">Ch 14 &mdash; Of Saving Faith</a><br>
@@ -539,6 +539,8 @@ All of which are given by the inspiration of God, to be the rule of faith and li
 <a name="CH9" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Chapter 9.</a><br>
 <span style="font-style:italic;font-weight:bold;">OF FREE WILL</span>
 
+<span style="color:ForestGreen;">The view presented in the &lsquo;Baptist Confession&rsquo; is known as &ldquo;freedom of inclination.&rdquo;</span> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Amyraldians</a> <span style="color:ForestGreen;">can either hold to this view or</span> <a href="https://sevenshepherd.github.io/chosen/#carson" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">Compatibilism.</a>
+
 <span style="font-weight:bold;">Paragraph 1.</span> God has endued the will of man with that natural liberty and power of acting upon choice, that it is neither forced, nor by any necessity of nature determined to do good or evil.<sup style="font-weight:bold;">1</sup>
 
 <ol start="1">
@@ -640,13 +642,25 @@ the state of glory only.<sup style="font-weight:bold;">10</sup>
 	<li id="10">Rom. 3:26; Eph. 1:6,7, 2:7</li>
 </ol>
 
-<span style="font-weight:bold;">Paragraph 4.</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time die for their sins, and rise again for their justification;<sup style="font-weight:bold;">12</sup> nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
+<span style="font-weight:bold;">Paragraph 4.</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">die for the sins of the world</a><sup style="font-weight:bold;">12</sup>, and rise again for their justification; nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
+
+<ol start="11">
+	<li id="11">Gal. 3:8, 1 Pet. 1:2, 1 Tim. 2:6</li>
+	<li id="12">1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.</li>
+	<li id="13">Col. 1:21,22, Titus 3:4-7</li>
+</ol>
+
+<blockquote>
+<span style="font-weight:bold;">Paragraph 4.</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:FireBrick;text-decoration:underline;">die for their sins</a>, and rise again for their justification;<sup style="font-weight:bold;">12</sup> nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
+
+<br><br>
 
 <ol start="11">
 	<li id="11">Gal. 3:8, 1 Pet. 1:2, 1 Tim. 2:6</li>
 	<li id="12">Rom. 4:25</li>
 	<li id="13">Col. 1:21,22, Titus 3:4-7</li>
 </ol>
+</blockquote>
 
 <span style="font-weight:bold;">Paragraph 5.</span> God continues to forgive the sins of those that are justified,<sup style="font-weight:bold;">14</sup> and although they can never fall from the state of justification,<sup style="font-weight:bold;">15</sup> yet they may, by their sins, fall under God’s fatherly displeasure;<sup style="font-weight:bold;">16</sup> and in that condition they usually do not have the light of his countenance restored to them, until they humble themselves, beg pardon, and renew their faith and repentance.<sup style="font-weight:bold;">17</sup>
 
