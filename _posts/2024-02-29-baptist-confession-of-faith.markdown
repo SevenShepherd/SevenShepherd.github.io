@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Baptist Confession Of Faith (1689) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-29 01:05:00 -0500
+date: 2024-02-29 01:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -642,7 +642,7 @@ the state of glory only.<sup style="font-weight:bold;">10</sup>
 	<li id="10">Rom. 3:26; Eph. 1:6,7, 2:7</li>
 </ol>
 
-<span style="font-weight:bold;">Paragraph 4.</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">die for the sins of the world</a><sup style="font-weight:bold;">12</sup>, and rise again for their justification; nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
+<span style="font-weight:bold;">Paragraph 4. (Amended For Amyraldism)</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">die for the sins of the world</a><sup style="font-weight:bold;">12</sup>, and rise again for their justification; nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
 
 <ol start="11">
 	<li id="11">Gal. 3:8, 1 Pet. 1:2, 1 Tim. 2:6</li>
@@ -651,7 +651,7 @@ the state of glory only.<sup style="font-weight:bold;">10</sup>
 </ol>
 
 <blockquote>
-<span style="font-weight:bold;">Paragraph 4.</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:FireBrick;text-decoration:underline;">die for their sins</a>, and rise again for their justification;<sup style="font-weight:bold;">12</sup> nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
+<span style="font-weight:bold;">Paragraph 4. (Baptist Confession Of Faith (1689))</span> God did from all eternity decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and Christ did in the fullness of time <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:FireBrick;text-decoration:underline;">die for their sins</a>, and rise again for their justification;<sup style="font-weight:bold;">12</sup> nevertheless, they are not justified personally, until the Holy Spirit in time does actually apply Christ to them.<sup style="font-weight:bold;">13</sup>
 
 <br><br>
 
