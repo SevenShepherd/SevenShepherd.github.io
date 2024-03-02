@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ The Westminster Confession of Faith (1647) Amended With Baptist (1689) For Unconditional Single Election Side-By-Side With Original"
-date: 2024-02-28 03:25:00 -0500
+title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
+date: 2024-02-28 03:45:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -38,7 +38,7 @@ PROOFS FROM THE SCRIPTURE
 <a href="#CHVIII">Ch VIII &mdash; Of Christ the Mediator</a><br>
 <a href="#CHIX" style="font-weight:bold;color:ForestGreen;">Ch IX &mdash; Of Free Will</a><br>
 <a href="#CHX">Ch X &mdash; Of Effectual Calling</a><br>
-<a href="#CHXI">Ch XI &mdash; Of Justification</a><br>
+<a href="#CHXI" style="font-weight:bold;color:ForestGreen;">Ch XI &mdash; Of Justification</a><br>
 <a href="#CHXII">Ch XII &mdash; Of Adoption</a><br>
 <a href="#CHXIII">Ch XIII &mdash; Of Sanctification</a><br>
 <a href="#CHXIV">Ch XIV &mdash; Of Saving Faith</a><br>
@@ -1086,16 +1086,31 @@ justification of sinners.<sup style="font-weight:bold;">10</sup>
     <li id="10">Rom 3:26; Eph 2:7</li> 
 </ol>
 
-<span style="font-weight:bold;">IV.</span> God did, from all eternity, decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and
-Christ did, in the fullness of time, die for their sins, and rise again for
+
+<span style="font-weight:bold;">IV. (Amended For Amyraldism)</span> God did, from all eternity, decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and
+Christ did, in the fullness of time, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">die for the sins of the world</a><sup style="font-weight:bold;">12</sup>, and rise again for their justification: nevertheless, they are not justified, until the Holy
+Spirit does, in due time, actually apply Christ unto them.<sup style="font-weight:bold;">13</sup>
+
+<ol start="11">
+    <li id="11">Gal 3:8; 1Pe 1:2,19,20; Rom 8:30</li> 
+    <li id="12">1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.</li> 
+    <li id="13">Col 1:21,22; Gal 2:16; Tit 3:4-7</li> 
+</ol>
+
+<blockquote>
+<span style="font-weight:bold;">IV. (Westminster Confession of Faith (1647))</span> God did, from all eternity, decree to justify all the elect,<sup style="font-weight:bold;">11</sup> and
+Christ did, in the fullness of time, <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:FireBrick;text-decoration:underline;">die for their sins</a>, and rise again for
 their justification:<sup style="font-weight:bold;">12</sup> nevertheless, they are not justified, until the Holy
 Spirit does, in due time, actually apply Christ unto them.<sup style="font-weight:bold;">13</sup>
+
+<br><br>
 
 <ol start="11">
     <li id="11">Gal 3:8; 1Pe 1:2,19,20; Rom 8:30</li> 
     <li id="12">Gal 4:4; 1Ti 2:6; Rom 4:25</li> 
     <li id="13">Col 1:21,22; Gal 2:16; Tit 3:4-7</li> 
 </ol>
+</blockquote>
 
 <span style="font-weight:bold;">V.</span> God does continue to forgive the sins of those that are justified;<sup style="font-weight:bold;">14</sup>
 and although they can never fall from the state of justification,<sup style="font-weight:bold;">15</sup> yet
