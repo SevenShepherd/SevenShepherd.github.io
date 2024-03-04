@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Scots Confession (1560)"
-date: 2024-03-04 01:05:00 -0500
+date: 2024-03-04 01:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -39,7 +39,7 @@ published: true
 <a href="#CH17">Chapter 17. The Immortality of the Souls</a><br>
 <a href="#CH18">Chapter 18. Of the Notes by Which the True Kirk is Discerned from the False</a><br>
 <a href="#CH19">Chapter 19. The Authority of the Scriptures</a><br>
-<a href="#CH20">Chapter 20. Of General Councils, of Their Power, Authority, and Causes of T</a><br>
+<a href="#CH20">Chapter 20. Of General Councils, of Their Power, Authority, and Causes of Their Convention</a><br>
 <a href="#CH21">Chapter 21. Of the Sacraments</a><br>
 <a href="#CH22">Chapter 22. Of the Right Administration Of the Sacraments</a><br>
 <a href="#CH23">Chapter 23. To Whom the Sacraments Appertain</a><br>
