@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ First Helvetic Confession (1536)"
-date: 2024-03-04 01:00:00 -0500
+date: 2024-03-04 01:25:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -118,7 +118,7 @@ In order that we might have a full and perfect hope and confidence of immortalit
 
 1 Corinthians 15; Acts 1.
 
-There he sits, triumphant over death, sin, and hell; the conqueror and leader, our head, our true high priest at the right hand of the Father, defending our cause and pleading it perpetually, until he fashions us into the likeness to which we were created.2
+There he sits, triumphant over death, sin, and hell; the conqueror and leader, our head, our true high priest at the right hand of the Father, defending our cause and pleading it perpetually, until he fashions us into the likeness to which we were created.<sup style="font-weight:bold;">2</sup>
 
 Romans 8; Ephesians 1; Ephesians 4.
 
