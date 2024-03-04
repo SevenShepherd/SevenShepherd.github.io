@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Nicene Creed (A.D. 381)"
-date: 2024-03-04 02:00:00 -0500
+date: 2024-03-04 03:00:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -48,7 +48,7 @@ who proceeds from the Father and the Son;<br>
 who with the Father and the Son together is worshipped and glorified;<br>
 who spoke by the prophets.<br>
 
-And I believe one holy [catholic](https://sevenshepherd.github.io/heidelberg-catechism/#Q54)<sup style="font-weight:bold;">1</span> and apostolic church.<br>
+And I believe one holy [catholic](https://sevenshepherd.github.io/heidelberg-catechism/#Q54)<sup style="font-weight:bold;">1</sup> and apostolic church.<br>
 I acknowledge one baptism for the remission of sins;<br>
 and I look for the resurrection of the dead,<br>
 and the life of the world to come.
