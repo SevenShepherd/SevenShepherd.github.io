@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛏️ For Many Are Called But Few Are Chosen"
-date: 2024-02-01 12:00:00 -0500
+title: "⛏️ “For many are called, but few are chosen.” — Jesus"
+date: 2024-02-01 12:05:00 -0500
 categories: election predestination
 published: true
 ---
@@ -32,21 +32,23 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#single">Unconditional Single Election (Foreordination)</a>
-    - 1.1 <a href="#moderate-reformed">Moderately Reformed</a>
+    - 1.1 <a href="#moderate-reformed">Moderately Reformed (Inclination)</a>
         - 1.1.1 [5-Point Scholastic Calvinist](https://sevenshepherd.github.io/ordo-salutis-calvinist/)
             - 1.1.1.1 <a href="#packer">Dr. Packer (Oxford)</a>
             - 1.1.1.2 <a href="#grudem">Dr. Grudem (Cambridge)</a>
+            - 1.1.1.3 <a href="https://bible.org/article/my-understanding-biblical-doctrine-election">Dr. Wallace (Dallas)</a>
         - 1.1.2 [Amyraldian (4-Point Calvinist)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
             - 1.1.2.1 <a href="#demarest">Dr. Demarest (Manchester)</a>
             - 1.1.2.2 <a href="#bird">Dr. Bird (Queensland)</a>
-        - 1.1.3 <a href="#mod-reformed-compat" style="font-weight:bold;color:#1d70b4;">Compatibilism</a>
-            - 1.1.3.1 ⭐ <a href="#ross" style="font-weight:bold;color:#20ac5d;">Dr. Ross (Toronto)</a>
-            - 1.1.3.2 ⭐ <a href="#carson" style="font-weight:bold;color:#1d70b4;">Dr. Carson (Cambridge)</a>
-                - 1.1.3.2.1 <a href="#men-as-responsible" style="font-weight:bold;color:#1d70b4;">Men As Responsible</a>
-                - 1.1.3.2.2 <a href="#god-as-sovereign" style="font-weight:bold;color:#1d70b4;">God As Sovereign</a>
-            - 1.1.3.3 <a href="#martin">Dr. Martin (CCU)</a>
-            - 1.1.3.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
-            - 1.1.3.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
+    - 1.2 <a href="#mod-reformed-compat" style="font-weight:bold;color:#1d70b4;">Moderately Reformed (Compatibilism)</a>
+        - 1.2.1 [Amyraldian / More Moderate](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
+            - 1.2.1.1 ⭐ <a href="#ross" style="font-weight:bold;color:#20ac5d;">Dr. Ross (Toronto)</a>
+            - 1.2.1.2 ⭐ <a href="#carson" style="font-weight:bold;color:#1d70b4;">Dr. Carson (Cambridge)</a>
+                - 1.2.1.2.1 <a href="#men-as-responsible" style="font-weight:bold;color:#1d70b4;">Men As Responsible</a>
+                - 1.2.1.2.2 <a href="#god-as-sovereign" style="font-weight:bold;color:#1d70b4;">God As Sovereign</a>
+            - 1.2.1.3 <a href="#martin">Dr. Martin (CCU)</a>
+            - 1.2.1.4 <a href="#rhodes">Dr. Rhodes (Dallas)</a>
+            - 1.2.1.5 <a href="#geisler">Dr. Geisler (Loyola)</a>
 2. <a href="#conditional">Conditional Election (Foreknowledge)</a>
     - 2.1 <a href="#classical-arminian">Classical Arminianism</a> ([info](https://sevenshepherd.github.io/ordo-salutis-arminian/))
         - 2.1.1 Libertarian Free Will
@@ -707,7 +709,7 @@ Compatibilism is the belief that free will and determinism are compatible and ca
 
 <!-- > ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, one interprets sovereignty as determinism. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) -->
 
-<a name="ross" href="#contents" style="font-size:1.2em;">1.1.3.1 Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)</a>
+<a name="ross" href="#contents" style="font-size:1.2em;">1.2.1.1 Dr. Hugh Ross (PhD, Astrophysicist at University of Toronto)</a>
 
 > Question of the Week: Of the main sotierology models within evangelicalism to which do you adhere: Calvinism, Arminianism, or Traditionalism?
 >
@@ -717,12 +719,12 @@ I wrote an entire book addressing the posed question: Beyond the Cosmos, now in 
 >
 &mdash; [Dr. Hugh Ross (Ph.D., Astrophysicist at the University of Toronto)](https://m.facebook.com/RTBHughRoss/posts/3266294876781927/)
 
-<a name="carson" href="#contents" style="font-size:1.2em;">1.1.3.2 Dr. D.A. Carson (PhD, University of Cambridge)</a>
+<a name="carson" href="#contents" style="font-size:1.2em;">1.2.1.2 Dr. D.A. Carson (PhD, University of Cambridge)</a>
 
 <!-- <a name="carson-contents" style="color:black;">Carson Contents</a> -->
 
-- 1.1.3.2.1 <a href="#men-as-responsible">Men As Responsible</a>
-- 1.1.3.2.2 <a href="#god-as-sovereign">God As Sovereign</a>
+- 1.2.1.2.1 <a href="#men-as-responsible">Men As Responsible</a>
+- 1.2.1.2.2 <a href="#god-as-sovereign">God As Sovereign</a>
 
 > I frankly doubt that finite human beings can cut the Gordian knot; at least, this finite human being cannot. The sovereignty&ndash;responsibility tension is not a problem to be solved; rather, it is a framework to be explored. &mdash; Dr. D.A. Carson (PhD, University of Cambridge), Divine Sovereignty & Human Responsibility. p. 2.
 
@@ -854,7 +856,7 @@ That brings up the final point which emerges from this survey of the Old Testame
 
 <!-- Carson could be a compatibilist on this issue, see <a href="#lennox">Lennox</a>. See <a href="#wlc">Craig</a> also. -->
 
-<a name="martin" href="#contents" style="font-size:1.2em;">1.1.3.3 Dr. Walter Martin (PhD, University of California Coast)</a>
+<a name="martin" href="#contents" style="font-size:1.2em;">1.2.1.3 Dr. Walter Martin (PhD, University of California Coast)</a>
 
 <!-- Martin is quoted by Rhodes, who is a moderate 4-point Calvinist (Amyraldian), so it would seem that Martin is reformed leaning. What we do know for certain is that he was a moderate who emphasized God's sovereignty over human free will, but also, like Rhodes, believes in free will. This is known as compatibilism. -->
 
@@ -881,7 +883,7 @@ That brings up the final point which emerges from this survey of the Old Testame
 
 > &ldquo;I am a charismatic Baptist&mdash;**just like Calvin**, Luther, Zwingli, Knox&mdash;all the reformers. I believe the gifts of the Spirit are here until Jesus Christ returns. **I am a true Charismatic.** I am not a Pentecostal Charismatic. I have never spoken in tongues but **I am willing to receive from the Holy Spirit any gift He wants to give me, and anybody that is not, is an <span style="color:purple;">extremely foolish Christian</span>.**&rdquo; &mdash; <a href="#martin">Dr. Walter Martin (PhD, University of California Coast)</a>
 
-<a name="rhodes" href="#contents" style="font-size:1.2em;">1.1.3.4 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
+<a name="rhodes" href="#contents" style="font-size:1.2em;">1.2.1.4 Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)</a>
 
 <!-- This [video](https://youtu.be/pTuY7ZZ_6jk?si=FiHfLDtfIHdhO3y_&t=106) is also useful to pin down Ron's compatibilism and [amyraldism](https://www.ronrhodes.org/the-extent-of-the-atonement) (4-point Calvinism). -->
 
@@ -897,7 +899,7 @@ That brings up the final point which emerges from this survey of the Old Testame
 
 > [@2:58](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178) ... Arminians will come in and say that God's predetermination or election is based on his foreknowledge in other words God looks down through the corridors of time and decides who's going to respond positively to the gospel and then he will elect those individuals to salvation **the problem with that view is that the Bible doesn't indicate that God just knows things in advance but he actually determines things in advance he determines what will happen** ... &mdash; [Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)](https://youtu.be/pTuY7ZZ_6jk?si=T6cof83GXHWDgKBB&t=178)
 
-<a name="geisler" href="#contents" style="font-size:1.2em;">1.1.3.5 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
+<a name="geisler" href="#contents" style="font-size:1.2em;">1.2.1.5 Dr. Norman Geisler (PhD, Philosophy at University of Loyola; MA, Theology at Wheaton)</a>
 
 > **Sovereignty and free will. Is it one or the other, or is it both one and the other? The Bible says both.** In the first chapter we saw that God is sovereign over all things, including human events and free choices. Nothing catches God by surprise, and nothing is outside His control (see chapter 1). On the other hand, in this chapter we have seen that human beings, even in their fallen state, have the God-given power of free choice. &mdash; Chosen but free.
 
