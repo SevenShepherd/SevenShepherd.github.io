@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛏️ “For many are called, but few are chosen.” — Jesus"
-date: 2024-02-01 12:15:00 -0500
+date: 2024-02-01 12:25:00 -0500
 categories: election predestination
 published: true
 ---
@@ -58,7 +58,7 @@ This is a compilation of quotations and excerpts pertaining to the doctrine of e
         - 2.2.2 <a href="#plantinga">Dr. Alvin Plantinga (Yale)</a>
     - 2.3 <a href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism (Libertarian)</a>
         - 2.3.1 <a href="#ashby">Dr. Ashby (Bowling Green State)</a>
-    - 2.4 <a href="#mod-arm-eternal" style="font-weight:bold;color:#1d70b4;">Moderate Arm. / Calminian (Compatibilist)</a>
+    - 2.4 <a href="#mod-arm-eternal" style="font-weight:bold;color:#1d70b4;">Moderate Arm. / Calminian (Compatibilism)</a>
         - 2.4.1 <a href="#smith" style="font-weight:bold;color:#1d70b4;">⭐ Chuck Smith</a>
         - 2.4.2 <a href="#missler">Chuck Missler</a>
     - 2.5 <a href="#systemless">Systemless / Arm.</a>
@@ -695,7 +695,7 @@ talk of the election of a class, it must be as the sum of elect individuals.
 
 <!-- Reformed compatibilists are moderate 4-point Calvinists or amyraldians who also hold God's sovereignty (Calvinism) and to libertarian versions of free will (Arminian), but lean reformed. They're similar to <a href="#mod-arm-compat">Moderate Arminian Compatibilists</a>, but they lean reformed instead. -->
 
-Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosphical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately reformed views in the sense that they do not view election as being based on human free will or foreknowledge of forseen faith, but they still acknowledge that human free will exists.
+Compatibilism is the belief that free will and determinism are compatible and can coexist in a philosophical sense simultaneously. In a theological context, God's sovereignty and human responsibility would be mutually compatible. In other words, God is absolutely sovereign and humans have libertarian free will. This group of theologians are compatibilists that hold moderately reformed views in the sense that they do not view election as being based on human free will or foreknowledge of forseen faith, but they still acknowledge that human free will exists.
 
 **Prredestination, Election, & Determinism**
 
@@ -1171,9 +1171,9 @@ Point 3: seems to be a critique on Hyper-Calvinism (supralapsarianism) double-pr
 
 <a name="mod-arm-eternal" href="#contents" style="font-size:1.6em;">2.4 Moderate or Reformed Arminianism w/ Eternal Security</a>
 
-I describe this group as compatibilists in a philosophically non-traditional way. If they do believe in determinism, they interpret sovereignty as determinism. They do believe that God is absolutely sovereign, while maintaining moderately arminian views in the sense that they view election as being based on foreknowledge of forseen faith.
+The only difference between moderately arminian compatibilists and the <a href="#mod-reformed-compat">moderately reformed compatibilists</a>, is that this group bases election on foreknowledge of forseen faith. The other group does not.
 
-> ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, **one interprets sovereignty as determinism**. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University)
+<!-- > ... the term “compatibilism”, as we mentioned earlier, is normally used by philosophers who hold that human freedom and responsibility is compatible with determinism – a very different matter; unless, of course, **one interprets sovereignty as determinism**. &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University) -->
 
 <!-- Like <a href="#mod-reformed-compat">Reformed Compatibilism</a> this group believes in God's sovereignty (Calvinists), but also free will (Arminians). The difference between the reformed compatibilists and these moderate arminian compatibilists is a slight lean to one side or the other. You'll find those mentioned here will hold to more reformed concepts like eternal security, unlike classical arminians, but still lean arminian in a moderate sense. -->
 
