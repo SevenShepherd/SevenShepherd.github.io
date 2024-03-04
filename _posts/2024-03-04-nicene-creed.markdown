@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Nicene Creed (A.D. 381)"
-date: 2024-03-04 03:00:00 -0500
+date: 2024-03-04 03:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -59,7 +59,7 @@ Amen.
 
 <br>
 
-<sup style="font-weight:bold;">1</sup> Catholic in this sense means &ldquo;*Universal*&rdquo;, and is referring to all believers throughout all ages. This is not speaking about the Roman Catholic church as an institution. It's also worth noting that Ancient Catholic Orthodoxy is not Roman Catholicism.
+<sup style="font-weight:bold;">1</sup> <sup>Catholic in this sense means &ldquo;*Universal*&rdquo;, and is referring to all believers throughout all ages. This is not speaking about the Roman Catholic church as an institution. It's also worth noting that [Ancient Catholic Orthodoxy](https://www.crossway.org/articles/10-things-you-should-know-about-reformed-theology-2/) is not Roman Catholicism.</sup>
 
 <!-- We believe in one God,
       the Father almighty,
