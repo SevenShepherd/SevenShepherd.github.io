@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 04:05:00 -0500
+date: 2024-02-28 04:15:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -1655,8 +1655,6 @@ his being under the law: and not under grace.<sup style="font-weight:bold;">20</
     <li id="18">Lev 26:1-14 with 2Co 6:16; Eph 6:2,3; Psa 37:11; Mat 5:5; Psa 19:11</li> 
     <li id="19">Gal 2:16; Luk 17:10</li> 
     <li id="20">Rom 6:12,14; 1Pe 3:8-12; Psa 34:12-16; Heb 12:28,29</li> 
-    <li id="21">Gal 3:21</li> 
-    <li id="22">Eze 36:27; Heb 8:10; Jer 31:33</li> 
 </ol>
 
 <span style="font-weight:bold;">VII.</span> Neither are the forementioned uses of the law contrary to the

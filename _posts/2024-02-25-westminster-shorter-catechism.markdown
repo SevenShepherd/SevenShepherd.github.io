@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism (1648)"
-date: 2024-02-25 02:25:00 -0500
+date: 2024-02-25 02:35:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -654,7 +654,7 @@ A. Every sin deserveth God’s wrath and curse, both in this life, and that whic
 A. To escape the wrath and curse of God, due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life<sup style="font-weight:bold;">1</sup>, with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption<sup style="font-weight:bold;">2</sup>.
 
 1. Mark 1:15; Acts 20:21
-[2]: Acts 2:38; 1 Cor. 11:24-25; Col. 3:16
+2. Acts 2:38; 1 Cor. 11:24-25; Col. 3:16
 
 <br><a name="Q86" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q86. What is faith in Jesus Christ?</a><br>
 
