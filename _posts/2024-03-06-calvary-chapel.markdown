@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 1:35:00 -0500
+date: 2024-03-06 1:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -33,7 +33,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The Calvary Chapel is essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) w/ Eternal Security. Those they are nondenominational, they are akin to a Pentecostal / Baptist Hybrid. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was.
+While they are basic protestant and non-denominational, they are reminiscent to a Pentecostal / Baptist Hybrid. The Calvary Chapel distinctives are essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **w/ Eternal Security**. It's very moderate. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was. Unfortunately, misguided modern movements have hijacked many of them.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
