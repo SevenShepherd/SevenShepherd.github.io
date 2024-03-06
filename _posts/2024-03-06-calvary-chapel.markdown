@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 1:25:00 -0500
+date: 2024-03-06 1:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -31,9 +31,9 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 <a name="calvary_chapel" href="#contents" style="font-size:2.1em;">I. Calvary Chapel</a>
 
-<!-- <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The Calvary Chapel is essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) w/ Eternal Security.
+The Calvary Chapel is essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) w/ Eternal Security. Those they are nondenominational, they are akin to a Pentecostal / Baptist Hybrid. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
@@ -46,7 +46,7 @@ The Calvary Chapel is essentially [Reformed Arminianism](https://sevenshepherd.g
 
 <a name="repentance" href="#contents" style="font-size:1.6em;">2.2 Repentance</a>
 
-See [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
+See [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/).
 
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
