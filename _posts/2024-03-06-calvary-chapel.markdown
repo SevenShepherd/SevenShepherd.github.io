@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 2:05:00 -0500
+date: 2024-03-06 2:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -28,7 +28,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
     - 2.8 <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
         - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
-3. <a href="#OrdoSalutis">Ordo Salutis</a>
+<!-- 3. <a href="#OrdoSalutis">Ordo Salutis</a> -->
 
 <!-- - Progressive Sanctification (Reformed) -->
 
@@ -149,7 +149,7 @@ Chuck Smith -->
 
 <a name="compatibilist" href="#contents" style="font-size:1.6em;">2.8 Compatibilist View Of Free Will</a>
 
-More on [compatibilism](https://sevenshepherd.github.io/chosen/#carson).
+More on [**compatibilism**](https://sevenshepherd.github.io/chosen/#carson). There are several ways a person can view free will in relation to Biblical teaching. **(1)** Soft-determinism of the Calvinists called &ldquo;*freedom of inclination.*&rdquo; **(2)** Free agency of the Arminians called &ldquo;*Libertarian free will*&rdquo; in which you are so free that you can forfeit salvation. **(3)** The moderately reformed positon of &ldquo;*[**compatibilism**](https://sevenshepherd.github.io/chosen/#carson)*&rdquo; which joins the aforementioned options. **(4)** the Wesleyan-Arminin version of compatibilism call &ldquo;*Molinism*&rdquo;. I think Chuck Smith selected the best option when he described compatibilism.
 
 > ... **It seems that the sovereignty of God and human responsibility are like two parallel lines that do not seem to intersect within our finite minds.** God's ways are "past finding out" (Romans 11:33), and the Bible warns us to "lean not unto thy own understanding" (Proverbs 3:5). To say what God says in the Bible - no more and no less - is not always easy, comfortable, or completely understandable. But Scripture tells us that the wisdom from above will be loving and kind toward all, seeking the unity of the believers, not trying to find ways to divide and separate from one another. May God help us all to love each other, to be kind, tenderhearted, forgiving one another as Jesus Christ has forgiven us (Ephesians 4:32)! In difficult doctrinal matters, may we have gracious attitudes and humble hearts, desiring most of all to please Him who has called us to serve Him in the body of Christ. Discussion - YES! Disagreements - YES! Division - NO!
 >
@@ -167,8 +167,9 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 1. **Election**
 
     <a href="#election">Wesleyan Foreknowledge view of election.</a>
+    - With regard for foreseen human faith, God in eternity past chose those whom he foresaw would have faith in him to inherit eternal life. This is known as the Wesleyan Foreknowledge view of election.
 
-    > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). ...  Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+        > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). ...  Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
     >
     &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 
