@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 2:00:00 -0500
+date: 2024-03-06 2:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -24,7 +24,10 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
         - &ldquo;*for the whole world*&rdquo;
     - 2.6 <a href="#grace">Resistible Grace (A)</a>
     - 2.7 <a href="#perseverance">Perseverance of The Saints (MR)</a>
-        - &ldquo;*We do believe in the perseverance of the saints (true believers)...*&rdquo;
+        - &ldquo;*We do believe in the perseverance of the saints ...*&rdquo;
+    - 2.8 <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
+        - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
+    
 3. <a href="#OrdoSalutis">Ordo Salutis</a>
 
 <!-- - Progressive Sanctification (Reformed) -->
@@ -144,18 +147,28 @@ Yours in love,
 >
 Chuck Smith -->
 
-<a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">III. Ordo Salutis</a>
+<a name="compatibilist" href="#contents" style="font-size:1.6em;">2.8 Compatibilist View Of Free Will</a>
+
+More on [compatibilism](https://sevenshepherd.github.io/chosen/#carson).
+
+> ... **It seems that the sovereignty of God and human responsibility are like two parallel lines that do not seem to intersect within our finite minds.** God's ways are "past finding out" (Romans 11:33), and the Bible warns us to "lean not unto thy own understanding" (Proverbs 3:5). To say what God says in the Bible - no more and no less - is not always easy, comfortable, or completely understandable. But Scripture tells us that the wisdom from above will be loving and kind toward all, seeking the unity of the believers, not trying to find ways to divide and separate from one another. May God help us all to love each other, to be kind, tenderhearted, forgiving one another as Jesus Christ has forgiven us (Ephesians 4:32)! In difficult doctrinal matters, may we have gracious attitudes and humble hearts, desiring most of all to please Him who has called us to serve Him in the body of Christ. Discussion - YES! Disagreements - YES! Division - NO!
+>
+**Jesus said, "By their fruit ye shall know them."** ...
+>
+&mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Perseverance. p. 16.
+
+
+<!-- <a name="OrdoSalutis" href="#contents" style="font-size:2.1em;">III. Ordo Salutis</a>
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century. **This article is not an endorsement.**
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
 1. **Election**
-    <!-- - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
 
-    - <a href="#election">Wesleyan Foreknowledge view of election.</a>
+    <a href="#election">Wesleyan Foreknowledge view of election.</a>
 
-        > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). ...  Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+    > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). ...  Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
     >
     &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 
@@ -181,24 +194,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 10. **Preservation and perseverance**
     - See <a href="#perseverance">Perseverance of The Saints</a>.
 11. **Glorification**
-    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
-
-<!-- 1. **Universal, external calling**
-    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
-        
-2. **Repentance and faith**
-    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
-        >⚠️ Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. p. 35.
-
-3. **Justification**
-    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
-4. **Sanctification**
-    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
-        >⚠️ Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” p. 35.
-
-5. **Perseverance**
-    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35. -->
+    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ.  -->
         
 
 <!-- <span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span> -->
