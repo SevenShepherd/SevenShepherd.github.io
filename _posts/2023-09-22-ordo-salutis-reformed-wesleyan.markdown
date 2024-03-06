@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Reformed Wesleyanism)"
-date: 2023-09-22 4:35:00 -0500
+date: 2023-09-22 4:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -43,46 +43,27 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 
 <!-- - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
 
+
 1. **Election**
     - With regard for foreseen human faith, God in eternity past chose those whom he foresaw would have faith in him to inherit eternal life. This is known as the Wesleyan Foreknowledge view of election.
 2. **Effectual calling**
     - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
-3. **Belief in the Gospel**
-    - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
+    - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
+2. **Regeneration**
+    - Without any human assistance the third person of the Trinity creates new spiritual life, including God-honoring dispositions, affections, and habits.
+3. **Faith**
+    - Having been granted new spiritual life, the elect believe the truths of the Gospel and trust Jesus Christ as Savior. Faith is viewed as a gift and enablement of God, indeed as a consequence of new spiritual birth.
 4. **Repentance**
-    - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
-5. **Trust in Christ**
-    - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
-6. **Regeneration**
-    - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
-7. **Union with Christ**
-    - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
-8. **Justification**
-    - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
-9. **Sanctification**
-    - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
-10. **Preservation and perseverance**
-    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
-11. **Glorification**
-    - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
+    - Here believers grieve for sins committed and deliberately turn from all known disobedience. This response likewise is a divine enablement.
+5. **Justification**
+    - On the basis of Christ’s completed work, the Father reckons to believers the righteousness of his Son, remits sins, and admits the same to the divine favor. Justification is the legal declaration of believing sinners’ right standing with God.
+6. **Sanctification**
+    - The Holy Spirit works in justified believers the will and the power progressively to renounce sin and to advance in spiritual maturity and Christlikeness. By the process of sanctification God makes believers experientially holy.
+7. **Preservation and perseverance**
+    - &ldquo;Reformed Arminianism also holds to the perseverance of the saints through faith alone—another tenet of Calvinism—with a caveat. Reformed Arminians believe that Christians can lose their salvation, but only by renouncing their faith. Reformed Arminians reject the idea, found in traditional Wesleyanism, that falling into sin will cause one to fall from grace until repentance restores the sinner back to a state of grace. In other words, according to Reformed Arminianism, a believer cannot fall out of salvation, but he can willingly forfeit it, and once he apostatizes, he is **lost forever**.&rdquo; &mdash; [GotQuestions.org](https://www.gotquestions.org/Reformed-Arminianism.html)
+8. **Glorification**
+    - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
 
-<!-- 1. **Universal, external calling**
-    - God extends the call to salvation to all by a general work of the Spirit on the soul and by explicit Gospel proclamation. [Prevenient or “exciting” grace](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which allegedly proceeds universally from the Cross, alleviates the effects of depravity, thereby freeing all persons for moral and spiritual action.
-        
-2. **Repentance and faith**
-    - Since every person is transformed by prevenient grace, the human will is capable of freely turning from sin unto Christ. Given the fact that God commands sinners to work out their own salvation (Phil 2:12), conversion is a **synergistic activity**.
-        >⚠️ Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. p. 35.
-
-3. **Justification**
-    - Since God does not declare anyone righteous in principle who is not so in practice, the forensic view of justification (the imputation of Christ’s righteousness to believing sinners) often is rejected. Arminians usually define justification as forgiveness of sins that in turn fosters the moral government of the universe.
-4. **Sanctification**
-    - Believers should seek that instantaneous, second blessing experience by which the Spirit eradicates sin and fills the heart with perfect love for God and others. This second work of grace is denoted “entire sanctification,” “Christian perfection,” and the “fullness of the blessing.” The term regeneration often is used inclusively to embrace the broad movement of salvation from conversion to sanctification.
-        >⚠️ Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” p. 35.
-
-5. **Perseverance**
-    - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
-        >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35. -->
-        
 
 <span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
 
