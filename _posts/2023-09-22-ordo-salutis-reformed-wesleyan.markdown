@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Reformed Wesleyanism)"
-date: 2023-09-22 5:00:00 -0500
+date: 2023-09-22 5:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -69,7 +69,7 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 
 > Under construction
 
-<br>
+<!-- <br>
 
 ---
 
@@ -77,7 +77,7 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 
 <a name="cite" href="#contents" style="font-size:2.1em;">VII. Sources & Citations</a>
 
-<sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44.
+<sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44. -->
 
 <script>
     var refTagger = {
