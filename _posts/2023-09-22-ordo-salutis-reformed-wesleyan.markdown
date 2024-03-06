@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Reformed Wesleyanism)"
-date: 2023-09-22 4:25:00 -0500
+date: 2023-09-22 4:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -27,11 +27,11 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Distinctives of Moderate Arminianism</a>
 
-- Total Depravity (Moderately Reformed)
+- Total Depravity (Reformed)
 - Conditional Election (Wesleyan / Armin.)
 - Unlimited Atonement (Moderately Reformed or Arm.)
 - Resistible Grace (Arminian)
-- Perseverance of The Saints (Modified Reformed)
+- Perseverance of The Saints (Modified)
     - Progressive Sanctification (Reformed)
 
 > Reformed Arminians reject the idea, found in traditional Wesleyanism, that falling into sin will cause one to fall from grace until repentance restores the sinner back to a state of grace. In other words, according to Reformed Arminianism, a believer cannot fall out of salvation, but he can willingly forfeit it, and once he apostatizes, he is **lost forever**. &mdash; [GotQuestions.org](https://www.gotquestions.org/Reformed-Arminianism.html)
@@ -41,8 +41,10 @@ Reformed Wesleyanism, Reformed Arminianism, Calvinistic Arminianism, or Moderate
 
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
+<!-- - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
+
 1. **Election**
-    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
+    - With regard for foreseen human faith, God in eternity past chose those whom he foresaw would have faith in him to inherit eternal life. This is known as the Wesleyan Foreknowledge view of election.
 2. **Effectual calling**
     - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
 3. **Belief in the Gospel**
