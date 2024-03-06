@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 1:45:00 -0500
+date: 2024-03-06 2:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -33,7 +33,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-While they are basic protestant and non-denominational, they are reminiscent to a Pentecostal / Baptist Hybrid. The Calvary Chapel distinctives are essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **w/ Eternal Security**. It's very moderate. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was. Unfortunately, misguided modern movements have hijacked many of them.
+While they are basic protestant and non-denominational, they are reminiscent of a Pentecostal / Baptist Hybrid. The Calvary Chapel distinctives are essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **w/ Eternal Security**. It's very moderate. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was. Unfortunately, misguided modern movements have hijacked many of them.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
@@ -151,13 +151,23 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
 
 1. **Election**
-    - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
+    <!-- - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life. -->
+
+    - <a href="#election">Wesleyan Foreknowledge view of election.</a>
+
+        > **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). ...  Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+    >
+    &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+
 2. **Effectual calling**
     - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
 3. **Belief in the Gospel**
     - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
 4. **Repentance**
     - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
+
+        > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
+
 5. **Trust in Christ**
     - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
 6. **Regeneration**
@@ -169,7 +179,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 9. **Sanctification**
     - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
 10. **Preservation and perseverance**
-    - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
+    - See <a href="#perseverance">Perseverance of The Saints</a>.
 11. **Glorification**
     - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
@@ -191,19 +201,19 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35. -->
         
 
-<span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span>
+<!-- <span style="font-style:Italic;font-size:1.6em;">Scholars & Theologians</span> -->
 
-> Under construction
+<!-- > Under construction -->
 
-<br>
+<!-- <br>
 
 ---
 
-<br>
+<br> -->
 
-<a name="cite" href="#contents" style="font-size:2.1em;">VII. Sources & Citations</a>
+<!-- <a name="cite" href="#contents" style="font-size:2.1em;">VII. Sources & Citations</a> -->
 
-<sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44.
+<!-- <sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44. -->
 
 <script>
     var refTagger = {
