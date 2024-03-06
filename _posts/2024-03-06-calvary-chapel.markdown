@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 1:00:00 -0500
+date: 2024-03-06 1:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -13,6 +13,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 1. <a href="#calvary_chapel">Introduction</a>
 2. <a href="#distinctives">Calvary Chapel Distinctives</a>
     - 2.1 <a href="#fruit-bearing">Fruit-Bearing</a>
+        - &ldquo;*Fruit is the natural process of relationship*&rdquo;
     - 2.2 <a href="#depravity">Total Depravity (R)</a>
         - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
     - 2.3 <a href="#election">Conditional Election (A)</a>
