@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 1:15:00 -0500
+date: 2024-03-06 1:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -45,6 +45,8 @@ The Calvary Chapel is essentially [Reformed Arminianism](https://sevenshepherd.g
 > **Jesus said, "By their fruit ye shall know them."** &mdash; Chuck Smith, &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; p. 16.
 
 <a name="repentance" href="#contents" style="font-size:1.6em;">2.2 Repentance</a>
+
+See [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
 
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
