@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 2:35:00 -0500
+date: 2024-03-06 2:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -12,20 +12,21 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 1. <a href="#calvary_chapel">Introduction</a>
 2. <a href="#distinctives">Calvary Chapel Distinctives</a>
-    - 2.1 <a href="#fruit-bearing">Fruit-Bearing</a>
+    - 2.1 <a href="#faith-alone">Faith Alone</a>
+    - 2.2 <a href="#fruit-bearing">Fruit-Bearing</a>
         - &ldquo;*Fruit is the natural process of relationship*&rdquo;
-    - 2.2 <a href="#repentance">Repentance</a>
+    - 2.3 <a href="#repentance">Repentance</a>
         - &ldquo;*Repentance is the first step to salvation.*&rdquo;
-    - 2.3 <a href="#depravity">Total Depravity (R)</a>
+    - 2.4 <a href="#depravity">Total Depravity (R)</a>
         - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
-    - 2.4 <a href="#election">Conditional Election (A)</a>
+    - 2.5 <a href="#election">Conditional Election (A)</a>
         - &ldquo;*God clearly does choose ...*&rdquo;
-    - 2.5 <a href="#atonement">Unlimited Atonement (A / MR)</a>
+    - 2.6 <a href="#atonement">Unlimited Atonement (A / MR)</a>
         - &ldquo;*for the whole world*&rdquo;
-    - 2.6 <a href="#grace">Resistible Grace (A)</a>
-    - 2.7 <a href="#perseverance">Perseverance of The Saints (MR)</a>
+    - 2.7 <a href="#grace">Resistible Grace (A)</a>
+    - 2.8 <a href="#perseverance">Perseverance of The Saints (MR)</a>
         - &ldquo;*We do believe in the perseverance of the saints ...*&rdquo;
-    - 2.8 <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
+    - 2.9 <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
         - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
 <!-- 3. <a href="#OrdoSalutis">Ordo Salutis</a> -->
@@ -41,17 +42,23 @@ While they are basic protestant and non-denominational, they are reminiscent of 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
 
-<a name="fruit-bearing" href="#contents" style="font-size:1.6em;">2.1 Fruit-Bearing</a>
+<a name="faith-alone" href="#contents" style="font-size:1.6em;">2.1 Faith Alone</a>
+
+We are saved (justified) by grace through faith alone (Eph 3:8-10; Rom 3:28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4; Jn 14:15,21; 15:10).
+
+[**Salvation is Simple by Pastor Chuck Smith**](https://youtube.com/shorts/seazDp44xe0?si=6-Fa9-vH16uQ0FMX)
+
+<a name="fruit-bearing" href="#contents" style="font-size:1.6em;">2.2 Fruit-Bearing</a>
 
 > [@12:02](https://youtu.be/r4An7FpPKrU?si=QR9d3GtPma34VbSi&t=722)... Fruit is the natural process of relationship &mdash; Chuck Smith. See also [@15:15](https://youtu.be/r4An7FpPKrU?si=gsmXLHyrfIdP43pY&t=915).
 
 > **Jesus said, "By their fruit ye shall know them."** &mdash; Chuck Smith, &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; p. 16.
 
-<a name="repentance" href="#contents" style="font-size:1.6em;">2.2 Repentance</a>
+<a name="repentance" href="#contents" style="font-size:1.6em;">2.3 Repentance</a>
 
 See [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/).
 
-Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Obedience does not merit salvation, salvation produces obedience.
+Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Obedience does not merit salvation, salvation produces obedience (Ac 17:30; 1Jn 2:4).
 
 <!-- We are not to view repentance as something meritorious.  -->
 
@@ -61,7 +68,7 @@ Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repen
 
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
-<a name="depravity" href="#contents" style="font-size:1.6em;">2.3 Total Depravity (Moderately Reformed)</a>
+<a name="depravity" href="#contents" style="font-size:1.6em;">2.4 Total Depravity (Moderately Reformed)</a>
 
 Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
@@ -85,7 +92,7 @@ Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.gi
 >
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089). -->
 
-<a name="election" href="#contents" style="font-size:1.6em;">2.4 Conditional Election (Wesleyan Foreknowledge)</a>
+<a name="election" href="#contents" style="font-size:1.6em;">2.5 Conditional Election (Wesleyan Foreknowledge)</a>
 
 Does your Calvary Chapel pastor teach that &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Chuck Smith avoided this heresy. In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** Semi-Pelagianism says that man initiates in salvation, which is contrary to any protestant position.
 
@@ -101,7 +108,7 @@ Does your Calvary Chapel pastor teach that &ldquo;*God clearly does choose ...*&
 >
 &mdash; Chuck Missler, [Koinonia House](https://www.khouse.org/enews_article/2008/1089). -->
 
-<a name="atonement" href="#contents" style="font-size:1.6em;">2.5 Unlimited Atonement</a>
+<a name="atonement" href="#contents" style="font-size:1.6em;">2.6 Unlimited Atonement</a>
 
 Hopefully, your Calvary Chapel doesn't teach the erroneous, unbiblical and [textless doctrine](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#bird5.6) of [limited atonement](https://sevenshepherd.github.io/limited-atonement/). The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9. &ldquo;*Election and predestination are Biblical doctrines.*&rdquo;... &ldquo;*the doctrine of limited atonement, that Jesus did not die for the sins of the whole world, is clearly contrary to Biblical teaching.*&rdquo;<sup><a href="https://www.khouse.org/enews_article/2008/1089">1</a></sup>
 
@@ -109,11 +116,11 @@ Hopefully, your Calvary Chapel doesn't teach the erroneous, unbiblical and [text
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Atonement. p. 11.
 
-<a name="grace" href="#contents" style="font-size:1.6em;">2.6 Resistible Grace</a>
+<a name="grace" href="#contents" style="font-size:1.6em;">2.7 Resistible Grace</a>
 
 > under construction
 
-<a name="perseverance" href="#contents" style="font-size:1.6em;">2.7 Perseverance of The Saints</a>
+<a name="perseverance" href="#contents" style="font-size:1.6em;">2.8 Perseverance of The Saints</a>
 
 This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5). Repent like Christ commanded (Mt 4:17; Ac 17:30), turn away from your apostasy (Ac 3:19; Ac 26:20), and put your faith (trust) in Christ (Mark 1:15). Genuine saving faith will result in fruit (John 15:1-17; Gal 5:22-23), this is how we know (1Jn 2:3-6).
 
@@ -155,7 +162,7 @@ Yours in love,
 >
 Chuck Smith -->
 
-<a name="compatibilist" href="#contents" style="font-size:1.6em;">2.8 Compatibilist View Of Free Will</a>
+<a name="compatibilist" href="#contents" style="font-size:1.6em;">2.9 Compatibilist View Of Free Will</a>
 
 There are several ways a person can view free will in relation to Biblical teaching. **(1)** Soft-determinism of the Calvinists called &ldquo;*freedom of inclination.*&rdquo; **(2)** Free agency of the Arminians called &ldquo;*Libertarian free will*&rdquo; in which you are so free that you can forfeit salvation. **(3)** The moderately reformed position of &ldquo;*[compatibilism](https://sevenshepherd.github.io/chosen/#carson)*&rdquo; which joins the aforementioned options while maintaining eternal security. **(4)** the Wesleyan-Arminin version of compatibilism called &ldquo;*Molinism*&rdquo;. I think Chuck Smith selected the best option when he described compatibilism. More on [**compatibilism**](https://sevenshepherd.github.io/chosen/#carson).
 
