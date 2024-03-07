@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 2:45:00 -0500
+date: 2024-03-06 2:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -44,11 +44,13 @@ While they are basic protestant and non-denominational, they are reminiscent of 
 
 <a name="faith-alone" href="#contents" style="font-size:1.6em;">2.1 Faith Alone</a>
 
-We are saved (justified) by grace through faith alone (Eph 3:8-10; Rom 3:28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4; Jn 14:15,21; 15:10).
+Justification by grace through faith alone (Eph 3:8-10; Rom 3:28) ...
 
 [**Salvation is Simple by Pastor Chuck Smith**](https://youtube.com/shorts/seazDp44xe0?si=6-Fa9-vH16uQ0FMX)
 
 <a name="fruit-bearing" href="#contents" style="font-size:1.6em;">2.2 Fruit-Bearing</a>
+
+... but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4; Jn 14:15,21; 15:10).
 
 > [@12:02](https://youtu.be/r4An7FpPKrU?si=QR9d3GtPma34VbSi&t=722)... Fruit is the natural process of relationship &mdash; Chuck Smith. See also [@15:15](https://youtu.be/r4An7FpPKrU?si=gsmXLHyrfIdP43pY&t=915).
 
