@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 2:25:00 -0500
+date: 2024-03-06 2:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -51,11 +51,19 @@ While they are basic protestant and non-denominational, they are reminiscent of 
 
 See [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/).
 
+Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Obedience does not merit salvation, salvation produces obedience.
+
+<!-- We are not to view repentance as something meritorious.  -->
+
+<!-- Repentance is something that happens, after we are justified. -->
+
+<!-- Justification is by faith alone (Eph 2:8-10; Rom 3:28), but the faith that saves is never alone in the person justified. -->
+
 > You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://youtu.be/kP8rIIps4Sk?t=130)
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.3 Total Depravity (Moderately Reformed)</a>
 
-Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [semi-pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Pelagianism and semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
+Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
 <!-- , however small a spark of goodness it is. Semi-Pelagianism downplays God’s supernatural empowerment and enlightenment. It denies that God’s unmerited favor is necessary for us to begin the process of salvation. The Bible says that, from election to glorification, salvation is completely the work of God (Romans 8:29–30). Semi-Pelagianism is unbiblical and should be rejected. &mdash; [GotQuestions.org -->
 
@@ -79,7 +87,7 @@ Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.gi
 
 <a name="election" href="#contents" style="font-size:1.6em;">2.4 Conditional Election (Wesleyan Foreknowledge)</a>
 
-Does your Calvary Chapel pastor teach that &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [semi-pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Chuck Smith avoided this heresy. In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** semi-pelagianism says that man initiates in salvation, which is contrary to any protestant position.
+Does your Calvary Chapel pastor teach that &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Chuck Smith avoided this heresy. In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** Semi-Pelagianism says that man initiates in salvation, which is contrary to any protestant position.
 
 <!-- <span style="font-size:1.3em;">Chuck Smith</span> -->
 
@@ -149,7 +157,7 @@ Chuck Smith -->
 
 <a name="compatibilist" href="#contents" style="font-size:1.6em;">2.8 Compatibilist View Of Free Will</a>
 
-There are several ways a person can view free will in relation to Biblical teaching. **(1)** Soft-determinism of the Calvinists called &ldquo;*freedom of inclination.*&rdquo; **(2)** Free agency of the Arminians called &ldquo;*Libertarian free will*&rdquo; in which you are so free that you can forfeit salvation. **(3)** The moderately reformed positon of &ldquo;*[compatibilism](https://sevenshepherd.github.io/chosen/#carson)*&rdquo; which joins the aforementioned options while maintaining eternal security. **(4)** the Wesleyan-Arminin version of compatibilism called &ldquo;*Molinism*&rdquo;. I think Chuck Smith selected the best option when he described compatibilism. More on [**compatibilism**](https://sevenshepherd.github.io/chosen/#carson).
+There are several ways a person can view free will in relation to Biblical teaching. **(1)** Soft-determinism of the Calvinists called &ldquo;*freedom of inclination.*&rdquo; **(2)** Free agency of the Arminians called &ldquo;*Libertarian free will*&rdquo; in which you are so free that you can forfeit salvation. **(3)** The moderately reformed position of &ldquo;*[compatibilism](https://sevenshepherd.github.io/chosen/#carson)*&rdquo; which joins the aforementioned options while maintaining eternal security. **(4)** the Wesleyan-Arminin version of compatibilism called &ldquo;*Molinism*&rdquo;. I think Chuck Smith selected the best option when he described compatibilism. More on [**compatibilism**](https://sevenshepherd.github.io/chosen/#carson).
 
 > ... **It seems that the sovereignty of God and human responsibility are like two parallel lines that do not seem to intersect within our finite minds.** God's ways are "past finding out" (Romans 11:33), and the Bible warns us to "lean not unto thy own understanding" (Proverbs 3:5). To say what God says in the Bible - no more and no less - is not always easy, comfortable, or completely understandable. But Scripture tells us that the wisdom from above will be loving and kind toward all, seeking the unity of the believers, not trying to find ways to divide and separate from one another. May God help us all to love each other, to be kind, tenderhearted, forgiving one another as Jesus Christ has forgiven us (Ephesians 4:32)! In difficult doctrinal matters, may we have gracious attitudes and humble hearts, desiring most of all to please Him who has called us to serve Him in the body of Christ. Discussion - YES! Disagreements - YES! Division - NO!
 >
