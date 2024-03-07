@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 3:00:00 -0500
+date: 2024-03-06 3:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -138,7 +138,7 @@ Hopefully, your Calvary Chapel doesn't teach the erroneous, unbiblical and [text
 
 <a name="perseverance" href="#contents" style="font-size:1.6em;">2.9 Perseverance of The Saints</a>
 
-This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5). Repent like Christ commanded (Mt 4:17; Ac 17:30), turn away from your apostasy (Ac 3:19; Ac 26:20), and put your faith (trust) in Christ (Mark 1:15). Genuine saving faith will result in fruit (John 15:1-17; Gal 5:22-23), this is how we know (1Jn 2:3-6).
+This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5). Repent like Christ commanded (Mt 4:17; Ac 17:30), turn away from your apostasy (Ac 3:19; Ac 26:20), and put your faith (trust) in Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6).
 
 It will help you to make the distinction between justification (which is by faith alone Eph 2:8-10; Rom 3:28), and assurance of salvation which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21) &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
 
