@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 5:15:00 -0500
+date: 2024-03-06 5:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -152,11 +152,11 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 
 > &ldquo;**We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
 
-**(3)** There is another stance called &ldquo;*Once saved always saved*&rdquo;. While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
+**(3)** There is another stance called &ldquo;*Once saved always saved*.&rdquo; While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
-- A man becomes a &ldquo;*Christian*&rdquo;, he then falls away and becomes a serial killer and rapist. He then Murders and abuses 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
+- A man becomes a &ldquo;*Christian*,&rdquo; he then falls away and becomes a serial killer and rapist. He then abuses and murders 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
 
-As you can see, any theology that allows for this kind of reasoning is perverse. **Chuck Smith avoids this debauched view** by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
+As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
 If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Romans 2:7; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
 
