@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:10:00 -0500
+date: 2024-03-06 6:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -62,6 +62,8 @@ Justification is by grace through faith alone (Eph 3:8-10; Rom 3:28) ...
 > [@12:02](https://youtu.be/r4An7FpPKrU?si=QR9d3GtPma34VbSi&t=722)... Fruit is the natural process of relationship &mdash; Chuck Smith. See also [@15:15](https://youtu.be/r4An7FpPKrU?si=gsmXLHyrfIdP43pY&t=915).
 
 > **Jesus said, "By their fruit ye shall know them."** &mdash; Chuck Smith, &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; p. 16.
+
+<!-- calvary chapels do not teach a necessary sanctification experience or entire sanctification as taught in wesleyan holiness churches -->
 
 <a name="repentance" href="#contents" style="font-size:1.6em;">4. Repentance</a>
 
@@ -158,6 +160,8 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
 If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
+
+> ... do you believe in internal security I say yes of course I believe in eternal security **as long as I abide in Christ i'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of jesus Christ? I don't know of any security outside of jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience god's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
