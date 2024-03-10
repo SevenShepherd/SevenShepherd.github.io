@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 3:35:00 -0500
+date: 2024-03-06 3:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -42,9 +42,9 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calvary Chapel. This would explain his **solid understanding of basic protestant beliefs** and avoidance of heresy. Of course like most of use, Smith thought they were too charismatic, and incorporated some Baptist elements into his hybrid Pentecostal / Baptist &ldquo;*non-denominational*&rdquo; Calvary CHapel.
+Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calvary Chapel. This would explain his **solid understanding of basic protestant beliefs** and avoidance of heresy. Of course like most of use, Smith thought they were too charismatic, and incorporated some Baptist elements into his hybrid Pentecostal / Baptist &ldquo;*non-denominational*&rdquo; Calvary Chapel.
 
-While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views inro a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
+While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of Protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views inro a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
@@ -79,7 +79,7 @@ Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repen
 
 <a name="assurance" href="#contents" style="font-size:1.6em;">2.4 Assurance of Salvation</a>
 
-It will help you to make the distinction between justification (which is by faith alone Eph 2:8-10; Rom 3:28), and assurance of salvation which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21) &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
+It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21). &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
 
 > Do not be deceived, if you are walking after the flesh and involved in the things of the flesh, <span style="font-weight:bold;color:red;">you have no assurance of being in the Kingdom of Heaven</span> &mdash; [**Chuck Smith (YouTube Short)**](https://youtube.com/shorts/aBG9kH-z8Q8?si=_jqYQqF6bgbN9TZZ)
 
@@ -91,7 +91,7 @@ The following is an excerpt from Chuck Smith's C2000. We also recommend his topi
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.5 Total Depravity</a>
 
-[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors. **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held; it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserved Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith.
+[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors: **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held; it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserves Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith. I'm not sure this view is completely stable, but it doesn't seem unsafe, as every aspect is still Protestant.
 
 Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
@@ -135,7 +135,7 @@ Does your Calvary Chapel pastor teach &ldquo;*God clearly does choose ...*&rdquo
 
 <a name="atonement" href="#contents" style="font-size:1.6em;">2.7 Unlimited Atonement</a>
 
-Hopefully, your Calvary Chapel doesn't teach the erroneous, unbiblical and [textless doctrine](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#bird5.6) of [limited atonement](https://sevenshepherd.github.io/limited-atonement/). The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9. &ldquo;*Election and predestination are Biblical doctrines.*&rdquo;... &ldquo;*the doctrine of limited atonement, that Jesus did not die for the sins of the whole world, is clearly contrary to Biblical teaching.*&rdquo;<sup><a href="https://www.khouse.org/enews_article/2008/1089">1</a></sup>
+Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sevenshepherd.github.io/ordo-salutis-amyraldian/#bird5.6) of [limited atonement](https://sevenshepherd.github.io/limited-atonement/). The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9. &ldquo;*Election and predestination are Biblical doctrines.*&rdquo;... &ldquo;*the doctrine of limited atonement, that Jesus did not die for the sins of the whole world, is clearly contrary to Biblical teaching.*&rdquo;<sup><a href="https://www.khouse.org/enews_article/2008/1089">1</a></sup>
 
 > We believe that Jesus Christ died as a propitiation (a satisfaction of the righteous wrath of God against sin) &ldquo;*for the whole world*&rdquo; (1 John 2:2; 4:9-10), and that He redeems and forgives all who will believe in the death and resurrection of Jesus Christ as their only hope of salvation from sin, death, and hell (Ephesians 1:7; 1 Peter 1:18-19). We believe that eternal life is a gift of God (Romans 6:23), and that &ldquo;*whosoever believeth*&rdquo; in Jesus Christ will not perish, but will have eternal life (John 3:16-18). I Timothy 4:10 says &ldquo;*we trust in the living God, who is the Savior of all men, specially of those that believe.*&rdquo; Hebrews 2:9 states that Jesus, &ldquo;*was made a little lower than the angels for the suffering of death, crowned with glory and honor, that He, by the grace of God, should taste death for every man*&rdquo; The atoning sacrifice of Jesus Christ was clearly sufficient to save the entire human race.
 >
@@ -149,7 +149,7 @@ Hopefully, your Calvary Chapel doesn't teach the erroneous, unbiblical and [text
 
 This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5). Repent like Christ commanded (Mt 4:17; Ac 17:30), turn away from your apostasy (Ac 3:19; Ac 26:20), and put your faith (trust) in Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6).
 
-It will help you to make the distinction between justification (which is by faith alone Eph 2:8-10; Rom 3:28), and assurance of salvation which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21) &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
+It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21). &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
 
 > PERSEVERANCE
 >
