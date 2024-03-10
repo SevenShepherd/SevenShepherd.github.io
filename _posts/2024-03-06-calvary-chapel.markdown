@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:15:00 -0500
+date: 2024-03-06 6:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -151,7 +151,7 @@ Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sev
 
 Perseverance of The Saints: **(1)** The Calvinists view perseverance through the lens of divine monergism, which is a divine preservation or protection **(safe)**; whereas, **(2)** Arminians view perseverance as a synergistic activity, or by faithful human efforts **(unsafe)**. Chuck Smith seemed to be implying the safer Calvinistic stance. 
 
-> &ldquo;**We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians"... **Apparently there are many who claim to be believers that in fact are not.**&rdquo; &mdash; Chuck Smith
+> &ldquo;**Apparently there are many who claim to be believers that in fact are not.**... **We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
 
 **(3)** There is another stance called &ldquo;*Once saved always saved*.&rdquo; While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
@@ -161,7 +161,7 @@ As you can see, <span style="font-weight:bold;color:FireBrick;">any theology tha
 
 If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
 
-> ... do you believe in internal security I say yes of course I believe in eternal security **as long as I abide in Christ i'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of jesus Christ? I don't know of any security outside of jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience god's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
+> ... do you believe in internal security I say yes of course I believe in eternal security **as long as I abide in Christ i'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience god's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
