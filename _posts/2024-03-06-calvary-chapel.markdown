@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:00:00 -0500
+date: 2024-03-06 6:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -16,7 +16,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 1. <a href="#calvary_chapel">Introduction</a>    
 2. <a href="#faith-alone">Justification Is By Faith Alone</a>
-3. <a href="#fruit-bearing">Fruit-Bearing & Sanctification</a>
+3. <a href="#fruit-bearing">Fruit-Bearing (All) & Sanctification (R)</a>
     - &ldquo;*Fruit is the natural process of relationship*&rdquo;
 4. <a href="#repentance">Repentance (contrition & turning)</a>
     - &ldquo;*Repentance is the first step to salvation.*&rdquo;
@@ -50,13 +50,13 @@ While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the dis
 <!-- <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a> -->
 
 
-<a name="faith-alone" href="#contents" style="font-size:1.6em;">2 Faith Alone</a>
+<a name="faith-alone" href="#contents" style="font-size:1.6em;">2 Justification Is By Faith Alone</a>
 
 Justification is by grace through faith alone (Eph 3:8-10; Rom 3:28) ...
 
 [**Salvation is Simple by Pastor Chuck Smith**](https://youtube.com/shorts/seazDp44xe0?si=6-Fa9-vH16uQ0FMX)
 
-<a name="fruit-bearing" href="#contents" style="font-size:1.6em;">3. Fruit-Bearing</a>
+<a name="fruit-bearing" href="#contents" style="font-size:1.6em;">3. Fruit-Bearing (All) & Progressive Sanctification (R)</a>
 
 ... but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4; Jn 14:15,21; 15:10).
 
