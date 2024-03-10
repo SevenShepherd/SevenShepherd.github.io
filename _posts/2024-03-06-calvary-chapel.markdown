@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 4:00:00 -0500
+date: 2024-03-06 4:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -12,26 +12,27 @@ What do I mean by &ldquo;*depart from scripture.*&rdquo; To clarify, I am not ta
 
 R, MR, A = Reformed, Moderately Reformed, Arminian
 
-1. <a href="#calvary_chapel">Introduction</a>
-2. <a href="#distinctives">Calvary Chapel Distinctives</a>
-    - 2.1 <a href="#faith-alone">Faith Alone</a>
-    - 2.2 <a href="#fruit-bearing">Fruit-Bearing</a>
-        - &ldquo;*Fruit is the natural process of relationship*&rdquo;
-    - 2.3 <a href="#repentance">Repentance</a>
-        - &ldquo;*Repentance is the first step to salvation.*&rdquo;
-    - 2.4 <a href="#assurance">Assurance</a>
-        - &ldquo;*if you are walking after the flesh ... you have no assurance*&rdquo;
-    - 2.5 <a href="#depravity">Total Depravity (R)</a>
-        - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
-    - 2.6 <a href="#election">Conditional Election (A)</a>
-        - &ldquo;*God clearly does choose ...*&rdquo;
-    - 2.7 <a href="#atonement">Unlimited Atonement (A / MR)</a>
-        - &ldquo;*for the whole world*&rdquo;
-    - 2.8 <a href="#grace">Resistible Grace (A)</a>
-    - 2.9 <a href="#perseverance">Perseverance of The Saints (MR)</a>
-        - &ldquo;*We do believe in the perseverance of the saints ...*&rdquo;
-    - 3.0 <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
-        - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
+<!-- 2. <a href="#distinctives">Calvary Chapel Distinctives</a> -->
+
+1. <a href="#calvary_chapel">Introduction</a>    
+2. <a href="#faith-alone">Faith Alone</a>
+3. <a href="#fruit-bearing">Fruit-Bearing</a>
+    - &ldquo;*Fruit is the natural process of relationship*&rdquo;
+4. <a href="#repentance">Repentance</a>
+    - &ldquo;*Repentance is the first step to salvation.*&rdquo;
+5. <a href="#assurance">Assurance</a>
+    - &ldquo;*if you are walking after the flesh ... you have no assurance*&rdquo;
+6. <a href="#depravity">Total Depravity (R)</a>
+    - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
+7. <a href="#election">Conditional Election (A)</a>
+    - &ldquo;*God clearly does choose ...*&rdquo;
+8. <a href="#atonement">Unlimited Atonement (A / MR)</a>
+    - &ldquo;*for the whole world*&rdquo;
+9. <a href="#grace">Resistible Grace (A)</a>
+10. <a href="#perseverance">Perseverance of The Saints (MR)</a>
+    - &ldquo;*We do believe in the perseverance of the saints ...*&rdquo;
+11. <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
+    - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
 <!-- 3. <a href="#OrdoSalutis">Ordo Salutis</a> -->
 
@@ -46,7 +47,7 @@ Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calv
 
 While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of Protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views into a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
 
-<a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
+<!-- <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a> -->
 
 
 <a name="faith-alone" href="#contents" style="font-size:1.6em;">2.1 Faith Alone</a>
