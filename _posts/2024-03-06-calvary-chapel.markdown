@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:05:00 -0500
+date: 2024-03-06 6:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -24,14 +24,13 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
     - &ldquo;*if you are walking after the flesh ... you have no assurance*&rdquo;
 6. <a href="#depravity">Total Depravity (R)</a>
     - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
-7. <a href="#election">Conditional Election (A)</a>
-    - &ldquo;*God clearly does choose ...*&rdquo;
+7. <a href="#election">Conditional Election (A) & Resistible Grace (A)</a>
+    - &ldquo;*God clearly does choose, but man must also accept God's invitation to salvation.*&rdquo;
 8. <a href="#atonement">Unlimited Atonement (A / MR)</a>
     - &ldquo;*for the whole world*&rdquo;
-9. <a href="#grace">Resistible Grace (A)</a>
-10. <a href="#perseverance">Perseverance of The Saints (R)</a>
+9. <a href="#perseverance">Perseverance of The Saints (R)</a>
     - &ldquo;*Apparently there are many who claim to be believers that in fact are not... We do believe in the perseverance of the saints (true believers)...*&rdquo;
-11. <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
+10. <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
     - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
 <!-- 3. <a href="#OrdoSalutis">Ordo Salutis</a> -->
@@ -142,11 +141,11 @@ Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sev
 >
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Atonement. p. 11.
 
-<a name="grace" href="#contents" style="font-size:1.6em;">9. Resistible Grace</a>
+<!-- <a name="grace" href="#contents" style="font-size:1.6em;">9. Resistible Grace</a> -->
 
 > under construction
 
-<a name="perseverance" href="#contents" style="font-size:1.6em;">10. Perseverance of The Saints</a>
+<a name="perseverance" href="#contents" style="font-size:1.6em;">9. Perseverance of The Saints</a>
 
 Perseverance of The Saints: **(1)** The Calvinists view perseverance through the lens of divine monergism, which is a divine preservation or protection **(safe)**; whereas, **(2)** Arminians view perseverance as a synergistic activity, or by faithful human efforts **(unsafe)**. Chuck Smith seemed to be implying the safer Calvinistic stance. 
 
@@ -208,7 +207,7 @@ Yours in love,
 >
 Chuck Smith -->
 
-<a name="compatibilist" href="#contents" style="font-size:1.6em;">11. Compatibilist View Of Free Will</a>
+<a name="compatibilist" href="#contents" style="font-size:1.6em;">10. Compatibilist View Of Free Will</a>
 
 There are several ways a person can view free will in relation to Biblical teaching. **(1)** Soft-determinism of the Calvinists called &ldquo;*freedom of inclination.*&rdquo; **(2)** Free agency of the Arminians called &ldquo;*Libertarian free will*&rdquo; in which you are so free that you can forfeit salvation. **(3)** The moderately reformed position of &ldquo;*[compatibilism](https://sevenshepherd.github.io/chosen/#carson)*&rdquo; which joins the aforementioned options while maintaining eternal security. **(4)** the Wesleyan-Arminin version of compatibilism called &ldquo;*Molinism*&rdquo;. I think Chuck Smith selected the best option when he described compatibilism. More on [**compatibilism**](https://sevenshepherd.github.io/chosen/#carson).
 
