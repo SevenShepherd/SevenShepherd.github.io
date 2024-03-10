@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 3:25:00 -0500
+date: 2024-03-06 3:35:00 -0500
 categories: salvation
 published: true
 ---
 
-What do I mean by &ldquo;*depart from scripture*&rdquo;. To clarify, I am not talking about the 'isms of Protestantism. If you lean more Calvinistic, or more Arminian, **you are fine and not what I'm speaking of,** as I myself am ever so slightly more reformed. I'm speaking of heresy, like legalism, antinomianism, pelagianism, semi-pelagianism, etc. I've written this article to get a bird's eye view of Chuck Smith's original teachings, and to provide a resource for those who attend Calvary Chapels, to weigh them in the balances of scripture and it's founders original and sound message.
+What do I mean by &ldquo;*depart from scripture.*&rdquo; To clarify, I am not talking about the 'isms of Protestantism. If you lean more Calvinistic, or more Arminian, **you are fine and not what I'm speaking of,** as I myself am ever so slightly more reformed. I'm speaking of heresy, like legalism, antinomianism, pelagianism, semi-pelagianism, etc. I've written this article to get a bird's eye view of Chuck Smith's original teachings, and to provide a resource for those who attend Calvary Chapels, to weigh them in the balances of scripture and it's founders original and sound message.
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -41,7 +41,10 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-While they are basic protestant and non-denominational, they are reminiscent of a Pentecostal / Baptist Hybrid. The Calvary Chapel distinctives are essentially [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **w/ Eternal Security**. It's very moderate. I grew up with Chuck Smith and the Calvary Chapel, I would like to see it restored to what it was. Unfortunately, misguided modern movements have hijacked many of them.
+
+Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calvary Chapel. This would explain his **solid understanding of basic protestant beliefs** and avoidance of heresy. Of course like most of use, Smith thought they were too charismatic, and incorporated some Baptist elements into his hybrid Pentecostal / Baptist &ldquo;*non-denominational*&rdquo; Calvary CHapel.
+
+While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views inro a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
@@ -88,7 +91,9 @@ The following is an excerpt from Chuck Smith's C2000. We also recommend his topi
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.5 Total Depravity</a>
 
-Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
+[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors. **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held; it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserved Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith.
+
+Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
 <!-- , however small a spark of goodness it is. Semi-Pelagianism downplays God’s supernatural empowerment and enlightenment. It denies that God’s unmerited favor is necessary for us to begin the process of salvation. The Bible says that, from election to glorification, salvation is completely the work of God (Romans 8:29–30). Semi-Pelagianism is unbiblical and should be rejected. &mdash; [GotQuestions.org -->
 
