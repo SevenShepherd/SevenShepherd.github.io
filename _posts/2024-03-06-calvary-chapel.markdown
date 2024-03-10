@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 5:25:00 -0500
+date: 2024-03-06 5:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -150,15 +150,15 @@ Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sev
 
 Perseverance of The Saints: **(1)** The Calvinists view perseverance through the lens of divine monergism, which is a divine preservation or protection **(safe)**; whereas, **(2)** Arminians view perseverance as a synergistic activity, or by faithful human efforts **(unsafe)**. Chuck Smith seemed to be implying the safer Calvinistic stance. 
 
-> &ldquo;**We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
+> &ldquo;**We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians"... **Apparently there are many who claim to be believers that in fact are not.**&rdquo; &mdash; Chuck Smith
 
 **(3)** There is another stance called &ldquo;*Once saved always saved*.&rdquo; While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
-- A man becomes a &ldquo;*Christian*,&rdquo; he then falls away and becomes a serial killer and rapist. He then abuses and murders 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
+- A man becomes a &ldquo;*Christian*,&rdquo; he then falls away and becomes a serial killer and rapist. He then abuses and murders 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Mt 25:21.
 
 As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
-If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Romans 2:7; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
@@ -180,7 +180,7 @@ But we also are deeply concerned over the words of Jesus in Matthew 7:21-23:
 >
 >>"Not every one that saith unto Me, Lord, Lord, shall enter into the kingdom of heaven, but he that doeth the will of my Father, who is in heaven. Many will say to Me in that day, Lord, Lord, have we not prophesied in Thy name? And in Thy name have cast out devils? And in Thy name done many wonderful works? And then will I profess unto them, I never knew you; depart from Me, ye that work iniquity."
 >
-Apparently there are many who claim to be believers that in fact are not.
+**Apparently there are many who claim to be believers that in fact are not.**
 >
 Jesus said in Luke 9:62, "No man, having put his hand to the plough, and looking back, is fit for the kingdom of God." I Corinthians 6:9-10 insists that "the unrighteous shall not inherit the kingdom of God" and warns us not to be deceived. A list is then given of various kinds of sinful lifestyles with an ending remark that they will not inherit the kingdom of God. Similar statements and conclusions are given in Galatians 5:19-21 and Ephesians 5:3-5.
 >
