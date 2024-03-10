@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 5:00:00 -0500
+date: 2024-03-06 5:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -154,11 +154,11 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 
 **(3)** There is another stance called &ldquo;*Once saved always saved*&rdquo;. While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
-- A man becomes a &ldquo;*Christian*&rdquo;, he the falls away, and becomes a serial killer and rapist. He then Murders and abuses 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
+- A man becomes a &ldquo;*Christian*&rdquo;, he then falls away and becomes a serial killer and rapist. He then Murders and abuses 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
 
 As you can see, any theology that allows for this kind of reasoning is perverse. **Chuck Smith avoids this debauched view** by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
-If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19; Mt 10:22; 24:13; Romans 2:7; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Romans 2:7; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
@@ -169,6 +169,8 @@ If you have fallen away, I would ask you to repent like Christ commanded you to 
 <!-- This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5).  -->
 
 It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21). &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
+
+<span style="font-weight:bold;color:ForestGreen;">It's never too late to make a genuine profession of faith. The only [unforgivable sin](https://sevenshepherd.github.io/the-unforgivable-sin/), is a heart so hardened, that it cannot repent and turn to Christ in trust.</span>
 
 > PERSEVERANCE
 >
