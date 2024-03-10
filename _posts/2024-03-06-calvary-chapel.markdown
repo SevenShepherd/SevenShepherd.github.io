@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 4:45:00 -0500
+date: 2024-03-06 5:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -152,11 +152,19 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 
 > &ldquo;**We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
 
-**(3)** There is another stance called OSAS, which is a watered down version of the Calvinistic view. &ldquo;*Once saved always saved*&rdquo; is true in its wording, but not in its implication. If you say that people who were once believers and die unbelievers, go to heaven, you need to read the Bible more (1Jn 3:6-10). 
+**(3)** There is another stance called &ldquo;*Once saved always saved*&rdquo;. While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
-SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point.
+- A man becomes a &ldquo;*Christian*&rdquo;, he the falls away, and becomes a serial killer and rapist. He then Murders and abuses 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Matthew 25:21.
 
-If you have fallen away, I would ask you to repent like Christ commanded you (Mt 4:17; Ac 17:30). Turn away from your apostasy (Ac 3:19; Ac 26:20), put your faith in the person of Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6).
+As you can see, any theology that allows for this kind of reasoning is perverse. **Chuck Smith avoids this debauched view** by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
+
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19; Mt 10:22; 24:13; Romans 2:7; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
+
+SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
+
+If you have fallen away, I would ask you to repent like Christ commanded you to (Mt 4:17; Ac 17:30). Turn away from your apostasy (Ac 3:19; Ac 26:20), put your faith in the person of Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6).
+
+<!-- If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) **the only assurance you have, is no assurance**. This is the wake up call that will save your life. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements. -->
 
 <!-- This one might be difficult for some to hear, but keep in mind, if you are putting your trust in Christ for salvation, your past doesn't matter. Do not stop trusting in Christ, because we are justified by faith (trust) alone. We also know that faith (trust) is not a work (Romans 4:5).  -->
 
