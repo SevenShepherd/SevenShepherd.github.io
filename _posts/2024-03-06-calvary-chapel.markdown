@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 4:15:00 -0500
+date: 2024-03-06 4:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -18,9 +18,9 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 2. <a href="#faith-alone">Justification Is By Faith Alone</a>
 3. <a href="#fruit-bearing">Fruit-Bearing & Sanctification</a>
     - &ldquo;*Fruit is the natural process of relationship*&rdquo;
-4. <a href="#repentance">Repentance, (Contrition & Turning)</a>
+4. <a href="#repentance">Repentance (contrition & turning)</a>
     - &ldquo;*Repentance is the first step to salvation.*&rdquo;
-5. <a href="#assurance">Assurance (Evidence-Based Faith)</a>
+5. <a href="#assurance">Assurance (evidence-based faith)</a>
     - &ldquo;*if you are walking after the flesh ... you have no assurance*&rdquo;
 6. <a href="#depravity">Total Depravity (R)</a>
     - &ldquo;*Truly, war does demonstrate the total depravity of man*&rdquo;
