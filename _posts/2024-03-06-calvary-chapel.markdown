@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 3:45:00 -0500
+date: 2024-03-06 4:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -42,9 +42,9 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 <iframe width="385" height="315" src="https://www.youtube.com/embed/loykSqRa9hU?si=A8pO8vdcIueCUMGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calvary Chapel. This would explain his **solid understanding of basic protestant beliefs** and avoidance of heresy. Of course like most of use, Smith thought they were too charismatic, and incorporated some Baptist elements into his hybrid Pentecostal / Baptist &ldquo;*non-denominational*&rdquo; Calvary Chapel.
+Chuck Smith taught for 17 years as a Pentecostal pastor before starting the Calvary Chapel. This would explain his **solid understanding of basic protestant beliefs** and avoidance of heresy. Smith grew tired with the competition methods of church growth within the international church of the four square gospel, where he preached. He also desired a more moderate take on Charismatic teachings and incorporated some Baptist elements into his hybrid Pentecostal / Baptist &ldquo;*non-denominational*&rdquo; Calvary Chapel.
 
-While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of Protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views inro a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
+While &ldquo;*non-denominational,*&rdquo; Smith held strong positions on the distinctives of Protestantism; they are reminiscent of [Reformed Arminianism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) **with the addition of Eternal Security**. Overall he managed to balance his views into a very moderate stance that &ldquo;*toes the line*&rdquo; between Calvinism and Arminianism.
 
 <a name="distinctives" href="#contents" style="font-size:2.1em;">II. Calvary Chapel Distinctives</a>
 
@@ -91,7 +91,7 @@ The following is an excerpt from Chuck Smith's C2000. We also recommend his topi
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">2.5 Total Depravity</a>
 
-[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors: **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held; it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserves Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith. I'm not sure this view is completely stable, but it doesn't seem unsafe, as every aspect is still Protestant.
+[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors: **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held. it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserves Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith. I'm not sure this view is completely stable, but it doesn't seem unsafe, as every aspect is still Protestant.
 
 Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
@@ -119,7 +119,7 @@ Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.gi
 
 In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** Semi-Pelagianism says that man initiates in salvation, which is contrary to any protestant position and contrary to scripture (Jn 6:44,65).
 
-Does your Calvary Chapel pastor teach &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Chuck Smith avoided this heresy. 
+Does your Calvary Chapel pastor teach &ldquo;*God clearly does choose ...,*&rdquo; or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Chuck Smith avoided this heresy. 
 
 <!-- <span style="font-size:1.3em;">Chuck Smith</span> -->
 
