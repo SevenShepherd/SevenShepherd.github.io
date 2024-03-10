@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 3:10:00 -0500
+title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
+date: 2024-03-06 3:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -112,7 +112,9 @@ Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.gi
 
 <a name="election" href="#contents" style="font-size:1.6em;">2.6 Conditional Election (Wesleyan Foreknowledge)</a>
 
-Does your Calvary Chapel pastor teach that &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in A.D. 529? Chuck Smith avoided this heresy. In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** Semi-Pelagianism says that man initiates in salvation, which is contrary to any protestant position.
+In both the protestant distinctives of Calvinism and Arminianism, God chooses, but he chooses based upon different things. **(1)** In Arminianism He chooses based on his foreknowledge of foreseen faith, **(2)** whereas in Calvinism it is without regard for foreseen human faith or good works. **(3)** Semi-Pelagianism says that man initiates in salvation, which is contrary to any protestant position and contrary to scripture (Jn 6:44,65).
+
+Does your Calvary Chapel pastor teach &ldquo;*God clearly does choose ...*&rdquo;, or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Chuck Smith avoided this heresy. 
 
 <!-- <span style="font-size:1.3em;">Chuck Smith</span> -->
 
