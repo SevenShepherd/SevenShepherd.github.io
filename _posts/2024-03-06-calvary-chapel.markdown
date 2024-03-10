@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 5:35:00 -0500
+date: 2024-03-06 5:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -29,8 +29,8 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 8. <a href="#atonement">Unlimited Atonement (A / MR)</a>
     - &ldquo;*for the whole world*&rdquo;
 9. <a href="#grace">Resistible Grace (A)</a>
-10. <a href="#perseverance">Perseverance of The Saints (MR)</a>
-    - &ldquo;*We do believe in the perseverance of the saints ...*&rdquo;
+10. <a href="#perseverance">Perseverance of The Saints (R)</a>
+    - &ldquo;*We do believe in the perseverance of the saints (true believers)**... *Apparently there are many who claim to be believers that in fact are not.*&rdquo;
 11. <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
     - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
@@ -158,7 +158,7 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 
 As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
-If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never have genuine faith to begin with, it was a superficial and false profession**.
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
