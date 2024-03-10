@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⚜️ “... I preached that they should repent and turn to God and demonstrate their repentance by their deeds.”" ― The Great Summary Of The Apostles Pauls Ministry
-date: 2024-03-09 1:00:00 -0500
+title: "⚜️ “... I preached that they should repent and turn to God and demonstrate their repentance by their deeds.” ― The Great Summary Of The Apostles Pauls Ministry"
+date: 2024-03-09 1:05:00 -0500
 categories: salvation
 published: true
 ---
