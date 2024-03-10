@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 5:45:00 -0500
+date: 2024-03-06 6:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -30,7 +30,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
     - &ldquo;*for the whole world*&rdquo;
 9. <a href="#grace">Resistible Grace (A)</a>
 10. <a href="#perseverance">Perseverance of The Saints (R)</a>
-    - &ldquo;*We do believe in the perseverance of the saints (true believers)**... *Apparently there are many who claim to be believers that in fact are not.*&rdquo;
+    - &ldquo;*Apparently there are many who claim to be believers that in fact are not... We do believe in the perseverance of the saints (true believers)...*&rdquo;
 11. <a href="#compatibilist">Compatibilist View Of Free Will (MR)</a>
     - &ldquo;*the sovereignty of God and human responsibility are like two parallel lines*&rdquo;
     
