@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:35:00 -0500
+date: 2024-03-06 6:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -14,7 +14,7 @@ R, MR, A = Reformed, Moderately Reformed, Arminian
 
 <!-- 2. <a href="#distinctives">Calvary Chapel Distinctives</a> -->
 
-1. <a href="#calvary_chapel">Introduction</a>    
+1. <a href="#calvary_chapel">Introduction</a>
 2. <a href="#faith-alone">Justification Is By Faith Alone</a>
 3. <a href="#fruit-bearing">Fruit-Bearing (All) & Sanctification (R)</a>
     - &ldquo;*Fruit is the natural process of relationship*&rdquo;
@@ -161,7 +161,7 @@ As you can see, <span style="font-weight:bold;color:FireBrick;">any theology tha
 
 If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
 
-> ... do you believe in internal security I say yes of course I believe in eternal security **as long as I abide in Christ I'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience God's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
+> ... do you believe in eternal security, I say yes of course I believe in eternal security, **as long as I abide in Christ I'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience God's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
 SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
 
