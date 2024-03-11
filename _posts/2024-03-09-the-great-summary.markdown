@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📜 “... I preached that they should repent and turn to God and demonstrate their repentance by their deeds.” ― Summary of Apostles Pauls obedience"
-date: 2024-03-09 1:25:00 -0500
+title: "📜 “... I preached that they should repent and turn to God and demonstrate their repentance by their deeds.” ― Summary of Apostle Paul's obedience"
+date: 2024-03-09 1:35:00 -0500
 categories: salvation
 published: true
 ---

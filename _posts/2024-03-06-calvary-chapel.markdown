@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 6:45:00 -0500
+date: 2024-03-06 6:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -159,7 +159,7 @@ Perseverance of The Saints: **(1)** The Calvinists view perseverance through the
 
 As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
-If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; 24:13; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; **24:13**; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; **2 Tim 2:12**; 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
 
 > ... do you believe in eternal security, I say yes of course I believe in eternal security, **as long as I abide in Christ I'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience God's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
