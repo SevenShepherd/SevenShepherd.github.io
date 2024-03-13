@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 7:00:00 -0500
+date: 2024-03-06 7:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -151,19 +151,19 @@ Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sev
 
 Perseverance of The Saints: **(1)** The Calvinists view perseverance through the lens of divine monergism, which is a divine preservation or protection **(safe)**; whereas, **(2)** Arminians view perseverance as a synergistic activity, or by faithful human efforts **(unsafe)**. Chuck Smith seemed to be implying the safer Calvinistic stance. 
 
-> &ldquo;**Apparently there are many who claim to be believers that in fact are not.**... **We do believe in the perseverance of the saints (true believers)**, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
+> &ldquo;**Apparently there are many who claim to be believers that in fact are not.**... <span style="font-weight:bold;color:ForestGreen;">We do believe in the perseverance of the saints (true believers)</span>, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."&rdquo; &mdash; Chuck Smith
 
-**(3)** There is another stance called &ldquo;*Once saved always saved*.&rdquo; While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
+<!-- **(3)** There is another stance called &ldquo;*Once saved always saved*.&rdquo; While true in its wording, it falls short in its implication. It's an illogical and unscriptural stance because it allows for extreme examples, like the following: 
 
 - A man becomes a &ldquo;*Christian*,&rdquo; he then falls away and becomes a serial killer and rapist. He then abuses and murders 20 children. When he dies, those who hold to OSAS would say he goes to heaven and will hear &ldquo;*Well done, good and faithful servant.*&rdquo; Mt 25:21.
 
 As you can see, <span style="font-weight:bold;color:FireBrick;">any theology that allows for this kind of reasoning is perverse</span>. <span style="font-weight:bold;color:ForestGreen;">Chuck Smith avoids this debauched view</span> by holding to the Calvinist view of perseverance, which says, that the man described above goes straight to hell. Amen. 
 
-If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; **Mt 24:13**; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; **2 Tim 2:12**; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**.
+If you say that people who were once believers and who die unbelievers, go to heaven, you need to read the Bible more (1Jn 2:19 NLT; Mt 10:22; **Mt 24:13**; Ro 2:7 NET; Col 1:22-23; Heb 10:36,39; Rev 2:10; 3:5; Heb 6:4-6; 2Pe 2:20-22; 1Jn 3:6-10; **2 Tim 2:12**; 2 Tim 4:7). In other words, **the murderous man (in the example above) who fell away, never had genuine faith to begin with, it was a superficial and false profession**. -->
 
 > ... do you believe in eternal security, I say yes of course I believe in eternal security, **as long as I abide in Christ I'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience God's security... &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
-SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.**
+<!-- SALVATION IS BY FAITH ALONE, IF YOU DON'T HAVE IT, YOU DON'T GO. OSAS is largely illogical and unscriptural. God will not force anyone into Heaven, only true believers (those who trust in the person of Christ for salvation) will be there, which leads me to my next point. **The only people who are sealed, are those with genuine saving faith, not superficial false profession.** -->
 
 If you have fallen away, I would ask you to repent like Christ commanded you to (Mt 4:17; Ac 17:30). Turn away from your apostasy (Ac 3:19; Ac 26:20), put your faith in the person of Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6).
 
