@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Calvary Chapel Distinctives (A Litmus Test)"
-date: 2024-03-06 7:25:00 -0500
+date: 2024-03-06 7:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -92,8 +92,10 @@ It will help you to make the distinction between **(1)** justification, which is
 The following is an excerpt from Chuck Smith's C2000. We also recommend his topical study on [repentance](https://youtu.be/kP8rIIps4Sk?t=130).
 
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
-
+>
 > 1Jn 3:8 **He that is practicing sin is of the devil**; for the devil sinneth from the beginning. And for this purpose the Son of God was manifested, that he might destroy the works of the devil. So again, don’t deceive yourself. <span style="font-weight:bold;color:orangered;">If you are <span style="font-size:1.2em;color:red;">practicing</span> sin, living in sin, you are not of God; you are a part of that rebellion against God, led by Satan.</span>
+>
+> &mdash; Chuck Smith (C2000)
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">6. Total Depravity</a>
 
@@ -148,8 +150,6 @@ Hopefully, your Calvary Chapel doesn't teach the [textless doctrine](https://sev
 &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Atonement. p. 11.
 
 <!-- <a name="grace" href="#contents" style="font-size:1.6em;">9. Resistible Grace</a> -->
-
-> under construction
 
 <a name="perseverance" href="#contents" style="font-size:1.6em;">9. Perseverance of The Saints</a>
 
