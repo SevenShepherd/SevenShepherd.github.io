@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "7️⃣ Things You Probably Didn't Know About Dispensationalism"
-date: 2024-03-17 03:00:00 -0500
+title: "🎱 Eight Concerning Things About Dispensationalism"
+date: 2024-03-17 03:15:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -14,7 +14,9 @@ published: true
 
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
-Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be (Ecc 1:18). I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
+Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be (Ecc 1:18). If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
+
+<!-- I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. -->
 
 > The LORD says,<br>
 >>“I will put a curse on people<br>
@@ -30,15 +32,17 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 
 <!-- 1. <a href="#1Jn2:4">A Critique of Dispensationalism</a> -->
 
-1. <a href="#strange-fire">1800s Strange Fire Origins</a>
-2. <a href="#antinomianism">Can Introduce Antinomianism</a>
-3. <a href="#chafer">Did Chafer Diminish The Gospel?</a>
-4. <a href="#ryrie">Ryrie Made Things Up</a>
-5. <a href="#contradiction">Two Second Comings Contradiction</a>
-6. <a href="#one-tree">There Is Only One Tree Not Two</a>
-7. <a href="#death">Appointed Once To Die</a>
 
-<a name="strange-fire" href="#contents" style="font-size:2.1em">🔥 Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.</a>
+1. <a href="#strange-fire">1800s Strange Fire Origins</a>
+2. <a href="#history">History Says Different</a>
+3. <a href="#antinomianism">Can Introduce Antinomianism</a>
+4. <a href="#chafer">Did Chafer Diminish The Gospel?</a>
+5. <a href="#ryrie">Ryrie Made Things Up</a>
+6. <a href="#contradiction">Two Second Comings Contradiction</a>
+7. <a href="#one-tree">There Is Only One Tree Not Two</a>
+8. <a href="#death">Appointed Once To Die</a>
+
+<a name="strange-fire" href="#contents" style="font-size:2.1em">1. 🔥 Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.</a>
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Joy9pDTx88E?si=g5qoPC_QH2JKHvvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -49,7 +53,13 @@ never heard this doctrine, never believed it, and never preached it, if you want
 >
 &mdash; [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht).
 
-<a name="antinomianism" href="#contents" style="font-size:2.1em">👁️‍🗨️ Can Introduce Antinomianism</a>
+<a name="history" href="#contents" style="font-size:2.1em">2. 🏺 History Says Different</a>
+
+Originating from Smyrna, Irenaeus had seen and heard the preaching of Polycarp, student of the Apostle John, and thus was <span style="font-weight:bold;color:ForestGreen;">the last known living connection with the Apostles</span>. **Irenaeus held to Historic Premillennialism.** 
+
+An even earlier source, Papias, another student of the Apostle John, also held to Historic Premillennialism. Makes you wonder, what it actually is that these dispensationalist teachers are actually teaching doesn't it.
+
+<a name="antinomianism" href="#contents" style="font-size:2.1em">3. 👁️‍🗨️ Can Introduce Antinomianism</a>
 
 ℹ️ Disclaimer: **Chuck Smith was a dispensationalist but he was definitely [not a dispensational antinomian](https://sevenshepherd.github.io/assurance/).** If you want to stick to dispensationalism, Smith or Rhodes will teach it without antinomianism.
 
@@ -74,7 +84,7 @@ These verses prove the following three things:
 2. We're under grace (Eph 2:8-10)
 3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
 
-<a name="chafer" href="#contents" style="font-size:2.1em">🆖 Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
+<a name="chafer" href="#contents" style="font-size:2.1em">4. 🆖 Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
 
 [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. A new group has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware this teaching! It's not a Biblical or scholarly conclusion.
 
@@ -104,7 +114,7 @@ Although my definition of repentance (p. 865) includes "a heartfelt sorrow for s
 
 **Chuck Smith was a dispensationalist but he was definitely [not a dispensational antinomian](https://sevenshepherd.github.io/assurance/).** If you want to stick to dispensationalism, Smith or Rhodes will teach it without antinomianism. -->
 
-<a name="ryrie" href="#contents" style="font-size:2.1em">💭 Charles Ryrie Made Things Up To Make Dispensationalism Work</a>
+<a name="ryrie" href="#contents" style="font-size:2.1em">5. 💭 Charles Ryrie Made Things Up To Make Dispensationalism Work</a>
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/_T4AhNUHxZA?si=PDyA7VeqX_PR7m8q&amp;start=547" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -114,7 +124,7 @@ I feel just as betrayed as Heiser, as I was also raised in dispensational theolo
 >
 &mdash; [Dr. Michael S. Heiser (PhD, University of Wisconsin)](https://www.youtube.com/@DRMSH). Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. He was far greater than a normal theologian, he was a textual critic.
 
-<a name="contradiction" href="#contents" style="font-size:2.1em">🧍‍♂️🧍‍♂️ Dispensationalism Effectively Teaches Two Second Comings</a>
+<a name="contradiction" href="#contents" style="font-size:2.1em">6. 🧍‍♂️🧍‍♂️ Dispensationalism Effectively Teaches Two Second Comings</a>
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Vi1Nr7IihHo?si=pkeQUEpcAV8nlb9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -138,7 +148,7 @@ As Paul says, he then hands over the kingdom to the Father. This is the moment w
 >
 &mdash; Michael F. Bird (Ph.D., University of Queensland).
 
-<a name="one-tree" href="#contents" style="font-size:2.1em">🌲 The Bible Only Speaks Of One Tree In Which We Are Grafted</a>
+<a name="one-tree" href="#contents" style="font-size:2.1em">7. 🌲 The Bible Only Speaks Of One Tree In Which We Are Grafted</a>
 
 |Theology|Stance|
 |:-:|:-:|
@@ -160,7 +170,7 @@ Just some food for thought.
 
 > And now that you belong to Christ, you are the true children of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
-<a name="death" href="#contents" style="font-size:2.1em">☠️ It Is Appointed Unto Men Once To Die</a>
+<a name="death" href="#contents" style="font-size:2.1em">8. ☠️ It Is Appointed Unto Men Once To Die</a>
 
 ℹ️ Disclaimer: This is technically a critique on pretribulational rapture, an option of premillennialism that can be made when selecting an eschatological system. It can exist independently from dispensationalism.
 
