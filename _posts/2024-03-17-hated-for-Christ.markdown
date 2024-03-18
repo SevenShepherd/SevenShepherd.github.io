@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "📜 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
-date: 2024-03-17 1:00:00 -0500
+title: "🆖 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
+date: 2024-03-17 1:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -31,11 +31,11 @@ This is because they do not have the spirit of God living inside of them.
 
 > These people are the ones who are creating divisions among you. They follow their natural instincts because they do not have God’s Spirit in them. &mdash; Jude 1:19 NLT
 
-For the past decade or so, all I have shown to others is Love, and correction when needed. When you are hated by these false movements ...
+For the past decade or so, all I have shown to others is Love, and correction when needed. Experiencing the hatred by these false movements first hand ...
 
 > But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. &mdash; Matthew 5:22 ESV
 
-.. projected upon, mislabeled, misrepresented, and slandered, I knew, at that moment, that Satan has recognized God's work through me as disruptive to his plans and has targeted me individually.
+.. being projected upon, mislabeled, misrepresented, and slandered, I knew, at that very moment, that Satan has recognized God's work through me as disruptive to his plans and has targeted me individually.
 
 > For you are the children of your father the devil, and you love to do the evil things he does. He was a murderer from the beginning. <span style="font-weight:bold;color:FireBrick;">He has always hated the truth, because there is no truth in him.</span> When he lies, it is consistent with his character; for he is a liar and the father of lies. &mdash; John 8:44 NLT
 
@@ -52,7 +52,7 @@ where the good way is; and walk in it,<br>
 <span style="margin-left:2em;"></span>and find rest for your souls.<br>
 But they said, ‘We will not walk in it.’
 
-Flee from those false teachers who divide families and depart from scripture. All I have ever shown others is love and correction. Now that **I am being persecuted**, I will expose them. I will no longer hold back in talking about these incredibly destructive movements.
+All I have ever shown others is love and correction. Now that **I am being persecuted**, I will expose them. I will no longer hold back in talking about these incredibly destructive movements.
 
 > The world can’t hate you, but it does hate me <span style="font-weight:bold;color:FireBrick;">because I accuse it of doing evil</span>. &mdash; John 7:7 NLT
 
