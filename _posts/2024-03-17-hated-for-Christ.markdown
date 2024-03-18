@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 2:05:00 -0500
+date: 2024-03-17 2:10:00 -0500
 categories: salvation
 published: true
 ---
@@ -20,7 +20,7 @@ The Bible shows that not only are they unwise...
 
 > <span style="font-weight:bold;color:FireBrick;">Do not reprove a scoffer, or he will hate you</span>; <span style="font-weight:bold;color:ForestGreen;">reprove a wise man, and he will love you</span>. &mdash; Proverbs 9:8 ESV
 
-... but that there is great evidence that they are false professors.
+... but that there is great evidence that they are false professors, if and only if, they both hate and live unrighteously.
 
 > If someone says, “I love God,” but hates a fellow believer, <span style="font-weight:bold;color:FireBrick;">that person is a <span style="font-size:1.2em;color:Red;">liar</span></span>; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 NLT
 
@@ -49,15 +49,19 @@ The Bible has given us instruction on which way to turn, and we are to turn to t
 <span style="margin-left:2em;"></span>and ask for the ancient paths,<br>
 where the good way is; and walk in it,<br>
 <span style="margin-left:2em;"></span>and find rest for your souls.<br>
-But they said, ‘We will not walk in it.’ &mdash; Jeremiah 6:16 ESV
+But they said, ‘We will not walk in it.’ 
+>
+&mdash; Jeremiah 6:16 ESV
 
-All I have ever shown others is love and correction. Now that **I am being persecuted**, I will expose them. I will no longer hold back in talking about these incredibly destructive movements.
+Now that **I am being persecuted**, I will no longer hold back in talking about these incredibly destructive movements. I will delineate their shortcomings responsibly.
 
 > The world can’t hate you, but it does hate me <span style="font-weight:bold;color:FireBrick;">because I accuse it of doing evil</span>. &mdash; **Jesus** in John 7:7 NLT
 
 > “If the world hates you, remember that it hated me first. The world would love you as one of its own if you belonged to it, but you are no longer part of the world. I chose you to come out of the world, so it hates you. &mdash; John 15:18-19 NLT
 
 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families.
+
+> If you repay good with evil, evil will never leave your house. &mdash; Proverbs 17:13
 
 Remember that it is not me that they hate, it's Christ himself. No one is hated more than he who speaks the truth.
 
