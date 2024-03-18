@@ -12,7 +12,10 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 <span style="font-size:1.2em;">Overview</span>
 
-1. Historic Protestant (The Five Solas)
+Theologically conservative historic / basic protestant, holding to the five solas, with moderate distinctives.
+
+
+<!-- 1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
 3. Moderate Distinctives (Mixture)
     - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
@@ -25,7 +28,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 7. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
-    - NLT Filament (Parallel)
+    - NLT Filament (Parallel) -->
 
 <!-- 4. Denomination
     - Reformed Baptist (SBC)
@@ -43,7 +46,10 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 <!-- Favorite scientists include: Sir Isaac Newton, Gottfried Wilhelm Leibniz, Michael Faraday, James Clerk Maxwell, Nikola Tesla, Albert Einstein, Kurt Friedrich Gödel, Dr. Hugh Ross, Dr. John C. Polkinghorne, Dr. John C. Lennox, Dr. Alister McGrath, Dr. Stephen C. Meyer, Dr. Michio Kaku. -->
 
-See my [**extended profile**](https://sevenshepherd.github.io/profile/).
+
+
+
+See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
 
 ## Recommended Articles
 
