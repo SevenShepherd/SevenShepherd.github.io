@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔥 Before You Can Repent You Need To Understand What Sin Is" 
-date: 2024-03-18 04:15:00 -0500
+date: 2024-03-18 04:20:00 -0500
 categories: sin
 published: true
 ---
@@ -71,7 +71,7 @@ There is a lake which burns with fire and brimstone (Re 21:8); where the worm di
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'KJV'
+            bibleVersion: 'ESV'
         }
     }; 
 
