@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 2:15:00 -0500
+date: 2024-03-17 2:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <!-- “” ― -->
 
-It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. They do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
+It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. Many do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
 > All Scripture is breathed out by God and profitable for teaching, for reproof, <span style="font-weight:bold;color:ForestGreen;">for correction</span>, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
 
@@ -58,6 +58,8 @@ Now that **I am being persecuted**, I will no longer hold back in talking about 
 > It isn’t my responsibility to judge outsiders, but <span style="font-weight:bold;color:ForestGreen;">it certainly is your responsibility to judge those inside the church who are sinning</span>. God will judge those on the outside; but as the Scriptures say, “You must remove the evil person from among you.” &mdash; 1 Corinthians 5:12-13 NLT
 
 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families.
+
+> The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep. &mdash; Ecclesiastes 12:11 NLT
 
 > If you repay good with evil, evil will never leave your house. &mdash; Proverbs 17:13
 
