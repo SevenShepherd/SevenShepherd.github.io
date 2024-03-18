@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
-date: 2024-03-17 1:15:00 -0500
+date: 2024-03-17 1:25:00 -0500
 categories: salvation
 published: true
 ---
@@ -15,7 +15,7 @@ published: true
 
 It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. They do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
-> All Scripture is breathed out by God and profitable for teaching, for reproof, **for correction**, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
+> All Scripture is breathed out by God and profitable for teaching, for reproof, <span style="font-weight:bold;color:ForestGreen;">for correction</span>, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
 
 The Bible shows that not only are they unwise...
 
