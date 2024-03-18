@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "⛪ Calvary Chapel Distinctives"
-date: 2024-03-06 7:15:00 -0500
+title: "⛪ Calvary Chapel Distinctives (A Litmus Test)"
+date: 2024-03-06 7:25:00 -0500
 categories: salvation
 published: true
 ---
+
+Heresies like legalism, antinomianism, pelagianism, semi-pelagianism, etc... are slowly working their way back into modern churches through modern theologies. **Chuck Smith has always been faithful to scripture** and I've written this article to get a bird's eye view of Chuck Smith's original teachings, and to provide a resource for those who attend Calvary Chapels, to weigh them in the balances of scripture and it's founders original and sound message. The church needs reform in every branch and denomination, and I seek to preserve the old ways (Jer 6:16).
 
 <!-- Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture? -->
 
