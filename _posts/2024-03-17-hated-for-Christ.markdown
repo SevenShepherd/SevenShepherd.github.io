@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 2:25:00 -0500
+date: 2024-03-17 2:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -18,7 +18,9 @@ It is my experience with modern movements, that they are filled with anger, hatr
 
 The Bible shows that not only are they unwise...
 
-> <span style="font-weight:bold;color:FireBrick;">Do not reprove a scoffer, or he will hate you</span>; <span style="font-weight:bold;color:ForestGreen;">reprove a wise man, and he will love you</span>. &mdash; Proverbs 9:8 ESV
+<!-- > <span style="font-weight:bold;color:FireBrick;">Do not reprove a scoffer, or he will hate you</span>; <span style="font-weight:bold;color:ForestGreen;">reprove a wise man, and he will love you</span>. &mdash; Proverbs 9:8 ESV -->
+
+> <span style="font-weight:bold;color:FireBrick;">So don’t bother correcting mockers; they will only hate you.</span> But <span style="font-weight:bold;color:ForestGreen;">correct the wise, and they will love you.</span> &mdash; Proverbs 9:8 NLT
 
 ... but that there is great evidence that they are false professors, if and only if, they both hate and live unrighteously.
 
@@ -34,7 +36,7 @@ For the past decade or so, all I have shown to others is Love, and correction wh
 
 > But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire. &mdash; Matthew 5:22 ESV
 
-.. being projected upon, mislabeled, misrepresented, and slandered. I knew, in those moments, that Satan had recognized God's work through me as disruptive to his plans and had targeted me individually.
+.. being projected upon, mislabeled, misrepresented, and slandered; I knew, in those moments, that Satan had recognized God's work through me as disruptive to his plans and had targeted me individually.
 
 > For you are the children of your father the devil, and you love to do the evil things he does. He was a murderer from the beginning. <span style="font-weight:bold;color:FireBrick;">He has always hated the truth, because there is no truth in him.</span> When he lies, it is consistent with his character; for he is a liar and the father of lies. &mdash; John 8:44 NLT
 
