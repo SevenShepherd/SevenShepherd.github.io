@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 1:45:00 -0500
+title: "🆖 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
+date: 2024-03-17 2:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -12,8 +12,9 @@ published: true
 
 <!-- “” ― -->
 
+# Hated For Teaching The Truth
 
-Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families. It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. They do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
+It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. They do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
 > All Scripture is breathed out by God and profitable for teaching, for reproof, <span style="font-weight:bold;color:ForestGreen;">for correction</span>, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
 
@@ -54,7 +55,7 @@ But they said, ‘We will not walk in it.’ &mdash; Jeremiah 6:16 ESV
 
 All I have ever shown others is love and correction. Now that **I am being persecuted**, I will expose them. I will no longer hold back in talking about these incredibly destructive movements.
 
-> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:FireBrick;">because I accuse it of doing evil</span>. &mdash; John 7:7 NLT
+> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:FireBrick;">because I accuse it of doing evil</span>. &mdash; **Jesus** in John 7:7 NLT
 
 > “If the world hates you, remember that it hated me first. The world would love you as one of its own if you belonged to it, but you are no longer part of the world. I chose you to come out of the world, so it hates you. &mdash; John 15:18-19 NLT
 
