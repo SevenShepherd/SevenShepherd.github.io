@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 7:05:00 -0500
+title: "⛪ Calvary Chapel Distinctives"
+date: 2024-03-06 7:15:00 -0500
 categories: salvation
 published: true
 ---
 
-What do I mean by &ldquo;*depart from scripture.*&rdquo; To clarify, I am not talking about the 'isms of Protestantism. If you lean more Calvinistic, or more Arminian, **you are fine and not what I'm speaking of,** as I myself am ever so slightly more reformed. I'm speaking of heresy, like legalism, antinomianism, pelagianism, semi-pelagianism, etc. I've written this article to get a bird's eye view of Chuck Smith's original teachings, and to provide a resource for those who attend Calvary Chapels, to weigh them in the balances of scripture and it's founders original and sound message.
+<!-- Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture? -->
+
+<!-- What do I mean by &ldquo;*depart from scripture.*&rdquo; To clarify, I am not talking about the 'isms of Protestantism. If you lean more Calvinistic, or more Arminian, **you are fine and not what I'm speaking of,** as I myself am ever so slightly more reformed. I'm speaking of heresy, like legalism, antinomianism, pelagianism, semi-pelagianism, etc. I've written this article to get a bird's eye view of Chuck Smith's original teachings, and to provide a resource for those who attend Calvary Chapels, to weigh them in the balances of scripture and it's founders original and sound message. -->
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
