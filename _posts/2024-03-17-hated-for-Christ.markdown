@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🆖 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
-date: 2024-03-17 2:00:00 -0500
+title: "🆖 Hated For Teaching The Truth"
+date: 2024-03-17 2:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -11,8 +11,6 @@ published: true
 <!-- One of the most hateful things, done in the spirit of Satan himself, is to label those who correct you in love, as hateful themselves. People who do this are devoid of the spirit of God.  -->
 
 <!-- “” ― -->
-
-# Hated For Teaching The Truth
 
 It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. They do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
@@ -59,8 +57,11 @@ All I have ever shown others is love and correction. Now that **I am being perse
 
 > “If the world hates you, remember that it hated me first. The world would love you as one of its own if you belonged to it, but you are no longer part of the world. I chose you to come out of the world, so it hates you. &mdash; John 15:18-19 NLT
 
+Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families.
+
 Remember that it is not me that they hate, it's Christ himself. No one is hated more than he who speaks the truth.
 
+Repent.
 
 <script>
     var refTagger = {
