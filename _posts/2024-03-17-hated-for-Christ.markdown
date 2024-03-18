@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who stray from scripture and divide families."
-date: 2024-03-17 1:25:00 -0500
+date: 2024-03-17 1:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -50,7 +50,7 @@ The Bible has given us instruction on which way to turn, and we are to turn to t
 <span style="margin-left:2em;"></span>and ask for the ancient paths,<br>
 where the good way is; and walk in it,<br>
 <span style="margin-left:2em;"></span>and find rest for your souls.<br>
-But they said, ‘We will not walk in it.’
+But they said, ‘We will not walk in it.’ &mdash; Jeremiah 6:16 ESV
 
 All I have ever shown others is love and correction. Now that **I am being persecuted**, I will expose them. I will no longer hold back in talking about these incredibly destructive movements.
 
