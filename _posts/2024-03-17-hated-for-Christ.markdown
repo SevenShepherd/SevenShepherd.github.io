@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 3:25:00 -0500
+date: 2024-03-17 3:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -14,10 +14,11 @@ published: true
 
 <!-- “” ― --> 
 
-It has become a reoccurring theme to find myself the target of false teachers and false converts.
-- Years ago, false witness caused unprovoked attacks and several years of malicious slander against me, targeting my God-given abilities and progress. Envy turned to hatred, despite my kindness and refusal to retaliate. This caused me to do deep research on what a Christian actually is, because they certainly did not represent Christ.
-- The second time was about a year ago, when a great spirit of division was forced upon my family and we were maligned by an unbiblical, anti-evangelical, and sub-Christian movement for not swallowing uncritically the new thing. We were harassed for about a year as my family got attacked in text messages and verbally abused because we rejected their strange movement.
-- The third instance is happening recently for defending the scriptures, and defending the teachings of the Calvary Chapel founder Chuck Smith. A possible heretical sect, the same one referred to in the second example, has taken over in recent years. An attempt to correct their false teachings has caused them to showcase great pride, anger, and false witness against me yet again.
+It has become a reoccurring theme to find myself the target of false teachers and false converts. There's actually no easy way to write this, but abuses in the church should be addressed. No names will be mentioned in this article, and identities will be protected. I don't want to slander anyone myself, I only seek peach and resolution an the only way I know how to do that is by voicing my concerns.
+
+- Years ago, false witness, from a worship leader, caused unprovoked attacks and several years of malicious slander against me, targeting my God-given abilities and progress. Envy turned to hatred, despite my kindness and refusal to retaliate. This caused me to do deep research on what a Christian actually is, because they certainly did not represent Christ.
+- The second time was about a year ago, when a great spirit of division was forced upon my family and we were maligned by members of an unbiblical, anti-evangelical, and sub-Christian movement for not swallowing uncritically &ldquo;*the new thing*&rdquo;. We were harassed for about a year as my family got attacked in text messages and verbally abused because we rejected their strange movement.
+- The third instance is happening recently for defending the scriptures, and defending the teachings of the Calvary Chapel founder Chuck Smith. A possible heretical sect, the same one referred to in the second example, has taken over in recent years. An attempt to correct their false teachings has caused them to showcase great arrogance, anger, and false witness against me in a passive aggressive way.
 
 It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. Many do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
