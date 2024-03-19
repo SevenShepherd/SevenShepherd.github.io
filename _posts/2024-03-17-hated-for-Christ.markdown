@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 5:05:00 -0500
+date: 2024-03-17 5:15:00 -0500
 categories: salvation
 published: true
 ---
@@ -21,7 +21,7 @@ It has become a reoccurring theme to find myself the target of false teachers an
 - When my Dad almost died from sepsis, as I sat in the hospital, the individuals from the first group called me a coward for not being able to answer the phone fast enough for their liking, I guess I was late for my scheduled verbal abuse. After seven years of quietly taking said abuse, that was the day they were blocked forever. Some members from the second example made comments that he deserved it or that it was divine retribution for teaching repentance and fruit-bearing, a concept they despise. A concept that Jesus, all the Apostles, and Chuck Smith taught by the way.
 - The third instance is happening recently for [defending the scriptures, and defending the teachings of the Calvary Chapel founder Chuck Smith](https://sevenshepherd.github.io/calvary-chapel/). A possible heretical sect, the same one referred to in all the examples above, has taken over in recent years. An attempt to correct their false teachings has caused them to showcase great arrogance, anger, and false witness against me in a passive-aggressive way.
 
-It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. Many do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. These experiences have led me to the conclusion that I should campaign against the sect that has hijacked the Calvary Chapel Movement, known as [the 80s &ldquo;Free Grace&rdquo; Movement](https://sevenshepherd.github.io/dispensationalism/#chafer). The Calvary Chapel was originally a moderately protestant movement which I loved and had a lifelong history with. An Evil force from the 80s is destroying it's founders original message from within.
+It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. Many do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. These experiences have led me to the conclusion that I should campaign against the sect that has hijacked the Calvary Chapel Movement, known as [the 80s &ldquo;Free Grace&rdquo; Movement](https://sevenshepherd.github.io/dispensationalism/#chafer). The Calvary Chapel was originally a moderately protestant movement which I loved and had a lifelong history with. An Evil force from the 80s is destroying it's founders original message from within. Honestly, if it crumbles I'm not sure it matters, because I've found a new home in protestantism.
 
 > All Scripture is breathed out by God and profitable for teaching, for reproof, <span style="font-weight:bold;color:ForestGreen;">for correction</span>, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
 
