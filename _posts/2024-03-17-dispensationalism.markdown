@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 04:00:00 -0500
+date: 2024-03-17 07:00:00 -0500
 categories: dispensationalism
 published: true
 ---
