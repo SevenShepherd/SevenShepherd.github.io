@@ -8,7 +8,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
 >
->> 2 Timothy 2:15 sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
+>> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
 
 The Bible tells us to test all things.
 
