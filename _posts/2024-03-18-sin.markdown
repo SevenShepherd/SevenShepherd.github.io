@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛓️ Sin" 
-date: 2024-03-18 05:10:00 -0500
+title: "⛓️ The message that ‘There is forgiveness of sins for all who repent.’ should be preached to the entire world in the name of Jesus. Repent therefore, and turn back, that your sins may be blotted out."
+date: 2024-03-18 05:15:00 -0500
 categories: sin
 published: true
 ---
@@ -14,7 +14,6 @@ published: true
 4. <a href="#wages-of-sin">What Happens To Sinners?</a>
 5. <a href="#repent-faith">How Do I Escape?</a>
 6. <a href="#conclusion">Conclusion</a>
-
 
 <a name="definition" href="#contents" style="font-size:1.6em">⛓️ 1. The Definition of Sin</a>
 
