@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 5:15:00 -0500
+date: 2024-03-17 5:25:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 <!-- And The Almost Comical Reaction Of False Teachers To Christ's Teachings On Repentance And Fruit-Bearing -->
