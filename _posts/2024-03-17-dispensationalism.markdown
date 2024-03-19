@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 03:45:00 -0500
+date: 2024-03-17 03:55:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -40,7 +40,7 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 5. <a href="#ryrie">Ryrie Made Things Up</a>
 6. <a href="#contradiction">Two Second Comings Contradiction</a>
 7. <a href="#one-tree">There Is Only One Tree Not Two</a>
-8. <a href="#death">Appointed Once To Die</a>
+8. <a href="#signs">No Signs Point To The Rapture</a>
 
 <a name="strange-fire" href="#contents" style="font-size:1.6em">🔥 1. Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.</a>
 
@@ -170,7 +170,11 @@ Just some food for thought.
 
 > And now that you belong to Christ, you are the true children of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
-<a name="death" href="#contents" style="font-size:1.6em">☠️ 8. It Is Appointed Unto Men Once To Die</a>
+<a name="signs" href="#contents" style="font-size:1.6em">☠️ 8. All Signs Point To The Second Coming</a>
+
+All verses used to support the rapture can also be applied to a post-trib stance. Remember that even in dispensationalism, all signs and prophecies point to the second coming, none to the rapture.
+
+<a name="death" href="#contents" style="font-size:1.6em">☠️ Bonus. It Is Appointed Unto Men Once To Die</a>
 
 ℹ️ Disclaimer: This is technically a critique on pretribulational rapture, an option of premillennialism that can be made when selecting an eschatological system. It can exist independently from dispensationalism.
 
