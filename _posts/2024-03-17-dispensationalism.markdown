@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 07:05:00 -0500
+date: 2024-03-17 07:15:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -40,7 +40,7 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 5. <a href="#ryrie">Ryrie Made Things Up</a>
 6. <a href="#contradiction">Two Second Comings Contradiction</a>
 7. <a href="#one-tree">There Is Only One Tree Not Two</a>
-8. <a href="#signs">No Signs Point To The Rapture</a>
+8. <a href="#signs">All Signs Point To The Second Coming</a>
 
 <a name="strange-fire" href="#contents" style="font-size:1.6em">🔥 1. Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.</a>
 
