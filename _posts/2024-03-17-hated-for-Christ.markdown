@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 3:00:00 -0500
+date: 2024-03-17 3:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -23,19 +23,20 @@ It is my experience with modern movements, that they are filled with anger, hatr
 
 > All Scripture is breathed out by God and profitable for teaching, for reproof, <span style="font-weight:bold;color:ForestGreen;">for correction</span>, and for training in righteousness, &mdash; 2 Timothy 3:16 ESV
 
-The Bible shows that not only are they unwise...
+The Bible shows that not only are they unwise for becoming frustrated at a very soft admonition...
 
 <!-- > <span style="font-weight:bold;color:FireBrick;">Do not reprove a scoffer, or he will hate you</span>; <span style="font-weight:bold;color:ForestGreen;">reprove a wise man, and he will love you</span>. &mdash; Proverbs 9:8 ESV -->
 
 > <span style="font-weight:bold;color:FireBrick;">So don’t bother correcting mockers; they will only hate you.</span> But <span style="font-weight:bold;color:ForestGreen;">correct the wise, and they will love you.</span> &mdash; Proverbs 9:8 NLT
 
-... but that there is great evidence that they are false professors, if and only if, they both hate and live unrighteously.
+... but that there is great evidence that they are false professors. Love was taught from the beginning (1 Jn 3:11), I have talked for hours not only to people of my own faith within protestantism, but I've also spoken in love to those lost in the cults in my family, sometimes for 5 hours straight without any negative experience, and always ending in kindness.
 
 > If someone says, “I love God,” but hates a fellow believer, <span style="font-weight:bold;color:FireBrick;">that person is a <span style="font-size:1.2em;color:Red;">liar</span></span>; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 NLT
 
-> So now <span style="font-weight:bold;color:FireBrick;">we can tell</span> who are children of God and who are <span style="font-weight:bold;color:FireBrick;">children of the devil</span>. <span style="font-weight:bold;font-size:1.2em;color:ForestGreen;">Anyone</span> who does not live righteously [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">dikaiosynē</a>] and does not love [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">agapaō</a>] other believers <span style="font-weight:bold;color:FireBrick;">does not belong to God</span>. &mdash; 1 John 3:10 NLT
+> So now <span style="font-weight:bold;color:FireBrick;">we can tell</span> who are children of God and who are <span style="font-weight:bold;color:FireBrick;">children of the devil</span>. <span style="font-weight:bold;font-size:1.2em;color:Red;">Anyone</span> who does not live righteously [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">dikaiosynē</a>] and does not love [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">agapaō</a>] other believers <span style="font-weight:bold;color:FireBrick;">does not belong to God</span>. &mdash; 1 John 3:10 NLT
 
-This is because they do not have the spirit of God living inside of them.
+
+The reason those who would mislabel me and bear false witness against me do such things is because they do not have the spirit of God living inside of them. Otherwise they would have looked at the information provided and examined themselves first before assaulting others. The very fact that they would assault the information that their own founder provided is telling evidence that they have fallen very far from the tree.
 
 > These people are the ones who are creating divisions among you. They follow their natural instincts because they do not have God’s Spirit in them. &mdash; Jude 1:19 NLT
 
