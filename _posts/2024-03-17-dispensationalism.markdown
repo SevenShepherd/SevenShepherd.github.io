@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 07:00:00 -0500
+date: 2024-03-17 07:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -174,22 +174,18 @@ Just some food for thought.
 
 All verses used to support the rapture can also be applied to a post-trib stance. Remember that even in dispensationalism, all signs and prophecies point to the second coming, none to the rapture.
 
-<a name="death" href="#contents" style="font-size:1.6em">☠️ Bonus. It Is Appointed Unto Men Once To Die</a>
+<!-- <a name="death" href="#contents" style="font-size:1.6em">☠️ Bonus. It Is Appointed Unto Men Once To Die</a>
 
 ℹ️ Disclaimer: This is technically a critique on pretribulational rapture, an option of premillennialism that can be made when selecting an eschatological system. It can exist independently from dispensationalism.
-
-<!-- Many people hope on a pre-tribulational rapture because, to them, it functions as a &lsquo;get out of jail free card&rsquo; when it comes to dying. Of course, anyone would jump at the chance to get out of dying, but that doesn't mean it's scriptural. Is this simply hope, or is it a spirit of fear that causes people to gravitate toward doctrines they cannot prove? For me, in the past it was hope and trust in teachers who I thought knew better, but I suspect many people overlook what scripture says out of fear. -->
 
 > And just as **each person is destined to die once** and after that comes judgment, &mdash; Hebrews 9:27 NLT
 
 > for God gave us a spirit **not of fear** but of power and love and self-control. &mdash; 2 Timothy 1:7
 
-<!-- You might be quick to provide me with verses I've known since I was a child such as, &ldquo;*We shall not all sleep*&rdquo;, but this is likely talking about the second coming, and is not only just as applicable to it, but more logical to say, that upon Christ's return we're transformed post-tribulationally. -->
-
 All verses used to support the rapture can also be applied to a post-trib stance. Remember that even in dispensationalism, all signs and prophecies point to the second coming, none to the rapture.
 
 > Behold! I tell you a mystery. **We shall not all sleep**, but we shall all be changed,
->> But let me reveal to you a wonderful secret. **We will not all die**, but we will all be transformed! &mdash; 1 Corinthians 15:51 ESV, NLT (Parallel)
+>> But let me reveal to you a wonderful secret. **We will not all die**, but we will all be transformed! &mdash; 1 Corinthians 15:51 ESV, NLT (Parallel) -->
 
 <script>
     var refTagger = {
