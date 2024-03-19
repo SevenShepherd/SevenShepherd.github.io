@@ -1,16 +1,23 @@
 ---
 layout: post
 title: "🆖 Hated For Teaching The Truth"
-date: 2024-03-17 2:35:00 -0500
+date: 2024-03-17 3:00:00 -0500
 categories: salvation
 published: true
 ---
+
+<!-- And The Almost Comical Reaction Of False Teachers To Christ's Teachings On Repentance And Fruit-Bearing -->
 
 <!-- Labeling those who correct you in love as hateful is a tactic of Satan himself. Such people lack the spirit of God. Beware of false teachers who divide families and stray from scripture. -->
 
 <!-- One of the most hateful things, done in the spirit of Satan himself, is to label those who correct you in love, as hateful themselves. People who do this are devoid of the spirit of God.  -->
 
-<!-- “” ― -->
+<!-- “” ― --> 
+
+It has become a reoccurring theme to find myself the target of false teachers and false converts.
+
+- Years ago, false witness caused unprovoked attacks and several years of malicious slander against me, targeting my God-given abilities and progress. Envy turned to hatred, despite my kindness and refusal to retaliate.
+- The second instance is happening recently for defending the scriptures, and defending the founder of a movement who was loyal to what the Bible teaches. A possible heretical sect has taken over in recent years. An attempt to correct their false teachings has caused them to showcase great pride, anger, and false witness against me yet again. 
 
 It is my experience with modern movements, that they are filled with anger, hatred, and judgement for those who are correcting them in love. Many do not bear [the fruits that Christ told us to look for](https://sevenshepherd.github.io/fruits/) in the lives of the those with genuine saving faith. 
 
