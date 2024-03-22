@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🐏 “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11" 
-date: 2024-03-22 01:10:00 -0500
+date: 2024-03-22 01:15:00 -0500
 categories: hate slander philosophy
 published: true
 ---
@@ -10,11 +10,11 @@ There are those who would rather have soft nothings whispered into their ears by
 
 # Jesus (God made manifest)
 
-> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:Crimson;">because <span style="font-size:1.2em;color:Red;">I accuse it</span> of doing evil</span>. &mdash; **Jesus** in John 7:7 (cf. John 15:18-19)
+> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:OrangeRed;">because <span style="font-size:1.2em;color:Red;">I accuse it</span> of doing evil</span>. &mdash; **Jesus** in John 7:7 (cf. John 15:18-19)
 
 --
 
-> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:Crimson;">you are not worthy of being mine</span>.” — **Jesus** in Matthew 10:38 (cf. Luke 9:23 NET; Lk 14:27)
+> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:OrangeRed;">you are not worthy of being mine</span>.” — **Jesus** in Matthew 10:38 (cf. Luke 9:23 NET; Lk 14:27)
 
 --
 
@@ -27,15 +27,15 @@ There are those who would rather have soft nothings whispered into their ears by
 
 # The Apostle John
 
-> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:Crimson;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
+> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
 
 --
 
-> If someone says, “I love God,” but hates a fellow believer, <span style="font-weight:bold;color:Crimson;">that person is a <span style="font-size:1.2em;color:Red;">liar</span></span>; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 (cf. 1Jn 2:9; 1Jn 3:15)
+> If someone says, “I love God,” but hates a fellow believer, <span style="font-weight:bold;color:OrangeRed;">that person is a <span style="font-size:1.2em;color:Red;">liar</span></span>; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 (cf. 1Jn 2:9; 1Jn 3:15)
 
 --
 
-> So now <span style="font-weight:bold;color:Crimson;">we can tell</span> who are children of God and who are <span style="font-weight:bold;font-size:1.2em;color:Red;">children of the devil</span>. <span style="font-weight:bold;color:Crimson;">Anyone</span> who does not live righteously [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">dikaiosynē</a>] and does not love [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">agapaō</a>] other believers <span style="font-weight:bold;color:Crimson;">does not belong to God</span>. &mdash; 1 John 3:10 NLT
+> So now <span style="font-weight:bold;color:OrangeRed;">we can tell</span> who are children of God and who are <span style="font-weight:bold;font-size:1.2em;color:Red;">children of the devil</span>. <span style="font-weight:bold;color:OrangeRed;">Anyone</span> who does not live righteously [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">dikaiosynē</a>] and does not love [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">agapaō</a>] other believers <span style="font-weight:bold;color:OrangeRed;">does not belong to God</span>. &mdash; 1 John 3:10 NLT
 
 --
 
@@ -43,7 +43,7 @@ There are those who would rather have soft nothings whispered into their ears by
 
 --
 
-> “He is clothed with a robe <span style="font-weight:bold;color:Crimson;">dipped in blood</span>, and His name is called The Word of God.” — Jesus in Revelation 19:13 NASB '95
+> “He is clothed with a robe <span style="font-weight:bold;font-size:1.2em;color:Crimson;">dipped in blood</span>, and His name is called The Word of God.” — Jesus in Revelation 19:13 NASB '95
 
 --
 
@@ -66,7 +66,7 @@ Today I will drive the sheep to greener pastures. Some people would rather have 
 
 No one is hated more than he who speaks the truth. If you love this message of correction and reproof the Bible calls you a wise man, if not a fool (Proverbs 9:8).
 
-> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:Crimson;">because I accuse it of doing evil</span>. &mdash; **Jesus** in John 7:7
+> The world can’t hate you, but it does hate me <span style="font-weight:bold;color:OrangeRed;">because I accuse it of doing evil</span>. &mdash; **Jesus** in John 7:7
 
 > “If the world hates you, remember that it hated me first. The world would love you as one of its own if you belonged to it, but you are no longer part of the world. I chose you to come out of the world, so it hates you. &mdash; John 15:18-19
 
@@ -74,9 +74,9 @@ No one is hated more than he who speaks the truth. If you love this message of c
 
 Genuine saving faith results in obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10) and good works that follow after justification (James 2:14-26; Eph 2:10). Obedience does not merit salvation, salvation produces obedience. Christianity is a call to discipleship.
 
-> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:Crimson;">you are not worthy of being mine</span>.” — Jesus in Matthew 10:38
+> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:OrangeRed;">you are not worthy of being mine</span>.” — Jesus in Matthew 10:38
 
-> Then he said to them all, “If anyone wants to become my follower, he must deny himself, take up his cross <span style="font-weight:bold;color:Crimson;">daily</span>, and follow me. &mdash; Luke 9:23 NET
+> Then he said to them all, “If anyone wants to become my follower, he must deny himself, take up his cross <span style="font-weight:bold;color:OrangeRed;">daily</span>, and follow me. &mdash; Luke 9:23 NET
 
 # Repent or Perish
 
