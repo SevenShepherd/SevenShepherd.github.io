@@ -3,7 +3,7 @@ layout: post
 title: "The Risen And Glorified Christ Preached Repentance To Five Of The Seven Churches In Asia, In The Book Of Revelation. You Better Believe That Repentance Is The “Resulting” Fruit Of Genuine Saving Faith." 
 date: 2024-03-25 01:00:00 -0500
 categories: repentance
-published: false
+published: true
 ---
 
 ## By viewing repentance as a “Resulting” fruit of genuine saving faith, you avoid the heresies of legalism and antinomianism
