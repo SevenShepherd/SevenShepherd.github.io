@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ “Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.” — The Apostle Paul" 
-date: 2024-03-25 02:00:00 -0500
+date: 2024-03-25 02:10:00 -0500
 categories: repentance
 published: true
 ---
@@ -14,9 +14,9 @@ published: true
 
 This is not about legalism, this is about fruit bearing. Even though we are now under grace, this does not mean that we won't bear the fruits of obedience through the indwelling of the Holy Spirit (John 15:4).
 
-> <span style="font-weight:bold;color:orangered;">Do we then overthrow the law by</span> <span style="font-weight:bold;font-size:1.2em;color:GoldenRod;">this faith?</span> <span style="font-weight:bold;font-size:1.2em;color:Red;">By no means!</span> <span style="font-weight:bold;color:Crimson;">On the contrary, we uphold the law</span>. &mdash; Romans 3:31 ESV
+> <span style="font-weight:bold;color:OrangeRed;">Do we then overthrow the law by</span> <span style="font-weight:bold;font-size:1.2em;color:Orange;">this faith?</span> <span style="font-weight:bold;font-size:1.2em;color:Red;">By no means!</span> <span style="font-weight:bold;color:OrangeRed;">On the contrary, we uphold the law</span>. &mdash; Romans 3:31 ESV
 
-A Christian who has truly been saved by grace through faith will desire, supernaturally, for Godly dispositions of morality. They will desire to keep the 10 commandments in a non-legalistic, fruit-bearing way. They will progressively desire to do so through the sanctification of the Holy Spirit (2Thess 2:13; Jn 15:1-17; Gal 5:22-23).
+A Christian who has truly been saved by grace through faith will desire, supernaturally, for Godly dispositions of morality. They will desire to keep the ten commandments in a non-legalistic, non-meritorious, fruit-bearing way. They will progressively desire to do so through the sanctification of the Holy Spirit (2Thess 2:13; Jn 15:1-17; Gal 5:22-23).
 
 ## II. Christians Do Not Live Lifestyles Of Indulgent Sin
 
@@ -32,6 +32,18 @@ These verses prove the following three things:
 3. We still don't make a "practice" of sin, abuse grace as a license to sin, or remain in sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31).
 
 ℹ️ Disclaimer: Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+
+<br>
+
+---
+
+<br>
+
+> Legalistic religion in all its forms should be avoided like the plague. &mdash; [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) [Concise Theology. Chapter 65 Legalism. p. 191.](https://amzn.to/40RYx1A)
+
+> Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is <span style="font-size:1.2em;">not yet ours</span>**. &mdash; [Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. Chapter 59 Works. p. 174.](https://youtu.be/jOFsFgUUdZo). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:OrangeRed">not faith <span style="font-size:1.2em;color:Red">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
 
 <script>
     var refTagger = {
