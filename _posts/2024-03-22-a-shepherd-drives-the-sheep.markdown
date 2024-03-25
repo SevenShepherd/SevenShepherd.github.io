@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🐏 “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11" 
-date: 2024-03-22 01:15:00 -0500
+date: 2024-03-22 01:25:00 -0500
 categories: hate slander philosophy
-published: true
+published: false
 ---
 
 There are those who would rather have soft nothings whispered into their ears by false teachers than hard truths by real ones (2Tim 4:3-4). Today that changes. I want you to see for yourself that Jesus, the Apostles, and other important figures in the Bible, were not afraid to speak the truth no matter who it offended (Lk 7:23 ESV).
@@ -14,7 +14,7 @@ There are those who would rather have soft nothings whispered into their ears by
 
 --
 
-> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:OrangeRed;">you are not worthy of being mine</span>.” — **Jesus** in Matthew 10:38 (cf. Luke 9:23 NET; Lk 14:27)
+> “If you refuse to take up your cross and follow me, <span style="font-weight:bold;color:OrangeRed;">you are <span style="font-size:1.2em;color:Red;">not worthy</span> of being mine</span>.” — **Jesus** in Matthew 10:38 (cf. Luke 9:23 NET; Lk 14:27)
 
 --
 
