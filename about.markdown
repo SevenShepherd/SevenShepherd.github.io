@@ -4,7 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X/Twitter account is run from a custom built raspberry pi single-board computer and a custom computer program. Please feel free to look around, read articles, or contact me below.
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom built raspberry pi single-board computer and a custom computer program. Please feel free to look around, read articles, or contact me below.
+
+<!-- <span style="font-size:1.2em;">Overview</span> -->
+
+## Overview & Recommended Articles
+
+I am a theologically conservative protestant, holding to the [five solas](/assets/images/solas.jpg), with moderate distinctives. I was raised around [Wesleyans (Arminian)](https://sevenshepherd.github.io/ordo-salutis-arminian/) on my grandfathers side, Baptists on my grandmothers, and the [Calvary Chapel (Moderate)](https://sevenshepherd.github.io/calvary-chapel/) by my parents, and [Reformed Baptist (Calvinist)](https://sevenshepherd.github.io/ordo-salutis-calvinist/) by my life-long friend. After a lifetime in Christianity, and years of recent research, I find myself to be [completely moderate](https://sevenshepherd.github.io/theology/), but loving to all those who hold to [essential doctrine](https://bit.ly/3XJY5AB). I will also peacefully and kindly debate those who are lost in the cults without any animosity.
+
+See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
+
+- [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/)
+- [Repentance For The Forgiveness of Sins](https://sevenshepherd.github.io/sin/)
+- [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
+- [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
+- [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
+- [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
+- [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
+- [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
+- [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
+- [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
+
+<br>
+
+---
+
+<br>
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
 >
@@ -16,12 +41,9 @@ The Bible tells us to test all things.
 
 <!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
 
-<span style="font-size:1.2em;">Overview</span>
 
-Theologically conservative historic / basic protestant, holding to the five solas, with moderate distinctives.
-
-
-<!-- 1. Historic Protestant (The Five Solas)
+<!-- 
+1. Historic Protestant (The Five Solas)
 2. Theologically Conservative
 3. Moderate Distinctives (Mixture)
     - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
@@ -34,7 +56,8 @@ Theologically conservative historic / basic protestant, holding to the five sola
 7. Bible Recommendations
     - ESV Study Bible
     - NET Full Notes
-    - NLT Filament (Parallel) -->
+    - NLT Filament (Parallel) 
+-->
 
 <!-- 4. Denomination
     - Reformed Baptist (SBC)
@@ -51,23 +74,6 @@ Theologically conservative historic / basic protestant, holding to the five sola
 <!-- > "My theory is rationalistic, idealistic, optimistic, and theological" &mdash; Kurt Friedrich Gödel -->
 
 <!-- Favorite scientists include: Sir Isaac Newton, Gottfried Wilhelm Leibniz, Michael Faraday, James Clerk Maxwell, Nikola Tesla, Albert Einstein, Kurt Friedrich Gödel, Dr. Hugh Ross, Dr. John C. Polkinghorne, Dr. John C. Lennox, Dr. Alister McGrath, Dr. Stephen C. Meyer, Dr. Michio Kaku. -->
-
-
-
-
-See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
-
-## Recommended Articles
-
-- [**An Entire Article Describing My Theology**](https://sevenshepherd.github.io/theology/)
-- [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
-- [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
-- [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
-- [Christians Are Unified By Essential Doctrine](https://bit.ly/3XJY5AB)
-- [A Comprehensive Study On Jesus Deity](https://bit.ly/3HIQIoK)
-- [An In-Depth Study On Revelation's Prologue](https://bit.ly/3VcXMNy)
-- [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
-- [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 
 <script>
     var refTagger = {
