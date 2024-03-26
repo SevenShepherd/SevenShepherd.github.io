@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Arminianism)"
-date: 2023-09-22 1:25:00 -0500
+date: 2023-09-22 1:35:00 -0500
 categories: salvation
 published: true
 ---
@@ -19,7 +19,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="arminian" href="#contents" style="font-size:2.1em;">I. Arminian theology</a>
 
-⚠️ Arminians are thrice [synergistic](https://carm.org/dictionary/synergism/). They view regeneration, sanctification, and perseverance as a synergistic activity. Denominations associated with this theological tradition are Wesleyan and Methodist.
+⚠️ Arminians are thrice synergistic: they view regeneration, sanctification, and perseverance as a synergistic activity. While it is true they are synergistic, they are still Protestant in the way that they hold to justification being by faith alone &ldquo;*resulting*&rdquo; in fruit-bearing, just like any other protestant &lsquo;ism. As long as they place their trust in Christ for salvation and view everything else as &ldquo;*resulting*&rdquo; fruits of the faith, they are saved by grace through faith. This group in particular has created some of the most steadfast and spirit filled Christians I've known in my lifetime. Denominations associated with this theological tradition are Wesleyan and Methodist.
 
 <!-- It's also possible they are [Semi-Pelagian](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/). -->
 
