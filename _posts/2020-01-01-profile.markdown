@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 5:05:00 -0500
+date: 2020-01-01 5:10:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -215,7 +215,7 @@ This ministry does not recommend a Bible of the paraphrase type. We would instea
 
 <!-- I consider myself to be firmly [&ldquo;historic Protestant&rdquo;](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/) with moderate distinctives. While I quote Calvinists & Arminians, and agree with some of their positions, I don't hold strictly to either side. I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).  -->
 
-I am a theologically conservative protestant, holding to the [five solas](/assets/images/solas.jpg), with moderate distinctives. I was raised around [Wesleyans (Arminian)](https://sevenshepherd.github.io/ordo-salutis-arminian/) on my grandfathers side, Baptists on my grandmothers, and the [Calvary Chapel (Moderate)](https://sevenshepherd.github.io/calvary-chapel/) by my parents, and [Reformed Baptist (Calvinist)](https://sevenshepherd.github.io/ordo-salutis-calvinist/) by my life-long friend. After a lifetime in Christianity, and years of recent research, I find myself to be [completely moderate](https://sevenshepherd.github.io/theology/), but loving to all those who hold to [essential doctrine](https://bit.ly/3XJY5AB). I will also peacefully and kindly debate those who are lost in the cults without any animosity.
+I am a theologically conservative protestant, holding to the [five solas](/assets/images/solas.jpg), with moderate distinctives. I was raised around [Wesleyans (Arminian)](https://sevenshepherd.github.io/ordo-salutis-arminian/) on my grandfathers side, Baptists on my grandmothers, the [Calvary Chapel (Moderate)](https://sevenshepherd.github.io/calvary-chapel/) by my parents, and [Reformed Baptists (Calvinist)](https://sevenshepherd.github.io/ordo-salutis-calvinist/) by my life-long friend. After a lifetime in Christianity, and years of recent research, I find myself to be [completely moderate](https://sevenshepherd.github.io/theology/), but loving to all those who hold to [essential doctrine](https://bit.ly/3XJY5AB). I will also peacefully and kindly debate those who are lost in the cults without any animosity.
 
 If I had to describe my theology, it would be some amalgamation of [amyraldianism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/) and [reformed wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/). I also hold a [compatibilist](https://sevenshepherd.github.io/chosen/) view on predestination and the sovereignty-responsibility tension problem. I consider myself to be a soft-cessationist, as I cautiously believe in the continuation of the sign gifts, only for those bringing the Gospel to new ears and those building the church (or being prepared to). I've written an [**entire article describing my theology**](https://sevenshepherd.github.io/theology/).
 
