@@ -4,7 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom built raspberry pi single-board computer and a custom computer program. Please feel free to look around, read articles, or contact me below.
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom programmed raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below.
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
+>
+>> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
+
+The Bible tells us to test all things.
+
+> but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
+
+<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
 
 <!-- <span style="font-size:1.2em;">Overview</span> -->
 
@@ -25,21 +35,13 @@ See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bol
 - [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
 - [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 
-<br>
+<!-- <br>
 
 ---
 
-<br>
+<br> -->
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
->
->> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
 
-The Bible tells us to test all things.
-
-> but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
-
-<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
 
 
 <!-- 
