@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚖️ “Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.” — The Apostle Paul" 
-date: 2024-03-25 02:10:00 -0500
+date: 2024-03-25 02:15:00 -0500
 categories: repentance
 published: true
 ---
@@ -10,13 +10,13 @@ published: true
 
 <!-- 🪽 -->
 
-## I. Now That We Are Saved By Grace Through Faith We Still Strive To Keep The Moral Law
+## I. Now That We Are Saved By Grace Through Faith We Still Strive To Uphold The Moral Law
 
 This is not about legalism, this is about fruit bearing. Even though we are now under grace, this does not mean that we won't bear the fruits of obedience through the indwelling of the Holy Spirit (John 15:4).
 
 > <span style="font-weight:bold;color:OrangeRed;">Do we then overthrow the law by</span> <span style="font-weight:bold;font-size:1.2em;color:Orange;">this faith?</span> <span style="font-weight:bold;font-size:1.2em;color:Red;">By no means!</span> <span style="font-weight:bold;color:OrangeRed;">On the contrary, we uphold the law</span>. &mdash; Romans 3:31 ESV
 
-A Christian who has truly been saved by grace through faith will desire, supernaturally, for Godly dispositions of morality. They will desire to keep the ten commandments in a non-legalistic, non-meritorious, fruit-bearing way. They will progressively desire to do so through the sanctification of the Holy Spirit (2Thess 2:13; Jn 15:1-17; Gal 5:22-23).
+A Christian who has truly been saved by grace through faith will desire for Godly dispositions of morality by the power and workings of the Holy Spirit. They will desire to uphold the ten commandments in a non-legalistic, non-meritorious, fruit-bearing way. They will progressively desire to do so through the sanctification of the Holy Spirit (2Thess 2:13; Jn 15:1-17; Gal 5:22-23).
 
 ## II. Christians Do Not Live Lifestyles Of Indulgent Sin
 
