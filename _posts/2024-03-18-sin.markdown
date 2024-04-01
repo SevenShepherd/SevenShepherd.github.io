@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛓️ I proclaim in the name of Christ Jesus that ‘There is forgiveness of sins for all who repent.’ Repent therefore, and turn back, that your sins may be blotted out."
-date: 2024-03-18 07:05:00 -0500
+date: 2024-03-18 07:15:00 -0500
 categories: sin
 published: true
 ---
@@ -19,7 +19,7 @@ The title of this article takes from two verses (Lk 24:47; Ac 3:19).
 
 <a name="definition" href="#contents" style="font-size:1.6em">⛓️ 1. The Definition of Sin</a>
 
-**Sin is any failure to conform to the moral law of God in act, attitude, or nature.** It is defined in relation to God and his moral law. Scripturally, it is defined in relationship to God’s law and his moral character. John tells us that “sin is lawlessness” (1 John 3:4).
+**Sin is any failure to conform to the moral law of God in act, attitude, or nature.** It is defined in relation to God and his moral law. Scripturally, it is defined in relationship to God’s law and his moral character. John tells us that “sin is lawlessness” (1 John 3:4; Mt 7:23).
 
 There are at least three types of sin: inherited sin (Psalm 51:5), imputed sin (Romans 5:18), and personal sin.
 
@@ -33,7 +33,7 @@ All have sinned and fallen short of the glory of God.
 
 The Books of Revelation 21:8; 22:15; Romans 1:29-32; 1 Corinthians 6:9-10; Galatians 5:19-21; and Ephesians 5:3-5 paint a comprehensive picture of those who are damned for all eternity.
 
-> Some of you once lived this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Corinthians 6:11 NET
+> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Corinthians 6:11 NET
 
 - Sins of a verbal nature (Proverbs 18:21)
     - *Backbiters*&mdash;those who constantly find fault with others and speak maliciously about them. (Ro 1:30 NKJV; Mt 12:36 ESV)
