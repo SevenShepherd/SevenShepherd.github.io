@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Heidelberg Catechism (1563)"
-date: 2024-02-26 02:25:00 -0500
+date: 2024-02-26 02:35:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -55,7 +55,7 @@ A. First, how great my sins and misery are;<sup style="font-weight:bold;">1</sup
 
 A. From the law of God.<sup style="font-weight:bold;">1</sup>
 
-1. Rom. 3: 20;
+1. Rom. 3:20;
 
 <br><a name="Q4" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q4. What does God's law require of us?</a><br> A. Christ teaches us this in a summary in Matthew 22: You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.<sup style="font-weight:bold;">1</sup> This is the great and first commandment. And a second is like it, You shall love your neighbour as yourself. On these two commandments depend all the law and the prophets.<sup style="font-weight:bold;">2</sup>
 
@@ -595,7 +595,7 @@ A. Yes. Infants as well as adults belong to God's covenant and congregation.<sup
 2. Ps. 22:11; Is. 44:1-3; Acts 2:38, 39; 16:31. 
 3. Acts 10:47; I Cor. 7:14. 
 4. Gen. 17:9-14. 
-5. Col. 2: 11-13.
+5. Col. 2:11-13.
 
 <br><a name="Q75" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q75. How does the Lord's Supper signify and seal to you that you share in Christ's one sacrifice on the cross and in all His gifts?</a><br>
 
@@ -952,8 +952,8 @@ A. These words teach us not to think of God's heavenly majesty in an earthly man
 
 A. Hallowed be Thy Name. That is: Grant us first of all that we may rightly know Thee,<sup style="font-weight:bold;">1</sup> and sanctify, glorify, and praise Thee in all Thy works, in which shine forth Thy almighty power, wisdom, goodness, righteousness, mercy, and truth.<sup style="font-weight:bold;">2</sup> Grant us also that we may so direct our whole life-- our thoughts, words, and actions-- that Thy Name is not blasphemed because of us but always honoured and praised.<sup style="font-weight:bold;">3</sup>
 
-1. Jer. 9:23, 24; 31: 33, 34; Matt. 16:17; John 17:3. 
-2. Ex. 34:5-8; Ps. 145; Jer. 32:16-20; Luke 1:46-55, 68-75; Rom. 11: 33-36. 
+1. Jer. 9:23, 24; 31:33, 34; Matt. 16:17; John 17:3. 
+2. Ex. 34:5-8; Ps. 145; Jer. 32:16-20; Luke 1:46-55, 68-75; Rom. 11:33-36. 
 3. Ps. 115:1; Matt. 5:16.
 
 <br><a name="Q123" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q123. What is the second petition?</a><br>
@@ -963,7 +963,7 @@ A. Thy kingdom come. That is: So rule us by Thy Word and Spirit that more and mo
 1. Ps. 119:5, 105; 143:10; Matt. 6:33. 
 2. Ps. 51:18; 122:6-9; Matt. 16:18; Acts 2:42-47. 
 3. Rom. 16:20; I John 3:8. 
-4. Rom. 8:22, 23; I Cor. 15:28; Rev. 22: 17, 20.
+4. Rom. 8:22, 23; I Cor. 15:28; Rev. 22:17, 20.
 
 <br><a name="Q124" href="#contents" style="font-weight:bold;font-size:1.2em;color:Black;">Q124. What is the third petition?</a><br>
 
