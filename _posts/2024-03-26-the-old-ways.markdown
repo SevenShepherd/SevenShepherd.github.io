@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 01:25:00 -0500
+date: 2024-03-26 01:35:00 -0500
 categories: timeline history protestant
 published: true
 ---
@@ -38,6 +38,31 @@ I will be updating this in my spare time and making this more robust.
 <ol>
     <li>
         <a href="https://en.wikipedia.org/wiki/Apostles_in_the_New_Testament" title="New Testament Writers" style="font-weight:bold;">Jesus & The Apostles (1st Century)</a>: The teachings of Jesus Christ and the writings of the Apostles recorded in the New Testament, which form the basis of Christian doctrine and belief. Foundational for Christian doctrine including Protestant beliefs.
+        <ul>
+        <li>
+        <a href="https://en.wikipedia.org/wiki/Jesus" style="font-weight:bold;">Jesus (c. 6/4 BC – c. AD 30/33)</a>
+        <ul>
+        <li>
+        Taught repentance (Mk 1:15; Lk 13:3; Mt 4:17; Rev 2:5,16,22; 3:3,19) as &ldquo;<em>feel remorse, repent, be converted</em>&rdquo; (in religio-ethical sense) <a href="https://sevenshepherd.github.io/repentance/#BDAG">according to our most authoritative Greek lexicons.</a>
+        </li>
+        <li>
+        Taught &ldquo;<em>Resulting</em>&rdquo; Fruit-bearing (John 15:1-17; Matthew 7:15-20; Matthew 13:1-23; Mark 4:1-20; Luke 6:43-45)
+        </li>
+        </ul>
+        </li>
+        <li><a href="https://en.wikipedia.org/wiki/Saint_Peter">Peter (c. AD 1 – AD 64/68)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle">Andrew (c. AD 5/6 – AD 100)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/James,_son_of_Zebedee">James, son of Zebedee (c. AD 1 – AD 44)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/John_the_Apostle">John (c. AD 6 – c. AD 100)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Philip_the_Apostle">Philip (Died 80)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Bartholomew_the_Apostle">Bartholomew (Died c. 69/71)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Matthew_the_Apostle">Matthew</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Thomas_the_Apostle">Thomas (Died AD 72)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/James_the_Lesser">James, son of Alphaeus</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Jude_the_Apostle">Jude (Died c. AD 65)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Simon_the_Zealot">Simon the Zealot (Died ~AD 65)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Saint_Matthias">Matthias (Died c. AD 80)</a></li>
+        </ul>
     </li>
     <li>
         <a href="https://en.wikipedia.org/wiki/Church_Fathers" title="Church Fathers" style="font-weight:bold;">Church Fathers (1st to mid-8th Centuries)</a>: Early Christian theologians such as Augustine of Hippo, Ambrose of Milan, and Jerome, who laid the foundation for many theological concepts.
