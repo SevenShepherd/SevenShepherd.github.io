@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 01:15:00 -0500
+date: 2024-03-26 01:25:00 -0500
 categories: timeline history protestant
 published: true
 ---
@@ -61,53 +61,53 @@ I will be updating this in my spare time and making this more robust.
     <li>Cappadocian Fathers
         <ul>
         <li><a href="https://en.wikipedia.org/wiki/Basil_of_Caesarea">Basil of Caesarea (330 - 378)</a></li>
-        <li>Gregory Nazianzus</li>
-        <li>Gregory of Nyssa</li>
+        <li><a href="https://en.wikipedia.org/wiki/Gregory_of_Nazianzus">Gregory Nazianzus (329 – 390)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Gregory_of_Nyssa">Gregory of Nyssa (c. 335 – c. 395)</a></li>
         </ul>
     </li>
-    <li>Peter of Sebaste</li>
-    <li>Diodorus of Tarsus</li>
-    <li>Theodore of Mopsuestia</li>
-    <li>John Chrysostom</li>
-    <li>Cyril of Alexandria</li>
-    <li>Maximus the Confessor</li>
-    <li>John of Damascus</li>
+    <li><a href="https://en.wikipedia.org/wiki/Peter_of_Sebaste">Peter of Sebaste (c. 340 – 391)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Diodorus_of_Tarsus">Diodorus of Tarsus (Died c. 390)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Theodore_of_Mopsuestia">Theodore of Mopsuestia (c. 350 – 428)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/John_Chrysostom">John Chrysostom (c. 344/349 – 407)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Cyril_of_Alexandria">Cyril of Alexandria (c. 376 – 444)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Maximus_the_Confessor">Maximus the Confessor (c. 580 – 662)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/John_of_Damascus">John of Damascus (c. 675/6 – 749)</a></li>
     </ul>
     </li>
     <li><a href="https://en.wikipedia.org/wiki/Church_Fathers#Latin_Fathers" title="Latin Fathers" style="font-weight:bold;">Latin Fathers</a>: Those fathers who wrote in Latin are called the Latin (Church) Fathers.
     <ul>
-        <li>Tertullian</li>
-        <li>Cyprian of Carthage</li>
-        <li>Hilary of Poitiers</li>
-        <li>Ambrose of Milan</li>
-        <li>Damasus I</li>
-        <li>Jerome of Stridonium</li>
-        <li><a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo" style="">Augustine of Hippo</a></li>
-        <li>Leo the Great</li>
-        <li>Gregory the Great</li>
-        <li>Isidore of Seville</li>
+        <li><a href="https://en.wikipedia.org/wiki/Tertullian">Tertullian (c. 155 – c. 220)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Cyprian">Cyprian of Carthage (c. 210 – 258)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Pope_Damasus_I">Damasus I (c. 305 – 384)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Hilary_of_Poitiers">Hilary of Poitiers (c. 310 – 367)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Ambrose">Ambrose of Milan (c. 339 – 397)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Jerome">Jerome of Stridonium (c. 342/7 – 420)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">Augustine of Hippo (354 – 430)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Leo_the_Great">Leo the Great (c. 400 – 461)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Pope_Gregory_I">Gregory the Great (c. 540 – 604)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Isidore_of_Seville">Isidore of Seville (c. 560 – 636)</a></li>
     </ul>
 </li>
     <li><a href="https://en.wikipedia.org/wiki/Church_Fathers#Syriac_Fathers" title="Syriac Fathers" style="font-weight:bold;">Syriac Fathers</a>: A few Church Fathers wrote in Syriac; many of their works were also widely translated into Latin and Greek.
     <ul>
-        <li>Aphrahat</li>
-        <li>Jacob of Nisibis</li>
-        <li>Ephrem</li>
-        <li>Narsai</li>
-        <li>Jacob of Serug</li>
-        <li>Henana</li>
-        <li>Aba</li>
-        <li>Abraham of Izla</li>
-        <li>Babai</li>
-        <li>Hormizd</li>
-        <li>Isaac of Nineveh</li>
+        <li><a href="https://en.wikipedia.org/wiki/Aphrahat">Aphrahat (c. 280 – c. 345)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Jacob_of_Nisibis">Jacob of Nisibis (c. 300 – c. 338)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Ephrem_the_Syrian">Ephrem (c. 306 – 373)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Narsai">Narsai (c. 399 – c. 502)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Jacob_of_Serug">Jacob of Serug (c. 451 – 521)</a></li>
+        <li>Henana (6th century)</li>
+        <li>Aba (5th century)</li>
+        <li><a href="https://en.wikipedia.org/wiki/Babai_the_Great">Abraham of Izla (c. 551 – c. 628)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Babai_the_Great">Babai (c. 551 – 628)</a></li>
+        <li>Hormizd (6th century)</li>
+        <li><a href="https://en.wikipedia.org/wiki/Isaac_of_Nineveh">Isaac of Nineveh (c. 613 – c. 700)</a></li>
     </ul>
 </li>
     <li><a href="https://en.wikipedia.org/wiki/Church_Fathers#Desert_Fathers" title="Apostolic Fathers" style="font-weight:bold;">Desert Fathers</a>: The Desert Fathers were early monastics living in the Egyptian desert. Although they did not write as much as other Church Fathers, their influence was also great, and they are credited with beginning the practice of monasticism, and codifying many of its features. Many of their, usually short, sayings are collected in the Apophthegmata Patrum ("Sayings of the Desert Fathers").
     <ul>
-        <li>Paul of Thebes</li>
-        <li>Anthony the Great</li>
-        <li>Pachomius</li>
+        <li><a href="https://en.wikipedia.org/wiki/Paul_of_Thebes">Paul of Thebes (c. 227 – c. 341)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Anthony_the_Great">Anthony the Great (c. 251 – 356)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Pachomius">Pachomius (c. 292 – 348)</a></li>
     </ul>
 </li>
 </ul>
