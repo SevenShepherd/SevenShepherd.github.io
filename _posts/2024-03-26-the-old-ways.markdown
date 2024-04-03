@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 02:31:00 -0500
+date: 2024-03-26 02:37:00 -0500
 categories: timeline history protestant
 published: true
 ---
@@ -46,13 +46,13 @@ I will be updating this in my spare time and making this more robust.
                         <strong>Taught trustful belief as salvific</strong>: (Jn 3:16; 5:24; 6:47; 11:25-26; Lk 8:12).
                     </li>
                     <li>
-                        <strong>Taught &ldquo; <em>resulting</em>&rdquo; fruit-bearing </strong> (Jn 15:1-17; Mt 7:15-20; 13:1-23; Mk 4:1-20; Lk 6:43-45)
+                        <strong>Taught repentance alongside faith</strong> (<strong>Mk 1:15</strong>; Lk 13:3; Mt 4:17; Rev 2:5,16,22; 3:3,19) as &ldquo;<em>feel remorse, repent, be converted (in religio-ethical sense),</em>&rdquo; <a href="https://sevenshepherd.github.io/repentance/#BDAG">according to our most authoritative Greek lexicons.</a> Jesus describes repentance the same as in the OT (Mt. 11:21-22; Job 42:6).
                     </li>
                     <li>
-                        <strong>Taught obedience</strong>: (Jn 14:15,21; 15:10).
+                        <strong>Taught &ldquo;<em>resulting</em>&rdquo; fruit-bearing </strong> (Jn 15:1-17; Mt 7:15-20; 13:1-23; Mk 4:1-20; Lk 6:43-45)
                     </li>
                     <li>
-                        <strong>Taught repentance</strong>: ( <strong>Mk 1:15</strong>; Lk 13:3; Mt 4:17; Rev 2:5,16,22; 3:3,19) as &ldquo; <em>feel remorse, repent, be converted (in religio-ethical sense),</em>&rdquo; <a href="https://sevenshepherd.github.io/repentance/#BDAG">according to our most authoritative Greek lexicons.</a> Jesus describes repentance the same as in the OT (Mt. 11:21-22; Job 42:6).
+                        <strong>Taught &ldquo;<em>resulting</em>&rdquo; obedience</strong>: (Jn 14:15,21; 15:10).
                     </li>
                 </ul>
             </li>
