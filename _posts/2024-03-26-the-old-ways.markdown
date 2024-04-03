@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 01:55:00 -0500
+date: 2024-03-26 02:00:00 -0500
 categories: timeline history protestant
 published: true
 ---
@@ -359,7 +359,7 @@ Pentecostal (1916)
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
