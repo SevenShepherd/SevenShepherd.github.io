@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 02:15:00 -0500
+date: 2024-03-26 02:25:00 -0500
 categories: timeline history protestant
 published: true
 ---
@@ -41,12 +41,12 @@ I will be updating this in my spare time and making this more robust.
         <ul>
         <li>
         <a href="https://en.wikipedia.org/wiki/Jesus" style="font-weight:bold;">Jesus (c. 6/4 BC – c. AD 30/33)</a>
-        <ul>
+        <ol>
         <li>
-        <strong>Taught trustful belief as salvific</strong>: (John 3:16; 5:24; 6:47; 11:25-26; Luke 8:12).
+        <strong>Taught trustful belief as salvific</strong>: (Jn 3:16; 5:24; 6:47; 11:25-26; Lk 8:12).
         </li>
         <li>
-        <strong>Taught &ldquo;<em>resulting</em>&rdquo; fruit-bearing</strong> (John 15:1-17; Matthew 7:15-20; Matthew 13:1-23; Mark 4:1-20; Luke 6:43-45)
+        <strong>Taught &ldquo;<em>resulting</em>&rdquo; fruit-bearing</strong> (Jn 15:1-17; Mt 7:15-20; 13:1-23; Mk 4:1-20; Lk 6:43-45)
         </li>
         <li>
         <strong>Taught obedience</strong>: (Jn 14:15,21; 15:10).
@@ -60,15 +60,34 @@ I will be updating this in my spare time and making this more robust.
         <li><a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle">Andrew (c. 5/6 – AD 100)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/James,_son_of_Zebedee">James, son of Zebedee (c. 1 – AD 44)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/John_the_Apostle">John (c. 6 – c. AD 100)</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/Philip_the_Apostle">Philip (Died 80)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Philip_the_Apostle">Philip (Died c. 80 AD)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Bartholomew_the_Apostle">Bartholomew (Died c. 69/71)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Matthew_the_Apostle">Matthew</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Thomas_the_Apostle">Thomas (Died AD 72)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/James_the_Lesser">James, son of Alphaeus</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Jude_the_Apostle">Jude (Died c. AD 65)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Simon_the_Zealot">Simon the Zealot (Died ~AD 65)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Judas_Iscariot" style="text-decoration: line-through;">Judas Iscariot (Died AD 31)</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Saint_Matthias">Matthias (Died c. AD 80)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Paul_the_Apostle">Paul (c. 5 - 64/67 AD)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Barnabas">Barnabas (Unknown)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/James,_brother_of_Jesus">James, the Lord's brother (Died c. AD 62–69)</a>
+        <ul>
+        <li>see <a href="https://www.biblegateway.com/verse/en/Galatians%201:19">Galatians 1:19</a></li>
+        </ul></li>
+        <li><a href="https://en.wikipedia.org/wiki/Andronicus_of_Pannonia">Andronicus (Unknown)</a><ul>
+        <li>see <a href="https://www.biblegateway.com/verse/en/Romans%2016:7">Romans 16:7</a></li>
+        </ul></li>
+        <li><a href="https://en.wikipedia.org/wiki/Junia_(New_Testament_person)">Junia (Unknown)</a><ul>
+        <li>see <a href="https://www.biblegateway.com/verse/en/Romans%2016:7">Romans 16:7</a></li>
+        </ul></li>
+        <li><a href="https://en.wikipedia.org/wiki/Apollos">Apollos (Died c. AD 100)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Epaphroditus">Epaphroditus (Died Unknown)</a>
+        <ul>
+        <li>see <a href="https://www.biblegateway.com/verse/en/Philippians%202:25">Philippians 2:25</a></li>
         </ul>
+        </li>
+        </ol>
     </li>
     <li>
         <a href="https://en.wikipedia.org/wiki/Church_Fathers" title="Church Fathers" style="font-weight:bold;">Church Fathers (1st to mid-8th Centuries)</a>: Early Christian theologians such as Augustine of Hippo, Ambrose of Milan, and Jerome, who laid the foundation for many theological concepts.
