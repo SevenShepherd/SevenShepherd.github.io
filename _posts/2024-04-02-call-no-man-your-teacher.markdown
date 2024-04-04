@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills." 
-date: 2024-04-02 01:35:00 -0500
+date: 2024-04-02 01:45:00 -0500
 categories: repentance
 published: true
 ---
@@ -46,13 +46,13 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 
 ✔️ Christ taught repentance alongside faith (**Mk 1:15**; Lk 13:3; Mt 4:17; Rev 2:5,16,22; 3:3,19) as “feel remorse, repent, be converted (in religio-ethical sense),” [according to our most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/). Jesus describes repentance the same as in the OT (Mt. 11:21-22; Job 42:6).
 
-❌ False teachers **twist the scriptures** surrounding [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) in the new testament, and sometimes purposefully misapply the incorrect meaning of &ldquo;*change of mind*&rdquo; instead of teaching the true meaning applied by Christ & The Apostles which was &ldquo;*feel remorse, repent, be converted (in religio-ethical sense).*&rdquo;
-
 > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to [redacted movement]</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
 >&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge)](https://youtu.be/s9e3Y2SMXag)
 
-Repentance is an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
+❌ False teachers **twist the scriptures** surrounding [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) in the new testament, and sometimes purposefully misapply the incorrect meaning of &ldquo;*change of mind*&rdquo; instead of teaching the true meaning applied by Christ & The Apostles which was &ldquo;*feel remorse, repent, be converted (in religio-ethical sense).*&rdquo;
+
+✔️ Repentance is an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
 
 - Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
@@ -73,6 +73,8 @@ Misguided modern movements give false assurance of eternal life to many who prof
 ✔️ Christ taught [“resulting” fruit-bearing](https://sevenshepherd.github.io/fruits/) (Jn 15:1-17; Lk 6:43-45; Mt 7:15-20; 13:1-23; Mk 4:1-20) and [“resulting” obedience](https://sevenshepherd.github.io/practicing-sin/): (Jn 14:15,21; 15:10).
 
 ❌ False teachers will either teach [legalism or antinomianism](https://sevenshepherd.github.io/fruit-bearing/), but one thing is certain, they will not teach Christ's fruit-bearing metaphor correctly.
+
+✔️ Here is a chart to help you visualize the nuances.
 
 |[Genuine Saving Faith](https://sevenshepherd.github.io/theology/#living)||
 |:-:|:-:|
