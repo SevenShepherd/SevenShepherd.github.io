@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills." 
-date: 2024-04-02 01:25:00 -0500
+date: 2024-04-02 01:35:00 -0500
 categories: repentance
 published: true
 ---
@@ -144,7 +144,7 @@ Your interpretation aligns well with these aspects of Jesus' teachings, showing 
 
 <a name="safe" href="#contents" style="font-size:1.6em;">✔️ A List of Safe Instructors</a>
 
-This is a list of <span style="font-weight:bold;font-size:1.2em;color:ForestGreen;">safe</span> instructors that hold to sound doctrine.
+This is a list of <span style="font-weight:bold;font-size:1.2em;color:ForestGreen;">safe</span> instructors that hold to scripture, the academic community, and centuries of sound doctrine. They're top tier.
 
 |Distinctive / Stance on Free Will (Decree)|Recommendation|
 |:-:|:-:|
@@ -152,7 +152,7 @@ This is a list of <span style="font-weight:bold;font-size:1.2em;color:ForestGree
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Inclination</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>&ldquo;***The Cross and Salvation***&rdquo;<br>--<br>Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>&ldquo;*Unlimited Atonement: Amyraldism and Reformed Theology*&rdquo;|
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/calvary-chapel/">Calvary Chapel Distinctive / Compatibilist</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Wesl.</a>)<br>Essentially Reformed Arminianism w/ Eternal Security|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism / Libertarian</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)<br>Can Renounce Faith & Lose Salvation|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;*Four Views on Eternal Security*&rdquo;|
-|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Scholastic Calvinist / Inclination</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)<br>I Reject Limited Atonement|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;***Concise Theology***&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;*Systematic Theology*&rdquo;|
+|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Scholastic Calvinist / Inclination</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)<br>I Reject Limited Atonement But Otherwise Sound|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;***Concise Theology***&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;*Systematic Theology*&rdquo;|
 |<span style="color:darkred;" href="">Hyper-Calvinism (<a href="https://sevenshepherd.github.io/election/#decrees" style="color:darkred;">Supra.</a>), Hyper-Grace, Catholicism, Theological Liberalism etc.</span>|🚫|
 
 <script>
