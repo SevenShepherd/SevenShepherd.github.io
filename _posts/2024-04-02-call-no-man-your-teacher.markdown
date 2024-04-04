@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills." 
-date: 2024-04-02 01:05:00 -0500
+date: 2024-04-02 01:15:00 -0500
 categories: repentance
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 - III. <a href="#assurance">False Teachers Give False Assurance</a>
 - IV. <a href="#artificial">Artificial Intelligence Conclusion</a>
 - V. <a href="#summary">Summary & Conclusions</a>
-    - <a href="#list">A List of Safe Instructors</a>
+    - <a href="#safe">A List of Safe Instructors</a>
 
 
 <!-- 1. The don't teach the faith alone of the reformation, but instead some mutilated 80's version of it. Sola fide teaches that justification is by faith alone, and that fruit-bearing and good works follow after a person is justified. &ldquo; -->
@@ -102,7 +102,7 @@ While works definitely **do not** save us, they do spring forth from a true and 
 
 <a name="artificial" href="#contents" style="font-size:1.6em;">✔️ IV. Artificial Intelligence Commentary On My Conclusions</a>
 
-## V. Artificial Intelligence Commentary On My Conclusions
+<!-- ## V. Artificial Intelligence Commentary On My Conclusions -->
 
 Your interpretation captures key elements of Jesus' teachings on salvation, repentance, and obedience. Here's a breakdown:
 
@@ -141,6 +141,19 @@ Your interpretation aligns well with these aspects of Jesus' teachings, showing 
     - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
     - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
 - Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
+
+<a name="safe" href="#contents" style="font-size:1.6em;">✔️ A List of Safe Instructors</a>
+
+This is a list of <span style="font-weight:bold;font-size:1.2em;color:ForestGreen;">safe</span> instructors that hold to sound doctrine.
+
+|Distinctive / Stance on Free Will (Decree)|Recommendation|
+|:-:|:-:|
+|<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Compatibilist</a> (<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;***Divine Sovereignty & Human Responsibility***&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;<br>--<br>[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;<br>--<br>Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;<br>--<br>Dr. Walter Martin (Ph.D., California Coast University)|
+|<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Inclination</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>&ldquo;***The Cross and Salvation***&rdquo;<br>--<br>Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>&ldquo;*Unlimited Atonement: Amyraldism and Reformed Theology*&rdquo;|
+|<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/calvary-chapel/">Calvary Chapel Distinctive / Compatibilist</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Wesl.</a>)<br>Essentially Reformed Arminianism w/ Eternal Security|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
+|<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism / Libertarian</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)<br>Can Renounce Faith & Lose Salvation|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;*Four Views on Eternal Security*&rdquo;|
+|<a style="color:darkorange;" href="https://sevenshepherd.github.io/ordo-salutis-calvinist/">Scholastic Calvinist / Inclination</a> (<a style="color:darkorange;" href="https://sevenshepherd.github.io/election/#decrees">Infra.</a>)<br>I Reject Limited Atonement|[Dr. J. I. Packer<br>(PhD, Oxford)](https://youtu.be/jOFsFgUUdZo)<br>&ldquo;***Concise Theology***&rdquo;<br>--<br>[Dr. Wayne Grudem<br>(PhD, Cambridge; DD, Westminister)](https://youtu.be/s9e3Y2SMXag)<br>&ldquo;*Systematic Theology*&rdquo;|
+|<span style="color:darkred;" href="">Hyper-Calvinism (<a href="https://sevenshepherd.github.io/election/#decrees" style="color:darkred;">Supra.</a>), Hyper-Grace, Catholicism, Theological Liberalism etc.</span>|🚫|
 
 <script>
     var refTagger = {
