@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 13:15:00 -0500
+date: 2023-10-19 13:20:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -221,7 +221,7 @@ Repentance is an immediate fruit of genuine saving faith, and is defined as a tu
 - Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
-- Repentance is necessary (Lk 13:3) **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- Repentance **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
 - Unrepentant sinners will perish (Luke 13:3; Mt 3:10).
 - Repentance is a command from God himself (Acts 17:30; Mt 4:17).
 - While there may be an initial saving repentance, it is not a one time event (Luke 17:3-4; 1 Cor. 5:12-13 NLT).
