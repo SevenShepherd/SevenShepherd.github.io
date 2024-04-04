@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills." 
-date: 2024-04-02 01:15:00 -0500
+date: 2024-04-02 01:25:00 -0500
 categories: repentance
 published: true
 ---
@@ -21,7 +21,7 @@ published: true
 
 <!-- 1. The don't teach the faith alone of the reformation, but instead some mutilated 80's version of it. Sola fide teaches that justification is by faith alone, and that fruit-bearing and good works follow after a person is justified. &ldquo; -->
 
-<a name="trust" href="#contents" style="font-size:1.6em;">✔️ I. Trustful Belief Not Assent To Facts</a>
+<a name="trust" href="#contents" style="font-size:2.1em;">✔️ I. Trustful Belief Not Assent To Facts</a>
 
 <!-- ## I. Trustful Belief Not Assent To Facts -->
 
@@ -38,7 +38,7 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 > 4\. pisteúō means **&ldquo;to trust&rdquo; (also &ldquo;to obey&rdquo;)**, &ldquo;to believe&rdquo; (words), and in the passive &ldquo;to enjoy confidence&rdquo; (cf. the later sense &ldquo;to confide in&rdquo;). &mdash; The Theological Dictionary of the New Testament: Abridged in One Volume (**TDNT "Kittel"**)
 
 
-<a name="repent" href="#contents" style="font-size:1.6em;">✔️ II. Turning From Sin In Contrition NOT Solely Change Of Mind</a>
+<a name="repent" href="#contents" style="font-size:2.1em;">✔️ II. Turning From Sin In Contrition NOT Solely Change Of Mind</a>
 
 <!-- ## II. Turning From Sin In Contrition NOT Solely Change Of Mind -->
 
@@ -64,7 +64,7 @@ Repentance is an immediate fruit of genuine saving faith, and is defined as a tu
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
 - Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
 
-<a name="assurance" href="#contents" style="font-size:1.6em;">✔️ III. False Teachers Give False Assurance</a>
+<a name="assurance" href="#contents" style="font-size:2.1em;">✔️ III. False Teachers Give False Assurance</a>
 
 <!-- ## III. False Teachers Give False Assurance -->
 
@@ -100,7 +100,7 @@ While works definitely **do not** save us, they do spring forth from a true and 
 - The teaching of obedience to God after justification is not burdensome, in fact it's a reason for joy (1 Jn 5:3-4; Jn 15:10-11).
 
 
-<a name="artificial" href="#contents" style="font-size:1.6em;">✔️ IV. Artificial Intelligence Commentary On My Conclusions</a>
+<a name="artificial" href="#contents" style="font-size:2.1em;">✔️ IV. Artificial Intelligence Commentary On My Conclusions</a>
 
 <!-- ## V. Artificial Intelligence Commentary On My Conclusions -->
 
@@ -116,7 +116,7 @@ Your interpretation captures key elements of Jesus' teachings on salvation, repe
 
 Your interpretation aligns well with these aspects of Jesus' teachings, showing a comprehensive understanding of His message regarding salvation, repentance, and the Christian life.
 
-<a name="summary" href="#contents" style="font-size:1.6em;">✔️ V. Summary & Conclusions</a>
+<a name="summary" href="#contents" style="font-size:2.1em;">✔️ V. Summary & Conclusions</a>
 
 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
