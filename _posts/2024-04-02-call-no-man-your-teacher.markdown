@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills." 
-date: 2024-04-02 01:55:00 -0500
+title: "🦆 Make sure your understanding of these nuances does not go against scripture, the academic community, and centuries of sound doctrine." 
+date: 2024-04-02 02:00:00 -0500
 categories: repentance
 published: true
 ---
+
+<!-- 🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills. -->
 
 
 > &ldquo;Don’t let anyone call you ‘Rabbi,’ [or teacher] for you have only one teacher, and **all of you are equal** as brothers and sisters...&rdquo; &mdash; Matthew 23:8 NLT
@@ -13,7 +15,7 @@ published: true
 
 - I. <a href="#trust">Trustful Belief Not Assent To Facts</a>
 - II. <a href="#repent">Scripture Twisters On Repentance</a>
-- III. <a href="#assurance">False Teachers Give False Assurance</a>
+- III. <a href="#assurance">Misguided Teachers Give False Assurance</a>
 - IV. <a href="#artificial">Artificial Intelligence Conclusion</a>
 - V. <a href="#summary">Summary & Conclusions</a>
     - <a href="#safe">A List of Safe Instructors</a>
@@ -31,7 +33,7 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 
 > **2 to entrust oneself to an entity in complete confidence, believe (in), trust,** w. implication of total commitment to the one who is trusted. In our lit. God and Christ are objects of this type of faith that relies on their power and nearness to help, in addition to being convinced that their revelations or disclosures are true. &mdash; Greek-English Lexicon of the New Testament and Other Early Christian Literature (**BDAG**), **the worlds most authoritative Greek lexicon**
 
-❌ False teachers teach **against** Christ and the lexicon definition of &ldquo;*believe*&rdquo; in the verses above, by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19).
+❌ Misguided teachers teach **against** Christ and the lexicon definition of &ldquo;*believe*&rdquo; in the verses above, by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19).
 
 <!-- ℹ️  -->
 
@@ -50,7 +52,7 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 >
 >&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge)](https://youtu.be/s9e3Y2SMXag)
 
-❌ False teachers **twist the scriptures** surrounding [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) in the new testament, and sometimes purposefully misapply the incorrect meaning of &ldquo;*change of mind*&rdquo; instead of teaching the true meaning applied by Christ & The Apostles which was &ldquo;*feel remorse, repent, be converted (in religio-ethical sense).*&rdquo;
+❌ Misguided teachers **twist the scriptures** surrounding [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) in the new testament, and sometimes purposefully misapply the incorrect meaning of &ldquo;*change of mind*&rdquo; instead of teaching the true meaning applied by Christ & The Apostles which was &ldquo;*feel remorse, repent, be converted (in religio-ethical sense).*&rdquo;
 
 ✔️ Repentance is an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
 
@@ -64,15 +66,15 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
 - Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
 
-<a name="assurance" href="#contents" style="font-size:2.1em;">✔️ III. False Teachers Give False Assurance</a>
+<a name="assurance" href="#contents" style="font-size:2.1em;">✔️ III. Misguided Teachers Give False Assurance</a>
 
-<!-- ## III. False Teachers Give False Assurance -->
+<!-- ## III. Misguided Teachers Give False Assurance -->
 
 Misguided modern movements give false assurance of eternal life to many who profess faith in Christ but then show no evidence in their pattern of life. The change of life that will &ldquo;*result*&rdquo; from genuine conversion does not save us, but it will certainly result if our faith is genuine, for **"faith by itself, if it does not have works, is dead" (James 2:17)**.
 
 ✔️ Christ taught [“resulting” fruit-bearing](https://sevenshepherd.github.io/fruits/) (Jn 15:1-17; Lk 6:43-45; Mt 7:15-20; 13:1-23; Mk 4:1-20) and [“resulting” obedience](https://sevenshepherd.github.io/practicing-sin/): (Jn 14:15,21; 15:10).
 
-❌ False teachers will either teach [legalism or antinomianism](https://sevenshepherd.github.io/fruit-bearing/), but one thing is certain, they will not teach Christ's fruit-bearing metaphor correctly.
+❌ Misguided teachers will either teach [legalism or antinomianism](https://sevenshepherd.github.io/fruit-bearing/), but one thing is certain, they will not teach Christ's fruit-bearing metaphor correctly.
 
 ✔️ Here is a chart to help you visualize the nuances.
 
