@@ -1,26 +1,28 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 01:15:00 -0500
+date: 2024-04-05 01:25:00 -0500
 categories: repent
 published: true
 ---
 
 In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ, for he is the one who taught these things (Jn 7:7).
 
-> The world can’t hate you, but it does hate me because I accuse it of doing evil. &mdash; John 7:7 NLT
+> The world can’t hate you, but it does hate me because I accuse it of doing evil. &mdash; **Jesus** in John 7:7 NLT
 
 Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience by the power and indwelling of the Holy Spirit, is not true faith. It is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26).
 
-> If you refuse to take up your cross and follow me, you are not worthy of being mine. &mdash; Matthew 10:38 NLT
+> &ldquo;If you refuse to take up your cross and follow me, you are not worthy of being mine.&rdquo; &mdash; **Jesus** in Matthew 10:38 NLT
 
 The change of life that will &ldquo;*result*&rdquo; from genuine conversion **does not save us**, but it will certainly result if our faith is genuine, for *"faith by itself, if it does not have works, is dead" (James 2:17)*.
 
-<!-- > <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/)) -->
+> “No, I tell you; but unless you repent, you will all likewise perish.” — **Jesus** in Luke 13:3 ESV
 
-> <sup style="font-weight:bold;">3</sup> And we can be sure that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth. <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
+<!-- > And we can be sure that we know him if we obey his commandments. **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/)) -->
 
-Repent (Lk 13:3).
+<!-- > So now **we can tell** who are children of God and **who are children of the devil**. Anyone who does not live righteously and does not love other believers does not belong to God. &mdash; 1 John 3:10 NLT -->
+
+Repent.
 
 <!-- (as contrition and an inward resolve to turn from sin to God) -->
 
