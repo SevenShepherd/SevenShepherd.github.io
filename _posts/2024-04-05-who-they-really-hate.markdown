@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 02:45:00 -0500
+date: 2024-04-05 03:00:00 -0500
 categories: repent
 published: true
 ---
@@ -24,7 +24,7 @@ The change of life that will &ldquo;*result*&rdquo; from genuine conversion *doe
 
 <!-- If you have fallen away, I would ask you to repent like Christ commanded you to (Mt 4:17; Ac 17:30). Turn away from your apostasy (Ac 3:19; Ac 26:20), put your faith in the person of Christ (Mark 1:15). Genuine saving faith will &ldquo;*result*&rdquo; in fruit (John 15:1-17; Gal 5:22-23) progressively, this is how we know we are living in Him (1Jn 2:3-6). -->
 
-If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) the only assurance you have, is no assurance. This is your wake up call. You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
+If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) the only assurance you have, is no assurance. This is your wake up call (Re 3:3). You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
 
 > And we can be sure that we know him if we obey his commandments. **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
 
