@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 01:35:00 -0500
+date: 2024-04-05 01:45:00 -0500
 categories: repent
 published: true
 ---
 
-In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ, for he is the one who taught these things (Jn 7:7).
+In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5), live unrighteously, and despise other believers (1Jn 3:10). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ (Jn 7:7), for he is the one who taught these things (Mk 1:14-15).
 
 > The world can’t hate you, but it does hate me because I accuse it of doing evil. &mdash; **Jesus** in John 7:7 NLT
 
