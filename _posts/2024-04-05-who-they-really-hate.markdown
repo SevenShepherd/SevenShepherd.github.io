@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 01:25:00 -0500
+date: 2024-04-05 01:35:00 -0500
 categories: repent
 published: true
 ---
@@ -14,7 +14,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 > &ldquo;If you refuse to take up your cross and follow me, you are not worthy of being mine.&rdquo; &mdash; **Jesus** in Matthew 10:38 NLT
 
-The change of life that will &ldquo;*result*&rdquo; from genuine conversion **does not save us**, but it will certainly result if our faith is genuine, for *"faith by itself, if it does not have works, is dead" (James 2:17)*.
+The change of life that will &ldquo;*result*&rdquo; from genuine conversion *does not save us*, but it will certainly result if our faith is genuine, for *"faith by itself, if it does not have works, is dead" (James 2:17)*.
 
 > “No, I tell you; but unless you repent, you will all likewise perish.” — **Jesus** in Luke 13:3 ESV
 
