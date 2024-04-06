@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 02:00:00 -0500
+date: 2024-04-05 02:15:00 -0500
 categories: repent
 published: true
 ---
 
-In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5), live unrighteously, and despise other believers (1Jn 3:10 NLT). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ (Jn 7:7 NLT), for he is the one who taught these things (Mk 1:14-15).
+In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). They live unrighteously, and despise other believers (1Jn 3:10 NLT) who teach it. I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ (Jn 7:7 NLT), for he is the one who taught these things (Mk 1:14-15).
 
 > The world can’t hate you, but it does hate me because I accuse it of doing evil. &mdash; **Jesus** in John 7:7 NLT
 
@@ -20,9 +20,10 @@ The change of life that will &ldquo;*result*&rdquo; from genuine conversion *doe
 
 <!-- > And we can be sure that we know him if we obey his commandments. **If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.** But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/)) -->
 
-<!-- > So now **we can tell** who are children of God and **who are children of the devil**. Anyone who does not live righteously and does not love other believers does not belong to God. &mdash; 1 John 3:10 NLT -->
 
-Repent.
+[Repent.](https://sevenshepherd.github.io/repentance/) 
+
+<!-- [The true meaning of repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. -->
 
 <!-- (as contrition and an inward resolve to turn from sin to God) -->
 
