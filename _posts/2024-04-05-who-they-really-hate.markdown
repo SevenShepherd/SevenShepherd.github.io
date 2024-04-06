@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 01:00:00 -0500
+date: 2024-04-05 01:05:00 -0500
 categories: repent
 published: true
 ---
 
-In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ, for he is the one who taught these things (Jn 7:7). Repent.
+In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ, for he is the one who taught these things (Jn 7:7).
 
 > The world can’t hate you, but it does hate me because I accuse it of doing evil. &mdash; John 7:7 NLT
 
@@ -15,6 +15,10 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 > If you refuse to take up your cross and follow me, you are not worthy of being mine. &mdash; Matthew 10:38 NLT
 
 The change of life that will &ldquo;*result*&rdquo; from genuine conversion **does not save us**, but it will certainly result if our faith is genuine, for *"faith by itself, if it does not have works, is dead" (James 2:17)*.
+
+> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
+
+Repent (Lk 13:3).
 
 <!-- (as contrition and an inward resolve to turn from sin to God) -->
 
