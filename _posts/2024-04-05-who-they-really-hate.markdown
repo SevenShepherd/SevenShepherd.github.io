@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 01:05:00 -0500
+date: 2024-04-05 01:15:00 -0500
 categories: repent
 published: true
 ---
@@ -16,7 +16,9 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 The change of life that will &ldquo;*result*&rdquo; from genuine conversion **does not save us**, but it will certainly result if our faith is genuine, for *"faith by itself, if it does not have works, is dead" (James 2:17)*.
 
-> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
+<!-- > <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/)) -->
+
+> <sup style="font-weight:bold;">3</sup> And we can be sure that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth. <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. That is how we know we are living in him. <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([article](https://sevenshepherd.github.io/1-John-2-4/))
 
 Repent (Lk 13:3).
 
