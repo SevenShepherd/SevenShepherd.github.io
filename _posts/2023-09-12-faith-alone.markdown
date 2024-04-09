@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 Justification By \"Faith Alone\" Is A Reformation Doctrine That Has Always Taught \"Resulting\" Obedience To God. It's The Justification That Is By Faith Only."
-date: 2023-09-12 04:35:00 -0500
+date: 2023-09-12 04:45:00 -0500
 categories: truth
 published: true
 ---
@@ -98,12 +98,12 @@ When false teachers remove parts of the full definition, they create their own c
 
 <!-- This is one of those articles where I feel like im talking to a child about the order of the alphabet or how 1 + 2 = 3. You can't tell me you guys don't see how absurd these attacks are. -->
 
-|Genuine Saving Faith||
+|[Genuine Saving Faith](https://sevenshepherd.github.io/theology/#living)||
 |:-:|:-:|
-|<span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
-|<span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Legalism<br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Synergism<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
 |<a href="https://bit.ly/42xpkRR">Historic *Sola fide*</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
-|<span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+|Antinomianism<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
 
 I think it should be clear that if any theology cannot reconcile Eph 2:8-10 with James 2:14-26; 1Jn 2:3-6; 3:6-10, then it is an unsound theology that doesn't represent the Bible, and should be abandoned. The Bible must work together, as there are no contradictions in the word of God.
 
