@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 Make sure your understanding of these nuances does not go against scripture, the academic community, and centuries of sound doctrine." 
-date: 2024-04-02 02:00:00 -0500
+date: 2024-04-02 02:05:00 -0500
 categories: repentance
 published: true
 ---
@@ -168,7 +168,7 @@ This mentions <span style="font-weight:bold;font-size:1.2em;color:Darkred;">unsa
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
