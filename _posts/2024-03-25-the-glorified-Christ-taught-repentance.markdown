@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ The Risen And Glorified Christ Preached Repentance To Five Of The Seven Churches In Asia, In The Book Of Revelation. You Better Believe That Repentance Is The “Resulting” Fruit Of Genuine Saving Faith." 
-date: 2024-03-25 01:35:00 -0500
+date: 2024-03-25 01:40:00 -0500
 categories: repentance
 published: true
 ---
@@ -16,7 +16,7 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 >
 >&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 60. Repentance: A Christian Changes Radically. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-When we teach repentance as [a contrition and turning away from sin](https://sevenshepherd.github.io/repentance/) as Jesus and The Apostles did, we're not teaching that repentance is meritorious of justification, as justification by works would be the heresy of legalism. Instead, we teach that repentance is an immediate fruit of genuine saving faith. The distinction must be made between something that merits and earns, and something that comes after and bears fruit. The former would be bad to teach, while the latter is simply the teaching of progressive sanctification and is safe.
+When we teach repentance as [a contrition that produces an inward resolve to turn from sin](https://sevenshepherd.github.io/repentance/) as Jesus and The Apostles did, we're not teaching that repentance is meritorious of justification, as justification by works would be the heresy of legalism. Instead, we teach that repentance is an immediate fruit of genuine saving faith. The distinction must be made between something that merits and earns, and something that comes after and bears fruit. The former would be bad to teach, while the latter is simply the teaching of progressive sanctification and is safe.
 
 Justification is by faith alone, but a faith that does not grow the fruit of obedience by the power and indwelling of the Holy Spirit, is not true faith. It is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26).
 

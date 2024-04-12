@@ -69,7 +69,7 @@ All theologians agree on this verse below, from the most academically sound and 
 
 > <sup style="font-weight:bold;">8</sup> The one who practices sin is of the devil, because the devil has been sinning from the beginning. For this purpose the Son of God was revealed: to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> Everyone who has been fathered by God does not practice sin, because God’s seed resides in him, and thus he is not able to sin, because he has been fathered by God. <sup style="font-weight:bold;">10</sup> By this the children of God and the children of the devil are revealed: Everyone who does not practice righteousness—the one who does not love his fellow Christian—is not of God. &mdash; 1 Jn 3:8-10 NET
 
-If your teachers are teaching that it's okay to live in carnality, or that repentance is only a minor opinion change when, instead, it is defined as a remorse, or contrition leading to a religio-ethical conversion (turning away from sin and a turning to God) in every authoritative Greek lexicon and dictionary; beware, YOU ARE IN GRAVE DANGER!
+If your teachers are teaching that it's okay to live in carnality, or that repentance is only a minor opinion change when, instead, it is defined as a remorse, or contrition leading to a religio-ethical conversion (an inward resolve to turn from sin to God in trust) in every authoritative Greek lexicon and dictionary; beware, YOU ARE IN GRAVE DANGER!
 
 <!-- this antinomian heresy is what your teachers are teaching, or what you're teaching your loved ones. YOU ARE IN GRAVE DANGER! CEASE IMMEDIATELY! -->
 

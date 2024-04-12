@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 03:15:00 -0500
+date: 2024-04-05 03:25:00 -0500
 categories: repent
 published: true
 ---
@@ -38,7 +38,7 @@ It would be legalistic to say, repent to merit or earn justification; however, i
 
 - Taught alongside faith by Christ Himself (Mark 1:14-15).
 - One of the reasons Jesus came (Lk 5:32).
-- Taught as [**a turning away from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+- Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 - **An immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
 - **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
 - **Commanded** by God (Ac 17:30; Mt 4:17).

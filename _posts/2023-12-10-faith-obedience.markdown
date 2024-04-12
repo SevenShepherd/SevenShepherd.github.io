@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌹 Justification Is By Faith, Love Is By Obedience"
-date: 2023-12-10 02:55:00 -0500
+date: 2023-12-10 03:00:00 -0500
 categories: repent
 published: false
 ---
@@ -68,7 +68,7 @@ Saving faith **does not include** obedience, saving faith **results in** obedien
 
 To read more see [God Grants The Repentance](https://sevenshepherd.github.io/god-grants-repentance/) and [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/), as well as [Theology](https://sevenshepherd.github.io/theology/#repentance).
 
-- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
+- Repentance is **an inward resolve to turn from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
 - Repentance **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).

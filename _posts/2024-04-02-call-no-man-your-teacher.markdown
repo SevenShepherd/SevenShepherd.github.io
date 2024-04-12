@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 Make sure your understanding of these nuances does not go against scripture, the academic community, and centuries of sound doctrine." 
-date: 2024-04-02 02:05:00 -0500
+date: 2024-04-02 02:10:00 -0500
 categories: repentance
 published: true
 ---
@@ -54,9 +54,9 @@ True teaching emphasizes heartfelt trust in the person of Christ, whereas false 
 
 ❌ Misguided teachers **twist the scriptures** surrounding [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) in the new testament, and sometimes purposefully misapply the incorrect meaning of &ldquo;*change of mind*&rdquo; instead of teaching the true meaning applied by Christ & The Apostles which was &ldquo;*feel remorse, repent, be converted (in religio-ethical sense).*&rdquo;
 
-✔️ Repentance is an immediate fruit of genuine saving faith, and is defined as a turning away from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
+✔️ Repentance is an immediate fruit of genuine saving faith, and is defined as an inward resolve to turn from sin to God that leads to salvation and eternal life. Unrepentant sin was not tolerated by the Apostles (2Cor. 7:10; Acts 11:18; Acts 26:15-20; Acts 3:19; Luke 17:3-4; 1Cor. 5:12-13)
 
-- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
+- Repentance is **an inward resolve to turn from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
 - Repentance **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).

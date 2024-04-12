@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-05-02 03:00:00 -0500
+date: 2023-05-02 03:05:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -309,7 +309,7 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 <!-- If you accuse someone of being judgemental and they have never personally attacked you, then you have become the very thing that you hate. [Here is some educational material.](https://youtube.com/shorts/DtVwpbNWwIo?feature=share)  -->
 
 # Repentance
-- Repentance is **a turning away from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**]().
+- Repentance is **an inward resolve to turn from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**]().
     - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
 - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
 - Repentance **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).

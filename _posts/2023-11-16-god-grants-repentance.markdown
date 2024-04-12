@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "🕊️ It's His Kindness That Leads Us To Repentance (To Turn From Our Sin)"
-date: 2023-11-16 02:35:00 -0500
+date: 2023-11-16 02:40:00 -0500
 categories: repent repentance
 published: false
 ---
 
 <!-- God Has Granted The Repentance That Leads To Salvation -->
 
-God has granted the repentance (Ac 11:18; 2 Tim. 2:25), and commanded us to repent (Ac 17:30; Mt 4:17; Lk 13:3). **Repentance is an immediate fruit of genuine saving faith**, and is defined as a turning away from sin to God (Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5), for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31). It is His kindness (Ro 2:4) that leads us to this godly sorrow and contrition which produces a repentance that leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18). Unrepentant sin was not tolerated by the Apostles (Luke 17:3-4 NLT; 1Cor. 5:12-13 NLT).
+God has granted the repentance (Ac 11:18; 2 Tim. 2:25), and commanded us to repent (Ac 17:30; Mt 4:17; Lk 13:3). **Repentance is an immediate fruit of genuine saving faith**, and is defined as an inward resolve to turn from sin to God (Acts 26:20; 3:19; Mt 3:8 NLT; Rev 2:5), for the forgiveness of sins (Luke 24:47; Acts 2:38; 3:19; 5:31). It is His kindness (Ro 2:4) that leads us to this godly sorrow and contrition which produces a repentance that leads to salvation and eternal life (2 Cor. 7:10; Acts 11:18). Unrepentant sin was not tolerated by the Apostles (Luke 17:3-4 NLT; 1Cor. 5:12-13 NLT).
 
 > No, I tell you; but <span style="font-weight:bold;color:red;">unless you repent</span>, <span style="font-weight:bold;color:red;">you will</span> all likewise <span style="font-weight:bold;color:red;">perish</span>. &mdash; Luke 13:3 ESV
 
