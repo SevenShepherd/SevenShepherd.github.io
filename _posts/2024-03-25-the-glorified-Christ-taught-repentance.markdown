@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ The Risen And Glorified Christ Preached Repentance To Five Of The Seven Churches In Asia, In The Book Of Revelation. You Better Believe That Repentance Is The “Resulting” Fruit Of Genuine Saving Faith." 
-date: 2024-03-25 01:40:00 -0500
+date: 2024-03-25 01:45:00 -0500
 categories: repentance
 published: true
 ---
@@ -43,6 +43,14 @@ The message of repentance only becomes legalistic if you do not teach it as a fr
 > Justification by works (things we have done) is the heresy of legalism. Justification, as Luther insisted, is by faith only (‘faith apart from observing the law’, Rom. 3:28), because it is in Christ and by Christ only, and depends on what he is as distinct from what we are. But **if ‘good works’ (activities of serving God and others) do not follow from our profession of faith**, we are as yet believing only from the head, not from the heart: in other words, **justifying faith (fiducia) is <span style="font-size:1.2em;">not yet ours</span>**. &mdash; [Dr. J. I. Packer (Ph.D., University of Oxford), Concise Theology. Chapter 59 Works. p. 174.](https://youtu.be/jOFsFgUUdZo). On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:OrangeRed">not faith <span style="font-size:1.2em;color:Red">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag)
+
+<br>
+
+---
+
+<br>
+
+> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {

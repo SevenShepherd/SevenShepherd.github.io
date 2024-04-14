@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 07:15:00 -0500
+date: 2024-03-17 07:25:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -186,6 +186,14 @@ All verses used to support the rapture can also be applied to a post-trib stance
 
 > Behold! I tell you a mystery. **We shall not all sleep**, but we shall all be changed,
 >> But let me reveal to you a wonderful secret. **We will not all die**, but we will all be transformed! &mdash; 1 Corinthians 15:51 ESV, NLT (Parallel) -->
+
+<br>
+
+---
+
+<br>
+
+> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {

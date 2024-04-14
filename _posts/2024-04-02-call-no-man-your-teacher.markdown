@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🦆 Make sure your understanding of these nuances does not go against scripture, the academic community, and centuries of sound doctrine." 
-date: 2024-04-02 02:10:00 -0500
+date: 2024-04-02 02:15:00 -0500
 categories: repentance
 published: true
 ---
@@ -164,6 +164,14 @@ This mentions <span style="font-weight:bold;font-size:1.2em;color:Darkred;">unsa
 |Distinctive|NOT Recommended|
 |:-:|:-:|
 |<span style="color:darkred;" href="">Hyper-Calvinism (<a href="https://sevenshepherd.github.io/election/#decrees" style="color:darkred;">Supra.</a>), Hyper-Grace, Catholicism, Theological Liberalism etc.</span>|🚫|
+
+<br>
+
+---
+
+<br>
+
+> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 03:25:00 -0500
+date: 2024-04-05 03:35:00 -0500
 categories: repent
 published: true
 ---
@@ -54,6 +54,14 @@ It would be legalistic to say, repent to merit or earn justification; however, i
 - Not justifying (Rom 3:28; Eph 2:8-10).
 
 I would conclude that an unrepentant person is an unregenerate person.
+
+<br>
+
+---
+
+<br>
+
+> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
 
 
 <!-- <span style="font-size:0.9em;">

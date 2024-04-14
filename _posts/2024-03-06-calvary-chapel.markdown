@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 7:45:00 -0500
+date: 2024-03-06 7:55:00 -0500
 categories: salvation
 published: true
 ---
@@ -281,6 +281,14 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 <!-- <a name="cite" href="#contents" style="font-size:2.1em;">VII. Sources & Citations</a> -->
 
 <!-- <sup><a name="demarest_cite" href="#contents">1</a></sup> **Dr. Bruce Demarest** (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." pp. 36-44. -->
+
+<br>
+
+---
+
+<br>
+
+> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {
