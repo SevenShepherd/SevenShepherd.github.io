@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:15:00 -0500
+date: 2024-04-15 01:25:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -50,7 +50,7 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. The 80's version of the Gospel teaches against Christ's repentance</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and they may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
+The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
 
 > Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.” &mdash; **Jesus** in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
