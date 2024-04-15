@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:05:00 -0500
+date: 2024-04-15 01:15:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#alone">Not the *&ldquo;Faith Alone"&rdquo;* of the Reformation</a>
+1. <a href="#alone">Not the *&ldquo;Faith Alone&rdquo;* of the Reformation</a>
 2. <a href="#repent">Scripture Twisters On Repentance</a>
 3. <a href="#assurance">Giving False Assurance to thousands</a>
 4. <a href="#trust">Underemphasizing Trust in Christ</a>
@@ -132,12 +132,15 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 Because I already addressed [the heresy of antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) multiple times, I'm going to briefly cover the topic here:
 
 1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into debauched lifestyles, slandering the way of truth with their destructive heresies. See [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET).
+2. **The Apostle John** completely obliterates the extremist 80's version of the Gospel (1Jn 2:3-6). 1 John 3:6-10 proves, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
+3. **The Apostle Jude** calls the church to defend the truth aggressively against this infiltration. Pay careful attention to the striking condemnation from Jude in this passage. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria. See Jude 4 NET.
+4. **The Apostle Paul** conquers this extremist 80s sect in Romans 6:1-2,15 when he says, &ldquo;*What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>***&rdquo; Paul also debunks [dispensational antinomianism](https://sevenshepherd.github.io/dispensationalism/#antinomianism) (Rom 3:31; 1 Cor 6:9–11; 9:21).
 
 <!-- > <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">debauched lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
 >> Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. **Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith.** The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b). &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 457.
 -->
 
-2. **The Apostle John** completely obliterates the extremist 80's version of the Gospel (1Jn 2:3-6). 1 John 3:6-10 proves, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
+<!-- 2. **The Apostle John** completely obliterates the extremist 80's version of the Gospel (1Jn 2:3-6). 1 John 3:6-10 proves, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin. -->
 
 <!-- > <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([**article**](https://sevenshepherd.github.io/1-John-2-4/)) -->
 
@@ -145,12 +148,12 @@ Because I already addressed [the heresy of antinomianism](https://sevenshepherd.
 
 <!-- > <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: whoever does not practice righteousness is not of God, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV -->
 
-3. **The Apostle Jude** calls the church to defend the truth aggressively against this infiltration. Pay careful attention to the striking condemnation from Jude in this passage. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria. See Jude 4 NET.
+<!-- 3. **The Apostle Jude** calls the church to defend the truth aggressively against this infiltration. Pay careful attention to the striking condemnation from Jude in this passage. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria. See Jude 4 NET. -->
 
 <!-- > <sup style="font-weight:bold;">4</sup> For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:OrangeRed;"><span style="font-size:1.2em;color:Red;">ungodly men</span> who have turned the grace of our God into a <span style="font-size:1.2em;color:Red;">license for evil</span></span> and who <span style="font-weight:bold;color:OrangeRed;;">deny our only <span style="font-size:1.2em;color:Red;">Master and Lord</span>, Jesus Christ</span>. &mdash; Jude 1:4 NET -->
 
 
-4. **The Apostle Paul** conquers this extremist 80s sect in Romans 6:1-2,15 when he says, &ldquo;*What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>***&rdquo; Paul also debunks [dispensational antinomianism](https://sevenshepherd.github.io/dispensationalism/#antinomianism) (Rom 3:31; 1 Cor 6:9–11; 9:21).
+<!-- 4. **The Apostle Paul** conquers this extremist 80s sect in Romans 6:1-2,15 when he says, &ldquo;*What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>***&rdquo; Paul also debunks [dispensational antinomianism](https://sevenshepherd.github.io/dispensationalism/#antinomianism) (Rom 3:31; 1 Cor 6:9–11; 9:21). -->
 
 <!-- > <sup style="font-weight:bold;">6</sup> What shall we say then? <span style="font-weight:bold;">Are we to remain in sin</span> so that grace may increase? <sup style="font-weight:bold;">2</sup> <span style="font-weight:bold;color:orangered;">Absolutely not!</span> How can we who died to sin still live in it? &mdash; Romans 6:1-2 NET
 >
