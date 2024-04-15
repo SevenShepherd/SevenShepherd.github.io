@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📜 Justification By \"Faith Alone\" Is A Reformation Doctrine That Has Always Taught \"Resulting\" Obedience To God. It's The Justification That Is By Faith Only."
-date: 2023-09-12 04:45:00 -0500
+date: 2023-09-12 04:55:00 -0500
 categories: truth
 published: true
 ---
@@ -86,7 +86,9 @@ After reading the consistent testimony from all major traditions that came from 
 
 As you can see, plain as day, none of them ever taught that &ldquo;*justification by faith alone*&rdquo; means &ldquo;*faith not accompanied by repentance or by good works.*&rdquo; In the historic protestant theological tradition, &ldquo;*faith alone*&rdquo; has never meant &ldquo;*faith not accompanied by other human actions.*&rdquo; Rather, &ldquo;*faith alone*&rdquo; has always meant that &ldquo;*faith is the only thing that God responds to with the act of justification.*&rdquo;
 
-The Reformers are the biggest group to come out against legalism in the history of Christianity, even to this day. Which should make this ordeal that much more profound, when you hear false teachers twist the minds of the naive against the sound doctrines of the reformation. They died defending sola fide from legalists, and now, here I am defending it from antinomians.
+The Reformers are the biggest group to come out against legalism in the history of Christianity, even to this day. Which should make this ordeal that much more profound, when you hear misguided teachers twist the scriptures and the sound doctrines of the reformation. They died defending sola fide from legalists, and now, here I am defending it from antinomians.
+
+<!-- twist the minds of the naive against the sound doctrines of the reformation. -->
 
 If anyone says to you that &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment.
 
