@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:35:00 -0500
+date: 2024-04-15 01:55:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -42,7 +42,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
-The 80's version of the Gospel distorts sound doctrine and is currently leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomian heresy](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
+The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is currently leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomian heresy](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
 
 You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/).
 
@@ -113,7 +113,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasi
 
 > 4\. pisteúō means **&ldquo;to trust&rdquo; (also &ldquo;to obey&rdquo;)**, &ldquo;to believe&rdquo; (words), and in the passive &ldquo;to enjoy confidence&rdquo; (cf. the later sense &ldquo;to confide in&rdquo;). &mdash; The Theological Dictionary of the New Testament: Abridged in One Volume (**TDNT "Kittel"**)
 
-<a name="unlikely" href="#contents" style="font-size:2.1em;">🚶📜 5. The 80's version of the Gospel twists scripture to fit their incomplete doctrine like the cults do</a>
+<a name="unlikely" href="#contents" style="font-size:2.1em;">🚶📜 5. The 80's version of the Gospel promotes numerous highly unusual, highly unlikely interpretations of Scripture</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, highly unlikely interpretations of the New Testament because of their need to defend a mistaken understanding of the word alone in the phrase "faith alone."
 
@@ -167,7 +167,7 @@ The following excerpt from **Chuck Smith**'s C2000 blasts this extremism out of 
 >
 > &mdash; Chuck Smith (C2000)
 
-<a name="dallas" href="#contents" style="font-size:2.1em;">🚶📜 7. Dallas Theological Seminary Distanced Itself From Them</a>
+<a name="dallas" href="#contents" style="font-size:2.1em;">🚶📜 7. Dallas Theological Seminary Distanced Itself From The 80s *&ldquo;Free Grace&rdquo;* Movement</a>
 
 Dallas wanted Dr. Grudem to emphasize that the 80s free grace movement, which got it's start at this particular seminary, does not represent this educational institution. Dallas is distancing themselves from this 80s movement.
 
