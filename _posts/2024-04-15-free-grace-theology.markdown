@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:10:00 -0500
+date: 2024-04-15 02:15:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -48,7 +48,7 @@ You can also read about how [**Protestant leaders throughout history have consis
 
 Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic despite the confused slander against the truth that you might come across.
 
-<a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. The 80's version of the Gospel teaches against Christ's repentance</a>
+<a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
 
@@ -101,7 +101,7 @@ It will help you to make the distinction between **(1)** justification, which is
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
-<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. The 80's version of the Gospel teaches against Christ's *&ldquo;trustful belief&rdquo;* and instead falsely teaches *&ldquo;assent To Facts&rdquo;* as salvific.</a>
+<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. Does The 80's version of the Gospel teach against Christ's *&ldquo;trustful belief&rdquo;* by falsely teaching *&ldquo;assent To Facts&rdquo;* as salvific?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasize one necessary component of genuine faith (mental assent to the Bible's propositions about Christ's atoning work) and to underemphasize another necessary component of genuine faith (namely, heartfelt trust in the living person of Jesus Christ as my Savior and my God). The result is that some followers of the Free Grace movement intellectually agree with the right doctrines, but they have never trusted in Christ as a person, and they are not truly saved.
 
@@ -119,7 +119,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 
 > ⚠️ Under construction - I will update this with examples in time. You could refresh the page in a week or every so often.
 
-<a name="fruit" href="#contents" style="font-size:2.1em;">🚶📜 6. The 80's version of the Gospel teaches against Christ's fruit-bearing metaphor and against the warnings of the Apostles</a>
+<a name="fruit" href="#contents" style="font-size:2.1em;">🚶📜 6. Does The 80's version of the Gospel teach against Christ's fruit-bearing metaphor and against the warnings of the Apostles?</a>
 
 ℹ️ Disclaimer: there are some moderates within the 80s group that do teach correctly on fruit-bearing, namely, [Charles Ryrie](https://sevenshepherd.github.io/practicing-sin/#ryrie), see link; however, there is an extremist faction within the 80sFG that is reminiscent of the hyper-grace [antinomians](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). This section addresses these extremists.
 
