@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:55:00 -0500
+date: 2024-04-15 02:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -42,7 +42,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
-The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is currently leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomian heresy](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
+The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomian heresy](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
 
 You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/).
 
@@ -91,7 +91,7 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - Repent or Perish (Lk 13:3; Mt 3:10).
 - Unrepentant sin not tolerated and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).
 
-<a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. The 80's version of the Gospel departs from scripture, indoctrinating innocent children into lifestyles of sin and false assurance.</a>
+<a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. Is The 80's version of the Gospel departing from scripture, indoctrinating innocent children into lifestyles of sin and false assurance?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement gives false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life or even in continuing to say that they believe in Christ. The result is that many people have been assured that they are saved, but they are not.
 
@@ -205,7 +205,7 @@ I'm happy to see people waking up from this error, especially from the very camp
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 9. Summary & Conclusions</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* sect departs from scripture, indoctrinating innocent children into lifestyles of sin and false assurance. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
+The 80's *&ldquo;Free Grace&rdquo;* movement departs from scripture. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
 
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
