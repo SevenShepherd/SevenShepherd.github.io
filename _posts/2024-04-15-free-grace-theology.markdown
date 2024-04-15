@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:00:00 -0500
+date: 2024-04-15 02:05:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -42,7 +42,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
-The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomian heresy](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
+The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
 
 You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/).
 
@@ -127,11 +127,11 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 
 <!-- becoming reminiscent of false teachers -->
 
-Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience by the power and indwelling of the Holy Spirit, is not true faith. It is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). 
+Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience by the power and indwelling of the Holy Spirit, is not true faith. It is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26).
 
 Because I already addressed [the heresy of antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) multiple times, I'm going to briefly cover the topic here:
 
-1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into debauched lifestyles, slandering the way of truth with their destructive heresies. See [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET).
+1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. See [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET).
 2. **The Apostle John** completely obliterates the extremist 80's version of the Gospel (1Jn 2:3-6). 1 John 3:6-10 proves, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
 3. **The Apostle Jude** calls the church to defend the truth aggressively against this infiltration. Pay careful attention to the striking condemnation from Jude in this passage. The main points being the identifying points. The individuals who are marked out for condemnation meet the following criteria. See Jude 4 NET.
 4. **The Apostle Paul** conquers this extremist 80s sect in Romans 6:1-2,15 when he says, &ldquo;*What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>***&rdquo; Paul also debunks [dispensational antinomianism](https://sevenshepherd.github.io/dispensationalism/#antinomianism) (Rom 3:31; 1 Cor 6:9–11; 9:21).
@@ -205,7 +205,7 @@ I'm happy to see people waking up from this error, especially from the very camp
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 9. Summary & Conclusions</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement departs from scripture. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
+The 80's *&ldquo;Free Grace&rdquo;* movement departs from scripture and, in my experience, has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
 
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
