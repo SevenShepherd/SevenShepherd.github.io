@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "🚶📜 How The New Lordship Salvation Departs From The Original Lordship Position. How John MacArthur and John Stott Were Corrected By Cambridge Professor Grudem."
-date: 2024-04-15 03:05:00 -0500
+date: 2024-04-15 03:10:00 -0500
 categories: cult heretical sect
 published: true
 ---
 
 ⚠️ Under construction - Since I just critiqued [the 80s &ldquo;*free grace*&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), I thought it would only be fair if I did the same with lordship salvation. Refresh article weekly for updates.
+
+> A false balance is an abomination to the Lord, but a just weight is his delight. &mdash; Proverbs 11:1
 
 <!-- ℹ️ Disclaimer: As a protestant who holds to the [five solas](/assets/images/solas.jpg), I believe justification is by grace through faith alone, we developed it from scripture first in history. I also believe that grace is free just like all true Christians do, but this 80s movement brings with it a dangerous set of unbiblical doctrines.
 
@@ -35,7 +37,7 @@ published: true
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
