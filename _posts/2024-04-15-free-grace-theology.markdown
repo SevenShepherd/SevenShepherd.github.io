@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:25:00 -0500
+date: 2024-04-15 01:35:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -46,7 +46,7 @@ The 80's version of the Gospel distorts sound doctrine and is currently leading 
 
 You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/).
 
-Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching [**historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic despite the confused slander against the truth that you might come across.
+Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic despite the confused slander against the truth that you might come across.
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. The 80's version of the Gospel teaches against Christ's repentance</a>
 
