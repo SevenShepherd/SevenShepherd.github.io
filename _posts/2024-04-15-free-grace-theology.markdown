@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 01:00:00 -0500
+date: 2024-04-15 01:05:00 -0500
 categories: cult heretical sect
-published: false
+published: true
 ---
 
 ℹ️ Disclaimer: As a protestant who holds to the [five solas](/assets/images/solas.jpg), I believe justification is by grace through faith alone, we developed it from scripture first in history. I also believe that grace is free just like all true Christians do, but this 80s movement brings with it a dangerous set of unbiblical doctrines.
