@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:05:00 -0500
+date: 2024-04-15 02:10:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -38,7 +38,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 > Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10). &mdash; True Meaning Of Faith Alone
 
-❌ 80's teachers will attempt convince you that the statement, &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment. Then explain the following to them politely:
+❌ 80's teachers will attempt to convince you that the statement, &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment. Then explain the following to them politely:
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
@@ -54,7 +54,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoid
 
 > Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.” &mdash; **Jesus** in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
-Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by  Christ & The Apostles.
+Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles.
 
 > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
