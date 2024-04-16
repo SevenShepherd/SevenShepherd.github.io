@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:45:00 -0500
+date: 2024-04-15 02:55:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -235,7 +235,7 @@ My concerns are organized into five points, covering one historical concern and 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
