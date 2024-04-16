@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:35:00 -0500
+date: 2024-04-15 02:45:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -19,7 +19,7 @@ published: true
 5. <a href="#unlikely">Bad Interpretations of Scripture</a>
 6. <a href="#fruit">Antinomian Carnal Christianity</a>
 7. <a href="#dallas">Dallas Theological Seminary Distanced Itself From Them</a>
-8. <a href="#wilikin">How C.S. Lewis Helped Bob Wilikin Repent Of His False View On Repentance</a>
+8. <a href="#wilikin">How C.S. Lewis Helped Bob Wilikin Repent Of His Mistaken View On Repentance</a>
 9. <a href="#conclusion">Summary & Conclusions</a>
 
 <br>
@@ -52,7 +52,7 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
 
-> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.” &mdash; **Jesus** in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
+> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:Goldenrod;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:Goldenrod;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
 Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles.
 
@@ -191,7 +191,7 @@ people who followed him.**
 >
 > &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge)](https://www.youtube.com/watch?v=ljQKWjolCOg)
 
-<a name="wilikin" href="#contents" style="font-size:2.1em;">🚶📜 8. How C.S. Lewis Helped Bob Wilikin Repent Of His False View On Repentance</a>
+<a name="wilikin" href="#contents" style="font-size:2.1em;">🚶📜 8. How C.S. Lewis Helped Bob Wilikin Repent Of His Mistaken View On Repentance</a>
 
 Bob Wilkin (ThM, PhD, Dallas Theological Seminary) has served as an evangelist on the staff of Campus Crusade for Christ, a hospital chaplain, a pastor, and a college professor of Greek and Bible. He is the founder and Executive Director of Grace Evangelical Society (GES).
 
