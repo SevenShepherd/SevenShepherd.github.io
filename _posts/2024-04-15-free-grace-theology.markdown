@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 03:25:00 -0500
+date: 2024-04-15 03:35:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -145,7 +145,6 @@ Because I already addressed [the heresy of antinomianism](https://sevenshepherd.
 3. **The Apostle Jude** in Jd 4 NET calls the church to defend the truth aggressively against this infiltration of dualistic antinomianism when he says, *&ldquo;For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;">ungodly men who have turned the grace of our God into a license for evil</span> and who deny our only Master and Lord, Jesus Christ.&rdquo;*
 4. **The Apostle Paul** conquers this extremist 80s sect in Romans 6:1-2,15 when he says, &ldquo;*What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>***&rdquo; Paul also debunks [dispensational antinomianism](https://sevenshepherd.github.io/dispensationalism/#antinomianism) when he says, *&ldquo;Do we then nullify the law through faith? <span style="font-weight:bold;color:orangered;">Absolutely not!</span> **Instead we uphold the law**.&rdquo;* (Rom 3:31 NET; 1 Cor 6:9–11; 9:21).
 
-> Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.
 
 <!-- > <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">debauched lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
 >> Second Pet 2:1 describes “false prophets” who “secretly introduce destructive heresies, even denying the Sovereign Lord who bought them.” These persons professed to be Christians and were influential teachers of the church. **Peter’s elaboration of them as “brute beasts, creatures of instinct, born only to be caught and destroyed” (v. 12), “springs without water and mists driven by a storm” (v. 17), and “slaves of depravity” (v. 19) shows that the subjects were unregenerate professors of the faith.** The end of their apostasy is described as “swift destruction” (cf. v. 12b, 17b). &mdash; Dr. Bruce Demarest (Ph.D., University of Manchester), The Cross and Salvation, Chapter Eleven, III. Exposition of the Doctrine of Preservation,  D. Some Apostatize Because Unconverted. p. 457.
@@ -170,7 +169,7 @@ Because I already addressed [the heresy of antinomianism](https://sevenshepherd.
 >
 > <sup style="font-weight:bold;">15</sup> What then? **Shall we sin because we are not under law but under grace? <span style="font-weight:bold;color:orangered;">Absolutely not!</span>** &mdash; Romans 6:15 NET -->
 
-The following excerpt from **Chuck Smith**'s C2000 blasts this extremism out of the water. Chuck Smith is a well respected moderate and basic protestant that **is not** a part of this particular 80s movement; although some may see him as a precursor to it, the 80s &ldquo;*free grace*&rdquo; movement [**would not** pass the Chuck Smith test](https://sevenshepherd.github.io/calvary-chapel/). We also recommend his topical study on [repentance](https://youtu.be/kP8rIIps4Sk?t=130).
+The following excerpt from **Chuck Smith**'s C2000 also blasts this extremism out of the water. Chuck Smith is a well respected moderate and basic protestant that **is not** a part of this particular 80s movement; although some may see him as a precursor to it, the 80s &ldquo;*free grace*&rdquo; movement [**would not** pass the Chuck Smith test](https://sevenshepherd.github.io/calvary-chapel/). We also recommend his topical study on [repentance](https://youtu.be/kP8rIIps4Sk?t=130).
 
 > 1Jn 3:6 Whosoever abides in him does not **practice** sin: and whosoever **practices** sin has not seen him, neither known him. Pretty powerful words. It should cause us to examine our own lives. **If I am living a life of practicing sin, I really don’t know Him. I really haven’t seen Him. If I really know Him, then I’m gonna be free from the practice of sin.**
 >
