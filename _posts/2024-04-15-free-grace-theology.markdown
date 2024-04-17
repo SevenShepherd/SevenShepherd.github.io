@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 02:55:00 -0500
+date: 2024-04-15 03:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -32,11 +32,20 @@ published: true
 
 The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone."
 
-### ⚠️ The full definition that concludes, "but the faith that justifies is never alone," was removed by the 80s version of the Gospel. It is not the true Faith Alone!
+> Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10). &mdash; True Definition Of Faith Alone
 
-The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62). While the first half protects us from legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
+⚠️ The full definition that concludes, &ldquo;*We are justified by faith alone, <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">removed by the 80s version of the gospel</span>. **It is not the true Faith Alone** taught for hundreds of years as *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification. [Protestant leaders throughout history have consistently defined faith alone as resulting in obedience.](https://sevenshepherd.github.io/faith-alone/)
 
-> Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10). &mdash; True Meaning Of Faith Alone
+<!-- The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62). While the first half protects us from legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). -->
+
+The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://sevenshepherd.github.io/fruit-bearing/#antinomianism).<sup>2</sup> While the first half protects us from legalism.<sup>1</sup>
+
+1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
+3. Verses for obedience &ldquo;*after*&rdquo; salvation (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10)
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
+6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10)
 
 ❌ 80's teachers will attempt to convince you that the statement, &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment. Then explain the following to them politely:
 
@@ -44,7 +53,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
 
-You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/).
+<!-- You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/). -->
 
 Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic despite the confused slander against the truth that you might come across.
 
@@ -117,7 +126,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasi
 
 The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, highly unlikely interpretations of the New Testament because of their need to defend a mistaken understanding of the word alone in the phrase "faith alone."
 
-> ⚠️ Under construction - I will update this with examples in time. You could refresh the page in a week or every so often.
+> ⚠️ Under construction - I will update this with examples in time. You could refresh the page in a week or every so often. I will likely make a list of links to future articles here, that expand upon these bad interpretations.
 
 <a name="fruit" href="#contents" style="font-size:2.1em;">🚶📜 6. Does The 80's version of the Gospel teach against Christ's fruit-bearing metaphor and against the warnings of the Apostles?</a>
 
