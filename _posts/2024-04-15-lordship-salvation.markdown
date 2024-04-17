@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🚶📜 How The New Lordship Salvation Departs From The Original Lordship Position. How MacArthur and Stott Were Corrected By Cambridge Professor Grudem."
-date: 2024-04-15 03:35:00 -0500
+title: "🚶📜 How The New Lordship Salvation Departs From The Original Lordship Position. How MacArthur and Stott Were Corrected By Cambridge Educated Research Professor Grudem."
+date: 2024-04-15 03:40:00 -0500
 categories: cult heretical sect
 published: true
 ---
