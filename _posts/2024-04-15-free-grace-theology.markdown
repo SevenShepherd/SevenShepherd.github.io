@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 03:00:00 -0500
+date: 2024-04-15 03:05:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -28,7 +28,7 @@ published: true
 
 <br>
 
-<a name="alone" href="#contents" style="font-size:2.1em;">🚶📜 1. The 80's version of the Gospel does not teach the Reformation doctrine of justification by faith alone</a>
+<a name="alone" href="#contents" style="font-size:2.1em;">🚶📜 1. The 80's version of the Gospel DOES NOT teach the Reformation doctrine of justification by faith alone</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone."
 
@@ -61,7 +61,7 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
 
-> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:Goldenrod;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:Goldenrod;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
+> Now after John was arrested, Jesus came into Galilee, <span style="font-weight:bold;color:GoldenRod;">proclaiming the gospel of God</span>, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:DarkRed;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:DarkRed;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
 Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles.
 
