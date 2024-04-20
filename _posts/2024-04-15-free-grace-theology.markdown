@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 03:35:00 -0500
+title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
+date: 2024-04-15 03:40:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#alone">Not the *&ldquo;Faith Alone&rdquo;* of the Reformation</a>
-2. <a href="#repent">Scripture Twisters On Repentance</a>
+2. <a href="#repent">No Call To Repent Of Sins</a>
 3. <a href="#assurance">Giving False Assurance to thousands</a>
 4. <a href="#trust">Underemphasizing Trust in Christ</a>
 5. <a href="#unlikely">Bad Interpretations of Scripture</a>
@@ -55,7 +55,9 @@ The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is p
 
 <!-- You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/). -->
 
-Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic despite the confused slander against the truth that you might come across.
+Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic. Necessarily follows is not meritoriously contributes.
+
+<!-- despite the confused slander against the truth that you might come across. -->
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
@@ -215,7 +217,7 @@ I'm happy to see people waking up from this error, especially from the very camp
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 9. Summary & Conclusions</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement departs from scripture and, in my experience, has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
+The 80's *&ldquo;Free Grace&rdquo;* movement diminishes scripture and, in my experience, has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
 
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
