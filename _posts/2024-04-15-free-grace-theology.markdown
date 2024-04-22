@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 03:40:00 -0500
+date: 2024-04-15 03:45:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -127,6 +127,8 @@ The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasi
 <a name="unlikely" href="#contents" style="font-size:2.1em;">🚶📜 5. The 80's version of the Gospel promotes numerous highly unusual, highly unlikely interpretations of Scripture</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, highly unlikely interpretations of the New Testament because of their need to defend a mistaken understanding of the word alone in the phrase "faith alone."
+
+- [💬 “The times of ignorance God overlooked, but now he commands all people everywhere to repent” ― The Apostle Paul (where there is genuine faith, there is always an inward resolve to turn from sin)](https://sevenshepherd.github.io/acts-17-30/)
 
 > ⚠️ Under construction - I will update this with examples in time. You could refresh the page in a week or every so often. I will likely make a list of links to future articles here, that expand upon these bad interpretations.
 
