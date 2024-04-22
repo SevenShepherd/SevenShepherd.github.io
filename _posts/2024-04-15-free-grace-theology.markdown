@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 04:10:00 -0500
+date: 2024-04-15 04:15:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -59,6 +59,13 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 <!-- despite the confused slander against the truth that you might come across. -->
 
+|Genuine Saving Faith||
+|:-:|:-:|
+|Pharisees & Judaizers (Legalism)<br><span style="font-weight:bold;color:darkred">Works = Justification</span><br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|Some Catholics, Mormons, Witnesses (Synergism)<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
+|<a href="https://bit.ly/42xpkRR">Christians (Historic *Sola fide*)</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
+|80's Free Grace, Hyper-Grace (Antinomianism)<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
@@ -112,7 +119,7 @@ It will help you to make the distinction between **(1)** justification, which is
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
-<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. Does The 80's version of the Gospel teach against Christ's *&ldquo;trustful belief&rdquo;* by falsely teaching *&ldquo;assent To Facts&rdquo;* as salvific?</a>
+<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. Does The 80's version of the Gospel teach against Christ's *&ldquo;trustful belief&rdquo;* by falsely teaching *&ldquo;assent to facts&rdquo;* as salvific?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasize one necessary component of genuine faith (mental assent to the Bible's propositions about Christ's atoning work) and to underemphasize another necessary component of genuine faith (namely, heartfelt trust in the living person of Jesus Christ as my Savior and my God). The result is that some followers of the Free Grace movement intellectually agree with the right doctrines, but they have never trusted in Christ as a person, and they are not truly saved.
 
