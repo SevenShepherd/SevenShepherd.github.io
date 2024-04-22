@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💬 “The times of ignorance God overlooked, but now he commands all people everywhere to repent” ― The Apostle Paul (where there is genuine faith, there is always in inward resolve to turn from sin)"
-date: 2024-04-22 01:10:00 -0500
+title: "💬 “The times of ignorance God overlooked, but now he commands all people everywhere to repent” ― The Apostle Paul (where there is genuine faith, there is always an inward resolve to turn from sin)"
+date: 2024-04-22 01:15:00 -0500
 categories: repent repentance penitent penitence obedience verse
 published: true
 ---
