@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 03:55:00 -0500
+date: 2024-04-15 04:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
