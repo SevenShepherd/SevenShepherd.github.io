@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🌳🍎 Christ's ‘Fruit-Bearing Metaphor’ Will Help You Defend The Church From Antinomianism And Legalism"
-date: 2024-02-19 09:35:00 -0500
+date: 2024-02-19 09:45:00 -0500
 categories: fruit heresies heresy
-published: true
+published: false
 ---
 
 <!-- "⛪ Legalism And Antinomianism Are Two Sides Of The Same Heretical Coin" -->
