@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🚶📜 How The New Lordship Salvation Departs From The Original Lordship Position. How MacArthur and Stott Were Corrected By Cambridge Educated Research Professor Grudem."
-date: 2024-04-15 03:40:00 -0500
+date: 2024-04-15 03:45:00 -0500
 categories: cult heretical sect
-published: true
+published: false
 ---
 
 ⚠️ Under construction - Since I just critiqued [the 80s &ldquo;*free grace*&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), I thought it would only be fair if I did the same with lordship salvation. Refresh article weekly for updates.
