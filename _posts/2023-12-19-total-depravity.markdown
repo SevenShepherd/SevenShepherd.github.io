@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚔️ “Truly War Does Demonstrate The Total Depravity Of Man” — Chuck Smith"
-date: 2023-12-19 01:45:00 -0500
+date: 2023-12-19 01:55:00 -0500
 categories: truth
-published: true
+published: false
 ---
 
 Total depravity simply says, that man is not good enough to merit his own salvation. **Those who deny total depravity inadvertently claim they can merit their own salvation.** Don't confuse total depravity for total inability (more on that below).

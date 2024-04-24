@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "♻️ “Sanctification is the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.”"
-date: 2024-02-24 03:05:00 -0500
+date: 2024-02-24 03:20:00 -0500
 categories: sanctification
-published: true
+published: false
 ---
 
 <!-- “Sanctification, says the Westminster Shorter Catechism (Q.35), is ‘the work of God’s free grace, whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness’.” -->
