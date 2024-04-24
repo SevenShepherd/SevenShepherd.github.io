@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ “The world cannot hate you, but it does hate me because I accuse it of doing evil.” ― Jesus"
-date: 2024-04-05 03:35:00 -0500
+title: "✝️ “The world cannot hate you, but it hates me because I testify about it that its works are evil.” ― Jesus"
+date: 2024-04-05 03:45:00 -0500
 categories: repent
 published: true
 ---
