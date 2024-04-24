@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⏳ The Old Ways... The Ancient Paths" 
-date: 2024-03-26 02:37:00 -0500
+date: 2024-03-26 02:45:00 -0500
 categories: timeline history protestant
-published: true
+published: false
 ---
 
 <!-- 🪽 -->
