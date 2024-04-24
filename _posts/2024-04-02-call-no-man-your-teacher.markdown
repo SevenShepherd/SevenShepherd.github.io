@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🦆 Make sure your understanding of these nuances does not go against scripture, the academic community, and centuries of sound doctrine." 
-date: 2024-04-02 02:15:00 -0500
+date: 2024-04-02 02:35:00 -0500
 categories: repentance
-published: true
+published: false
 ---
 
 <!-- 🦆 When a “teacher” goes against scripture, the academic community, and centuries of sound doctrine, that is what we call a quack. Run for the hills. -->
