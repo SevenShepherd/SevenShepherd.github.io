@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "✝️ “The world cannot hate you, but it hates me because I testify about it that its works are evil.” ― Jesus"
-date: 2024-04-05 03:45:00 -0500
+date: 2024-04-05 03:55:00 -0500
 categories: repent
-published: true
+published: false
 ---
 
 <!-- In a sea of truth-seekers, there are some among you who masquerade as the flock, but hate the teachings of repentance (Ac 17:30) and fruit-bearing (Jn 15:5). They live unrighteously, and despise other believers (1Jn 3:10 NLT) who teach it. I feel your burning hatred and hostility for the truth (1Jn 3:15). Listen closely, it is not me that you hate, it is Christ (Jn 7:7 NLT), for he is the one who taught these things (Mk 1:14-15). -->
