@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 04:25:00 -0500
+date: 2024-04-15 04:30:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -34,7 +34,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation do
 
 > Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10). &mdash; True Definition Of Faith Alone
 
-⚠️ The full definition that correctly concludes, &ldquo;*We are justified by faith alone, <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">removed and distorted by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. [Protestant leaders throughout history have consistently defined faith alone as resulting in obedience.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
+⚠️ The full definition that correctly concludes, &ldquo;*We are justified by faith alone, <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. [Protestant leaders throughout history have consistently defined faith alone as resulting in obedience.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
 <!-- The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62). While the first half protects us from legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). -->
 
@@ -51,7 +51,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
-The 80's version of the Gospel distorts sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
+The 80's version of the Gospel diminishes sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into debauched lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). We need to combat this by maintaining the true definition of faith alone. 
 
 <!-- You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/). -->
 
@@ -133,7 +133,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasi
 
 <a name="unlikely" href="#contents" style="font-size:2.1em;">🚶📜 5. The 80's version of the Gospel promotes numerous highly unusual, highly unlikely interpretations of Scripture</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, highly unlikely interpretations of the New Testament because of their need to defend a mistaken understanding of the word alone in the phrase "faith alone." They use this distorted 80's man-made view to diminish Christ's call to repentance and His fruit-bearing metaphor. Below you will see proof that scripture goes against the 80's movement.
+The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, highly unlikely interpretations of the New Testament because of their need to defend a mistaken understanding of the word alone in the phrase "faith alone." They use this misunderstanding to diminish Christ's call to repentance and His fruit-bearing metaphor. Below you will see proof that scripture goes against the 80's movement.
 
 - [💬 “The times of ignorance God overlooked, but now he commands all people everywhere to repent” ― The Apostle Paul (where there is genuine faith, there is always an inward resolve to turn from sin)](https://sevenshepherd.github.io/acts-17-30/)
     - Acts 17 is the Apostle Paul's initial gospel proclamation to the philosophers in Athens. The one and only thing he says that God commands is that they repent from sin (feel remorse, repent, be converted in a religio-ethical sense). Repentance in Paul's preaching is necessary to escape final judgement (See Ac 17:31). This is why it's best to view repentance as a fruit of genuine saving faith, this protects us from legalism and upholds scripture simultaneously.
