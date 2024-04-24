@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 07:25:00 -0500
+date: 2024-03-17 07:35:00 -0500
 categories: dispensationalism
-published: true
+published: false
 ---
 
 <!-- Zero Reasons Why You Should Believe Dispensationalism -->
