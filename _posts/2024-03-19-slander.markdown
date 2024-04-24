@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🗣️ Although these false teachers promise us freedom, they themselves are slaves of depravity, that is, slaves of sin and corruption. For you are a slave to whatever controls you. — Paraphrase of The Apostle Peter"
-date: 2024-03-19 04:25:00 -0500
+date: 2024-03-19 04:35:00 -0500
 categories: hate slander philosophy
-published: true
+published: false
 ---
 
 <!-- “They promise freedom, but they themselves are slaves of sin and corruption. For you are a slave to whatever controls you.” — The Apostle Peter -->
