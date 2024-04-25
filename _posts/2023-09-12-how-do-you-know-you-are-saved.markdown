@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 05:25:00 -0500
+date: 2023-09-12 05:35:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -77,6 +77,25 @@ The aforementioned verses prove the following:
 - The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
 - Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5)
 
+The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+
+- Not justifying (Rom 3:28; Eph 2:8-10).
+- Imperfect (1Jn 1:8–10; 2:1-2).
+- **Taught alongside faith by Christ Himself** (Mark 1:14-15).
+- One of the reasons Jesus came (Lk 5:32).
+- Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+- **An immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
+- **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
+- **Commanded** by God (Ac 17:30; Mt 4:17).
+- **Granted** by God (Ac 11:18; 2Tim. 2:25).
+- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4).
+- Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+- **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
+- Described as **needed** and necessary (Lk 15:7).
+- Repent or Perish (Lk 13:3; Mt 3:10).
+- Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
+
 <!-- - Repentance is a return to the practice of righteousness, James 2:17-18; 1Jn 2:29; 1Jn 3:7 -->
 
 ## III. Christians Acknowledge Jesus As Lord Over Their Life
@@ -122,12 +141,12 @@ It's true that we are saved by grace and faith alone (Eph 2:8-10), but it's also
 
 > **Those who accept my commandments and obey them are the ones who love me**. And because they love me, my Father will love them. And I will love them and reveal myself to each of them.” &mdash; John 14:21 NLT (cf. Jn 14:15).
 
-While works definitely do not save us, they do spring forth from a true and lively faith.
+While works definitely **do not** save us, they do spring forth from a true and lively faith.
 
 - Saving faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10).
 - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
 - The practice of unrepentant sin was not tolerated by the Apostles (1 Cor. 5:12-13; Luke 17:3-4)
-- Those who practice lifelong habitual sin are likely self-deceived (James 1:22; 2 Pe 2:21-22) and will not inherit the kingdom of God (Rev 21:8; 22:15; Ro 1:29-32; 1 Cor. 6:9-10; Gal 5:19-21; Eph 5:3-5)
+- Those who practice lifelong habitual sin are likely self-deceived (James 1:22; 2 Pe 2:21-22) and will not inherit the kingdom of God (Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5 ... + Rev 21:8; 22:15; Ro 1:29-32)
 - Christianity is a call to discipleship (Mt 10:38; 16:24; Lk 9:23,62; 14:27; Mk 8:34... Mt 3:10; 25:30; Jn 15:8 ESV)
 - True Christians love God by obeying him (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4).
 - True Christians love other believers (1 Jn 2:9-11; 3:10,14; 4:8,20; Jn 13:34-35).
@@ -166,6 +185,30 @@ We're saved by grace through faith alone (Eph. 2:8-9), but if you do not obey Go
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing. ... &mdash; Dr. John C. Lennox (PhD, University of Cambridge; DPhil, Emeritus Professor of Mathematics at the University of Oxford; DSc, Cardiff University), [*Determined to Believe?*. p. 136, 218, 313.](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
 It's true that Christians undergo a progressive sanctification of decreasing patterns of sin (1Jn 3:6-10; Ro 6:1-2,15), but the faith that justifies, is a fides viva, a living faith, a faith that is alive and you know it is alive when it manifests itself in the fruit of obedience. It is no dead faith (James 2:14-26).
+
+1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
+3. Verses for obedience &ldquo;*after*&rdquo; salvation (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10)
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
+6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10)
+
+- The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
+    - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
+    - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Obedience does not merit salvation, salvation produces obedience (Ac 17:30; 1Jn 2:4).
+    - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
+- Repentance is the immediate fruit of a genuine non-superficial faith.
+    - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).
+    - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+    - The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- The Bible is against the heresy of antinomianism.
+    - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+    - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
+- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
 
 <script>
     var refTagger = {
