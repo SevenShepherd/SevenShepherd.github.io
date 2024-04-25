@@ -35,7 +35,11 @@ The Bible shows that not only are they unwise for becoming frustrated at a very 
 
 > If someone says, “I love God,” but hates a fellow believer, <span style="font-weight:bold;color:FireBrick;">that person is a <span style="font-size:1.2em;color:Red;">liar</span></span>; for if we don’t love people we can see, how can we love God, whom we cannot see? &mdash; 1 John 4:20 NLT
 
+> If anyone claims, “I am living in the light,” but hates a fellow believer, that person is still living in darkness. &mdash; 1 John 2:9 NLT
+
 > So now <span style="font-weight:bold;color:FireBrick;">we can tell</span> who are children of God and who are <span style="font-weight:bold;color:FireBrick;">children of the devil</span>. <span style="font-weight:bold;font-size:1.2em;color:Red;">Anyone</span> who does not live righteously [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">dikaiosynē</a>] and does not love [<a href="https://www.biblegateway.com/passage/?search=1%20Jn%203%3A10&version=MOUNCE" style="font-style:italic;color:#A8A8A8;">agapaō</a>] other believers <span style="font-weight:bold;color:FireBrick;">does not belong to God</span>. &mdash; 1 John 3:10 NLT
+
+<!-- > "With their words, the godless destroy their friends, but knowledge will rescue the righteous." &mdash; Pr 11:9 -->
 
 
 The reason those who would mislabel me and bear false witness against me do such things is because they do not have the spirit of God living inside of them. Otherwise they would have looked at the information provided and examined themselves first before assaulting others. The very fact that they would assault the information that their own founder provided is telling evidence that they have fallen very far from the tree.

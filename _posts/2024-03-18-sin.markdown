@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛓️ I proclaim in the name of Christ Jesus that ‘There is forgiveness of sins for all who repent.’ Repent therefore, and turn back, that your sins may be blotted out."
-date: 2024-03-18 07:25:00 -0500
+date: 2024-03-18 07:35:00 -0500
 categories: sin
 published: false
 ---
