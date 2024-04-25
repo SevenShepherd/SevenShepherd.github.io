@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 13:45:00 -0500
+date: 2023-10-19 13:55:00 -0500
 categories: theology salvation
 published: true
 ---
@@ -13,15 +13,21 @@ published: true
 1. <a href="#description">Theology</a>
 2. <a href="#soteriology">Soteriology</a>
     - 2.1 <a href="#sola-fide">Sola Fide (The Original Lordship Position)</a>
-    - 2.2 <a href="#lordship-salvation">Lordship Salvation Corrected</a>
+    - 2.2 <a href="#lordship-salvation">Lordship Salvation Departs from Sola Fide</a>
     - 2.3 <a href="#free-grace">80's Free Grace Movement Diminishes the Gospel</a>
     - 2.4 <a href="#sin">‘There is forgiveness of sins for all who repent.’</a>
     - 2.5 <a href="#praise">Praise Music According To Scripture</a>
     - 2.6 <a href="#OrdoSalutis">Order Of Salvation (Ordo Salutis)</a>
+        - 2.6.1 <a href="#amyraldianism">Amyraldianism</a>
+        - 2.6.2 <a href="#reformed-wesleyanism">Reformed Wesleyanism</a>
+        - 2.6.3 <a href="#calvinism">Calvinism</a>
+        - 2.6.4 <a href="#arminianism">Arminianism</a>
+        - 2.6.5 <a href="#lutheranism">Lutheranism</a>
+        - 2.6.6 <a href="#catholicism">Catholicism</a>
     - 2.7 <a href="#TULIP">Stances On TULIP</a>
         - 2.7.1 <a href="#depravity">Totalness Of Depravity</a>
         - 2.7.2 <a href="#election">Conditionality of Election</a>
-        - 2.7.3 <a href="#atonement">Extent of Atonement</a>
+        - 2.7.3 <a href="#atonement">The Extent of Atonement Is Unlimited</a>
         - 2.7.4 <a href="#grace">Resistibility of Grace</a>
         - 2.7.5 <a href="#security">Preservation & Perseverance</a>
             - 2.7.5.1 <a href="#sanctify">Progressive Sanctification</a>
@@ -455,6 +461,10 @@ While psalms and hymns are specifically mentioned, a third category of praise mu
 > <sup style="font-weight:bold;">16</sup> Let the word of Christ<sup>[a]</sup> dwell in you richly, teaching and exhorting one another with all wisdom, singing **psalms, hymns, and spiritual songs**, all with grace<sup>[b]</sup> in your hearts to God. — Colossians 3:16
 
 I recommend that your church maintain [**psalms**](https://www.youtube.com/watch?v=pl4ble8bonI) and [**hymns**](https://www.youtube.com/watch?v=55Hlbsp03BE), secondly, spiritual songs are also acceptable if the message is spiritual and Christ centered. Psalms can be old or new, as long as they are Psalms. Hymns can be professional or humble as long as they're hymns.
+
+<a name="OrdoSalutis" href="#contents" style="font-size:1.6em;">🎼 2.6 Order Of Salvation (Ordo Salutis)</a>
+
+> under construction
 
 <a name="predestination" href="#contents" style="font-size:2.1em;">⚜️ 3. Foreknowledge & Predestination</a>
 
