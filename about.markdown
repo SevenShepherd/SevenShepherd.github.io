@@ -24,8 +24,9 @@ I am a theologically conservative protestant, holding to the [five solas](/asset
 
 See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
 
-- [An Entire Article Describing My Theology](https://sevenshepherd.github.io/theology/)
-- [Repentance For The Forgiveness of Sins](https://sevenshepherd.github.io/sin/)
+<!-- - [An Entire Article Describing My Theology](https://sevenshepherd.github.io/theology/)
+- [Repentance For The Forgiveness of Sins](https://sevenshepherd.github.io/sin/) -->
+
 - [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)

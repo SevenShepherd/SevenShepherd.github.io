@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Theology"
-date: 2023-10-19 14:00:00 -0500
+date: 2023-10-19 14:05:00 -0500
 categories: theology salvation
-published: true
+published: false
 ---
 
 <!-- Les hypothètiques -->
@@ -13,7 +13,7 @@ published: true
 1. <a href="#description">Theology</a>
 2. <a href="#soteriology">Soteriology</a>
     - 2.1 <a href="#sola-fide">Sola Fide (The Original Lordship Position)</a>
-    - 2.2 <a href="#lordship-salvation">Lordship Salvation Departs from Sola Fide</a>
+    - 2.2 <a href="#lordship-salvation">Lordship Salvation Corrected</a>
     - 2.3 <a href="#free-grace">80's Free Grace Movement Diminishes the Gospel</a>
     - 2.4 <a href="#sin">‘There is forgiveness of sins for all who repent.’</a>
     - 2.5 <a href="#praise">Praise Music According To Scripture</a>
