@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "📜 “... I preached that they should repent and turn to God and demonstrate their repentance by their deeds.” ― Summary of Apostle Paul's obedience"
-date: 2024-03-09 1:55:00 -0500
+date: 2024-03-09 2:00:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
