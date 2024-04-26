@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🚶📜 Eight Concerning Things About The 80's \"Free Grace\" Movement. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Bob Wilikin."
-date: 2024-04-15 04:35:00 -0500
+title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
+date: 2024-04-15 04:45:00 -0500
 categories: cult heretical sect
-published: false
+published: true
 ---
 
 ℹ️ Disclaimer: As a Protestant who holds to the [five solas](/assets/images/solas.jpg), I believe justification is by grace through faith alone, we developed it from scripture first in history. I also believe that grace is free just like all true Christians do, but this 80s movement brings with it a dangerous set of unbiblical doctrines.
@@ -34,7 +34,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation do
 
 > Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10). &mdash; True Definition Of Faith Alone
 
-⚠️ The full definition that correctly concludes, &ldquo;*We are justified by faith alone, <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. [Protestant leaders throughout history have consistently defined faith alone as resulting in obedience.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
+⚠️ The full definition that correctly concludes, &ldquo;*We are justified by faith alone, <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. [Protestant leaders throughout history have consistently defined faith alone as being only about justification and then as resulting in obedience by the transformative power for the Holy Spirit.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
 <!-- The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62). While the first half protects us from legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). -->
 
@@ -47,7 +47,7 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
 6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10)
 
-❌ 80's teachers will attempt to convince you that the statement, &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment. Then explain the following to them politely:
+❌ Misguided teachers will attempt to convince you that the statement, &ldquo;*We are justified by faith alone, but the faith that justifies is never alone*&rdquo; is contradictory, politely inform them that they are mistaken, and that both logic and English grammar disagree with their assessment. Then explain the following to them politely:
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
@@ -68,7 +68,7 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. The result is that some followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and may not be saved. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21).
+The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21). The result is that **some** followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and are not saved. 
 
 > Now after John was arrested, Jesus came into Galilee, <span style="font-weight:bold;color:GoldenRod;">proclaiming the gospel of God</span>, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:DarkRed;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:DarkRed;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
@@ -109,7 +109,7 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - Repent or Perish (Lk 13:3; Mt 3:10).
 - Unrepentant sin not tolerated and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).
 
-<a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. Is The 80's version of the Gospel departing from scripture, indoctrinating innocent children into lifestyles of sin and false assurance?</a>
+<a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. Is The 80's version of the Gospel indoctrinating innocent children into lifestyles of sin and false assurance, causing them to apostatize?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement gives false assurance of eternal life to many people who profess faith in Christ but then show no evidence in their pattern of life or even in continuing to say that they believe in Christ. The result is that many people have been assured that they are saved, but they are not.
 
@@ -142,7 +142,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 
 <a name="fruit" href="#contents" style="font-size:2.1em;">🚶📜 6. Does The 80's version of the Gospel teach against Christ's fruit-bearing metaphor and against the warnings of the Apostles?</a>
 
-ℹ️ Disclaimer: there are some moderates within the 80s group that do teach correctly on fruit-bearing, namely, [Charles Ryrie](https://sevenshepherd.github.io/practicing-sin/#ryrie), see link; however, there is an extremist faction within the 80sFG that is reminiscent of the hyper-grace [antinomians](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). This section addresses these extremists.
+ℹ️ Disclaimer: there are some moderates within the 80s group that do teach correctly on fruit-bearing, namely, [Ryrie](https://sevenshepherd.github.io/practicing-sin/#ryrie), see link; however, there is an extremist faction within the sect that is reminiscent of the hyper-grace [antinomians](https://sevenshepherd.github.io/fruit-bearing/#antinomianism). This section addresses these extremists.
 
 ℹ️ Disclaimer: Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
