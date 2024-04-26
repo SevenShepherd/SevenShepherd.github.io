@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 05:15:00 -0500
+date: 2024-04-15 05:25:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -122,11 +122,24 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - **Granted** by God (Ac 11:18; 2Tim. 2:25).
 - Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4).
 - Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
-- Produced from Godly sorrow (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+- **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
 - **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
 - Described as **needed** and necessary (Lk 15:7).
 - Repent or Perish (Lk 13:3; Mt 3:10).
-- Unrepentant sin not tolerated and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).
+- Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
+
+
+<!-- - Repentance is **an inward resolve to turn from sin to God** in trust (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5), as [**every authoritative Greek lexicon reveals**](https://sevenshepherd.github.io/repentance/).
+    - This is a summary of the Apostle Paul's obedience to Jesus' command to open the eyes of the gentiles so that they may **turn from darkness to light** (Acts 26:18,20).
+- Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+- Repentance **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- Unrepentant sinners will perish (Luke 13:3; Mt 3:10).
+- Repentance is a command from God himself (Acts 17:30; Mt 4:17).
+- While there may be an initial saving repentance, it is not a one time event (Luke 17:3-4; 1 Cor. 5:12-13 NLT).
+- The meaning of repentance in the new testament is the same in the old testament (Matt. 11:21-22; Job 42:6).
+- Repentance is an immediate fruit of genuine saving faith **resulting in good works and righteous behavior** (Mt 3:8 NLT; Ac 26:20; Rev 2:5) -->
+
+<!-- “If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.” -->
 
 <a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. Is The 80's version of the Gospel indoctrinating innocent children into lifestyles of sin and false assurance, causing them to apostatize?</a>
 
