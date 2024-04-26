@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 05:10:00 -0500
+date: 2024-04-15 05:15:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -65,6 +65,25 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 |Most Catholics, Mormons, Most Witnesses, some Lordship Salvation (Synergism)<br><span style="font-weight:bold;color:darkred">Faith + Works = Justification</span><br>Saving faith **includes** obedience.<br><span style="color:darkred;">Violates</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28|<span style="font-weight:bold;color:darkred;">False</span>|
 |<a href="https://bit.ly/42xpkRR">Protestant Christians & Moderates (Historic *Sola fide*), some Catholics, Most Lordship Salvation, Some Moderate Free Grace</a><br><span style="font-weight:bold;color:green">Faith = Justification + Works</span><br>Saving faith **results** in obedience **after** justification.<br><span style="color:green;">Defends</span>: Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28<br><span style="color:green;">Reconciles</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:green;">True</span>|
 |Extreme 80's Free Grace, Hyper-Grace (Antinomianism)<br><span style="font-weight:bold;color:darkred">Faith = Justification - Works</span><br>Saving faith does not result in obedience<br><span style="color:darkred;">Violates</span>: Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4<span style="font-weight:bold">;</span> James 2:14-26; Eph. 2:8-10<span style="font-weight:bold">;</span> 1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62|<span style="font-weight:bold;color:darkred;">False</span>|
+
+
+Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). 
+
+<!-- Saving faith "results" in obedience to God and good works that "follow after" justification. -->
+
+> **Those who accept my commandments and obey them are the ones who love me**. And because they love me, my Father will love them. And I will love them and reveal myself to each of them.” &mdash; John 14:21 NLT (cf. Jn 14:15).
+
+While works definitely **do not** save us, they do spring forth from a true and lively faith.
+
+- Saving faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10).
+- Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+- The practice of unrepentant sin was not tolerated by the Apostles (1 Cor. 5:12-13; Luke 17:3-4)
+- Those who practice lifelong habitual sin are likely self-deceived (James 1:22; 2 Pe 2:21-22) and will not inherit the kingdom of God (Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5 ... + Rev 21:8; 22:15; Ro 1:29-32)
+- Christianity is a call to discipleship (Mt 10:38; 16:24; Lk 9:23,62; 14:27; Mk 8:34... Mt 3:10; 25:30; Jn 15:8 ESV)
+- True Christians love God by obeying him (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4).
+- True Christians love other believers (1 Jn 2:9-11; 3:10,14; 4:8,20; Jn 13:34-35).
+- The Bible teaches us to live Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; 2 Pe 2:21-22).
+- The teaching of obedience to God after justification is not burdensome, in fact it's a reason for joy (1 Jn 5:3-4; Jn 15:10-11).
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
@@ -232,6 +251,31 @@ The 80's *&ldquo;Free Grace&rdquo;* movement diminishes scripture and, in my exp
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
 I recommend moderate forms of Protestantism instead, like, [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), the [original Calvary Chapel distinctive](https://sevenshepherd.github.io/calvary-chapel/), or [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) where there is safety in scripture, the academic community, and centuries of sound doctrine.
+
+
+1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
+3. Verses for obedience &ldquo;*after*&rdquo; salvation (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10)
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
+6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10)
+
+- The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
+    - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
+    - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Obedience does not merit salvation, salvation produces obedience (Ac 17:30; 1Jn 2:4).
+    - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
+- Repentance is the immediate fruit of a genuine non-superficial faith.
+    - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).
+    - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+    - The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- The Bible is against the heresy of antinomianism.
+    - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+    - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
+- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
 
 <!-- If you would like to read more about how this new 80's version of the gospel diminishes the true Gospel, you can check out the book, "Free Grace" Theology: 5 Ways It Diminishes the Gospel by [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag) -->
 
