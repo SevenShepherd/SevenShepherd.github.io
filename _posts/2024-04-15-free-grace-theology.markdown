@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 05:35:00 -0500
+date: 2024-04-15 05:45:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -120,7 +120,7 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
 - **Commanded** by God (Ac 17:30; Mt 4:17).
 - **Granted** by God (Ac 11:18; 2Tim. 2:25).
-- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4).
+- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
 - Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
 - **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
 - **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
@@ -182,7 +182,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 
 <!-- becoming reminiscent of false teachers -->
 
-Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience by the power and indwelling of the Holy Spirit, is not true faith. It is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26).
+Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
 Because I already addressed [the heresy of antinomianism](https://sevenshepherd.github.io/fruit-bearing/#antinomianism) multiple times, I'm going to briefly cover the topic here:
 
