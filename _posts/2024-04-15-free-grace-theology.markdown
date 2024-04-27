@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 05:25:00 -0500
+date: 2024-04-15 05:35:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -151,11 +151,13 @@ It will help you to make the distinction between **(1)** justification, which is
 
 > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
-<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. Does The 80's version of the Gospel teach against Christ's *&ldquo;trustful belief&rdquo;* by falsely teaching *&ldquo;assent to facts&rdquo;* as salvific?</a>
+If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) the only assurance you have, is no assurance. This is your wake up call (Re 3:3). You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
+
+<a name="trust" href="#contents" style="font-size:2.1em;">🚶📜 4. Does The 80's version of the Gospel teach against Christ's *&ldquo;believing trust&rdquo;* by falsely teaching *&ldquo;assent to facts&rdquo;* as salvific?</a>
 
 The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasize one necessary component of genuine faith (mental assent to the Bible's propositions about Christ's atoning work) and to underemphasize another necessary component of genuine faith (namely, heartfelt trust in the living person of Jesus Christ as my Savior and my God). The result is that some followers of the Free Grace movement intellectually agree with the right doctrines, but they have never trusted in Christ as a person, and they are not truly saved.
 
-❌ Misguided teachers teach **against** Christ and the lexicon definition of &ldquo;*believe*,&rdquo; by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19).
+❌ Misguided teachers teach **against** Christ and the lexicon definition of &ldquo;*believe*,&rdquo; by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19 NLT).
 
 ✔️ Christ taught &ldquo;*trustful belief*&rdquo; ([pisteuō](https://sevenshepherd.github.io/theology/#salvific)) as salvific: (Jn 3:16; 11:25-26). True teaching emphasizes heartfelt trust in the person of Christ, whereas false teaching overemphasizes agreement with facts. We can verify this by inspecting the worlds most authoritative Greek lexicons and dictionaries.
 
