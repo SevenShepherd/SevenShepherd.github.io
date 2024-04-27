@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 06:20:00 -0500
+date: 2024-04-15 06:25:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -51,11 +51,9 @@ The second half of &ldquo;*We are justified by faith alone, **but the faith that
 
 ✔️ There are two different verbs in the two halves of the sentence, which makes it clear that &ldquo;*faith alone*&rdquo; in the first half of the expression is functioning in a different way from &ldquo;*faith alone*&rdquo; in the second half. In the first half &ldquo;*faith alone*&rdquo; modifies &ldquo;*justified,*&rdquo; and in the second half it modifies &ldquo;*is.*&rdquo;
 
-The 80's version of the Gospel diminishes sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://www.gotquestions.org/antinomianism.html). We need to combat this by maintaining the true definition of faith alone. 
-
 <!-- You can also read about how [**Protestant leaders throughout history have consistently defined faith alone as resulting in obedience**](https://sevenshepherd.github.io/faith-alone/). -->
 
-Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic. Necessarily follows is not meritoriously contributes.
+Justification is by [faith alone](/assets/images/solas.jpg) (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
 <!-- despite the confused slander against the truth that you might come across. -->
 
@@ -69,13 +67,15 @@ Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedi
 
 Salvation is by grace through faith alone (Eph 2:8-9; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but [the faith that saves is never alone in the person justified (James 2:14-26; Eph 2:10)](https://sevenshepherd.github.io/faith-alone/). [Sola fide](/assets/images/solas.jpg). 
 
+<!-- Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic. Necessarily follows is not meritoriously contributes. -->
+
 <!-- Saving faith "results" in obedience to God and good works that "follow after" justification. -->
 
 > **Those who accept my commandments and obey them are the ones who love me**. And because they love me, my Father will love them. And I will love them and reveal myself to each of them.” &mdash; John 14:21 NLT (cf. Jn 14:15).
 
 While works definitely **do not** save us, they do spring forth from a true and lively faith.
 
-- Saving faith "results" in obedience to God (Jn 14:15,21; 15:10; 1 Jn 2:3-6; 5:3-4) and good works that "follow after" justification (James 2:14-26; Eph 2:10).
+- Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10). This has been the teaching of [**Historic Christianity**](https://sevenshepherd.github.io/historical-christianity/) for hundreds of years. It is not legalistic. Necessarily follows is not meritoriously contributes.
 - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
 - The practice of unrepentant sin was not tolerated by the Apostles (1 Cor. 5:12-13; Luke 17:3-4)
 - Those who practice lifelong habitual sin are likely self-deceived (James 1:22; 2 Pe 2:21-22) and will not inherit the kingdom of God (Mt 18:3; Gal 5:19-21; 1 Cor. 6:9-10; Eph 5:3-5 ... + Rev 21:8; 22:15; Ro 1:29-32)
@@ -84,6 +84,8 @@ While works definitely **do not** save us, they do spring forth from a true and 
 - True Christians love other believers (1 Jn 2:9-11; 3:10,14; 4:8,20; Jn 13:34-35).
 - The Bible teaches us to live Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; 2 Pe 2:21-22).
 - The teaching of obedience to God after justification is not burdensome, in fact it's a reason for joy (1 Jn 5:3-4; Jn 15:10-11).
+
+The 80's version of the Gospel diminishes sound doctrine (2Tim 4:3-4 NLT) and is possibly leading hundreds of innocent men, women, and children into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles (2Pe 2:1-2 NET) and [antinomianism](https://www.gotquestions.org/antinomianism.html). We need to combat this by maintaining the true definition of faith alone. 
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
