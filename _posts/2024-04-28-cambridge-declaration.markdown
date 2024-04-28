@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⛪ Cambridge Declaration"
-date: 2024-04-28 1:00:00 -0500
+title: "⛪ Cambridge Declaration (1996)"
+date: 2024-04-28 1:05:00 -0500
 categories: theology
 published: true
 ---
@@ -91,20 +91,3 @@ For Christ's sake. Amen.
 This declaration may be reproduced without permission. Please credit the source by citing the Alliance of Confessing Evangelicals.
 
 Provided by the [Alliance of Confessing Evangelicals](https://www.alliancenet.org/cambridge-declaration).
-
-<script>
-    var refTagger = {
-        settings: {
-            bibleVersion: 'ESV'
-        }
-    }; 
-
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
-</script>
