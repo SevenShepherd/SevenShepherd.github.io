@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ New Hampshire Confession (1833)"
-date: 2024-04-27 2:05:00 -0500
+date: 2024-04-27 2:10:00 -0500
 categories: theology
 published: true
 ---
@@ -35,7 +35,7 @@ Declaration of Faith
 
 <a name="the-scriptures" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 1.</a><br><span style="font-style:italic;font-weight:bold;">Of the Scriptures</span>
 
-Of the Scriptures We believe that the Holy Bible was written by men divinely inspired, and is a perfect treasure of heavenly instruction<sup style="font-weight:bold;">1</sup>; that it has God for its author, salvation for its end<sup style="font-weight:bold;">2</sup>, and truth without any mixture of error for its matter<sup style="font-weight:bold;">3</sup>; that it reveals the principles by which God will judge us<sup style="font-weight:bold;">4</sup>; and therefore is, and shall remain to the end of the world, the true center of Christian union<sup style="font-weight:bold;">5</sup>, and the supreme standard by which all human conduct, creeds, and opinions should be tried<sup style="font-weight:bold;">6</sup>.
+Of the Scriptures We believe that the Holy Bible was written by men divinely inspired, and is a perfect treasure of heavenly instruction;<sup style="font-weight:bold;">1</sup> that it has God for its author, salvation for its end,<sup style="font-weight:bold;">2</sup> and truth without any mixture of error for its matter;<sup style="font-weight:bold;">3</sup> that it reveals the principles by which God will judge us;<sup style="font-weight:bold;">4</sup> and therefore is, and shall remain to the end of the world, the true center of Christian union,<sup style="font-weight:bold;">5</sup> and the supreme standard by which all human conduct, creeds, and opinions should be tried.<sup style="font-weight:bold;">6</sup>
 
 1. 2 Tim. 3:16-17; 2 Pet. 1:21; 1 Sam. 23:2; Acts 1:16; 3:21; John 10:35; Luke 16:29-31; Psa. 119:11; Rom. 3:1-2
 2. 2 Tim. 3:15; 1 Pet. 1:10-12; Acts 11:14; Rom. 1:16; Mark 16:16; John 5:38-39
@@ -46,7 +46,7 @@ Of the Scriptures We believe that the Holy Bible was written by men divinely ins
 
 <a name="the-true-God" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 2.</a><br><span style="font-style:italic;font-weight:bold;">Of the True God</span>
 
-Of the True God We believe that there is one, and only one, living and true God, an infinite, intelligent Spirit, whose name is YAHWEH, the Maker and Supreme Ruler of Heaven and earth<sup style="font-weight:bold;">7</sup>; inexpressibly glorious in holiness<sup style="font-weight:bold;">8</sup>, and worthy of all possible honor, confidence, and love<sup style="font-weight:bold;">9</sup>; that in the unity of the Godhead there are three persons, the Father, the Son, and the Holy Ghost<sup style="font-weight:bold;">10</sup>; equal in every divine perfection<sup style="font-weight:bold;">11</sup>, and executing distinct and harmonious offices in the great work of redemption<sup style="font-weight:bold;">12</sup>.
+Of the True God We believe that there is one, and only one, living and true God, an infinite, intelligent Spirit, whose name is YAHWEH, the Maker and Supreme Ruler of Heaven and earth;<sup style="font-weight:bold;">7</sup> inexpressibly glorious in holiness,<sup style="font-weight:bold;">8</sup> and worthy of all possible honor, confidence, and love;<sup style="font-weight:bold;">9</sup> that in the unity of the Godhead there are three persons, the Father, the Son, and the Holy Ghost;<sup style="font-weight:bold;">10</sup> equal in every divine perfection,<sup style="font-weight:bold;">11</sup> and executing distinct and harmonious offices in the great work of redemption.<sup style="font-weight:bold;">12</sup>
 
 <ol start="7">
     <li id="7">John 4:24; Psa. 147:5; 83:18; Heb. 3:4; Rom. 1:20; Jer. 10:10</li>
@@ -59,7 +59,7 @@ Of the True God We believe that there is one, and only one, living and true God,
 
 <a name="the-fall-of-man" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 3.</a><br><span style="font-style:italic;font-weight:bold;">Of the Fall of Man</span>
 
-Of the Fall of Man We believe that man was created in holiness, under the law of his Maker<sup style="font-weight:bold;">13</sup>; but by voluntary transgression fell from that holy and happy state<sup style="font-weight:bold;">14</sup>; in consequence of which all mankind are now sinners<sup style="font-weight:bold;">15</sup>, not by constraint, but choice<sup style="font-weight:bold;">16</sup>; being by nature utterly void of that holiness required by the law of God, positively inclined to evil; and therefore under just condemnation to eternal ruin<sup style="font-weight:bold;">17</sup>, without defense or excuse<sup style="font-weight:bold;">18</sup>.
+Of the Fall of Man We believe that man was created in holiness, under the law of his Maker;<sup style="font-weight:bold;">13</sup> but by voluntary transgression fell from that holy and happy state;<sup style="font-weight:bold;">14</sup> in consequence of which all mankind are now sinners,<sup style="font-weight:bold;">15</sup> not by constraint, but choice;<sup style="font-weight:bold;">16</sup> being by nature utterly void of that holiness required by the law of God, positively inclined to evil; and therefore under just condemnation to eternal ruin,<sup style="font-weight:bold;">17</sup> without defense or excuse.<sup style="font-weight:bold;">18</sup>
 
 <ol start="13">
     <li id="13">Gen. 1:27, 31; Eccl. 7:29; Acts 17:26-29; Gen. 2:16</li>
@@ -72,7 +72,7 @@ Of the Fall of Man We believe that man was created in holiness, under the law of
 
 <a name="the-way-of-salvation" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 4.</a><br><span style="font-style:italic;font-weight:bold;">Of the Way of Salvation</span>
 
-Of the Way of Salvation We believe that the salvation of sinners is wholly of grace<sup style="font-weight:bold;">19</sup>, through the mediatorial offices of the Son of God<sup style="font-weight:bold;">20</sup>; who by the appointment of the Father, freely took upon him our nature, yet without sin<sup style="font-weight:bold;">21</sup>; honored the divine law by his personal obedience<sup style="font-weight:bold;">22</sup>, and by his death made a full atonement for our sins<sup style="font-weight:bold;">23</sup>; that having risen from the death, he is now enthroned in heaven<sup style="font-weight:bold;">24</sup>; and uniting in his wonderful person the tenderest sympathies with divine perfections, he is every way qualified to be a suitable, a compassionate, and an all- sufficient Saviour<sup style="font-weight:bold;">25</sup>.
+Of the Way of Salvation We believe that the salvation of sinners is wholly of grace,<sup style="font-weight:bold;">19</sup> through the mediatorial offices of the Son of God;<sup style="font-weight:bold;">20</sup> who by the appointment of the Father, freely took upon him our nature, yet without sin;<sup style="font-weight:bold;">21</sup> honored the divine law by his personal obedience,<sup style="font-weight:bold;">22</sup> and by his death made a full atonement for our sins;<sup style="font-weight:bold;">23</sup> that having risen from the death, he is now enthroned in heaven;<sup style="font-weight:bold;">24</sup> and uniting in his wonderful person the tenderest sympathies with divine perfections, he is every way qualified to be a suitable, a compassionate, and an all- sufficient Saviour.<sup style="font-weight:bold;">25</sup>
 
 <ol start="19">
     <li id="19">Eph. 2:5; Matt. 18:11; 1 John 4:10; 1 Cor. 3:5-7; Acts 15:11</li>
@@ -86,7 +86,7 @@ Of the Way of Salvation We believe that the salvation of sinners is wholly of gr
 
 <a name="justification" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 5.</a><br><span style="font-style:italic;font-weight:bold;">Of Justification</span>
 
-Of Justification We believe that the great gospel blessing which Christ<sup style="font-weight:bold;">26</sup> secures to such as believe in him is Justification<sup style="font-weight:bold;">27</sup>; that Justification includes the pardon of sin<sup style="font-weight:bold;">28</sup>, and the promise of eternal life on principles of righteousness<sup style="font-weight:bold;">29</sup>; that it is bestowed, not in consideration of any works of righteousness which we have done, but solely through faith in the Redeemer's blood<sup style="font-weight:bold;">30</sup>; by virtue of which faith his perfect righteousness is freely imputed to us of God<sup style="font-weight:bold;">31</sup>; that it brings us into a state of most blessed peace and favor with God, and secures every other blessing needful for time and eternity<sup style="font-weight:bold;">32</sup>.
+Of Justification We believe that the great gospel blessing which Christ <sup style="font-weight:bold;">26</sup>secures to such as believe in him is Justification;<sup style="font-weight:bold;">27</sup> that Justification includes the pardon of sin,<sup style="font-weight:bold;">28</sup> and the promise of eternal life on principles of righteousness;<sup style="font-weight:bold;">29</sup> that it is bestowed, not in consideration of any works of righteousness which we have done, but solely through faith in the Redeemer's blood;<sup style="font-weight:bold;">30</sup> by virtue of which faith his perfect righteousness is freely imputed to us of God;<sup style="font-weight:bold;">31</sup> that it brings us into a state of most blessed peace and favor with God, and secures every other blessing needful for time and eternity.<sup style="font-weight:bold;">32</sup>
 
 <ol start="26">
     <li id="26">John 1:16; Eph. 3:8</li>
@@ -100,7 +100,7 @@ Of Justification We believe that the great gospel blessing which Christ<sup styl
 
 <a name="the-freeness-of-salvation" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 6.</a><br><span style="font-style:italic;font-weight:bold;">Of the Freeness of Salvation</span>
 
-Of the Freeness of Salvation We believe that the blessings of salvation are made free to all by the gospel<sup style="font-weight:bold;">33</sup>; that it is the immediate duty of all to accept them by a cordial, penitent, and obedient faith<sup style="font-weight:bold;">34</sup>; and that nothing prevents the salvation of the greatest sinner on earth but his own inherent depravity and voluntary rejection of the gospel<sup style="font-weight:bold;">35</sup>; which rejection involves him in an aggravated condemnation<sup style="font-weight:bold;">36</sup>.
+Of the Freeness of Salvation We believe that the blessings of salvation are made free to all by the gospel;<sup style="font-weight:bold;">33</sup> that it is the immediate duty of all to accept them by a cordial, penitent, and obedient faith;<sup style="font-weight:bold;">34</sup> and that nothing prevents the salvation of the greatest sinner on earth but his own inherent depravity and voluntary rejection of the gospel;<sup style="font-weight:bold;">35</sup> which rejection involves him in an aggravated condemnation.<sup style="font-weight:bold;">36</sup>
 
 <ol start="33">
     <li id="33">Isa. 55:1; Rev. 22:17; Luke 14:17</li>
@@ -111,7 +111,7 @@ Of the Freeness of Salvation We believe that the blessings of salvation are made
 
 <a name="grace-in-regeneration" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 7.</a><br><span style="font-style:italic;font-weight:bold;">Of Grace in Regeneration</span>
 
-Of Grace in Regeneration We believe that, in order to be saved, sinners must be regenerated, or born again<sup style="font-weight:bold;">37</sup>; that regeneration consists in giving a holy disposition to the mind<sup style="font-weight:bold;">38</sup>; that it is effected in a manner above our comprehension by the power of the Holy Spirit, in connection with divine truth<sup style="font-weight:bold;">39</sup>, so as to secure our voluntary obedience to the gospel<sup style="font-weight:bold;">40</sup>; and that its proper evidence appears in the holy fruits of repentance, and faith, and newness of life<sup style="font-weight:bold;">41</sup>.
+Of Grace in Regeneration We believe that, in order to be saved, sinners must be regenerated, or born again;<sup style="font-weight:bold;">37</sup> that regeneration consists in giving a holy disposition to the mind;<sup style="font-weight:bold;">38</sup> that it is effected in a manner above our comprehension by the power of the Holy Spirit, in connection with divine truth,<sup style="font-weight:bold;">39</sup> so as to secure our voluntary obedience to the gospel;<sup style="font-weight:bold;">40</sup> and that its proper evidence appears in the holy fruits of repentance, and faith, and newness of life.<sup style="font-weight:bold;">41</sup>
 
 <ol start="37">
     <li id="37">John 3:3, 6-7; 1 Cor. 1:14; Rev. 8:7-9; 21:27</li>
@@ -123,7 +123,7 @@ Of Grace in Regeneration We believe that, in order to be saved, sinners must be 
 
 <a name="repentance-and-faith" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 8.</a><br><span style="font-style:italic;font-weight:bold;">Of Repentance and Faith</span>
 
-Of Repentance and Faith We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God<sup style="font-weight:bold;">42</sup>; whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ<sup style="font-weight:bold;">43</sup>, we turn to God with unfeigned contrition, confession, and supplication for mercy<sup style="font-weight:bold;">44</sup>; at the same time heartily receiving the Lord Jesus Christ as our Prophet, Priest, and King, and relying on him alone as the only and all-sufficient Saviour<sup style="font-weight:bold;">45</sup>.
+Of Repentance and Faith We believe that Repentance and Faith are sacred duties, and also inseparable graces, wrought in our souls by the regenerating Spirit of God;<sup style="font-weight:bold;">42</sup> whereby being deeply convinced of our guilt, danger, and helplessness, and of the way of salvation by Christ,<sup style="font-weight:bold;">43</sup> we turn to God with unfeigned contrition, confession, and supplication for mercy;<sup style="font-weight:bold;">44</sup> at the same time heartily receiving the Lord Jesus Christ as our Prophet, Priest, and King, and relying on him alone as the only and all-sufficient Saviour.<sup style="font-weight:bold;">45</sup>
 
 <ol start="42">
     <li id="42">Mark 1:15; Acts 11:18; Eph. 2:8; 1 John 5:1</li>
@@ -134,7 +134,7 @@ Of Repentance and Faith We believe that Repentance and Faith are sacred duties, 
 
 <a name="purpose-of-grace" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 9.</a><br><span style="font-style:italic;font-weight:bold;">Of God’s Purpose of Grace</span>
 
-Of God's Purpose of Grace We believe that Election is the eternal purpose of God, according to which he graciously regenerates, sanctifies, and saves sinners<sup style="font-weight:bold;">46</sup>; that being perfectly consistent with the free agency of man, it comprehends all the means in connection with the end<sup style="font-weight:bold;">47</sup>; that it is a most glorious display of God's sovereign goodness, being infinitely free, wise, holy, and unchangeable<sup style="font-weight:bold;">48</sup>; that it utterly excludes boasting, and promotes humility, love, prayer, praise, trust in God, and active imitation of his free mercy<sup style="font-weight:bold;">49</sup>; that it encourages the use of means in the highest degree<sup style="font-weight:bold;">50</sup>; that it may be ascertained by its effects in all who truly believe the gospel<sup style="font-weight:bold;">51</sup>; that it is the foundation of Christian assurance<sup style="font-weight:bold;">52</sup>; and that to ascertain it with regard to ourselves demands and deserves the utmost diligence<sup style="font-weight:bold;">53</sup>.
+Of God's Purpose of Grace We believe that Election is the eternal purpose of God, according to which he graciously regenerates, sanctifies, and saves sinners;<sup style="font-weight:bold;">46</sup> that being perfectly consistent with the free agency of man, it comprehends all the means in connection with the end;<sup style="font-weight:bold;">47</sup> that it is a most glorious display of God's sovereign goodness, being infinitely free, wise, holy, and unchangeable;<sup style="font-weight:bold;">48</sup> that it utterly excludes boasting, and promotes humility, love, prayer, praise, trust in God, and active imitation of his free mercy;<sup style="font-weight:bold;">49</sup> that it encourages the use of means in the highest degree;<sup style="font-weight:bold;">50</sup> that it may be ascertained by its effects in all who truly believe the gospel;<sup style="font-weight:bold;">51</sup> that it is the foundation of Christian assurance;<sup style="font-weight:bold;">52</sup> and that to ascertain it with regard to ourselves demands and deserves the utmost diligence.<sup style="font-weight:bold;">53</sup>
 
 <ol start="46">
     <li id="46">2 Tim. 1:8-9; Eph. 1:3-14; 1 Pet. 1:1-2; Rom. 11:5-6; John 15:15; 1 John 4:19; Hos. 12:9</li>
@@ -149,7 +149,7 @@ Of God's Purpose of Grace We believe that Election is the eternal purpose of God
 
 <a name="sanctification" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 10.</a><br><span style="font-style:italic;font-weight:bold;">Of Sanctification</span>
 
-Of Sanctification We believe that Sanctification is the process by which, according to the will of God, we are made partakers of his holiness<sup style="font-weight:bold;">54</sup>; that it is a progressive work<sup style="font-weight:bold;">55</sup>; that it is begun in regeneration<sup style="font-weight:bold;">56</sup>; and that it is carried on in the hearts of believers by the presence and power of the Holy Spirit, the Sealer and Comforter, in the continual use of the appointed means--especially the Word of God, self-examination, self-denial, watchfulness, and prayer<sup style="font-weight:bold;">57</sup>.
+Of Sanctification We believe that Sanctification is the process by which, according to the will of God, we are made partakers of his holiness;<sup style="font-weight:bold;">54</sup> that it is a progressive work;<sup style="font-weight:bold;">55</sup> that it is begun in regeneration;<sup style="font-weight:bold;">56</sup> and that it is carried on in the hearts of believers by the presence and power of the Holy Spirit, the Sealer and Comforter, in the continual use of the appointed means--especially the Word of God, self-examination, self-denial, watchfulness, and prayer.<sup style="font-weight:bold;">57</sup>
 
 <ol start="54">
     <li id="54">1 Thess. 4:3; 5:23; 2 Cor. 7:1; 13:9; Eph. 1:4</li>
@@ -160,7 +160,7 @@ Of Sanctification We believe that Sanctification is the process by which, accord
 
 <a name="the-perseverance-of-saints" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 11.</a><br><span style="font-style:italic;font-weight:bold;">Of the Perseverance of Saints</span>
 
-Of the Perseverance of Saints We believe that such only are real believers as endure unto the end<sup style="font-weight:bold;">58</sup>; that their persevering attachment to Christ is the grand mark which distinguishes them from superficial professors<sup style="font-weight:bold;">59</sup>; that a special Providence watches over their welfare<sup style="font-weight:bold;">60</sup>; and they are kept by the power of God through faith unto salvation<sup style="font-weight:bold;">61</sup>.
+Of the Perseverance of Saints We believe that such only are real believers as endure unto the end;<sup style="font-weight:bold;">58</sup> that their persevering attachment to Christ is the grand mark which distinguishes them from superficial professors;<sup style="font-weight:bold;">59</sup> that a special Providence watches over their welfare;<sup style="font-weight:bold;">60</sup> and they are kept by the power of God through faith unto salvation.<sup style="font-weight:bold;">61</sup>
 
 <ol start="58">
     <li id="58">John 8:31; 1 John 2:27-28; 3:9; 5:18</li>
@@ -171,7 +171,7 @@ Of the Perseverance of Saints We believe that such only are real believers as en
 
 <a name="harmony-of-the-law-and-gospel" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 12.</a><br><span style="font-style:italic;font-weight:bold;">Of the Harmony of the Law and the Gospel</span>
 
-Of the Harmony of the Law and the Gospel We believe that the Law of God is the eternal and unchangeable rule of his moral government<sup style="font-weight:bold;">62</sup>; that it is holy, just, and good<sup style="font-weight:bold;">63</sup>; and that the inability which the Scriptures ascribe to fallen men to fulfill its precepts arises entirely from their love of sin<sup style="font-weight:bold;">64</sup>; to deliver them from which, and to restore them through a Mediator to unfeigned obedience to the holy Law, is one great end of the Gospel, and of the means of grace connected with the establishment of the visible Church<sup style="font-weight:bold;">65</sup>.
+Of the Harmony of the Law and the Gospel We believe that the Law of God is the eternal and unchangeable rule of his moral government;<sup style="font-weight:bold;">62</sup> that it is holy, just, and good;<sup style="font-weight:bold;">63</sup> and that the inability which the Scriptures ascribe to fallen men to fulfill its precepts arises entirely from their love of sin;<sup style="font-weight:bold;">64</sup> to deliver them from which, and to restore them through a Mediator to unfeigned obedience to the holy Law, is one great end of the Gospel, and of the means of grace connected with the establishment of the visible Church.<sup style="font-weight:bold;">65</sup>
 
 <ol start="62">
     <li id="62">Rom. 3:31; Matt. 5:17; Luke 16:17; Rom. 3:20; 4:15</li>
@@ -182,7 +182,7 @@ Of the Harmony of the Law and the Gospel We believe that the Law of God is the e
 
 <a name="a-gospel-church" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 13.</a><br><span style="font-style:italic;font-weight:bold;">Of a Gospel Church</span>
 
-Of a Gospel Church We believe that a visible Church of Christ is a congregation of baptized believers<sup style="font-weight:bold;">66</sup>, associated by covenant in the faith and fellowship of the gospel<sup style="font-weight:bold;">67</sup>; observing the ordinances of Christ<sup style="font-weight:bold;">68</sup>; governed by his laws<sup style="font-weight:bold;">69</sup>, and exercising the gifts, rights, and privileges invested in them by his Word<sup style="font-weight:bold;">70</sup>; that its only scriptural officers are Bishops, or Pastors, and Deacons<sup style="font-weight:bold;">71</sup>, whose qualifications, claims, and duties are defined in the Epistles to Timothy and Titus.
+Of a Gospel Church We believe that a visible Church of Christ is a congregation of baptized believers,<sup style="font-weight:bold;">66</sup> associated by covenant in the faith and fellowship of the gospel;<sup style="font-weight:bold;">67</sup> observing the ordinances of Christ;<sup style="font-weight:bold;">68</sup> governed by his laws,<sup style="font-weight:bold;">69</sup> and exercising the gifts, rights, and privileges invested in them by his Word;<sup style="font-weight:bold;">70</sup> that its only scriptural officers are Bishops, or Pastors, and Deacons,<sup style="font-weight:bold;">71</sup> whose qualifications, claims, and duties are defined in the Epistles to Timothy and Titus.
 
 <ol start="66">
     <li id="66">1 Cor. 1:1-13; Matt. 18:17; Acts 5:11; 8:1; 11:31; 1 Cor. 4:17; 14:23; 3 John 9; 1 Tim. 3:5</li>
@@ -195,7 +195,7 @@ Of a Gospel Church We believe that a visible Church of Christ is a congregation 
 
 <a name="baptism-and-Lords-supper" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 14.</a><br><span style="font-style:italic;font-weight:bold;">Of Baptism and the Lord’s Supper</span>
 
-Of Baptism and the Lord's Supper We believe that Christian Baptism is the immersion in water of a believer<sup style="font-weight:bold;">72</sup>, into the name of the Father, and Son, and Holy Ghost<sup style="font-weight:bold;">73</sup>; to show forth, in a solemn and beautiful emblem, our faith in the crucified, buried, and risen Saviour, with its effect in our death to sin and resurrection to a new life<sup style="font-weight:bold;">74</sup>; that it is prerequisite to the privileges of a Church relation; and to the Lord's Supper<sup style="font-weight:bold;">75</sup>, in which the members of the Church, by the sacred use of bread and wine, are to commemorate together the dying love of Christ<sup style="font-weight:bold;">76</sup>; preceded always by solemn self- examination<sup style="font-weight:bold;">77</sup>.
+Of Baptism and the Lord's Supper We believe that Christian Baptism is the immersion in water of a believer,<sup style="font-weight:bold;">72</sup> into the name of the Father, and Son, and Holy Ghost;<sup style="font-weight:bold;">73</sup> to show forth, in a solemn and beautiful emblem, our faith in the crucified, buried, and risen Saviour, with its effect in our death to sin and resurrection to a new life;<sup style="font-weight:bold;">74</sup> that it is prerequisite to the privileges of a Church relation; and to the Lord's Supper,<sup style="font-weight:bold;">75</sup> in which the members of the Church, by the sacred use of bread and wine, are to commemorate together the dying love of Christ;<sup style="font-weight:bold;">76</sup> preceded always by solemn self- examination.<sup style="font-weight:bold;">77</sup>
 
 <ol start="72">
     <li id="72">Acts 8:36-39; Matt. 3:5-6; John 3:22-23; 4:1-2; Matt. 28:19; Mark 16:16; Acts 2:38; 8:12; 16:32-34; 18:8</li>
@@ -208,7 +208,7 @@ Of Baptism and the Lord's Supper We believe that Christian Baptism is the immers
 
 <a name="the-Christian-sabbath" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 15.</a><br><span style="font-style:italic;font-weight:bold;">Of the Christian Sabbath</span>
 
-Of the Christian Sabbath We believe that the first day of the week is the Lord's Day, or Christian Sabbath<sup style="font-weight:bold;">78</sup>; and is to be kept sacred to religious purposes<sup style="font-weight:bold;">79</sup>, by abstaining from all secular labor and sinful recreations<sup style="font-weight:bold;">80</sup>; by the devout observance of all the means of grace, both private<sup style="font-weight:bold;">81</sup> and public<sup style="font-weight:bold;">82</sup>; and by preparation for that rest that remaineth for the people of God<sup style="font-weight:bold;">83</sup>.
+Of the Christian Sabbath We believe that the first day of the week is the Lord's Day, or Christian Sabbath;<sup style="font-weight:bold;">78</sup> and is to be kept sacred to religious purposes,<sup style="font-weight:bold;">79</sup> by abstaining from all secular labor and sinful recreations;<sup style="font-weight:bold;">80</sup> by the devout observance of all the means of grace, both private <sup style="font-weight:bold;">81</sup>and public;<sup style="font-weight:bold;">82</sup> and by preparation for that rest that remaineth for the people of God.<sup style="font-weight:bold;">83</sup>
 
 <ol start="78">
     <li id="78">Acts 20:7; Gen. 2:3; Col. 2:16-17; Mark 2:27; John 20:19; 1 Cor. 16:1- 2</li>
@@ -221,7 +221,7 @@ Of the Christian Sabbath We believe that the first day of the week is the Lord's
 
 <a name="civil-government" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 16.</a><br><span style="font-style:italic;font-weight:bold;">Of Civil Government</span>
 
-Of Civil Government We believe that civil government is of divine appointment, for the interests and good order of human society<sup style="font-weight:bold;">84</sup>; and that magistrates are to be prayed for, conscientiously honored and obeyed<sup style="font-weight:bold;">85</sup>; except only in things opposed to the will of our Lord Jesus Christ<sup style="font-weight:bold;">86</sup> who is the only Lord of the conscience, and the Prince of the kings of the earth<sup style="font-weight:bold;">87</sup>.
+Of Civil Government We believe that civil government is of divine appointment, for the interests and good order of human society;<sup style="font-weight:bold;">84</sup> and that magistrates are to be prayed for, conscientiously honored and obeyed;<sup style="font-weight:bold;">85</sup> except only in things opposed to the will of our Lord Jesus Christ <sup style="font-weight:bold;">86</sup>who is the only Lord of the conscience, and the Prince of the kings of the earth.<sup style="font-weight:bold;">87</sup>
 
 <ol start="84">
     <li id="84">Rom. 13:1-7; Deut. 16:18; 1 Sam. 23:3; Exod. 18:23; Jer. 30:21</li>
@@ -232,7 +232,7 @@ Of Civil Government We believe that civil government is of divine appointment, f
 
 <a name="the-righteous-and-wicked" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 17.</a><br><span style="font-style:italic;font-weight:bold;">Of the Righteous and the Wicked</span>
 
-Of the Righteous and the Wicked We believe that there is a radical and essential difference between the righteous and the wicked<sup style="font-weight:bold;">88</sup>; that such only as through faith are justified in the name of the Lord Jesus, and sanctified by the Spirit of our God, are truly righteous in his esteem<sup style="font-weight:bold;">89</sup>; while all such as continue in impenitence and unbelief are in his sight wicked, and under the curse<sup style="font-weight:bold;">90</sup>; and this distinction holds among men both in and after death<sup style="font-weight:bold;">91</sup>. 
+Of the Righteous and the Wicked We believe that there is a radical and essential difference between the righteous and the wicked;<sup style="font-weight:bold;">88</sup> that such only as through faith are justified in the name of the Lord Jesus, and sanctified by the Spirit of our God, are truly righteous in his esteem;<sup style="font-weight:bold;">89</sup> while all such as continue in impenitence and unbelief are in his sight wicked, and under the curse;<sup style="font-weight:bold;">90</sup> and this distinction holds among men both in and after death.<sup style="font-weight:bold;">91</sup> 
 
 <ol start="88">
     <li id="88">Mal. 3:18; Prov. 12:26; Isa. 5:20; Gen. 18:23; Jer. 15:19; Acts 10:34- 35; Rom. 6:16</li>
@@ -243,7 +243,7 @@ Of the Righteous and the Wicked We believe that there is a radical and essential
 
 <a name="the-world-to-come" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 18.</a><br><span style="font-style:italic;font-weight:bold;">Of the World to Come</span>
 
-Of the World to Come We believe that the end of the world is approaching<sup style="font-weight:bold;">92</sup>; that at the last day Christ will descend from heaven<sup style="font-weight:bold;">93</sup>, and raise the dead from the grave to final retribution<sup style="font-weight:bold;">94</sup>; that a solemn separation will then take place<sup style="font-weight:bold;">95</sup>; that the wicked will be adjudged to endless punishment, and the righteous to endless joy<sup style="font-weight:bold;">96</sup>; and that this judgment will fix forever the final state of men in heaven or hell, on principles of righteousness<sup style="font-weight:bold;">97</sup>.
+Of the World to Come We believe that the end of the world is approaching;<sup style="font-weight:bold;">92</sup> that at the last day Christ will descend from heaven,<sup style="font-weight:bold;">93</sup> and raise the dead from the grave to final retribution;<sup style="font-weight:bold;">94</sup> that a solemn separation will then take place;<sup style="font-weight:bold;">95</sup> that the wicked will be adjudged to endless punishment, and the righteous to endless joy;<sup style="font-weight:bold;">96</sup> and that this judgment will fix forever the final state of men in heaven or hell, on principles of righteousness.<sup style="font-weight:bold;">97</sup>
 
 <ol start="92">
     <li id="92">1 Pet. 4:7; 1 Cor. 7:29-31; Heb. 1:10-12; Matt. 24:35; 1 John 2:17; Matt. 28:20; 13:39-40; 2 Pet. 3:3-13</li>
