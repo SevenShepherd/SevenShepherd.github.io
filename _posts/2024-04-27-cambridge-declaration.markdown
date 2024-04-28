@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Cambridge Declaration (1996)"
-date: 2024-04-27 1:05:00 -0500
+date: 2024-04-27 1:10:00 -0500
 categories: theology
 published: true
 ---
@@ -87,7 +87,5 @@ We also earnestly call back erring professing evangelicals who have deviated fro
 The Alliance of Confessing Evangelicals asks all Christians to give consideration to implementing this Declaration in the church's worship, ministry, policies, life and evangelism.
 
 For Christ's sake. Amen.
-
-This declaration may be reproduced without permission. Please credit the source by citing the Alliance of Confessing Evangelicals.
 
 Provided by the [Alliance of Confessing Evangelicals](https://www.alliancenet.org/cambridge-declaration).
