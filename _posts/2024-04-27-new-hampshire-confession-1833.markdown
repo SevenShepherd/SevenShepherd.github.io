@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ New Hampshire Confession (1833)"
-date: 2024-04-27 2:10:00 -0500
+date: 2024-04-27 2:15:00 -0500
 categories: theology
 published: true
 ---
@@ -46,7 +46,7 @@ Of the Scriptures We believe that the Holy Bible was written by men divinely ins
 
 <a name="the-true-God" href="#contents" style="font-weight:bold;font-size:1.6em;color:Black;">Article 2.</a><br><span style="font-style:italic;font-weight:bold;">Of the True God</span>
 
-Of the True God We believe that there is one, and only one, living and true God, an infinite, intelligent Spirit, whose name is YAHWEH, the Maker and Supreme Ruler of Heaven and earth;<sup style="font-weight:bold;">7</sup> inexpressibly glorious in holiness,<sup style="font-weight:bold;">8</sup> and worthy of all possible honor, confidence, and love;<sup style="font-weight:bold;">9</sup> that in the unity of the Godhead there are three persons, the Father, the Son, and the Holy Ghost;<sup style="font-weight:bold;">10</sup> equal in every divine perfection,<sup style="font-weight:bold;">11</sup> and executing distinct and harmonious offices in the great work of redemption.<sup style="font-weight:bold;">12</sup>
+Of the True God We believe that there is one, and only one, living and true God, an infinite, intelligent Spirit, whose name is <a name="YAHWEH" href="Yahweh-info">YAHWEH<sup>†</sup></a>, the Maker and Supreme Ruler of Heaven and earth;<sup style="font-weight:bold;">7</sup> inexpressibly glorious in holiness,<sup style="font-weight:bold;">8</sup> and worthy of all possible honor, confidence, and love;<sup style="font-weight:bold;">9</sup> that in the unity of the Godhead there are three persons, the Father, the Son, and the Holy Ghost;<sup style="font-weight:bold;">10</sup> equal in every divine perfection,<sup style="font-weight:bold;">11</sup> and executing distinct and harmonious offices in the great work of redemption.<sup style="font-weight:bold;">12</sup>
 
 <ol start="7">
     <li id="7">John 4:24; Psa. 147:5; 83:18; Heb. 3:4; Rom. 1:20; Jer. 10:10</li>
@@ -254,9 +254,15 @@ Of the World to Come We believe that the end of the world is approaching;<sup st
     <li id="97">Rom. 3:5-6; 2 Thess. 1:6-12; Heb. 6:1-2; 1 Cor. 4:5; Acts 17:31; Rom. 2:2-16; Rev. 20:11-12; 1 John 2:28; 4:17</li>
 </ol>
 
+<br>
+
 ---
 
-<sup>*<a href="#the-true-God">Article 2. Of the True God</a>, was amended with [YAHWEH instead of JEHOVAH](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/).</sup>
+<br>
+
+
+
+<sup style="font-weight:bold;"><a name="Yahweh-info" href="#YAHWEH" style="font-weight:bold;font-size:1.6em;">†</a></sup><a href="#the-true-God">Article 2. Of the True God</a>, was amended with [YAHWEH instead of JEHOVAH](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/).
 
 <script>
     var refTagger = {
