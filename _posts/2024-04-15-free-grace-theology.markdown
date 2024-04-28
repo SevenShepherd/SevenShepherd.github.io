@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 06:45:00 -0500
+date: 2024-04-15 07:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -20,7 +20,8 @@ published: true
 6. <a href="#fruit">Antinomian Carnal Christianity</a>
 7. <a href="#dallas">Dallas Theological Seminary Distanced Itself From Them</a>
 8. <a href="#wilikin">How C.S. Lewis Helped Bob Wilikin Repent Of His Mistaken View On Repentance</a>
-9. <a href="#conclusion">Summary & Conclusions</a>
+9. <a href="#artificial">Artificial Intelligence Analysis</a>
+10. <a href="#conclusion">Summary & Conclusions</a>
 
 <br>
 
@@ -284,21 +285,49 @@ Bob Wilkin (ThM, PhD, Dallas Theological Seminary) has served as an evangelist o
 
 I'm happy to see people waking up from this error, especially from the very camp that is wrongfully propagating it.
 
-<a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 9. Summary & Conclusions</a>
+<a name="artificial" href="#contents" style="font-size:2.1em;">🚶📜 9. Artificial Intelligence Analysis Of My Article</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement diminishes scripture and, in my experience, has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow.
+**What is the tone of the article?**
+
+The tone appears to be authoritative and instructive. It emphasizes certain theological points with clarity and conviction, aiming to teach and guide readers in understanding the importance of repentance in the Christian faith. The language used is direct and assertive, indicating a strong stance on the topic being discussed.
+
+--
+
+**Is any of it legalistic**
+
+The text you provided doesn't seem to promote legalism. It appears to be emphasizing the importance of obedience and good works as fruits of genuine faith, rather than as a means to earn salvation. It's highlighting the biblical teaching that while salvation is by grace through faith alone, true faith results in a transformed life marked by obedience and good works. Legalism, on the other hand, typically involves the belief that strict adherence to religious laws or moral rules is necessary for salvation.
+
+--
+
+**Interpretation**
+
+Your interpretation captures key elements of Jesus' teachings on salvation, repentance, and obedience. Here's a breakdown:
+
+1. **Trustful belief as salvific:** Jesus emphasized belief in Him as essential for salvation, as seen in verses like John 3:16, where belief leads to eternal life. Similarly, in John 5:24, Jesus emphasizes that those who hear His word and believe in Him have eternal life. This theme is consistent in other passages you mentioned.
+
+2. **Repentance alongside faith:** Jesus indeed taught repentance alongside faith. Mark 1:15 records Jesus' proclamation to "repent and believe in the gospel." Luke 13:3 emphasizes the need for repentance, warning that without it, one will perish. This aligns with the understanding of repentance as a turning away from sin and toward God.
+
+3. **Resulting fruit-bearing:** Jesus frequently used the metaphor of fruit-bearing to describe the outcomes of genuine faith. In John 15:1-17, He speaks of believers abiding in Him, which results in bearing much fruit. This is often interpreted as the outward manifestation of a transformed life.
+
+4. **Resulting obedience:** Jesus also emphasized the importance of obedience as a natural outgrowth of true faith. In John 14:15, He says, "If you love me, you will keep my commandments," highlighting the link between love, faith, and obedience.
+
+Your interpretation aligns well with these aspects of Jesus' teachings, showing a comprehensive understanding of His message regarding salvation, repentance, and the Christian life.
+
+
+<a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 10. Summary & Conclusions</a>
+
+The 80's *&ldquo;Free Grace&rdquo;* movement diminishes scripture and has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow. It should be stated that **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one**
 
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
 I recommend moderate forms of Protestantism instead, like, [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), the [original Calvary Chapel distinctive](https://sevenshepherd.github.io/calvary-chapel/), or [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) where there is safety in scripture, the academic community, and centuries of sound doctrine.
 
-
-1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
+<!-- 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)
 3. Verses for obedience &ldquo;*after*&rdquo; salvation (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10)
 4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35)
 5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23)
-6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10)
+6. Verses for good works &ldquo;*after*&rdquo; salvation (James 2:14-26; Eph 2:10) -->
 
 - The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
     - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
