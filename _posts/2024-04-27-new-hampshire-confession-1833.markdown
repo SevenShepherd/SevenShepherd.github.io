@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ New Hampshire Confession (1833)"
-date: 2024-04-27 2:25:00 -0500
+date: 2024-04-27 2:30:00 -0500
 categories: theology
 published: true
 ---
@@ -262,7 +262,7 @@ Of the World to Come We believe that the end of the world is approaching;<sup st
 
 
 
-<sup style="font-weight:bold;"><a name="Yahweh-info" href="#YAHWEH" style="font-weight:bold;font-size:1.6em;">†</a></sup><a href="#the-true-God">Article 2. Of the True God</a>, was amended with [YAHWEH instead of JEHOVAH](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/).
+<sup style="font-weight:bold;"><a name="Yahweh-info" href="#YAHWEH" style="font-weight:bold;">†</a></sup><a href="#the-true-God">Article 2. Of the True God</a>, was amended with [YAHWEH instead of JEHOVAH](https://alwaysbeready.com/gods-name-jehovah-by-charlie-campbell/).
 
 <script>
     var refTagger = {
