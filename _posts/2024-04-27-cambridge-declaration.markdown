@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "⛪ Cambridge Declaration (1996)"
-date: 2024-04-27 1:10:00 -0500
+date: 2024-04-27 1:15:00 -0500
 categories: theology
 published: true
 ---
+
+<style>
+    * {
+        font-family:'Times New Roman', Times, serif;
+    }
+</style>
 
 April 20, 1996
 

@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "⛪ New Hampshire Confession (1833)"
-date: 2024-04-27 2:30:00 -0500
+date: 2024-04-27 2:35:00 -0500
 categories: theology
 published: true
 ---
+
+<style>
+    * {
+        font-family:'Times New Roman', Times, serif;
+    }
+</style>
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
