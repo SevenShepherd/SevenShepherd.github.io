@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 07:00:00 -0500
+date: 2024-04-15 07:05:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -293,7 +293,7 @@ The tone appears to be authoritative and instructive. It emphasizes certain theo
 
 --
 
-**Is any of it legalistic**
+**Is any of it legalistic?**
 
 The text you provided doesn't seem to promote legalism. It appears to be emphasizing the importance of obedience and good works as fruits of genuine faith, rather than as a means to earn salvation. It's highlighting the biblical teaching that while salvation is by grace through faith alone, true faith results in a transformed life marked by obedience and good works. Legalism, on the other hand, typically involves the belief that strict adherence to religious laws or moral rules is necessary for salvation.
 
