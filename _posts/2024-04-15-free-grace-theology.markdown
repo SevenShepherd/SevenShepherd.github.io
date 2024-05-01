@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 07:35:00 -0500
+date: 2024-04-15 07:45:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -191,6 +191,10 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 <a name="fruit" href="#contents" style="font-size:2.1em;">🚶📜 6. Does The 80's version of the Gospel teach against Christ's fruit-bearing metaphor and against the warnings of the Apostles?</a>
 
 ℹ️ Disclaimer: there are some moderates within the 80s group that do teach correctly on fruit-bearing, namely, [Ryrie](https://sevenshepherd.github.io/practicing-sin/#ryrie), see link; however, there is an extremist faction within the sect that is reminiscent of the hyper-grace [antinomians](https://www.gotquestions.org/antinomianism.html). This section addresses these extremists.
+
+<!-- > As Ryrie put it, "**Saving faith is a working faith**, and those works justify believers in the courtroom on earth," and <span style="font-weight:bold;color:orangered;">an "unproductive faith is a spurious faith."</span> &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 107. <sup style="color:#A8A8A8;"><sup>45</sup>Ryrie, So GreatSalvation, 110-11.</sup> -->
+
+> As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
 
 ℹ️ Disclaimer: Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
