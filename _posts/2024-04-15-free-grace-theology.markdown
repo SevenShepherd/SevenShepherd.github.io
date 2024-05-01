@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 07:25:00 -0500
+date: 2024-04-15 07:35:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -171,7 +171,7 @@ If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; G
 
 The 80's *&ldquo;Free Grace&rdquo;* movement leads its supporters to overemphasize one necessary component of genuine faith (mental assent to the Bible's propositions about Christ's atoning work) and to underemphasize another necessary component of genuine faith (namely, heartfelt trust in the living person of Jesus Christ as my Savior and my God). The result is that some followers of the Free Grace movement intellectually agree with the right doctrines, but they have never trusted in Christ as a person, and they are not truly saved.
 
-❌ Misguided teachers teach **against** Christ and the lexicon definition of &ldquo;*believe*,&rdquo; by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19 NLT).
+❌ Misguided teachers teach against the lexicon definition of &ldquo;*believe*,&rdquo; by attempting to teach &ldquo;*assent to facts*&rdquo; as salvific, which the Apostle James was clearly against (James 2:19 NLT).
 
 ✔️ Christ taught &ldquo;*trustful belief*&rdquo; ([pisteuō](https://sevenshepherd.github.io/theology/#salvific)) as salvific: (Jn 3:16; 11:25-26). True teaching emphasizes heartfelt trust in the person of Christ, whereas false teaching overemphasizes agreement with facts. We can verify this by inspecting the worlds most authoritative Greek lexicons and dictionaries.
 
