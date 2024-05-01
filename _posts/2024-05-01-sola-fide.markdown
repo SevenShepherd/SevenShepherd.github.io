@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2024-05-01 02:07:00 -0500
+date: 2024-05-01 02:15:00 -0500
 categories: repent
 published: true
 ---
@@ -15,6 +15,7 @@ published: true
 - I. <a href="#justification">“Justification: salvation is by grace through faith.” by J.I. Packer (Oxford)</a>
 - II. <a href="#legalism">“Legalism: working for God's favour forfeits it” by J.I. Packer (Oxford)</a>
 - III. <a href="#liberty">“Liberty: salvation rings freedom” by J.I. Packer (Oxford)</a>
+- IV. <a href="#antinomianism">“Antinomianism: we are not set free to sin” by J.I. Packer (Oxford)</a>
 
 <!-- 
 <br>
@@ -196,6 +197,75 @@ This is the bondage to the law from which Christ sets us free.
 **3\.** Christians have been set free from the superstition that treats matter and physical pleasure as intrinsically evil. Against this idea, Paul insists that Christians are free to enjoy as God’s good gifts all created things and the pleasures that they yield (1 Tim. 4:1–5), provided only that we do not transgress the moral law in our enjoyments or hinder our own spiritual wellbeing or that of others (1 Cor. 6:12–13; 8:7–13). The Reformers renewed this emphasis against various forms of medieval legalism.
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 64. Liberty: Salvation brings freedom. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+<a name="antinomianism" href="#contents" style="font-size:2.1em;">IV. “Antinomianism: we are not set free to sin” by J.I. Packer (Oxford)</a>
+
+<!-- <a name="packer-on-antinomianism" href="#contents" style="font-size:1.6em;">2.1 Dr. J.I. Packer (PhD, University of Oxford) On Antinomianism</a> -->
+
+> 66\. ANTINOMIANISM<br>
+WE ARE NOT SET FREE TO SIN
+>
+>>Dear children, do not let anyone lead you astray. He who does what is right
+is righteous, just as he [Christ] is righteous.
+1 John 3:7
+>
+Antinomianism, which means being ‘anti-law’, is a name for several views
+that have denied that God’s law in Scripture should directly control the
+Christian’s life.
+>
+**Dualistic antinomianism** appears in the Gnostic heretics against whom
+Jude and Peter wrote (Jude 4–19; 2 Pet. 2). This view sees salvation as for
+the soul only, and bodily behaviour as irrelevant both to God’s interest and
+to the soul’s health, so one may behave riotously and it will not matter.
+>
+**Spirit-centred antinomianism** puts such trust in the Holy Spirit’s inward
+prompting as to deny any need to be taught by the law how to live. Freedom
+from the law as a way of salvation is assumed to bring with it freedom from
+the law as a guide to conduct. In the first hundred and fifty years of the
+Reformation era this kind of antinomianism often threatened, and Paul’s
+insistence that a truly spiritual person acknowledges the authority of God’s
+Word through Christ’s apostles (1 Cor. 14:37; cf. 7:40) suggests that the
+Spirit-obsessed Corinthian church was in the grip of the same mindset.
+>
+**Christ-centred antinomianism** argues that God sees no sin in believers,
+because they are in Christ, who kept the law for them, and therefore what
+they actually do makes no difference, provided that they keep believing.
+But 1 John 1:8 – 2:1 (expounding 1:7) and 3:4–10 point in a different
+direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life.
+>
+**Dispensational antinomianism** holds that keeping the moral law is at no
+stage necessary for Christians, since we live under a dispensation of grace,
+not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however,
+that law-keeping is a continuing obligation for Christians. ‘I am not free
+from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21).
+>
+**Dialectical antinomianism**, as in Barth and Brunner, denies that biblical
+law is God’s direct command and affirms that the Bible’s imperative
+statements trigger the Word of the Spirit, which when it comes may or may
+not correspond exactly to what is written. The inadequacy of the neoorthodox view of biblical authority, which explains the inspiration of
+Scripture in terms of the Bible’s instrumentality as a channel for God’s
+present-day utterances to his people, is evident here.
+>
+**Situationist antinomianism** says that a motive and intention of love is all
+that God now requires of Christians, and the commands of the Decalogue
+and other ethical parts of Scripture, for all that they are ascribed to God
+directly, are mere rules of thumb for loving, rules that love may at any time
+disregard. But Romans 13:8–10, to which this view appeals, teaches that
+without love as a motive these specific commands cannot be fulfilled. Once
+more an unacceptably weak view of Scripture surfaces.
+>
+It must be stressed that the moral law, as crystallized in the Decalogue
+and opened up in the ethical teaching of both Testaments, is one coherent
+law, given to be a code of practice for God’s people in every age. In
+addition, repentance means resolving henceforth to seek God’s help in
+keeping that law. The Spirit is given to empower law-keeping and make us
+more and more like Christ, the archetypal law-keeper (Matt. 5:17). This
+law-keeping is in fact the fulfilling of our human nature, and Scripture
+holds out no hope of salvation for any who, whatever their profession of
+faith, do not seek to turn from sin to righteousness (1 Cor. 6:9–11; Rev.
+21:8).
+>
+&mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
 <!-- Salvation is by grace alone and justification in the sight of God is by faith alone. 
 
