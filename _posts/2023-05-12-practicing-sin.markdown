@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you... No one born of God makes a practice of sinning.” — Apostle John"
-date: 2023-11-05 04:25:00 -0500
+date: 2023-11-05 04:35:00 -0500
 categories: sin practice
 published: true
 ---
@@ -12,7 +12,7 @@ I've complied a list of some of the most sound spiritual leaders for Christ as w
 
 - 🐉 The Serpent says, *&ldquo;Surely you will not die&rdquo;* (Gen. 3:4 NET).
 - 🍇 God says, *&ldquo;Little children, let no one deceive you. ... Whoever makes a practice of sinning is of the devil, ... No one born of God makes a practice of sinning ...&rdquo;* (1 John 3:7-9 ESV)
-- 🧑 Obedience does not merit salvation, salvation produces obedience.
+- 🧑 Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
 
 Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💯 This Is How You Know You're Saved"
-date: 2023-09-12 05:35:00 -0500
+date: 2023-09-12 05:50:00 -0500
 categories: faith salvation saved
 published: true
 ---
@@ -88,7 +88,7 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
 - **Commanded** by God (Ac 17:30; Mt 4:17).
 - **Granted** by God (Ac 11:18; 2Tim. 2:25).
-- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4).
+- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
 - Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
 - **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
 - **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
@@ -197,7 +197,7 @@ It's true that Christians undergo a progressive sanctification of decreasing pat
     - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
     - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
     - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
-    - Obedience does not merit salvation, salvation produces obedience (Ac 17:30; 1Jn 2:4).
+    - Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
     - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
 - Repentance is the immediate fruit of a genuine non-superficial faith.
     - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).

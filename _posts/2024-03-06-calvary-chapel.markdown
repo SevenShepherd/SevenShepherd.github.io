@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 7:55:00 -0500
+date: 2024-03-06 8:00:00 -0500
 categories: salvation
 published: true
 ---
@@ -75,7 +75,7 @@ Justification is by grace through faith alone (Eph 3:8-10; Rom 3:28) ...
 
 See [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/).
 
-Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Obedience does not merit salvation, salvation produces obedience (Ac 17:30; 1Jn 2:4).
+Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
 
 <!-- We are not to view repentance as something meritorious.  -->
 
