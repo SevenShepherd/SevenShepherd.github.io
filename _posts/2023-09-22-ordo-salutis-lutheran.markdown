@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Lutheranism)"
-date: 2023-09-22 1:40:00 -0500
+date: 2023-09-22 1:45:00 -0500
 categories: salvation
 published: true
 ---
@@ -10,7 +10,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Lutheran Theology</a>
 
-More accurately described as Melancthonism instead of Lutheranism, since Lutheranism deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination.
+⚠️ Lutherans believe baptism is a requirement or condition of salvation, which makes them synergistic. Lutherans is more accurately described as Melancthonism, since Lutheranism deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination.
 
 <!-- [deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination](https://youtu.be/--fafICBts8?t=983).  -->
 
