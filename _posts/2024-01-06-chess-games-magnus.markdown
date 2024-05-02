@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "♟️ Shepherd v. Magnus (2882)"
-date: 2024-01-06 11:55:00 -0500
+date: 2024-01-06 12:00:00 -0500
 categories: chess
-published: true
+published: false
 ---
 
 ![Magnus (2882)](/assets/images/chess/magnus2882a.png)

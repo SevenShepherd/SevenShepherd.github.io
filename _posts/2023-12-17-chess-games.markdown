@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "♟️ Shepherd (2700) v. Francis (2300)"
-date: 2023-12-17 06:05:00 -0500
+date: 2023-12-17 06:15:00 -0500
 categories: chess
-published: true
+published: false
 ---
 
 <!-- My 2650 Elo Chess Game Win -->
