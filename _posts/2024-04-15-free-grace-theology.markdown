@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 07:55:00 -0500
+date: 2024-04-15 08:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -46,7 +46,7 @@ While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith i
 
 <!-- ⚠️ The full definition that correctly concludes, &ldquo;*... <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. -->
 
-[Protestant leaders throughout history have consistently defined faith alone as being only about justification and then as resulting in obedience by the transformative power of the Holy Spirit.](https://sevenshepherd.github.io/faith-alone/)(https://sevenshepherd.github.io/historical-christianity/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
+[Protestant leaders throughout history have consistently defined faith alone as being only about justification and then as resulting in obedience by the transformative power of the Holy Spirit.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
 <!-- The second half of &ldquo;*We are justified by faith alone, **but the faith that justifies is never alone***&rdquo; protects us from [**the heresy of antinomianism**](https://www.gotquestions.org/antinomianism.html) (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62). While the first half protects us from legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). -->
 
