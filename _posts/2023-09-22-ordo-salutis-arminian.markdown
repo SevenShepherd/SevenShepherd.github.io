@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Arminianism)"
-date: 2023-09-22 1:35:00 -0500
+date: 2023-09-22 1:45:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>

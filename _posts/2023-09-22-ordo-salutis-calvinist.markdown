@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Calvinism)"
-date: 2023-09-22 2:05:00 -0500
+date: 2023-09-22 2:20:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 <!-- Ordo Salutis

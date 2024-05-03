@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis (Amyraldism)"
-date: 2023-09-22 6:45:00 -0500
+date: 2023-09-22 6:55:00 -0500
 categories: salvation
-published: true
+published: false
 ---
 
 Ordo salutis is a latin phrase for “The Order of Salvation” and was first coined by Lutheran theologians Franz Buddeus and Jacob Carpov in the first half of the eighteenth century. **This article is not an endorsement.**
