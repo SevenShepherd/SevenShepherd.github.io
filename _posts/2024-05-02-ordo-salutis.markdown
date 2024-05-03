@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:05:00 -0500
+date: 2024-05-02 02:10:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -244,7 +244,7 @@ Please read our article [**&ldquo;Does Your Calvary Chapel Pass The Chuck Smith 
 8. **Glorification**
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness. 
 
-<a name="Arminian" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Arminian (5-Point Arminian)</a>
+<a name="Arminian" href="#contents" style="font-style:Italic;font-size:2.1em;">VI. Arminian (5-Point Arminian)</a>
 
 ⚠️ Arminians are thrice synergistic: they view regeneration, sanctification, and perseverance as a synergistic activity. While it is true they are synergistic, they are still Protestant in the way that they hold to justification being by faith alone &ldquo;*resulting*&rdquo; in fruit-bearing, just like any other protestant &lsquo;ism. As long as they place their trust in Christ for salvation and view everything else as &ldquo;*resulting*&rdquo; fruits of the faith, they are saved by grace through faith. This group in particular has created some of the most steadfast and spirit filled Christians I've known in my lifetime. Denominations associated with this theological tradition are Wesleyan and Methodist.
 
@@ -269,7 +269,7 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
         >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
 
-<a name="Romanist" href="#contents" style="font-style:Italic;font-size:2.1em;">VI. Romanist (Roman Catholicism)</a>
+<a name="Romanist" href="#contents" style="font-style:Italic;font-size:2.1em;">VII. Romanist (Roman Catholicism)</a>
 
 ⚠️ The order of salvation in Roman Catholic theology is usually expressed in terms of the grace mediated by the church’s sacraments ([sacerdotalism](https://carm.org/dictionary/sacerdotalism/)). Roman Catholicism is considered legalistic in it's CCC. They also deviated from St. Thomas Aquinas who taught a form of Augustinian predestination.
 
