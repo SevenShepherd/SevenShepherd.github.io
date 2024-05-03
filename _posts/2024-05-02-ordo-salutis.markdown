@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:05:00 -0500
-categories: repent
+date: 2024-05-02 01:25:00 -0500
+categories: salvation soteriology
 published: true
 ---
 
@@ -37,6 +37,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Resistible / Irresistible Grace
     - ⚠️ Perseverance (Synergistic)
     - Sanctification (Progressive)
+    - Freedom of inclination (Bondage of the Will)
 - IV. <a href="#Reformed-Wesleyan">Reformed Wesleyan (3-Point Arminian)</a>
     - Total Depravity (Inability)
     - Double Conditional Foreknowledge
@@ -52,9 +53,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Resistible Grace
     - ⚠️ Perseverance (Synergistic)
     - Sanctification (Entire)
+    - Libertarian Free Will or Molinism
 - VI. <a href="#Romanist">Romanist (Roman Catholicism)</a>
     - Double Conditional Foreknowledge
     - ⚠️ Synergistic & Sacerdotalist
+    - Libertarian Free Will
 
 
 <br>
@@ -110,7 +113,9 @@ Since the only real difference between Calvinism & Moderate Calvinism is the ext
 
 <a name="Lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheranism</a>
 
-⚠️ Lutherans believe baptism is a requirement or condition of salvation, which makes them synergistic. 
+⚠️ Lutherans believe baptism is a requirement or condition of salvation, which makes them synergistic only on this point; however, they do hold to sola fide, quite obviously.
+
+> When our Lord and Master Jesus Christ said, &ldquo;Repent&rdquo; (Mt 4:17), he willed the entire life of believers to be one of repentance. &mdash; Dr. Martin Luther's 95 Theses, article 1, October 31, 1517. Amen brother Luther.
 
 <!-- Lutheranism is more accurately described as Melancthonism, since Lutheranism deviated from Luther, an Augustinian monk, who taught the Augustinian view of predestination. -->
 
