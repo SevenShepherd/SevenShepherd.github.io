@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:55:00 -0500
+date: 2024-05-02 02:00:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -193,7 +193,32 @@ He and his wife, Berdeen, have one son, Matthew. -->
 
 <a name="Calvary-Chapel" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Calvary Chapel Distinctive (3-Point Arminian, 2-Point Calvinist)</a>
 
-Please read our article &ldquo;[Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?](https://sevenshepherd.github.io/calvary-chapel/)&rdquo; Where the distinctives have been listed by direct quotes from Chuck Smith himself.
+Please read our article [**&ldquo;Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?&rdquo;**](https://sevenshepherd.github.io/calvary-chapel/)
+
+>
+>- **T (Total Depravity):** Truly, war does demonstrate the <a href="https://youtube.com/shorts/Hyd93X0luAg?si=7xcqh8He3h8jKKKn" style="font-weight:bold;">total depravity</a> of man.
+>
+>    We believe that all are sinners (Romans 3:23) and unable by human performance to earn, deserve, or merit salvation (Titus 3:5). We believe that the wages of sin is death (Romans 6:23), and that apart from God's grace, no one can be saved (Ephesians 2:8-9). We believe that none are righteous, **or capable of doing good** (Romans 3:10-12), and that **apart from the conviction and regeneration of the Holy Spirit, none can be saved** (John 1:12-13; 16:8-11; 1 Peter 1:23-25). **Mankind is clearly fallen and lost in sin.** 
+>
+>   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.
+>
+>- **C (Conditional Election):** **We believe that God chose the believer** before the foundation of the world (Ephesians 1:4-6), and **based on His foreknowledge**, has **predestined the believer** to be conformed to the image of His Son (Romans 8:29-30). We believe that God offers salvation to all who will call on His name. Romans 10:13 says, &ldquo; For whosoever shall call on the name of the Lord shall be saved.&rdquo; We also believe that God calls to Himself those who will believe in His Son, Jesus Christ (1 Corinthians 1:9). However, the Bible also teaches that an invitation (or call) is given to all, but only a few accept it. We see this balance throughout scripture. Revelation 22:17 states, &ldquo;... And whosoever will, let him take the water of life freely.&rdquo; 1 Peter 1:2 tells us we are, &ldquo;Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ. ...&rdquo; Matthew 22:14 says, <span style="font-weight:bold;">&ldquo;For many are called, but few are chosen (elected).&rdquo;</span> <span style="font-weight:bold;color:#3EA055;">God clearly does choose</span>, but man must also accept God's invitation to salvation.
+>
+>   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+>
+>- **L (Limited atonement):** We believe that Jesus Christ died as a propitiation (a satisfaction of the righteous wrath of God against sin) &ldquo;*for the whole world*&rdquo; (1 John 2:2; 4:9-10), and that He redeems and forgives all who will believe in the death and resurrection of Jesus Christ as their only hope of salvation from sin, death, and hell (Ephesians 1:7; 1 Peter 1:18-19). We believe that eternal life is a gift of God (Romans 6:23), and that &ldquo;*whosoever believeth*&rdquo; in Jesus Christ will not perish, but will have eternal life (John 3:16-18). I Timothy 4:10 says &ldquo;*we trust in the living God, who is the Savior of all men, specially of those that believe.*&rdquo; Hebrews 2:9 states that Jesus, &ldquo;*was made a little lower than the angels for the suffering of death, crowned with glory and honor, that He, by the grace of God, should taste death for every man*&rdquo; The atoning sacrifice of Jesus Christ was clearly sufficient to save the entire human race.
+>
+>   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Atonement. p. 11.
+>
+>- **I (Irresistible grace):** God clearly does choose, **but man must also accept God's invitation to salvation**.
+>
+>   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
+>
+>- **P (Perseverance of The Saints):** &ldquo;**Apparently there are many who claim to be believers that in fact are not.**... <span style="font-weight:bold;color:ForestGreen;">We do believe in the perseverance of the saints (true believers)</span>, but are deeply concerned about sinful lifestyles and rebellious hearts among those who call themselves "Christians."
+>
+>   do you believe in eternal security, I say yes of course I believe in eternal security, **as long as I abide in Christ I'm eternally secure now dispute that, if you don't abide in Christ are you secure, can you have security outside of Jesus Christ? I don't know of any security outside of Jesus Christ**, but I believe as long as I abide in him he's going to keep me from falling he's going to present me faultless before the presence of his glory with exceeding joy and no man can pluck me out of his hand I believe that and I experience God's security... 
+>
+>   &mdash; [Chuck Smith, Calvary Chapel Distinctives](https://youtu.be/zHIyT9kbaq8?si=PXIGxHKO3T8kj-Bw&t=615).
 
 <a name="Reformed-Wesleyan" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Reformed Wesleyan (3½-Point Arminian)</a>
 
