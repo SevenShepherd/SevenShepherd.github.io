@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🌷 Why I've Always Rejected Limited Atonement" 
-date: 2023-09-22 02:45:00 -0500
+date: 2023-09-22 02:55:00 -0500
 categories: tulip calvinism limited atonement
-published: true
+published: false
 ---
 
 Instead of reiterating the points made by Dr. Ron Rhodes in his article &ldquo;[*The Extent of the Atonement,*](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo; I would encourage you to read them yourself as the article is not very large.

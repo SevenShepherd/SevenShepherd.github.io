@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:00:00 -0500
+date: 2024-05-02 01:05:00 -0500
 categories: repent
 published: true
 ---
@@ -65,7 +65,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="Reformed" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Reformed (5-Point Calvinist)</a>
 
-⚠️ It should be noted that St. Augustine, Luther, & Calvin never held to &ldquo;Limited Atonement.&rdquo;
+⚠️ It should be noted that St. Augustine, Luther, & Calvin never held to &ldquo;Limited Atonement.&rdquo; The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
 Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
