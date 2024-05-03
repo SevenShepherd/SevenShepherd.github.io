@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:30:00 -0500
+date: 2024-05-02 01:35:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -69,7 +69,11 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 <a name="Reformed" href="#contents" style="font-style:Italic;font-size:2.1em;">I. Reformed (5-Point Calvinist)</a>
 
-⚠️ It should be noted that St. Augustine, Luther, & Calvin never held to &ldquo;Limited Atonement.&rdquo; The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+⚠️ It should be noted that St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited Atonement.&rdquo; The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+
+> All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
+
+<!-- , [*Determined to Believe?*]() p. 179. -->
 
 Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
@@ -94,6 +98,8 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 <a name="Amyraldism" href="#contents" style="font-style:Italic;font-size:2.1em;">II. Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist)</a>
 
 Since the only real difference between Calvinism & Moderate Calvinism is the extent of the atonement and slight alteration to the order of decrees, the ordo salutis should be identical to orthodox reformed theology. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
+
+> **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
 
 1. **Calling**
     - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
