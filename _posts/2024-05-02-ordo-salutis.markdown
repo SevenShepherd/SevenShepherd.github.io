@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:00:00 -0500
+date: 2024-05-02 02:05:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -191,7 +191,7 @@ His books include Martin Luther and the Concept of Opus Operation (University of
 
 He and his wife, Berdeen, have one son, Matthew. -->
 
-<a name="Calvary-Chapel" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Calvary Chapel Distinctive (3-Point Arminian, 2-Point Calvinist)</a>
+<a name="Calvary-Chapel" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Calvary Chapel Distinctive</a>
 
 Please read our article [**&ldquo;Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?&rdquo;**](https://sevenshepherd.github.io/calvary-chapel/)
 
@@ -206,11 +206,11 @@ Please read our article [**&ldquo;Does Your Calvary Chapel Pass The Chuck Smith 
 >
 >   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 >
->- **L (Limited atonement):** We believe that Jesus Christ died as a propitiation (a satisfaction of the righteous wrath of God against sin) &ldquo;*for the whole world*&rdquo; (1 John 2:2; 4:9-10), and that He redeems and forgives all who will believe in the death and resurrection of Jesus Christ as their only hope of salvation from sin, death, and hell (Ephesians 1:7; 1 Peter 1:18-19). We believe that eternal life is a gift of God (Romans 6:23), and that &ldquo;*whosoever believeth*&rdquo; in Jesus Christ will not perish, but will have eternal life (John 3:16-18). I Timothy 4:10 says &ldquo;*we trust in the living God, who is the Savior of all men, specially of those that believe.*&rdquo; Hebrews 2:9 states that Jesus, &ldquo;*was made a little lower than the angels for the suffering of death, crowned with glory and honor, that He, by the grace of God, should taste death for every man*&rdquo; The atoning sacrifice of Jesus Christ was clearly sufficient to save the entire human race.
+>- **U (Unlimited atonement):** We believe that Jesus Christ died as a propitiation (a satisfaction of the righteous wrath of God against sin) &ldquo;*for the whole world*&rdquo; (1 John 2:2; 4:9-10), and that He redeems and forgives all who will believe in the death and resurrection of Jesus Christ as their only hope of salvation from sin, death, and hell (Ephesians 1:7; 1 Peter 1:18-19). We believe that eternal life is a gift of God (Romans 6:23), and that &ldquo;*whosoever believeth*&rdquo; in Jesus Christ will not perish, but will have eternal life (John 3:16-18). I Timothy 4:10 says &ldquo;*we trust in the living God, who is the Savior of all men, specially of those that believe.*&rdquo; Hebrews 2:9 states that Jesus, &ldquo;*was made a little lower than the angels for the suffering of death, crowned with glory and honor, that He, by the grace of God, should taste death for every man*&rdquo; The atoning sacrifice of Jesus Christ was clearly sufficient to save the entire human race.
 >
 >   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Atonement. p. 11.
 >
->- **I (Irresistible grace):** God clearly does choose, **but man must also accept God's invitation to salvation**.
+>- **R (Resistible grace):** God clearly does choose, **but man must also accept God's invitation to salvation**.
 >
 >   &mdash; [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Election. p. 10.
 >
