@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:35:00 -0500
+date: 2024-05-02 01:55:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -21,7 +21,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Freedom of inclination
-- II. <a href="#Amyraldism">Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist)</a>
+- II. <a href="#Amyraldism">Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist, 3-Point Lutheran)</a>
     - Moderate Calvinist (Sublapsarianism)
         - Total Depravity (Inability)
         - Single Unconditional Election
@@ -29,8 +29,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Irresistible Grace (Effectual)
         - Preservation (Monergistic)
         - Sanctification (Progressive)
-        - Inclination or Compatibilism
-- III. <a href="#Lutheran">Lutheranism</a>
+        - Inclination or [Compatibilism](https://sevenshepherd.github.io/chosen/#carson)
+- III. <a href="#Lutheran">Lutheranism (3-Point Amyraldian, 2½-Point Calvinist)</a>
     - Total Depravity (Inability)
     - Single Unconditional Election
     - Unlimited Atonement (Hypothetical)
@@ -38,7 +38,15 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - ⚠️ Perseverance (Synergistic)
     - Sanctification (Progressive)
     - Freedom of inclination (Bondage of the Will)
-- IV. <a href="#Reformed-Wesleyan">Reformed Wesleyan (3-Point Arminian)</a>
+- IV. <a href="#Calvary-Chapel">Calvary Chapel Distinctive (3-Point Arminian, 2½-Point Amyraldian, 2-Point Calvinist)</a>
+    - Total Depravity (Inability)
+    - Double Conditional Foreknowledge
+    - Unlimited Atonement
+    - Resistible Grace
+    - Preservation (Monergistic)
+    - Sanctification (Progressive)
+    - [Compatibist](https://sevenshepherd.github.io/chosen/#carson) View of Free Will
+- V. <a href="#Reformed-Wesleyan">Reformed Wesleyan (3½-Point Arminian)</a>
     - Total Depravity (Inability)
     - Double Conditional Foreknowledge
     - Unlimited Atonement
@@ -47,7 +55,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - ⚠️ Can Renounce
     - Sanctification (Progressive)
     - Libertarian Free Will
-- V. <a href="#Arminian">Arminian (5-Point Arminian)</a>
+- VI. <a href="#Arminian">Arminian (5-Point Arminian)</a>
     - Partial Depravity
     - Double Conditional Foreknowledge
     - Unlimited Atonement
@@ -55,7 +63,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - ⚠️ Perseverance (Synergistic)
     - Sanctification (Entire)
     - Libertarian Free Will or Molinism
-- VI. <a href="#Romanist">Romanist (Roman Catholicism)</a>
+- VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
     - Double Conditional Foreknowledge
     - ⚠️ Synergistic & Sacerdotalist
     - Libertarian Free Will
@@ -99,7 +107,7 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 Since the only real difference between Calvinism & Moderate Calvinism is the extent of the atonement and slight alteration to the order of decrees, the ordo salutis should be identical to orthodox reformed theology. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
 
-> **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
+> &ldquo;***...the first phase of the Reformation was Amyraldian***&rdquo; &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
 
 1. **Calling**
     - The general call to trust Christ is issued through the widespread offer of the Gospel. By means of this general call God sovereignly issues a special calling to the elect. The Spirit facilitates sinners’ response to the Gospel by enlightening their minds, liberating their wills, and inclining their affections Godward.
@@ -117,6 +125,19 @@ Since the only real difference between Calvinism & Moderate Calvinism is the ext
     - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
 8. **Glorification**
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness.
+
+The following information was constructed from [gotquestions.org](https://www.gotquestions.org/Amyraldism.html).
+
+>
+T—Total Depravity – Man, in his fallen state, is completely incapable of doing any good that is acceptable to God.
+>
+U—Unconditional Election – As a result of man’s total depravity, he is unable (and unwilling) to come to God for salvation. Therefore, God must sovereignly choose those who will be saved. His decision to elect individuals for salvation is unconditional. It is not based on anything that man is or does but solely on God’s grace.
+>
+L—**Unlimited Atonement** – The particular point that Amyraldism denies is the third point, limited atonement. Amyraldism replaces it with unlimited atonement, or the concept of “hypothetical universalism,” which asserts that Christ died for the sins of all people, not just the elect. Amyraldism preserves the doctrine of unconditional election even while teaching unlimited atonement this way: because God knew that not all would respond in faith to Christ’s atonement (due to man’s total depravity), He elected some to whom He would impart saving faith.
+>
+I—Irresistible Grace – The Holy Spirit applies the finished work of salvation to the elect by irresistibly drawing them to faith and repentance. This saving call of the Holy Spirit cannot be resisted and is referred to as an efficacious call.
+>
+P—Perseverance of the Saints – Those whom God has elected, atoned for, and efficaciously called are preserved in faith until the last day. They will never fall away because God has secured them with the seal of the Holy Spirit. The saints persevere because God preserves them.
 
 <a name="Lutheran" href="#contents" style="font-style:Italic;font-size:2.1em;">III. Lutheranism</a>
 
@@ -145,7 +166,36 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 8. **Conservation**
     - Provided that the justified continue to heed biblical warnings about defection and persist in faith, God will preserve them safely to the end. The unbelieving, however, may fall away from grace and forfeit salvation. Christians must not presume on the Spirit’s grace.
 
-<a name="Reformed-Wesleyan" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Reformed Wesleyan</a>
+The theologically conservative [Lutheran Church of The Missouri Synod](https://www.lcms.org/about/beliefs/faqs/denominations), quotes Dr. Thomas Manteufel, On page 41 in his book, Churches in America, where he reviews the five points of TULIP and explains how they compare and/or contrast with what Lutherans believe regarding these matters.
+
+>
+>- T (Total Depravity) The Calvinists rightly teach that all descendants of Adam are by nature totally corrupt in spiritual matters. People do not have freedom of the will to turn to God in faith or cooperate in their conversions (Eph. 2:1; John 3:5-6; Rom. 8:7).
+>
+>- U (Unconditional predestination) Scripture does teach that it is by grace that God has predestinated the elect to eternal salvation and given them justifying faith. It is not because of any condition fulfilled by them (2 Tim. 1:9; Eph. 1:4-6; Phil. 1:29). However, the Bible does not teach, as do the Calvinists, that some are predestined for damnation. God wants all to be saved (1 Tim 2:4).
+>
+>- L (Limited atonement) It is true that Christ died for the church and purchased it with His blood (Eph. 5:25; Acts 20:28). Furthermore, His atoning death does not mean that all people are saved (1 Cor. 1:18). However, Jesus died for all (2 Cor. 5:15).
+>
+>- I (Irresistible grace) We agree that God makes us alive by His mighty power, without our aid (Eph. 2:5; John 1:13). But Scripture warns we can resist God’s gracious call (Matt. 23:37; Acts 7:51; 2 Cor. 6:1). And some people do resist God’s grace, or all would be saved (1 Tim 2:4). Furthermore, God warns us not to resist His grace (2 Cor. 6:1; Heb. 4:7).
+>
+>- P (Perseverance in grace) We affirm with Scripture that those who are predestined to salvation cannot be lost but will continue by God’s power to a blessed end (Rom. 8:30; 1 Peter 1:5). Scripture does not teach, however, that those who come to faith cannot lose that faith (Heb. 6:4-6; 10:26-29; Ps. 51:11). God urges His people not to continue in sin but to live in repentance and faith (Rom. 6:1-4).
+>
+> &mdash; Dr. Thomas Manteufel (Professor emeritus of Systematic Theology at Concordia Seminary for 30 years; Ph.D.,  University of Iowa), Churches in America. p. 41 (St. Louis: CPH, 1994). He served as pastor of St. Peter’s Lutheran Church in Elma, Iowa (1969-77)
+
+<!-- Dr. Thomas E. Manteufel is a professor emeritus of Systematic Theology at Concordia Seminary, St. Louis of 30 years. He served as pastor of St. Peter’s Lutheran Church in Elma, Iowa (1969-77). -->
+
+<!-- He retired in 2009 after 30 years of distinguished service as associate professor of Systematic Theology. He received his Master of Divinity (M.Div.) and Master of Sacred Theology (S.T.M.) from Concordia Seminary (1968, 1975); his Bachelor of Arts (B.A.) from Concordia Senior College in Fort Wayne, Ind. (1964); and his Associate of Arts (A.A.) from Concordia College in St. Paul, Minn. (now Concordia University, St. Paul) (1962). He holds a Doctor of Philosophy (Ph.D.) from the University of Iowa (1988).
+
+Before joining the Seminary, he served as pastor of St. Peter’s Lutheran Church in Elma, Iowa (1969-77).
+
+His books include Martin Luther and the Concept of Opus Operation (University of Iowa) and Churches in America (Concordia Publishing House).
+
+He and his wife, Berdeen, have one son, Matthew. -->
+
+<a name="Calvary-Chapel" href="#contents" style="font-style:Italic;font-size:2.1em;">IV. Calvary Chapel Distinctive (3-Point Arminian, 2-Point Calvinist)</a>
+
+Please read our article &ldquo;[Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?](https://sevenshepherd.github.io/calvary-chapel/)&rdquo; Where the distinctives have been listed by direct quotes from Chuck Smith himself.
+
+<a name="Reformed-Wesleyan" href="#contents" style="font-style:Italic;font-size:2.1em;">V. Reformed Wesleyan (3½-Point Arminian)</a>
 
 > ⚠️ Under construction
 
