@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 08:00:00 -0500
+date: 2024-04-15 08:05:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -331,7 +331,7 @@ Your interpretation aligns well with these aspects of Jesus' teachings, showing 
 
 <a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 10. Summary & Conclusions</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement should be called a sect (freeite) for deviating from scripture, the academic community, and centuries of sound doctrine. **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one.** Because of the concerns In this article, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or movement, as a legitimate option for evangelicals to accept and follow.
+Unfortunately, the 80's *&ldquo;Free Grace&rdquo;* movement deviates from scripture, the academic community, and centuries of sound doctrine because of a mistaken understandings. **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one.** Because of the concerns In this article, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or movement, as a legitimate option for evangelicals to accept and follow.
 
 <!-- diminishes scripture and has lead them to believe terribly destructive things about their walk with Christ. It saddens me greatly to see this happening. Because of these concerns, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or the 80s *&ldquo;Free Grace&rdquo;* movement, as a legitimate option for evangelicals to accept and follow. It should be stated that  -->
 
