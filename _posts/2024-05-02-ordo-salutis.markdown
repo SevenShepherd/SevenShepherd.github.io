@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 01:25:00 -0500
+date: 2024-05-02 01:30:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -46,6 +46,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Perseverance (Monergistic)
         - ⚠️ Can Renounce
     - Sanctification (Progressive)
+    - Libertarian Free Will
 - V. <a href="#Arminian">Arminian (5-Point Arminian)</a>
     - Partial Depravity
     - Double Conditional Foreknowledge
