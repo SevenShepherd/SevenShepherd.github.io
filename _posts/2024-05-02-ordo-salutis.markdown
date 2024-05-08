@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:15:00 -0500
+date: 2024-05-02 02:25:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -22,7 +22,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Freedom of inclination
-    - Hyper-Calvinist (Infralapsarianism)
+    - Hyper-Calvinist (Supralapsarianism)
         - Total Depravity (Inability)
         - 🚫 Double Unconditional Predestination
         - ⚠️ Limited Atonement
@@ -53,8 +53,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Total Depravity (Inability)
     - Double Conditional Foreknowledge
     - Unlimited Atonement
-    - Resistible Grace (Prevenient)
-        - Enabling all and electing the foreknown.
+    - Resistible Grace
     - Preservation (Monergistic)
     - Sanctification (Progressive)
     - [Compatibist](https://sevenshepherd.github.io/chosen/#carson) View of Free Will
@@ -71,13 +70,14 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Total Depravity (Partial)
     - Double Conditional Foreknowledge
     - Unlimited Atonement
-    - Resistible Grace
+    - Resistible Grace (Prevenient)
+        - Enabling all and electing the foreknown.
     - ⚠️ Perseverance (Synergistic)
     - ⚠️ Sanctification (Entire)
     - Libertarian Free Will or Molinism
 - VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
     - Double Conditional Foreknowledge
-    - Predisposing grace
+    - Predisposing Grace
     - ⚠️ Synergistic & Sacerdotalist
     - Libertarian Free Will
 
