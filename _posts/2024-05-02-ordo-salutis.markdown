@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:25:00 -0500
+date: 2024-05-02 02:35:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -77,8 +77,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Libertarian Free Will or Molinism
 - VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
     - Double Conditional Foreknowledge
-    - Predisposing Grace
-    - ⚠️ Synergistic & Sacerdotalist
+    - Predisposing Grace (Prevenient)
+    - 🚫 Synergistic & Sacerdotalist
     - Libertarian Free Will
 
 <!-- prevenient grace enables individuals to respond to God's offer of salvation, and God, based on His foreknowledge of who will respond, elects those individuals to salvation. It is a synergistic view that sees both God's grace and human response as necessary components in the salvation process. -->
@@ -282,6 +282,10 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 5. **Perseverance**
     - Given their strong emphasis on free agency, many Arminians hold that believers by willful sin may fall completely from the state of grace. The possibility of final apostasy motivates Christians to holiness and constancy of life.
         >⚠️  In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. p. 35.
+
+Arminianism and [the Five articles of Remonstrance](https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance)
+
+> [Arminianism also accepts a doctrine of total depravity](https://en.wikipedia.org//wiki/Total_depravity#In_Arminianism), although not identical to the Calvinist position. Total depravity was affirmed by the Five articles of Remonstrance, by Jacobus Arminius himself, and by John Wesley, who strongly identified with Arminius through publication of his periodical The Arminian and also **advocated a strong doctrine of inability**. &mdash; 
 
 <a name="Romanist" href="#contents" style="font-style:Italic;font-size:2.1em;">VII. Romanist (Roman Catholicism)</a>
 
