@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:10:00 -0500
+date: 2024-05-02 02:15:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -18,6 +18,16 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Single Unconditional Predestination
         - ⚠️ Limited Atonement
         - Irresistible Grace (Effectual)
+            - God enables the elect Irresistibly
+        - Preservation (Monergistic)
+        - Sanctification (Progressive)
+        - Freedom of inclination
+    - Hyper-Calvinist (Infralapsarianism)
+        - Total Depravity (Inability)
+        - 🚫 Double Unconditional Predestination
+        - ⚠️ Limited Atonement
+        - Irresistible Grace (Effectual)
+            - God enables the elect Irresistibly
         - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Freedom of inclination
@@ -27,6 +37,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Single Unconditional Election
         - Unlimited Atonement (Hypothetical)
         - Irresistible Grace (Effectual)
+            - God enables the elect Irresistibly
         - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Inclination or [Compatibilism](https://sevenshepherd.github.io/chosen/#carson)
@@ -42,7 +53,8 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Total Depravity (Inability)
     - Double Conditional Foreknowledge
     - Unlimited Atonement
-    - Resistible Grace
+    - Resistible Grace (Prevenient)
+        - Enabling all and electing the foreknown.
     - Preservation (Monergistic)
     - Sanctification (Progressive)
     - [Compatibist](https://sevenshepherd.github.io/chosen/#carson) View of Free Will
@@ -56,18 +68,20 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Sanctification (Progressive)
     - Libertarian Free Will
 - VI. <a href="#Arminian">Arminian (5-Point Arminian)</a>
-    - Partial Depravity
+    - Total Depravity (Partial)
     - Double Conditional Foreknowledge
     - Unlimited Atonement
     - Resistible Grace
     - ⚠️ Perseverance (Synergistic)
-    - Sanctification (Entire)
+    - ⚠️ Sanctification (Entire)
     - Libertarian Free Will or Molinism
 - VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
     - Double Conditional Foreknowledge
+    - Predisposing grace
     - ⚠️ Synergistic & Sacerdotalist
     - Libertarian Free Will
 
+<!-- prevenient grace enables individuals to respond to God's offer of salvation, and God, based on His foreknowledge of who will respond, elects those individuals to salvation. It is a synergistic view that sees both God's grace and human response as necessary components in the salvation process. -->
 
 <br>
 
