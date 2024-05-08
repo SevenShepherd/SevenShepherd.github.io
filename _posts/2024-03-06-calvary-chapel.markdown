@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ Does Your Calvary Chapel Pass The Chuck Smith Test Or Does It Depart From Scripture?"
-date: 2024-03-06 8:00:00 -0500
+date: 2024-03-06 8:05:00 -0500
 categories: salvation
 published: true
 ---
@@ -101,7 +101,7 @@ The following is an excerpt from Chuck Smith's C2000. We also recommend his topi
 
 <a name="depravity" href="#contents" style="font-size:1.6em;">6. Total Depravity</a>
 
-[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors: **(1)** There is the total depravity of the Orthodox Calvinists that **entails** total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that **does not entail** inability which is paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held. it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserves Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith. I'm not sure this view is completely stable, but it doesn't seem unsafe, as every aspect is still Protestant.
+[Total Depravity](https://sevenshepherd.github.io/total-depravity/) comes in many flavors: **(1)** There is the total depravity of the Orthodox Calvinists that entails total inability, which is paired with unconditional single election; **(2)** There is the depravity of the Arminians that entails total inability but is offset with Prevenient grace, enabling all but electing the foreknown, which is then paired with conditional election. **(3)** Then there is the unique view that Chuck Smith held. it would seem Smith merged the Calvinistic understanding of total depravity with the Arminian view of conditional election. This preserves Grace alone, God's sovereignty, and bases election on foreknowledge of forseen faith. I'm not sure this view is completely stable, but it doesn't seem unsafe, as every aspect is still Protestant.
 
 Does your Calvary Chapel pastor teach [total depravity](https://sevenshepherd.github.io/total-depravity/), or are they instead teaching [Semi-Pelagianism](https://carm.org/about-doctrine/what-are-pelagianism-and-semi-pelagianism/), which was officially condemned as heresy by the Council of Orange in 529 A.D.? Pelagianism and Semi-Pelagianism [result in a rejection of God’s grace in favor of man’s innate goodness](https://www.gotquestions.org/semi-Pelagianism.html). Chuck Smith avoided these heresies, hopefully your pastor does too. Total depravity protects the teachings of grace alone.
 
