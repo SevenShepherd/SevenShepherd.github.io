@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:40:00 -0500
+date: 2024-05-02 02:45:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -15,7 +15,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - I. <a href="#Reformed">Reformed (5-Point Calvinist)</a>
     - Orthodox Calvinist (Infralapsarianism)
         - Total Depravity (Inability)
-        - Single Unconditional Predestination
+        - Single Unconditional Predestination (Asym.)
         - ⚠️ Limited Atonement
         - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
@@ -24,7 +24,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Freedom of inclination
     - Hyper-Calvinist (Supralapsarianism)
         - Total Depravity (Inability)
-        - 🚫 Double Unconditional Predestination
+        - 🚫 Double Unconditional Predestination (Sym.)
         - ⚠️ Limited Atonement
         - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
@@ -34,7 +34,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - II. <a href="#Amyraldism">Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist, 3-Point Lutheran)</a>
     - Moderate Calvinist (Sublapsarianism)
         - Total Depravity (Inability)
-        - Single Unconditional Election
+        - Single Unconditional Election (Asym.)
         - Unlimited Atonement (Hypothetical)
         - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
@@ -43,7 +43,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Inclination or [Compatibilism](https://sevenshepherd.github.io/chosen/#carson)
 - III. <a href="#Lutheran">Lutheranism (3-Point Amyraldian, 2½-Point Calvinist)</a>
     - Total Depravity (Inability)
-    - Single Unconditional Election
+    - Single Unconditional Election (Asym.)
     - Unlimited Atonement (Hypothetical)
     - Resistible / Irresistible Grace
     - ⚠️ Perseverance (Synergistic)
@@ -51,7 +51,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Freedom of inclination (Bondage of the Will)
 - IV. <a href="#Calvary-Chapel">Calvary Chapel Distinctive (3-Point Arminian, 2½-Point Amyraldian, 2-Point Calvinist)</a>
     - Total Depravity (Inability)
-    - Double Conditional Foreknowledge
+    - Double Conditional Foreknowledge (Sym.)
     - Unlimited Atonement
     - Resistible Grace
     - Preservation (Monergistic)
@@ -59,27 +59,27 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - [Compatibist](https://sevenshepherd.github.io/chosen/#carson) View of Free Will
 - V. <a href="#Reformed-Wesleyan">Reformed Wesleyan (3½-Point Arminian)</a>
     - Total Depravity (Inability)
-    - Double Conditional Foreknowledge
+    - Double Conditional Foreknowledge (Sym.)
     - Unlimited Atonement
     - Resistible Grace
     - Perseverance (Monergistic)
         - ⚠️ Can Renounce
     - Sanctification (Progressive)
-    - Libertarian Free Will
+    - Libertarian Free Will (can forfeit salvation)
 - VI. <a href="#Arminian">Arminian (5-Point Arminian)</a>
     - Total Depravity (Inability/Partial)
-    - Double Conditional Foreknowledge
+    - Double Conditional Foreknowledge (Sym.)
     - Unlimited Atonement
     - Resistible Grace (Prevenient)
         - Enabling all and electing the foreknown.
     - ⚠️ Perseverance (Synergistic)
     - ⚠️ Sanctification (Entire)
-    - Libertarian Free Will or Molinism
+    - Libertarian Free Will (can forfeit salvation) or Molinism ([ROSES](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism))
 - VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
-    - Double Conditional Foreknowledge
+    - Double Conditional Foreknowledge (Sym.)
     - Predisposing Grace (Prevenient)
     - 🚫 Synergistic & Sacerdotalist
-    - Libertarian Free Will
+    - Libertarian, Thomism, Molinism
 
 <!-- prevenient grace enables individuals to respond to God's offer of salvation, and God, based on His foreknowledge of who will respond, elects those individuals to salvation. It is a synergistic view that sees both God's grace and human response as necessary components in the salvation process. -->
 
@@ -285,7 +285,35 @@ Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup
 
 Arminianism and [the Five articles of Remonstrance](https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance)
 
-> [Arminianism also accepts a doctrine of total depravity](https://en.wikipedia.org//wiki/Total_depravity#In_Arminianism), although not identical to the Calvinist position. Total depravity was affirmed by the Five articles of Remonstrance, by Jacobus Arminius himself, and by John Wesley, who strongly identified with Arminius through publication of his periodical The Arminian and also **advocated a strong doctrine of inability**. &mdash; 
+> - **Article 1 – Conditional election** This article rejects the concept that election into Christ is unconditional. Rather, this article asserts that election is conditional upon faith in Christ, and that God elects to salvation those He knows beforehand will have faith in Him.
+>
+>- **Article 2 – Unlimited atonement** This article rejects the concept of limited atonement, which asserts that Christ only died for those God chooses to be saved. This article asserts that Christ died for all, but that salvation is limited to those who believe in Christ.
+>
+>- **Article 3 – Total depravity** This article affirms the total depravity of man, that man is unable to do the will of God, and cannot save himself, unless free will being enabled by the prevenient grace of God.
+>
+>>[Arminianism also accepts a doctrine of total depravity](https://en.wikipedia.org//wiki/Total_depravity#In_Arminianism), although not identical to the Calvinist position. Total depravity was affirmed by the Five articles of Remonstrance, by Jacobus Arminius himself, and by John Wesley, who strongly identified with Arminius through publication of his periodical The Arminian and also **advocated a strong doctrine of inability**.
+>
+>- **Article 4 – Prevenient grace and resistible grace** This article rejects the idea that justifying grace is irresistible. It asserts that once God's prevenient grace has enabled a man to believe, man can resist God's grace by exercising his free will.
+>
+>- **Article 5 – Conditional preservation of the saints** This article rather than outright rejecting the notion of perseverance of the saints, argues that it may be conditional upon the believer remaining in Christ. The writers explicitly stated that they were not sure on this point, and that further study was needed.
+>
+>Sometime between 1610, and the official proceeding of the Synod of Dort (1618), the Remonstrants became fully persuaded in their minds that the Scriptures taught that a true believer was capable of falling away from faith and perishing eternally as an unbeliever. They formalized their views in "The Opinion of the Remonstrants" (1618), which was their official position during the Synod of Dort. They later expressed this same view in the Remonstrant Confession (1621).
+
+Arminianism with a Molinistic ([ROSES](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism)) view of the sovereignty-responsibility tension problem. Provided by [The Christian Post](https://www.christianpost.com/voices/what-is-molinism.html).
+
+> The acronym of Molinism: ROSES.
+>
+>Calvinists have the famed (or infamous depending on whom you ask) TULIP. Arminians have the DAISY. Molinists have a flowery acronym, too. Molinists are true romantics at heart as their acronym is ROSES.
+>
+**R = Radical depravity.** Radical depravity takes the place of the Calvinist doctrine of total depravity. Radical depravity holds that humans are depraved to the point that they cannot save themselves. However, this depravity does not remove one's divine image given to them by the Creator. Thus, the human being is unable to save oneself, however this does not mean that he or she could not respond to God's grace when given.
+>
+>**O = Overcoming grace.** Overcoming grace replaces irresistible grace. Rather than holding that a person cannot respond to God's grace, Molinists hold that God's grace is able to overcome the depraved human condition leading to a place where the person can respond positively or negatively to God's free offer of grace.
+>
+>**S = Sovereign election.** Sovereign election replaces the unconditional election portion of TULIP. Molinists hold that God knows each person so completely that he knows how each person will respond in certain circumstances (e.g., Pharaoh's hardened heart in Exodus). Thus, God elects to save those whom he knows will respond to his grace, but this knowledge does not come from the person, but rather within the mind of God. God knows everything about everyone before anything was created. See point three for a further description of the Molinist's view of divine sovereignty.
+>
+>**E = Eternal assurance.** Rather than emphasizing the perseverance of the saints, which can be construed to mean that not everyone who makes a profession of faith will persevere, the Molinist (at least many Evangelical Molinists) holds that a person's salvation is assured because of the working of God in the person's salvation. God's promises are always true.
+>
+>**S = Singular redemption.** The last S of Molinism's ROSES replaces limited atonement in TULIP. This doctrine holds that Christ's death was powerful enough to cover the sins of the world, but only applies to those who respond to God's grace by faith. Thus, Christ's atoning work was sufficient to save the world, but efficient to save only the elect.
 
 <a name="Romanist" href="#contents" style="font-style:Italic;font-size:2.1em;">VII. Romanist (Roman Catholicism)</a>
 
