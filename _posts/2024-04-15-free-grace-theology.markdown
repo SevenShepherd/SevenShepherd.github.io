@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 08:30:00 -0500
+date: 2024-04-15 08:35:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
 1. <a href="#alone">Not the *&ldquo;Faith Alone&rdquo;* of the Reformation</a>
-2. <a href="#repent">No Call To Repent Of Sins</a>
+2. <a href="#repent">Scripture Twisters On Repentance</a>
 3. <a href="#assurance">Giving False Assurance to thousands</a>
 4. <a href="#trust">Underemphasizing Trust in Christ</a>
 5. <a href="#unlikely">Bad Interpretations of Scripture</a>
