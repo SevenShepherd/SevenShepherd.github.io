@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 08:25:00 -0500
+date: 2024-04-15 08:30:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -31,7 +31,7 @@ published: true
 
 <a name="alone" href="#contents" style="font-size:2.1em;">🚶📜 1. The 80's version of the Gospel DOES NOT teach the Reformation doctrine of justification by faith alone</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone." <span style="color:FireBrick">They've mysteriously removed the second part of the doctrine of faith alone</span>
+The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone." <span style="color:FireBrick">They've mysteriously removed the second part of the doctrine of faith alone.</span>
 
 <!-- ⚠️ The full definition that correctly concludes, &ldquo;*... <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. -->
 
