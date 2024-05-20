@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ One Month To 2605 (1841 Puzzles)"
-date: 2024-05-20 01:15:00 -0500
+date: 2024-05-20 01:20:00 -0500
 categories: chess
 published: true
 ---
@@ -12,7 +12,7 @@ This is a personal blog after all and sometimes I like to talk about my hobbies,
 
 It's been around 20 years or so since I've played Chess. I played for a month or so as a teen and enjoyed it. I learned how to play chess from Bobby Fischer's book &ldquo;*Bobby Fischer Teaches Chess*&rdquo; many years ago. 
 
-I decided to pick it up recently after nearly two decades, and I played about 1841 puzzles this month and managed to reach a puzzle rating of 2605. My rating continues to climb and I expect it to go up a few more hundred points.
+I decided to pick it up recently after nearly two decades, and I played about 1841 puzzles in about a month and managed to reach a puzzle rating of 2605. My rating continues to climb and I expect it to go up a few more hundred points.
 
 Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">Chess</a>, have been shown to increase neuroplasticity. I find the whole game fascinating, and while I've never considered playing professionally, there are many inspirational figures like Fischer that make the game intriguing. 
 
