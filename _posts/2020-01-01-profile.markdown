@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 5:35:00 -0500
+date: 2020-01-01 6:00:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -813,7 +813,10 @@ At first my fascination was with songs like, Fantasie-Impromptu Op.66, "Moonligh
 
 # 8.1 Chess & Logic Puzzles
 
-Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">chess</a>, have been shown to increase neuroplasticity. I find the whole game facinating, and while I've never taken it seriously as a sport, there are many inspirational figures like Fischer that make the game intriguing. I would showcase my wins against the Magnus (2882) bot on chess.com, but I don't know that I should count wins by memorization or theory. Pure tactical skill matters more to me.
+Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">Chess</a>, have been shown to increase neuroplasticity. I find the whole game fascinating, and while I've never considered playing professionally, there are many inspirational figures like Fischer that make the game intriguing.  I would showcase my wins against the Magnus (2882) bot on chess.com, but I don't know that I should count wins by memorization or theory, as the bot was prone to play into certain lines very deeply. Pure tactical skill matters more to me.
+
+- [I recently reached a 2605 rating on lichess](https://sevenshepherd.github.io/chess-games/)
+- I may update this section with my best games
 
 <!-- , & [Magnus](https://youtu.be/kw-629LEGRo?si=STZQBdWGT0rGQT53)  -->
 
