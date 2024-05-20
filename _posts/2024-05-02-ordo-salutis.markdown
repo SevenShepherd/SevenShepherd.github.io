@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:45:00 -0500
+date: 2024-05-02 02:55:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -14,31 +14,31 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 
 - I. <a href="#Reformed">Reformed (5-Point Calvinist)</a>
     - Orthodox Calvinist (Infralapsarianism)
-        - Total Depravity (Inability)
-        - Single Unconditional Predestination (Asym.)
-        - ⚠️ Limited Atonement
-        - Irresistible Grace (Effectual)
+        - **(T)** - Total Depravity (Inability)
+        - **(U <sup>Asym</sup>)** - Single Unconditional Predestination
+        - **(L)** - ⚠️ Limited Atonement
+        - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
-        - Preservation (Monergistic)
+        - **(P)** - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Freedom of inclination
     - Hyper-Calvinist (Supralapsarianism)
-        - Total Depravity (Inability)
-        - 🚫 Double Unconditional Predestination (Sym.)
-        - ⚠️ Limited Atonement
-        - Irresistible Grace (Effectual)
+        - **(T)** - Total Depravity (Inability)
+        - **(U <sup>Sym</sup>)** - 🚫 Double Unconditional Predestination (Sym.)
+        - **(L)** - ⚠️ Limited Atonement
+        - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
-        - Preservation (Monergistic)
+        - **(P)** - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Freedom of inclination
 - II. <a href="#Amyraldism">Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist, 3-Point Lutheran)</a>
     - Moderate Calvinist (Sublapsarianism)
-        - Total Depravity (Inability)
-        - Single Unconditional Election (Asym.)
-        - Unlimited Atonement (Hypothetical)
-        - Irresistible Grace (Effectual)
+        - **(T)** - Total Depravity (Inability)
+        - **(U <sup>Asym</sup>)** - Single Unconditional Election
+        - **Unlimited Atonement (Hypothetical)**
+        - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
-        - Preservation (Monergistic)
+        - **(P)** - Preservation (Monergistic)
         - Sanctification (Progressive)
         - Inclination or [Compatibilism](https://sevenshepherd.github.io/chosen/#carson)
 - III. <a href="#Lutheran">Lutheranism (3-Point Amyraldian, 2½-Point Calvinist)</a>
@@ -67,6 +67,30 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
     - Sanctification (Progressive)
     - Libertarian Free Will (can forfeit salvation)
 - VI. <a href="#Arminian">Arminian (5-Point Arminian)</a>
+    - Classical Arminianism
+        - **(D)** - Diminished Depravity (Partial)
+        - **(A)** - Abrogated election (Double Conditional Foreknowledge)
+        - **(I)** - Impersonal Atonement (Unlimited Atonement)
+        - **(S)** - Sedentary grace (Resistible Grace)
+            - Enabling all and electing the foreknown.
+        - **(Y)** - ⚠️ Yieldable justification (Synergistic Perseverance)
+    - [Molinistic Arminianism](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism)
+        - **(R)** - Radical Depravity
+        - **(O)** - Overcoming Grace 
+        - **(S)** - Sovereign Election
+        - **(E)** - Eternal Life 
+        - **(S)** - Singular redemption
+    - Attributes may include
+        - ⚠️ Sanctification (Entire)
+        - Free Will is either Libertarian (can forfeit salvation) or Molinism.
+- VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
+    - Double Conditional Foreknowledge (Sym.)
+    - Predisposing Grace (Prevenient)
+    - 🚫 Synergistic & Sacerdotalist
+    - Libertarian, Thomism, Molinism
+
+<!-- - VI. <a href="#Arminian">Arminian (5-Point Arminian)</a>
+    - **(D)** 
     - Total Depravity (Inability/Partial)
     - Double Conditional Foreknowledge (Sym.)
     - Unlimited Atonement
@@ -74,12 +98,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Enabling all and electing the foreknown.
     - ⚠️ Perseverance (Synergistic)
     - ⚠️ Sanctification (Entire)
-    - Libertarian Free Will (can forfeit salvation) or Molinism ([ROSES](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism))
-- VII. <a href="#Romanist">Romanist (Roman Catholicism)</a>
-    - Double Conditional Foreknowledge (Sym.)
-    - Predisposing Grace (Prevenient)
-    - 🚫 Synergistic & Sacerdotalist
-    - Libertarian, Thomism, Molinism
+    - Libertarian Free Will (can forfeit salvation) or Molinism ([ROSES](https://en.wikipedia.org/wiki/Molinism#Difference_from_Calvinism_and_from_Arminianism)) -->
 
 <!-- prevenient grace enables individuals to respond to God's offer of salvation, and God, based on His foreknowledge of who will respond, elects those individuals to salvation. It is a synergistic view that sees both God's grace and human response as necessary components in the salvation process. -->
 
@@ -314,6 +333,14 @@ Arminianism with a Molinistic ([ROSES](https://en.wikipedia.org/wiki/Molinism#Di
 >**E = Eternal assurance.** Rather than emphasizing the perseverance of the saints, which can be construed to mean that not everyone who makes a profession of faith will persevere, the Molinist (at least many Evangelical Molinists) holds that a person's salvation is assured because of the working of God in the person's salvation. God's promises are always true.
 >
 >**S = Singular redemption.** The last S of Molinism's ROSES replaces limited atonement in TULIP. This doctrine holds that Christ's death was powerful enough to cover the sins of the world, but only applies to those who respond to God's grace by faith. Thus, Christ's atoning work was sufficient to save the world, but efficient to save only the elect.
+
+<!-- 
+- **(R)** - Radical Depravity (Man's nature is radically depraved from the fall.)
+- **(O)** - Overcoming Grace (God's grace overcomes man's radical depravity. As opposed to irresistible grace, man can respond.)
+- **(S)** - Sovereign Election (God's sovereign election of individuals, predetermined by His exercise of middle knowledge to know who would respond to Him in faith. This is instead of unconditional election, where God elects individuals independent of their libertarian free will.)
+- **(E)** - Eternal Life (Regenerate believers will not fall away from a state of justification.)
+- **(S)** - Singular redemption (A modified view of limited atonement. Christ's redemption is sufficient for all, but applicable only to the elect.) 
+-->
 
 <a name="Romanist" href="#contents" style="font-style:Italic;font-size:2.1em;">VII. Romanist (Roman Catholicism)</a>
 
