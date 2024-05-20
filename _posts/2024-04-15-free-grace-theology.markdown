@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 08:35:00 -0500
+date: 2024-04-15 08:40:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -14,14 +14,15 @@ published: true
 
 1. <a href="#alone">Not the *&ldquo;Faith Alone&rdquo;* of the Reformation</a>
 2. <a href="#repent">Scripture Twisters On Repentance</a>
-3. <a href="#assurance">Giving False Assurance to thousands</a>
+3. <a href="#assurance">Giving False Assurance to Thousands</a>
 4. <a href="#trust">Underemphasizing Trust in Christ</a>
 5. <a href="#unlikely">Bad Interpretations of Scripture</a>
 6. <a href="#fruit">Antinomian Carnal Christianity</a>
 7. <a href="#dallas">Dallas Theological Seminary Distanced Itself From Them</a>
 8. <a href="#wilikin">How C.S. Lewis Helped Bob Wilikin Repent Of His Mistaken View On Repentance</a>
-9. <a href="#artificial">Artificial Intelligence Analysis</a>
-10. <a href="#conclusion">Summary & Conclusions</a>
+9. <a href="#chafer">Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
+10. <a href="#artificial">Artificial Intelligence Analysis</a>
+11. <a href="#conclusion">Summary & Conclusions</a>
 
 <br>
 
@@ -300,7 +301,29 @@ Bob Wilkin (ThM, PhD, Dallas Theological Seminary) has served as an evangelist o
 
 I'm happy to see people waking up from this error, especially from the very camp that is wrongfully propagating it.
 
-<a name="artificial" href="#contents" style="font-size:2.1em;">🚶📜 9. Artificial Intelligence Analysis Of My Article</a>
+<a name="chafer" href="#contents" style="font-size:2.1em">9. Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
+
+[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. A new group has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware this teaching! It's not a Biblical or scholarly conclusion.
+
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+>
+&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+
+Certain names & titles have been redacted to protect my audience from possible dangerous teachings by Chafer and the Free Grace community. You can always refer to the source yourself as I've supplied it at the end of each text. It should be stated that **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one**. I recommend moderate forms of protestantism instead.
+
+> **6\. The Relationship between Dispensationalism and the Free Grace Movement**
+>
+Historically, the initial source of the Free Grace view of the gospel was apparently not **[redacted]**, its primary advocate in the 1980s and 1990s, but Lewis Sperry Chafer, the first president of Dallas Theological Seminary, especially in his Systematic Theology, where he says, "The New Testament does not impose repentance upon the unsaved as a condition of salvation." However, Chafer's main concern was to deny that repentance had to include "sorrow and heart-anguish," so that "the way of salvation has thus been made impossible for all who do not experience the required anguish." According to Chafer, because of this mistake, people are led "to measure the validity of their salvation by the intensity of anguish which preceded or accompanied it. It is in this manner that sorrow of heart becomes a more subtle form of meritorious work, and to that extent a contradiction of grace.... To imply, as preachers have done so generally, that God must be mollified... by human agony is a desperate form of unbelief."35
+>
+Although my definition of repentance (p. 865) includes "a heartfelt sorrow for sin," **I would agree with Chafer that we should not tell people to "measure the validity of their salvation by the intensity of the anguish which preceded or accompanied it."** Therefore **I have some sympathy with Chafer's opposition to this pastoral mistake**, which he apparently thought was too prevalent in his day. But I think he over-corrected the mistake by insisting that repentance only required a change of mind.
+>
+**Chafer was a leading proponent of dispensationalism** (see pp. 656, 1054) and the president of Dallas Theological Seminary from 1924 to 1952, but not all Dallas Seminary faculty or all who advocate Dispensational theology would hold a Free Grace view A controversy over this point erupted in American evangelicalism in 1988 when John MacArthur, himself a Dispensationalist, published The Gospel according to Jesus. This book, which features enthusiastic forewords by J. I. Packer and James Montgomery Boice, strongly criticized the views of writers like Chafer and **[redacted]** on evangelism and the nature of saving faith. MacArthur argued (I think convincingly) from many New Testament passages that one cannot truly accept Christ as Savior without also accepting him as Lord or, in other words, that there can be no true saving faith without genuine repentance in the sense of a commitment to forsake sin and walk in obedience to Christ as well. He said that any other view preaches a cheap gospel that offers unconverted people false security, telling them they are saved simply because they agreed that the facts of the gospel were true or prayed a prayer, but they had no true repentance and no real change of life. MacArthur argued that **such unbiblical evangelism has never been the teaching of the church through history and that the weakened gospel** heard so often as a result of Free Grace teaching has led to a whole generation of professing Christians whose lives are no different from the surrounding culture and who are **really not saved at all**. **[redacted]** quickly responded to MacArthur with another book,
+>
+**[redacted]**. As I have argued in this chapter, it seems clear that MacArthur was right to maintain that true saving faith in New Testament terms is more than mere intellectual assent to facts; it must include a heartfelt coming to Christ in personal dependence on him for salvation, combined with a heartfelt repentance from sin. **It is misleading to brand this teaching "Lordship salvation" as if it were some new doctrine or as if there were any other kind of salvation&mdash;MacArthur is teaching what has been the historic position of Christian orthodoxy on this matter.** This position is **not salvation by works** but simply states the gospel of free grace and salvation by grace through faith in all its biblical fullness. The change of life that will **result** from genuine conversion does not save us, but it will certainly result if our faith is genuine, for **"faith by itself, if it does not have works, is dead" (James 2:17)**.
+>
+&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), Systematic Theology 2nd ed., Chapter 35: Conversion (Faith and Repentance). pp. 875-6.
+
+<a name="artificial" href="#contents" style="font-size:2.1em;">🚶📜 10. Artificial Intelligence Analysis Of My Article</a>
 
 **What is the tone of the article?**
 
@@ -329,7 +352,7 @@ Your interpretation captures key elements of Jesus' teachings on salvation, repe
 Your interpretation aligns well with these aspects of Jesus' teachings, showing a comprehensive understanding of His message regarding salvation, repentance, and the Christian life.
 
 
-<a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 10. Summary & Conclusions</a>
+<a name="conclusion" href="#contents" style="font-size:2.1em;">🚶📜 11. Summary & Conclusions</a>
 
 Unfortunately, the 80's *&ldquo;Free Grace&rdquo;* movement deviates from scripture, the academic community, and centuries of sound doctrine because of a mistaken understandings. **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one.** Because of the concerns In this article, I cannot recommend 80s *&ldquo;Free Grace&rdquo;* version of the gospel, or movement, as a legitimate option for evangelicals to accept and follow.
 
