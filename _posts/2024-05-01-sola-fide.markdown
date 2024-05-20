@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2024-05-01 02:35:00 -0500
+date: 2024-05-01 02:45:00 -0500
 categories: repent
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-- I. <a href="#justification">“Justification: salvation is by grace through faith.”</a>
+- I. <a href="#justification">“Justification: by grace through faith.”</a>
 - II. <a href="#legalism">“Legalism: working for God's favour forfeits it”</a>
 - III. <a href="#liberty">“Liberty: salvation rings freedom”</a>
 - IV. <a href="#antinomianism">“Antinomianism: we are not set free to sin”</a>

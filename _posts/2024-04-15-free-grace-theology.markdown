@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 08:10:00 -0500
+date: 2024-04-15 08:20:00 -0500
 categories: cult heretical sect
 published: false
 ---
@@ -31,7 +31,9 @@ published: false
 
 <a name="alone" href="#contents" style="font-size:2.1em;">🚶📜 1. The 80's version of the Gospel DOES NOT teach the Reformation doctrine of justification by faith alone</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone."
+The 80's *&ldquo;Free Grace&rdquo;* movement **does not teach the Reformation doctrine of justification by faith alone**, because it holds a historically unusual view that is based on a misunderstanding of *alone* in the historic Protestant insistence on "justification by faith alone." <span style="color:FireBrick">They've mysteriously removed the second part of the doctrine of faith alone</span>
+
+<!-- ⚠️ The full definition that correctly concludes, &ldquo;*... <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. -->
 
 > **We are justified by faith alone** (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span> (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
 >> Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), <span style="font-weight:bold;color:ForestGreen">but the faith that saves is never alone in the person justified</span> (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
@@ -43,8 +45,6 @@ The second half of the sentence, &ldquo;*We are justified by faith alone, **but 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge)](https://youtu.be/s9e3Y2SMXag), <span style="color:#00cc44;">Historic Protestant Position</span>.
 
 While the Reformers always took &ldquo;*faith alone*&rdquo; to mean that faith is the only thing that God responds to, historic protestant teaching has never taken &ldquo;*faith alone*&rdquo; to mean &ldquo;*faith that occurs by itself* in a person, unaccompanied by other human activities&rdquo;
-
-<!-- ⚠️ The full definition that correctly concludes, &ldquo;*... <span style="font-weight:bold;color:ForestGreen">but the faith that justifies is never alone</span>*&rdquo; was <span style="color:FireBrick">mysteriously removed by the 80s version of the gospel</span>. Faith Alone *&ldquo;resulting&rdquo;* in obedience to God and good works that *&ldquo;follow after&rdquo;* justification was taught for hundreds of years. -->
 
 [Protestant leaders throughout history have consistently defined faith alone as being only about justification and then as resulting in obedience by the transformative power of the Holy Spirit.](https://sevenshepherd.github.io/faith-alone/) I think it should be obvious, that if someone were to tamper with the reformation doctrine of "faith alone," that it would destabilize the soundness of the doctrine.
 
