@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 02:55:00 -0500
+date: 2024-05-02 03:00:00 -0500
 categories: salvation soteriology
 published: true
 ---
@@ -15,7 +15,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - I. <a href="#Reformed">Reformed (5-Point Calvinist)</a>
     - Orthodox Calvinist (Infralapsarianism)
         - **(T)** - Total Depravity (Inability)
-        - **(U <sup>Asym</sup>)** - Single Unconditional Predestination
+        - **(U <sup style="color:ForestGreen;">Asym</sup>)** - Single Unconditional Predestination
         - **(L)** - ⚠️ Limited Atonement
         - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
@@ -24,7 +24,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
         - Freedom of inclination
     - Hyper-Calvinist (Supralapsarianism)
         - **(T)** - Total Depravity (Inability)
-        - **(U <sup>Sym</sup>)** - 🚫 Double Unconditional Predestination (Sym.)
+        - **(U <sup style="color:FireBrick;">Sym</sup>)** - 🚫 Double Unconditional Predestination (Sym.)
         - **(L)** - ⚠️ Limited Atonement
         - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
@@ -34,7 +34,7 @@ Ordo salutis is a latin phrase for “The Order of Salvation” and was first co
 - II. <a href="#Amyraldism">Moderately Reformed &ldquo;Amyraldian&rdquo; (4-Point Calvinist, 3-Point Lutheran)</a>
     - Moderate Calvinist (Sublapsarianism)
         - **(T)** - Total Depravity (Inability)
-        - **(U <sup>Asym</sup>)** - Single Unconditional Election
+        - **(U <sup style="color:ForestGreen;">Asym</sup>)** - Single Unconditional Election
         - **Unlimited Atonement (Hypothetical)**
         - **(I)** - Irresistible Grace (Effectual)
             - God enables the elect Irresistibly
