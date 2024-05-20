@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "♟️ One Month To 2605 (1841 Puzzles)"
-date: 2024-05-20 01:00:00 -0500
+date: 2024-05-20 01:05:00 -0500
 categories: chess
-published: false
+published: true
 ---
 
 This is a personal blog after all and sometimes I like to talk about my hobbies, like chess or computer programming.
