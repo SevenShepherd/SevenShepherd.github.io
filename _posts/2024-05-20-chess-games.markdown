@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "♟️ One Month To 2605 (1841 Puzzles)"
-date: 2024-05-20 01:10:00 -0500
+date: 2024-05-20 01:15:00 -0500
 categories: chess
 published: true
 ---
@@ -58,7 +58,7 @@ Average & peak ratings are pulled from [chessmetrics](http://chessmetrics.com/cm
 
 # Super Grandmasters
 
-Current & peak classical [ratings](https://www.chess.com/ratings) from Chess.com. Updated May 20, 2024 at 2:15 PM.
+Current classical [ratings](https://www.chess.com/ratings) from Chess.com. Updated May 20, 2024 at 2:15 PM.
 
 |#1|[Magnus Carlsen](https://www.chess.com/players/magnus-carlsen)|2830|
 |#2|[Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)|2805|
