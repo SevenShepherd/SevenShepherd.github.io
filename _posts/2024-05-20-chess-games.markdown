@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "♟️ One Month To 2605 (1841 Puzzles)"
-date: 2024-05-20 01:20:00 -0500
+title: "♟️ One Month To 2605"
+date: 2024-05-20 01:25:00 -0500
 categories: chess
 published: true
 ---
@@ -12,11 +12,13 @@ This is a personal blog after all and sometimes I like to talk about my hobbies,
 
 It's been around 20 years or so since I've played Chess. I played for a month or so as a teen and enjoyed it. I learned how to play chess from Bobby Fischer's book &ldquo;*Bobby Fischer Teaches Chess*&rdquo; many years ago. 
 
-I decided to pick it up recently after nearly two decades, and I played about 1841 puzzles in about a month and managed to reach a puzzle rating of 2605. My rating continues to climb and I expect it to go up a few more hundred points.
+I decided to pick it up recently after nearly two decades, and I played about 1841 puzzles in about a month and managed to reach a puzzle rating of 2605. Reaching 2400 was pretty natural and instinctive, but the next 200 points took focus and time to solve. I suspect 2605 to 3000 will be a bit like scaling Mt. Everest without an oxygen tank, so I'll probably play unrated for awhile for practice.
 
 Recreational mathematics, logic puzzles, and strategy board games like <a style="color:black;" href="https://youtu.be/cDJXsPS5FPM">Chess</a>, have been shown to increase neuroplasticity. I find the whole game fascinating, and while I've never considered playing professionally, there are many inspirational figures like Fischer that make the game intriguing. 
 
-I may reveal my account and link it here after awhile so you can add me, but for now I'd like to continue working on it in my spare time.
+I may reveal my account and link it here after awhile so you can add me, but for now I'd like to continue working on it in my spare time. 
+
+<!-- I've played very few people over the board, but only my Dad and friend have wins against me when I was a teen nearly two decades ago. I think they would not be so lucky this time lol :D ... I'm sure once I start playing players on lichess I'll have plenty more losses. *c’est la vie.* -->
 
 <!-- I would showcase my wins against the Magnus (2882) bot on chess.com, but I don't know that I should count wins by memorization or theory, as the bot was prone to play into certain lines very deeply. Pure tactical skill matters more to me. -->
 
