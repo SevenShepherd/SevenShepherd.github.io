@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ Cambridge Declaration (1996)"
-date: 2024-04-27 1:15:00 -0500
+date: 2024-04-27 1:25:00 -0500
 categories: theology
-published: true
+published: false
 ---
 
 <style>
