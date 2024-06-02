@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 03:00:00 -0500
+date: 2024-05-02 03:15:00 -0500
 categories: salvation soteriology
 published: true
 ---
