@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ The Westminster Shorter Catechism (1648)"
-date: 2024-02-25 02:35:00 -0500
+date: 2024-02-25 02:45:00 -0500
 categories: creeds confessions
-published: true
+published: false
 ---
 
 <style>
