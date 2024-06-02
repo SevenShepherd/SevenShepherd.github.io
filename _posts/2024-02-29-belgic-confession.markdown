@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ Belgic Confession (1561)"
-date: 2024-02-29 01:07:00 -0500
+date: 2024-02-29 01:19:00 -0500
 categories: creeds confessions
-published: true
+published: false
 ---
 
 <style>

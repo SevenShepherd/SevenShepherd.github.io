@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ Baptist Confession Of Faith (1689) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-29 01:15:00 -0500
+date: 2024-02-29 01:25:00 -0500
 categories: creeds confessions
-published: true
+published: false
 ---
 
 <style>
