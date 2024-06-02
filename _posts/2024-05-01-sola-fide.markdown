@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2024-05-01 02:45:00 -0500
+date: 2024-05-01 02:55:00 -0500
 categories: repent
 published: true
 ---
