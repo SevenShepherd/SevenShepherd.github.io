@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 09:45:00 -0500
+date: 2024-04-15 09:55:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -102,7 +102,7 @@ The 80's version of the Gospel diminishes sound doctrine (2Tim 4:3-4 NLT) and is
 
 <a name="repent" href="#contents" style="font-size:2.1em;">🚶📜 2. Does The 80's version of the Gospel teach against Christ's repentance?</a>
 
-The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21). The result is that **some** followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and are not saved. 
+The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoiding any call to unbelievers to repent of their sins. We do not repent to merit or earn our salvation, we repent because our faith is genuine and we have not made a false profession of faith (Ac 17:30; 1Jn 2:4), we repent because our love for God is not superficial (Jn 14:15,21). The result is that **some** followers of *&ldquo;Free Grace&rdquo;* teaching have never repented of their sins, and are not saved, because the Holy Spirit works repentance in the hearts of those with genuine faith.
 
 > Now after John was arrested, Jesus came into Galilee, <span style="font-weight:bold;color:GoldenRod;">proclaiming the gospel of God</span>, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:DarkRed;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:DarkRed;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
