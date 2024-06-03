@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism. The First Phase Of The Reformation Was Amyraldian." 
-date: 2024-06-03 04:10:00 -0500
+title: "🌷 “The first phase of the Reformation was Amyraldian in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”" 
+date: 2024-06-03 04:15:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
+
+<!-- Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism. The First Phase Of The Reformation Was Amyraldian. -->
 
 St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited Atonement.&rdquo; The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
