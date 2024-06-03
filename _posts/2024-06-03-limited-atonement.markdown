@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 “The first phase of the Reformation was Amyraldian in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”" 
-date: 2024-06-03 04:15:00 -0500
+date: 2024-06-03 04:25:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -118,7 +118,7 @@ The following is a chart from the book [Unlimited Atonement: Amyraldism and Refo
 >
 &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
 
----
+--
 
 > Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
 
