@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ First Helvetic Confession (1536)"
-date: 2024-03-04 01:35:00 -0500
+date: 2024-03-04 01:45:00 -0500
 categories: creeds confessions
-published: false
+published: true
 ---
 
 <!-- https://ccel.org/ccel/anonymous/scotconf/scotconf.iv.html -->

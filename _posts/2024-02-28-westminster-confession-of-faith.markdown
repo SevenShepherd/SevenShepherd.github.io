@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ The Westminster Confession of Faith (1647) Amended For Amyraldism Side-By-Side With Original"
-date: 2024-02-28 04:20:00 -0500
+date: 2024-02-28 04:25:00 -0500
 categories: creeds confessions
-published: false
+published: true
 ---
 
 <style>

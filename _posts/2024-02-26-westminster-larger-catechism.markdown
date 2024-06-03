@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648) Amended For Unconditional Single Election Side-By-Side With Original"
-date: 2024-02-26 02:55:00 -0500
+date: 2024-02-26 03:00:00 -0500
 categories: creeds confessions
-published: false
+published: true
 ---
 
 <style>

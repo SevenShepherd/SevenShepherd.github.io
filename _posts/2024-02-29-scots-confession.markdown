@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⛪ Scots Confession (1560)"
-date: 2024-03-04 01:25:00 -0500
+date: 2024-03-04 01:30:00 -0500
 categories: creeds confessions
-published: false
+published: true
 ---
 
 <!-- https://ccel.org/ccel/anonymous/scotconf/scotconf.iv.html -->
