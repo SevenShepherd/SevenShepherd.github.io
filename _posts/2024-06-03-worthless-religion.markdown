@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "🗣️ “If you claim to be religious but don’t control your tongue, you are fooling yourself, and your religion is worthless.” ― The Apostle James"
-date: 2024-06-03 02:15:00 -0500
+date: 2024-06-03 02:25:00 -0500
 categories: tongue
 published: true
 ---
 
-If you are having a hard time locating sources of truth in Christianity, remember, [you will know them by their fruits](https://sevenshepherd.github.io/fruits/). Do not listen to a person who claims to be Christian and [pursues a lifestyle of sin](https://sevenshepherd.github.io/practicing-sin/), they are not born again, do not accept their doctrine, do not walk their path. 
+If you are having a hard time locating sources of truth in Christianity, remember, [you will know them by their fruits](https://sevenshepherd.github.io/fruits/). Do not listen to a person who claims to be Christian and [pursues a lifestyle of sin](https://sevenshepherd.github.io/practicing-sin/), they give no evidence of being born again, do not accept their doctrine, do not walk their path. 
 
 > “If you claim to be religious but don’t control your tongue, you are fooling yourself, and your religion is worthless.” ― James 1:26
 
