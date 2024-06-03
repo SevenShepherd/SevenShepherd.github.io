@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗣️ “If you claim to be religious but don’t control your tongue, you are fooling yourself, and your religion is worthless.” ― The Apostle James"
-date: 2024-06-03 02:10:00 -0500
+date: 2024-06-03 02:15:00 -0500
 categories: tongue
 published: true
 ---
@@ -11,6 +11,8 @@ If you are having a hard time locating sources of truth in Christianity, remembe
 > “If you claim to be religious but don’t control your tongue, you are fooling yourself, and your religion is worthless.” ― James 1:26
 
 Some of them will have acquired wealth and mislead you with the false prosperity gospel (Mt 8:20; Heb 13:5; 1Tim 6:9-10), but they do not realize that they are wretched, pitiful, poor, blind, and naked (Rev 3:15-17 NET). [They make God want to vomit.](https://sevenshepherd.github.io/lukewarm/)
+
+>  Thus the last will be first and the first last. &mdash; Matthew 20:16 LEB
 
 <script>
     var refTagger = {
