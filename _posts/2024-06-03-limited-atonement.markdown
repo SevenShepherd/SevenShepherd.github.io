@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
-date: 2024-06-03 03:35:00 -0500
+date: 2024-06-03 03:45:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -41,8 +41,6 @@ St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited A
 Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement. It is one of several hypothetical universalist systems. 
 
 <!-- It is an attempt to reconcile doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. -->
-
-> Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
 
 
 <!-- > 1 John 3:9 John affirmed that “no one who is born of God will continue to sin, because God’s seed remains in him; he cannot go on sinning, because he has been born of God.” <span style="font-weight:bold;"><span style="color:orangered;">This confirms</span> moderate <span style="color:orangered;">Calvinism</span>’s</span> view of eternal security for two reasons. First, anyone truly born of God cannot persist in evil. **If someone does, then he is not born of God.** That is, a Christian’s perseverance in avoiding continual, habitual sin is a proof of his salvation &mdash; Dr. Norman Geisler, Systematic Theology Vol. 3 Sin & Salvation. Ch. 11. -->
@@ -118,6 +116,10 @@ The following is a chart from the book [Unlimited Atonement: Amyraldism and Refo
 <span style="color:darkred;">Supralapsarians are hypter-Calvinists, being double-predestinarians.</span> <sup>10</sup> <span style="color:#FBB917;">Infralapsarians are strong Calvinists but are not double-predestinarians.</span> <span style="color:#3EA055;">Sublapsarians (Amyraldians) are moderate Calvinists, holding to unlimited atonement</span>. Again, <span style="color:darkblue;">Wesleyans are Arminians, insisting that election is conditional, not unconditional.</span> Wesleyans also do not believe in eternal security, <sup>11</sup> while adherents to the other views do.
 >
 &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton), Systematic Theology, Volume Three, Sin Salvation. p. 179?
+
+---
+
+> Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
 
 <a name="sproul3.4" href="#contents" style="font-size:1.6em;">3.4 As delineated by Dr. R.C. Sproul</a>
 
