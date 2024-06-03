@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🌷 Limited Atonement is not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
-date: 2024-06-03 03:05:00 -0500
+title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
+date: 2024-06-03 03:15:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
