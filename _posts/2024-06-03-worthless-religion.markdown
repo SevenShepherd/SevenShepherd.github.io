@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗣️ “If you claim to be religious but don’t control your tongue, you are fooling yourself, and your religion is worthless.” ― The Apostle James"
-date: 2024-06-03 02:05:00 -0500
+date: 2024-06-03 02:10:00 -0500
 categories: tongue
 published: true
 ---
