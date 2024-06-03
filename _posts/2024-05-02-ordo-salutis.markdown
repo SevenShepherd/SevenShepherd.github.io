@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "⚜️ Ordo Salutis & Distinctives"
-date: 2024-05-02 03:45:00 -0500
+date: 2024-05-02 03:55:00 -0500
 categories: salvation soteriology
-published: false
+published: true
 ---
 
 <img src="/assets/images/ordocomp.png" alt="Dr. Marcus J. Serven"><br><sup style="font-size:10px;color:#A8A8A8">*Image provided by <a href="https://thegenevanfoundation.com/the-order-of-salvation/" style="color:#A8A8A8">Dr. Marcus J. Serven</a></sup>

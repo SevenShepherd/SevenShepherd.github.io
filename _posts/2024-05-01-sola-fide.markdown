@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎼 Faith Is The Instrument By Which We Lay Hold Of Grace"
-date: 2024-05-01 03:00:00 -0500
+date: 2024-05-01 03:05:00 -0500
 categories: repent
-published: false
+published: true
 ---
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/jOFsFgUUdZo?si=dGD9nY-WtMAvSmrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
