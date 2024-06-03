@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⛪ The Westminster Larger Catechism (1648) Amended For Unconditional Single Election Side-By-Side With Original"
-date: 2024-02-26 03:00:00 -0500
+date: 2024-02-26 03:05:00 -0500
 categories: creeds confessions
 published: true
 ---
@@ -137,14 +137,14 @@ A12. God’s decrees are the wise, free, and holy acts of the counsel of his wil
 
 <!-- A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup></a> -->
 
-A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">passed by the rest</a> to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup>
+<span style="font-weight:bold;">A13. (Amended For Amyraldism)</span> God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath <a href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/" style="font-weight:bold;color:ForestGreen;text-decoration:underline;">passed by the rest</a> to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup>
 
 1. I Tim. 5:21
 2. Eph. 1:4-6; II Thess. 2:13-14
 3. Matt. 11:25-26; Jude 1:4; I Peter 2:8
 
 <blockquote>
-<a name="Q13" href="#contents" style="font-weight:bold;color:DimGray;">Q13. What hath God especially decreed concerning angels and men?</a><br> A13. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and foreordained</a> the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup>
+<span style="font-weight:bold;">A13. (Original Westminster Larger Catechism (1648))</span> God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory;<sup style="font-weight:bold;">1</sup> and in Christ hath chosen some men to eternal life, and the means thereof:<sup style="font-weight:bold;">2</sup> and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by <a href="https://sevenshepherd.github.io/chosen/#hyper-double" style="font-weight:bold;color:FireBrick;text-decoration:underline;">and foreordained</a> the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.<sup style="font-weight:bold;">3</sup>
 
 <br><br>
 
