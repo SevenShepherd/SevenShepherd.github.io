@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "🌷 Limited Atonement IS NOT Scriptural. All Calvinists Should Adopt Amyraldism At The Very Least" 
-date: 2024-06-03 03:00:00 -0500
+title: "🌷 Limited Atonement is not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
+date: 2024-06-03 03:05:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
 
 St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited Atonement.&rdquo; The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
-> **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Bible is the final authority.<br><br>&quot;and he himself is the atoning sacrifice for our sins, and not only for our sins but also for the whole world.&quot;<br><br>— 1 John 2:2 NET<a href="https://twitter.com/hashtag/Jesus?src=hash&amp;ref_src=twsrc%5Etfw">#Jesus</a> <a href="https://twitter.com/hashtag/God?src=hash&amp;ref_src=twsrc%5Etfw">#God</a> <a href="https://twitter.com/hashtag/Bible?src=hash&amp;ref_src=twsrc%5Etfw">#Bible</a> <a href="https://twitter.com/hashtag/Christian?src=hash&amp;ref_src=twsrc%5Etfw">#Christian</a> <a href="https://twitter.com/hashtag/Atonement?src=hash&amp;ref_src=twsrc%5Etfw">#Atonement</a> <a href="https://twitter.com/hashtag/Unlimited?src=hash&amp;ref_src=twsrc%5Etfw">#Unlimited</a> <a href="https://t.co/uJmWW3h1VJ">pic.twitter.com/uJmWW3h1VJ</a></p>&mdash; 𝕊𝕖𝕧𝕖𝕟𝕊𝕙𝕖𝕡𝕙𝕖𝕣𝕕 ♱ (@SevenShepherd) <a href="https://twitter.com/SevenShepherd/status/1708859902490202145?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
