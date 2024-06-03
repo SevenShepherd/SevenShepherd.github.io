@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
-date: 2024-06-03 03:15:00 -0500
+date: 2024-06-03 03:35:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -38,7 +38,9 @@ St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited A
 
 > **the first phase of the Reformation was Amyraldian** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. 
 
-Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement. It is one of several hypothetical universalist systems. It is an attempt to reconcile the doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists.
+Amyraldism, Amyraldianism, Moderate Calvinism, or "four-point" Calvinism is a modified form of Calvinism which rejects limited atonement and replaces it with unlimited atonement. It is one of several hypothetical universalist systems. 
+
+<!-- It is an attempt to reconcile doctrines of predestination and election with the belief in a libertarian version of free will instead of the freedom of inclination of the Calvinists. -->
 
 > Moderate Calvinists and moderate Arminians, who represent the vast majority of Christendom, have much in common against the extremes in the opposing two views. Indeed, John Wesley himself (a moderate Arminian) said he was only a “hair’s breadth from Calvin.” And as is later demonstrated in appendix 2, Calvin himself rejected some things held in later extreme Calvinism (e.g., limited atonement). &mdash; Dr. Norman Geisler (Ph.D., Philosophy, Pennsylvania; M.A., Theology, Wheaton)
 
