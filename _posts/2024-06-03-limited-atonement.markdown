@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism. The First Phase Of The Reformation Was Amyraldian." 
-date: 2024-06-03 04:00:00 -0500
+date: 2024-06-03 04:10:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
@@ -14,7 +14,6 @@ St. Augustine, Luther, Calvin, & Jonathan Edwards never held to &ldquo;Limited A
 
 1. <a href="#amyraldism">Amyraldism Is Moderate Calvinism</a>
 2. <a href="#distinctives">Distinctives of Amyraldism</a>
-    - 2.1 <a href="#altdistinctives">Alternate Distinctives</a>
 3. <a href="#decrees">The Order Of Decrees</a>
     - 3.1 <a href="#demarest3.1">As delineated by Dr. Bruce Demarest</a>
     - 3.2 <a href="#fisher3.2">As delineated by Dr. Jeff Fisher</a>
@@ -158,37 +157,6 @@ Since the only real difference between Calvinism & Moderate Calvinism is the ext
     - The God who has chosen, regenerated, justified, and sealed believers with his Spirit preserves them by his faithfulness and power to the very end. True believers persevere by virtue of the divine preservation.
 8. **Glorification**
     - God will complete the redemption of the saints when the latter behold Christ at his second advent and are transformed into his likeness.
-
-- <a name="OrdoSalutisAlt" href="#contents" style="font-size:1.6em;">4.1. Ordo Salutis Alternative</a>
-    
-    Some forms of Moderate Calvinism play with the order of regeneration. Some might argue that this makes this theology lose its status as monergistic; Geisler for instance, embraces synergism. I do not think synergism is safe, but as long as he doesn't mean that he merits his salvation by his free will, then it's not really falling under these labels. Ordo Salutis provided by Dr. Bruce Demarest.<a href="#demarest_cite"><sup>1</sup></a>
-
-    > Evangelicals in the broadly Reformed tradition insist that the whole of salvation, from eternity past to eternity future, proceeds from the grace of God, centers on Christ, and is wrought by the power of the Holy Spirit. &mdash; Dr. Bruce Demarest
-
-    The following is the Ordo Salutis for broadly reformed evangelicals. Amyraldians may have a further modified Ordo Salutis, but it should be very similar.
-
-    1. **Election**
-        - Without regard for foreseen human faith or good works, God in eternity past chose from among the lot of fallen humanity some to inherit eternal life.
-    2. **Effectual calling**
-        - The Spirit of God illumines the minds and softens the wills of the elect, thus enabling them personally to respond to the external call of the Gospel.
-    3. **Belief in the Gospel**
-        - Quickened by the Spirit, the minds of the elect are persuaded of the truths of the Gospel of God’s grace.
-    4. **Repentance**
-        - Likewise enabled by the Spirit the effectually called despise and turn away from all known sins.
-    5. **Trust in Christ**
-        - The effectually called personally commit themselves to Jesus Christ as Savior and Lord of their life.
-    6. **Regeneration**
-        - God creates in justified believers new life, defined as the radical reorientation of the dispositions and affections toward God.
-    7. **Union with Christ**
-        - The Spirit unites newly born saints with Jesus Christ in a vital, spiritual, and indissoluble union. The NT describes this experiential reality by the familiar “in Christ” motif.
-    8. **Justification**
-        - God in turn reckons believing sinners righteous in his sight and bestows upon them the gift of eternal life.
-    9. **Sanctification**
-        - By a lifelong process that involves both ups and downs the Spirit of grace gradually transforms true believers into the image of Jesus Christ.
-    10. **Preservation and perseverance**
-        - By the application of divine power, God faithfully preserves regenerate saints in faith and hope unto the attainment of eternal life.
-    11. **Glorification**
-        - God perfects the final and complete redemption of the believer—body, soul, and spirit—at the Parousia of the Lord Jesus Christ. 
 
 <a name="rejected" href="#contents" style="font-size:2.1em;">V. Rejections of Limited Atonement</a>
 
