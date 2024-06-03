@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism." 
-date: 2024-06-03 03:45:00 -0500
+title: "🌷 Limited Atonement Is Not Scriptural And 5-Point Calvinists Should Adopt Amyraldism. The First Phase Of The Reformation Was Amyraldian." 
+date: 2024-06-03 04:00:00 -0500
 categories: tulip calvinism limited atonement
 published: true
 ---
