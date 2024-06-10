@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 01:45:00 -0500
+date: 2024-06-10 01:55:00 -0500
 categories: righteousness
 published: true
 ---
@@ -61,7 +61,7 @@ If you are having a hard time locating sources of truth in Christianity, remembe
 
 <br>
 
-<span style="font-size:0.8em;">
+<span style="font-size:0.7em;">
 
 <sup style="font-weight:bold;">†</sup> [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.
 
