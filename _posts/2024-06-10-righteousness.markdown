@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 01:40:00 -0500
+date: 2024-06-10 01:45:00 -0500
 categories: righteousness
 published: true
 ---
@@ -51,9 +51,7 @@ Justification is by [faith alone](/assets/images/solas.jpg) (Rom 3:28), but a fa
 
 If you are having a hard time locating sources of truth in Christianity, remember, [you will know them by their fruits](https://sevenshepherd.github.io/fruits/). Do not listen to a person who claims to be Christian and [pursues a lifestyle of sin](https://sevenshepherd.github.io/practicing-sin/), they give no evidence of being born again, do not accept their doctrine, do not walk their path. 
 
-> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience.<sup style="font-weight:bold;">‡</sup> 
->
-> &mdash; Historic Protestant Position
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience.<sup style="font-weight:bold;">‡</sup> &mdash; <span style="color:#00cc44;">Historic Protestant Position</span>
 
 ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10 ESV), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10 ESV). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
