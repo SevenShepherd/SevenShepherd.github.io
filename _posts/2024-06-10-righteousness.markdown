@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "✝️ “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 01:10:00 -0500
-categories: tongue
+title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
+date: 2024-06-10 01:15:00 -0500
+categories: righteousness
 published: true
 ---
 
