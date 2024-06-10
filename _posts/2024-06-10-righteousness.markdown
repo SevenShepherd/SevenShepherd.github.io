@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 02:35:00 -0500
+date: 2024-06-10 02:40:00 -0500
 categories: righteousness
 published: true
 ---
@@ -55,7 +55,9 @@ If you are having a hard time locating sources of truth in Christianity, remembe
 
 ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10 ESV), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10 ESV). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
-# Artificial Intelligence Assessment
+# Artificial Intelligence Analysis
+
+<sup style="font-style:italic;">GPT-4-turbo</sup>
 
 Yes, I agree with the conclusion of the article. It effectively reconciles the seeming paradox between "none is righteous, no, not one" (Romans 3:10) and "the one who practices righteousness is righteous, just as Jesus is righteous" (1 John 3:7) by distinguishing between the contexts of merit and fruit-bearing.
 
