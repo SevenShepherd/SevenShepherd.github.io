@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 02:10:00 -0500
+date: 2024-06-10 02:15:00 -0500
 categories: righteousness
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 The paradox that *&ldquo;none is righteous, no, not one&rdquo;* (Ro 3:10), and *&ldquo;the one who practices righteousness is righteous, just as Jesus is righteous&rdquo;* (1Jn 3:7), is easily reconciled when you understand the different contexts of merit and fruit-bearing.
 
-> Little children, let no one deceive you: The one who practices righteousness<span style="color:#a8a8a8;">[a]</span> is righteous, just as Jesus<span style="color:#a8a8a8;">[b]</span> is righteous. 1 John 3:7
+> Little children, let no one deceive you: The one who practices righteousness<span style="color:#a8a8a8;">[a]</span> is righteous, just as Jesus<span style="color:#a8a8a8;">[b]</span> is righteous. &mdash; 1 John 3:7
 
  <!-- *, †, ‡, §, ‖, ¶. -->
 
@@ -24,7 +24,7 @@ On the one hand **we cannot** merit (earn) our salvation by works. Justification
 
 &ldquo;The phrase total depravity is commonly used to make explicit the implications of original sin. It signifies a corruption of our moral and spiritual nature that is total not in degree (for no-one is as bad as he or she might be) but in extent. It declares that no part of us is untouched by sin, and therefore no action of ours is as good as it should be, and consequently nothing in us or about us ever appears meritorious in God’s eyes. We cannot earn God’s favour, no matter what we do; unless grace saves us, we are lost.&rdquo;<sup style="font-weight:bold;">§</sup>
 
-> Little children, let no one deceive you: The one who practices righteousness<span style="color:#a8a8a8;">[a]</span> is righteous, just as Jesus<span style="color:#a8a8a8;">[b]</span> is righteous. 1 John 3:7 NET Full Notes Edition
+> Little children, let no one deceive you: The one who practices righteousness<span style="color:#a8a8a8;">[a]</span> is righteous, just as Jesus<span style="color:#a8a8a8;">[b]</span> is righteous. &mdash; 1 John 3:7 NET Full Notes Edition
 >
 >>a. 1 John 3:7 sn The one who practices righteousness. The participle (ὁ ποιῶν, ho poiōn) + noun constructions in 3:7 and in 3:8a, the first positive and the second negative, serve to emphasize **the contrast between the true Christians (“the one who practices righteousness”) and the opponents (“the one who practices sin,” 3:8a)**.
 >>
