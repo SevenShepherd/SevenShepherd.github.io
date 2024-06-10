@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 02:05:00 -0500
+date: 2024-06-10 02:10:00 -0500
 categories: righteousness
 published: true
 ---
@@ -61,15 +61,14 @@ If you are having a hard time locating sources of truth in Christianity, remembe
 
 <br>
 
-<span style="font-size:0.8em;">
 
-<sup style="font-weight:bold;">†</sup> [Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.
 
-<sup style="font-weight:bold;">‡</sup> [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist (infralapsarian).
+<sup style="font-weight:bold;">†</sup> <span style="font-size:0.8em;">[Chuck Smith](https://youtu.be/kP8rIIps4Sk), &ldquo;Calvinism, Arminianism, & The Word of God, A Calvary Chapel Perspective.&rdquo; Depravity. p. 10.</span>
 
-<sup style="font-weight:bold;">§</sup> Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 31. Original Sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C.S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.
+<sup style="font-weight:bold;">‡</sup> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist (infralapsarian).</span>
 
-</span>
+<sup style="font-weight:bold;">§</sup> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 31. Original Sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C.S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
+
 
 <script>
     var refTagger = {
