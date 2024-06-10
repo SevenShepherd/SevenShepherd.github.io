@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 01:05:00 -0500
+date: 2024-06-10 01:10:00 -0500
 categories: tongue
 published: true
 ---
@@ -18,7 +18,7 @@ The paradox that *&ldquo;none is righteous, no, not one&rdquo;* (Ro 3:10), and *
 
  <!-- *, †, ‡, §, ‖, ¶. -->
 
-On the one hand **we cannot** merit (earn) our salvation by works. Justification is by faith apart from works of the law (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). We are totally depraved, which means, that man can never be good enough to merit our own salvation, our works appear as dirty rags (Isaiah 64:6 NLT) in this context. It also entails the inability to even desire to do good without the regeneration of the Holy Spirit.
+On the one hand **we cannot** merit (earn) our salvation by works. Justification is by faith apart from works of the law (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28). We are totally depraved, which means, that man can never be good enough to merit his own salvation, our works appear as dirty rags (Isaiah 64:6 NLT) in this context. It also entails the inability to even desire to do good without the regeneration of the Holy Spirit.
 
 > We believe that all are sinners (Romans 3:23) and unable by human performance to earn, deserve, or merit salvation (Titus 3:5). We believe that the wages of sin is death (Romans 6:23), and that apart from God's grace, no one can be saved (Ephesians 2:8-9). We believe that none are righteous, **or capable of doing good** (Romans 3:10-12), and that **apart from the conviction and regeneration of the Holy Spirit, none can be saved** (John 1:12-13; 16:8-11; 1 Peter 1:23-25). **Mankind is clearly fallen and lost in sin.**<sup style="font-weight:bold;">†</sup>
 
