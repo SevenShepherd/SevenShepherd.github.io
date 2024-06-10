@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚸 “Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.” ― The Apostle John"
-date: 2024-06-10 02:15:00 -0500
+date: 2024-06-10 02:25:00 -0500
 categories: righteousness
 published: true
 ---
@@ -30,7 +30,7 @@ On the one hand **we cannot** merit (earn) our salvation by works. Justification
 >>
 >>b. 1 John 3:7 tn Grk “that one.” Context indicates a reference to Jesus here. As with the previous uses of ἐκεῖνος (ekeinos) by the author of 1 John (2:6; 3:3, 5), this one refers to Jesus, as the reference to “the Son of God” in the following verse (3:8) makes clear.
 
-In the second context we find that Christians can live righteously, and are expected to [*&ldquo;practice&rdquo;*](https://sevenshepherd.github.io/practicing-sin/) righteousness or they are not true born again believers (1Jn 3:10 ESV). In these examples they are not speaking of merit, they're speaking of [fruit-bearing](https://sevenshepherd.github.io/fruits/) (John 15:1-17).
+In the second context we find that Christians can live righteously, and are expected to [*&ldquo;practice&rdquo;*](https://sevenshepherd.github.io/practicing-sin/) righteousness or they are not true born again believers (1Jn 3:10 ESV). In these examples they are not speaking of merit, they're speaking of [fruit-bearing](https://sevenshepherd.github.io/fruits/) (John 15:1-17). The Holy Spirit enables Christians to practice righteousness.
 
 > <sup style="font-weight:bold;">16</sup> Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. &mdash; Matthew 5:16 KJV
 
