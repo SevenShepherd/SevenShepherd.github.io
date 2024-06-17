@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "“Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
-date: 2024-06-17 02:05:00 -0500
+title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
+date: 2024-06-17 02:10:00 -0500
 categories: theology
 published: true
 ---
