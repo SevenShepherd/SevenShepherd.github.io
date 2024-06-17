@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
-date: 2024-06-17 02:25:00 -0500
+date: 2024-06-17 02:35:00 -0500
 categories: theology
 published: true
 ---
@@ -12,7 +12,7 @@ After witnessing the failure of every man-made system, I came to the realization
 
 Pastors & shepherds (Mt 28:19-20; Mk 16:15) have been infinitely more accurate and necessary than any systematic theologian (1 Cor 1:20-21). All we need is to read the Bible and to preach what it says, not to push our man-made theologies that have time and time again destroyed and divided the body of Christ away from scripture.
 
-> <sup style="font-weight:bold">20</sup> So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. <sup style="font-weight:bold">21</sup> Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe. &emdash; 1 Cor 1:20-21
+> <sup style="font-weight:bold">20</sup> So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. <sup style="font-weight:bold">21</sup> Since God in his wisdom saw to it that the world would never know him through human wisdom, he has used our foolish preaching to save those who believe. &mdash; 1 Cor 1:20-21
 
 <!-- I recommend an accurate Bible that is closest to the original autograph, like ESV Study Bible (literal), NET Full Notes (optimal), NLT Filament (dynamic & meaning based). I then recommend The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV) and the lexicon like BDAG, the worlds most authoritative Greek lexicon to understand the meaning of the Greek words in the new testament, and HALOT to understand biblical hebrew in the old testament. -->
 
