@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:05:00 -0500
+date: 2024-06-17 01:10:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -183,7 +183,7 @@ Dispensationalists incorrectly attempt to use this verse to silence anyone who w
 >
 > &mdash; [Gill's Exposition of the Entire Bible](https://biblehub.com/commentaries/revelation/2-9.htm)
 
-As you can see, Dispensationalists warp the scriptures to attack both covenant theologians, and replacement theologians, when they should have known this was about [fruit bearing](https://sevenshepherd.github.io/fruits/). If anything, when they do this, Dispensationalists give evidence that they are the fruitless themselves. 
+As you can see, these verses are about [fruit bearing](https://sevenshepherd.github.io/fruits/). Dispensationalists warp the scriptures to attack both covenant theologians, and replacement theologians. If anything, when they do this, Dispensationalists give evidence that they are fruitless themselves. 
 
 Don't make this mistake.
 
