@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
-date: 2024-06-17 02:10:00 -0500
+date: 2024-06-17 02:25:00 -0500
 categories: theology
 published: true
 ---
@@ -33,6 +33,16 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
 ---
 
 <br>
+
+> The LORD says,<br>
+>>“I will put a curse on people<br>
+who trust in mere human beings,<br>
+who depend on mere flesh and blood for their strength,<br>
+and whose hearts have turned away from the LORD.
+>
+&mdash; Jeremiah 17:5 NET
+
+--
 
 > “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
