@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:00:00 -0500
+date: 2024-06-17 01:05:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <!-- <sup>⚠️ Under Construction. Refresh weekly for updates.</sup> -->
 
-Growing up, dispensationalism was probably one of my favorite eschatological systems. It brought me such hope and joy to look forward to a pre-tribulational rapture, but over the years, and the more I study it, the more pronounced it's flaws seem to be (Ecc 1:18). If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and Dr. D.A. Carson (Ph.D., University of Cambridge).
+Growing up, dispensationalism was probably one of my favorite eschatological systems, but over the years, and the more I study it, the more pronounced it's flaws seem to be (Ecc 1:18). If I absolutely had to change systems, I'd probably look into Historic Premillennialism, a system held by [Dr. Walter Martin (Ph.D., California Coast University)](https://youtu.be/uO0TAHKzPFw?si=qbF7x_gk18zTGVht), and [Dr. D.A. Carson (Ph.D., University of Cambridge)](https://www.youtube.com/watch?v=L87oCIFEsnE&list=PLwPFJqrolLPQ78LINw0_MXyXYu03aGspC&pp=iAQB).
 
 <!-- I'm presenting this small critique because I'm about to study eschatology from 6 different systems simultaneously. -->
 
