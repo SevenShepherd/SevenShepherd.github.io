@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🎱 Eight Concerning Things About Dispensationalism"
-date: 2024-03-17 07:35:00 -0500
+title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
+date: 2024-06-17 01:00:00 -0500
 categories: dispensationalism
-published: false
+published: true
 ---
 
 <!-- Zero Reasons Why You Should Believe Dispensationalism -->
@@ -40,9 +40,10 @@ Let's not forget that man made theologies like dispensationalism do not deserve 
 5. <a href="#ryrie">Ryrie Made Things Up</a>
 6. <a href="#contradiction">Two Second Comings Contradiction</a>
 7. <a href="#one-tree">There Is Only One Tree Not Two</a>
-8. <a href="#signs">All Signs Point To The Second Coming</a>
+8. <a href="#jews">Twisting Revelation 2:9 To Silence Christians</a>
+9. <a href="#signs">All Signs Point To The Second Coming</a>
 
-<a name="strange-fire" href="#contents" style="font-size:1.6em">🔥 1. Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s. Now That's Strange Fire.</a>
+<a name="strange-fire" href="#contents" style="font-size:1.6em">🔥 1. Dispensational Theology Was Developed From The Revelation Of A 15 Year Old Girl In The 1800s.</a>
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/Joy9pDTx88E?si=g5qoPC_QH2JKHvvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -73,7 +74,7 @@ from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21).
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-Packer is a protestant that teaches [faith alone](https://sevenshepherd.github.io/faith-instrument/), [liberty](https://sevenshepherd.github.io/fruit-bearing/#packer-on-liberty) from the law, and [against the heresy of legalism](https://sevenshepherd.github.io/fruit-bearing/#packer-on-legalism). What he's saying is what Paul is saying in Romans 3:31. It's time for those lost in dispensational antinomianism to return to scripture. The Apostle Paul, through the inspiration of God, has provided the correction.
+Packer is a protestant that teaches [faith alone](https://sevenshepherd.github.io/sola-fide/), [liberty](https://sevenshepherd.github.io/fruit-bearing/#packer-on-liberty) from the law, and [against the heresy of legalism](https://sevenshepherd.github.io/fruit-bearing/#packer-on-legalism). What he's saying is what Paul is saying in Romans 3:31. It's time for those lost in dispensational antinomianism to return to scripture. The Apostle Paul, through the inspiration of God, has provided the correction.
 
 > <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
 >
@@ -86,15 +87,15 @@ These verses prove the following three things:
 
 <a name="chafer" href="#contents" style="font-size:1.6em">🆖 4. Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
 
-[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. A new group has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware this teaching! It's not a Biblical or scholarly conclusion.
+[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. [A new group](https://sevenshepherd.github.io/free-grace-theology/) has emerged in the 80s that has diminished this 2,000 year old truth and attempted to teach that it is only assent or &ldquo;*change of mind*.&rdquo; Beware this teaching! It's not a Biblical or scholarly conclusion.
 
-> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
 &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
 
-Certain names & titles have been redacted to protect my audience from possible dangerous teachings by Chafer and the Free Grace community. You can always refer to the source yourself as I've supplied it at the end of each text. It should be stated that **I do not think that 80s &ldquo;Free Grace&rdquo; Theology is a false gospel, only an incomplete, weakened, or diminished one**. I recommend moderate forms of protestantism instead.
+Certain names & titles have been redacted to protect my audience from possible dangerous teachings by Chafer and the [80s Free Grace](https://sevenshepherd.github.io/free-grace-theology/) community. You can always refer to the source yourself as I've supplied it at the end of each text. It should be stated that **I do not think that [80s &ldquo;Free Grace&rdquo; Theology](https://sevenshepherd.github.io/free-grace-theology/) is a false gospel, only an incomplete, weakened, or diminished one**. I recommend moderate forms of protestantism instead.
 
-> **6\. The Relationship between Dispensationalism and the Free Grace Movement**
+> **6\. The Relationship between Dispensationalism and the 80s Free Grace Movement**
 >
 Historically, the initial source of the Free Grace view of the gospel was apparently not **[redacted]**, its primary advocate in the 1980s and 1990s, but Lewis Sperry Chafer, the first president of Dallas Theological Seminary, especially in his Systematic Theology, where he says, "The New Testament does not impose repentance upon the unsaved as a condition of salvation." However, Chafer's main concern was to deny that repentance had to include "sorrow and heart-anguish," so that "the way of salvation has thus been made impossible for all who do not experience the required anguish." According to Chafer, because of this mistake, people are led "to measure the validity of their salvation by the intensity of anguish which preceded or accompanied it. It is in this manner that sorrow of heart becomes a more subtle form of meritorious work, and to that extent a contradiction of grace.... To imply, as preachers have done so generally, that God must be mollified... by human agony is a desperate form of unbelief."35
 >
@@ -170,7 +171,45 @@ Just some food for thought.
 
 > And now that you belong to Christ, you are the true children of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
-<a name="signs" href="#contents" style="font-size:1.6em">🚦 8. All Signs Point To The Second Coming</a>
+<a name="jews" href="#contents" style="font-size:1.6em">✡️ 8. Dispensationalists Twist The Scriptures In Revelation To Attack Other Christians Groups</a>
+
+A common attack you might come across when speaking to a Dispensationalist is the one where they take Revelation 2:9 out of context to attack replacement theologians. I myself am not a replacement theologian or strict dispensationalist, but at the same time, I think these behaviors and interpretations by dispensationalists are in bad taste and fruitless.
+
+> “‘I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan. &mdash; Revelation 2:9 (cf. Rev 3:9).
+
+Dispensationalists incorrectly attempt to use this verse to silence anyone who would say that they are grafted in as Jews (figuratively) now that they are Christians just like the Bible teaches (Romans 11:16-24 NLT; Galatians 3:29 NLT). **What dispensationalists don't know is that this verse is about those without genuine saving faith, a faith that results in obedience to God, repentance, and good works, that follow after we're justified by faith alone.** In other words, it's talking about those with a dead faith (James 2:14-26), false professors without the Holy Spirit (Gal 5:19-23).
+
+> And I know the blasphemy of them which say they are Jews, and are not; who asserted themselves to be the true Israel of God, Jews that were so inwardly, regenerate persons, or truly Christians; for the Christians, baptized persons (m), were by the Heathens called Jews; but these were not, **they professed Christianity in words, but in works denied it; they were men of bad principles and practices, and both blasphemed the ways and doctrines of Christ** themselves, and caused them to be blasphemed by others also; they were false Christians, nominal professors, and shunned persecution for the Gospel; who were not what they would be thought to be: these were the broachers of heresies in this period of time, in which there was a multitude of them, and which chiefly respected the doctrine of the Trinity, and the person of Christ; and they were introducers of Pagan and Jewish rites into the church, and were **men of flagitious lives** and conversations, and paved the way for the man of sin: ... 
+>
+> &mdash; [Gill's Exposition of the Entire Bible](https://biblehub.com/commentaries/revelation/2-9.htm)
+
+As you can see, Dispensationalists warp the scriptures to attack both covenant theologians, and replacement theologians, when they should have known this was about [fruit bearing](https://sevenshepherd.github.io/fruits/). If anything, when they do this, Dispensationalists give evidence that they are the fruitless themselves. 
+
+Don't make this mistake.
+
+### Other Sources
+
+<!-- false Jews in this very scripture. Ouch. -->
+
+> 2:9 afflictions. Cf. v. 10 (“suffer persecution”). Includes economic hardship, verbal abuse, and marginalization, likely because they refused to participate in idolatrous trade guilds. your poverty—yet you are rich! This church is materially poor yet spiritually prosperous—the antithesis of Laodicea (3:17). Cf. 2 Cor 8:2, 9; Jas 2:5. synagogue of Satan. **Smyrna’s large, influential Jewish population persecuted Christians, possibly slandering them in Roman court, thereby aligning with Satan against God’s purposes** (cf. 3:9; John 8:44–47; Acts 13:10).
+>
+>&mdash; The [**NIV Biblical Theology Study Bible**](), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.
+
+--
+
+> REVELATION—NOTE ON 2:8–11 To Smyrna. Churches in Smyrna and Philadelphia (3:7–13) receive no rebuke from King Jesus, who encourages them as they endure persecution. Roman Smyrna (modern Izmir) was a harbor city renowned for its temple to the Mother Goddess and for its provincial imperial cult temples to Tiberius (1st century A.D.) and Hadrian (2nd century). Strabo in his Geography (14.1.37) reported early-first-century Smyrna to be a beautiful city possessing paved streets, a library, a gymnasium, and a shrine to Homer, who may have been born there. A few inscriptions point to a Jewish presence in the city. **Jewish opposition to Christians in Smyrna was alleged in the martyrdom accounts of Polycarp and of Pionius (2nd and 3rd centuries, respectively; cf. 2:9)**.
+>
+> &mdash; The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.
+
+--
+
+> 2:9 Although there will yet be great tribulation (7:14) unparalleled in world history (see Matt. 24:21), believers must expect to suffer much tribulation even in the present age (see Acts 14:22). **Christians hindered by poverty in this life can take consolation in the fact that they possess great spiritual riches in Christ (see Eph. 1:18)**. Those who say they are Jews and are not are either Jewish proselytes or **Jews who refuse to believe the scriptural proof that Jesus is the promised Messiah** (see Rom. 2:28, 29). Calling these Jews a synagogue of Satan probably indicates that **they were persecuting the believers**.
+>
+> 3:9 Those in Philadelphia who ultimately belonged to Satan, though they claimed to be Jews outwardly (see Rom. 2:28, 29), would ultimately be forced to worship before the church and to acknowledge **that Christ has loved His own** (20:4, 6).
+>
+> NKJV Thomas Nelson Study Bible translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
+
+<a name="signs" href="#contents" style="font-size:1.6em">🚦 9. All Signs Point To The Second Coming</a>
 
 All verses used to support the rapture can also be applied to a post-trib stance. Remember that even in dispensationalism, all signs and prophecies point to the second coming, none to the rapture.
 
@@ -193,7 +232,7 @@ All verses used to support the rapture can also be applied to a post-trib stance
 
 <br>
 
-> “The words of the wise are like cattle prods—**painful but helpful**. Their collected sayings are like a nail-studded stick with which <span style="font-weight:bold;color:ForestGreen;">a shepherd drives the sheep</span>.” ― Ecclesiastes 12:11
+> “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {
