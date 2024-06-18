@@ -1,10 +1,23 @@
 ---
 layout: post
 title: "🫶🏼 “If another believer sins, rebuke that person ...” (Luke),  “... it certainly is your responsibility to judge those inside the church who are sinning.” (Paul), “Look beneath the surface so you can judge correctly” (John)" 
-date: 2024-06-18 01:05:00 -0500
+date: 2024-06-18 01:10:00 -0500
 categories: theology
 published: true
 ---
+
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#Judgement-Paradox">The Judgement Paradox</a>
+2. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
+
+<br>
+
+---
+
+<br>
+
+<a name="Judgement-Paradox" href="#contents" style="font-size:2.1em;">The Judgement Paradox</a>
 
 [👉🏼 **Did Jesus really teach us not to judge? by Dr. Frank Turek (YouTube Short)**](https://youtube.com/shorts/DtVwpbNWwIo?si=haS97WkpVfXbqH1w)
 
