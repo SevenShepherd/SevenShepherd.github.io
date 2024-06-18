@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:25:00 -0500
+date: 2024-06-17 01:30:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -189,7 +189,7 @@ As you can see, these verses are about [fruit-bearing](https://sevenshepherd.git
 
 <!-- If anything, when they do this, Dispensationalists give evidence that they are fruitless themselves.  -->
 
-Don't make this mistake.
+<!-- Don't make this mistake. -->
 
 ### Other Sources
 
