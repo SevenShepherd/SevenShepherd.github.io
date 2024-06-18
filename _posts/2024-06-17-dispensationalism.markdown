@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:15:00 -0500
+date: 2024-06-17 01:20:00 -0500
 categories: dispensationalism
-published: false
+published: true
 ---
 
 <!-- Zero Reasons Why You Should Believe Dispensationalism -->
@@ -171,19 +171,23 @@ Just some food for thought.
 
 > And now that you belong to Christ, you are the true children of Abraham. You are his heirs, and God’s promise to Abraham belongs to you. &mdash; Galatians 3:29 NLT
 
-<a name="jews" href="#contents" style="font-size:1.6em">✡️ 8. Dispensationalists Twist The Scriptures In Revelation To Attack Other Christians Groups</a>
+<a name="jews" href="#contents" style="font-size:1.6em">✡️ 8. Some Dispensationalists Twist The Scriptures In Revelation To Silence Other Christian Groups</a>
 
 A common attack you might come across when speaking to a Dispensationalist is the one where they take Revelation 2:9 out of context to attack replacement theologians. I myself am not a replacement theologian or strict dispensationalist, but at the same time, I think these behaviors and interpretations by dispensationalists are in bad taste and fruitless.
 
 > “‘I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan. &mdash; Revelation 2:9 (cf. Rev 3:9).
 
-Dispensationalists incorrectly attempt to use this verse to silence anyone who would say that they are grafted in as Jews (figuratively) now that they are Christians just like the Bible teaches (Romans 11:16-24 NLT; Galatians 3:29 NLT). **What dispensationalists don't know is that this verse is about those without genuine saving faith, a faith that results in obedience to God, repentance, and good works, that follow after we're justified by faith alone.** In other words, it's talking about those with a dead faith (James 2:14-26), false professors without the Holy Spirit (Gal 5:19-23).
+Dispensationalists incorrectly attempt to use this verse to silence anyone who would say that they are grafted in as Jews (figuratively) which is what the Bible teaches (Romans 11:16-24 NLT; Galatians 3:29 NLT). **What some dispensationalists don't know is that this verse is about false professors, those without genuine saving faith (a faith that results in obedience to God, repentance, and good works, that follow after we're justified by faith alone.)** In other words, it's talking about those with a dead faith (James 2:14-26), false professors without the Holy Spirit (Gal 5:19-23). While those with a living faith are Jews (figuratively).
 
 > And I know the blasphemy of them which say they are Jews, and are not; who asserted themselves to be the true Israel of God, Jews that were so inwardly, regenerate persons, or truly Christians; for the Christians, baptized persons (m), were by the Heathens called Jews; but these were not, **they professed Christianity in words, but in works denied it; they were men of bad principles and practices, and both blasphemed the ways and doctrines of Christ** themselves, and caused them to be blasphemed by others also; they were false Christians, nominal professors, and shunned persecution for the Gospel; who were not what they would be thought to be: these were the broachers of heresies in this period of time, in which there was a multitude of them, and which chiefly respected the doctrine of the Trinity, and the person of Christ; and they were introducers of Pagan and Jewish rites into the church, and were **men of flagitious lives** and conversations, and paved the way for the man of sin: ... 
 >
 > &mdash; [Gill's Exposition of the Entire Bible](https://biblehub.com/commentaries/revelation/2-9.htm)
 
-As you can see, these verses are about [fruit bearing](https://sevenshepherd.github.io/fruits/). Dispensationalists warp the scriptures to attack both covenant theologians, and replacement theologians. If anything, when they do this, Dispensationalists give evidence that they are fruitless themselves. 
+As you can see, these verses are about [fruit-bearing](https://sevenshepherd.github.io/fruits/). Dispensationalists warp the scriptures to attack both covenant theologians, and replacement theologians. [I personally advocate for systemless textual criticism.](https://sevenshepherd.github.io/call-no-man-your-teacher/)
+
+<!-- Again I don't believe in replacement theology, but covenant theology looks perfectly reasonable and logical. -->
+
+<!-- If anything, when they do this, Dispensationalists give evidence that they are fruitless themselves.  -->
 
 Don't make this mistake.
 
