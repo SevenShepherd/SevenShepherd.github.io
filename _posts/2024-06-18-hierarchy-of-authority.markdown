@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority" 
-date: 2024-06-18 02:00:00 -0500
+date: 2024-06-18 02:05:00 -0500
 categories: order
 published: true
 ---
 
 1. <span style="font-size:1.2em;font-weight:bold;">God (1Jn 2:27)</span>
-2. <span style="font-size:1.2em;font-weight:bold;">The Holy Scriptures (Biblical Hebrew & Koine Greek)</span>
-   1. The Most Authoritative Greek Lexicons
+2. <span style="font-size:1.2em;font-weight:bold;">The Holy Scriptures</span>
+   1. The Biblical Hebrew & Koine Greek Scriptures Themselves
+   2. The Most Authoritative Greek Lexicons
+      - Compositions by hundreds of textual critics
       - BDAG - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
       - HALOT - The Hebrew and Aramaic Lexicon of the Old Testament
-      - Compositions by hundreds of textual critics
-   2. Scholarly Textual Critics & Translators
+   3. Scholarly Textual Critics & Translators
       - Without them we would not have Lexicons, dictionaries, or English Bibles.
-   3. English Bibles
+   4. English Bibles
       1. Reverse Interlinear Bibles
          - The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)
       2. Optimal Equivalent English Bibles With Full Translators’ notes
