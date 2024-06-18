@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
-date: 2024-06-17 03:05:00 -0500
+title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for us to take our heads out of the theological sand." 
+date: 2024-06-17 03:15:00 -0500
 categories: theology
 published: true
 ---
@@ -26,7 +26,7 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
     - Notes are an unparalleled treasure trove of textual criticism
     - My personal favorite (with the full notes only)
 
-**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Textual criticism is all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom.
+**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Textual criticism is all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom. Systematic Theology should be synonymous with indoctrination in this advanced day and age.
 
 <br>
 
