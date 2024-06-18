@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:10:00 -0500
+date: 2024-06-17 01:15:00 -0500
 categories: dispensationalism
-published: true
+published: false
 ---
 
 <!-- Zero Reasons Why You Should Believe Dispensationalism -->
