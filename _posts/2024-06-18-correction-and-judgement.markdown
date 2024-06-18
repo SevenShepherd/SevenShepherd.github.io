@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🫶🏼 “If another believer sins, rebuke that person ...” (Luke),  “... it certainly is your responsibility to judge those inside the church who are sinning.” (Paul), “Look beneath the surface so you can judge correctly” (John)" 
-date: 2024-06-18 01:15:00 -0500
+title: "🫶🏼 “If another believer sins, rebuke that person ...” (Luke),  “... it certainly is your responsibility to judge those inside the church who are sinning.” (Paul), “Look beneath the surface so you can judge correctly” (Jesus)" 
+date: 2024-06-18 01:20:00 -0500
 categories: theology
 published: true
 ---
