@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 02:10:00 -0500
+date: 2024-06-18 02:25:00 -0500
 categories: order
 published: true
 ---
@@ -27,7 +27,7 @@ published: true
 3. <span style="font-size:1.2em;font-weight:bold;">Pastors, Shepherds, & Elders</span>
    - Needed, they spread the Gospel and don't question the epistles, planting seeds word for word and topically (Mt 28:19-20; Mk 16:15).
    - This is where there is unity, and sound doctrine. Don't confuse sound doctrine for systematic theology, these are two different things.
-   - [They preach repentance correctly](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. **They are good Bereans**.
+   - [They preach repentance correctly](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. [**They are good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin).
 4. <span style="font-size:1.2em;font-weight:bold;">Systematic Theologians (indoctrinators)</span>
    - Not Needed, this is where you get divisions in the body of Christ and extremists.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
