@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:20:00 -0500
+date: 2024-06-17 01:25:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -211,7 +211,7 @@ Don't make this mistake.
 >
 > 3:9 Those in Philadelphia who ultimately belonged to Satan, though they claimed to be Jews outwardly (see Rom. 2:28, 29), would ultimately be forced to worship before the church and to acknowledge **that Christ has loved His own** (20:4, 6).
 >
-> NKJV Thomas Nelson Study Bible translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
+> &mdash; NKJV Thomas Nelson Study Bible translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.
 
 <a name="signs" href="#contents" style="font-size:1.6em">🚦 9. All Signs Point To The Second Coming</a>
 
