@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for you to take your heads out of the theological sand." 
-date: 2024-06-17 02:35:00 -0500
+date: 2024-06-17 03:05:00 -0500
 categories: theology
 published: true
 ---
 
-After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need scholarly textual critics to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some quacky systematic theologian to indoctrinate you, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
+After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need scholarly textual critics to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
 
 > <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9
 
@@ -26,7 +26,7 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
     - Notes are an unparalleled treasure trove of textual criticism
     - My personal favorite (with the full notes only)
 
-**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.**
+**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Textual criticism is all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom.
 
 <br>
 
