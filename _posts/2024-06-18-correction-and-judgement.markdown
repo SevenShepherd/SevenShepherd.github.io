@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "🫶🏼 “If another believer sins, rebuke that person ...” (Luke),  “... it certainly is your responsibility to judge those inside the church who are sinning.” (Paul), “Look beneath the surface so you can judge correctly” (John)" 
-date: 2024-06-18 01:10:00 -0500
+date: 2024-06-18 01:15:00 -0500
 categories: theology
 published: true
 ---
+
+![Judge](/assets/images/judge.jpg)
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -93,6 +95,10 @@ Overall, this interpretation is consistent with the biblical texts cited, promot
 --
 
 > “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
+
+--
+
+![Repent](/assets/images/repent-meme.jpg)
 
 <script>
     var refTagger = {
