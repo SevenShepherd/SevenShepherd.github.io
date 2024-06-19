@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 03:45:00 -0500
+date: 2024-06-18 04:05:00 -0500
 categories: order
 published: true
 ---
@@ -37,13 +37,14 @@ published: true
          - The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars.
       4. Dynamic Meaning Based English Bibles
          - The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars.
-- <span style="font-size:1.2em;font-weight:bold;">3️⃣ Shepherds, Overseers, & Elders</span>
-   - Shepherds & Overseers are specifically mentioned (Eph 4:11; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
+- <span style="font-size:1.2em;font-weight:bold;">3️⃣ Shepherds, Pastors, Overseers, & Elders</span>
+   - Shepherds, Pastors, Overseers are specifically mentioned (Eph 4:11; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
    - Elders are specifically mentioned (1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
    - God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
    - Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 - <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators when pushing 'isms)</span>
    - Systematic Theology, while for the most part is good-intentioned, it is man-made and error prone, and introduces flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
+   - It's extraordinarily rare to find a systematic theology that is non-sectarian, "inter-denominational, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 4 on this list. The ESV Systematic Theology Study Bible may be such a work and if so would be the most highly recommended work.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
 <!-- - You can thank systematic theology for divisions in the body of Christ, denominations, sects, in-fighting, and lately extremism, and torn families.
@@ -73,6 +74,8 @@ The conclusion of the article reflects a preference for direct engagement with S
 ---
 
 <br>
+
+> “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {
