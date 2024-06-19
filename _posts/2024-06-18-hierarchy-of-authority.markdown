@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 03:00:00 -0500
+date: 2024-06-18 03:10:00 -0500
 categories: order
 published: true
 ---
@@ -21,14 +21,14 @@ published: true
 
 - <span style="font-size:1.2em;font-weight:bold;">1️⃣ God (1Jn 2:27)</span>
 - <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
-   1. The Biblical Hebrew & Koine Greek Scriptures Themselves
-   2. The Most Authoritative Greek Lexicons
+   1. **The Biblical Hebrew & Koine Greek Scriptures Themselves**
+   2. **The Most Authoritative Greek Lexicons**
       - Compositions by hundreds of textual critics
       - BDAG - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
       - HALOT - The Hebrew and Aramaic Lexicon of the Old Testament
-   3. Scholarly Textual Critics & Translators
+   3. **Scholarly Textual Critics & Translators**
       - Without them we would not have Lexicons, dictionaries, or English Bibles.
-   4. English Bibles
+   4. **English Bibles**
       1. Reverse Interlinear Bibles
          - The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)
       2. Optimal Equivalent English Bibles With Full Translators’ notes
@@ -37,14 +37,18 @@ published: true
          - The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars.
       4. Dynamic Meaning Based English Bibles
          - The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars.
-- <span style="font-size:1.2em;font-weight:bold;">3️⃣ Pastors, Shepherds, & Elders</span>
-   - Needed, they spread the Gospel and don't question the epistles, planting seeds word for word and topically (Mt 28:19-20; Mk 16:15).
-   - This is where there is unity, and sound doctrine. Don't confuse sound doctrine for systematic theology, these are two different things.
-   - [They preach repentance correctly](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. [**They are good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin).
+- <span style="font-size:1.2em;font-weight:bold;">3️⃣ Shepherds, Overseers, & Elders</span>
+   - Shepherds & Overseers are specifically mentioned (Eph 4:11; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
+   - Elders are specifically mentioned (1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
+   - God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21). 
+   - Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 - <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators)</span>
-   - Not Needed, this is where you get divisions in the body of Christ and extremists.
+   - Systematic Theology is man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
-   - I call them indoctrinators, because if you make these people your teachers, you will come out a **cookie cutter** Calvinist, Arminian, [80s sect](https://sevenshepherd.github.io/free-grace-theology/), but never moderate, never balanced, never fully scriptural (provably).
+
+<!-- - You can thank systematic theology for divisions in the body of Christ, denominations, sects, in-fighting, and lately extremism, and torn families.
+
+- I call them indoctrinators, because if you make these people your teachers, you will come out a **cookie cutter** Calvinist, Arminian, [80s Chaferanist](https://sevenshepherd.github.io/free-grace-theology/), but never moderate, never balanced, never fully scriptural. -->
 
 <a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:2.1em;">Artificial Intelligence Analysis</a>
 
