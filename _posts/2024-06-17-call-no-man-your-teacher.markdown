@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for us to take our heads out of the theological sand." 
-date: 2024-06-17 03:15:00 -0500
+date: 2024-06-17 03:35:00 -0500
 categories: theology
 published: true
 ---
 
-After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need scholarly textual critics to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
+After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need scholarly textual critics to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you into one of the **'isms**, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
 
 > <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9
 
@@ -16,7 +16,7 @@ Pastors & shepherds (Mt 28:19-20; Mk 16:15) have been infinitely more accurate a
 
 <!-- I recommend an accurate Bible that is closest to the original autograph, like ESV Study Bible (literal), NET Full Notes (optimal), NLT Filament (dynamic & meaning based). I then recommend The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV) and the lexicon like BDAG, the worlds most authoritative Greek lexicon to understand the meaning of the Greek words in the new testament, and HALOT to understand biblical hebrew in the old testament. -->
 
-Get rid of systematic theologians and those who attempt to interpret scripture for you and replace them with textual critics and textual criticism materials.
+Get rid of systematic theologians and those who attempt to interpret scripture for you and replace them with textual critics and textual criticism materials that will bring you closest to God's word.
 - BDAG & HALOT Lexicons (word study)
     - The world's most authoritative lexicons
 - ESV Reverse Interlinear (word study)
@@ -26,7 +26,7 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
     - Notes are an unparalleled treasure trove of textual criticism
     - My personal favorite (with the full notes only)
 
-**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Textual criticism is all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom. Systematic Theology should be synonymous with indoctrination in this advanced day and age.
+**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Textual criticism is all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom. Systematic Theologies that push specific *'isms* (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) should be synonymous with indoctrination in this advanced day and age.
 
 <br>
 
