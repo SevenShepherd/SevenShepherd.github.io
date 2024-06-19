@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 03:10:00 -0500
+date: 2024-06-18 03:15:00 -0500
 categories: order
 published: true
 ---
@@ -77,7 +77,7 @@ The conclusion of the article reflects a preference for direct engagement with S
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
