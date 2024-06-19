@@ -44,7 +44,7 @@ published: true
    - Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 - <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators when pushing 'isms)</span>
    - Systematic Theology, while for the most part is good-intentioned, it is man-made and error prone, and introduces flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
-   - It's extraordinarily rare to find a systematic theology that is non-sectarian, "inter-denominational, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 4 on this list. The ESV Systematic Theology Study Bible may be such a work and if so would be the most highly recommended work.
+   - It's extraordinarily rare to find a systematic theology that is non-sectarian, "inter-denominational, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 4 on this list but would be recommended.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
 <!-- - You can thank systematic theology for divisions in the body of Christ, denominations, sects, in-fighting, and lately extremism, and torn families.
