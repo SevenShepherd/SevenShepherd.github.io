@@ -8,8 +8,8 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#Hierarchy-of-Authority">Hierarchy of Authority</a>
-2. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
+- I. <a href="#Hierarchy-of-Authority">Hierarchy of Authority</a>
+- II. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
 
 <br>
 
@@ -17,7 +17,7 @@ published: true
 
 <br>
 
-<a name="Hierarchy-of-Authority" href="#contents" style="font-size:2.1em;">🧮 Hierarchy of Authority</a>
+<a name="Hierarchy-of-Authority" href="#contents" style="font-size:2.1em;">🧮 I. Hierarchy of Authority</a>
 
 <span style="font-size:1.2em;font-weight:bold;">1️⃣ God (1Jn 2:27)</span>
 - Christ is the Chief or Great Shepherd (1Pe 5:4; Heb 13:20).
@@ -62,7 +62,7 @@ published: true
 
 - I call them indoctrinators, because if you make these people your teachers, you will come out a **cookie cutter** Calvinist, Arminian, [80s Chaferanist](https://sevenshepherd.github.io/free-grace-theology/), but never moderate, never balanced, never fully scriptural. -->
 
-<a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:2.1em;">🧮 Artificial Intelligence Analysis</a>
+<a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:2.1em;">🧮 II. Artificial Intelligence Analysis</a>
 
 <sup style="font-style:italic;">GPT-4-turbo</sup>
 
