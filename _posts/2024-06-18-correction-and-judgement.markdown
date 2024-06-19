@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🫶🏼 “If another believer sins, rebuke that person ...” (Luke),  “... it certainly is your responsibility to judge those inside the church who are sinning.” (Paul), “Look beneath the surface so you can judge correctly” (Jesus)" 
-date: 2024-06-18 01:20:00 -0500
+date: 2024-06-18 01:25:00 -0500
 categories: theology
 published: true
 ---
@@ -41,7 +41,7 @@ It is in fact our duty to maintain the purity of the church and the body of Chri
 >
 >&mdash; Luke 17:3-4 (**a.** Greek If your brother)
 
-In fact the most unloving and hateful thing you can ever do to a Christian brother or sister in Christ, is to withhold correction, when correction, rebuking, and judgement is needed to wake them up; however, **be careful that you are not confusing this healthy correction, with godless slander (Proverbs 10:18; 20:19; Psalm 101:5) or attacks on the individual**, this is an entirely different matter. We are not to hate (1 Jn 2:9-11; 3:10,14-15; 4:8,20; Jn 13:34-35), or attack.
+In fact one of the most unloving things you can ever do to a Christian brother or sister in Christ, is to withhold correction, when correction, rebuking, and judgement is needed to wake them up; however, **be careful that you are not confusing this healthy correction, with godless slander (Proverbs 10:18; 20:19; Psalm 101:5) or attacks on the individual**, this is an entirely different matter. We are not to hate (1 Jn 2:9-11; 3:10,14-15; 4:8,20; Jn 13:34-35), or attack.
 
 > 24 A servant of the Lord must not quarrel but must be kind to everyone, be able to teach, and be patient with difficult people. 25 Gently instruct those who oppose the truth. Perhaps God will change those people’s hearts, and they will learn the truth. 
 >
