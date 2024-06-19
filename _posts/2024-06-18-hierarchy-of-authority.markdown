@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 04:40:00 -0500
+date: 2024-06-18 04:45:00 -0500
 categories: order
 published: true
 ---
@@ -105,6 +105,16 @@ Ultimately, this hierarchy encourages a balance between divine guidance, scriptu
 ---
 
 <br>
+
+> And the people of Berea were more open-minded than those in Thessalonica, and they listened eagerly to Paul’s message. They searched the Scriptures day after day to see if Paul and Silas were teaching the truth. &mdash; Acts 17:11 NLT
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
+>
+>> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
+
+> but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
+
+<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
 
 > “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
