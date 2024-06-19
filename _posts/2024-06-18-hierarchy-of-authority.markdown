@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 03:35:00 -0500
+date: 2024-06-18 03:45:00 -0500
 categories: order
 published: true
 ---
@@ -42,7 +42,7 @@ published: true
    - Elders are specifically mentioned (1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
    - God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
    - Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
-- <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators)</span>
+- <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators when pushing 'isms)</span>
    - Systematic Theology, while for the most part is good-intentioned, it is man-made and error prone, and introduces flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
