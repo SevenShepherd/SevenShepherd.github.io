@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 05:00:00 -0500
+date: 2024-06-18 05:05:00 -0500
 categories: order
 published: true
 ---
@@ -19,7 +19,12 @@ published: true
 
 <a name="Hierarchy-of-Authority" href="#contents" style="font-size:2.1em;">🧮 Hierarchy of Authority</a>
 
-<span style="font-size:1.2em;font-weight:bold;">1️⃣ God (1Jn 2:27)</span><br>
+<span style="font-size:1.2em;font-weight:bold;">1️⃣ God (1Jn 2:27)</span>
+- Christ is the Chief or Great Shepherd (1Pe 5:4; Heb 13:20).
+- The Holy Spirit interprets scripture in those he indwells (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14)
+
+<!--  -->
+
 <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
 1. **The Biblical Hebrew & Koine Greek Scriptures Themselves**
 2. **The Most Authoritative Greek Lexicons**
