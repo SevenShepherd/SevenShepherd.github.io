@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 04:55:00 -0500
+date: 2024-06-18 05:00:00 -0500
 categories: order
 published: true
 ---
@@ -17,7 +17,7 @@ published: true
 
 <br>
 
-<a name="Hierarchy-of-Authority" href="#contents" style="font-size:2.1em;">Hierarchy of Authority</a>
+<a name="Hierarchy-of-Authority" href="#contents" style="font-size:2.1em;">🧮 Hierarchy of Authority</a>
 
 <span style="font-size:1.2em;font-weight:bold;">1️⃣ God (1Jn 2:27)</span><br>
 <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
@@ -57,7 +57,7 @@ published: true
 
 - I call them indoctrinators, because if you make these people your teachers, you will come out a **cookie cutter** Calvinist, Arminian, [80s Chaferanist](https://sevenshepherd.github.io/free-grace-theology/), but never moderate, never balanced, never fully scriptural. -->
 
-<a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:2.1em;">Artificial Intelligence Analysis</a>
+<a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:2.1em;">🧮 Artificial Intelligence Analysis</a>
 
 <sup style="font-style:italic;">GPT-4-turbo</sup>
 
