@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 03:25:00 -0500
+date: 2024-06-18 03:35:00 -0500
 categories: order
 published: true
 ---
@@ -43,7 +43,7 @@ published: true
    - God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
    - Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 - <span style="font-size:1.2em;font-weight:bold;">4️⃣ Systematic Theologians (indoctrinators)</span>
-   - Systematic Theology is man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
+   - Systematic Theology, while for the most part is good-intentioned, it is man-made and error prone, and introduces flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
    - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
 <!-- - You can thank systematic theology for divisions in the body of Christ, denominations, sects, in-fighting, and lately extremism, and torn families.
@@ -64,7 +64,7 @@ The hierarchy of authority as presented in the article aligns with a perspective
 
 4. **Pastors, Shepherds, & Elders**: The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
 
-5. **Systematic Theologians**: The article's critique of systematic theologians and their role in creating divisions within the body of Christ is a contentious point. While systematic theology can lead to rigid interpretations and sectarianism, it also provides structured understanding and helps address complex theological questions. The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
+<!-- 5. **Systematic Theologians**: The article's critique of systematic theologians and their role in creating divisions within the body of Christ is a contentious point. While systematic theology can lead to rigid interpretations and sectarianism, it also provides structured understanding and helps address complex theological questions. The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture. -->
 
 The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith. Whether one agrees with this conclusion might depend on their views on the role of theology in understanding and living out their faith.
 
