@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 04:45:00 -0500
+date: 2024-06-18 04:55:00 -0500
 categories: order
 published: true
 ---
@@ -81,7 +81,7 @@ The hierarchy of authority as presented in the article aligns with a perspective
    - The importance of church leaders (pastors, elders, etc.) in teaching and guiding the congregation is well-supported by the cited scriptures. These leaders are expected to adhere to sound doctrine and shepherd their flocks with love and unity, aligning with the Biblical mandate.
 
 4️⃣ **Systematic Theologians (The Indoctrinators when pushing ‘isms)**
-   - The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
+   - The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
    - The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
 
 ### Conclusion
