@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 04:25:00 -0500
+date: 2024-06-18 04:40:00 -0500
 categories: order
 published: true
 ---
@@ -63,17 +63,42 @@ published: true
 
 The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
 
-1. **God (1Jn 2:27)**: Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
+<!-- The hierarchy of authority presented in the article seems to emphasize the primacy of God's guidance and the authority of the Holy Scriptures above human interpretations and frameworks. Here's a breakdown and analysis of each point: -->
 
-2. **The Holy Scriptures**: Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
+1️⃣ **God (1 John 2:27)**
+   - Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
+   - Placing God at the highest level of authority is consistent with Christian belief that God's will and guidance are supreme. The verse cited (1 John 2:27) speaks of the anointing teaching believers, which underscores the importance of direct guidance from God through the Holy Spirit.
 
-3. **English Bibles and Translators’ Notes**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
+2️⃣ **The Holy Scriptures** Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
+   - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
+   - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
+   - **English Bibles and Study Tools**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
+   
+      The hierarchy within English translations (Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based) acknowledges the varying degrees of fidelity to the original texts and the usefulness of study tools like the NET Bible and ESV Study Bible.
 
-4. **Pastors, Shepherds, & Elders**: The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
+3️⃣ **Shepherds, Pastors, Overseers, & Elders (The Educators)**
+   - The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
+   - The importance of church leaders (pastors, elders, etc.) in teaching and guiding the congregation is well-supported by the cited scriptures. These leaders are expected to adhere to sound doctrine and shepherd their flocks with love and unity, aligning with the Biblical mandate.
 
-<!-- 5. **Systematic Theologians**: The article's critique of systematic theologians and their role in creating divisions within the body of Christ is a contentious point. While systematic theology can lead to rigid interpretations and sectarianism, it also provides structured understanding and helps address complex theological questions. The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture. -->
+4️⃣ **Systematic Theologians (The Indoctrinators when pushing ‘isms)**
+   - The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
+   - The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
 
-The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith. Whether one agrees with this conclusion might depend on their views on the role of theology in understanding and living out their faith.
+### Conclusion
+
+The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith.
+
+The hierarchy presented in the article prioritizes direct guidance from God and the authority of the original Scriptures, followed by the work of scholars and translators, and then church leaders. It places systematic theology last, warning against the potential pitfalls of rigid frameworks and sectarianism.
+
+**Agreement and Considerations**:
+- I agree with the emphasis on God's ultimate authority and the primary importance of the Scriptures in their original languages.
+- Recognizing the crucial role of scholars and textual critics in providing accurate translations is essential for a sound understanding of the Bible.
+- The role of church leaders as educators who adhere to sound doctrine is also important for the health of the church.
+- While systematic theology can be helpful for organizing and understanding theological concepts, it's important to approach it critically and be aware of its limitations and potential for division.
+
+Ultimately, this hierarchy encourages a balance between divine guidance, scriptural authority, scholarly work, and pastoral care, while urging caution in the use of systematic theology to avoid unnecessary divisions within the Christian faith.
+
+
 
 <br>
 
