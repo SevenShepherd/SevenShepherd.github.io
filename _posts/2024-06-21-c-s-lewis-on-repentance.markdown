@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "🥀 “Die before you die, there is no chance after.” ― C.S. Lewis"
-date: 2024-06-21 01:10:00 -0500
+date: 2024-06-21 01:15:00 -0500
 categories: cslewis repent repentance penitence penitent
 published: false
 ---
+
+[**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 
 > ... Now what was the sort of "hole" man had got himself into? He had tried to set up on his own, to behave as if he belonged to himself. In other words, fallen man is not simply an imperfect creature who needs improvement: he is a rebel who must lay down his arms. Laying down your arms, surrendering, saying you are sorry, realising that you have been on the wrong track and getting ready to start life over again from the ground floor—that is the only way out of a "hole." This process of surrender—this movement full speed astern—is what Christians call repentance. Now repentance is no fun at all.
 >
