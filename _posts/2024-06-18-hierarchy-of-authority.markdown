@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 06:05:00 -0500
+date: 2024-06-18 06:10:00 -0500
 categories: order
 published: true
 ---
@@ -55,6 +55,7 @@ published: true
 <!--  -->
 
 <span style="font-size:1.2em;font-weight:bold;">5️⃣ Shepherds, Pastors, Overseers, & Elders (The Educators)</span>
+- Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not have Shepherds who know the scriptures.
 - Shepherds, Pastors, Overseers are specifically mentioned (Eph 4:11; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
 - Elders are specifically mentioned (1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
 - God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
