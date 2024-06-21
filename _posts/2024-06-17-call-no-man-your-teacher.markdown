@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for us to pull our heads out of the theological sand." 
-date: 2024-06-17 04:45:00 -0500
+date: 2024-06-17 04:55:00 -0500
 categories: theology
 published: true
 ---
 
 <!-- Once you realize as I have, that every man-made system has failed, you will begin to understand that you have been lied to by charlatans posing as shepherds. -->
 
-After observing the failure of every man-made system, I realized that systematic theologians are not necessary if you understand how to study the Bible yourself. However, we do need [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/) to provide us with English translations and lexicons, as our manuscripts are in Biblical Hebrew and Koine Greek, not our native tongue. Beyond this, the Bible tells us that **we have only one teacher, Christ Jesus**. So, the next time someone sends you videos from a questionable systematic theologian attempting to indoctrinate you into one of the *'isms*, remember that theologians are not meant to interpret scripture for you—that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ.
+After observing the failure of every man-made system, I realized that systematic theologians are not necessary if you [**understand how to study the Bible yourself**](https://sevenshepherd.github.io/hierarchy-of-authority/). However, we do need [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/) to provide us with English translations and lexicons, as our manuscripts are in Biblical Hebrew and Koine Greek, not our native tongue. Beyond this, the Bible tells us that **we have only one teacher, Christ Jesus**. So, the next time someone sends you videos from a questionable systematic theologian attempting to indoctrinate you into one of the *'isms*, remember that theologians are not meant to interpret scripture for you—that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ.
 
 <!-- After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/) to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you into one of the *'isms*, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead. -->
 
