@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-05-02 03:05:00 -0500
+date: 2023-05-02 03:15:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -39,9 +39,10 @@ The lexicons, dictionaries, scholars, and pastors mentioned here, know what they
     - 3.4 <a href="#LOGOS">Faithlife Study Bible (LOGOS)</a>
     - 3.5 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
 - IV. <a href="#genius">Most Distinguished Research Professors</a>
-    - 4.1 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
-    - 4.2 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
-    - 4.3 <a href="#mounce">Dr. Mounce (Ph.D., Aberdeen)</a> 
+    - 4.1 <a href="#cslewis">C.S. Lewis (Oxford)</a>
+    - 4.2 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
+    - 4.3 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
+    - 4.4 <a href="#mounce">Dr. Mounce (Ph.D., Aberdeen)</a> 
 - V. <a href="#summary">Summary</a>
 
 <!-- - 1.3 <a href="#LSJ">Liddell and Scott (LSJ) p. 1115.</a> -->
@@ -277,13 +278,23 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 <a name="genius" href="#contents" style="font-size:2.1em;">IV. Most Distinguished Research Professors</a>
 
-<a name="grudem" href="#contents" style="font-size:1.6em;">4.1 Dr. Wayne Grudem (PhD, Cambridge)</a>
+<a name="cslewis" href="#contents" style="font-size:1.6em;">4.1 C.S. Lewis (University of Oxford)</a>
+
+> ... Now what was the sort of "hole" man had got himself into? He had tried to set up on his own, to behave as if he belonged to himself. In other words, fallen man is not simply an imperfect creature who needs improvement: he is a rebel who must lay down his arms. Laying down your arms, surrendering, saying you are sorry, realising that you have been on the wrong track and getting ready to start life over again from the ground floor—that is the only way out of a "hole." This process of surrender—this movement full speed astern—is what Christians call repentance. Now repentance is no fun at all.
+>
+> It is something much harder than merely eating humble pie. It means unlearning all the self-conceit and self-will that we have been training ourselves into for thousands of years. It means killing part of yourself, undergoing a kind of death. In fact, it needs a good man to repent. And here comes the catch. Only a bad person needs to repent: only a good person can repent perfectly. The worse you are the more you need it and the less you can do it. The only person who could do it perfectly would be a perfect person—and he would not need it.
+>
+> Remember, this repentance, this willing submission to humiliation and a kind of death, is not something God demands of you before He will take you back and which He could let you off if He chose: it is simply a description of what going back to Him is like. If you ask God to take you back without it, you are really asking Him to let you go back without going back. It cannot happen. Very well, then, we must go through with it. But the same badness which makes us need it, makes us unable to do it. Can we do it if God helps us? Yes, but what do we mean when we talk of God helping us? We mean God putting into us a bit of Himself, so to speak. He lends us a little of His reasoning powers and that is how we think: He puts a little of His love into us and that is how we love one another. When you teach a child writing, you hold its hand while it forms the letters: that is, it forms the letters because you are forming them. We love and reason because God loves and reasons and holds our hand while we do it.
+>
+> &mdash; An excerpt from “The Perfect Penitent” in Mere Christianity by C.S. Lewis (University of Oxford)
+
+<a name="grudem" href="#contents" style="font-size:1.6em;">4.2 Dr. Wayne Grudem (PhD, Cambridge)</a>
 
 [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
 > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/40QF8z5)
 
-<a name="packer" href="#contents" style="font-size:1.6em;">4.2 Dr. J. I. Packer (Ph.D., Oxford)</a>
+<a name="packer" href="#contents" style="font-size:1.6em;">4.3 Dr. J. I. Packer (Ph.D., Oxford)</a>
 
 [**Dr. J. I. Packer**](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford) Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the <a href="https://amzn.to/3WsN0Uw">English Standard Version</a> of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by C. S. Lewis, and hearing Lewis greatly affected his spiritual thinking.
 
@@ -294,7 +305,7 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 
 > The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; <a href="https://amzn.to/3JOaVKp">Dr. J. I. Packer (Ph.D., Oxford), Concise Theology, 60. Repentance.</a>
 
-<a name="mounce" href="#contents" style="font-size:1.6em;">4.3 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
+<a name="mounce" href="#contents" style="font-size:1.6em;">4.4 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
 > **Gloss**:<br>to repent, to change any or all of the elements composing one's life: attitude, thoughts, and **behaviors concerning the demands of God for right living**
 >
