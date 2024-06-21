@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for us to pull our heads out of the theological sand." 
-date: 2024-06-17 04:05:00 -0500
+date: 2024-06-17 04:10:00 -0500
 categories: theology
 published: true
 ---
@@ -16,7 +16,7 @@ Pastors & shepherds (Mt 28:19-20; Mk 16:15) have been infinitely more accurate a
 
 <!-- I recommend an accurate Bible that is closest to the original autograph, like ESV Study Bible (literal), NET Full Notes (optimal), NLT Filament (dynamic & meaning based). I then recommend The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV) and the lexicon like BDAG, the worlds most authoritative Greek lexicon to understand the meaning of the Greek words in the new testament, and HALOT to understand biblical hebrew in the old testament. -->
 
-Get rid of systematic theologians and those who attempt to interpret scripture for you and replace them with textual critics and textual criticism materials that will bring you closest to God's word.
+Get rid of systematic theologians and those who attempt to interpret scripture for you and replace them with [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/) & textual critics, and their materials which will bring you closest to God's word.
 - BDAG & HALOT Lexicons (word study)
     - The world's most authoritative lexicons
 - ESV Reverse Interlinear (word study)
