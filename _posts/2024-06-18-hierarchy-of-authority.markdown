@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 07:10:00 -0500
+date: 2024-06-18 07:15:00 -0500
 categories: order
 published: true
 ---
@@ -56,7 +56,7 @@ published: true
 
 <!--  -->
 
-<span style="font-size:1.2em;font-weight:bold;">5️⃣ Evangelists, Shepherds, Pastors, Overseers, & Elders (The Educators)</span>
+<span style="font-size:1.2em;font-weight:bold;">5️⃣ Evangelists, Shepherds, Pastors, Overseers, & Elders (The Educators of God's Word)</span>
 
 - Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not have Shepherds who know the scriptures, or Evangelists who spread the Gospel.
 - **Evangelists (euangelistas)**: Evangelists are those who have a specific calling to proclaim the gospel, often focusing on spreading the message of Christ to those who have not heard it before or to new regions. They might be involved in missionary work or outreach activities. (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15; Romans 10:14-15.)
@@ -71,10 +71,10 @@ published: true
 
 <!--  -->
 
-<span style="font-size:1.2em;font-weight:bold;">6️⃣ Systematic Theologians (The Indoctrinators when pushing 'isms)</span>
+<span style="font-size:1.2em;font-weight:bold;">6️⃣ Systematic Theologians (The Indoctrinators of Man-Made Systems)</span>
 - Sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
 - Systematic Theology, while for the most part good-intentioned, it is man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
-- It's extraordinarily rare to find a systematic theology that is non-sectarian, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be recommended.
+- It's extraordinarily rare to find a systematic theology that is non-sectarian, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
 - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
 <!-- - You can thank systematic theology for divisions in the body of Christ, denominations, sects, in-fighting, and lately extremism, and torn families.
