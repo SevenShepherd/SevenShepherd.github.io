@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 06:15:00 -0500
+date: 2024-06-18 06:35:00 -0500
 categories: order
 published: true
 ---
@@ -32,7 +32,9 @@ published: true
 - **The Biblical Hebrew & Koine Greek Scriptures Themselves**
    1. [**The Critical Text**](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) is the Greek text that scholars have compiled as closest to the original autograph (manuscripts). This is **highly recommended**.
    2. The Majority Text
-   3. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
+   3. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. 
+      - The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. 
+      - Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
       - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually Majority text by methodology.
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation.
 
