@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 07:25:00 -0500
+date: 2024-06-18 07:35:00 -0500
 categories: order
 published: true
 ---
@@ -73,7 +73,7 @@ published: true
 
 <span style="font-size:1.2em;font-weight:bold;">6️⃣ Systematic Theologians (The Indoctrinators of Man-Made Systems)</span>
 - Sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
-- Systematic Theology, while for the most part good-intentioned, it is man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
+- Systematic Theology, while for the most part good-intentioned, **is** man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
 - It's extraordinarily rare to find a systematic theology that is non-sectarian, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
 - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
 
