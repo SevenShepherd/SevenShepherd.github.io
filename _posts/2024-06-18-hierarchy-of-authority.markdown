@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 06:10:00 -0500
+date: 2024-06-18 06:15:00 -0500
 categories: order
 published: true
 ---
@@ -86,15 +86,15 @@ The hierarchy of authority as presented in the article aligns with a perspective
 
 2. **The Holy Scriptures**: It emphasizes the authority of the original biblical texts in Hebrew and Greek and recommends the Critical Text over the Textus Receptus due to its closer approximation to the original manuscripts.
    - Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
+
+3. **Lexicons and Scholarly Resources**: The article places high importance on authoritative lexicons like BDAG and HALOT for accurate interpretation of biblical languages.
    - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
    - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
+
+4. **English Bible Translations**: It ranks various English translations based on their adherence to the original texts and the quality of the scholarship behind them, with a preference for translations with extensive notes and scholarly input.
    - **English Bibles and Study Tools**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
    
       The hierarchy within English translations (Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based) acknowledges the varying degrees of fidelity to the original texts and the usefulness of study tools like the NET Bible and ESV Study Bible.
-
-3. **Lexicons and Scholarly Resources**: The article places high importance on authoritative lexicons like BDAG and HALOT for accurate interpretation of biblical languages.
-
-4. **English Bible Translations**: It ranks various English translations based on their adherence to the original texts and the quality of the scholarship behind them, with a preference for translations with extensive notes and scholarly input.
 
 5. **Shepherds, Pastors, Overseers, & Elders**: These roles are recognized as important for teaching and guiding within the church, but they are placed lower in the hierarchy than the Scriptures and authoritative scholarly resources.
    - The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
