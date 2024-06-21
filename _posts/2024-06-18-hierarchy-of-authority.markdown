@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 05:25:00 -0500
+date: 2024-06-18 05:30:00 -0500
 categories: order
 published: true
 ---
@@ -23,13 +23,17 @@ published: true
 - Christ is the Chief or Great Shepherd (1Pe 5:4; Heb 13:20).
 - The Holy Spirit interprets scripture in those he indwells (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14)
 
-<!--  -->
+<!-- 
+- *&ldquo;... **the NT has about 5,600 extant copies in Greek alone**, ... **10,000 in latin**, **several thousand copies** ... **several hundred thousand** patristic **quotations** ...&rdquo;* &mdash; Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary) paraphrased.
+- *&ldquo; If you could stack up all handwritten manuscripts of the New Testament—Greek, Syriac, Latin, Coptic, all languages—how tall would the stack be? ... I have said in many lectures that it would be the **equivalent of c. 4 & 1/2 Empire State Buildings stacked on top of each other**.&rdquo;* &mdash; [Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies (Ph.D., Dallas Theological Seminary)](https://danielbwallace.com/tag/number-of-new-testament-manuscripts/) 
+-->
 
 <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
 - **The Biblical Hebrew & Koine Greek Scriptures Themselves**
    1. [**The Critical Text**](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) is the Greek text that scholars have compiled as closest to the original autograph (manuscripts). This is **highly recommended**.
-   2. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
-      - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually a Majority text bible by methodology.
+   2. The Majority Text
+   3. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
+      - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually Majority text by methodology.
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation.
 
 <span style="font-size:1.2em;font-weight:bold;">3️⃣ The Most Authoritative Lexicons</span>
