@@ -28,7 +28,7 @@ published: true
 <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
 - **The Biblical Hebrew & Koine Greek Scriptures Themselves**
    1. [**The Critical Text**](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) is the Greek text that scholars have compiled as closest to the original autograph (manuscripts). This is **highly recommended**.
-   2. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’.
+   2. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus who was raised Calvinist. The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
       - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually a Majority text bible by methodology.
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation.
 
