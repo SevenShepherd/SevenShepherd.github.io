@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🥀 “Die before you die, there is no chance after.” ― C.S. Lewis"
-date: 2024-06-21 01:15:00 -0500
+date: 2024-06-21 01:25:00 -0500
 categories: cslewis repent repentance penitence penitent
-published: false
+published: true
 ---
 
 [**The True Meaning Of Repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
