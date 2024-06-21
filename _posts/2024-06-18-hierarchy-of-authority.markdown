@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 05:35:00 -0500
+date: 2024-06-18 05:45:00 -0500
 categories: order
 published: true
 ---
@@ -87,9 +87,8 @@ The article you referenced presents a detailed hierarchy of authority, with an e
 
 5. **Shepherds, Pastors, Overseers, & Elders**: These roles are recognized as important for teaching and guiding within the church, but they are placed lower in the hierarchy than the Scriptures and authoritative scholarly resources.
 
-6. **Systematic Theologians**: The article is critical of systematic theologians, describing them as "indoctrinators" responsible for creating divisions within Christianity through various theological 'isms.'
-   - The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
-   - The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
+6. **Systematic Theologians**: The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
+   - The caution against becoming overly indoctrinated by any single theological system **is wise**, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
 
 **Conclusion**: The article prioritizes direct engagement with the Scriptures and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over the interpretations and frameworks provided by systematic theology. It suggests that systematic theology can introduce rigid and potentially divisive interpretations, whereas a direct focus on the Scriptures can lead to a purer understanding of Christian teachings.
    - The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith.
