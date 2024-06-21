@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "🥀 “Die before you die, there is no chance after.” ― C.S. Lewis"
-date: 2024-02-21 01:00:00 -0500
-categories: cslewis repent repentance
+date: 2024-06-21 01:10:00 -0500
+categories: cslewis repent repentance penitence penitent
 published: false
 ---
 
