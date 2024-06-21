@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “Don’t let anyone call you teacher for you have only one teacher Jesus Christ, and all of you are equal as brothers” It's time for us to pull our heads out of the theological sand." 
-date: 2024-06-17 04:00:00 -0500
+date: 2024-06-17 04:05:00 -0500
 categories: theology
 published: true
 ---
 
-After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need  biblical language scholars to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you into one of the *'isms*, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
+After witnessing the failure of every man-made system, I came to the realization that you don't actually need systematic theologians to hold your hand if you understand how to study; however, we do need  [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/) to give us english Bibles and lexicons because our manuscripts are not in our native tongue (i.e. Biblical Hebrew, Koine Greek), but other than this the Bible tells us **we only have one teacher, and that is Christ Jesus**. So the next time someone sends you videos from some dubious systematic theologian to indoctrinate you into one of the *'isms*, remember, theologians **are not** meant to interpret scripture for you, that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Open up your Bible instead.
 
 > <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9
 
