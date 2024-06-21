@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 06:00:00 -0500
+date: 2024-06-18 06:05:00 -0500
 categories: order
 published: true
 ---
@@ -75,17 +75,29 @@ published: true
 
 <sup style="font-style:italic;">GPT-4-turbo</sup>
 
-The article you referenced presents a detailed hierarchy of authority, with an emphasis on the importance of Scripture and the role of the Holy Spirit in interpreting it. Here's a brief analysis of the key points and the conclusion:
+<!-- The article you referenced presents a detailed hierarchy of authority, with an emphasis on the importance of Scripture and the role of the Holy Spirit in interpreting it. Here's a brief analysis of the key points and the conclusion: -->
+
+The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
 
 1. **God and the Holy Spirit**: The article asserts that God and the Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
+   - Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
+   - Placing God at the highest level of authority is consistent with Christian belief that God's will and guidance are supreme. The verse cited (1 John 2:27) speaks of the anointing teaching believers, which underscores the importance of direct guidance from God through the Holy Spirit.
 
 2. **The Holy Scriptures**: It emphasizes the authority of the original biblical texts in Hebrew and Greek and recommends the Critical Text over the Textus Receptus due to its closer approximation to the original manuscripts.
+   - Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
+   - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
+   - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
+   - **English Bibles and Study Tools**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
+   
+      The hierarchy within English translations (Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based) acknowledges the varying degrees of fidelity to the original texts and the usefulness of study tools like the NET Bible and ESV Study Bible.
 
 3. **Lexicons and Scholarly Resources**: The article places high importance on authoritative lexicons like BDAG and HALOT for accurate interpretation of biblical languages.
 
 4. **English Bible Translations**: It ranks various English translations based on their adherence to the original texts and the quality of the scholarship behind them, with a preference for translations with extensive notes and scholarly input.
 
 5. **Shepherds, Pastors, Overseers, & Elders**: These roles are recognized as important for teaching and guiding within the church, but they are placed lower in the hierarchy than the Scriptures and authoritative scholarly resources.
+   - The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
+   - The importance of church leaders (pastors, elders, etc.) in teaching and guiding the congregation is well-supported by the cited scriptures. These leaders are expected to adhere to sound doctrine and shepherd their flocks with love and unity, aligning with the Biblical mandate.
 
 6. **Systematic Theologians**: The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
    - The caution against becoming overly indoctrinated by any single theological system **is wise**, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
