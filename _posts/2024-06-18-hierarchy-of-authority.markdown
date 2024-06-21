@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 06:35:00 -0500
+date: 2024-06-18 06:45:00 -0500
 categories: order
 published: true
 ---
@@ -56,16 +56,21 @@ published: true
 
 <!--  -->
 
-<span style="font-size:1.2em;font-weight:bold;">5️⃣ Shepherds, Pastors, Overseers, & Elders (The Educators)</span>
-- Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not have Shepherds who know the scriptures.
-- Shepherds, Pastors, Overseers are specifically mentioned (Eph 4:11; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
-- Elders are specifically mentioned (1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
-- God-made sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
-- Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
+<span style="font-size:1.2em;font-weight:bold;">5️⃣ Evangelists, Shepherds, Pastors, Overseers, & Elders (Evangelists & Educators)</span>
+
+- Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not have Shepherds who know the scriptures, or Evangelists who spread the Gospel.
+- **Evangelists**: Evangelists are those who have a specific calling to proclaim the gospel, often focusing on spreading the message of Christ to those who have not heard it before or to new regions. They might be involved in missionary work or outreach activities. (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15; Romans 10:14-15.)
+- **Shepherds & Pastors (poimenes)**: The term "pastor" comes from the Latin word for "shepherd" and typically refers to those who provide spiritual care and leadership within a congregation. Pastors are often seen as the primary leaders of local churches, focusing on teaching, preaching, and pastoral care. (cf. Eph 4:11; Titus 1:9; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
+- **Elders (presbyteroi) & Overseers (episkopoi)**: Elders, while also responsible for teaching and shepherding, are typically part of a plural leadership structure within the church. In many traditions, multiple elders share the responsibility of overseeing the congregation, providing a balanced and accountable leadership model. (cf. 1Tim 4:14;5:17,19; Titus 1:5,7-9; 1Pe 5:1-2; James 5:14; Ac 14:23; 15:6)
+   - 1 Timothy 3:1-7 and Titus 1:5-9: These passages provide qualifications for elders, emphasizing their moral character, ability to teach, and manage their households well. Elders must be above reproach, hospitable, not given to drunkenness, and able to exhort and refute those who contradict sound doctrine.
+   - 1 Peter 5:1-4: Peter exhorts the elders to shepherd the flock of God willingly and eagerly, serving as examples to the believers. This passage highlights the pastoral aspect of the elder's role.
+   - Acts 20:17-38: Paul addresses the elders of the church in Ephesus, reminding them to guard the flock and warning them about false teachers. This reinforces the idea that elders have a protective and doctrinal role in the church.
+- Love, Unity, the Gospel message (Mt 28:19-20; Mk 16:15; Romans 10:14-15), and [sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 
 <!--  -->
 
 <span style="font-size:1.2em;font-weight:bold;">6️⃣ Systematic Theologians (The Indoctrinators when pushing 'isms)</span>
+- Sound doctrine is the prescribed baseline you need (1Tim 4:1), not the man-made wisdom of Systematic Theology (1Cor 1:20-21 NLT). 
 - Systematic Theology, while for the most part good-intentioned, it is man-made and error prone, introducing flawed frameworks, rigid interpretations, and sectarianism. They're single-handedly responsible for all the *'isms* in Christianity (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) and most divisions in the body of Christ.
 - It's extraordinarily rare to find a systematic theology that is non-sectarian, and which does not push the *'isms* described above. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be recommended.
 - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
