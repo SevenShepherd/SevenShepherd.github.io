@@ -6,18 +6,6 @@ permalink: /about/
 
 Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom programmed raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below.
 
-> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
->
->> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
-
-The Bible tells us to test all things.
-
-> but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
-
-<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
-
-<!-- <span style="font-size:1.2em;">Overview</span> -->
-
 <span style="font-size:1.2em;">Overview</span>
 
 1. Basic Protestant ([five solas](/assets/images/solas.jpg))
@@ -47,11 +35,23 @@ See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bol
 - [A Detailed Look At The Three Heavens](https://bit.ly/3G1d8Al)
 - [Litmus Test Quick Reference](https://bit.ly/3MLXqfW)
 
-<!-- <br>
+<br>
 
 ---
 
-<br> -->
+<br>
+
+> And the people of Berea were more open-minded than those in Thessalonica, and they listened eagerly to Paul’s message. They searched the Scriptures day after day to see if Paul and Silas were teaching the truth. &mdash; Acts 17:11 NLT
+
+> Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET Full Notes
+>
+>> sn Accurately is a figure of speech that literally means something like “cutting a straight road.” In regard to the message of truth, it means “correctly handling” or “imparting it without deviation.”
+
+> but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
+
+<!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
+
+> “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
 
 
