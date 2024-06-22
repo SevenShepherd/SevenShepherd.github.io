@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 08:25:00 -0500
+date: 2024-06-18 08:30:00 -0500
 categories: order
 published: true
 ---
@@ -38,7 +38,7 @@ published: true
       - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually Majority text by methodology.
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation, the very place the bible warns not to get wrong! **Not Recommended**
 
-<span style="font-size:1.2em;font-weight:bold;">3️⃣ The Most Authoritative Lexicons</span>
+<span style="font-size:1.2em;font-weight:bold;">3️⃣ The World's Most Authoritative Lexicons</span>
 - These are composed of the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic.
 - **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 - **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
