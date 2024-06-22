@@ -18,9 +18,19 @@ The Bible tells us to test all things.
 
 <!-- <span style="font-size:1.2em;">Overview</span> -->
 
-## Overview & Recommended Articles
+<span style="font-size:1.2em;">Overview</span>
 
-I am a theologically conservative protestant, holding to the [five solas](/assets/images/solas.jpg), with moderate distinctives. I was raised around the [Nazarenes (Wesleyan-Arminian)](https://sevenshepherd.github.io/ordo-salutis-arminian/) on my Grandfathers side, Baptists on my Grandmothers, the [Calvary Chapel (Moderate)](https://sevenshepherd.github.io/calvary-chapel/) by my Parents, and [Reformed Baptists (Calvinist)](https://sevenshepherd.github.io/ordo-salutis-calvinist/) by my life-long friend. After a lifetime in Christianity, and years of recent research, I find myself to be [completely moderate](https://sevenshepherd.github.io/theology/), but loving to all those who hold to [essential doctrine](https://bit.ly/3XJY5AB). I will also peacefully and kindly debate those who are lost in the cults without any animosity.
+1. Basic Protestant ([five solas](/assets/images/solas.jpg))
+2. Theologically Conservative
+3. Moderate Distinctives (systemless)
+4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
+5. Eschatological Premillennialist
+6. Soft-cessationist
+7. Recommendations
+    - BDAG / HALOT
+    - NET Full Notes
+    - ESV Study Bible
+    - NLT Filament
 
 See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
 
