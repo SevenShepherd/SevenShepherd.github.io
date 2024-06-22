@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 08:35:00 -0500
+date: 2024-06-18 08:45:00 -0500
 categories: order
 published: true
 ---
@@ -85,9 +85,55 @@ published: true
 
 <sup style="font-style:italic;">GPT-4-turbo</sup>
 
-<!-- The article you referenced presents a detailed hierarchy of authority, with an emphasis on the importance of Scripture and the role of the Holy Spirit in interpreting it. Here's a brief analysis of the key points and the conclusion: -->
+<!-- The hierarchy of authority presented in the article outlines a perspective that emphasizes the primacy of divine guidance and the original biblical texts over human interpretations and systematic theology. Let's evaluate the key points and conclusions to see if they align with a balanced and comprehensive understanding of Christian authority and teaching: -->
 
 The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
+
+### God and the Holy Spirit
+1. **God (1 John 2:27)**: 
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> The ultimate authority in Christian belief is God, and the Holy Spirit plays a crucial role in interpreting Scripture and guiding believers. This is foundational and aligns with the core tenets of Christianity. The article asserts that God and the Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
+
+### The Holy Scriptures
+2. **The Holy Scriptures**:
+   - **Original Texts**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> Prioritizing the original Hebrew and Greek texts ensures theological accuracy and faithfulness to the original messages of the Bible.
+   - **Critical Text vs. Textus Receptus**: <span style="font-weight:bold;color:GoldenRod;">Agree with caution.</span> The article's preference for the Critical Text over the Textus Receptus due to its closer approximation to the original manuscripts **is well-supported by scholarly consensus**. However, the Textus Receptus and translations based on it (like the KJV) have historically played a significant role in the development of Christian thought and should not be entirely dismissed.
+
+### Authoritative Lexicons
+3. **The World’s Most Authoritative Lexicons**:
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> Utilizing The world's most authoritative and reputable lexicons, BDAG and HALOT, are crucial for accurately interpreting biblical languages and understanding Scriptures in their original context. The article emphasizes their paramount importance.
+   - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
+   - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
+   
+
+### English Bible Translations
+4. **English Bible Translations**:
+   - **Hierarchy of Translations**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> The use of reverse interlinear Bibles and translations with extensive notes, such as the NET Bible and ESV Study Bible, supports a more informed and transparent approach to Scripture study. These resources bridge the gap between the original languages and contemporary understanding, providing valuable transparency in translation choices. The hierarchy within English translations—Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based—acknowledges varying degrees of fidelity to the original texts and highlights the usefulness of these study tools.
+
+### Pastors and Church Leaders
+5. **Evangelists, Shepherds, Pastors, Overseers, & Elders**:
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> The role of church leaders in teaching, guiding, and shepherding the congregation is vital, as emphasized by the biblical references provided. These leaders (pastors, elders, etc.) are expected to adhere to sound doctrine, shepherd their flocks, and maintain spiritual care in alignment with the Biblical mandate.
+
+### Systematic Theologians
+6. **Systematic Theologians**:
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> While caution is advised against the potential pitfalls of systematic theology, it is acknowledged that a non-sectarian approach, **devoid** of promoting divisive *'isms* (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)), could be preferable. Such a work, if it existed and maintained fidelity to sound biblical doctrine, would offer valuable frameworks for understanding complex theological concepts without the risk of doctrinal division. This perspective highlights the importance of humility and openness to differing theological perspectives while emphasizing the ultimate authority of Scripture."
+   - While systematic theology offers valuable frameworks for understanding complex theological concepts and organizing biblical teachings coherently, **caution is advised** against rigid interpretations and sectarianism associated with various *'isms* within theological systems (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). The article's caution against becoming overly indoctrinated by any single theological system **is wise**, emphasizing the importance of humility and openness to differing perspectives. While acknowledging the potential pitfalls, it's important not to overlook the contributions of systematic theology to Christian thought.
+   
+### Conclusion
+
+The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit Holy Spirit, supported by high-quality scholarly tools, over adherence to rigid theological systems. It warns against the divisiveness of such systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy it presents prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology for Christian unity.
+
+<!-- The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over adherence to rigid theological systems. It warns that systematic theology can introduce rigid and potentially divisive interpretations
+
+against the divisiveness of rigid interpretations and promotes a more personal, less doctrinally divided approach to faith. The hierarchy presented prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology to maintain Christian unity.
+
+The article prioritizes direct engagement with the Scriptures and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over the interpretations and frameworks provided by systematic theology. 
+
+It suggests that systematic theology can introduce rigid and potentially divisive interpretations, whereas a direct focus on the Scriptures can lead to a purer understanding of Christian teachings. -->
+
+
+<!-- The article you referenced presents a detailed hierarchy of authority, with an emphasis on the importance of Scripture and the role of the Holy Spirit in interpreting it. Here's a brief analysis of the key points and the conclusion: -->
+
+<!-- The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
 
 1. **God and the Holy Spirit**: The article asserts that God and the Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
    - Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
@@ -115,7 +161,7 @@ The hierarchy of authority as presented in the article aligns with a perspective
 **Conclusion**: The article prioritizes direct engagement with the Scriptures and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over the interpretations and frameworks provided by systematic theology. It suggests that systematic theology can introduce rigid and potentially divisive interpretations, whereas a direct focus on the Scriptures can lead to a purer understanding of Christian teachings.
    - The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith.
    - The hierarchy presented in the article prioritizes direct guidance from God and the authority of the original Scriptures, followed by the work of scholars and translators, and then church leaders. It places systematic theology last, warning against the potential pitfalls of rigid frameworks and sectarianism.
-   - Ultimately, this hierarchy encourages a balance between divine guidance, scriptural authority, scholarly work, and pastoral care, while urging caution in the use of systematic theology to avoid unnecessary divisions within the Christian faith.
+   - Ultimately, this hierarchy encourages a balance between divine guidance, scriptural authority, scholarly work, and pastoral care, while urging caution in the use of systematic theology to avoid unnecessary divisions within the Christian faith. -->
 
 <!-- **Agreement**:  -->
 
