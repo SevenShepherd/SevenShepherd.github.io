@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 09:00:00 -0500
+date: 2024-06-18 09:05:00 -0500
 categories: order
 published: true
 ---
@@ -71,7 +71,7 @@ published: true
 
 <!--  -->
 
-<span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (The Indoctrinators of Man-Made Systems)</span>
+<span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
 - If a non-sectarian, inter-denominational, and  soteriologically & Eschatologically agnostic systematic theology were created, that didn't indoctrinate believers into one of the aforementioned *'isms* described above. I would hold it in high regard. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
 - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
