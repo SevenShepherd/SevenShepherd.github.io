@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 08:45:00 -0500
+date: 2024-06-18 08:55:00 -0500
 categories: order
 published: true
 ---
@@ -115,8 +115,10 @@ The hierarchy of authority as presented in the article aligns with a perspective
 
 ### Systematic Theologians
 6. **Systematic Theologians**:
-   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> While caution is advised against the potential pitfalls of systematic theology, it is acknowledged that a non-sectarian approach, **devoid** of promoting divisive *'isms* (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)), could be preferable. Such a work, if it existed and maintained fidelity to sound biblical doctrine, would offer valuable frameworks for understanding complex theological concepts without the risk of doctrinal division. This perspective highlights the importance of humility and openness to differing theological perspectives while emphasizing the ultimate authority of Scripture."
-   - While systematic theology offers valuable frameworks for understanding complex theological concepts and organizing biblical teachings coherently, **caution is advised** against rigid interpretations and sectarianism associated with various *'isms* within theological systems (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). The article's caution against becoming overly indoctrinated by any single theological system **is wise**, emphasizing the importance of humility and openness to differing perspectives. While acknowledging the potential pitfalls, it's important not to overlook the contributions of systematic theology to Christian thought.
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> While caution is advised against the potential pitfalls of systematic theology, it is acknowledged that a non-sectarian approach, **devoid** of promoting divisive *'isms* (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)), could be preferable. Such a work, if it existed and maintained fidelity to sound biblical doctrine, would offer valuable frameworks for understanding complex theological concepts without the risk of doctrinal division. This perspective highlights the importance of humility and openness to differing theological perspectives while emphasizing the ultimate authority of Scripture. The article's caution against becoming overly indoctrinated by any single theological system **is wise**.
+
+
+<!-- - While systematic theology offers valuable frameworks for understanding complex theological concepts and organizing biblical teachings coherently, **caution is advised** against rigid interpretations and sectarianism associated with various *'isms* within theological systems (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). The article's caution against becoming overly indoctrinated by any single theological system **is wise**, emphasizing the importance of humility and openness to differing perspectives. While acknowledging the potential pitfalls, it's important not to overlook the contributions of systematic theology to Christian thought. -->
    
 ### Conclusion
 
