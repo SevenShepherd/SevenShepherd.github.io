@@ -27,6 +27,7 @@ See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bol
 <!-- - [An Entire Article Describing My Theology](https://sevenshepherd.github.io/theology/)
 - [Repentance For The Forgiveness of Sins](https://sevenshepherd.github.io/sin/) -->
 
+- [How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/)
 - [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
 - [The True Meaning Of Repentance](https://sevenshepherd.github.io/repentance/)
