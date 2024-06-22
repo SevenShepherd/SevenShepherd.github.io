@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 6:05:00 -0500
+date: 2020-01-01 6:15:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -14,20 +14,23 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 <span style="font-size:1.2em;">Overview</span>
 
-1. Historic Protestant (The Five Solas)
+1. Basic Protestant (The Five Solas)
 2. Theologically Conservative
-3. Moderate Distinctives (Mixture)
-    - [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
-    - [Reformed Wesleyan](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/)
-    - [Compatibilist](https://sevenshepherd.github.io/chosen/#carson)
-5. Eschatological System
-    - Pretrib. Premil. Disp. (Previously)
-    - Historic Premillennialism (Investigating)
+3. Moderate Distinctives
+4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
+5. Eschatological Premillennialist (Investigating)
 6. Soft-cessationist
-7. Bible Recommendations
-    - ESV Study Bible
+7. Recommendations
+    - BDAG / HALOT
     - NET Full Notes
-    - NLT Filament (Parallel)
+    - ESV Study Bible
+    - NLT Filament
+
+<!-- 
+- [Amyraldian (4-Point)](https://sevenshepherd.github.io/ordo-salutis-amyraldian/)
+
+- [Reformed Wesleyan](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/)
+ -->
 
 <!-- 4. Denomination
     - Reformed Baptist (SBC)
@@ -253,11 +256,12 @@ If I had to describe my theology, it would be some amalgamation of [amyraldianis
 |<a style="color:darkred;" href="">Modern Theologies</a>|🚫|
 |<a style="color:darkred;" href="https://sevenshepherd.github.io/ordo-salutis-roman-catholicism/">Catholicism</a><br>(Not Protestant)|🚫| -->
 
-If only Amyraldian / Reformed Wesleyan Compatibilists had something as succinct as Packer's Concise Theology. Packer's book would be almost perfect if it championed hypothetical universalism or unlimited atonement, and a compatibilist view of God's absolute sovereignty juxtaposed with a limited version of libertarian free will instead of freedom of inclination. [D.A. Carson's 3rd chapter of &lsquo;Divine Sovereignty & Human Responsibility&rsquo;](https://sevenshepherd.github.io/chosen/#carson) is the perfect material for just such a project.
+<!-- If only Amyraldian / Reformed Wesleyan Compatibilists had something as succinct as Packer's Concise Theology. Packer's book would be almost perfect if it championed hypothetical universalism or unlimited atonement, and a compatibilist view of God's absolute sovereignty juxtaposed with a limited version of libertarian free will instead of freedom of inclination. [D.A. Carson's 3rd chapter of &lsquo;Divine Sovereignty & Human Responsibility&rsquo;](https://sevenshepherd.github.io/chosen/#carson) is the perfect material for just such a project. -->
 
 |Distinctive / Stance on Free Will (Decree)|Recommendation|
 |:-:|:-:|
-|<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Compatibilist</a> (<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;***Divine Sovereignty & Human Responsibility***&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;<br>--<br>[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>&ldquo;*Beyond the Cosmos*&rdquo;<br>--<br>Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;<br>--<br>Dr. Walter Martin (Ph.D., California Coast University)|
+|<a style="color:ForestGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Systemless Moderate</a>|[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>*&ldquo;Beyond the Cosmos&rdquo;*<br>--<br>[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin-Madison)](https://www.youtube.com/@DRMSH)<br>*&ldquo;The Unseen Realm&rdquo;*|
+|<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Compatibilist</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|[Dr. D. A. Carson<br>(Ph.D., University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>&ldquo;***Divine Sovereignty & Human Responsibility***&rdquo;<br>&ldquo;*The Difficult Doctrine of the Love of God*&rdquo;<br>--<br>Dr. Ron Rhodes (Th.D., Dallas Theological Seminary)<br>&ldquo;[The Extent of the Atonement](https://www.ronrhodes.org/the-extent-of-the-atonement)&rdquo;<br>--<br>Dr. Walter Martin (Ph.D., California Coast University)|
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/">Amyraldian / Inclination</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Sub.</a>)|Dr. Bruce Demarest<br>(Ph.D., Manchester)<br>&ldquo;***The Cross and Salvation***&rdquo;<br>--<br>Dr. Michael F. Bird<br>(Ph.D., University of Queensland)<br>&ldquo;*Unlimited Atonement: Amyraldism and Reformed Theology*&rdquo;|
 |<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/calvary-chapel/">Calvary Chapel Distinctive / Compatibilist</a> (<a style="color:YellowGreen;" href="https://sevenshepherd.github.io/ordo-salutis-amyraldian/#decrees">Wesl.</a>)<br>Essentially Reformed Arminianism w/ Eternal Security|[Chuck Smith](https://youtu.be/kP8rIIps4Sk)<br>[C2000](https://calvarychapel.com/posts/c2000/)<br>&ldquo;*Calvinism, Arminianism, & The Word Of God*&rdquo;<br>|
 |<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/">Reformed Arminianism / Libertarian</a> (<a style="color:#F6BE00;" href="https://sevenshepherd.github.io/election/#decrees">Wesl.</a>)<br>Can Renounce Faith & Lose Salvation|Dr. Stephen M. Ashby<br>(PhD, Bowling Green State)<br>&ldquo;*Four Views on Eternal Security*&rdquo;|
