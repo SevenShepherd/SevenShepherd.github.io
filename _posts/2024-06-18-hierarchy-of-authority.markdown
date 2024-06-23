@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 09:30:00 -0500
+date: 2024-06-18 09:35:00 -0500
 categories: order
 published: true
 ---
@@ -81,7 +81,7 @@ published: true
 
    > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
 
-   Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you go **Calvin**ism, **Arminian**ism, **Chafer**anism, you are going directly against the word of God.
+   Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you label yourselves with **Calvin**ism, **Arminian**ism, **Chafer**anism, you are going directly against the word of God and **your doctrine is not sound**.
 
 <!-- - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/) simply means, not to place man-made teachings like systematic theologies, above Christ & sound doctrine, and that is what you are in-fact doing when you promote man-made frameworks like the *'isms* or the eschatological systems like [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), or interpretive frameworks like covenant theology, or replacement theology. Stop indoctrinating. -->
 
