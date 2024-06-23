@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 09:45:00 -0500
+date: 2024-06-18 10:00:00 -0500
 categories: order
 published: true
 ---
@@ -76,7 +76,7 @@ published: true
 <span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
 - If a non-sectarian, inter-denominational, and soteriologically & eschatologically agnostic systematic theology were created, that didn't indoctrinate believers into one of the aforementioned *'isms* described above. I would hold it in high regard. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
-- The phrase "[Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)" signifies the imperative to prioritize Christ and sound doctrine above human-created teachings, such as systematic theologies. By endorsing soteriologies like the *'isms* above, eschatological systems such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), or interpretive frameworks like covenant theology and replacement theology, you are, in essence, elevating these man-made constructs above divine authority. Cease this indoctrination.
+- The phrase "[Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)" signifies the imperative to prioritize Christ and sound doctrine above human-created teachings, such as systematic theologies. By endorsing soteriologies like the *'isms* above, eschatological systems and interpretive frameworks such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), covenant theology, and replacement theology, you are, in essence, elevating these man-made constructs above divine authority. Cease this indoctrination.
 - The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
 
    > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
