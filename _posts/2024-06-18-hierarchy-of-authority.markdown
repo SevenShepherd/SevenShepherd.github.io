@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 10:25:00 -0500
+date: 2024-06-18 10:30:00 -0500
 categories: order
 published: true
 ---
@@ -58,7 +58,7 @@ published: true
 
 <span style="font-size:1.2em;font-weight:bold;">5️⃣ Evangelists, Shepherds, Pastors, Overseers, & Elders (The Educators of God's Word)</span>
 
-Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not Evangelists who spread the Gospel or Shepherds to tend and feed the flock. Every position listed here is vital, like the organs in your body, to the functioning of the body of Christ.
+Without biblical language scholars we wouldn't have English Bibles, lexicons, or dictionaries, and without these tools we would not have Evangelists who spread the Gospel or Shepherds to tend and feed the flock. Every position listed here is vital, like the organs in your body, to the functioning of the body of Christ.
 
 <!-- - Evangelists are those who have a specific calling to proclaim the gospel, often focusing on spreading the message of Christ to those who have not heard it before or to new regions. They might be involved in missionary work or outreach activities. (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15; Romans 10:14-15.)
 - Evangelists, such as the Apostle Paul, were typically the most outspoken and confrontational. Their primary role was to spread the gospel, often in new and hostile environments. This required a bold and assertive approach to overcome opposition and establish new Christian communities. -->
