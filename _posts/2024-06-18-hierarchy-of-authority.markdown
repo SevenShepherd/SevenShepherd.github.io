@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 09:15:00 -0500
+date: 2024-06-18 09:25:00 -0500
 categories: order
 published: true
 ---
@@ -39,7 +39,7 @@ published: true
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation, the very place the bible warns not to get wrong! **Not Recommended**
 
 <span style="font-size:1.2em;font-weight:bold;">3️⃣ The World's Most Authoritative Lexicons</span>
-- These are composed of the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic.
+- These are composed by the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic.
 - **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 - **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
 
@@ -125,7 +125,7 @@ The hierarchy of authority as presented in the article aligns with a perspective
    
 ### Conclusion
 
-The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit Holy Spirit, supported by high-quality scholarly tools, over adherence to rigid theological systems. It warns against the divisiveness of such systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy it presents prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology for Christian unity.
+The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools, over adherence to rigid theological systems. It warns against the divisiveness of such systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy it presents prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology for Christian unity.
 
 <!-- The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over adherence to rigid theological systems. It warns that systematic theology can introduce rigid and potentially divisive interpretations
 
