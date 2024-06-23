@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 10:15:00 -0500
+date: 2024-06-18 10:25:00 -0500
 categories: order
 published: true
 ---
