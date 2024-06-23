@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 10:55:00 -0500
+date: 2024-06-18 11:00:00 -0500
 categories: order
 published: true
 ---
@@ -63,8 +63,8 @@ Without biblical language scholars we wouldn't have English Bibles, lexicons, or
 <!-- - Evangelists are those who have a specific calling to proclaim the gospel, often focusing on spreading the message of Christ to those who have not heard it before or to new regions. They might be involved in missionary work or outreach activities. (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15; Romans 10:14-15.)
 - Evangelists, such as the Apostle Paul, were typically the most outspoken and confrontational. Their primary role was to spread the gospel, often in new and hostile environments. This required a bold and assertive approach to overcome opposition and establish new Christian communities. -->
 
-1. **Evangelists (euangelistas)**: I cannot conceive of a role more essential and foundational than the evangelist's. The dissemination of the gospel message (Romans 10:14-15; Mt 28:19-20; Mk 16:15) stands paramount, with all the Apostles themselves embodying this mission (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15). This priority underscores the very heart of their calling and the enduring legacy of their evangelical endeavors.
-   - Evangelists, exemplified by the Apostle Paul, are individuals with a specific calling to proclaim the gospel, focusing on spreading the message of Christ to those who have not heard it before or to new regions (cf. Eph 4:11; 2 Tim 4:5; Mt 28:19-20; Mk 16:15; Romans 10:14-15). Often involved in missionary work or outreach activities, these evangelists were typically **the most outspoken and confrontational**, as their primary role was to spread the gospel in new and often hostile environments. This mission required a bold and assertive approach to overcome opposition and establish new Christian communities, embodying a profound dedication to their calling.
+1. **Evangelists (euangelistas)**: I cannot conceive of a role more essential and foundational than the evangelist's. The dissemination of the gospel message (Romans 10:14-15; Mt 28:19-20; Mk 16:15) stands paramount, with the Apostles themselves embodying this mission (cf. Eph 4:11; 2 Tim 4:5). This priority underscores the very heart of their calling and the enduring legacy of their evangelical endeavors.
+   - Evangelists, exemplified by the Apostle Paul, are individuals with a specific calling to proclaim the gospel, focusing on spreading the message of Christ to those who have not heard it before or to new regions. Often involved in missionary work or outreach activities, these evangelists were typically **the most outspoken and confrontational**, as their primary role was to spread the gospel in new and often hostile environments. This mission required a bold and assertive approach to overcome opposition and establish new Christian communities, embodying a profound dedication to their calling.
 
 2. **Shepherds/Pastors (poimenas) & Teachers (didaskalous)**: Once the evangelists herald the divine gospel, visible churches form and shepherds are needed to tend the flock.
    - The term "pastor" comes from the Latin word for "shepherd" and typically refers to those who provide spiritual care and leadership within a congregation. Pastors are often seen as the primary leaders of local churches, focusing on teaching, preaching, and pastoral care. (cf. Eph 4:11; Titus 1:9; 1 Peter 5:2-3; Jeremiah 3:15;23:4; Ac 20:28; 1Tim 3:1-2)
