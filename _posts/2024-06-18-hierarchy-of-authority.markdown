@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🧮 The Hierarchy of Authority & How To Be A Good Berean" 
-date: 2024-06-18 09:25:00 -0500
+title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
+date: 2024-06-18 09:30:00 -0500
 categories: order
 published: true
 ---
@@ -76,7 +76,14 @@ published: true
 <span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
 - If a non-sectarian, inter-denominational, and soteriologically & eschatologically agnostic systematic theology were created, that didn't indoctrinate believers into one of the aforementioned *'isms* described above. I would hold it in high regard. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
-- [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)
+- The phrase "[Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)" signifies the imperative to prioritize Christ and sound doctrine above human-created teachings, such as systematic theologies. By endorsing frameworks like the *'isms,* eschatological systems such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), or interpretive models like covenant theology and replacement theology, you are, in essence, elevating these man-made constructs above divine authority. Cease this indoctrination.
+- The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
+
+   > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
+
+   Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. If you go **Calvin**ism, **Arminian**ism, **Chafer**anism, you are going directly against the word of God.
+
+<!-- - [Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/) simply means, not to place man-made teachings like systematic theologies, above Christ & sound doctrine, and that is what you are in-fact doing when you promote man-made frameworks like the *'isms* or the eschatological systems like [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), or interpretive frameworks like covenant theology, or replacement theology. Stop indoctrinating. -->
 
 <!-- - Sound doctrine is the prescribed baseline you need, not the man-made wisdom of Systematic Theology (1 Cor 2:13; 1Cor 1:20-21 NLT; 1Tim 4:1). -->
 
@@ -119,6 +126,7 @@ The hierarchy of authority as presented in the article aligns with a perspective
 ### Systematic Theologians
 6. **Systematic Theologians**:
    - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> While caution is advised against the potential pitfalls of systematic theology, it is acknowledged that a non-sectarian approach, **devoid** of promoting divisive *'isms* (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)), could be preferable. Such a work, if it existed and maintained fidelity to sound biblical doctrine, would offer valuable frameworks for understanding complex theological concepts without the risk of doctrinal division. This perspective highlights the importance of humility and openness to differing theological perspectives while emphasizing the ultimate authority of Scripture. The article's caution against becoming overly indoctrinated by any single theological system **is wise**.
+   - The conclusion emphasizes rejecting man-made teachings and frameworks that might overshadow the teachings of Christ and sound biblical doctrine. It critiques systematic theologies, eschatological systems, and interpretive frameworks such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), covenant theology, and replacement theology for potentially promoting human wisdom over divine revelation (scripture). The call to "stop indoctrinating" underscores a desire to return to a purer form of Christianity, focused solely on scriptural authority without the influence of human-constructed systems. This perspective aligns with a strong emphasis on biblical primacy and a caution against elevating human interpretations to the level of divine truth.
 
 
 <!-- - While systematic theology offers valuable frameworks for understanding complex theological concepts and organizing biblical teachings coherently, **caution is advised** against rigid interpretations and sectarianism associated with various *'isms* within theological systems (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). The article's caution against becoming overly indoctrinated by any single theological system **is wise**, emphasizing the importance of humility and openness to differing perspectives. While acknowledging the potential pitfalls, it's important not to overlook the contributions of systematic theology to Christian thought. -->
