@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 10:30:00 -0500
+date: 2024-06-18 10:35:00 -0500
 categories: order
 published: true
 ---
@@ -75,9 +75,8 @@ Without biblical language scholars we wouldn't have English Bibles, lexicons, or
       - 1 Peter 5:1-4: Peter exhorts the elders to shepherd the flock of God willingly and eagerly, serving as examples to the believers. This passage highlights the pastoral aspect of the elder's role.
       - Acts 20:17-38: Paul addresses the elders of the church in Ephesus, reminding them to guard the flock and warning them about false teachers. This reinforces the idea that elders have a protective and doctrinal role in the church.
    - Overseers, or bishops, also played a significant role in maintaining doctrinal purity and church order. They were responsible for addressing heresies and disputes within the church, which often required a confrontational stance to protect the integrity of the faith. Figures like Titus and Timothy, who were overseers appointed by Paul, had responsibilities that included confronting false teachings and ensuring sound doctrine. (Acts 20:28; Philippians 1:1; 1 Timothy 3:1-2; Titus 1:7; 1 Peter 2:25)
-- [Sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be.
 
-<!--  -->
+<!-- - [Sound teachings on repentance](https://sevenshepherd.github.io/repentance/) prove that these are [**the good Bereans**](https://sevenshepherd.github.io/free-grace-theology/#wilikin) the Bible asks us to be. -->
 
 <span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
