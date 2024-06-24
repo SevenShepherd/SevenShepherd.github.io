@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 11:15:00 -0500
+date: 2024-06-18 11:25:00 -0500
 categories: order
 published: true
 ---
@@ -41,7 +41,8 @@ published: true
       - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation, the very place the bible warns not to get wrong! **Not Recommended**
 
 <span style="font-size:1.2em;font-weight:bold;">3️⃣ The World's Most Authoritative Lexicons</span>
-- These are composed by the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic.
+- These are composed by the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic. 
+- ⚠️ Theologians **ARE NOT** Biblical Scholars.
 - **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 - **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
 
@@ -81,6 +82,7 @@ Without biblical language scholars we wouldn't have English Bibles, lexicons, or
 <!--  -->
 
 <span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
+- ⚠️ Theologians **ARE NOT** Biblical Scholars.
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
 - If a non-sectarian, inter-denominational, and soteriologically & eschatologically agnostic systematic theology were created, that didn't indoctrinate believers into one of the aforementioned *'isms* described above. I would hold it in high regard. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
 - The phrase "[Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)" signifies the imperative to prioritize Christ and sound doctrine above human-created teachings, such as systematic theologies. By endorsing soteriologies like the *'isms* above, eschatological systems and interpretive frameworks such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), covenant theology, and replacement theology, you are, in essence, elevating these man-made constructs above divine authority. Cease this indoctrination.
