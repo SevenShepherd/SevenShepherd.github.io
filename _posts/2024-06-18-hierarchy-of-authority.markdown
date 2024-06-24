@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 12:15:00 -0500
+date: 2024-06-18 12:25:00 -0500
 categories: order
 published: true
 ---
@@ -44,7 +44,7 @@ published: true
 - These are composed by the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic. 
 - **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
 - **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
-- ⚠️ Theologians **ARE NOT** Biblical Scholars. Know the difference.
+- ⚠️ Theologians **ARE NOT** Biblical Language Scholars. Know the difference.
 
 
 <span style="font-size:1.2em;font-weight:bold;">4️⃣ English Bible Translations </span>
@@ -83,7 +83,7 @@ Without biblical language scholars we wouldn't have English Bibles, lexicons, or
 <!--  -->
 
 <span style="font-size:1.2em;font-weight:bold;">6️⃣⚠️ Systematic Theologians (Indoctrinators When Pushing 'isms)</span>
-- ⚠️ Theologians **ARE NOT** Biblical Scholars.
+- ⚠️ Theologians **ARE NOT** Biblical Language Scholars.
 - Systematic Theology, though often well-intentioned, is inherently human (man-made) and thus susceptible to errors. It can introduce flawed frameworks, rigid interpretations, and foster sectarianism. This has led to the proliferation of various doctrinal *'isms* (such as Calvinism, Arminianism, and [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)) and has been a significant factor in causing divisions within the Christian community.
 - If a non-sectarian, inter-denominational, and soteriologically & eschatologically agnostic systematic theology were created, that didn't indoctrinate believers into one of the aforementioned *'isms* described above. I would hold it in high regard. If such a work existed, and contained hundreds of scholars, it would still be number 6 on this list but would be much preferable to what exists currently.
 - The phrase "[Call No Man Your Teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/)" signifies the imperative to prioritize Christ and sound doctrine above human-created teachings, such as systematic theologies. By endorsing soteriologies like the *'isms* above, eschatological systems and interpretive frameworks such as [dispensationalism](https://sevenshepherd.github.io/dispensationalism/), covenant theology, and replacement theology, you are, in essence, elevating these man-made constructs above divine authority. Cease this indoctrination.
@@ -152,18 +152,20 @@ These leaders for Christ are highly recommended and **WILL NOT** push the *'isms
 - All of these leaders teach correctly on [repentance](https://sevenshepherd.github.io/repentance/) and faith according to scripture, every translator of every Bible, that is, every biblical language scholar, every authoritative Greek lexicon, and centuries of sound doctrine. They represent the academic majority.
 - Dr. Carson does not teach limited atonement, and is therefore, **not** a Calvinist. He also teaches [*compatibilism*](https://sevenshepherd.github.io/chosen/#carson), while Calvinists teach *&lsquo;freedom of inclination,&rsquo;* and is yet again **not** a Calvinist. He is a Reformed leaning moderate or Amyraldian.
 - Dr. Heiser has stated many times that, [*&ldquo;we don't need systems,&rdquo;*](https://www.youtube.com/watch?v=0vgF6UMdm6Y) and is therefore systemless.
+- I recommend Dr. McGrath with one important caveat: he is a theistic evolutionist. Despite this, I find him to be far superior to those who corrupt sound doctrine. Dr. McGrath excels in presenting sound doctrine without any bias or indoctrination into the various *'isms*.
 - These are the kind of *&ldquo;teachers&rdquo; (didaskalous)* that will not biasedly teach one specific man-made *'ism*, but rather touch on all understandings and then deep dive into scripture without indoctrinating you into man-made frameworks.
 
 <!-- |Elders (*presbyteroi*)||
 |Overseers (*episkopoi*)|| -->
 
-|Distinctive / Stance on Free Will (Decree)|Recommendation|
+|Leadership Role|Recommendation|
 |:-:|:-:|
 |Evangelists<br>(*euangelistas*)|[Billy Graham](https://youtube.com/shorts/OgU9MVJTwWQ?si=NOlFn8277L42Fbu_)<br>*&ldquo;The most famous evangelist of the 20th century.&rdquo;*|
 |Shepherd (*poimenas*) & Apologist<br>(*didaskalous*)|[C.S. Lewis (Oxford & Cambridge)](https://sevenshepherd.github.io/c-s-lewis-on-repentance/)<br>*&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*|
 |New Testament Evangelical Theologian<br>(*didaskalous*)|[Dr. D. A. Carson<br>(Ph.D., New Testament at University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>Carson has been described as doing *&ldquo;the most seminal New Testament work by contemporary evangelicals&rdquo;* and as *&ldquo;one of the last great Renaissance men in evangelical biblical scholarship.&rdquo;*|
-|Old Testament Biblical Language Scholar & Textual Critic<br>(*didaskalous*)|[Dr. Michael S. Heiser<br>(Ph.D., University of Wisconsin-Madison)](https://www.youtube.com/@DRMSH)<br>*&ldquo;Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. &rdquo;*|
+|Old Testament Biblical Language Scholar & Textual Critic<br>(*didaskalous*)|[Dr. Michael S. Heiser<br>(Ph.D., University of Wisconsin-Madison)](https://www.youtube.com/@DRMSH)<br>*&ldquo;Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software.&rdquo;*|
 |Scientist Theologian & Apologist<br>(*didaskalous*)|[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>*&ldquo;Hugh holds a degree in physics from the University of British Columbia and a PhD in astronomy from the University of Toronto. After five years on the Caltech faculty, he transitioned to full-time ministry and still serves on the pastoral team at Christ Church Sierra Madre.&rdquo;*|
+|Scientist Theologian, Apologist (*didaskalous*), and Deacon (*Diakonous*)|[Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)](https://alistermcgrath.weebly.com/)<br>*&ldquo;Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.&rdquo;*<br>--<br>*&ldquo;Faith is about trust in God, rather than just accepting that God exists.&ldquo;*|
 
 <a name="Recommended-Materials" href="#contents" style="font-size:2.1em;">🧮 IV. Highly Recommended Materials</a>
 
