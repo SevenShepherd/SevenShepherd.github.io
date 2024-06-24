@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 11:10:00 -0500
+date: 2024-06-18 11:15:00 -0500
 categories: order
 published: true
 ---
@@ -156,8 +156,8 @@ These leaders for Christ are highly recommended and **WILL NOT** push the *'isms
 
 |Distinctive / Stance on Free Will (Decree)|Recommendation|
 |:-:|:-:|
-|Evangelists<br>(*euangelistas*)|[Billy Graham](https://youtube.com/shorts/OgU9MVJTwWQ?si=NOlFn8277L42Fbu_)<br>&ldquo;The most famous evangelist of the 20th century.&rdquo;|
-|Shepherd (*poimenas*)|Your local church that gets [repentance](https://sevenshepherd.github.io/repentance/) right.|
+|Evangelists<br>(*euangelistas*)|[Billy Graham](https://youtube.com/shorts/OgU9MVJTwWQ?si=NOlFn8277L42Fbu_)<br>*&ldquo;The most famous evangelist of the 20th century.&rdquo;*|
+|Shepherd (*poimenas*)|[C.S. Lewis](https://sevenshepherd.github.io/c-s-lewis-on-repentance/)<br>*&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*|
 |New Testament Evangelical Theologian<br>(*didaskalous*)|[Dr. D. A. Carson<br>(Ph.D., New Testament at University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>Carson has been described as doing *&ldquo;the most seminal New Testament work by contemporary evangelicals&rdquo;* and as *&ldquo;one of the last great Renaissance men in evangelical biblical scholarship.&rdquo;*|
 |Old Testament Biblical Language Scholar & Textual Critic<br>(*didaskalous*)|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin-Madison)](https://www.youtube.com/@DRMSH)<br>*&ldquo;Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. &rdquo;*|
 |Scientist Theologian & Apologist<br>(*didaskalous*)|[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>*&ldquo;Hugh holds a degree in physics from the University of British Columbia and a PhD in astronomy from the University of Toronto. After five years on the Caltech faculty, he transitioned to full-time ministry and still serves on the pastoral team at Christ Church Sierra Madre.&rdquo;*|
