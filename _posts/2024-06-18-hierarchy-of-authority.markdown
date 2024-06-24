@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 11:00:00 -0500
+date: 2024-06-18 11:05:00 -0500
 categories: order
 published: true
 ---
@@ -10,6 +10,8 @@ published: true
 
 - I. <a href="#Hierarchy-of-Authority">Hierarchy of Authority</a>
 - II. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
+- III. <a href="#Recommended-Leaders">Highly Recommended Leaders</a>
+- III. <a href="#Recommended-Materials">Highly Recommended Materials</a>
 
 <br>
 
@@ -139,6 +141,49 @@ The hierarchy of authority as presented in the article aligns with a perspective
 ### Conclusion
 
 The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools, over adherence to rigid theological systems. It warns against the divisiveness of such systems and promotes a more personal, less doctrinally divided approach to faith. The hierarchy it presents prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology for Christian unity.
+
+<a name="Recommended-Leaders" href="#contents" style="font-size:2.1em;">🧮 III. Highly Recommended Leaders</a>
+
+These leaders for Christ are highly recommended and **WILL NOT** push the *'isms* mentioned above. For a more complete list see my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
+
+- All of these leaders teach correctly on [repentance](https://sevenshepherd.github.io/repentance/) and faith according to scripture, every translator of every Bible, that is, every biblical language scholar, every authoritative Greek lexicon, and centuries of sound doctrine. They represent the academic majority.
+- Dr. Carson does not teach limited atonement, and is therefore, **not** a Calvinist. He also teaches [*compatibilism*](https://sevenshepherd.github.io/chosen/#carson), while Calvinists teach *&lsquo;freedom of inclination,&rsquo;* and is yet again **not** a Calvinist. Reformed leaning moderate or Amyraldian.
+- Dr. Heiser has stated many times that, [*&ldquo;we don't need systems,&rdquo;*](https://www.youtube.com/watch?v=0vgF6UMdm6Y) and is therefore systemless.
+- These are the kind of *&ldquo;teachers&rdquo; (didaskalous)* that will not biasedly teach one specific man-made *'ism*, but rather touch on all understandings and then deep dive into scripture without indoctrinating you into man-made frameworks.
+
+<!-- |Elders (*presbyteroi*)||
+|Overseers (*episkopoi*)|| -->
+
+|Distinctive / Stance on Free Will (Decree)|Recommendation|
+|:-:|:-:|
+|Evangelists<br>(*euangelistas*)|[Billy Graham](https://youtube.com/shorts/OgU9MVJTwWQ?si=NOlFn8277L42Fbu_)<br>&ldquo;The most famous evangelist of the 20th century.&rdquo;|
+|Shepherd (*poimenas*)|Your local church that gets [repentance](https://sevenshepherd.github.io/repentance/) right.|
+|New Testament Evangelical Theologian<br>(*didaskalous*)|[Dr. D. A. Carson<br>(Ph.D., New Testament at University of Cambridge)](https://www.crossway.org/authors/d-a-carson/)<br>Carson has been described as doing *&ldquo;the most seminal New Testament work by contemporary evangelicals&rdquo;* and as *&ldquo;one of the last great Renaissance men in evangelical biblical scholarship.&rdquo;*|
+|Old Testament Biblical Language Scholar & Textual Critic<br>(*didaskalous*)|[Dr. Michael S. Heiser<br>(Ph.D., Wisconsin-Madison)](https://www.youtube.com/@DRMSH)<br>*&ldquo;Dr. Heiser was a master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software. &rdquo;*|
+|Scientist Theologian & Apologist<br>(*didaskalous*)|[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about)<br>*&ldquo;Hugh holds a degree in physics from the University of British Columbia and a PhD in astronomy from the University of Toronto. After five years on the Caltech faculty, he transitioned to full-time ministry and still serves on the pastoral team at Christ Church Sierra Madre.&rdquo;*|
+
+<a name="Recommended-Materials" href="#contents" style="font-size:2.1em;">🧮 IV. Highly Recommended Materials</a>
+
+For a more complete list see my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
+
+- BDAG & HALOT Lexicons (word study)
+    - The world's most authoritative lexicons
+- ESV Reverse Interlinear (word study)
+- NET Full Notes (optimal)
+    - World’s foremost biblical scholars
+    - Non-sectarian and inter-denominational
+    - Notes are an unparalleled treasure trove of textual criticism
+    - My personal favorite (with the full notes only)
+
+|Type|Materials|
+|:-:|:-:|
+|Optimal Equivalent With Full Translators’ notes|NET Bible: Full Notes Edition|
+|Hebrew Lexicon<br>(HALOT)|The Hebrew and Aramaic Lexicon of the Old Testament|
+|Greek Lexicon<br>(BDAG)|A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.|
+|Interlinear|The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)|
+|**Advanced**||
+|Biblical Hebrew OT|The Hebrew Old Testament Reader’s Edition|
+|Koine Greek NT|ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version|
 
 <!-- The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over adherence to rigid theological systems. It warns that systematic theology can introduce rigid and potentially divisive interpretations
 
