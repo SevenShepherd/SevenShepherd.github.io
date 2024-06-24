@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 12:00:00 -0500
+date: 2024-06-18 12:05:00 -0500
 categories: order
 published: true
 ---
@@ -32,7 +32,7 @@ published: true
 
 <span style="font-size:1.2em;font-weight:bold;">2️⃣ The Holy Scriptures</span>
 - **The Biblical Hebrew & Koine Greek Scriptures Themselves**
-   1. [**The Critical Text**](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) is the Greek text that scholars have compiled as closest to the original autograph (manuscripts). This is **highly recommended**. (ESV, NET, NLT, LEB, LSB, NASB).
+   1. ✅ [**The Critical Text**](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) is the Greek text that scholars have compiled as closest to the original autograph (manuscripts). This is **highly recommended**. (ESV, NET, NLT, LEB, LSB, NASB).
    2. The Majority Text (WEB)
    3. [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus. (KJV, NKJV).
       - The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. 
@@ -42,16 +42,17 @@ published: true
 
 <span style="font-size:1.2em;font-weight:bold;">3️⃣ The World's Most Authoritative Lexicons</span>
 - These are composed by the brightest **biblical language scholars** on earth, they know philology, linguistics, textual criticism, exegesis, hermeneutics, and specialize in Koine Greek as well as ancient near eastern & semitic languages like Akkadian, Ugaritic, Biblical Hebrew, Aramaic. 
-- ⚠️ Theologians **ARE NOT** Biblical Scholars.
-- **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
-- **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
+- ✅ **BDAG** - A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.
+- ✅ **HALOT** - The Hebrew and Aramaic Lexicon of the Old Testament
+- ⚠️ Theologians **ARE NOT** Biblical Scholars. Know the difference.
+
 
 <span style="font-size:1.2em;font-weight:bold;">4️⃣ English Bible Translations </span>
 - Without biblical language scholars and the lexicons mentioned above, **we would not have English Bibles**, lexicons, or dictionaries. This is why they take precedence. Keep in mind, I did put the actual scriptures above them.
    1. Reverse Interlinear Bibles
       - The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)
    2. Optimal Equivalent Bibles With Full Translators’ notes
-      - The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars.
+      - ✅ The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars.
    3. Formal Equivalent Bibles With Studies
       - The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars.
    4. Dynamic Equivalent Meaning Based Bibles
