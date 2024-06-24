@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 24 Reasons Why I Moved From The KJV To The ESV, NET, & NLT"
-date: 2023-01-29 06:20:00 -0500
+date: 2023-01-29 06:25:00 -0500
 categories: version bible ESV NET NLT KJV
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <span style="font-weight:Bold;font-size:24px;">📜 I. Underlying Manuscripts</span>
 
-**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span>, and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GB.
+**The Critical Text is the Greek text that scholars have compiled as closest to the original autograph (manuscripts).** The Textus Receptus and it's derived KJV are largely influenced by Catholicism and partly Calvinism. <span style="color:darkred;">Erasmus was a Catholic priest</span> who felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed; and King James, while being raised Calvinist, became part Catholic (Anglicanism). According to Metzger, the KJV translators relied heavily on the Calvinist Geneva Bible, some estimate 20% of the KJV came from the GB.
 
 - <span style="font-style:Italic;font-size:19px;">Points 1 - 6</span>
 
@@ -97,34 +97,14 @@ See IV, V, VI, VII, VIII, IX from my article "[A Thorough Examination On Bible V
 
 <!-- - ✔️ [ESV Study Bible](https://amzn.to/3WsN0Uw) Formal Equivalence (Essentially Equivalent) "Word-For-Word". Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. **200+ biblical scholars** from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Universities of Cambridge, London, Oxford, Dallas, etc. -->
 
-- <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
-    - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
-    - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
-    - Including [Dr. J. I. Packer (PhD, Oxford)](https://youtu.be/jOFsFgUUdZo) as general editor of the ESV and theological editor of the ESV Study Bible.
-    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
-    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, Oxford, London, Tokyo Japan, California, MIT, Dallas, etc.
-    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
-    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+- The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars.
 
 <!-- - ✔️ [NET Full Translators' Notes](https://amzn.to/3WLAgbr)
 Optimal Equivalence. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/) including Dr. Daniel B. Wallace, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and Dr. W. Hall Harris III editor of LEB and contributor of NASB '95. Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. -->
 
-- [**The NET Bible, Full Notes Edition**](https://amzn.to/3WLAgbr)
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - Translation Type: Optimal Equivalence
-    - Textual Basis: BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
-    - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. 
-    - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.<br><br>
+- The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars.
     
-- [**NLT Filament Compact Giant Print**](https://amzn.to/3CcB5Cu)
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
-    - Textual Basis: BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
-    - Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc.
+- The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars.
 
 <!-- - ❌ -->
 
