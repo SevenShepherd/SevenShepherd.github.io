@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 A Thorough Examination On Bible Versions"
-date: 2022-09-11 02:10:00 -0500
+date: 2022-09-11 02:15:00 -0500
 categories: god jesus bible
 published: true
 ---
@@ -1340,143 +1340,89 @@ Unfortunately this also removed the Expanded Bible from the finalists.
 
 <!-- It is worth noting that the NRSVUE 2021 does not fail this litmus test, aside from the fact that it failed Acts 1:16 by calling the all male group of Apostles brothers and sisters... If The New Oxford Annotated Bible (NOAB) released an update with the NRSVUE, including the fix for Acts, this would be an incredible Bible. -->
 
-<span style="font-style:Italic;font-size:32px;">Winners</span>
+<span style="font-style:Italic;font-size:2.1em;">Winners</span>
 
-<span style="font-style:Italic;font-size:32px;">Recommended Bibles</span>
+<!-- <a name="bibles" href="#contents" style="font-style:Italic;font-size:2.1em">II. Recommended Bibles, Dictionaries, & Lexicons</a> -->
 
-These **highly recommended** versions and studies push the limits of our understanding far beyond our previous limitations. Whereas the ESV represents the worlds most accurate formal equivalent bible, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible.
+<!-- <span style="font-style:Italic;font-size:2.1em;">Recommended Bibles</span> -->
+
+These highly recommended versions and studies push our understanding far beyond our previous limitations. I study with the [ESV Study Bible]() and [Net Full Notes](). I read leisurely with the NLT. If I'm traveling, I'll use something small like the LSB NT w/ Psalms & Proverbs.
+
+<!-- Whereas the ESV represents the worlds most accurate formal equivalent bible, accuracy and literalness not being completely equal, the NET Full Notes represents the very best in optimal equivalence. The NLT is the world's most readable bible. -->
 
 <!-- these versions excel in literalness to the Biblical Hebrew & Koine Greek. -->
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**ESV Study Bible**](https://amzn.to/3WsN0Uw)<br>[ESV Interlinear](https://amzn.to/3vg7yUv)<br>[LSB NT Only](https://sevenshepherd.github.io/legacy-standard-bible/)|
+|Formal Equivalence<br>"Word-For-Word"|[▫️ **ESV Study Bible**]()|
 
-The study bible is an indispensible tool. This is the best-of-breed, having won ECPA Book of the Year Award.
+According to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), the ESV is one of the most literal Bible versions on earth. In addition to this, the Bible Study variant won ECPA Book of the Year and is considered to be the very best study bible.
 
-- <a href="https://amzn.to/3WsN0Uw" style="font-style:Italic;font-size:19px;">ESV Study Bible</a>
-    - Approximately **200+ biblical scholars**: [100+](https://www.esv.org/translation/) in translation. 95 in study.
-    - Including [Dr. Wayne Grudem (PhD, Cambridge)](https://youtu.be/s9e3Y2SMXag) Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible
-    - Translation Type: Formal Equivalence "Word-For-Word" Essentially Equivalent.
-    - Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28
-    - Leading scholarship from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities. Cambridge, London, Oxford, Dallas, etc.
-    - 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations
-    - [ESV Study Bible (Economical)](https://amzn.to/3QSTUkc)
-    - [ESV Study Bible (Premium)](https://amzn.to/3WsN0Uw)
-    - [ESV Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=ESV)
+> “... The ESV is one of the few, and surpasses the others in its simple yet elegant style. In many respects **the ESV has accomplished in the 21st century what the KJV accomplished in the 17th**: a trustworthy, literary Bible that is suitable for daily reading, memorizing, and preaching.” &mdash; Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts
 
-|Translation type|Recommendations|
-|:-:|:-:|
-|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[**NET Full Notes**](https://amzn.to/3WLAgbr)<br>[EXB Expansions](https://amzn.to/3vlMXy5)|
+The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28. Many distinguished scholars including:
 
-The NET Translator notes lend an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions.
+<!--  -->
 
-- <a href="https://amzn.to/3WLAgbr" style="font-style:Italic;font-size:19px;">The NET Bible, Full Notes Edition</a>
-    - [25+ of the world’s foremost biblical scholars](https://netbible.com/preface/), with over 60,000 translators’ notes this is the largest set of translators’ notes ever created.
-    - Translation Type: Optimal Equivalence
-    - Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4
-    - Non-sectarian and "inter-denominational"
-    - Including **Dr. Daniel B. Wallace**, Senior Research Professor of New Testament Studies at Dallas Theological Seminary, and **Dr. W. Hall Harris III** editor of LEB and contributor of NASB '95. 
-    - Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc.
-    - [The NET Bible, Full (Economical)](https://amzn.to/3HaESTp)
-    - [The NET Bible, Full (Premium)](https://amzn.to/3WLAgbr)
-    - [NET Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NET)
+- [**Dr. D. A. Carson (Ph.D., Cambridge)**](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Ron Rhodes (Th.D., Dallas)]()
+- [Dr. Wayne Grudem (Ph.D., Cambridge)](https://youtu.be/s9e3Y2SMXag)
+- [Dr. J. I. Packer (Ph.D., Oxford)](https://youtu.be/jOFsFgUUdZo)
+- [Dr. Robert Letham (Ph.D., Aberdeen)](https://www.greystoneinstitute.org/robert-letham)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. John Piper (D.Theol., Munich)]()
+
+<span style="color:#A8A8A8;">---</span>
 
 |Translation type|Recommendations|
 |:-:|:-:|
-|Dynamic Equivalence<br>"Thought-For-Thought"|[**NLT Filament**](https://amzn.to/3CcB5Cu)<br>*Most Readable|
+|Optimal Equivalence<br>"Best-Of-Both-Worlds"|[▫️ **NET Full Notes**]()<br>[▫️ EXB Expansions]()|
 
-The New Living Translation (NLT) is the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf). Since scholarship has proven that we have 99.8% NT textual purity, we can confidently conclude that the most readable version of the Bible, that has also passed our litmus tests, would be the best version for leisure reading.
+The NET Bible, Full Notes Edition lends an extraordinarily unique perspective, namely, the minds of the translators. This transcends study bibles on details concerning language and translation decisions. **With the translators' notes**, this is the most accurate version of the Bible on earth bar none.
 
-- <a href="https://amzn.to/3CcB5Cu" style="font-style:Italic;font-size:19px;">NLT Filament Compact Giant Print</a>
-    - [Over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars)
-    - Translation Type: Dynamic Equivalence "Thought-For-Thought" NOT paraphrase.
-    - Textual Basis: Masoretic Text BHS '77, DSS, LXX, SP, S, Vg; UBS4, NA27
-    - Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc.
-    - [NLT Compact (Economical)](https://amzn.to/3CcB5Cu)
-    - [NLT Personal (Premium)](https://amzn.to/3WVcPMQ)
-    - [NLT Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=NLT)
+> “**The extensive and reliable notes in the NET Bible were a wonderful help to our translation team as we worked to prepare the English Standard Version.**” &mdash; Wayne Grudem, Harvard, Westminister, & Cambridge educated Research Professor and member of the Translation Oversight Committee of the ESV
+
+The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4. Many distinguished scholars including:
+
+<!--  -->
+
+- [Dr. Daniel B. Wallace (Ph.D., Dallas)](https://youtu.be/NikVdhp0YFs)
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. W. Hall Harris III, (Ph.D., Sheffield)]()
+
+<span style="color:#A8A8A8;">---</span>
+
+|Translation type|Recommendations|
+|:-:|:-:|
+|Dynamic Equivalence<br>"Thought-For-Thought"|[▫️ **NLT Filament**]()<br>*Most Readable|
+
+The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting:
+
+- [**Dr. D. A. Carson (Ph.D., Cambridge)**](https://www.crossway.org/authors/d-a-carson/)
+- [Dr. Tremper Longman III (Ph.D., Yale)]()
+- [Dr. Darrell L. Bock (Ph.D., Dallas)]()
+- [Dr. Robert H. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/), father of [Dr. William D. Mounce (Ph.D., Aberdeen)](https://www.billmounce.com/).
+
+<span style="color:#A8A8A8;">---</span>
 
 |Translation type|Recommendations|
 |:-:|:-:|
 |Paraphrase<br>"In-Other-Words"|Not Recommended|
 
-This ministry does not recommend a Bible of the paraphrase translation type. We would instead direct you to dynamic equivalence.
+This ministry does not recommend a Bible of the paraphrase type. We would instead direct you to dynamic equivalence. Paraphrases are NOT translations.
 
-<!-- <span style="font-style:Italic;font-size:19px;">Interlinear</span> -->
+<span style="color:#A8A8A8;">---</span>
 
-<span style="font-style:Italic;font-size:24px;">Other Recommendations</span>
-
-I've decided to add this section, because these options, while not as perfect as those mentioned above, are still incredibly useful.
-
-<!-- <span style="font-style:Italic;font-size:19px;">Annotations</span>
-
-Those of you who would like a more ecumenical, university level, third party perspective, this is your Bible. This can be useful in dispelling bias. 
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The New Oxford Annotated Bible's underlying NRSV is not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes.</sup>
-
-- **New Oxford Annotated Bible, 5th Edition**
-    - [New Oxford Annotated Bible (Hardcover)](https://amzn.to/3iY3LZc)
-    - [New Oxford Annotated Bible w/ Apocrypha (Hardcover)](https://amzn.to/3XGvXPg)
-    - The study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. 
-    - In-depth academic research from nondenominational perspectives, **specifically secular perspectives** for "Bible-as-literature". 
-    - With a focus on the most recent advances in historical criticism and related disciplines. Best scholarship informed by recent discoveries. 
-    - Includes jewish and **nonreligious interpretative traditions**. A more ecumenical approach. -->
-    
-<span style="font-style:Italic;font-size:19px;">Expansions</span>
-
-The expansions provided in this Bible are incredibly useful and so I do use the EXB in parallel just for the expansions. 
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ The Expanded Bible (EXB): 1) Not using our oldest and best manuscripts as evidenced by Jude 5; however, it is mentioned in the footnotes. 2) Deut. 32:8 should allude to the "sons of God" or "Heavenly assembly/court".</sup>
-
-- **Expanded Bible (EXB)**
-    - [Expanded Bible (Hardcover)](https://amzn.to/3vlMXy5)
-    - 53 Scholars Including [NCV](https://www.gotquestions.org/New-Century-Version-NCV.html), otherwise [3 scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/) are responsible for the expansions:
-        - Tremper Longman III (Ph.D., Yale) is the Robert H. Gundry Professor of Biblical Studies at Westmont College.
-        - Mark L. Strauss (Ph.D., Aberdeen) is professor of New Testament at Bethel Seminary San Diego.
-        - Daniel Taylor (Ph.D., Emory).
-    - [EXB Online](https://www.biblegateway.com/passage/?search=Jn+8%3A56-59&version=EXB)
-    
-<span style="font-style:Italic;font-size:19px;">Primary NT w/ Psalms & Proverbs</span>
-
-The Legacy Standard Bible is a worthy update to the NASB '95 & '77, which was already considered by scholars as the most literal version of the Bible ever produced. I sometimes carry a high quality, smaller, lighter, and thinner New Testament with Psalms and Proverbs. 
-
-<sup style="font-weight:bold;color:Gold;font-size:12px;">⚠️ While the LSB, NASB '95 & '77, are the most literal versions, they all prove they are not using our oldest and best manuscripts in Deut. 32:8, which should say "sons of God" or "Heavenly assembly/court".</sup>
-
-<!-- |Translation type|Recommendations|
+|||
 |:-:|:-:|
-|Formal Equivalence<br>"Word-For-Word"|[**LSB NT Only**](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)| -->
-
-- <a href="https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin" style="font-style:Italic;font-size:19px;">Legacy Standard Bible</a>
-    - 131 Scholars including it's derived [NASB ‘95 & ‘77](https://www.lockman.org/new-american-standard-bible-nasb/), otherwise [70+ scholars](https://lsbible.org/faqs/).
-	- Translation type: formal Equivalence "Word-For-Word"
-	- Textual Basis: Biblia Hebraica Stuttgartensia; Biblia Hebraica Quinta. Novum Testamentum Graece (28th ed., 2012).
-    - [Legacy Standard Bible (Premium)](https://316publishing.com/collections/lsb-nt-with-psalms-and-proverbs/products/lsb-new-testament-with-psalms-and-proverbs-goatskin)
-    - [LSB Online](https://read.lsbible.org/?q=John+8%3A56-59)
-- <span style="font-style:Italic;font-size:19px;">Accessories</span>
-	- [Tabbies Mini Gold-Edged Tabs](https://amzn.to/3G4pXZj)
-	- [Pigma Micron Pens 01 (.25mm)](https://amzn.to/3WDHFdd)
-	- [Zebra Water Resistant Mildliners](https://amzn.to/3YVyHJT)
-
-<span style="font-style:Italic;font-size:24px;">Advanced Study Material</span>
-
-<!-- <span style="font-style:Italic;font-size:19px;">Advanced Study Materials</span> -->
-
-This section details even more advanced material for those who want to deep dive into the ancient Hebrew and Koine Greek.
-
-<!-- - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://www.crossway.org/bibles/esv-english-greek-reverse-interlinear-new-186-hcj/) -->
-<!-- - [The Hebrew Old Testament Reader’s Edition](https://www.crossway.org/bibles/the-hebrew-old-testament-readers-edition-hconly/) -->
-
-- Interlinear
-    - [The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)](https://amzn.to/3vg7yUv)
-- Biblical Hebrew
-    - [The Hebrew Old Testament Reader’s Edition](https://amzn.to/3VrhqVV)
-- Koine Greek
-    - [ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version](https://amzn.to/3jxuA6u)
-- Courses
-    - [Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)
-    - [Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)
-    - [Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)
+|Interlinear|[The English-Greek Reverse Interlinear New Testament: English Standard Version (ESV)]()|
+|Hebrew Lexicon<br>(HALOT)|[The Hebrew and Aramaic Lexicon of the Old Testament]()|
+|Greek Lexicon<br>(BDAG)|[A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.]()
+|Greek Lexicon<br>(TDNT)|[Theological Dictionary of the New Testament: Abridged in One Volume]()|
+|Biblical Hebrew OT|[The Hebrew Old Testament Reader’s Edition]()|
+|Koine Greek NT|[ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version]()|
+|Courses|[Basics of Biblical Hebrew 2.0](https://zondervanacademic.com/products/learn-biblical-hebrew-pack-2.0)<br>[Basics of Biblical Greek 2.0](https://zondervanacademic.com/products/learn-biblical-greek-pack-2.0)<br>[Greek Grammar Beyond the Basics](https://zondervanacademic.com/products/greek-grammar-beyond-the-basics-pack)|
 
 <script>
     var refTagger = {
