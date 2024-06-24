@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for all of you to pull your heads out of the theological sand. It's time for you to give the Bible second chance."
-date: 2024-06-17 05:05:00 -0500
+title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible second chance."
+date: 2024-06-17 05:10:00 -0500
 categories: theology
 published: true
 ---
