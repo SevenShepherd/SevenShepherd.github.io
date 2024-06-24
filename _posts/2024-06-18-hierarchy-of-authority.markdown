@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 12:25:00 -0500
+date: 2024-06-18 12:35:00 -0500
 categories: order
 published: true
 ---
@@ -150,7 +150,7 @@ The article prioritizes direct engagement with Scripture and the guidance of the
 These leaders for Christ are highly recommended and **WILL NOT** push the *'isms* mentioned above. For a more complete list see my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bold;color:ForestGreen;">extended profile</a>.
 
 - All of these leaders teach correctly on [repentance](https://sevenshepherd.github.io/repentance/) and faith according to scripture, every translator of every Bible, that is, every biblical language scholar, every authoritative Greek lexicon, and centuries of sound doctrine. They represent the academic majority.
-- Dr. Carson does not teach limited atonement, and is therefore, **not** a Calvinist. He also teaches [*compatibilism*](https://sevenshepherd.github.io/chosen/#carson), while Calvinists teach *&lsquo;freedom of inclination,&rsquo;* and is yet again **not** a Calvinist. He is a Reformed leaning moderate or Amyraldian.
+- Dr. Carson [does not teach limited atonement](https://sevenshepherd.github.io/limited-atonement/#carson5.5), and is therefore, **not** a Calvinist. He also teaches a [*compatibilist*](https://sevenshepherd.github.io/chosen/#carson) view of free will, while Calvinists teach *&lsquo;freedom of inclination,&rsquo;* and is yet again **not** a Calvinist. He is a Reformed leaning moderate or Amyraldian.
 - Dr. Heiser has stated many times that, [*&ldquo;we don't need systems,&rdquo;*](https://www.youtube.com/watch?v=0vgF6UMdm6Y) and is therefore systemless.
 - I recommend Dr. McGrath with one important caveat: he is a theistic evolutionist. Despite this, I find him to be far superior to those who corrupt sound doctrine. Dr. McGrath excels in presenting sound doctrine without any bias or indoctrination into the various *'isms*.
 - These are the kind of *&ldquo;teachers&rdquo; (didaskalous)* that will not biasedly teach one specific man-made *'ism*, but rather touch on all understandings and then deep dive into scripture without indoctrinating you into man-made frameworks.
