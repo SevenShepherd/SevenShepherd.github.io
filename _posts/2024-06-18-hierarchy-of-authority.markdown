@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 11:05:00 -0500
+date: 2024-06-18 11:10:00 -0500
 categories: order
 published: true
 ---
@@ -11,7 +11,7 @@ published: true
 - I. <a href="#Hierarchy-of-Authority">Hierarchy of Authority</a>
 - II. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
 - III. <a href="#Recommended-Leaders">Highly Recommended Leaders</a>
-- III. <a href="#Recommended-Materials">Highly Recommended Materials</a>
+- IV. <a href="#Recommended-Materials">Highly Recommended Materials</a>
 
 <br>
 
