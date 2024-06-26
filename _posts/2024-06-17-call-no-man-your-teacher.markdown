@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance."
-date: 2024-06-17 05:25:00 -0500
+date: 2024-06-17 05:30:00 -0500
 categories: theology
-published: true
+published: false
 ---
 
 <!-- Once you realize as I have, that every man-made system has failed, you will begin to understand that you have been lied to by charlatans posing as shepherds. -->
@@ -30,7 +30,7 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
     - Notes are an unparalleled treasure trove of textual criticism
     - My personal favorite (with the full notes only)
 
-**You don't need systematic theologians or theologies. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Lexicons and textual criticism are all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom. Systematic Theologies that push specific *'isms* (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) should be synonymous with indoctrination in this advanced day and age.
+**You don't need systematic theologians. You just need the Bible and the Holy Spirit.** Systematic theology was a bad phase of a bygone era. Lexicons and textual criticism are all you need to bridge the language gap, and Christ is your only teacher. The world can **never** know God through human wisdom. Systematic Theologies that push specific *'isms* (Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/), etc.) should be synonymous with indoctrination in this advanced day and age.
 
 <br>
 
