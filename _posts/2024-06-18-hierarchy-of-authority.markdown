@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 12:35:00 -0500
+date: 2024-06-18 12:45:00 -0500
 categories: order
 published: true
 ---
@@ -12,6 +12,8 @@ published: true
 - II. <a href="#GPT-4-Turbo-Analysis">Artificial Intelligence Analysis</a>
 - III. <a href="#Recommended-Leaders">Highly Recommended Leaders</a>
 - IV. <a href="#Recommended-Materials">Highly Recommended Materials</a>
+- V. <a href="#Conclusion">Conclusion</a>
+
 
 <br>
 
@@ -190,90 +192,21 @@ For a more complete list see my <a href="https://sevenshepherd.github.io/profile
 |Biblical Hebrew OT|The Hebrew Old Testament Reader’s Edition|
 |Koine Greek NT|ESV Greek-English New Testament: Nestle-Aland 28th Edition and English Standard Version|
 
-<!-- The article prioritizes direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over adherence to rigid theological systems. It warns that systematic theology can introduce rigid and potentially divisive interpretations
+<a name="Conclusion" href="#contents" style="font-size:2.1em;">🧮 V. Conclusion</a>
 
-against the divisiveness of rigid interpretations and promotes a more personal, less doctrinally divided approach to faith. The hierarchy presented prioritizes divine guidance, Scripture, scholarship, and pastoral care, cautioning against excessive reliance on systematic theology to maintain Christian unity.
+After observing the failure of every man-made system, I created this article to guide readers away from flawed man-made systemic theologies and toward the Holy Scriptures and true biblical language scholarship and textual criticism. Unless systematic theologians cease pushing man-made *'isms*, they are indoctrinators not educators. It's important to know the difference between a Biblical Scholars who understand the Biblical languages and a Systematic Theologians who do not. 
 
-The article prioritizes direct engagement with the Scriptures and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over the interpretations and frameworks provided by systematic theology. 
+> And we impart this in words **not taught by human wisdom** but taught by the Spirit, interpreting spiritual truths to those who are spiritual. 1Cor 2:13 ESV
 
-It suggests that systematic theology can introduce rigid and potentially divisive interpretations, whereas a direct focus on the Scriptures can lead to a purer understanding of Christian teachings. -->
+> <sup style="font-weight:bold">20</sup> So where does this leave the philosophers, the scholars, and the world’s brilliant debaters? God has made the wisdom of this world look foolish. <sup style="font-weight:bold">21</sup> Since <span style="font-weight:bold">God in his wisdom saw to it that the world would never know him through human wisdom</span>, he has used our foolish preaching to save those who believe. &mdash; 1 Cor 1:20-21
 
+The Bible teaches us that the world can **never** know God through human wisdom, in other words, Systematic theologies are a bad phase of a bygone era and you're wasting your time with with them; instead, turn your focus to the word of God and prioritize direct engagement with Scripture and the guidance of the Holy Spirit, supported by high-quality scholarly tools, over adherence to rigid theological systems. You can achieve this with the <a href="#Recommended-Materials">recommended materials</a> section.
 
-<!-- The article you referenced presents a detailed hierarchy of authority, with an emphasis on the importance of Scripture and the role of the Holy Spirit in interpreting it. Here's a brief analysis of the key points and the conclusion: -->
+> You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am. &mdash; John 13:13 NET
 
-<!-- The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
+> <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9 NLT
 
-1. **God and the Holy Spirit**: The article asserts that God and the Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
-   - Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
-   - Placing God at the highest level of authority is consistent with Christian belief that God's will and guidance are supreme. The verse cited (1 John 2:27) speaks of the anointing teaching believers, which underscores the importance of direct guidance from God through the Holy Spirit.
-
-2. **The Holy Scriptures**: It emphasizes the authority of the original biblical texts in Hebrew and Greek and recommends the Critical Text over the Textus Receptus due to its closer approximation to the original manuscripts.
-   - Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
-
-3. **Lexicons and Scholarly Resources**: The article places high importance on authoritative lexicons like BDAG and HALOT for accurate interpretation of biblical languages.
-   - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
-   - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
-
-4. **English Bible Translations**: It ranks various English translations based on their adherence to the original texts and the quality of the scholarship behind them, with a preference for translations with extensive notes and scholarly input.
-   - **English Bibles and Study Tools**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
-   
-      The hierarchy within English translations (Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based) acknowledges the varying degrees of fidelity to the original texts and the usefulness of study tools like the NET Bible and ESV Study Bible.
-
-5. **Shepherds, Pastors, Overseers, & Elders**: These roles are recognized as important for teaching and guiding within the church, but they are placed lower in the hierarchy than the Scriptures and authoritative scholarly resources.
-   - The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
-   - The importance of church leaders (pastors, elders, etc.) in teaching and guiding the congregation is well-supported by the cited scriptures. These leaders are expected to adhere to sound doctrine and shepherd their flocks with love and unity, aligning with the Biblical mandate.
-
-6. **Systematic Theologians**: The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
-   - The caution against becoming overly indoctrinated by any single theological system **is wise**, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
-
-**Conclusion**: The article prioritizes direct engagement with the Scriptures and the guidance of the Holy Spirit, supported by high-quality scholarly tools and resources, over the interpretations and frameworks provided by systematic theology. It suggests that systematic theology can introduce rigid and potentially divisive interpretations, whereas a direct focus on the Scriptures can lead to a purer understanding of Christian teachings.
-   - The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith.
-   - The hierarchy presented in the article prioritizes direct guidance from God and the authority of the original Scriptures, followed by the work of scholars and translators, and then church leaders. It places systematic theology last, warning against the potential pitfalls of rigid frameworks and sectarianism.
-   - Ultimately, this hierarchy encourages a balance between divine guidance, scriptural authority, scholarly work, and pastoral care, while urging caution in the use of systematic theology to avoid unnecessary divisions within the Christian faith. -->
-
-<!-- **Agreement**:  -->
-
-<!-- - **Strengths**: The article rightly emphasizes the supreme authority of God and the Scriptures. The recognition of the importance of scholarly tools for accurate interpretation is also commendable. -->
-
-<!-- - **Criticisms**: The blanket critique of systematic theology seems overly harsh. While it is true that systematic theology can sometimes introduce rigid frameworks, it also plays a crucial role in helping believers understand and organize biblical teachings coherently. Many systematic theologians strive to be faithful to the Scriptures and contribute positively to the church's understanding of doctrine. -->
-
-<!-- Overall, while I appreciate the article's emphasis on the authority of Scripture and the need for careful interpretation, I believe it could benefit from a more balanced view of systematic theology, recognizing its value alongside its potential pitfalls. -->
-
-<!-- The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
-
-1️⃣ **God (1 John 2:27)**
-   - Agreeing that God is the ultimate authority is foundational to Christian belief. The reference to 1 John 2:27 emphasizes the anointing from God that teaches believers, highlighting direct divine guidance.
-   - Placing God at the highest level of authority is consistent with Christian belief that God's will and guidance are supreme. The verse cited (1 John 2:27) speaks of the anointing teaching believers, which underscores the importance of direct guidance from God through the Holy Spirit.
-
-2️⃣ **The Holy Scriptures** Placing the original Biblical Hebrew and Koine Greek Scriptures as the highest authority within written sources is essential for accurate theological understanding. Using authoritative lexicons and works of textual critics ensures that translations and interpretations are as close to the original texts as possible.
-   - **The Original Texts and Lexicons**: Emphasizing the authority of the original Biblical Hebrew and Koine Greek Scriptures and their lexicons (BDAG, HALOT) reflects a high regard for the original texts of the Bible. This is important for accurate interpretation and understanding.
-   - **Textual Critics and Scholars**: Recognizing the role of textual critics and scholars in providing reliable translations and interpretations highlights the importance of scholarly work in making the Scriptures accessible and understandable.
-   - **English Bibles and Study Tools**: The emphasis on the use of reverse interlinear Bibles and English translations with extensive translators’ notes, like the NET Bible and ESV Study Bible, is valuable. These resources help bridge the gap between the original languages and contemporary understanding while providing transparency in translation choices.
-   
-      The hierarchy within English translations (Reverse Interlinear, Optimal Equivalent, Literal, and Dynamic Meaning Based) acknowledges the varying degrees of fidelity to the original texts and the usefulness of study tools like the NET Bible and ESV Study Bible.
-
-3️⃣ **Shepherds, Pastors, Overseers, & Elders (The Educators)**
-   - The role of pastors and church leaders in spreading the Gospel and maintaining sound doctrine is crucial. The article's distinction between sound doctrine and systematic theology is significant. Sound doctrine refers to core Christian beliefs derived directly from Scripture, while systematic theology involves organized frameworks that can sometimes lead to denominational divisions.
-   - The importance of church leaders (pastors, elders, etc.) in teaching and guiding the congregation is well-supported by the cited scriptures. These leaders are expected to adhere to sound doctrine and shepherd their flocks with love and unity, aligning with the Biblical mandate.
-
-4️⃣ **Systematic Theologians (The Indoctrinators when pushing ‘isms)**
-   - The article critiques systematic theology for potentially introducing rigid interpretations and sectarianism through various 'isms' (e.g., Calvinism, Arminianism, [Chaferanism](https://sevenshepherd.github.io/free-grace-theology/)). While systematic theology aims to provide a coherent framework for understanding Christian beliefs, it can sometimes lead to divisiveness if not approached with humility and openness to differing perspectives.
-   - The caution against becoming overly indoctrinated by any single theological system is wise, encouraging believers to seek a balanced and comprehensive understanding of Scripture.
-
-### Conclusion
-
-The conclusion of the article reflects a preference for direct engagement with Scripture and reliance on God’s guidance, supported by scholarly tools, over adherence to rigid theological systems. This perspective values a more personal and less doctrinally divided approach to faith.
-
-The hierarchy presented in the article prioritizes direct guidance from God and the authority of the original Scriptures, followed by the work of scholars and translators, and then church leaders. It places systematic theology last, warning against the potential pitfalls of rigid frameworks and sectarianism.
-
-**Agreement and Considerations**:
-- I agree with the emphasis on God's ultimate authority and the primary importance of the Scriptures in their original languages.
-- Recognizing the crucial role of scholars and textual critics in providing accurate translations is essential for a sound understanding of the Bible.
-- The role of church leaders as educators who adhere to sound doctrine is also important for the health of the church.
-- While systematic theology can be helpful for organizing and understanding theological concepts, it's important to approach it critically and be aware of its limitations and potential for division.
-
-Ultimately, this hierarchy encourages a balance between divine guidance, scriptural authority, scholarly work, and pastoral care, while urging caution in the use of systematic theology to avoid unnecessary divisions within the Christian faith. -->
-
+Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time to pull our heads out of the theological sand. It's time for you to give the Bible another chance. A true teacher does not teacher man-made things (**Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)), but rather God given scripture (Eph 4:11). Lexicons and textual criticism are all you need to bridge the language gap, and Christ is your only teacher. Cease divisions (Jude 1:19).
 
 
 <br>
@@ -291,6 +224,15 @@ Ultimately, this hierarchy encourages a balance between divine guidance, scriptu
 > but **test everything**; hold fast what is good. &mdash; 1 Thessalonians 5:21 ESV
 
 <!-- > But examine all things; hold fast to what is good. &mdash; 1 Thessalonians 5:21 NET -->
+
+> The LORD says,<br>
+>>“I will put a curse on people<br>
+who trust in mere human beings,<br>
+who depend on mere flesh and blood for their strength,<br>
+and whose hearts have turned away from the LORD.
+>
+&mdash; Jeremiah 17:5 NET
+
 
 > “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
