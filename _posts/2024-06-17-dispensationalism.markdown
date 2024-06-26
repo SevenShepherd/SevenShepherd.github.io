@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎱 Eight Concerning Things About Dispensationalism. It Was Developed From The Visions Of A 15 Year Old Girl In The 1800s, It Is Not Historical."
-date: 2024-06-17 01:30:00 -0500
+date: 2024-06-17 01:35:00 -0500
 categories: dispensationalism
 published: true
 ---
@@ -64,7 +64,7 @@ An even earlier source, Papias, another student of the Apostle John, also held t
 
 ℹ️ Disclaimer: **Chuck Smith was a dispensationalist but he was definitely [not a dispensational antinomian](https://sevenshepherd.github.io/assurance/).** If you want to stick to dispensationalism, Smith or Rhodes will teach it without antinomianism.
 
-It's true that justification is by faith alone (Eph 2:8-10; Rom 3:28), thats common to all protestants. It's true that we are under grace and [no longer under the law](https://sevenshepherd.github.io/fruit-bearing/#packer-on-legalism). The mistake this disp. sect is making is [distorting scripture and the doctrine of faith alone](https://sevenshepherd.github.io/faith-alone/).
+It's true that justification is by faith alone (Eph 2:8-10; Rom 3:28), thats common to all protestants. It's true that we are under grace and [no longer under the law](https://sevenshepherd.github.io/sola-fide/#legalism). The mistake this disp. sect is making is [distorting scripture and the doctrine of faith alone](https://sevenshepherd.github.io/faith-alone/).
 
 > **Dispensational antinomianism** holds that keeping the moral law is at no
 stage necessary for Christians, since we live under a dispensation of grace,
@@ -74,7 +74,7 @@ from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21).
 >
 &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-Packer is a protestant that teaches [faith alone](https://sevenshepherd.github.io/sola-fide/), [liberty](https://sevenshepherd.github.io/fruit-bearing/#packer-on-liberty) from the law, and [against the heresy of legalism](https://sevenshepherd.github.io/fruit-bearing/#packer-on-legalism). What he's saying is what Paul is saying in Romans 3:31. It's time for those lost in dispensational antinomianism to return to scripture. The Apostle Paul, through the inspiration of God, has provided the correction.
+Packer is a protestant that teaches [faith alone](https://sevenshepherd.github.io/sola-fide/), [liberty](https://sevenshepherd.github.io/sola-fide/#liberty) from the law, and [against the heresy of legalism](https://sevenshepherd.github.io/sola-fide/#legalism). What he's saying is what Paul is saying in Romans 3:31. It's time for those lost in dispensational antinomianism to return to scripture. The Apostle Paul, through the inspiration of God, has provided the correction.
 
 > <sup style="font-weight:bold;">1</sup> What shall we say then? **Are we to remain in sin** so that grace may increase? <sup style="font-weight:bold;">2</sup> **Absolutely not!** How can we who died to sin still live in it? 
 >
