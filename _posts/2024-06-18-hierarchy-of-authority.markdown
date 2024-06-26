@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 12:55:00 -0500
+date: 2024-06-18 13:00:00 -0500
 categories: order
 published: true
 ---
@@ -206,7 +206,7 @@ The Bible teaches us that the world can **never** know God through human wisdom,
 
 > <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9 NLT
 
-Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time to pull our heads out of the theological sand. It's time for you to give the Bible another chance. A true teacher does not teacher man-made things (**Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)), but rather God given scripture (Eph 4:11). Lexicons and textual criticism are all you need to bridge the language gap, and Christ is your only teacher. Cease divisions (Jude 1:19).
+Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time to pull our heads out of the theological sand. It's time for you to give the Bible another chance. A true teacher does not teach man-made things (**Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)), but rather God given scripture (Eph 4:11). Lexicons and textual criticism are all you need to bridge the language gap, and Christ is your only teacher. Cease divisions (Jude 1:19).
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
 
