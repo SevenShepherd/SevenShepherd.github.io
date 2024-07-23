@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 04:25:00 -0500
+date: 2024-07-23 04:35:00 -0500
 categories: cult sect
 published: true
 ---
@@ -14,8 +14,22 @@ published: true
 
 <br>
 
-**Characteristics of a Cult.** Some of the items in this list alone are not enough to classify a group as a cult or necessarily even negative in and of themselves but when put together if a group fits all or nearly all of the elements in this list then we're beginning to see how it would
-be legitimate to classify them that way.
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+- I. <a href="#Characteristics">Characteristics of a Cult</a>
+- II. <a href="#List-Of-Cults">List Of Cults</a>
+- III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects</a>
+- IV. <a href="#List-Of-Sects">List Of Sects</a>
+
+<br>
+
+---
+
+<br>
+
+<a name="Characteristics" href="#contents" style="font-size:2.1em;">☠️ I. Characteristics of a Cult</a>
+
+Some of the items in this list alone are not enough to classify a group as a cult or necessarily even negative in and of themselves but when put together if a group fits all or nearly all of the elements in this list then we're beginning to see how it would be legitimate to classify them that way.
 
 1. The group is focused on a living leader to whom members seem to display excessively zealous unquestioning commitment.
 2. The group is preoccupied with bringing in new members.
@@ -28,14 +42,7 @@ and so forth].
 messiah, or an avatar; the group and/or the leader has a special mission to save humanity].
 8. The group has a polarized
 us versus them mentality which causes conflict with the wider society.
-9. The group's leader is not accountable to any authorities [as are for example
-military commanders and ministers
-priests monks and rabbis of mainstream
-denominations]. The group teaches or implies that
-supposedly exalted ends justify means
-that members would have considered
-unethical before joining the group
-[for example collecting money for bogus
+9. The group's leader is not accountable to any authorities [as are for example military commanders and ministers priests monks and rabbis of mainstream denominations]. The group teaches or implies that supposedly exalted ends justify means that members would have considered unethical before joining the group [for example collecting money for bogus
 charities].
 10. The leadership induces feeling
 of guilt in members in order to control
@@ -49,6 +56,35 @@ joining the group
 inordinate amounts of time to the group
 13. Members are encouraged or required to live and or socialize only with other group members.
 
+<br>
+
+---
+
+<br>
+
+<a name="List-Of-Cults" href="#contents" style="font-size:2.1em;">☠️ II. List Of Cults</a>
+
+> under construction
+
+<br>
+
+---
+
+<br>
+
+<a name="List-Of-Heretical-Sects" href="#contents" style="font-size:2.1em;">💀 III. List Of Heretical Sects</a>
+
+> under construction
+
+<br>
+
+---
+
+<br>
+
+<a name="List-Of-Sects" href="#contents" style="font-size:2.1em;">🤷🏻 IV. List Of Sects</a>
+
+> under construction
 
 <br>
 
