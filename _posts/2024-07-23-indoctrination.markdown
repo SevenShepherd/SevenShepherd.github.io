@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 03:05:00 -0500
+date: 2024-07-23 03:25:00 -0500
 categories: falsehood
 published: true
 ---
@@ -32,7 +32,9 @@ I pray they will make Christ their teacher once again. As the Bible says, [*&ldq
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
 
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either heretical sects or cults.
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects or cults](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
+
+<!-- Link added -->
 
 <!-- > **“The first phase of the Reformation was [Amyraldian](https://sevenshepherd.github.io/limited-atonement/) in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. -->
 
