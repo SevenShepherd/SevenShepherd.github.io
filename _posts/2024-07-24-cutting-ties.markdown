@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🙅🏻 If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). Give a first and second warning. After that, have nothing more to do with them (Ti 3:10)."
-date: 2024-07-23 01:15:00 -0500
+date: 2024-07-23 01:25:00 -0500
 categories: division
 published: true
 ---
@@ -18,7 +18,7 @@ Cutting them off and dividing from divisive people seems to be encouraged after 
 
 > <sup style="font-weight:bold;">34</sup> “Do not think that I have come to bring peace to the earth. <span style="font-weight:bold;color:GoldenRod;">I have not come to bring peace, but a sword.</span> <sup style="font-weight:bold;">35</sup> For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. <sup style="font-weight:bold;">36</sup> And a person's enemies will be those of his own household. <sup style="font-weight:bold;">37</sup> <span style="font-weight:bold;color:GoldenRod;">Whoever loves father or mother more than me is not worthy of me</span>, and whoever loves son or daughter more than me is not worthy of me. <sup style="font-weight:bold;">38</sup> <span style="font-weight:bold;color:GoldenRod;">And whoever does not take his cross and follow me is not worthy of me.</span> 39 Whoever finds his life will lose it, and whoever loses his life for my sake will find it. — Jesus in Matthew 10:34-40
 
-If they [repent, which meant to feel remorse and turn away from what they are doing](https://sevenshepherd.github.io/repentance/), you are to forgive them and give them another opportunity (Lk 17:3-4). Just remember, true repentance is contrition not attrition. It lasts.
+If they [repent, which means to feel remorse and turn away from what they are doing](https://sevenshepherd.github.io/repentance/), you are to forgive them and give them another opportunity (Lk 17:3-4). Just remember, true repentance is contrition not attrition. It lasts.
 
 
 <br>
