@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 02:15:00 -0500
+date: 2024-07-23 02:25:00 -0500
 categories: falsehood
 published: true
 ---
@@ -28,7 +28,11 @@ I feel the same way about those lost in the [80s Chaferanism sect](https://seven
 
 > But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, **even to the point of denying the Master who bought them**. As a result, they will bring swift destruction on themselves. 2 And many will follow their [debauched lifestyles](https://dictionary.cambridge.org/us/dictionary/english/debauched). Because of these false teachers, the way of truth will be slandered. 3 And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago [cf. Jd 4 NET] is not sitting idly by; their destruction is not asleep. &mdash; 2 Peter 2:1-3 NET (cf. Matthew 7:15-16; 2 Timothy 3:13)
 
-I pray they will make Christ their teacher once again. As the Bible says, [*&ldquo;Call no man your teacher&rdquo;*](https://sevenshepherd.github.io/call-no-man-your-teacher/). A true teacher does not teach man-made things (i.e. **Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)). The *'isms* of the faith should be considered sects, but not heretical sects.
+I pray they will make Christ their teacher once again. As the Bible says, [*&ldquo;Call no man your teacher&rdquo;*](https://sevenshepherd.github.io/call-no-man-your-teacher/). A true teacher does not teach man-made things (i.e. **Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)).
+
+> **“The first phase of the Reformation was [Amyraldian](https://sevenshepherd.github.io/limited-atonement/) in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
+
+The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline and the measure by which all others are judged, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/).
 
 <!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
 
