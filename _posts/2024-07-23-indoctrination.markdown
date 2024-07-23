@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 01:25:00 -0500
+date: 2024-07-23 01:35:00 -0500
 categories: falsehood
 published: true
 ---
@@ -10,7 +10,7 @@ Long ago in my early twenties, I remember debating two mormon elders at my dinin
 
 <!-- in his book *&ldquo;The Kingdom of the Cults&rdquo;*  -->
 
-> <sup style="font-weight:bold;">24</sup> And the Lord’s slave [*servant or bondservant*] must not engage in heated disputes[*“must not fight” or “must not quarrel.”*] but be kind toward all, an apt teacher, patient, <sup style="font-weight:bold;">25</sup> correcting[c] opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth[d] &mdash; 2 Timothy 2:24-25
+> <sup style="font-weight:bold;">24</sup> And the Lord’s slave [*servant or bondservant*] must not engage in heated disputes[*“must not fight” or “must not quarrel.”*] but be kind toward all, an apt teacher, patient, <sup style="font-weight:bold;">25</sup> correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth &mdash; 2 Timothy 2:24-25 NET
 
 Before the debate, I remember them both getting on their hands and knees on the dining room floor and praying in vain before their defeat.
 
