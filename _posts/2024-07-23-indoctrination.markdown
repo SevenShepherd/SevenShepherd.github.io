@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 01:55:00 -0500
+date: 2024-07-23 02:00:00 -0500
 categories: falsehood
 published: true
 ---
@@ -24,7 +24,7 @@ One thing is for certain, their *&ldquo;prayers&rdquo;* fell on deaf ears as the
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own [desires](https://sevenshepherd.github.io/free-grace-theology/#fruit), they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). 4 And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
 
-I feel the same way about those lost in the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as the Jehovah Witnesses (Watchtowerites). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
+I feel the same way about those lost in the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as the Jehovah Witnesses cult (Watchtowerites). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
 
 > But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, **even to the point of denying the Master who bought them**. As a result, they will bring swift destruction on themselves. 2 And many will follow their [debauched lifestyles](https://dictionary.cambridge.org/us/dictionary/english/debauched). Because of these false teachers, the way of truth will be slandered. 3 And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago [cf. Jd 4 NET] is not sitting idly by; their destruction is not asleep. &mdash; 2 Peter 2:1-3 NET (cf. Matthew 7:15-16; 2 Timothy 3:13)
 
