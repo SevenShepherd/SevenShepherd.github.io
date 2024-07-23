@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 04:15:00 -0500
-categories: division
+date: 2024-07-23 04:25:00 -0500
+categories: cult sect
 published: true
 ---
 
@@ -18,10 +18,10 @@ published: true
 be legitimate to classify them that way.
 
 1. The group is focused on a living leader to whom members seem to display excessively zealous unquestioning commitment.
-2. The group is preoccupied with brining in new members.
+2. The group is preoccupied with bringing in new members.
 3. The group is preoccupied with making money.
 4. Questioning, doubt, and dissent are discouraged or even punished.
-5. Mind-numbing techniques, [such as meditation, chanting, speaking in tongues, denunciation sessions, debilitating work routines], are used to supress doubts about the group or its leader[s]
+5. Mind-numbing techniques, [such as meditation, chanting, speaking in tongues, denunciation sessions, debilitating work routines], are used to suppress doubts about the group or its leader
 6. the leadership dictates sometimes, in great detail, how members should think act and feel [for example members must get permission from leaders to date, change jobs, get married; leaders may prescribe what type of clothes to wear, where to live, how to discipline children
 and so forth].
 7. The group is elitist, claiming a special exalted status for itself, its leaders and members [for example: the leader is considered the
