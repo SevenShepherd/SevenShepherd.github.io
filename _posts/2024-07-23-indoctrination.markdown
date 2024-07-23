@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults and heretical sects always push materials, other than the Bible or lexicons, to indoctrinate you. They pray obsessively with these false teachers and their false systems on a daily basis and will use every opportunity to push them on you until you have to avoid them."
-date: 2024-07-23 01:00:00 -0500
+date: 2024-07-23 01:05:00 -0500
 categories: falsehood
 published: true
 ---
@@ -41,6 +41,16 @@ It's time for many of you to pull your heads out of the theological sand. It's t
 <br>
 
 > “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
+
+--
+
+> The LORD says,<br>
+>>“I will put a curse on people<br>
+who trust in mere human beings,<br>
+who depend on mere flesh and blood for their strength,<br>
+and whose hearts have turned away from the LORD.
+>
+&mdash; Jeremiah 17:5 NET
 
 <script>
     var refTagger = {
