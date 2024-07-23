@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance."
-date: 2024-07-23 02:05:00 -0500
+date: 2024-07-23 02:10:00 -0500
 categories: theology
 published: true
 ---
@@ -23,7 +23,7 @@ Get rid of systematic theologians and those who attempt to interpret scripture f
 - When you can speak on man-made teachings like all the different *'ologies* that come out of systematic theology, but you can't recollect a single parable from Christ. ***YOU ARE INDOCTRINATED***.
 - If you hold to non-standard meanings of [repentance](https://sevenshepherd.github.io/repentance/) or faith, and you think its only simple assent or mind change, ***YOU ARE INDOCTRINATED***. 
 
-It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance. The world can **never** know God through human wisdom. Remember that theologians are not meant to interpret scripture for you—that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ. Lexicons (BDAG/HALOT) and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.
+It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance. The world can **never** know God through human wisdom. Remember that theologians are not meant to interpret scripture for you—that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ. [**Bibles, Lexicons, Interlinears and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.**](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials)
 
 > And we impart this in words **not taught by human wisdom** but taught by the Spirit, interpreting spiritual truths to those who are spiritual. 1Cor 2:13 ESV
 
