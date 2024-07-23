@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults and heretical sects always push materials, other than the Bible or lexicons, to indoctrinate you. They pray obsessively with these false teachers and their false systems on a daily basis and will use every opportunity to push them on you until you have to avoid them."
-date: 2024-07-23 01:05:00 -0500
+date: 2024-07-23 01:10:00 -0500
 categories: falsehood
 published: true
 ---
@@ -11,6 +11,8 @@ I recently wrote [an article on going systemless](https://sevenshepherd.github.i
 > Pick up a Bible, pick up a lexicon it was made for English readers like you. You don't need some false teacher to spin the scriptures to you and indoctrinate you into some man-made system.
 
 The Bible instructs us to *&ldquo;Call no man your teacher&rdquo;* for you have only one teacher, Christ Jesus, and all of you are equal as brothers (Mt 23:8-9). The Bible also says that He gave us teachers (Eph 4:11). This is not a contradiction, it's a paradox. The difference is that a true teacher from God will not be teaching [man-made systems](https://sevenshepherd.github.io/free-grace-theology/) or human wisdom, instead a teacher from God will teach scripture alone apart from any named man-made system.
+
+> You call me ‘Teacher’ and ‘Lord,’ and do so correctly, for that is what I am. &mdash; John 13:13 NET
 
 > <sup style="font-weight:bold">8</sup> “Don’t let anyone call you ‘Rabbi,’ for you have only one teacher, and all of you are equal as brothers and sisters. <sup style="font-weight:bold">9</sup> And don’t address anyone here on earth as ‘Father,’ for only God in heaven is your Father. &mdash; Matthew 23:8-9
 
