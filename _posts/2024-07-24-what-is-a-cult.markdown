@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 04:00:00 -0500
+date: 2024-07-23 04:05:00 -0500
 categories: division
 published: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j0QI52C7cjE?si=bSRXxijoAv-u_AUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="385" height="315" src="https://www.youtube.com/embed/j0QI52C7cjE?si=bSRXxijoAv-u_AUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
