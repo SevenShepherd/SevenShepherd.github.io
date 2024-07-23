@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "☠️ Why those lost in cults and heretical sects always push materials, other than the Bible or lexicons, to indoctrinate you. They pray obsessively with these false teachers and their false systems on a daily basis and will use every opportunity to push them on you until you have to avoid them."
-date: 2024-07-23 01:10:00 -0500
+title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you. They pray obsessively with these false teachers and their false systems on a daily basis and will use every opportunity to push them on you until you have to avoid them."
+date: 2024-07-23 01:15:00 -0500
 categories: falsehood
 published: true
 ---
