@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 03:25:00 -0500
+date: 2024-07-23 03:35:00 -0500
 categories: falsehood
-published: true
+published: false
 ---
 
 Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
