@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you."
-date: 2024-07-23 02:35:00 -0500
+date: 2024-07-23 02:45:00 -0500
 categories: falsehood
 published: true
 ---
@@ -32,7 +32,7 @@ I pray they will make Christ their teacher once again. As the Bible says, [*&ldq
 
 > **“The first phase of the Reformation was [Amyraldian](https://sevenshepherd.github.io/limited-atonement/) in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
-The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline and by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/).
+The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/).
 
 <!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
 
