@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 04:45:00 -0500
+date: 2024-07-23 04:55:00 -0500
 categories: cult sect
 published: true
 ---
@@ -19,6 +19,8 @@ published: true
 - I. <a href="#Characteristics">Characteristics of a Cult</a>
 - II. <a href="#List-Of-Cults">List Of Cults</a>
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects</a>
+    - 3.1 <a href="#Legalism">Legalism</a>
+    - 3.2 <a href="#Antinomianism">Antinomianism</a>
 - IV. <a href="#List-Of-Sects">List Of Sects</a>
 - V. <a href="#Conclusion">Conclusion</a>
 
@@ -65,6 +67,8 @@ inordinate amounts of time to the group
 
 <a name="List-Of-Cults" href="#contents" style="font-size:2.1em;">☠️ II. List Of Cults</a>
 
+![Kool-Aid-Cult-Meme](/assets/images/kool-aid-cult-meme.webp)
+
 > under construction
 
 <br>
@@ -75,6 +79,16 @@ inordinate amounts of time to the group
 
 <a name="List-Of-Heretical-Sects" href="#contents" style="font-size:2.1em;">💀 III. List Of Heretical Sects</a>
 
+<a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects (Legalism)</a>
+
+![Legalism](/assets/images/legalism.webp)
+
+> under construction
+
+<a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects (Antinomianism)</a>
+
+![Antinomianism](/assets/images/antinomianism.jpg)
+
 > under construction
 
 <br>
@@ -84,6 +98,8 @@ inordinate amounts of time to the group
 <br>
 
 <a name="List-Of-Sects" href="#contents" style="font-size:2.1em;">🤷🏻 IV. List Of Sects</a>
+
+![Kool-Aid-Cult-Meme](/assets/images/repent-meme.jpg)
 
 > under construction
 
@@ -105,7 +121,7 @@ Before the debate, I remember them both getting on their hands and knees on the 
 
 > We know that God does not listen to [sinners](https://sevenshepherd.github.io/practicing-sin/), but if someone is devout and does his will, he listens to this one. &mdash; John 9:31 LEB (cf. Proverbs 15:29; Isaiah 1:15)
 
-I remember thinking to myself, I wonder how foolish they look to God, or if he's indifferent to what they are doing on the floor right now, maybe he's offended. What worth are the prayers of those with [a false gospel](https://www.biblegateway.com/passage/?search=Galatians+1%3A6-9%3B+2+Corinthians+11%3A13-15&version=ESV;NET;NLT) I asked myself.
+I remember thinking to myself, I wonder how foolish they look to God, or if he's indifferent to what they are doing on the floor right now, maybe he's offended? What worth are the prayers of those with [a false gospel](https://www.biblegateway.com/passage/?search=Galatians+1%3A6-9%3B+2+Corinthians+11%3A13-15&version=ESV;NET;NLT) I asked myself.
 
 > God is spirit, and those who worship him must worship in spirit and truth.” &mdash; John 4:24 ESV (This emphasizes the importance of worshiping and praying in accordance with the truth)
 
@@ -113,7 +129,7 @@ One thing is for certain, their *&ldquo;prayers&rdquo;* fell on deaf ears as the
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own [desires](https://sevenshepherd.github.io/free-grace-theology/#fruit), they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). 4 And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
 
-I feel the same way about those lost in the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as the [Jehovah Witnesses cult (Watchtowerites)](https://sevenshepherd.github.io/cults/). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
+I feel similarly about those deceived by the diminished gospel of the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as those lost in the false gospel of the [Jehovah Witnesses cult (Watchtowerites)](https://sevenshepherd.github.io/cults/). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
 
 > But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, **even to the point of denying the Master who bought them**. As a result, they will bring swift destruction on themselves. 2 And many will follow their [debauched lifestyles](https://dictionary.cambridge.org/us/dictionary/english/debauched). Because of these false teachers, the way of truth will be slandered. 3 And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago [cf. Jd 4 NET] is not sitting idly by; their destruction is not asleep. &mdash; 2 Peter 2:1-3 NET (cf. Matthew 7:15-16; 2 Timothy 3:13)
 
