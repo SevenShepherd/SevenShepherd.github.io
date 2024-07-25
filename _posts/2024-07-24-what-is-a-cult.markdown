@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 05:25:00 -0500
+date: 2024-07-23 05:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -187,6 +187,13 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Legalism](/assets/images/legalist-meme.jpg)
 
+1. ***&ldquo;Jehovah's&rdquo;* Witnesses (Watchtowerites)**
+2. **The Church of Jesus Christ of Latter-day Saints (Mormons)**
+3. **Roman Catholicism (CCC)**
+
+> Under construction
+
+
 <!-- ### 1. **Arianism**
 - **Leader**: Arius
 - **Notoriety**: Denied the full divinity of Jesus Christ, teaching that He was a created being.
@@ -231,6 +238,13 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 <a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects (Antinomianism)</a>
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
+
+1. **Theological Liberalism**
+2. **Hyper-Grace Movement**
+3. **Extreme 80's &ldquo;Free Grace&rdquo; Movement**
+4. **Gnosticism**
+
+> Under construction
 
 <a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
 
@@ -289,6 +303,14 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ![Repent-Meme](/assets/images/repent-meme.jpg)
 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
+
+1. **Hyper-Calvinism**
+2. **Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**
+    - See heretical sects for extreme variant**
+3. KJV Onlyism
+
+> Under construction
+
 
 <br>
 
