@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 04:55:00 -0500
+date: 2024-07-23 05:00:00 -0500
 categories: cult sect
 published: true
 ---
@@ -19,8 +19,8 @@ published: true
 - I. <a href="#Characteristics">Characteristics of a Cult</a>
 - II. <a href="#List-Of-Cults">List Of Cults</a>
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects</a>
-    - 3.1 <a href="#Legalism">Legalism</a>
-    - 3.2 <a href="#Antinomianism">Antinomianism</a>
+    - 3.1 <a href="#Legalism">Legalistic</a>
+    - 3.2 <a href="#Antinomianism">Antinomian</a>
 - IV. <a href="#List-Of-Sects">List Of Sects</a>
 - V. <a href="#Conclusion">Conclusion</a>
 
@@ -32,7 +32,7 @@ published: true
 
 <a name="Characteristics" href="#contents" style="font-size:2.1em;">☠️ I. Characteristics of a Cult</a>
 
-Some of the items in this list alone are not enough to classify a group as a cult or necessarily even negative in and of themselves but when put together if a group fits all or nearly all of the elements in this list then we're beginning to see how it would be legitimate to classify them that way.
+Some of the items in this list alone are not enough to classify a group as a cult, but when put together, if a group fits all or nearly all of the elements in this list, then it would be legitimate to classify them that way.
 
 1. The group is focused on a living leader to whom members seem to display excessively zealous unquestioning commitment.
 2. The group is preoccupied with bringing in new members.
@@ -69,7 +69,73 @@ inordinate amounts of time to the group
 
 ![Kool-Aid-Cult-Meme](/assets/images/kool-aid-cult-meme.webp)
 
-> under construction
+<!-- <sup style="font-style:italic;">GPT-4-turbo</sup> -->
+
+### Criteria for Ranking:
+
+While all these cults are notorious for their deadly actions, the ranking attempts to reflect the scale and severity of their crimes.
+
+- **Number of Deaths**: Cults with higher death tolls are ranked higher.
+- **Brutality of Acts**: The nature and brutality of the acts committed by the cult.
+- **Impact on Society**: The broader impact and lasting effects on society.
+
+Here is a list of the deadly cults arranged from most devastating to least based on the scale and brutality of their actions:
+
+### 1. People's Temple (Jonestown)
+- **Leader**: Jim Jones
+- **Notoriety**: Mass suicide-murder in Jonestown, Guyana, in 1978.
+- **Deaths**: Over 900 members, including children, died after consuming cyanide-laced punch.
+
+### 2. Movement for the Restoration of the Ten Commandments of God
+- **Leaders**: Credonia Mwerinde and Joseph Kibweteere
+- **Notoriety**: Mass murder-suicide in Uganda in 2000.
+- **Deaths**: Over 900 members, many burned alive in a church.
+
+### 3. Aum Shinrikyo
+- **Leader**: Shoko Asahara
+- **Notoriety**: 1995 sarin gas attack on the Tokyo subway.
+- **Deaths**: 13 people killed, thousands injured.
+
+### 4. Branch Davidians
+- **Leader**: David Koresh
+- **Notoriety**: 1993 Waco siege in Texas.
+- **Deaths**: 76 members, including many children, died in the fire.
+
+### 5. Order of the Solar Temple
+- **Leaders**: Joseph Di Mambro and Luc Jouret
+- **Notoriety**: Mass suicides and murders in Switzerland, Canada, and France in the mid-1990s.
+- **Deaths**: 74 members.
+
+### 6. Heaven's Gate
+- **Leaders**: Marshall Applewhite and Bonnie Nettles
+- **Notoriety**: 1997 mass suicide in California.
+- **Deaths**: 39 members.
+
+### 7. The Manson Family
+- **Leader**: Charles Manson
+- **Notoriety**: 1969 Tate-LaBianca murders in Los Angeles.
+- **Deaths**: Several people, including actress Sharon Tate.
+
+### 8. Matamoros Human Sacrifice Cult (Narcosatanists)
+- **Leader**: Adolfo Constanzo
+- **Notoriety**: Involvement in drug trafficking and ritual human sacrifices in the late 1980s.
+- **Deaths**: Multiple murders.
+
+### 9. The Ant Hill Kids
+- **Leader**: Roch Thériault
+- **Notoriety**: Extreme abuse and murders in the 1980s.
+- **Deaths**: Several members.
+
+### 10. The Order (Aryan Nations)
+- **Leader**: Robert Jay Mathews
+- **Notoriety**: Violent crimes, including armed robbery and the murder of Alan Berg in 1984.
+- **Deaths**: One high-profile murder and various violent crimes.
+
+### 11. Children of God (The Family International)
+
+- **Founded**: 1968, David Berg.
+- **Notoriety**: Apocalypticism, unconventional sexual ethics, communal living. 
+- **Impact**: Widely considered a cult for its radical beliefs and controversial practices, including the use of sex as a form of evangelism.
 
 <br>
 
@@ -79,17 +145,89 @@ inordinate amounts of time to the group
 
 <a name="List-Of-Heretical-Sects" href="#contents" style="font-size:2.1em;">💀 III. List Of Heretical Sects</a>
 
+<!-- ### Criteria for Ranking:
+
+This ranking highlights heretical sects based on their divergence from orthodox Christian teachings and their impact on church history. The influence of these sects varied widely, with some persisting for centuries and others being quickly condemned and marginalized.
+
+- **Theological Deviation**: Degree to which the sect's beliefs diverge from orthodox Christian doctrine.
+- **Historical Impact**: The extent to which the sect influenced or challenged the early church and its doctrines.
+- **Persistence**: How long the sect's beliefs continued to influence or challenge mainstream Christianity. -->
+
+
+
 <a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects (Legalism)</a>
 
 ![Legalism](/assets/images/legalism.webp)
 
-> under construction
+<!-- ### 1. **Arianism**
+- **Leader**: Arius
+- **Notoriety**: Denied the full divinity of Jesus Christ, teaching that He was a created being.
+- **Impact**: Led to significant theological conflict and was condemned at the First Council of Nicaea in 325 AD. Despite this, Arianism had a profound influence on the early church and persisted for centuries.
+
+### 2. [Jehovah's Witnesses](https://sevenshepherd.github.io/cults/)
+- **Founded**: Late 19th century by Charles Taze Russell.
+- **Key Beliefs**:
+  - Denial of the Trinity: Falsely Teach that *&ldquo;Jehovah&rdquo;* (God) is supreme, Jesus is his created son, and the Holy Spirit is an impersonal force.
+  - [Denial of Jesus Deity](https://sevenshepherd.github.io/deity/): Jesus is falsely seen as a distinct, subordinate entity to God the Father.
+  - No immortal soul: Reject the traditional Christian belief in the immortality of the soul.
+  - Annihilationism: Believe that the wicked will not suffer eternal torment in hell but will be annihilated.
+  - Contorted eschatology: Falsely believing the  144,000 Jewish virgin boys, to instead be JWs who will rule with Christ in heaven.
+- **Impact**: Jehovah's Witnesses are known for their extensive evangelism and distinctive practices, such as refusal of blood transfusions and non-participation in secular governments and holidays. Their beliefs and practices have led to significant theological and social conflicts with mainstream Christianity.
+
+### 3. The Church of Jesus Christ of Latter-day Saints (Mormons)
+- **Founded**: Early 19th century by Joseph Smith.
+- **Key Beliefs**:
+  - Additional Scriptures: Accept the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price as scripture in addition to the Bible.
+  - Godhead: Falsely believe in the Godhead as three distinct beings: God the Father, Jesus Christ, and the Holy Ghost, rather than the traditional Trinity.
+  - Eternal Progression: Teach that humans can become gods in the afterlife through a process of eternal progression.
+  - Plan of Salvation: Unique view on pre-mortal existence, earthly life, and post-mortal existence, including temple rituals and proxy baptisms for the dead.
+  - Prophetic Leadership: Believe in modern-day prophets and continuing revelation.
+- **Impact**: The LDS Church has grown significantly worldwide and has a substantial cultural and theological impact. Its distinct beliefs and additional scriptures set it apart from mainstream Christianity.
+
+### 4. **Nestorianism**
+- **Leader**: Nestorius
+- **Notoriety**: Falsely taught that Jesus Christ had two separate persons, one divine and one human.
+- **Impact**: Led to the Nestorian Schism and the formation of the Church of the East, which spread across Asia. Condemned at the Council of Ephesus in 431 AD.
+
+### 5. **Pelagianism**
+- **Leader**: Pelagius
+- **Notoriety**: Denied original sin and taught that humans could achieve salvation through their own efforts without divine grace.
+- **Impact**: Led to significant theological debate, notably with Augustine of Hippo, and was condemned at the Council of Carthage in 418 AD.
+
+### 6. **Socinianism**
+- **Notoriety**: Denied the Trinity, the divinity of Christ, and the atonement, promoting a rationalistic approach to Scripture.
+- **Impact**: Influenced later Unitarian movements and faced opposition from both Protestant and Catholic authorities.
+-->
+
 
 <a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects (Antinomianism)</a>
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
-> under construction
+<!-- 
+### 1. **Docetism**
+- **Notoriety**: Falsely believed that Jesus' physical body was an illusion and that He did not truly suffer on the cross.
+- **Impact**: Faced strong opposition from early church fathers, including Ignatius of Antioch, and was condemned as heretical.
+
+### 3. Hyper-Grace Movement
+
+- **Origins**: Late 20th century, within various charismatic and evangelical circles.
+- **Key Beliefs**: Emphasis on God's grace to the exclusion of moral law and repentance, often perceived as antinomian heresy.
+- **Classification**: Considered a heretical sect by mainstream Christianity for downplaying the importance of moral law (Ro 3:31; 6:1-2,15).
+
+### 6. **Marcionism**
+- **Leader**: Marcion
+- **Notoriety**: Rejected the Old Testament and taught that the God of the Old Testament was different from the God of the New Testament.
+- **Impact**: Marcionism prompted early Christians to formalize the New Testament canon. It was condemned by the early church.
+
+### 9. **Montanism**
+- **Leaders**: Montanus, Priscilla, Maximilla
+- **Notoriety**: Claimed new prophetic revelations that superseded the teachings of the apostles.
+- **Impact**: Early church condemned it for its radical views and practices, though it persisted for several centuries.
+
+### 4. **Gnosticism**
+- **Notoriety**: Emphasized secret knowledge (gnosis) for salvation and often denied the material world's goodness. Gnostic texts presented an alternative narrative to orthodox Christianity.
+- **Impact**: Gnosticism presented a major theological challenge to early Christianity and was condemned by many early church fathers. -->
 
 <br>
 
