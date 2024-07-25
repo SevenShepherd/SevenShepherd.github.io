@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 07:25:00 -0500
+date: 2024-07-23 07:30:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -316,13 +316,13 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Reasons: Anti-science, anti-scholarship, anti-reason.
 3. **Hyper-Calvinism**
     - Reasons: Anti-evangelistic, limited atonement.
-    - See See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
 4. **Orthodox Calvinism**
     - Reasons: Limited atonement.
-    - See See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
 5. **Arminianism**
     - Reasons: Synergistic (Faith + Works).
-    - See See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
+    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
 
 
 > Under construction
@@ -354,7 +354,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 1. Basic Protestant ([five solas](/assets/images/solas.jpg))
 2. Theologically Conservative
-3. Moderate Distinctives (systemless)
+3. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
 4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
 5. Eschatological Premillennialist
 6. Soft-cessationist

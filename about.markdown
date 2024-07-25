@@ -10,7 +10,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 
 1. Basic Protestant ([five solas](/assets/images/solas.jpg))
 2. Theologically Conservative
-3. Moderate Distinctives (systemless)
+3. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
 4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
 5. Eschatological Premillennialist
 6. Soft-cessationist
