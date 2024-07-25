@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 05:45:00 -0500
+date: 2024-07-23 06:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -323,7 +323,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ![Sound-Teaching](/assets/images/soundness.jpg)
 
 1. Protestantism
-    - Adherenence to the [Five Solas](/assets/images/solas.jpg).
+    - Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
+    - Sound doctrine & adherenence to the [Five Solas](/assets/images/solas.jpg).
     - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 2. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
     - Like that of the Early Church Fathers.
