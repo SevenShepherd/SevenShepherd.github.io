@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 06:45:00 -0500
+date: 2024-07-23 07:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -243,7 +243,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 1. **Theological Liberalism**
 2. **Hyper-Grace Movement**
 3. [**Extreme 80's &ldquo;Free Grace&rdquo; Movement**](https://sevenshepherd.github.io/free-grace-theology/)
-    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/), against corrections from academic majority. Quacky.
+    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/). 
+    - Would not receive corrections from academic majority. Very quacky.
     - See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
 4. **Gnosticism**
 
@@ -308,14 +309,20 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
 1. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
-    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/), against corrections from academic majority. Quacky.
+    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+    - Would not receive corrections from academic majority. Quacky.
     - See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant
 2. **KJV Onlyism**
     - Reasons: Anti-science, anti-scholarship, anti-reason.
 3. **Hyper-Calvinism**
     - Reasons: Anti-evangelistic, limited atonement.
+    - See <a href="#List-Of-Sects">Non-Heretical Sects</a> for Amyraldism (Moderate Calvinism).
 4. **Orthodox Calvinism**
     - Reasons: Limited atonement.
+    - See <a href="#List-Of-Sects">Non-Heretical Sects</a> for Amyraldism (Moderate Calvinism).
+5. **Arminianism**
+    - Reasons: Synergistic (Faith + Works).
+    - See <a href="#List-Of-Sects">Non-Heretical Sects</a> for Reformed Arminianism (Reformed Wesleyanism).
 
 
 > Under construction
