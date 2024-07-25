@@ -14,7 +14,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
 5. Eschatological Premillennialist
 6. Soft-cessationist
-7. Recommendations
+7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
     - BDAG / HALOT
     - NET Full Notes
     - ESV Study Bible

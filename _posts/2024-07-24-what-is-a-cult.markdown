@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 07:05:00 -0500
+date: 2024-07-23 07:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -349,6 +349,20 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Like that of the Early Church Fathers.
     - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
     - See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism.
+
+<span style="font-size:1.2em;">This ministry holds to a Systemless Moderate & Basic Protestant View</span>
+
+1. Basic Protestant ([five solas](/assets/images/solas.jpg))
+2. Theologically Conservative
+3. Moderate Distinctives (systemless)
+4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
+5. Eschatological Premillennialist
+6. Soft-cessationist
+7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
+    - BDAG / HALOT
+    - NET Full Notes
+    - ESV Study Bible
+    - NLT Filament
 
 <br>
 

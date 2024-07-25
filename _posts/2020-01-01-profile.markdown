@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 6:35:00 -0500
+date: 2020-01-01 6:45:00 -0500
 categories: about bio biography profile
 published: true
 ---
@@ -20,7 +20,7 @@ Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This
 4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
 5. Eschatological Premillennialist
 6. Soft-cessationist
-7. Recommendations
+7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
     - BDAG / HALOT
     - NET Full Notes
     - ESV Study Bible
