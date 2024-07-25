@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 05:10:00 -0500
+date: 2024-07-23 05:15:00 -0500
 categories: cult sect
 published: true
 ---
+
+<style>
+    * {
+        font-family:'Times New Roman', Times, serif;
+    }
+</style>
 
 <iframe width="385" height="315" src="https://www.youtube.com/embed/j0QI52C7cjE?si=bSRXxijoAv-u_AUH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,7 +33,7 @@ published: true
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalistic</a>
     - 3.2 <a href="#Antinomianism">Antinomian</a>
-    - 3.3 <a href="#Overview-Section-Two">Scriptural Overview</span>
+    - 3.3 <a href="#Overview-Section-Two">Scriptural Overview</a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 - VI. <a href="#Conclusion">Conclusion</a>
