@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 09:55:00 -0500
+date: 2024-04-15 010:00:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -367,7 +367,7 @@ Unfortunately, the 80's *&ldquo;Free Grace&rdquo;* movement deviates from script
 
 > “The so-called Free Grace version of the gospel of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — J.I. Packer (Ph.D., University of Oxford) Time magazine top 25 evangelical.
 
-Instead, I recommend moderate forms of Protestantism, like, [Amyraldism](https://sevenshepherd.github.io/ordo-salutis-amyraldian/), the [original Calvary Chapel distinctive](https://sevenshepherd.github.io/calvary-chapel/), or [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) where there is safety in scripture, the academic community, and centuries of sound doctrine.
+Instead, I recommend moderate forms of Protestantism, like, [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), the [original Calvary Chapel distinctive](https://sevenshepherd.github.io/calvary-chapel/), or [Reformed Wesleyanism](https://sevenshepherd.github.io/ordo-salutis-reformed-wesleyan/) where there is safety in scripture, the academic community, and centuries of sound doctrine.
 
 <!-- 1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28)
 2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62)

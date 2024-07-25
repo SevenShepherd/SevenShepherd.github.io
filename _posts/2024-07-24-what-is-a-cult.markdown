@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 06:20:00 -0500
+date: 2024-07-23 06:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -243,6 +243,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 1. **Theological Liberalism**
 2. **Hyper-Grace Movement**
 3. [**Extreme 80's &ldquo;Free Grace&rdquo; Movement**](https://sevenshepherd.github.io/free-grace-theology/)
+    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/), against corrections from academic majority. Quacky.
     - See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
 4. **Gnosticism**
 
@@ -306,10 +307,16 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
-1. **Hyper-Calvinism**
-2. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
+1. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
+    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/), against corrections from academic majority. Quacky.
     - See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant
-3. **KJV Onlyism**
+2. **KJV Onlyism**
+    - Reasons: Anti-science, anti-scholarship, anti-reason.
+3. **Hyper-Calvinism**
+    - Reasons: Anti-evangelistic, limited atonement.
+4. **Orthodox Calvinism**
+    - Reasons: Limited atonement.
+
 
 > Under construction
 
@@ -328,7 +335,9 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
     - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
     - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
-2. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
+2. Moderate Protestant *&lsquo;isms*
+    - [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), [Original Calvary Chapel Distinctives](https://sevenshepherd.github.io/calvary-chapel/), Possibly Reformed Wesleyanism.
+3. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
     - Like that of the Early Church Fathers.
     - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
     - See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism.
