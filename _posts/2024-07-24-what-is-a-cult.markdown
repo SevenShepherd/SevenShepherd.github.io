@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 06:05:00 -0500
+date: 2024-07-23 06:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -191,7 +191,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 2. **The Church of Jesus Christ of Latter-day Saints (Mormons)**
 3. **Roman Catholicism (CCC)**
     
-<!-- - See Orthodox Christian Groups for ancient catholic orthodoxy. -->
+<!-- - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy. -->
 
 > Under construction
 
@@ -244,6 +244,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 1. **Theological Liberalism**
 2. **Hyper-Grace Movement**
 3. [**Extreme 80's &ldquo;Free Grace&rdquo; Movement**](https://sevenshepherd.github.io/free-grace-theology/)
+    - See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
 4. **Gnosticism**
 
 > Under construction
@@ -308,7 +309,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 1. **Hyper-Calvinism**
 2. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
-    - See heretical sects for extreme variant
+    - See <a href="#List-Of-Heretical-Sects">Heretical Sects</a> for extreme variant
 3. **KJV Onlyism**
 
 > Under construction
@@ -331,7 +332,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 2. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
     - Like that of the Early Church Fathers.
     - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
-    - See Heretical Sects section for Roman Catholicism.
+    - See <a href="#List-Of-Heretical-Sects">Heretical Sects</a> section for Roman Catholicism.
 
 <br>
 
