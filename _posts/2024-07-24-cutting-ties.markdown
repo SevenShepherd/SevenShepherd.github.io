@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🙅🏻 If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). Give a first and second warning. After that, have nothing more to do with them (Ti 3:10)."
-date: 2024-07-23 01:45:00 -0500
+date: 2024-07-23 01:55:00 -0500
 categories: division
 published: true
 ---
@@ -22,6 +22,11 @@ Cutting them off and dividing from divisive people seems to be encouraged after 
 
 If they [repent, which means to feel remorse and turn away from what they are doing](https://sevenshepherd.github.io/repentance/), you are to forgive them and give them another opportunity (Lk 17:3-4). Just remember, true repentance is contrition not attrition. It lasts.
 
+
+- It's **not** divisive to rebuke those in the Church who are sinning (1Cor 5:11,12-13).
+- It's **not** divisive to scrutinize man-made systems as the Bible tells us to test all things (1Thes. 5:21).
+- It is divisive to slander and bare false witness against your neighbor (Pr 10:18;20:19; Ps 101:5)
+- It is divisive to harass and forcefully indoctrinate others into your man-made system.
 
 <br>
 
