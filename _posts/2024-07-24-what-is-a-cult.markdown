@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 05:00:00 -0500
+date: 2024-07-23 05:05:00 -0500
 categories: cult sect
 published: true
 ---
@@ -16,13 +16,21 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
+<sup style="font-weight:bold;">‡</sup> <span style="font-size:0.8em;">Sociological & Theological Cults</span><br>
+<sup style="font-weight:bold;">§</sup> <span style="font-size:0.8em;">Theological Cults Only</span><br>
+<sup style="font-weight:bold;">↓</sup> <span style="font-size:0.8em;">Non-Heretical Sects</span><br>
+<sup style="font-weight:bold;">†</sup> <span style="font-size:0.8em;">Orthodoxy Not Heterodoxy</span>
+
+
 - I. <a href="#Characteristics">Characteristics of a Cult</a>
-- II. <a href="#List-Of-Cults">List Of Cults</a>
-- III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects</a>
+- II. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
+- III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalistic</a>
     - 3.2 <a href="#Antinomianism">Antinomian</a>
-- IV. <a href="#List-Of-Sects">List Of Sects</a>
-- V. <a href="#Conclusion">Conclusion</a>
+    - 3.3 <a href="#Overview-Section-Two">Scriptual Overview</span>
+- IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
+- V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
+- VI. <a href="#Conclusion">Conclusion</a>
 
 <br>
 
@@ -65,11 +73,15 @@ inordinate amounts of time to the group
 
 <br>
 
-<a name="List-Of-Cults" href="#contents" style="font-size:2.1em;">☠️ II. List Of Cults</a>
+<a name="List-Of-Cults" href="#contents" style="font-size:2.1em;">☠️ II. List Of Sociological & Theological Cults</a>
 
 ![Kool-Aid-Cult-Meme](/assets/images/kool-aid-cult-meme.webp)
 
 <!-- <sup style="font-style:italic;">GPT-4-turbo</sup> -->
+
+> The sociological sense is used when discussing behavior or other sociological aspects: a group or movement may be a cult if it acts in ways that are illegal or otherwise unacceptable in a civilized society. [Sociological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
+
+> The theological sense is used when discussing major religious differences: a group or movement is theologically a cult if it identifies itself as belonging to a mainstream, recognized religion — and yet rejects or otherwise violates one or more of the central, essential teachings of that religion. &mdash; [Theological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
 
 ### Criteria for Ranking:
 
@@ -143,7 +155,17 @@ Here is a list of the deadly cults arranged from most devastating to least based
 
 <br>
 
-<a name="List-Of-Heretical-Sects" href="#contents" style="font-size:2.1em;">💀 III. List Of Heretical Sects</a>
+<a name="List-Of-Heretical-Sects" href="#contents" style="font-size:2.1em;">💀 III. List Of Heretical Sects Also Known As Theological Cults</a>
+
+> The theological sense is used when discussing major religious differences: a group or movement is theologically a cult if it identifies itself as belonging to a mainstream, recognized religion — and yet rejects or otherwise violates one or more of the central, essential teachings of that religion. &mdash; [Theological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
+
+1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
+2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+3. Verses for obedience &ldquo;*after*&rdquo; justification (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35).
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23).
+6. Verses for good works &ldquo;*after*&rdquo; justification (James 2:14-26; Eph 2:10).
+7. The Holy Spirit produces the fruit, not human decision (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
 <!-- ### Criteria for Ranking:
 
@@ -157,7 +179,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects (Legalism)</a>
 
-![Legalism](/assets/images/legalism.webp)
+![Legalism](/assets/images/legalist-meme.jpg)
 
 <!-- ### 1. **Arianism**
 - **Leader**: Arius
@@ -204,6 +226,27 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
+<a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
+
+✅ Correct teachings from scripture are as follows:
+
+- The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
+    - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
+    - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
+    - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
+- Repentance is the immediate fruit of a genuine non-superficial faith.
+    - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).
+    - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+    - The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- The Bible is against the heresy of antinomianism.
+    - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+    - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
+- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
+
 <!-- 
 ### 1. **Docetism**
 - **Notoriety**: Falsely believed that Jesus' physical body was an illusion and that He did not truly suffer on the cross.
@@ -237,9 +280,9 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <a name="List-Of-Sects" href="#contents" style="font-size:2.1em;">🤷🏻 IV. List Of Sects</a>
 
-![Kool-Aid-Cult-Meme](/assets/images/repent-meme.jpg)
+![Repent-Meme](/assets/images/repent-meme.jpg)
 
-> under construction
+> The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
 <br>
 
@@ -247,7 +290,17 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <br>
 
-<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 V. Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you.</a>
+<a name="Orthodoxy" href="#contents" style="font-size:2.1em;">✅ V. List of Orthodox Christian Groups</a>
+
+![Sound-Teaching](/assets/images/soundness.jpg)
+
+<br>
+
+---
+
+<br>
+
+<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 VI. Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you.</a>
 
 Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
 
