@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🥀 “Die before you die, there is no chance after.” ― C.S. Lewis"
-date: 2024-06-21 01:25:00 -0500
+date: 2024-06-21 01:35:00 -0500
 categories: cslewis repent repentance penitence penitent
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 >
 > Remember, this repentance, this willing submission to humiliation and a kind of death, is not something God demands of you before He will take you back and which He could let you off if He chose: it is simply a description of what going back to Him is like. If you ask God to take you back without it, you are really asking Him to let you go back without going back. It cannot happen. Very well, then, we must go through with it. But the same badness which makes us need it, makes us unable to do it. Can we do it if God helps us? Yes, but what do we mean when we talk of God helping us? We mean God putting into us a bit of Himself, so to speak. He lends us a little of His reasoning powers and that is how we think: He puts a little of His love into us and that is how we love one another. When you teach a child writing, you hold its hand while it forms the letters: that is, it forms the letters because you are forming them. We love and reason because God loves and reasons and holds our hand while we do it.
 >
-> &mdash; An excerpt from “The Perfect Penitent” in Mere Christianity by C.S. Lewis (University of Oxford)
+> &mdash; An excerpt from “The Perfect Penitent” in Mere Christianity by C.S. Lewis (University of Oxford & Cambridge Scholar). *&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*
 
 
 <!-- <br>
