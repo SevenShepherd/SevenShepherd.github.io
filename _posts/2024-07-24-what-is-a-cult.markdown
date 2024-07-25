@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 06:35:00 -0500
+date: 2024-07-23 06:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -336,7 +336,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
     - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 2. Moderate Protestant *&lsquo;isms*
-    - [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), [Original Calvary Chapel Distinctives](https://sevenshepherd.github.io/calvary-chapel/), Possibly Reformed Wesleyanism.
+    - [Amyraldism (Moderate Calvinism)](https://sevenshepherd.github.io/limited-atonement/), [Original Calvary Chapel Distinctives](https://sevenshepherd.github.io/calvary-chapel/), Possibly Reformed Arminianism (Reformed Wesleyanism). They Hold to unlimited atonement or hypothetical universalism.
+    - Early or moderately reformed or amyraldian confessions that do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views, such as the [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/), or even the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/).
 3. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
     - Like that of the Early Church Fathers.
     - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
