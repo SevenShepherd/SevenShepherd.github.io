@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 05:15:00 -0500
-categories: cult sect
+date: 2024-07-23 05:25:00 -0500
+categories: cult heresy sect
 published: true
 ---
 
@@ -33,7 +33,7 @@ published: true
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalistic</a>
     - 3.2 <a href="#Antinomianism">Antinomian</a>
-    - 3.3 <a href="#Overview-Section-Two">Scriptural Overview</a>
+    - 3.3 <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 - VI. <a href="#Conclusion">Conclusion</a>
@@ -355,7 +355,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'ESV'
         }
     }; 
 
