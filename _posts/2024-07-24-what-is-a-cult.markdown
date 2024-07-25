@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 06:15:00 -0500
+date: 2024-07-23 06:20:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -190,8 +190,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 1. ***&ldquo;Jehovah's&rdquo;* Witnesses (Watchtowerites)**
 2. **The Church of Jesus Christ of Latter-day Saints (Mormons)**
 3. **Roman Catholicism (CCC)**
-    
-<!-- - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy. -->
+    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy.
 
 > Under construction
 
@@ -309,7 +308,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 1. **Hyper-Calvinism**
 2. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
-    - See <a href="#List-Of-Heretical-Sects">Heretical Sects</a> for extreme variant
+    - See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant
 3. **KJV Onlyism**
 
 > Under construction
@@ -327,12 +326,12 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 1. Protestantism
     - Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
-    - Sound doctrine & adherenence to the [Five Solas](/assets/images/solas.jpg).
+    - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
     - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 2. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
     - Like that of the Early Church Fathers.
     - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
-    - See <a href="#List-Of-Heretical-Sects">Heretical Sects</a> section for Roman Catholicism.
+    - See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism.
 
 <br>
 
