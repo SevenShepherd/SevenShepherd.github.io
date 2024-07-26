@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:10:00 -0500
+date: 2024-07-23 08:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -33,10 +33,10 @@ published: true
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalistic</a>
     - 3.2 <a href="#Antinomianism">Antinomian</a>
-    - 3.3 <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 - VI. <a href="#Conclusion">Conclusion</a>
+    - 6.1 <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 
 <br>
 
@@ -250,54 +250,6 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Founded**: ...
 - **Notoriety**: These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
 
-<a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
-
-### ✅ Correct teachings from scripture are as follows:
-
-- The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
-    - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
-    - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
-    - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
-    - Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
-    - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
-- Repentance is the immediate fruit of a genuine non-superficial faith.
-    - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).
-    - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
-    - The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
-- The Bible is against the heresy of antinomianism.
-    - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
-    - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
-    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
-    - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
-- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
-
-### ⚠️ Warnings from the Apostles
-
-Because I already addressed [the heresy of antinomianism](https://www.gotquestions.org/antinomianism.html) multiple times, I'm going to briefly cover the topic here:
-
-> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
-
-1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. In 2 Peter 2 he describes them as, <span style="font-weight:bold;color:orangered;">*&ldquo;brute beasts, creatures of instinct, born only to be caught and destroyed&rdquo;*</span> (v. 12), <span style="font-weight:bold;color:orangered;">*&ldquo;springs without water and mists driven by a storm&rdquo;*</span> (v. 17), and <span style="font-weight:bold;color:orangered;">*&ldquo;slaves of depravity&rdquo;*</span> (v. 19). These statements showcase that the subjects were unregenerate professors of the faith.
-2. **The Apostle John<sup>[[1]](https://sevenshepherd.github.io/practicing-sin/) [[2]](https://sevenshepherd.github.io/1-John-2-4/)</sup>** completely obliterates antinomianism in 1 Jn 2:3-6 when he says, <span style="font-weight:bold;color:orangered;">*&ldquo;Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him.&rdquo;*</span> He later states, in 1 John 3:7-9, <span style="font-weight:bold;color:orangered;">*&ldquo;Little children, let no one deceive you. ... Whoever makes a practice of sinning is of the devil, ... No one born of God makes a practice of sinning ...&rdquo;*</span> proving, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
-3. **The Apostle Jude** in Jd 4 NET calls the church to defend the truth aggressively against this infiltration of dualistic antinomianism when he says, *&ldquo;For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;">ungodly men who have turned the grace of our God into a license for evil</span> and who deny our only Master and Lord, Jesus Christ.&rdquo;*
-4. **The Apostle Paul** conquers this extremism in Romans 6:1-2,15 when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;What then? Shall we sin because we are not under law but under grace? <span style="font-size:1.2em;color:red;">Absolutely not!</span>&rdquo;</span> Paul also debunks [dispensational antinomianism](https://www.gotquestions.org/antinomianism.html) when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;Do we then nullify the law through faith? <span style="font-size:1.2em;color:red;">Absolutely not!</span> Instead we uphold the law.&rdquo;</span> (Rom 3:31 NET; 1 Cor 6:9–11; 9:21).
-
-**The Apostle Paul** thoroughly warned New Testament Christians (You & Me). **These warnings were written to people** who would be listening to the New Testament epistles as they were read aloud **in New Testament Churches** (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
-
-> <sup style="font-weight:bold;">19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup style="font-weight:bold;">21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
-
-Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
-
-> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
-
-The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
-
-> Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT
-
-Finally, I would like you all to ruminate and hang on every word from the Apostle John.
-
-> <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
-
 <!-- 
 ### 1. **Docetism**
 - **Notoriety**: Falsely believed that Jesus' physical body was an illusion and that He did not truly suffer on the cross.
@@ -462,6 +414,54 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 
 <!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
+
+<a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">6.1 Overview of Scriptural Teachings</a>
+
+### ✅ Correct teachings from scripture are as follows:
+
+- The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
+    - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
+    - True Christians love God by obeying him (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
+    - Obedience does not merit salvation, the Holy Spirit produces obedience (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5, Ac 17:30; 1Jn 2:4).
+    - Faith is not a work (Romans 4:5), and repentance is a fruit (Mt 3:8-10 NLT).
+- Repentance is the immediate fruit of a genuine non-superficial faith.
+    - Repentance is the &ldquo;*resulting*&rdquo; fruit of genuine saving faith. Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Acts 26:18,20; 3:19; Mt 3:8 NLT; Rev 2:5).
+    - Repentance is produced from **a Godly sorrow** and **leads to salvation and eternal life** (2 Cor. 7:10; Acts 11:18).
+    - The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- The Bible is against the heresy of antinomianism.
+    - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+    - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
+- Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
+
+### ⚠️ Warnings from the Apostles
+
+Because I already addressed [the heresy of antinomianism](https://www.gotquestions.org/antinomianism.html) multiple times, I'm going to briefly cover the topic here:
+
+> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
+
+1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. In 2 Peter 2 he describes them as, <span style="font-weight:bold;color:orangered;">*&ldquo;brute beasts, creatures of instinct, born only to be caught and destroyed&rdquo;*</span> (v. 12), <span style="font-weight:bold;color:orangered;">*&ldquo;springs without water and mists driven by a storm&rdquo;*</span> (v. 17), and <span style="font-weight:bold;color:orangered;">*&ldquo;slaves of depravity&rdquo;*</span> (v. 19). These statements showcase that the subjects were unregenerate professors of the faith.
+2. **The Apostle John<sup>[[1]](https://sevenshepherd.github.io/practicing-sin/) [[2]](https://sevenshepherd.github.io/1-John-2-4/)</sup>** completely obliterates antinomianism in 1 Jn 2:3-6 when he says, <span style="font-weight:bold;color:orangered;">*&ldquo;Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him.&rdquo;*</span> He later states, in 1 John 3:7-9, <span style="font-weight:bold;color:orangered;">*&ldquo;Little children, let no one deceive you. ... Whoever makes a practice of sinning is of the devil, ... No one born of God makes a practice of sinning ...&rdquo;*</span> proving, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
+3. **The Apostle Jude** in Jd 4 NET calls the church to defend the truth aggressively against this infiltration of dualistic antinomianism when he says, *&ldquo;For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;">ungodly men who have turned the grace of our God into a license for evil</span> and who deny our only Master and Lord, Jesus Christ.&rdquo;*
+4. **The Apostle Paul** conquers this extremism in Romans 6:1-2,15 when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;What then? Shall we sin because we are not under law but under grace? <span style="font-size:1.2em;color:red;">Absolutely not!</span>&rdquo;</span> Paul also debunks [dispensational antinomianism](https://www.gotquestions.org/antinomianism.html) when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;Do we then nullify the law through faith? <span style="font-size:1.2em;color:red;">Absolutely not!</span> Instead we uphold the law.&rdquo;</span> (Rom 3:31 NET; 1 Cor 6:9–11; 9:21).
+
+**The Apostle Paul** thoroughly warned New Testament Christians (You & Me). **These warnings were written to people** who would be listening to the New Testament epistles as they were read aloud **in New Testament Churches** (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
+
+> <sup style="font-weight:bold;">19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup style="font-weight:bold;">21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
+
+Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
+
+> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
+
+The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
+
+> Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT
+
+Finally, I would like you all to ruminate and hang on every word from the Apostle John.
+
+> <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
 
 <br>
 
