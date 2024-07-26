@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:25:00 -0500
+date: 2024-07-23 08:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -294,7 +294,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect). 
 - **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
 - They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one.
-- See section on non-heretical <a href="#List-Of-Sects">sects</a> for the moderate variant and for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+- See [this article for several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
