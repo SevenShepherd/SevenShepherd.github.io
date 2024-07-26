@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:20:00 -0500
+date: 2024-07-23 08:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -377,7 +377,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <br>
 
-<a name="Overview-Section-Two" href="#contents" style="font-size:2,1em;">📜 VI. Overview of Scriptural Teachings</a>
+<a name="Overview-Section-Two" href="#contents" style="font-size:2.1em;">📜 VI. Overview of Scriptural Teachings</a>
 
 ### ✅ Correct teachings from scripture are as follows:
 
