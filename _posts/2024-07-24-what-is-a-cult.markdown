@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:05:00 -0500
+date: 2024-07-23 08:10:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -242,13 +242,13 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 1. Theological Liberalism
 
-### 2. Hyper-Grace Movement
-- **Founded**: Systematized in the 1980s.
-- **Notoriety**: These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
-
-### 3. Gnosticism
+### 2. Gnosticism
 - **Founded**:.
 - **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
+
+### 3. Hyper-Grace Movement
+- **Founded**: ...
+- **Notoriety**: These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
 
 <a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
 
