@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 07:55:00 -0500
+date: 2024-07-23 08:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -243,35 +243,16 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ### 1. Theological Liberalism
 
 ### 2. Hyper-Grace Movement
-
-### 3. Extreme 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
 - **Founded**: Systematized in the 1980s.
-- **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). This is what elevates the extreme movement from sect to theological cult (heretical sect). These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
-- **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
-- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is one.
-- See section on Non-heretical <a href="#List-Of-Sects">sects</a> for the moderate variant and for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+- **Notoriety**: These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
 
-> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
->
-> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
->
-> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
-
---
-
-> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
->
->&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
-
---
-
-> “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical.
-
-### 4. Gnosticism
+### 3. Gnosticism
+- **Founded**:.
+- **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
 
 <a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
 
-✅ Correct teachings from scripture are as follows:
+### ✅ Correct teachings from scripture are as follows:
 
 - The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.
     - Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28), but the faith that saves is never alone in the person justified (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).
@@ -289,6 +270,33 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
     - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
 - Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
+
+### ⚠️ Warnings from the Apostles
+
+Because I already addressed [the heresy of antinomianism](https://www.gotquestions.org/antinomianism.html) multiple times, I'm going to briefly cover the topic here:
+
+> <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
+
+1. **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. In 2 Peter 2 he describes them as, <span style="font-weight:bold;color:orangered;">*&ldquo;brute beasts, creatures of instinct, born only to be caught and destroyed&rdquo;*</span> (v. 12), <span style="font-weight:bold;color:orangered;">*&ldquo;springs without water and mists driven by a storm&rdquo;*</span> (v. 17), and <span style="font-weight:bold;color:orangered;">*&ldquo;slaves of depravity&rdquo;*</span> (v. 19). These statements showcase that the subjects were unregenerate professors of the faith.
+2. **The Apostle John<sup>[[1]](https://sevenshepherd.github.io/practicing-sin/) [[2]](https://sevenshepherd.github.io/1-John-2-4/)</sup>** completely obliterates antinomianism in 1 Jn 2:3-6 when he says, <span style="font-weight:bold;color:orangered;">*&ldquo;Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him.&rdquo;*</span> He later states, in 1 John 3:7-9, <span style="font-weight:bold;color:orangered;">*&ldquo;Little children, let no one deceive you. ... Whoever makes a practice of sinning is of the devil, ... No one born of God makes a practice of sinning ...&rdquo;*</span> proving, without a shadow of a doubt, that a true born again has undergone regeneration by the power and indwelling of the Holy Spirit. They no longer &ldquo;*practice*&rdquo; and pursue lifestyles of sin.
+3. **The Apostle Jude** in Jd 4 NET calls the church to defend the truth aggressively against this infiltration of dualistic antinomianism when he says, *&ldquo;For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—<span style="font-weight:bold;color:orangered;">ungodly men who have turned the grace of our God into a license for evil</span> and who deny our only Master and Lord, Jesus Christ.&rdquo;*
+4. **The Apostle Paul** conquers this extremism in Romans 6:1-2,15 when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;What then? Shall we sin because we are not under law but under grace? <span style="font-size:1.2em;color:red;">Absolutely not!</span>&rdquo;</span> Paul also debunks [dispensational antinomianism](https://www.gotquestions.org/antinomianism.html) when he says, <span style="font-style:italic;font-weight:bold;color:orangered;">&ldquo;Do we then nullify the law through faith? <span style="font-size:1.2em;color:red;">Absolutely not!</span> Instead we uphold the law.&rdquo;</span> (Rom 3:31 NET; 1 Cor 6:9–11; 9:21).
+
+**The Apostle Paul** thoroughly warned New Testament Christians (You & Me). **These warnings were written to people** who would be listening to the New Testament epistles as they were read aloud **in New Testament Churches** (cf. 1 Cor. 6:9-11; 2 Cor. 13:5; Heb. 3:12; 1 Jn 2:3-6; 3:6, 9-10; 14).
+
+> <sup style="font-weight:bold;">19</sup> Now the works of the flesh are obvious: sexual immorality, impurity, depravity, <sup style="font-weight:bold;">20</sup> idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup style="font-weight:bold;">21</sup> envying, murder, drunkenness, carousing, and similar things. <span style="font-weight:bold;color:goldenrod;">I am <span style="font-size:1.2em;color:#e6b800;">warning</span> you, as I had warned you before:</span> <span style="font-weight:bold;color:orangered;">Those who <span style="font-size:1.2em;color:red;">practice</span> such things <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God!</span> &mdash; Galatians 5:19-21 NET
+
+Practice in this sense means a lifelong continual pattern. It speaks of the pursuit of a lifestyle of indulgent sin. This does not mean that you will not have sin or that you will be perfect, in fact you may struggle with sin, make mistakes, and even backslide. A true Christian will undergo decreasing patterns of sin (1 John 3:8–9; cf. Rom. 6:14–18) in their progressive sanctification. They will not remain in their old way of life (2 Cor. 5:17; 1Jn 3:31).
+
+> <sup style="font-weight:bold;">9</sup> Do you not know that <span style="font-weight:bold;color:orangered;">the unrighteous <span style="font-size:1.2em;color:red;">will not</span> inherit the kingdom of God</span>? Do not be deceived! The sexually immoral, idolaters, adulterers, passive homosexual partners, practicing homosexuals, <sup style="font-weight:bold;">10</sup> thieves, the greedy, drunkards, the verbally abusive, and swindlers will not inherit the kingdom of God. <sup style="font-weight:bold;">11</sup> Some of you <span style="font-weight:bold;font-size:1.2em;color:#009933;">once lived</span> this way. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. &mdash; 1 Cor. 6:9-11 NET
+
+The Apostle Paul calls on us to examine or test our faith, to see if it is genuine, to see if Jesus is really living in us. If he is, well, then you have a living faith, if not, then you have a dead faith and are disqualified, or fail the test of genuine faith.
+
+> Examine yourselves to see if your faith is genuine. Test yourselves. Surely you know that Jesus Christ is among you; if not, you have failed the test of genuine faith. &mdash; 2 Cor. 13:5 NLT
+
+Finally, I would like you all to ruminate and hang on every word from the Apostle John.
+
+> <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
 
 <!-- 
 ### 1. **Docetism**
@@ -329,15 +337,16 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 1. Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+### 3. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
 - **Founded**: Systematized in the 1980s.
-- **Notoriety (Moderate)**:False teachings on [repentance](https://sevenshepherd.github.io/repentance/) and faith, erroneously teaching both of them to be assent, when instead repentance is a remorse & conversion, and faith is not only the assent of our minds but trust & reliance on Christ.
-- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is one.
-- See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+- **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect). 
+- **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
+- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one.
+- See section on non-heretical <a href="#List-Of-Sects">sects</a> for the moderate variant and for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
-> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span> 
+> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
 >
 > &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
 
