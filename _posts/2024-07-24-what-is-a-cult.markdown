@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:15:00 -0500
+date: 2024-07-23 08:20:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -35,8 +35,8 @@ published: true
     - 3.2 <a href="#Antinomianism">Antinomian</a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
-- VI. <a href="#Conclusion">Conclusion</a>
-    - 6.1 <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
+- VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
+- VII. <a href="#Conclusion">Conclusion</a>
 
 <br>
 
@@ -289,11 +289,11 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 3. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+### 3. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movements (Chaferanism)
 - **Founded**: Systematized in the 1980s.
 - **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect). 
 - **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
-- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one.
+- They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one.
 - See section on non-heretical <a href="#List-Of-Sects">sects</a> for the moderate variant and for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
@@ -342,7 +342,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ![Sound-Teaching](/assets/images/soundness.jpg)
 
 ### 1. Protestantism
-- [Most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic majority.
+- [Most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic community.
 - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
 - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 
@@ -377,45 +377,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <br>
 
-<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 VI. Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you.</a>
-
-Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
-
-<!-- in his book *&ldquo;The Kingdom of the Cults&rdquo;*  -->
-
-> <sup style="font-weight:bold;">24</sup> And the Lord’s slave [*servant or bondservant*] must not engage in heated disputes[*“must not fight” or “must not quarrel.”*] but be kind toward all, an apt teacher, patient, <sup style="font-weight:bold;">25</sup> correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth &mdash; 2 Timothy 2:24-25 NET
-
-Before the debate, I remember them both getting on their hands and knees on the dining room floor and praying in vain before their defeat.
-
-> We know that God does not listen to [sinners](https://sevenshepherd.github.io/practicing-sin/), but if someone is devout and does his will, he listens to this one. &mdash; John 9:31 LEB (cf. Proverbs 15:29; Isaiah 1:15)
-
-I remember thinking to myself, I wonder how foolish they look to God, or if he's indifferent to what they are doing on the floor right now, maybe he's offended? What worth are the prayers of those with [a false gospel](https://www.biblegateway.com/passage/?search=Galatians+1%3A6-9%3B+2+Corinthians+11%3A13-15&version=ESV;NET;NLT) I asked myself.
-
-> God is spirit, and those who worship him must worship in spirit and truth.” &mdash; John 4:24 ESV (This emphasizes the importance of worshiping and praying in accordance with the truth)
-
-One thing is for certain, their *&ldquo;prayers&rdquo;* fell on deaf ears as they were defeated by the truth. Something necessary for them to endure if they were to accept sound doctrine.
-
-> For there will be a time when people will not tolerate sound teaching. Instead, following their own [desires](https://sevenshepherd.github.io/free-grace-theology/#fruit), they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). 4 And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
-
-I feel similarly about those deceived by the diminished gospel of the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as those lost in the false gospel of the [Jehovah Witnesses cult (Watchtowerites)](https://sevenshepherd.github.io/cults/). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
-
-> But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, **even to the point of denying the Master who bought them**. As a result, they will bring swift destruction on themselves. 2 And many will follow their [debauched lifestyles](https://dictionary.cambridge.org/us/dictionary/english/debauched). Because of these false teachers, the way of truth will be slandered. 3 And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago [cf. Jd 4 NET] is not sitting idly by; their destruction is not asleep. &mdash; 2 Peter 2:1-3 NET (cf. Matthew 7:15-16; 2 Timothy 3:13)
-
-I pray they will make Christ their teacher once again. As the Bible says, [*&ldquo;Call no man your teacher&rdquo;*](https://sevenshepherd.github.io/call-no-man-your-teacher/). A true teacher does not teach man-made things (i.e. **Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)). The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
-
-> "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
-
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects or cults](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
-
-<!-- Link added -->
-
-<!-- > **“The first phase of the Reformation was [Amyraldian](https://sevenshepherd.github.io/limited-atonement/) in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. -->
-
-
-
-<!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
-
-<a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">6.1 Overview of Scriptural Teachings</a>
+<a name="Overview-Section-Two" href="#contents" style="font-size:2,1em;">📜 VI. Overview of Scriptural Teachings</a>
 
 ### ✅ Correct teachings from scripture are as follows:
 
@@ -462,6 +424,50 @@ The Apostle Paul calls on us to examine or test our faith, to see if it is genui
 Finally, I would like you all to ruminate and hang on every word from the Apostle John.
 
 > <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
+
+<br>
+
+---
+
+<br>
+
+<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 VII. Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you.</a>
+
+Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
+
+<!-- in his book *&ldquo;The Kingdom of the Cults&rdquo;*  -->
+
+> <sup style="font-weight:bold;">24</sup> And the Lord’s slave [*servant or bondservant*] must not engage in heated disputes[*“must not fight” or “must not quarrel.”*] but be kind toward all, an apt teacher, patient, <sup style="font-weight:bold;">25</sup> correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth &mdash; 2 Timothy 2:24-25 NET
+
+Before the debate, I remember them both getting on their hands and knees on the dining room floor and praying in vain before their defeat.
+
+> We know that God does not listen to [sinners](https://sevenshepherd.github.io/practicing-sin/), but if someone is devout and does his will, he listens to this one. &mdash; John 9:31 LEB (cf. Proverbs 15:29; Isaiah 1:15)
+
+I remember thinking to myself, I wonder how foolish they look to God, or if he's indifferent to what they are doing on the floor right now, maybe he's offended? What worth are the prayers of those with [a false gospel](https://www.biblegateway.com/passage/?search=Galatians+1%3A6-9%3B+2+Corinthians+11%3A13-15&version=ESV;NET;NLT) I asked myself.
+
+> God is spirit, and those who worship him must worship in spirit and truth.” &mdash; John 4:24 ESV (This emphasizes the importance of worshiping and praying in accordance with the truth)
+
+One thing is for certain, their *&ldquo;prayers&rdquo;* fell on deaf ears as they were defeated by the truth. Something necessary for them to endure if they were to accept sound doctrine.
+
+> For there will be a time when people will not tolerate sound teaching. Instead, following their own [desires](https://sevenshepherd.github.io/free-grace-theology/#fruit), they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). 4 And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
+
+I feel similarly about those deceived by the diminished gospel of the [80s Chaferanism sect](https://sevenshepherd.github.io/free-grace-theology/), as well as those lost in the false gospel of the [Jehovah Witnesses cult (Watchtowerites)](https://sevenshepherd.github.io/cults/). They *&ldquo;pray&rdquo;* in vain and obsessively with these false teachers and their false systems and organizations on a daily basis and will use every opportunity to push them on you until you have to [avoid them](https://sevenshepherd.github.io/cutting-ties/).
+
+> But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, **even to the point of denying the Master who bought them**. As a result, they will bring swift destruction on themselves. 2 And many will follow their [debauched lifestyles](https://dictionary.cambridge.org/us/dictionary/english/debauched). Because of these false teachers, the way of truth will be slandered. 3 And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago [cf. Jd 4 NET] is not sitting idly by; their destruction is not asleep. &mdash; 2 Peter 2:1-3 NET (cf. Matthew 7:15-16; 2 Timothy 3:13)
+
+I pray they will make Christ their teacher once again. As the Bible says, [*&ldquo;Call no man your teacher&rdquo;*](https://sevenshepherd.github.io/call-no-man-your-teacher/). A true teacher does not teach man-made things (i.e. **Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)). The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13. It states:
+
+> "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
+
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects or cults](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
+
+<!-- Link added -->
+
+<!-- > **“The first phase of the Reformation was [Amyraldian](https://sevenshepherd.github.io/limited-atonement/) in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement.”** &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486. -->
+
+
+
+<!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
 
 <br>
 
