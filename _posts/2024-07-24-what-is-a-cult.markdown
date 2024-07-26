@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 07:35:00 -0500
+date: 2024-07-23 07:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -244,10 +244,24 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 2. Hyper-Grace Movement
 
-### 3. Extreme 80's &ldquo;Free Grace&rdquo; Movement
-- Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/). 
-- Would not receive corrections from academic majority. Very quacky.
-- See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
+### 3. Extreme 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+- **Founded**: Systematized in the 1980s.
+- **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). This is what elevates the moderate movement from sect to theological cult (heretical sect). These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
+- **Notoriety (Moderate)**: False teachings on [repentance](https://sevenshepherd.github.io/repentance/) and faith, erroneously teaching both of them to be assent, when instead repentance is a remorse & conversion, and faith is not only the assent of our minds but trust & reliance on Christ.
+- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is one.
+- See section on Non-heretical <a href="#List-Of-Sects">sects</a> for the moderate variant and for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+
+> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
+>
+> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
+>
+> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
+
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+>
+>&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+
+> “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical.
 
 ### 4. Gnosticism
 
@@ -312,12 +326,25 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 > Under construction
 
 ### 1. Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
-- Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
-- Would not receive corrections from academic majority.
-- See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant.
+- Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/) and faith, erroneously teaching both of them to be assent, when instead repentance is a remorse & conversion, and faith is not only the assent of our minds but trust & reliance on Christ.
+- They would not receive corrections from the academic majority and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is one.
+- See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant for [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+
+> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> 
+>
+>&mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1.
+
+> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span> 
+>
+> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 4.
+
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+>
+>&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
 
 ### 2. KJV Onlyism
-- Reasons: Anti-science, anti-scholarship, anti-reason.
+- Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
+- > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
 ### 3. Hyper-Calvinism
 - Reasons: Anti-evangelistic, limited atonement.
@@ -345,7 +372,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ![Sound-Teaching](/assets/images/soundness.jpg)
 
 ### 1. Protestantism
-- Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
+- [Most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic majority.
 - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
 - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 
