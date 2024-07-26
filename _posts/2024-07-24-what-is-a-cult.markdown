@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:35:00 -0500
+date: 2024-07-23 08:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -323,6 +323,10 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ### 4. Orthodox Calvinism
 - Reasons: Limited atonement.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+
+> All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... 
+>
+&mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
 ### 5. Arminianism
 - Reasons: Synergism.
