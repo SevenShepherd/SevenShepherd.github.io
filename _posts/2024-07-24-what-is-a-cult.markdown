@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 07:30:00 -0500
+date: 2024-07-23 07:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -187,28 +187,26 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Legalism](/assets/images/legalist-meme.jpg)
 
-1. ***&ldquo;Jehovah's&rdquo;* Witnesses (Watchtowerites)**
-2. **The Church of Jesus Christ of Latter-day Saints (Mormons)**
-3. **Roman Catholicism (CCC)**
-    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy.
+### 1. [*&ldquo;Jehovah's&rdquo;* Witnesses (Watchtowerites)](https://sevenshepherd.github.io/cults/)
+- **Founded**: Late 19th century by Charles Taze Russell.
+- **Notoriety**: 142 deviations from Christianity, including [essential doctrine](https://sevenshepherd.github.io/essential-doctrine/). 
+    - Denial of the Trinity
+    - [Denial of Jesus deity](https://sevenshepherd.github.io/deity/)
+    - Denial of Body & Soul (2Cor 5:8; Phil 1:21-23; Lk 23:43; Mt 10:28)
+    - Denial of Beast & False Prophet burning alive for 1000 years (Re 19:11-14,20; 20:10)
+    - Denial of 144,000 being Jewish, virgin, men (Re 7:4; 14:4)
+
+### 2. The Church of Jesus Christ of Latter-day Saints (Mormons)
+- **Founded**: Early 19th century by Joseph Smith.
+- **Notoriety**: False views on the Trinity being separate entities instead of God in three distinct persons. They think they can become gods and are in denial of Isaiah 43:10. 
+- The Joseph Smith Papyri, used by Joseph Smith to produce the Book of Abraham, were initially believed to contain the writings of the biblical Abraham by Mormons. However, when the surviving fragments were re-examined by Egyptologists in the 20th century, they were identified as standard Egyptian funerary texts, including the "Book of Breathing" and the "Book of the Dead." These findings completely debunked the Latter-day Saint community.
 
 > Under construction
-
 
 <!-- ### 1. **Arianism**
 - **Leader**: Arius
 - **Notoriety**: Denied the full divinity of Jesus Christ, teaching that He was a created being.
 - **Impact**: Led to significant theological conflict and was condemned at the First Council of Nicaea in 325 AD. Despite this, Arianism had a profound influence on the early church and persisted for centuries.
-
-### 2. [Jehovah's Witnesses](https://sevenshepherd.github.io/cults/)
-- **Founded**: Late 19th century by Charles Taze Russell.
-- **Key Beliefs**:
-  - Denial of the Trinity: Falsely Teach that *&ldquo;Jehovah&rdquo;* (God) is supreme, Jesus is his created son, and the Holy Spirit is an impersonal force.
-  - [Denial of Jesus Deity](https://sevenshepherd.github.io/deity/): Jesus is falsely seen as a distinct, subordinate entity to God the Father.
-  - No immortal soul: Reject the traditional Christian belief in the immortality of the soul.
-  - Annihilationism: Believe that the wicked will not suffer eternal torment in hell but will be annihilated.
-  - Contorted eschatology: Falsely believing the  144,000 Jewish virgin boys, to instead be JWs who will rule with Christ in heaven.
-- **Impact**: Jehovah's Witnesses are known for their extensive evangelism and distinctive practices, such as refusal of blood transfusions and non-participation in secular governments and holidays. Their beliefs and practices have led to significant theological and social conflicts with mainstream Christianity.
 
 ### 3. The Church of Jesus Christ of Latter-day Saints (Mormons)
 - **Founded**: Early 19th century by Joseph Smith.
@@ -240,15 +238,18 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
-1. **Theological Liberalism**
-2. **Hyper-Grace Movement**
-3. [**Extreme 80's &ldquo;Free Grace&rdquo; Movement**](https://sevenshepherd.github.io/free-grace-theology/)
-    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/). 
-    - Would not receive corrections from academic majority. Very quacky.
-    - See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
-4. **Gnosticism**
-
 > Under construction
+
+### 1. Theological Liberalism
+
+### 2. Hyper-Grace Movement
+
+### 3. Extreme 80's &ldquo;Free Grace&rdquo; Movement
+- Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), faith, and carnality, as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/). 
+- Would not receive corrections from academic majority. Very quacky.
+- See <a href="#List-Of-Sects">Non-Heretical Sects</a> section for the **moderate** variant.
+
+### 4. Gnosticism
 
 <a name="Overview-Section-Two" href="#contents" style="font-size:1.6em;">3.3 Overview of Scriptural Teachings</a>
 
@@ -308,25 +309,30 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
-1. [**Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)**](https://sevenshepherd.github.io/free-grace-theology/)
-    - Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
-    - Would not receive corrections from academic majority. Quacky.
-    - See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant
-2. **KJV Onlyism**
-    - Reasons: Anti-science, anti-scholarship, anti-reason.
-3. **Hyper-Calvinism**
-    - Reasons: Anti-evangelistic, limited atonement.
-    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
-4. **Orthodox Calvinism**
-    - Reasons: Limited atonement.
-    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
-5. **Arminianism**
-    - Reasons: Synergistic (Faith + Works).
-    - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
-
-
 > Under construction
 
+### 1. Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+- Reasons: False teachings on [repentance](https://sevenshepherd.github.io/repentance/), as well as [several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+- Would not receive corrections from academic majority.
+- See <a href="#Antinomianism">Heretical Sects (Antinomianism)</a> for extreme variant.
+
+### 2. KJV Onlyism
+- Reasons: Anti-science, anti-scholarship, anti-reason.
+
+### 3. Hyper-Calvinism
+- Reasons: Anti-evangelistic, limited atonement.
+- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+
+### 4. Orthodox Calvinism
+- Reasons: Limited atonement.
+- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+
+### 5. Arminianism
+- Reasons: Synergism.
+- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
+
+### 6. Roman Catholicism (CCC)
+- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy.
 
 <br>
 
@@ -338,17 +344,21 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Sound-Teaching](/assets/images/soundness.jpg)
 
-1. Protestantism
-    - Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
-    - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
-    - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
-2. [Systemless Moderates](https://sevenshepherd.github.io/call-no-man-your-teacher/) & Moderate Protestant *&lsquo;isms*
-    - [Amyraldism (Moderate Calvinism)](https://sevenshepherd.github.io/limited-atonement/), [Original Calvary Chapel Distinctives](https://sevenshepherd.github.io/calvary-chapel/), Possibly Reformed Arminianism (Reformed Wesleyanism). They hold to unlimited atonement or hypothetical universalism.
-    - Early or moderately reformed or amyraldian confessions that do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views, such as the [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/), or even the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/).
-3. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
-    - Like that of the Early Church Fathers.
-    - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
-    - See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism.
+### 1. Protestantism
+- Academic majority & [most educated group in existence](https://sevenshepherd.github.io/science/).
+- Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
+- Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
+
+### 2. [Systemless Moderates](https://sevenshepherd.github.io/call-no-man-your-teacher/) & Moderate Protestant *&lsquo;isms*
+- [Amyraldism (Moderate Calvinism)](https://sevenshepherd.github.io/limited-atonement/), [Original Calvary Chapel Distinctives](https://sevenshepherd.github.io/calvary-chapel/), Possibly Reformed Arminianism (Reformed Wesleyanism). They hold to unlimited atonement or hypothetical universalism.
+- Early or moderately reformed or amyraldian confessions that do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views, such as the [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/), or even the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/).
+
+### 3. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
+- Like that of the Early Church Fathers.
+- Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
+- See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism.
+
+--
 
 <span style="font-size:1.2em;">This ministry holds to a Systemless Moderate & Basic Protestant View</span>
 
