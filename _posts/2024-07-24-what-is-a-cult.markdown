@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 09:00:00 -0500
+date: 2024-07-23 09:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -240,15 +240,42 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 1. Theological Liberalism
+<!-- ### 1. Theological Liberalism -->
 
-### 2. Gnosticism
+### 1. Gnosticism Heretics
 - **Founded**:.
 - **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
 
-### 3. Hyper-Grace Movement
-- **Founded**: ...
-- **Notoriety**: These are the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET.
+### 2. Hyper-Grace Heretics
+- **Origins**: This heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
+- **Notoriety**: **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19 NET.
+    - Hyper-Grace heretics live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
+    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. **They live in denial of what the scriptures, the academic community, and lexicons state.**
+- They Live in complete denial of scripture and are indoctrinating innocent children into lifestyles of sin and debauchery (Lk 17:2), causing them to apostatize.
+    - **Taught alongside faith by Christ Himself** (Mark 1:14-15).
+    - One of the reasons Jesus came (Lk 5:32).
+    - Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+    - **An immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
+    - **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
+    - **Commanded** by God (Ac 17:30; Mt 4:17).
+    - **Granted** by God (Ac 11:18; 2Tim. 2:25).
+    - Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
+    - Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+    - **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+    - **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
+    - Described as **needed** and necessary (Lk 15:7).
+    - Repent or Perish (Lk 13:3; Mt 3:10).
+    - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
+    
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+>
+>&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+
+--
+
+> The idea that there can be saving faith without repentance, and that one can be justified by **embracing Christ as Saviour while refusing him as Lord, is a destructive delusion**.
+>
+> &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a>
 
 <!-- 
 ### 1. **Docetism**
