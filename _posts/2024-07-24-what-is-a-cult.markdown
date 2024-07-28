@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 09:15:00 -0500
+date: 2024-07-23 09:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -252,9 +252,9 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Hyper-Grace heretics live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
     - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. 
 - **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into lifestyles of sin and debauchery (Lk 17:2), causing them to apostatize.
-    - **Repentance Taught alongside faith by Christ Himself** (Mark 1:14-15).
+    - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
     - Repentance is one of the reasons Jesus came (Lk 5:32).
-    - Repentance taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+    - Repentance is taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
     - **Repentance is an immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
     - **Repentance will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
     - **Repentance is commanded** by God (Ac 17:30; Mt 4:17).
@@ -342,7 +342,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 ### 2. KJV Onlyism
 - Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
 
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
 
 ### 3. Hyper-Calvinism
 - **Notoriety**: Anti-evangelistic, double-predestination, limited atonement.
