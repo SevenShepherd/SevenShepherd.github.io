@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:45:00 -0500
+date: 2024-07-23 08:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -289,7 +289,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 3. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movements (Chaferanism)
+### 1. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movements (Chaferanism)
 - **Founded**: Systematized in the 1980s.
 - **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect). 
 - **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
