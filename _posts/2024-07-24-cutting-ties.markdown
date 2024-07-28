@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "🙅🏻 If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). Give a first and second warning. After that, have nothing more to do with them (Ti 3:10)."
-date: 2024-07-23 02:00:00 -0500
+title: "🙅🏻 The Paradox of Division: If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). “I have not come to bring peace, but a sword. For I have come to set a man against his father...” (Jesus, Mt 10:34-40)"
+date: 2024-07-23 02:10:00 -0500
 categories: division
 published: true
 ---
 
-There's yet another paradox to cover here. Those who are divisive are likely false converts, but at the same time the Bible tells us that there is a time to divide.
+<a name="Division-Paradox" href="#contents" style="font-size:2.1em;">The Division Paradox</a>
+
+<!-- If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). Give a first and second warning. After that, have nothing more to do with them (Ti 3:10). -->
+
+There's yet another paradox to cover here. Those who are divisive are likely false converts (Jd 19), but at the same time the Bible tells us that there is a time to divide (Mt 10:34-40).
 
 > <sup style="font-weight:bold;">19</sup> These people are the ones who are creating divisions among you. They follow their natural instincts <span style="font-weight:bold;color:GoldenRod;">because they do not have God’s Spirit in them</span>. &mdash; Jude 1:19
 
-I think the difference is, being divisive in the sense of false profession, is when people never stop harassing you, or indoctrinating you, or bearing false witness against you. I can remember being slandered viciously by the lead worship leader of my local church, simply over false witness. This is a good example of divisiveness as a negative. Even after several years of verbal assault, I still pray for this individual and desire to fellowship with them, unfortunately I could endure abuse no longer.
+I think the difference is, being divisive in the sense of false profession, is when people never stop harassing you, or indoctrinating you, or bearing false witness against you. I can remember being slandered viciously by the lead worship leader of my local church, as false witness was brought against me. This is a good example of division as a negative. Even after several years of verbal assault, I still desire to fellowship with this individual, unfortunately I could endure abuse no longer.
 
 <!-- These are the people who are usually lost in cults and heretical sects, who always push materials, other than the Bible or lexicons, to indoctrinate you. They pray obsessively with these false teachers and their false systems on a daily basis and will use every opportunity to push them on you until you have to avoid them. -->
 
