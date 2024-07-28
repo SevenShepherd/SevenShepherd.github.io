@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 09:45:00 -0500
+date: 2024-07-23 09:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -246,11 +246,11 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Founded**:.
 - **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
 
-### 2. Hyper-Grace Heretics
+### 2. Hyper-Grace Heretics & Extreme 80's &ldquo;Free Grace&rdquo; Movements
 - **Origins**: This heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
 - **Notoriety**: **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19 NET.
     - Hyper-Grace heretics live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
-    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms, when in reality, repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
+    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into lifestyles of sin and debauchery (Lk 17:2), causing them to apostatize.
     - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
     - Repentance is one of the reasons Jesus came (Lk 5:32).
@@ -263,13 +263,25 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     - Repentance is preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
     - **Repentance is produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
     - **Repentance leads to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
-    - Described as **needed** and necessary (Lk 15:7).
+    - Repentance is described as **needed** and necessary (Lk 15:7).
     - Repent or Perish (Lk 13:3; Mt 3:10).
     - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
     
+> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
+>
+> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
+>
+> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
+
+--
+
 > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
 >&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+
+--
+
+> “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical.
 
 --
 
@@ -316,12 +328,14 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 1. Moderate & Extreme 80's &ldquo;Free Grace&rdquo; Movements (Chaferanism)
-- **Founded**: Systematized in the 1980s. Eerily reminiscent to the theological cult (heretical sect) known as the hyper-grace movement.
-- **Notoriety (Extreme)**: The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect). 
-- **Notoriety (Moderate)**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion.
-- They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one.
-- See [this article for several other unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
+### 1. Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+- **Founded**: Systematized in the 1980s. Eerily reminiscent to the theological cult (heretical sect) known as the <a href="#Antinomianism">hyper-grace movement</a>. It's more extreme variant might as well be the same teaching. **This is a critique of the moderate variant.**
+- **Notoriety**: To see the many deviations from scripture that this movement takes, see [this article for several unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/)
+    - False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion according to every authoritative greek lexicon, dictionary, English Bible translations, and 1,000s of biblical language scholars.
+
+<!-- The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect).  -->
+
+<!-- - They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one. -->
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
