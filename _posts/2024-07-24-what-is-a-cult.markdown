@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 09:35:00 -0500
+date: 2024-07-23 09:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -250,7 +250,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Origins**: This heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
 - **Notoriety**: **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19 NET.
     - Hyper-Grace heretics live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
-    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. 
+    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms, when in reality, repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into lifestyles of sin and debauchery (Lk 17:2), causing them to apostatize.
     - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
     - Repentance is one of the reasons Jesus came (Lk 5:32).
