@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 08:55:00 -0500
+date: 2024-07-23 09:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -314,25 +314,50 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 2. KJV Onlyism
 - Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
-- > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D.](https://youtu.be/NikVdhp0YFs)
 
 ### 3. Hyper-Calvinism
-- Reasons: Anti-evangelistic, limited atonement.
-- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
+- **Notoriety**: Anti-evangelistic, double-predestination, limited atonement.
+- St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
-### 4. Orthodox Calvinism
-- Reasons: Limited atonement.
+> The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout 5-point Scholastic Calvinist.
+
+--
+
+> I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
+
+### 4. Orthodox Calvinism (Scholastic Calvinism)
+- **Founded**: Calvinism was founded by John Calvin, a French theologian and pastor, in the mid-16th century. Calvin's influential work, "Institutes of the Christian Religion," first published in **1536**, laid the foundational doctrines of what would later be called Calvinism.
+- **Notoriety**: Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**).
+- St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
 
 > All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... 
 >
-&mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
+> &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
+
+--
+
+> However, **the first phase of the Reformation was Amyraldian** in the sense that the churches professed a strong view of divine predestination while also affirming a universal perspective on the extent of the atonement. There is mention of election but no support for limited atonement in the First Helvetic Confession (1536), the Scots Confession (1560), or the Belgic Confession (1561). Lutherans and Anglicans both confess divine predestination while simultaneously affirming a universal atonement and the universal offer of the gospel. <sup>146</sup> On the Anglican side, D. B. Knox, a much-neglected Australian Anglican theologian, stands in this tradition of Anglican Calvinism with a universal view of the atonement.<sup>147</sup> For Knox, the work of Christ extends uniformly to the whole of humanity, and this is clear when based around certain theological tenets.
+>
+> &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
 ### 5. Arminianism
-- Reasons: Synergism.
+- **Founded**: Arminianism was founded by Jacobus Arminius, a Dutch theologian, in the late 16th and early 17th centuries.
+- **Notoriety**: Synergism.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
 
+> Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. ...
+>
+> Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” ...
+>
+>In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. ...
+>
+> &mdash; [Dr. Bruce Demarest (Ph.D., University of Manchester)](https://sevenshepherd.github.io/ordo-salutis/) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." p. 35.
+
 ### 6. Roman Catholicism (CCC)
+- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy.
 
 <br>
