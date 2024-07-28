@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 10:25:00 -0500
+date: 2024-07-23 10:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -360,8 +360,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
 
 ### 3. Hyper-Calvinism
-- **Notoriety**: Anti-evangelistic, double-predestination, limited atonement.
-- St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+- **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout 5-point Scholastic Calvinist.
 
@@ -371,8 +370,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 4. Orthodox Calvinism (Scholastic Calvinism)
 - **Founded**: Calvinism was founded by John Calvin, a French theologian and pastor, in the mid-16th century. Calvin's influential work, "Institutes of the Christian Religion," first published in **1536**, laid the foundational doctrines of what would later be called Calvinism.
-- **Notoriety**: Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**).
-- St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+- **Notoriety**: Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
 
 > All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... 
@@ -400,7 +398,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 6. Roman Catholicism (CCC)
 - **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
-- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy.
+
+<!-- - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy. -->
 
 <br>
 
@@ -536,7 +535,7 @@ I pray they will make Christ their teacher once again. As the Bible says, [*&ldq
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
 
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects or cults](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects (theological cults)](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
 
 <!-- Link added -->
 
