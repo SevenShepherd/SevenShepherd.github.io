@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🙅🏻 The Paradox of Division: If people are causing divisions among you, it's very likely they are not indwelt by the Holy Spirit (Jd 1:19). “I have not come to bring peace, but a sword. For I have come to set a man against his father...” (Jesus, Mt 10:34-40)"
-date: 2024-07-23 02:10:00 -0500
+title: "🙅🏻 The Division Paradox: “I have not come to bring peace, but a sword. For I have come to set a man against his father... Whoever loves father or mother more than me is not worthy of me” (Jesus, Mt 10:34-40)"
+date: 2024-07-23 02:15:00 -0500
 categories: division
 published: true
 ---
