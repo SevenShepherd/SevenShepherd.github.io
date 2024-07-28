@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 10:05:00 -0500
+date: 2024-07-23 10:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -414,15 +414,16 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ### 1. Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός), Followers of “The Way” (ἡ ὁδός - hė hodós)
 - This is systemless Christianity directly from Christ and the Apostles.
-- Consider my articles on being a systemless moderate & basic protestant.
+- Consider my articles on being a systemless moderate and basic protestant.
     - [Call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/).
-    - [The Hierarchy of Authority & How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/)
+    - [The Hierarchy of Authority & How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/).
 
 ### 2. Moderate Protestant *&lsquo;isms*
 - [Most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic community.
 - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
 - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - Early reformed confessions such as the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/), or [Amyraldian (moderately reformed)](https://sevenshepherd.github.io/limited-atonement/) confessions such as [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/). They do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views.
+- [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), Reformed Arminianism (Reformed Wesleyanism), and the [original Calvary Chapel distinctives](https://sevenshepherd.github.io/calvary-chapel/).
 
 <!-- ### 3. Ancient Catholic Orthodoxy (Trinity & Jesus Deity)
 - Like that of the Early Church Fathers.
