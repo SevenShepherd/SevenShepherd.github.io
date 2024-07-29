@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🙅🏻 The Division Paradox: “I have not come to bring peace, but a sword. For I have come to set a man against his father... Whoever loves father or mother more than me is not worthy of me” (Jesus, Mt 10:34-40)"
-date: 2024-07-23 02:15:00 -0500
+title: "🗡️ “I have not come to bring peace, but a sword.” — Jesus"
+date: 2024-07-23 02:20:00 -0500
 categories: division
 published: true
 ---
