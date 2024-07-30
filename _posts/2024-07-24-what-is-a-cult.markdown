@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 10:35:00 -0500
+date: 2024-07-23 10:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -183,7 +183,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 
 
-<a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects (Legalism)</a>
+<a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects, Also Known As Theological Cults (Legalism)</a>
 
 ![Legalism](/assets/images/legalist-meme.jpg)
 
@@ -234,7 +234,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 -->
 
 
-<a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects (Antinomianism)</a>
+<a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects, Also Known As Theological Cults (Antinomianism)</a>
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
@@ -242,31 +242,41 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <!-- ### 1. Theological Liberalism -->
 
-### 1. Gnostic Heretics
-- **Founded**:.
+<!-- Gnosticism is a diverse and complex religious movement that emerged in the early centuries of the Common Era, roughly between the 1st and 3rd centuries. It is not attributed to a single founder, as it encompasses a variety of beliefs and practices. Gnostic ideas were influenced by a mix of Jewish, Christian, and Hellenistic thought.
+
+Key figures associated with early Gnostic thought include:
+
+1. **Simon Magus**: A Samaritan magician mentioned in the Acts of the Apostles, who is often considered an early Gnostic figure.
+2. **Valentinus**: A prominent Gnostic teacher in the 2nd century who founded the Valentinian school of Gnosticism.
+3. **Basilides**: Another influential Gnostic teacher from the 2nd century, who developed his own cosmology and theological system.
+4. **Marcion**: Although not a Gnostic per se, his teachings had some Gnostic elements, particularly his dualistic view of the world.
+
+Gnosticism as a movement is characterized by its emphasis on esoteric knowledge (gnosis) for salvation, a dualistic worldview, and a distinct cosmology involving emanations and lesser divinities. It was largely deemed heretical by orthodox Christianity and thus suppressed, with much of what we know about it coming from the writings of its opponents and the discovery of Gnostic texts like those found in the Nag Hammadi library in 1945.
+
+
+Gnosticism, as a religious and philosophical movement, lacks a precise founding date. However, its development can be traced to specific centuries:
+
+- **1st Century CE**: Early forms of Gnostic thought begin to emerge. Simon Magus, who is mentioned in the Acts of the Apostles, is sometimes considered an early Gnostic figure. His activities are typically dated to the mid-1st century.
+- **2nd Century CE**: Gnosticism becomes more structured and prominent. Key figures such as Valentinus and Basilides are active during this period. Valentinus is believed to have taught in Rome around 136-165 CE. Basilides was active in Alexandria around 117-138 CE.
+- **3rd Century CE**: Gnostic ideas continue to evolve and spread. Mani, the founder of Manichaeism, a religion with Gnostic elements, was active in the mid-3rd century (around 216-276 CE). -->
+
+### 1. Gnosticism
+- **Founded**: Gnosticism, emerging from the 1st to 3rd centuries AD, is a complex religious movement characterized by esoteric knowledge for salvation and a dualistic worldview. Key figures include Simon Magus (mid-1st century; Acts 8:9-24), Valentinus (active around 136-165 AD), and Basilides (active around 117-138 AD). The movement lacks a precise founding date and is influenced by Jewish, Christian, and Hellenistic thought.
+Thus, Gnosticism as a movement developed over a period of time, roughly from the 1st to the 3rd centuries AD, without a single founding year or individual.
 - **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
 
-### 2. Hyper-Grace Heretics & Extreme 80's &ldquo;Free Grace&rdquo; Movement
-- **Origins**: This heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
-- **Notoriety**: **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19 NET.
-    - Hyper-Grace heretics live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
-    - Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
-    - For more on the extreme 80s movement, [this article will showcase several unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/).
-- **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into lifestyles of sin and debauchery (Lk 17:2), causing them to apostatize.
-    - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
-    - Repentance is one of the reasons Jesus came (Lk 5:32).
-    - Repentance is taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
-    - **Repentance is an immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
-    - **Repentance will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
-    - **Repentance is commanded** by God (Ac 17:30; Mt 4:17).
-    - **Repentance is granted** by God (Ac 11:18; 2Tim. 2:25).
-    - Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
-    - Repentance is preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
-    - **Repentance is produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
-    - **Repentance leads to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
-    - Repentance is described as **needed** and necessary (Lk 15:7).
-    - Repent or Perish (Lk 13:3; Mt 3:10).
-    - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
+### 2. Hyper-Grace Movement & 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+
+<sup style="font-style:italic;">Includes the [80's &ldquo;Free Grace&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), as they have near identical false teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/).</sup>
+
+
+<!-- Eerily reminiscent to the theological cult (heretical sect) known as the <a href="#Antinomianism">hyper-grace movement</a>. It's more extreme variant might as well be the same teaching.  -->
+
+<!-- - **Notoriety**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion according to every authoritative greek lexicon, dictionary, English Bible translations, and 1,000s of biblical language scholars. -->
+
+- **Origins**: Chaferanism was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bleed into the theological cult (heretical sect) known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
+- **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, and  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
+- **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt. **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19.
     
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
@@ -289,6 +299,21 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 > The idea that there can be saving faith without repentance, and that one can be justified by **embracing Christ as Saviour while refusing him as Lord, is a destructive delusion**.
 >
 > &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a>
+
+<!-- - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
+- Repentance is one of the reasons Jesus came (Lk 5:32).
+- Repentance is taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+- **Repentance is an immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
+- **Repentance will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
+- **Repentance is commanded** by God (Ac 17:30; Mt 4:17).
+    - **Repentance is granted** by God (Ac 11:18; 2Tim. 2:25).
+    - Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
+    - Repentance is preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+    - **Repentance is produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+    - **Repentance leads to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
+    - Repentance is described as **needed** and necessary (Lk 15:7).
+    - Repent or Perish (Lk 13:3; Mt 3:10).
+    - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).  -->
 
 <!-- 
 ### 1. **Docetism**
@@ -329,37 +354,11 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > Under construction
 
-### 1. Moderate 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
-- **Founded**: Systematized in the 1980s. Eerily reminiscent to the theological cult (heretical sect) known as the <a href="#Antinomianism">hyper-grace movement</a>. It's more extreme variant might as well be the same teaching. **This is a critique of the moderate variant.**
-- **Notoriety**: To see the many deviations from scripture that this movement takes, see [this article for several unscriptural teachings](https://sevenshepherd.github.io/free-grace-theology/)
-    - False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion according to every authoritative greek lexicon, dictionary, English Bible translations, and 1,000s of biblical language scholars.
-
 <!-- The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect).  -->
 
 <!-- - They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one. -->
 
-> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
->
-> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
->
-> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
-
---
-
-> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
->
->&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
-
---
-
-> “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical.
-
-### 2. KJV Onlyism
-- Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
-
-> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
-
-### 3. Hyper-Calvinism
+### 1. Hyper-Calvinism (Not Orthodox Calvinism)
 - **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout 5-point Scholastic Calvinist.
@@ -368,7 +367,10 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
-### 4. Orthodox Calvinism (Scholastic Calvinism)
+### 2. Roman Catholicism & Eastern Orthodoxy (CCC)
+- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
+
+### 3. Orthodox Calvinism (Scholastic Calvinism)
 - **Founded**: Calvinism was founded by John Calvin, a French theologian and pastor, in the mid-16th century. Calvin's influential work, "Institutes of the Christian Religion," first published in **1536**, laid the foundational doctrines of what would later be called Calvinism.
 - **Notoriety**: Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
@@ -383,7 +385,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 >
 > &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
-### 5. Arminianism
+### 4. Arminianism
 - **Founded**: Arminianism was founded by Jacobus Arminius, a Dutch theologian, in the late 16th and early 17th centuries.
 - **Notoriety**: Synergism.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
@@ -396,8 +398,10 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 >
 > &mdash; [Dr. Bruce Demarest (Ph.D., University of Manchester)](https://sevenshepherd.github.io/ordo-salutis/) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." p. 35.
 
-### 6. Roman Catholicism (CCC)
-- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
+### 5. KJV Onlyism
+- Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
+
+> "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
 
 <!-- - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Ancient Catholic Orthodoxy. -->
 
