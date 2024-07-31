@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 10:45:00 -0500
+date: 2024-07-23 11:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -261,9 +261,8 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 - **3rd Century CE**: Gnostic ideas continue to evolve and spread. Mani, the founder of Manichaeism, a religion with Gnostic elements, was active in the mid-3rd century (around 216-276 CE). -->
 
 ### 1. Gnosticism
-- **Founded**: Gnosticism, emerging from the 1st to 3rd centuries AD, is a complex religious movement characterized by esoteric knowledge for salvation and a dualistic worldview. Key figures include Simon Magus (mid-1st century; Acts 8:9-24), Valentinus (active around 136-165 AD), and Basilides (active around 117-138 AD). The movement lacks a precise founding date and is influenced by Jewish, Christian, and Hellenistic thought.
-Thus, Gnosticism as a movement developed over a period of time, roughly from the 1st to the 3rd centuries AD, without a single founding year or individual.
-- **Notoriety**: Dualistic antinomians. The Apostles Jude wrote specifically about them in Jude 4 NET.
+- **Founded**: Gnosticism, emerging from the 1st to 3rd centuries AD, is a complex religious movement characterized by esoteric knowledge for salvation and a dualistic worldview. Key figures include Simon Magus (mid-1st century; Acts 8:9-24), Valentinus (active around 136-165 AD), and Basilides (active around 117-138 AD). The movement lacks a precise founding date and is influenced by Jewish, Christian, and Hellenistic thought. Thus, Gnosticism as a movement developed over a period of time, roughly from the 1st to the 3rd centuries AD, without a single founding year or individual.
+- **Notoriety**: Dualistic antinomians. The Apostles Jude likely wrote about them in Jude 4 NET.
 
 ### 2. Hyper-Grace Movement & 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
 
@@ -274,8 +273,8 @@ Thus, Gnosticism as a movement developed over a period of time, roughly from the
 
 <!-- - **Notoriety**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion according to every authoritative greek lexicon, dictionary, English Bible translations, and 1,000s of biblical language scholars. -->
 
-- **Origins**: Chaferanism was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bleed into the theological cult (heretical sect) known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
-- **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, and  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
+- **Origins**: Chaferanism was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bled into the theological cult (heretical sect) known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
+- **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, while  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt. **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19.
     
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
@@ -359,7 +358,8 @@ Thus, Gnosticism as a movement developed over a period of time, roughly from the
 <!-- - They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one. -->
 
 ### 1. Hyper-Calvinism (Not Orthodox Calvinism)
-- **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
+- **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. 
+- Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 
 > The dreadful error of hyper-Calvinism is that it involves God in coercing sin. **This does radical violence to the integrity of God’s character**. &mdash; [Dr. R. C. Sproul (Ph.D., Whitefield)](https://youtu.be/-HMb9YjRq8Q), "Chosen by God," Ch. 7. Sproul was a devout 5-point Scholastic Calvinist.
 
@@ -415,11 +415,23 @@ Thus, Gnosticism as a movement developed over a period of time, roughly from the
 
 ![Sound-Teaching](/assets/images/soundness.jpg)
 
-### 1. Apostolic Age & Ante-Nicene Period Christianity (Χριστιανισμός), Followers of “The Way” (ἡ ὁδός - hė hodós)
-- This is systemless Christianity directly from Christ and the Apostles.
-- Consider my articles on being a systemless moderate and basic protestant.
-    - [Call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/).
-    - [The Hierarchy of Authority & How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/).
+### 1. Apostolic Age Followers of “The Way” (ἡ ὁδός - hė hodós) & Ante-Nicene Period Christianity (Χριστιανισμός)
+
+This is systemless Christianity directly from Christ and the Apostles. The terms **ἡ ὁδός (hē hodós)** and **Χριστιανισμός (Christianismos)** refer to different periods and aspects of early Christianity:
+
+1. **ἡ ὁδός (hē hodós)** – Followers of "The Way":
+   - This term is associated with the **Apostolic Age**, which is the period during the lifetime of the apostles, roughly from the time of Jesus' resurrection (c. AD 30) to the death of the last apostle, John (c. AD 100). It was used to describe the early Christian movement in its initial stages.
+   - Example: Acts 9:2, where Saul (later Paul) sought to persecute followers of "The Way."
+   - See also: Acts 9:2 (c. AD 34-36); Acts 19:9 (c. AD 54-56); Acts 19:23 (c. AD 54-56); Acts 22:4 (c. AD 57); Acts 24:14 (c. AD 57); Acts 24:22 (c. AD 57)
+
+2. **Χριστιανισμός (Christianismos)** – Christianity:
+   - This term, and the related term **Χριστιανός (Christianos)** meaning "Christian," became more common in the **Ante-Nicene Period**, which extends from the end of the Apostolic Age (c. AD 100) to the First Council of Nicaea in AD 325. By this time, the term "Christian" had become widely accepted as the standard designation for followers of Jesus Christ.
+   - Example: Acts 11:26, where the disciples were first called Christians in Antioch.
+   - See also: Acts 11:26 (c. AD 47-48); Acts 26:28 (c. AD 59-60); 1 Peter 4:16 (c. AD 64-65).
+
+In summary, **ἡ ὁδός (hē hodós)** is primarily associated with the Apostolic Age, while **Χριστιανισμός (Christianismos)** is more associated with the Ante-Nicene Period. Consider my articles on being a systemless moderate and basic protestant.
+- [Call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/).
+- [The Hierarchy of Authority & How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/).
 
 ### 2. Moderate Protestant *&lsquo;isms*
 
