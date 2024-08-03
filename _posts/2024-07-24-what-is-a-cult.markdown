@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:35:00 -0500
+date: 2024-07-23 11:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -373,6 +373,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 <a name="Dispensational" href="#contents" style="font-size:1.6em;">3.2.4 Dispensational Antinomianism</a>
 
 > **Dispensational antinomianism** holds that keeping the moral law is at no stage necessary for Christians, since we live under a dispensation of grace, not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however, that law-keeping is a continuing obligation for Christians. ‘I am not free from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21). <a name="Packer-Dispensational" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+ℹ️ Disclaimer: We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31). For teachers who understand the scriptures and still teach [Dispensationalism](https://sevenshepherd.github.io/dispensationalism/) without the antinomianism: Chuck Smith, Ron Rhodes, and [John MacArthur](https://sevenshepherd.github.io/limited-atonement/) are safe.
 
 <a name="Dialectical" href="#contents" style="font-size:1.6em;">3.2.5 Dialectical Antinomianism</a>
 
