@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:25:00 -0500
+date: 2024-07-23 11:30:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -327,6 +327,12 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     > &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a> 
 
 5. <span style="font-weight:bold;color:FireBrick;">False teachers exploit the vulnerability of innocent children, leading them into patterns of sin and false security. They mislead them with the erroneous notion that *“everyone sins,”* thereby abusing the grace of God as a license for immoral behavior (Jude 4 NET). Additionally, they distort the true nature of repentance, reducing it to a mere *“change of mind”* rather than the genuine contrition and turning away from sin that is consistently affirmed by authoritative Greek lexicons (Luke 17:2). This manipulation not only undermines their spiritual integrity but also paves the way for apostasy.</span>
+
+    ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+
+    <!-- becoming reminiscent of false teachers -->
+
+    Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
     <!-- <span style="font-weight:bold;color:ForestGreen;">True Christians understand</span>. <span style="font-weight:bold;color:FireBrick;">False teachers indoctrinate innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize by telling them evil things like *&ldquo;everyone sins&rdquo;* abusing the grace of God by usinf it as a liscense to sin (Jd 4 NET), and falsely teaching [repentance](https://sevenshepherd.github.io/repentance/) to only be a *&ldquo;change of mind&rdquo;*, when it's actually contrition and turning away from sin acording to every authoritative greek lexicon (Lk 17:2).</span> -->
 
