@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:00:00 -0500
+date: 2024-07-23 11:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -31,8 +31,14 @@ published: true
 - I. <a href="#Characteristics">Characteristics of a Cult</a>
 - II. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
-    - 3.1 <a href="#Legalism">Legalistic</a>
-    - 3.2 <a href="#Antinomianism">Antinomian</a>
+    - 3.1 <a href="#Legalism">Legalism</a>
+    - 3.2 <a href="#Antinomianism">Antinomianism</a>
+        - 3.2.1 <a href="#Dualistic">Dualistic</a>
+        - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
+        - 3.2.3 <a href="#Christ-centred">Christ-centred</a>
+        - 3.2.4 <a href="#Dispensational">Dispensational</a>
+        - 3.2.5 <a href="#Dialectical">Dialectical</a>
+        - 3.2.6 <a href="#Situationist">Situationist</a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 - VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
@@ -85,7 +91,7 @@ inordinate amounts of time to the group
 
 <!-- <sup style="font-style:italic;">GPT-4-turbo</sup> -->
 
-> The sociological sense is used when discussing behavior or other sociological aspects: a group or movement may be a cult if it acts in ways that are illegal or otherwise unacceptable in a civilized society. [Sociological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
+> The sociological sense is used when discussing behavior or other sociological aspects: a group or movement may be a cult if it acts in ways that are illegal or otherwise unacceptable in a civilized society. &mdash; [Sociological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
 
 > The theological sense is used when discussing major religious differences: a group or movement is theologically a cult if it identifies itself as belonging to a mainstream, recognized religion — and yet rejects or otherwise violates one or more of the central, essential teachings of that religion. &mdash; [Theological sense of the term cult.](https://www.cultdefinition.com/#cult-meanings-of-the-term-vary)
 
@@ -183,7 +189,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 
 
-<a name="Legalism" href="#contents" style="font-size:1.6em;">3.1 Heretical Sects, Also Known As Theological Cults (Legalism)</a>
+<a name="Legalism" href="#contents" style="font-size:2.1em;">3.1 Legalistic Heretical Sects or Theological Cults</a>
 
 ![Legalism](/assets/images/legalist-meme.jpg)
 
@@ -234,39 +240,31 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 -->
 
 
-<a name="Antinomianism" href="#contents" style="font-size:1.6em;">3.2 Heretical Sects, Also Known As Theological Cults (Antinomianism)</a>
+<a name="Antinomianism" href="#contents" style="font-size:2.1em;">3.2 Antinomian Heretical Sects or Theological Cults</a>
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
 > Under construction
 
-<!-- ### 1. Theological Liberalism -->
+<a name="Dualistic" href="#contents" style="font-size:1.6em;">3.2.1 Dualistic Antinomianism</a>
 
-<!-- Gnosticism is a diverse and complex religious movement that emerged in the early centuries of the Common Era, roughly between the 1st and 3rd centuries. It is not attributed to a single founder, as it encompasses a variety of beliefs and practices. Gnostic ideas were influenced by a mix of Jewish, Christian, and Hellenistic thought.
+> **Dualistic antinomianism** appears in the Gnostic heretics against whom Jude and Peter wrote (Jude 4–19; 2 Pet. 2). This view sees salvation as for the soul only, and bodily behaviour as irrelevant both to God’s interest and to the soul’s health, so one may behave riotously and it will not matter. <a name="Packer-Dualistic" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
 
-Key figures associated with early Gnostic thought include:
-
-1. **Simon Magus**: A Samaritan magician mentioned in the Acts of the Apostles, who is often considered an early Gnostic figure.
-2. **Valentinus**: A prominent Gnostic teacher in the 2nd century who founded the Valentinian school of Gnosticism.
-3. **Basilides**: Another influential Gnostic teacher from the 2nd century, who developed his own cosmology and theological system.
-4. **Marcion**: Although not a Gnostic per se, his teachings had some Gnostic elements, particularly his dualistic view of the world.
-
-Gnosticism as a movement is characterized by its emphasis on esoteric knowledge (gnosis) for salvation, a dualistic worldview, and a distinct cosmology involving emanations and lesser divinities. It was largely deemed heretical by orthodox Christianity and thus suppressed, with much of what we know about it coming from the writings of its opponents and the discovery of Gnostic texts like those found in the Nag Hammadi library in 1945.
-
-
-Gnosticism, as a religious and philosophical movement, lacks a precise founding date. However, its development can be traced to specific centuries:
-
-- **1st Century CE**: Early forms of Gnostic thought begin to emerge. Simon Magus, who is mentioned in the Acts of the Apostles, is sometimes considered an early Gnostic figure. His activities are typically dated to the mid-1st century.
-- **2nd Century CE**: Gnosticism becomes more structured and prominent. Key figures such as Valentinus and Basilides are active during this period. Valentinus is believed to have taught in Rome around 136-165 CE. Basilides was active in Alexandria around 117-138 CE.
-- **3rd Century CE**: Gnostic ideas continue to evolve and spread. Mani, the founder of Manichaeism, a religion with Gnostic elements, was active in the mid-3rd century (around 216-276 CE). -->
-
-### 1. Gnosticism
+### Gnosticism
 - **Founded**: Gnosticism, emerging from the 1st to 3rd centuries AD, is a complex religious movement characterized by esoteric knowledge for salvation and a dualistic worldview. Key figures include Simon Magus (mid-1st century; Acts 8:9-24), Valentinus (active around 136-165 AD), and Basilides (active around 117-138 AD). The movement lacks a precise founding date and is influenced by Jewish, Christian, and Hellenistic thought. Thus, Gnosticism as a movement developed over a period of time, roughly from the 1st to the 3rd centuries AD, without a single founding year or individual.
-- **Notoriety**: Dualistic antinomians. The Apostles Jude likely wrote about them in Jude 4 NET.
+- **Notoriety**: Dualistic antinomianism. These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19.
 
-### 2. Hyper-Grace Movement & 80's &ldquo;Free Grace&rdquo; Movement (Chaferanism)
+<a name="Spirit-centred" href="#contents" style="font-size:1.6em;">3.2.2 Spirit-Centred Antinomianism</a>
 
-<sup style="font-style:italic;">Includes the [80's &ldquo;Free Grace&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), as they have near identical false teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/).</sup>
+> **Spirit-centred antinomianism** puts such trust in the Holy Spirit’s inward prompting as to deny any need to be taught by the law how to live. Freedom from the law as a way of salvation is assumed to bring with it freedom from the law as a guide to conduct. In the first hundred and fifty years of the Reformation era this kind of antinomianism often threatened, and Paul’s insistence that a truly spiritual person acknowledges the authority of God’s Word through Christ’s apostles (1 Cor. 14:37; cf. 7:40) suggests that the Spirit-obsessed Corinthian church was in the grip of the same mindset. <a name="Packer-Spirit" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+<a name="Christ-centred" href="#contents" style="font-size:1.6em;">3.2.3 Christ-centred Antinomianism</a>
+
+> **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1:7) and 3:4–10 point in a different direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life. <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+### Hyper-Grace Movement
+
+<sup style="font-style:italic;">Includes the [Extreme 80's &ldquo;Free Grace&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), as they have near identical false teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/).</sup>
 
 
 <!-- Eerily reminiscent to the theological cult (heretical sect) known as the <a href="#Antinomianism">hyper-grace movement</a>. It's more extreme variant might as well be the same teaching.  -->
@@ -275,7 +273,7 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 
 - **Origins**: Chaferanism was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bled into the theological cult (heretical sect) known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
 - **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, while  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
-- **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt. **These are the false teachers the Apostle Peter warned us about** in 2 Peter 2:1-2,12,17,19.
+- **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
     
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
@@ -313,6 +311,44 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
     - Repentance is described as **needed** and necessary (Lk 15:7).
     - Repent or Perish (Lk 13:3; Mt 3:10).
     - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).  -->
+
+<a name="Dispensational" href="#contents" style="font-size:1.6em;">3.2.4 Dispensational Antinomianism</a>
+
+> **Dispensational antinomianism** holds that keeping the moral law is at no stage necessary for Christians, since we live under a dispensation of grace, not of law. Romans 3:31 and 1 Corinthians 6:9–11 clearly show, however, that law-keeping is a continuing obligation for Christians. ‘I am not free from God’s law but am under Christ’s law,’ says Paul (1 Cor. 9:21). <a name="Packer-Dispensational" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+<a name="Dialectical" href="#contents" style="font-size:1.6em;">3.2.5 Dialectical Antinomianism</a>
+
+> **Dialectical antinomianism**, as in Barth and Brunner, denies that biblical law is God’s direct command and affirms that the Bible’s imperative statements trigger the Word of the Spirit, which when it comes may or may not correspond exactly to what is written. The inadequacy of the neoorthodox view of biblical authority, which explains the inspiration of Scripture in terms of the Bible’s instrumentality as a channel for God’s present-day utterances to his people, is evident here. <a name="Packer-Dialectical" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+<a name="Situationist" href="#contents" style="font-size:1.6em;">3.2.6 Situationist Antinomianism</a>
+
+> **Situationist antinomianism** says that a motive and intention of love is all that God now requires of Christians, and the commands of the Decalogue and other ethical parts of Scripture, for all that they are ascribed to God directly, are mere rules of thumb for loving, rules that love may at any time disregard. But Romans 13:8–10, to which this view appeals, teaches that without love as a motive these specific commands cannot be fulfilled. Once more an unacceptably weak view of Scripture surfaces. <a name="Packer-Situationist" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+<!-- >
+> It must be stressed that the moral law, as crystallized in the Decalogue and opened up in the ethical teaching of both Testaments, is one coherent law, given to be a code of practice for God’s people in every age. In addition, repentance means resolving henceforth to seek God’s help in keeping that law. The Spirit is given to empower law-keeping and make us more and more like Christ, the archetypal law-keeper (Matt. 5:17). This law-keeping is in fact the fulfilling of our human nature, and Scripture holds out no hope of salvation for any who, whatever their profession of faith, do not seek to turn from sin to righteousness (1 Cor. 6:9–11; Rev. 21:8). <a name="contents" href="#Packer"><sup style="font-weight:bold;">◊</sup></a> -->
+
+
+<!-- ### 1. Theological Liberalism -->
+
+<!-- Gnosticism is a diverse and complex religious movement that emerged in the early centuries of the Common Era, roughly between the 1st and 3rd centuries. It is not attributed to a single founder, as it encompasses a variety of beliefs and practices. Gnostic ideas were influenced by a mix of Jewish, Christian, and Hellenistic thought.
+
+Key figures associated with early Gnostic thought include:
+
+1. **Simon Magus**: A Samaritan magician mentioned in the Acts of the Apostles, who is often considered an early Gnostic figure.
+2. **Valentinus**: A prominent Gnostic teacher in the 2nd century who founded the Valentinian school of Gnosticism.
+3. **Basilides**: Another influential Gnostic teacher from the 2nd century, who developed his own cosmology and theological system.
+4. **Marcion**: Although not a Gnostic per se, his teachings had some Gnostic elements, particularly his dualistic view of the world.
+
+Gnosticism as a movement is characterized by its emphasis on esoteric knowledge (gnosis) for salvation, a dualistic worldview, and a distinct cosmology involving emanations and lesser divinities. It was largely deemed heretical by orthodox Christianity and thus suppressed, with much of what we know about it coming from the writings of its opponents and the discovery of Gnostic texts like those found in the Nag Hammadi library in 1945.
+
+
+Gnosticism, as a religious and philosophical movement, lacks a precise founding date. However, its development can be traced to specific centuries:
+
+- **1st Century CE**: Early forms of Gnostic thought begin to emerge. Simon Magus, who is mentioned in the Acts of the Apostles, is sometimes considered an early Gnostic figure. His activities are typically dated to the mid-1st century.
+- **2nd Century CE**: Gnosticism becomes more structured and prominent. Key figures such as Valentinus and Basilides are active during this period. Valentinus is believed to have taught in Rome around 136-165 CE. Basilides was active in Alexandria around 117-138 CE.
+- **3rd Century CE**: Gnostic ideas continue to evolve and spread. Mani, the founder of Manichaeism, a religion with Gnostic elements, was active in the mid-3rd century (around 216-276 CE). -->
+
+
 
 <!-- 
 ### 1. **Docetism**
@@ -560,6 +596,16 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 
 <!-- that their more well informed family members who hold to sound doctrine will convert to their perversions. -->
+
+<br>
+
+---
+
+<br>
+
+
+<a name="Packer-Dualistic" href="#contents"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
+
 
 <br>
 
