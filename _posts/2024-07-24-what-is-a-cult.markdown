@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:10:00 -0500
+date: 2024-07-23 11:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -32,6 +32,13 @@ published: true
 - II. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalism</a>
+        - 3.1.1 <a href="#Ritualistic">Ritualistic</a>
+        - 3.1.2 <a href="#Moralistic">Moralistic</a>
+        - 3.1.3 <a href="#Doctrinal">Doctrinal</a>
+        - 3.1.4 <a href="#Ceremonial">Ceremonial</a>
+        - 3.1.5 <a href="#Ethical">Ethical</a>
+        - 3.1.6 <a href="#Ascetic">Ascetic</a>
+        - 3.1.7 <a href="#Ecclesiastical">Ecclesiastical</a>
     - 3.2 <a href="#Antinomianism">Antinomianism</a>
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
         - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
@@ -187,20 +194,38 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Historical Impact**: The extent to which the sect influenced or challenged the early church and its doctrines.
 - **Persistence**: How long the sect's beliefs continued to influence or challenge mainstream Christianity. -->
 
-
-
 <a name="Legalism" href="#contents" style="font-size:2.1em;">3.1 Legalistic Heretical Sects or Theological Cults</a>
 
 ![Legalism](/assets/images/legalist-meme.jpg)
 
+> 65\. LEGALISM<br>
+> WORKING FOR GOD’S FAVOUR FORFEITS IT
+>
+>> . . . do not do what they do, for they do not practise what they preach. They tie up heavy loads and put them on men’s shoulders, but they themselves are not willing to lift a finger to move them. Everything they do is done for men to see . . . Matthew 23:3–5
+>
+> The New Testament views Christian obedience as the practice of ‘good deeds’ (works). Christians are to be ‘rich in good deeds’ (1 Tim. 6:18; cf. Matt. 5:16; Eph. 2:10; 2 Tim. 3:17; Titus 2:7, 14; 3:8, 14). A good deed is one done (a) according to the right standard (God’s revealed will, i.e. his moral law); (b) from a right motive (the love to God and others that marks the regenerate heart); (c) with a right purpose (pleasing and glorifying God, honouring Christ, advancing his kingdom, and benefiting one’s neighbour).
+>
+> Legalism is a distortion of obedience that can never produce truly good works. Its first fault is that it skews motive and purpose, seeing good deeds as essentially ways to earn more of God’s favour than one has at the moment. Its second fault is arrogance. Belief that one’s labour earns God’s favour begets contempt for those who do not labour in the same way. Its third fault is love-lessness in that its self-advancing purpose squeezes humble kindness and creative compassion out of the heart.
+>
+> In the New Testament we meet both Pharisaic and Judaizing legalism. The Pharisees thought that their status as children of Abraham made God’s pleasure in them possible, and that their formalized daily law-keeping, down to minutest details, would make it actual. The Judaizers viewed Gentile evangelism as a form of proselytizing for Judaism; they believed that the Gentile believer in Christ must go on to become a Jew by circumcision and observance of the festal calendar and ritual law, and that thus he would gain increased favour with God. Jesus attacked the Pharisees; Paul, the Judaizers.
+>
+> The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1–8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points.
+>
+> In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ.
+>
+> So far, then, from enriching our relationship with God, as it seeks to do, legalism in all its forms does the opposite. It puts that relationship in jeopardy and, by stopping us focusing on Christ, it starves our souls while feeding our pride. **Legalistic religion in all its forms should be avoided like the plague.** 
+>
+> &mdash; Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 65. Legalism: Working for God’s favour forfeits it. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
 ### 1. [*&ldquo;Jehovah's&rdquo;* Witnesses (Watchtowerites)](https://sevenshepherd.github.io/cults/)
 - **Founded**: Late 19th century by Charles Taze Russell.
-- **Notoriety**: 142 deviations from Christianity, including [essential doctrine](https://sevenshepherd.github.io/essential-doctrine/). 
-    - Denial of the Trinity
-    - [Denial of Jesus deity](https://sevenshepherd.github.io/deity/)
-    - Denial of Body & Soul (2Cor 5:8; Phil 1:21-23; Lk 23:43; Mt 10:28)
-    - Denial of Beast & False Prophet burning alive for 1000 years (Re 19:11-14,20; 20:10)
-    - Denial of 144,000 being Jewish, virgin, men (Re 7:4; 14:4)
+- **Notoriety**: [142 deviations](https://youtu.be/_gZe6BCuCa4?si=mmHLyS_KQkxnaa_u) from Christianity, including [essential doctrine](https://sevenshepherd.github.io/essential-doctrine/). 
+    - Denial of the Trinity.
+    - [Denial of Jesus deity](https://sevenshepherd.github.io/deity/).
+    - Denial of bodily resurrection (1Co 15:14,17; John 2:19-21; Luke 24:36-39; John 20:27).
+    - Denial of Body & Soul (2Cor 5:8; Phil 1:21-23; Lk 23:43; Mt 10:28).
+    - Denial of Beast & False Prophet burning alive for 1000 years and then for eternity (Re 19:11-14,20; 20:10).
+    - Denial of 144,000 being Jewish, virgin, men (Re 7:4; 14:4).
 
 ### 2. The Church of Jesus Christ of Latter-day Saints (Mormons)
 - **Founded**: Early 19th century by Joseph Smith.
@@ -260,7 +285,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <a name="Christ-centred" href="#contents" style="font-size:1.6em;">3.2.3 Christ-centred Antinomianism</a>
 
-> **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1:7) and 3:4–10 point in a different direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life. <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+> **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life. <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
 
 ### Hyper-Grace Movement
 
