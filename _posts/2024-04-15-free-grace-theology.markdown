@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 010:00:00 -0500
+date: 2024-04-15 10:05:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -238,7 +238,7 @@ The 80's *&ldquo;Free Grace&rdquo;* movement promotes numerous highly unusual, h
 
 > As Charles Ryrie correctly observed, <span style="font-weight:bold;">"every Christian will bear fruit; <span style="color:orangered;">otherwise he or she is not a true believer."</span></span> For 'fruit, then, furnishes evidence of saving faith. The evidence may be strong or weak, erratic or regular, visible or not. But a **saving faith works**," &mdash; Dr. Norman Geisler, Four Views On Eternal Security. p. 105.
 
-ℹ️ Disclaimer: Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
 <!-- becoming reminiscent of false teachers -->
 
