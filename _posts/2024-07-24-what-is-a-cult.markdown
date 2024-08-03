@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:45:00 -0500
+date: 2024-07-23 11:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -328,7 +328,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
     > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
 
-4. <span style="font-weight:bold;color:ForestGreen;">Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT)</span>. <span style="font-weight:bold;color:FireBrick;">False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their lives (Jd 4 NET; 2Pe 2:1-2 NET). Both are true for the saved.</span>
+4. <span style="font-weight:bold;color:ForestGreen;">Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT)</span>. <span style="font-weight:bold;color:FireBrick;">False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their lives (Jd 4 NET; 2Pe 2:1-2 NET). Both are true for the saved, as Christianity is a call to discipleship (Mt 10:38 NLT; Lk 9:23; 14:27).</span>
 
     > Jesus on another occasion said, "Why do you call me Lord and yet you don’t do the things that I command you?" You see, our problem is that we’ve come to think of the term "Lord" as a name and so we say, "The Lord Jesus Christ" and we think of Lord as His first name, Jesus His middle name and Christ His last name; He’s the Lord Jesus Christ. **But in reality when I say the Lord, you should put a comma there for Lord is not his name; it’s His title. The title that signifies my relationship to Him. <span style="color:#29a329;">He is my Lord, I am his slave; I am his servant, He is my Lord.</span>** &mdash; Chuck Smith C2000
 
