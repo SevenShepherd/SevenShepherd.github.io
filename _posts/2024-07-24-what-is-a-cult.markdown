@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:15:00 -0500
+date: 2024-07-23 11:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -32,13 +32,6 @@ published: true
 - II. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 - III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalism</a>
-        - 3.1.1 <a href="#Ritualistic">Ritualistic</a>
-        - 3.1.2 <a href="#Moralistic">Moralistic</a>
-        - 3.1.3 <a href="#Doctrinal">Doctrinal</a>
-        - 3.1.4 <a href="#Ceremonial">Ceremonial</a>
-        - 3.1.5 <a href="#Ethical">Ethical</a>
-        - 3.1.6 <a href="#Ascetic">Ascetic</a>
-        - 3.1.7 <a href="#Ecclesiastical">Ecclesiastical</a>
     - 3.2 <a href="#Antinomianism">Antinomianism</a>
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
         - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
@@ -50,6 +43,16 @@ published: true
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 - VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 - VII. <a href="#Conclusion">Conclusion</a>
+
+<!-- 
+- 3.1.1 <a href="#Ritualistic">Ritualistic</a>
+- 3.1.2 <a href="#Moralistic">Moralistic</a>
+- 3.1.3 <a href="#Doctrinal">Doctrinal</a>
+- 3.1.4 <a href="#Ceremonial">Ceremonial</a>
+- 3.1.5 <a href="#Ethical">Ethical</a>
+- 3.1.6 <a href="#Ascetic">Ascetic</a>
+- 3.1.7 <a href="#Ecclesiastical">Ecclesiastical</a> 
+-->
 
 <br>
 
@@ -296,31 +299,43 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <!-- - **Notoriety**: False teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/), erroneously teaching both of them to be assent, when instead faith is not only the assent of our minds but trust & reliance on Christ, and repentance is a remorse & conversion according to every authoritative greek lexicon, dictionary, English Bible translations, and 1,000s of biblical language scholars. -->
 
-- **Origins**: Chaferanism was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bled into the theological cult (heretical sect) known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
-- **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, while  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
-- **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt.
-    
-> Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
->
-> <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
->
-> &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
+**Founded**: [Chaferanism](](https://sevenshepherd.github.io/free-grace-theology/)) was systematized in the 1980s. This movements false teachings on the meaning of faith & repentance bled into the heretical sect known as the Hyper Grace movement. The hyper-grace heresy began to take shape in the early 2000s. One of the most prominent figures associated with the Hyper-Grace movement is Joseph Prince, a false teacher and heretic from Singapore.
 
---
+<!-- - **Notoriety**: The Hyper-Grace heretics **falsely teach** that faith & [repentance](https://sevenshepherd.github.io/repentance/) are only assent changes in the head and are synonyms. When in reality, faith is not only the assent of our minds but a trust & reliance on Christ, while  [repentance](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
+- **Outcome**: **They live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). Hyper-Grace members live in denial of 2 Corinthians 13:5, arguing that it leads to self examination and doubt. -->
 
-> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
->
->&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+1. <span style="font-weight:bold;color:ForestGreen;">Faith is not only the assent of our minds, but a trust & reliance on Christ. It is a *believing trust* or a *trustful belief*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).</span> <span style="font-weight:bold;color:FireBrick;">False teachers will strip fiducia from the meaning.</span>
 
---
+    > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
+    >
+    > <span style="font-weight:bold;color:ForestGreen;">Faith is about trust in God, rather than just accepting that God exists.</span>
+    >
+    > &mdash; Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D. Theology at Oxford; D.Litt. Intellectual History at Oxford), Theology - The Basics, Faith. p. 1,4.
+
+2. <span style="font-weight:bold;color:ForestGreen;">[**The applied meaning of repentance**](https://sevenshepherd.github.io/repentance/) is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5; Lk 13:3).</span> <span style="font-weight:bold;color:FireBrick;">False teachers will teach that faith & repentance are only assent changes in the head and are synonyms. By doing so they erase repentance and diminish the gospel.</span>
+
+    > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:ForestGreen;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:ForestGreen;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:ForestGreen;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
+    >
+    >&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
+
+3. <span style="font-weight:bold;color:ForestGreen;">[Assurance of salvation](https://sevenshepherd.github.io/1-John-2-4/) is predicated upon an evidence-based faith (1Jn 2:3-6 NLT).</span> <span style="font-weight:bold;color:FireBrick;">False teachers live in denial of the scriptures (2Cor 13:5), arguing that it leads to self-examination and doubt.</span>
+
+4. <span style="font-weight:bold;color:ForestGreen;">Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT)</span>. <span style="font-weight:bold;color:FireBrick;">False teachers only want Jesus "as savior" but not "as Lord" of their life. Both are true for the saved.</span>
+
+    > The idea that there can be saving faith without repentance, and that one can be justified by **embracing Christ as Saviour while refusing him as Lord, is a destructive delusion**.
+    >
+    > &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a> 
+
+5. <span style="font-weight:bold;color:FireBrick;">False teachers exploit the vulnerability of innocent children, leading them into patterns of sin and false security. They mislead them with the erroneous notion that *“everyone sins,”* thereby abusing the grace of God as a license for immoral behavior (Jude 4 NET). Additionally, they distort the true nature of repentance, reducing it to a mere *“change of mind”* rather than the genuine contrition and turning away from sin that is consistently affirmed by authoritative Greek lexicons (Luke 17:2). This manipulation not only undermines their spiritual integrity but also paves the way for apostasy.</span>
+
+    <!-- <span style="font-weight:bold;color:ForestGreen;">True Christians understand</span>. <span style="font-weight:bold;color:FireBrick;">False teachers indoctrinate innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize by telling them evil things like *&ldquo;everyone sins&rdquo;* abusing the grace of God by usinf it as a liscense to sin (Jd 4 NET), and falsely teaching [repentance](https://sevenshepherd.github.io/repentance/) to only be a *&ldquo;change of mind&rdquo;*, when it's actually contrition and turning away from sin acording to every authoritative greek lexicon (Lk 17:2).</span> -->
+
+    > <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10 ESV
+
+
+**These movements live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). 
 
 > “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical.
-
---
-
-> The idea that there can be saving faith without repentance, and that one can be justified by **embracing Christ as Saviour while refusing him as Lord, is a destructive delusion**.
->
-> &mdash; [J. I. Packer](https://youtu.be/gExLXpPJDd8) (PhD, University of Oxford). <a href="https://amzn.to/3JOaVKp">Concise Theology, 60. Repentance.</a>
 
 <!-- - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
 - Repentance is one of the reasons Jesus came (Lk 5:32).
