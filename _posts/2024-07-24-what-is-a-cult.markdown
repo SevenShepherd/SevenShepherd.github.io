@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 11:55:00 -0500
+date: 2024-07-23 12:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -40,9 +40,14 @@ published: true
         - 3.2.5 <a href="#Dialectical">Dialectical</a>
         - 3.2.6 <a href="#Situationist">Situationist</a>
 - IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
+    - 4.1 <a href="#Synergism">Unsafe Synergism</a>
+    - 4.2 <a href="#Monergism">Safe Monergism</a>
 - V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
+    - 5.1 <a href="#Orthodoxy">Systemless Moderates</a>
+    - 5.2 <a href="#Orthodoxy">Protestant Moderates</a>
 - VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
-- VII. <a href="#Conclusion">Conclusion</a>
+- VII. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
+- VIII. <a href="#Conclusion">Conclusion</a>
 
 <!-- 
 - 3.1.1 <a href="#Ritualistic">Ritualistic</a>
@@ -290,7 +295,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life. <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
 
-### Hyper-Grace Movement
+### 1. Hyper-Grace Movement
 
 <sup style="font-style:italic;">Includes the [Extreme 80's &ldquo;Free Grace&rdquo; movement](https://sevenshepherd.github.io/free-grace-theology/), as they have near identical false teachings on faith and [repentance](https://sevenshepherd.github.io/repentance/).</sup>
 
@@ -336,9 +341,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     >
     > &mdash; [Dr. J. I. Packer](https://youtu.be/gExLXpPJDd8) (Ph.D., University of Oxford). Concise Theology, 60. Repentance. Time Magazine top 25 evangelical. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-<!-- They mislead them with the erroneous notion that *“everyone sins,”* thereby abusing the grace of God as a license for immoral behavior (Jude 4 NET).  -->
-
-5. <span style="font-weight:bold;color:FireBrick;">False teachers exploit the vulnerability of innocent children, leading them into patterns of sin and false security. They mislead them by twisting the scriptures to falsely imply that *“everyone sins”* to encourage antinomian behavior (Rom 1:32), thereby abusing the grace of God as a license for immoral conduct (Jude 4 NET). Additionally, they distort the true nature of repentance, reducing it to a mere *“change of mind”* rather than the genuine contrition and turning away from sin that is consistently affirmed by authoritative Greek lexicons (Luke 17:2). This manipulation not only undermines their spiritual integrity but also paves the way for apostasy.</span>
+5. <span style="font-weight:bold;color:FireBrick;">False teachers exploit the vulnerability of innocent children, leading them into patterns of sin and false security (Lk 17:2). They mislead them by twisting the scriptures to falsely imply that *“everyone sins”* to encourage antinomian behavior (Rom 1:32), thereby abusing the grace of God as a license for immoral conduct (Jd 4 NET). Additionally, they distort the true nature of repentance, reducing it to a mere *“change of mind”* rather than the genuine contrition and turning away from sin that is consistently affirmed by authoritative Greek lexicons (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5; Lk 13:3). This manipulation not only undermines their spiritual integrity but also paves the way for apostasy.</span>
 
     ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
@@ -447,11 +450,35 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
-> Under construction
+<a name="Synergism" href="#contents" style="font-size:2.1em;">4.1 Synergistic Sects</a>
 
-<!-- The thing that sets apart the extreme variant from the moderate, would be [antinomian carnal Christianity](https://sevenshepherd.github.io/free-grace-theology/#fruit). These are likely the false teachers the Apostle Peter warned us about in 2 Peter 2:1-2,12,17,19 NET. This extreme variant may need to be elevated from sect to theological cult (heretical sect).  -->
+<!-- This group is more difficult to brand as legalistic because they still claim unity with Eph 2:8-10 and Rom 3:28. Many of them, even though they are synergistic (faith + works), still do not believe they are meriting (earning) justification. If they truly believe they are not meriting then they are not heretical, but their understanding of works in relationship to faith is uncomfortably skewed. -->
 
-<!-- - They would not receive corrections from the academic community and 1,000's of Biblical Language Scholars. This group has the makings of a theological cult, and it's more extreme variant is likely one. -->
+Labeling this group as legalistic is challenging because they profess alignment with Ephesians 2:8-10 and Romans 3:28, emphasizing salvation by grace through faith. Although they adopt a synergistic approach that integrates faith and works, many do not view themselves as earning justification. If their belief in this regard is sincere, they avoid heresy. However, their perception of the interplay between works and faith remains notably misaligned.
+
+> In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23).  <span style="font-weight:bold;color:orangered;">Any <span style="font-size:1.2em;color:red;">‘plus’</span> that requires us to take action in order to add to what Christ has given us is <span style="font-size:1.2em;color:red;">a reversion to legalism</span> and, in truth, an insult to Christ.</span> <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span> <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a>
+
+### 1. Roman Catholicism & Eastern Orthodoxy (CCC)
+- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
+
+### 2. Arminianism
+- **Founded**: Arminianism was founded by Jacobus Arminius, a Dutch theologian, in the late 16th and early 17th centuries.
+- **Notoriety**: Synergism.
+- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
+
+> Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. ...
+>
+> Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” ...
+>
+>In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. ...
+>
+> &mdash; [Dr. Bruce Demarest (Ph.D., University of Manchester)](https://sevenshepherd.github.io/ordo-salutis/) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." p. 35.
+
+<a name="Monergism" href="#contents" style="font-size:2.1em;">4.1 Monergistic Sects</a>
+
+Monergism is the safest stance. These sects have **other** issues that cause them to fall under the sect definition.
 
 ### 1. Hyper-Calvinism (Not Orthodox Calvinism)
 - **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. 
@@ -463,10 +490,7 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 
 > I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
-### 2. Roman Catholicism & Eastern Orthodoxy (CCC)
-- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
-
-### 3. Orthodox Calvinism (Scholastic Calvinism)
+### 2. Orthodox Calvinism (Scholastic Calvinism)
 - **Founded**: Calvinism was founded by John Calvin, a French theologian and pastor, in the mid-16th century. Calvin's influential work, "Institutes of the Christian Religion," first published in **1536**, laid the foundational doctrines of what would later be called Calvinism.
 - **Notoriety**: Limited atonement was incorporated into Reformed theology primarily during the Synod of Dort (**1618-1619**). St. Augustine, Luther, Calvin, & Jonathan Edwards never held to *&ldquo;Limited Atonement.&rdquo;* The Bible does not support limited atonement: 1 Jn 2:2; 4:14; Jn 1:9,29; 3:17; 4:42; 12:32; Ac 2:21; Ro 5:6; 1Ti 2:3-4,6; Titus 2:11; 2Cor 5:19; 2Pe 3:9.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Amyraldism (Moderate Calvinism).
@@ -481,21 +505,8 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 >
 > &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
-### 4. Arminianism
-- **Founded**: Arminianism was founded by Jacobus Arminius, a Dutch theologian, in the late 16th and early 17th centuries.
-- **Notoriety**: Synergism.
-- See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
-
-> Arminians view regeneration synergistically; the new birth occurs as a result of human willing and divine working. ...
->
-> Furthermore, some affirm that God wills that sanctification be perfected in this life by a second work of grace that is said to eradicate the sinful nature and its desires, fill the heart with perfect love for God, and enable Christians to live without willful sin. This decisive post-conversion experience is designated “entire sanctification,” “sinless perfection,” and “full salvation.” ...
->
->In addition, many Arminians deny the doctrine of the perseverance of the saints. They insist that by deliberate sin Christians can renounce their prior faith commitment and thereby fall from the state of grace, forfeit eternal salvation, and be doomed to perdition. The Arminian understanding of salvation thus is synergistic (a “working together”); divine grace and the liberated human will cooperate to bring about salvation. From inception to consummation the unsaved via free will make significant contributions to the outworking of their salvation. ...
->
-> &mdash; [Dr. Bruce Demarest (Ph.D., University of Manchester)](https://sevenshepherd.github.io/ordo-salutis/) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." p. 35.
-
-### 5. KJV Onlyism
-- Reasons: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
+### 3. KJV Onlyism
+- **Notoriety**: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
 
@@ -543,22 +554,6 @@ There's very few groups that fall into this uniquely accurate section, among the
 - Sound teachings on [repentance](https://sevenshepherd.github.io/repentance/) & faith.
 - See <a href="#Legalism">Heretical Sects (Legalism)</a> section for Roman Catholicism. -->
 
---
-
-<span style="font-size:1.2em;">This ministry holds to a Systemless Moderate & Basic Protestant View</span>
-
-1. Basic Protestant ([five solas](/assets/images/solas.jpg))
-2. Theologically Conservative
-3. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
-4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
-5. Eschatological Premillennialist
-6. Soft-cessationist
-7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
-    - BDAG / HALOT
-    - NET Full Notes
-    - ESV Study Bible
-    - NLT Filament
-
 <br>
 
 ---
@@ -586,7 +581,7 @@ There's very few groups that fall into this uniquely accurate section, among the
     - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
 - Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
 
-### ⚠️ Warnings from the Apostles
+<a name="Warnings-From-The-Apostles" href="#contents" style="font-size:2.1em;">📜 VII. Warnings From The Apostles</a>
 
 Because I already addressed [the heresy of antinomianism](https://www.gotquestions.org/antinomianism.html) multiple times, I'm going to briefly cover the topic here:
 
@@ -619,11 +614,28 @@ Finally, I would like you all to ruminate and hang on every word from the Apostl
 
 <br>
 
-<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 VII. Why those lost in cults, heretical sects, and sects always push materials, other than the Bible or lexicons, to indoctrinate you.</a>
+<a name="Conclusion" href="#contents" style="font-size:2.1em;">🩻 VIII. This ministry holds to a Systemless Moderate & Basic Protestant View</a>
 
-Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
+I pray that those lost in the many cults and sects will make Christ their teacher once again, as the Bible says, [*&ldquo;Call no man your teacher&rdquo;*](https://sevenshepherd.github.io/call-no-man-your-teacher/). A true teacher does not teach man-made things (i.e. **Calvin**ism, **Arminian**ism, [**Chafer**anism](https://sevenshepherd.github.io/free-grace-theology/)). The verse where Paul advises against labeling ourselves after specific leaders is found in 1 Corinthians 1:12-13:
 
-<!-- in his book *&ldquo;The Kingdom of the Cults&rdquo;*  -->
+> "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?"
+
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders, systems, *&lsquo;isms*, sects, cults, etc. Below I've listed the very best and most vetted and highly recommended orthodox stances you should take.
+
+1. Basic Protestant ([five solas](/assets/images/solas.jpg))
+2. Theologically Conservative
+3. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
+4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
+5. Eschatological Premillennialist
+6. Soft-cessationist
+7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
+    - BDAG / HALOT
+    - NET Full Notes
+    - ESV Study Bible
+    - NLT Filament
+
+<!-- Long ago in my early twenties, I remember debating two mormon elders at my dining room table. The content that Dr. Walter Martin provided me completely decimated them in debate on approximately 20 points. I was calm, kind, and well mannered throughout the process.
+
 
 > <sup style="font-weight:bold;">24</sup> And the Lord’s slave [*servant or bondservant*] must not engage in heated disputes[*“must not fight” or “must not quarrel.”*] but be kind toward all, an apt teacher, patient, <sup style="font-weight:bold;">25</sup> correcting opponents with gentleness. Perhaps God will grant them repentance and then knowledge of the truth &mdash; 2 Timothy 2:24-25 NET
 
@@ -647,7 +659,7 @@ I pray they will make Christ their teacher once again. As the Bible says, [*&ldq
 
 > "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.” 13 Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?" (ESV)
 
-Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects (theological cults)](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb).
+Paul's point here is to emphasize unity in Christ rather than division by allegiance to specific human leaders. The *'isms* of the faith should be considered sects of Protestantism, but not heretical sects. Protestantism is the most sound group in existence. It's the baseline by which all others are measured, apart from [scripture itself](https://sevenshepherd.github.io/hierarchy-of-authority/). Organizations like the Mormons & Witnesses should be considered either [heretical sects (theological cults)](https://youtu.be/j0QI52C7cjE?si=65PpGDWN18DftIkb). -->
 
 <!-- Link added -->
 
@@ -663,7 +675,9 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <br>
 
-<a name="Packer" href="#Packer-Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
+<a name="Packer" href="#Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
+
+<a name="Grudem" href="#Synergism"><sup style="font-weight:bold;">Δ</sup></a> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist (infralapsarian).</span>
 
 
 <br>
