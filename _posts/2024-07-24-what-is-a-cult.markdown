@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:55:00 -0500
+date: 2024-07-23 13:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -459,14 +459,18 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 
 Labeling this group as legalistic is challenging because they profess alignment with Ephesians 2:8-10 and Romans 3:28, emphasizing salvation by grace through faith. Although they adopt a synergistic approach that integrates faith and works, many do not view themselves as earning justification. If their belief in this regard is sincere, they avoid heresy. However, their perception of the interplay between works and faith remains notably misaligned.
 
-> In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23).  <span style="font-weight:bold;color:orangered;">Any <span style="font-size:1.2em;color:red;">‘plus’</span> that requires us to take action in order to add to what Christ has given us is <span style="font-size:1.2em;color:red;">a reversion to legalism</span> and, in truth, an insult to Christ.</span> <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+> In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23).  <span style="color:orangered;">Any <span style="font-weight:bold;font-size:1.2em;color:red;">‘plus’</span> that requires us to take action in order to add to what Christ has given us is <span style="font-weight:bold;font-size:1.2em;color:red;">a reversion to legalism</span> and, in truth, an insult to Christ.</span> <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span> <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a>
 
 ### 1. Roman Catholicism & Eastern Orthodoxy (CCC)
-- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are necessary for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
+- **Notoriety**: Synergistic (CCC 1129: *&ldquo;The Church affirms that for believers the sacraments of the New Covenant are <span style="font-size:1.2em;color:orangered;">necessary</span> for salvation.&rdquo;*), and sacerdotalist (CCC 1545, 1547, 1566).
 
-### 2. Arminianism
+### 2. Lutheranism
+- **Founded**: Lutheranism was founded in the early 16th century as part of the Protestant Reformation. Its origins can be traced back to Martin Luther, a German monk and theologian, who challenged the practices and doctrines of the Roman Catholic Church.
+- **Notoriety**: Synergism. Augsburg Confession (1530) Article 9 - Of Baptism: *&ldquo;Of Baptism <span style="font-weight:bold;color:orangered;">they teach that it is <span style="font-size:1.2em;color:orangered;">necessary</span> to salvation</span>, and that through Baptism is offered the grace of God, and that children are to be baptized who, being offered to God through Baptism are received into God’s grace.&rdquo;*
+
+### 3. Arminianism
 - **Founded**: Arminianism was founded by Jacobus Arminius, a Dutch theologian, in the late 16th and early 17th centuries.
 - **Notoriety**: Synergism.
 - See <a href="#Orthodoxy">Orthodox Christian Groups</a> for Reformed Arminianism (Reformed Wesleyanism).
@@ -481,7 +485,17 @@ Labeling this group as legalistic is challenging because they profess alignment 
 
 <a name="Monergism" href="#contents" style="font-size:2.1em;">4.1 Monergistic Sects</a>
 
-Monergism is the safest stance. These sects have **other** issues that cause them to fall under the sect definition.
+Monergism is the most secure theological stance. Among all the non-heretical sects, Calvinism is the safest; however, these sects have ***&ldquo;other issues&rdquo;*** that categorize them as sects, such as limited atonement. More extreme or hyper variants also espouse double predestination and anti-evangelistic tendencies.
+
+><span style="font-weight:bold;font-size:1.2em;">The Westminster Shorter Catechism (1648). [Q33. What is justification?](https://sevenshepherd.github.io/westminster-shorter-catechism/#Q33)</span>
+>
+> A. Justification is an act of God’s free grace<sup style="font-weight:bold;">1</sup>, wherein he pardoneth all our sins<sup style="font-weight:bold;">2</sup>, and accepteth us as righteous in his sight<sup style="font-weight:bold;">3</sup>, only for the righteousness of Christ imputed to us<sup style="font-weight:bold;">4</sup>, and received by faith alone<sup style="font-weight:bold;">5</sup>.
+>
+>1. Rom. 3:24
+>2. Rom. 4:6-8; 2 Cor. 5:19
+>3. 2 Cor. 5:21
+>4. Rom. 4:6, 11; 5:19
+>5. Gal. 2:16; Phil. 3:9
 
 ### 1. Hyper-Calvinism (Not Orthodox Calvinism)
 - **Notoriety**: Anti-evangelistic, double-predestinarian, limited atonement. 
