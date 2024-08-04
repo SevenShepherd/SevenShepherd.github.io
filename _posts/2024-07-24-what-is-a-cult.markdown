@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:10:00 -0500
+date: 2024-07-23 12:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -706,11 +706,11 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <span style="font-size:0.8em;">The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting.</span>
 
-<span style="font-size:0.8em;">The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.</span>
+<span style="font-size:0.8em;">The NKJV Thomas Nelson Study Bible translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.</span>
 
 <span style="font-size:0.8em;">[New Oxford Annotated Bible, Fifth (NRSV)]() the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
 
-<!-- The Jewish Annotated New Testament -->
+The Jewish Annotated New Testament
 
 <br>
 
