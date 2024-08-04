@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:00:00 -0500
+date: 2024-07-23 12:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -331,7 +331,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
     It will help you to make the distinction between **(1)** justification, which is by faith alone (Eph 2:8-10; Rom 3:28), and **(2)** assurance of salvation, which is predicated upon an evidence-based faith (1Jn 2:3-6 NLT; Jn 14:15,21). &ldquo;*we can be sure that we know him if we obey his commandments.*... *That is how we know we are living in him.*&rdquo;<sup style="font-weight:bold;"><a href="https://sevenshepherd.github.io/1-John-2-4/">†</a></sup>
 
-    > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
+    > **Biblical faith is evidence-based.**... **Real faith in Christ shows itself by its fruit in the lives of those who profess it.** It is not a superficial thing.... &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox) <a name="Lennox-Evidence" href="#Lennox"><sup style="font-weight:bold;">±</sup></a>
 
 4. <span style="font-weight:bold;color:ForestGreen;">Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT)</span>. <span style="font-weight:bold;color:FireBrick;">False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their lives (Jd 4 NET; 2Pe 2:1-2 NET). Both are true for the saved, as Christianity is a call to discipleship (Mt 10:38 NLT; Lk 9:23; 14:27).</span>
 
@@ -497,7 +497,7 @@ Monergism is the safest stance. These sects have **other** issues that cause the
 
 > All of this invalidates the L of TULIP – “limited atonement” – the view that Christ did not actually die for all but only for the “elect”. In fact, not only Luther but many of the other reformers, including Calvin, did not subscribe to limited atonement... this view of the atonement was not even introduced until the second or third generation of Reformers... 
 >
-> &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox)
+> &mdash; [Dr. John C. Lennox (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University)](https://sevenshepherd.github.io/practicing-sin/#lennox) <a name="Lennox-Evidence" href="#Lennox"><sup style="font-weight:bold;">±</sup></a>
 
 --
 
@@ -674,6 +674,20 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 ---
 
 <br>
+
+<span style="font-size:0.8em;">[C.S. Lewis (Oxford & Cambridge)](https://sevenshepherd.github.io/c-s-lewis-on-repentance/) *&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*</span>
+
+<a name="Carson" href="#Carson-Quote"><sup style="font-weight:bold;">❧</sup></a> <span style="font-size:0.8em;">[Dr. D. A. Carson (Ph.D., New Testament at University of Cambridge)](https://www.crossway.org/authors/d-a-carson/) Carson has been described as doing *&ldquo;the most seminal New Testament work by contemporary evangelicals&rdquo;* and as *&ldquo;one of the last great Renaissance men in evangelical biblical scholarship.&rdquo;*</span>
+
+<span style="font-size:0.8em;">[Dr. Alister McGrath (Ph.D., Molecular Biophysics at Oxford; D.D., Theology at Oxford; D.Litt., Intellectual History at Oxford)](https://alistermcgrath.weebly.com/) *&ldquo;Dr. Alister McGrath is a distinguished scholar with an unparalleled academic pedigree, holding a Ph.D. in Molecular Biophysics, a Doctor of Divinity in Theology, and a Doctor of Letters in Intellectual History, all from Oxford University. His interdisciplinary expertise and profound contributions to both science and theology establish him as a leading intellectual and a highly respected authority in his fields.&rdquo;*</span>
+
+<span style="font-size:0.8em;">[Dr. Michael S. Heiser (Ph.D., University of Wisconsin-Madison)](https://www.youtube.com/@DRMSH) *&ldquo;Dr. Heiser was a Biblical Language Scholar, textual critic, and master of ancient languages, specifically Old Testament Biblical Hebrew, as well as Ancient Egyptian, and created the KJV, NIV, and NKJV Interlinears for Logos Bible Software.&rdquo;*</span>
+
+<span style="font-size:0.8em;">[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about) *&ldquo;Hugh holds a degree in physics from the University of British Columbia and a PhD in astronomy from the University of Toronto. After five years on the Caltech faculty, he transitioned to full-time ministry and still serves on the pastoral team at Christ Church Sierra Madre.&rdquo;*</span>
+
+<span style="font-size:0.8em;">Dr. Bruce Demarest (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)."</span>
+
+<a name="Lennox" href="#Lennox-Evidence"><sup style="font-weight:bold;">±</sup></a> <span style="font-size:0.8em;">[**Dr. John C. Lennox**](https://youtu.be/4vJkGzbLkxY?si=18Wwg1VPlT-Bcb9H&t=10) (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey.</span>
 
 <a name="Packer" href="#Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
 
