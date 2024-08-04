@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:15:00 -0500
+date: 2024-07-23 13:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -32,6 +32,8 @@ published: true
 2. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 3. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalism</a>
+        - Jehovah's Witnesses
+        - Latter-day Saints (Mormons)
     - 3.2 <a href="#Antinomianism">Antinomianism</a>
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
             - Gnosticism <sup style="font-weight:bold;">§</sup>
@@ -43,10 +45,14 @@ published: true
         - 3.2.6 <a href="#Situationist">Situationist</a>
 4. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
     - 4.1 <a href="#Synergism">Unsafe Synergism</a>
+        - Catholicism
+        - Lutheranism
+        - Arminianism
     - 4.2 <a href="#Monergism">Safe Monergism</a>
+        - Calvinism
 5. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
-    - 5.1 <a href="#Orthodoxy">Systemless Moderates</a>
-    - 5.2 <a href="#Orthodoxy">Protestant Moderates</a>
+    - Systemless Moderates
+    - Moderate Protestants
 6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
 8. <a href="#Conclusion">Conclusion</a>
@@ -564,9 +570,9 @@ In summary, **ἡ ὁδός (hē hodós)** is primarily associated with the Apos
 
 ### 2. Moderate Protestant *&lsquo;isms*
 
-There's very few groups that fall into this uniquely accurate section, among them are: [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), Reformed Arminianism (Reformed Wesleyanism), the [original Calvary Chapel distinctives](https://sevenshepherd.github.io/calvary-chapel/), and C.S. Lewis' Mere Christianity. These all define moderate protestant positions.
+There's very few groups that fall into this uniquely accurate section, among them are: [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), Reformed Arminianism (Reformed Wesleyanism), C.S. Lewis' Mere Christianity, and the [original Calvary Chapel distinctives](https://sevenshepherd.github.io/calvary-chapel/). These all define moderate protestant positions.
 
-- [Most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic community.
+- [Protestants are the most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic community.
 - Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
 - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - Early reformed confessions such as the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/), or [Amyraldian (moderately reformed)](https://sevenshepherd.github.io/limited-atonement/) confessions such as [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/). They do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views.
