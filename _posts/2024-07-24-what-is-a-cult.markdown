@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:35:00 -0500
+date: 2024-07-23 12:40:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -36,7 +36,7 @@ published: true
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
         - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
         - 3.2.3 <a href="#Christ-centred">Christ-centred</a>
-            - 3.2.3.1 80's & 00's Movements <sup style="font-weight:bold;">§</sup>
+            - 80's & 00's Movements <sup style="font-weight:bold;">§</sup>
         - 3.2.4 <a href="#Dispensational">Dispensational</a>
         - 3.2.5 <a href="#Dialectical">Dialectical</a>
         - 3.2.6 <a href="#Situationist">Situationist</a>
