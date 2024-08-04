@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:25:00 -0500
+date: 2024-07-23 12:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -28,27 +28,28 @@ published: true
 <sup style="font-weight:bold;">†</sup> <span style="font-size:0.8em;">Orthodoxy Not Heterodoxy</span>
 
 
-- I. <a href="#Characteristics">Characteristics of a Cult</a>
-- II. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
-- III. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
+1. <a href="#Characteristics">Characteristics of a Cult</a>
+2. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
+3. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalism</a>
     - 3.2 <a href="#Antinomianism">Antinomianism</a>
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
         - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
         - 3.2.3 <a href="#Christ-centred">Christ-centred</a>
+            - 3.2.3.1 80's & 00's Movements <sup style="font-weight:bold;">§</sup>
         - 3.2.4 <a href="#Dispensational">Dispensational</a>
         - 3.2.5 <a href="#Dialectical">Dialectical</a>
         - 3.2.6 <a href="#Situationist">Situationist</a>
-- IV. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
+4. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
     - 4.1 <a href="#Synergism">Unsafe Synergism</a>
     - 4.2 <a href="#Monergism">Safe Monergism</a>
-- V. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
+5. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
     - 5.1 <a href="#Orthodoxy">Systemless Moderates</a>
     - 5.2 <a href="#Orthodoxy">Protestant Moderates</a>
-- VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
-- VII. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
-- VIII. <a href="#Conclusion">Conclusion</a>
-- IX. <a href="#Sources">Sources, Cites, & Recommendations</a>
+6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
+7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
+8. <a href="#Conclusion">Conclusion</a>
+9. <a href="#Sources">Sources & Recommendations</a>
 
 <!-- 
 - 3.1.1 <a href="#Ritualistic">Ritualistic</a>
