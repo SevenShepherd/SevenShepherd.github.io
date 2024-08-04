@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:05:00 -0500
+date: 2024-07-23 12:10:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -48,6 +48,7 @@ published: true
 - VI. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 - VII. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
 - VIII. <a href="#Conclusion">Conclusion</a>
+- IX. <a href="#Sources">Sources, Cites, & Recommendations</a>
 
 <!-- 
 - 3.1.1 <a href="#Ritualistic">Ritualistic</a>
@@ -675,6 +676,8 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <br>
 
+<a name="Sources" href="#contents" style="font-size:2.1em;">🩻 IX. Sources, Cites, & Recommendations</a>
+
 <span style="font-size:0.8em;">[C.S. Lewis (Oxford & Cambridge)](https://sevenshepherd.github.io/c-s-lewis-on-repentance/) *&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*</span>
 
 <a name="Carson" href="#Carson-Quote"><sup style="font-weight:bold;">❧</sup></a> <span style="font-size:0.8em;">[Dr. D. A. Carson (Ph.D., New Testament at University of Cambridge)](https://www.crossway.org/authors/d-a-carson/) Carson has been described as doing *&ldquo;the most seminal New Testament work by contemporary evangelicals&rdquo;* and as *&ldquo;one of the last great Renaissance men in evangelical biblical scholarship.&rdquo;*</span>
@@ -685,14 +688,29 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <span style="font-size:0.8em;">[Dr. Hugh Ross (Ph.D., Astrophysicist at University of Toronto)](https://reasons.org/about) *&ldquo;Hugh holds a degree in physics from the University of British Columbia and a PhD in astronomy from the University of Toronto. After five years on the Caltech faculty, he transitioned to full-time ministry and still serves on the pastoral team at Christ Church Sierra Madre.&rdquo;*</span>
 
-<span style="font-size:0.8em;">Dr. Bruce Demarest (Ph.D., University of Manchester) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)."</span>
+<span style="font-size:0.8em;">Dr. Bruce Demarest (Ph.D., University of Manchester) *&ldquo;was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)."&rdquo;*</span>
 
-<a name="Lennox" href="#Lennox-Evidence"><sup style="font-weight:bold;">±</sup></a> <span style="font-size:0.8em;">[**Dr. John C. Lennox**](https://youtu.be/4vJkGzbLkxY?si=18Wwg1VPlT-Bcb9H&t=10) (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University) is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey.</span>
+<a name="Lennox" href="#Lennox-Evidence"><sup style="font-weight:bold;">±</sup></a> <span style="font-size:0.8em;">[**Dr. John C. Lennox**](https://youtu.be/4vJkGzbLkxY?si=18Wwg1VPlT-Bcb9H&t=10) (DPhil, Emeritus Professor of Mathematics at the University of Oxford; PhD, University of Cambridge; DSc, Cardiff University) *&ldquo;is Emeritus Professor of Mathematics at the University of Oxford and an Emeritus Fellow in Mathematics and Philosophy of Science at Green Templeton College, Oxford University. He attended The Royal School, Armagh, and went on to become Exhibitioner and Senior Scholar at Emmanuel College, Cambridge, where in 1962 he also attended the last lectures of C. S. Lewis. Lennox obtained Master of Arts and Doctor of Philosophy degrees at the University of Cambridge with the dissertation Centrality and Permutability in Soluble Groups (1970). He was awarded a Doctor of Science degree in mathematics by Cardiff University for his research. Lennox also holds a Doctor of Philosophy degree from the University of Oxford (by incorporation) and an M.A. degree in bioethics at the University of Surrey.&rdquo;*</span>
 
-<a name="Packer" href="#Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.</span>
+<a name="Packer" href="#Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). *&ldquo;Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.&rdquo;*</span>
 
-<a name="Grudem" href="#Synergism"><sup style="font-weight:bold;">Δ</sup></a> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books. Dr. Grudem identifies as a 5-Point Orthodox Calvinist (infralapsarian).</span>
+<a name="Grudem" href="#Synergism"><sup style="font-weight:bold;">Δ</sup></a> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag) *&ldquo;a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books.&rdquo;</span>
 
+--
+
+<span style="font-size:0.8em;">The [**ESV Study Bible**]() has over 200+ biblical scholars ([100+](https://www.esv.org/translation/) ESV; 95 Study); 9 countries, 20 denominations, 50 seminaries, colleges, and universities, including Universities of Cambridge, Oxford, London, Japan, California, MIT, Duke, Westminister, Dallas, etc. 20,000 study notes, 80,000 cross-references, 200+ charts, 50+ articles, 240 full-color maps and illustrations. Textual Basis: Masoretic Text BHS '83, DSS, LXX, SP, S, Vg; UBS5, NA28.</span>
+
+<span style="font-size:0.8em;">The [**NET Bible: Full Notes Edition**]() is a completely new, non-sectarian and "inter-denominational," translation of the Bible with 60,932 translators’ notes, completed by more than <a href="https://netbible.com/preface/">25+ of the world’s foremost biblical scholars</a> from Universities of Cambridge, Oxford, Sheffield, Columbia, Dallas, etc. This is the largest set of translators’ notes ever created. Textual Basis: Masoretic Text BHS [B19<sup>A</sup>(L)], DSS; NA28, UBS4.</span>
+
+<span style="font-size:0.8em;">The [**NIV Biblical Theology Study Bible**](https://amzn.to/417o3A0), 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span>
+
+<span style="font-size:0.8em;">The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting.</span>
+
+<span style="font-size:0.8em;">The NKJV translation has [177 Scholars](https://www.zeolla.org/christian/versions/misc/translators.htm), and the study includes many others.</span>
+
+<span style="font-size:0.8em;">[New Oxford Annotated Bible, Fifth (NRSV)]() the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
+
+<!-- The Jewish Annotated New Testament -->
 
 <br>
 
