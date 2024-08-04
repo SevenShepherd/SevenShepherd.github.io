@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:45:00 -0500
+date: 2024-07-23 12:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -296,7 +296,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 <a name="Christ-centred" href="#contents" style="font-size:1.6em;">3.2.3 Christ-centred Antinomianism</a>
 
-> **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore what they actually do makes no difference, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that it is not possible to be in Christ and at the same time to embrace sin as a way of life. <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+> **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore <span style="font-weight:bold;color:FireBrick;">what they actually do makes no difference</span>, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that <span style="font-weight:bold;color:ForestGreen;">it is not possible to be in Christ and at the same time to embrace sin as a way of life.</span> <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
 
 ### 1. Hyper-Grace Movement
 
