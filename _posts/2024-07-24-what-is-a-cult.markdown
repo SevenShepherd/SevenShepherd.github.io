@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:05:00 -0500
+date: 2024-07-23 13:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -524,6 +524,11 @@ Monergism is the most secure theological stance. Among all the non-heretical sec
 
 ### 3. KJV Onlyism
 - **Notoriety**: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
+    - [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus. (KJV, NKJV).
+    - The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. 
+    - Erasmus felt that the doctrine of *Faith Alone* was not supported in the bible in the simplistic way Luther proposed.
+    - Erasmus only used around 3 manuscripts to produce the severely anemic Textus Receptus. There are approximately 5000 mss of the Byzantine MT. So it’s not actually Majority text by methodology.
+    - Erasmus lacked the last leaf of Revelation, back translated from a defective copy of the Latin Vulgate, and created 20 errors that don’t exist in any Greek mss, botching the last 6 verses of revelation, the very place the bible warns not to get wrong! **Not Recommended**
 
 > "**99.8% of textual variants affect nothing**, most are spelling differences. there's different ways to spell John, there's different ways to spell Mary, they're not going to affect anything, but **the one-fifth of 1% that do affect things are the ones that scholars talk about**. The bottom line is it does not matter in some respects which New Testament you use because **no essential doctrine is jeopardized** by any of these textual variants" &mdash; [Professor Daniel B. Wallace, Ph.D., Executive Director, Center for the Study of New Testament Manuscripts](https://youtu.be/NikVdhp0YFs).
 
@@ -710,7 +715,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <a name="Packer" href="#Dualistic"><sup style="font-weight:bold;">◊</sup></a> <span style="font-size:0.8em;">Dr. J. I. Packer (PhD, University of Oxford), Concise Theology. 66. Antinomianism: We are not set free to sin. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8). *&ldquo;Board of Governors' Professor of Theology, Regent College. He was a prolific writer, and he also served on the translation board of the English Standard Version of the Bible. The 2005 Time listed him as one of the 25 most influential evangelicals. During his time at Oxford, Packer attended lectures by **C. S. Lewis**, and hearing Lewis greatly affected his spiritual thinking.&rdquo;*</span>
 
-<a name="Grudem" href="#Synergism"><sup style="font-weight:bold;">Δ</sup></a> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag) *&ldquo;a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books.&rdquo;</span>
+<a name="Grudem" href="#Synergism"><sup style="font-weight:bold;">Δ</sup></a> <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag) *&ldquo;a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books.&rdquo;*</span>
 
 --
 
