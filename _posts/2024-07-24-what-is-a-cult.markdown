@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 12:15:00 -0500
+date: 2024-07-23 12:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -710,7 +710,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 <span style="font-size:0.8em;">[New Oxford Annotated Bible, Fifth (NRSV)]() the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
 
-The Jewish Annotated New Testament
+<span style="font-size:0.8em;">The Jewish Annotated New Testament</span>
 
 <br>
 
