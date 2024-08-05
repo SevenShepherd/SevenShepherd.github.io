@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:00:00 -0500
+date: 2024-07-23 14:10:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -563,7 +563,7 @@ In summary, **ἡ ὁδός (hē hodós)** is primarily associated with the Apos
 There's very few groups that fall into this uniquely accurate section, among them are: [Amyraldism](https://sevenshepherd.github.io/limited-atonement/), Reformed Arminianism (Reformed Wesleyanism), C.S. Lewis' Mere Christianity, and the [original Calvary Chapel distinctives](https://sevenshepherd.github.io/calvary-chapel/). These all define moderate protestant positions.
 
 - [Protestants are the most educated group in existence](https://sevenshepherd.github.io/science/) with support from the academic community.
-- Sound doctrine & adherenence to the [five solas](/assets/images/solas.jpg).
+- Sound doctrine & adherence to the [five solas](/assets/images/solas.jpg).
 - Sound teachings on faith as notitia (&lsquo;knowledge&rsquo;), assensus (&lsquo;agreement&rsquo;), and fiducia (&lsquo;trust & reliance&rsquo;); as well as, [repentance](https://sevenshepherd.github.io/repentance/) as a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ.
 - Early reformed confessions such as the [Heidelberg Catechism (1563)](https://sevenshepherd.github.io/heidelberg-catechism/), or [Amyraldian (moderately reformed)](https://sevenshepherd.github.io/limited-atonement/) confessions such as [New Hampshire Confession (1833)](https://sevenshepherd.github.io/new-hampshire-confession-1833/). They do not push [limited atonement](https://sevenshepherd.github.io/limited-atonement/), or extreme views.
 
