@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:55:00 -0500
+date: 2024-07-23 14:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -40,8 +40,8 @@ published: true
         - 3.2.5 <a href="#Dialectical" style="color:FireBrick;">Dialectical</a>
         - 3.2.6 <a href="#Situationist" style="color:FireBrick;">Situationist</a>
 4. <a href="#List-Of-Sects" style="color:Orange;">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
-    - 4.1 <a href="#Synergism" style="color:OrangeRed;">Unsafe Synergism</a>
-    - 4.2 <a href="#Monergism" style="color:Orange;">Safe Monergism</a>
+    - 4.1 <a href="#Synergism" style="color:OrangeRed;">Synergism (Unsafe)</a>
+    - 4.2 <a href="#Monergism" style="color:Orange;">Monergism (Safe)</a>
 5. <a href="#Orthodoxy" style="color:ForestGreen;">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
