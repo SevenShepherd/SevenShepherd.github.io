@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:25:00 -0500
+date: 2024-07-23 13:30:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -32,27 +32,17 @@ published: true
 2. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 3. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism">Legalism</a>
-        - Jehovah's Witnesses
-        - Latter-day Saints (Mormons)
     - 3.2 <a href="#Antinomianism">Antinomianism</a>
         - 3.2.1 <a href="#Dualistic">Dualistic</a>
-            - Gnosticism <sup style="font-weight:bold;">§</sup>
         - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
         - 3.2.3 <a href="#Christ-centred">Christ-centred</a>
-            - 80's & 00's Movements <sup style="font-weight:bold;">§</sup>
         - 3.2.4 <a href="#Dispensational">Dispensational</a>
         - 3.2.5 <a href="#Dialectical">Dialectical</a>
         - 3.2.6 <a href="#Situationist">Situationist</a>
 4. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
     - 4.1 <a href="#Synergism">Unsafe Synergism</a>
-        - Catholicism
-        - Lutheranism
-        - Arminianism
     - 4.2 <a href="#Monergism">Safe Monergism</a>
-        - Calvinism
 5. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
-    - Systemless Moderates
-    - Moderate Protestants
 6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
 8. <a href="#Conclusion">Conclusion</a>
