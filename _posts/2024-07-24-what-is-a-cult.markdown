@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:35:00 -0500
+date: 2024-07-23 13:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -29,20 +29,20 @@ published: true
 
 
 1. <a href="#Characteristics">Characteristics of a Cult</a>
-2. <a href="#List-Of-Cults">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
-3. <a href="#List-Of-Heretical-Sects">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
-    - 3.1 <a href="#Legalism">Legalism</a>
-    - 3.2 <a href="#Antinomianism">Antinomianism</a>
-        - 3.2.1 <a href="#Dualistic">Dualistic</a>
-        - 3.2.2 <a href="#Spirit-centred">Spirit-centred</a>
-        - 3.2.3 <a href="#Christ-centred">Christ-centred</a>
-        - 3.2.4 <a href="#Dispensational">Dispensational</a>
-        - 3.2.5 <a href="#Dialectical">Dialectical</a>
-        - 3.2.6 <a href="#Situationist">Situationist</a>
-4. <a href="#List-Of-Sects">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
-    - 4.1 <a href="#Synergism">Unsafe Synergism</a>
-    - 4.2 <a href="#Monergism">Safe Monergism</a>
-5. <a href="#Orthodoxy">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
+2. <a href="#List-Of-Cults" style="color:FireBrick;">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
+3. <a href="#List-Of-Heretical-Sects" style="color:FireBrick;">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
+    - 3.1 <a href="#Legalism" style="color:FireBrick;">Legalism</a>
+    - 3.2 <a href="#Antinomianism" style="color:FireBrick;">Antinomianism</a>
+        - 3.2.1 <a href="#Dualistic" style="color:FireBrick;">Dualistic</a>
+        - 3.2.2 <a href="#Spirit-centred" style="color:FireBrick;">Spirit-centred</a>
+        - 3.2.3 <a href="#Christ-centred" style="color:FireBrick;">Christ-centred</a>
+        - 3.2.4 <a href="#Dispensational" style="color:FireBrick;">Dispensational</a>
+        - 3.2.5 <a href="#Dialectical" style="color:FireBrick;">Dialectical</a>
+        - 3.2.6 <a href="#Situationist" style="color:FireBrick;">Situationist</a>
+4. <a href="#List-Of-Sects" style="color:Orange;">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
+    - 4.1 <a href="#Synergism" style="color:OrangeRed;">Unsafe Synergism</a>
+    - 4.2 <a href="#Monergism" style="color:Orange;">Safe Monergism</a>
+5. <a href="#Orthodoxy" style="color:ForestGreen;">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
 8. <a href="#Conclusion">Conclusion</a>
