@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 13:45:00 -0500
+date: 2024-07-23 13:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -29,7 +29,7 @@ published: true
 
 
 1. <a href="#Characteristics">Characteristics of a Cult</a>
-2. <a href="#List-Of-Cults" style="color:FireBrick;">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
+2. <a href="#List-Of-Cults" style="color:DarkRed;">List Of Cults <sup style="font-weight:bold;">‡</sup></a>
 3. <a href="#List-Of-Heretical-Sects" style="color:FireBrick;">List Of Heretical Sects <sup style="font-weight:bold;">§</sup></a>
     - 3.1 <a href="#Legalism" style="color:FireBrick;">Legalism</a>
     - 3.2 <a href="#Antinomianism" style="color:FireBrick;">Antinomianism</a>
