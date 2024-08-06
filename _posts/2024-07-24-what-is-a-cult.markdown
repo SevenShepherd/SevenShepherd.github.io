@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:10:00 -0500
+date: 2024-07-23 14:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -239,8 +239,6 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 - **Notoriety**: False views on the Trinity being separate entities instead of God in three distinct persons. They think they can become gods and are in denial of Isaiah 43:10. 
 - The Joseph Smith Papyri, used by Joseph Smith to produce the Book of Abraham, were initially believed to contain the writings of the biblical Abraham by Mormons. However, when the surviving fragments were re-examined by Egyptologists in the 20th century, they were identified as standard Egyptian funerary texts, including the "Book of Breathing" and the "Book of the Dead." These findings completely debunked the Latter-day Saint community.
 
-> Under construction
-
 <!-- ### 1. **Arianism**
 - **Leader**: Arius
 - **Notoriety**: Denied the full divinity of Jesus Christ, teaching that He was a created being.
@@ -276,8 +274,6 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 ![Antinomianism](/assets/images/antinomianism.jpg)
 
-> Under construction
-
 <a name="Dualistic" href="#contents" style="font-size:1.6em;">3.2.1 Dualistic Antinomianism</a>
 
 > **Dualistic antinomianism** appears in the Gnostic heretics against whom Jude and Peter wrote (Jude 4–19; 2 Pet. 2). This view sees salvation as for the soul only, and bodily behaviour as irrelevant both to God’s interest and to the soul’s health, so one may behave riotously and it will not matter. <a name="Packer-Dualistic" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
@@ -293,6 +289,8 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 <a name="Christ-centred" href="#contents" style="font-size:1.6em;">3.2.3 Christ-centred Antinomianism</a>
 
 > **Christ-centred antinomianism** argues that God sees no sin in believers, because they are in Christ, who kept the law for them, and therefore <span style="font-weight:bold;color:FireBrick;">what they actually do makes no difference</span>, provided that they keep believing. But 1 John 1:8 – 2:1 (expounding 1Jn 1:7) and 1Jn 3:4–10 point in a different direction, showing that <span style="font-weight:bold;color:ForestGreen;">it is not possible to be in Christ and at the same time to embrace sin as a way of life.</span> <a name="Packer-C-Centered" href="#Packer"><sup style="font-weight:bold;">◊</sup></a>
+
+![Repent-Meme](/assets/images/repent-meme.jpg)
 
 ### 1. Hyper-Grace Movement
 
@@ -444,8 +442,6 @@ Gnosticism, as a religious and philosophical movement, lacks a precise founding 
 <br>
 
 <a name="List-Of-Sects" href="#contents" style="font-size:2.1em;">🤷🏻 IV. List Of Sects</a>
-
-![Repent-Meme](/assets/images/repent-meme.jpg)
 
 > The term sect is often used to indicate a group or movement that — while often still considered part of the faith it identifies with — has doctrines or practices not in line with the historical, commonly accepted teachings of that religion. &mdash; [What is a sect?](https://www.cultdefinition.com/#what-is-a-sect)
 
