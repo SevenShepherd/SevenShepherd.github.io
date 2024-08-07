@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "📚 Incredibly worrying times arise when people in teaching positions cannot distinguish between sound doctrine and systematic theology. It's time for those truly called by Christ to fulfill the Great Commission."
-date: 2024-08-07 01:15:00 -0500
+date: 2024-08-07 01:25:00 -0500
 categories: doctrine theology
 published: true
 ---
