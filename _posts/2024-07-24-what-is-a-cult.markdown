@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:15:00 -0500
+date: 2024-07-23 14:20:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -320,7 +320,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
     >
     >&mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
 
-3. <span style="font-weight:bold;color:ForestGreen;">[Assurance of salvation](https://sevenshepherd.github.io/1-John-2-4/) is predicated upon an evidence-based faith (1Jn 2:3-6 NLT).</span> <span style="font-weight:bold;color:FireBrick;">False teachers live in denial of the scriptures (2Cor 13:5), arguing that it leads to self-examination and doubt. Perhaps we should not be giving assurance to rapists, murderers, and pedophiles who have no intention to repent (aka. turn from their sins).</span>
+3. <span style="font-weight:bold;color:ForestGreen;">[Assurance of salvation](https://sevenshepherd.github.io/1-John-2-4/) is predicated upon an evidence-based faith (1Jn 2:3-6 NLT).</span> <span style="font-weight:bold;color:FireBrick;">False teachers live in denial of the scriptures (2Cor 13:5), arguing that it leads to self-examination and doubt. Perhaps we should not be giving false assurance to rapists, murderers, and pedophiles who have no intention to repent (aka. turn from their sins).</span>
 
     If you are unrepentant (Lk 13:3) and you pursue lifestyles of sin (1Jn 3:6-10; Gal 5:19-21) the only assurance you have, is no assurance. This is your wake up call (Re 3:3). You should be told to test to see if your faith is genuine (2Cor.13:5), to see if you really are trusting in Christ, because if you were, you'd be repentant, you'd carry your cross daily (Mt 10:38; Lk 9:23), you'd be bearing the fruits of obedience (John 15:1-17; James 2:14-26; Jn 14:15; 1 Jn 2:4), and you'd have the assurance of being foreknown (Mt 22:14). These are divine enablements.
 
@@ -354,6 +354,12 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 **These movements live in complete denial of what the scriptures, the academic community, and lexicons state.** They're indoctrinating innocent children into [lifestyles of sin](https://sevenshepherd.github.io/practicing-sin/) and false assurance, causing them to apostatize (Lk 17:2). 
 
 > “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
+
+It is unfathomable to me that there is a group of people out there telling murderers, rapists, and pedophiles, that all they have to do is *&ldquo;change their minds,&rdquo;* not repent and turn away from what they're doing. These people have the audacity to call themselves Christians, teachers, and spiritual leaders. If you're so afraid of *&ldquo;legalism,&rdquo;* which this is not, that you can't tell a pedophile to repent, turn away from his sin, and stop molesting children, you're in a cult all your own.
+
+> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. 
+>
+> &mdash; Dr. Wayne Grudem (Ph.D., University of Cambridge) <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a>
 
 <!-- - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
 - Repentance is one of the reasons Jesus came (Lk 5:32).
@@ -591,7 +597,7 @@ There's very few groups that fall into this uniquely accurate section, among the
 - The Bible is against the heresy of antinomianism.
     - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
     - Christians do not "practice" sin, abuse grace as a license to sin, or remain in a lifestyle of sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
-    - Everyone sins (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
+    - Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
     - We are no longer under the law (Ro 6:1-2,14-15; Gal 3:23-25; Gal 5:18; Col 2:14), but we still uphold the law (Romans 3:31).
 - Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
 
