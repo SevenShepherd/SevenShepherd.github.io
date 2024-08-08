@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:20:00 -0500
+date: 2024-07-23 14:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -355,7 +355,7 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 > “The so-called [Free Grace version of the gospel](https://sevenshepherd.github.io/free-grace-theology/) of Jesus Christ is unbiblical, anti-evangelical, and sub-Christian, ...” — Dr. J.I. Packer (Ph.D., University of Oxford), Time Magazine top 25 evangelical. On [faith](https://youtu.be/jOFsFgUUdZo), on [repentance](https://youtu.be/gExLXpPJDd8).
 
-It is unfathomable to me that there is a group of people out there telling murderers, rapists, and pedophiles, that all they have to do is *&ldquo;change their minds,&rdquo;* not repent and turn away from what they're doing. These people have the audacity to call themselves Christians, teachers, and spiritual leaders. If you're so afraid of *&ldquo;legalism,&rdquo;* which this is not, that you can't tell a pedophile to repent, turn away from his sin, and stop molesting children, you're in a cult all your own.
+It is unfathomable to me that there is a group of people out there telling murderers, rapists, and pedophiles, that all they have to do is *&ldquo;change their minds,&rdquo;* not repent and turn away from what they're doing. These people have the audacity to call themselves Christians, teachers, and spiritual leaders. If you're so afraid of *&ldquo;legalism,&rdquo;* which this is not, that you can't tell a pedophile to repent, turn away from their sin, and stop molesting children, you're in a cult all your own.
 
 > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. 
 >
