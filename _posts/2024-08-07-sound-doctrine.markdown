@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "📚 Incredibly worrying times arise when people in teaching positions cannot distinguish between sound doctrine and systematic theology. It's time for those truly called by Christ to fulfill the Great Commission."
-date: 2024-08-07 00:00:05 -0500
+date: 2024-08-07 00:01:00 -0500
 categories: doctrine theology
-published: true
+published: false
 ---
 
 In these incredibly worrying times, it has become evident that some in teaching positions are unable to distinguish between sound doctrine and systematic theology. As a leader committed to the truth of Scripture, it is essential to address this issue with clarity and compassion. Sound doctrine is the bedrock of our faith, derived directly from the Bible and centered on the core tenets of Christianity. Systematic theology, on the other hand, is the disciplined study and organization of these doctrines, helping believers understand the coherence and unity of biblical truths. Confusing these two not only muddles our understanding but also misleads those we are called to guide.
