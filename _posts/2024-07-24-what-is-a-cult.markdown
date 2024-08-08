@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:25:00 -0500
+date: 2024-07-23 14:30:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -357,9 +357,11 @@ This ranking highlights heretical sects based on their divergence from orthodox 
 
 It is unfathomable to me that there is a group of people out there telling murderers, rapists, and pedophiles, that all they have to do is *&ldquo;change their minds,&rdquo;* not repent and turn away from what they're doing. These people have the audacity to call themselves Christians, teachers, and spiritual leaders. If you're so afraid of *&ldquo;legalism,&rdquo;* which this is not, that you can't tell a pedophile to repent, turn away from their sin, and stop molesting children, you're in a cult all your own.
 
-> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. 
+<!-- > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. 
 >
-> &mdash; Dr. Wayne Grudem (Ph.D., University of Cambridge) <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a>
+> &mdash; Dr. Wayne Grudem (Ph.D., University of Cambridge) <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a> -->
+
+> You can say that you are sorry for what you have done but if you continue to do it, that is not true repentance. **Real repentance is being so sorry, so contrite, that you do not do it again. You turn away from it and cease doing it.** If a person declares that they have repented of a certain action or sin, and they continue in that same action, there is good reason to doubt the genuineness of the repentance. It is not a true repentance when you continue in that sin. **Repentance is the first step to salvation.** &mdash; [**Chuck Smith**](https://sevenshepherd.github.io/repentance/)
 
 <!-- - **Repentance is taught alongside faith by Christ Himself** (Mark 1:14-15).
 - Repentance is one of the reasons Jesus came (Lk 5:32).
