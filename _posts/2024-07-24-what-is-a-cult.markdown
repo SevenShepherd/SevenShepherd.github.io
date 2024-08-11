@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:30:00 -0500
+date: 2024-07-23 14:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -42,6 +42,7 @@ published: true
 4. <a href="#List-Of-Sects" style="color:Orange;">List Of Sects <sup style="font-weight:bold;">↓</sup></a>
     - 4.1 <a href="#Synergism" style="color:OrangeRed;">Synergism (Unsafe)</a>
     - 4.2 <a href="#Monergism" style="color:Orange;">Monergism (Safe)</a>
+    - 4.3 <a href="#Miscellaneous" style="color:Orange;">Miscellaneous</a>
 5. <a href="#Orthodoxy" style="color:ForestGreen;">Orthodox Christian Groups <sup style="font-weight:bold;">†</sup></a>
 6. <a href="#Overview-Section-Two">Scriptural Overview <sup style="font-weight:bold;">†</sup></a>
 7. <a href="#Warnings-From-The-Apostles">Warnings From The Apostles <sup style="font-weight:bold;">†</sup></a>
@@ -483,7 +484,7 @@ Labeling this group as legalistic is challenging because they profess alignment 
 >
 > &mdash; [Dr. Bruce Demarest (Ph.D., University of Manchester)](https://sevenshepherd.github.io/ordo-salutis/) was senior professor of spiritual formation at Denver Seminary, where he taught since 1975, and a member of the Evangelical Theological Society, Theological Thinkers and Cultural Group, and Spiritual Formation Forum. "The Cross and Salvation: The Doctrine of Salvation (Foundations of Evangelical Theology)." p. 35.
 
-<a name="Monergism" href="#contents" style="font-size:2.1em;">4.1 Monergistic Sects</a>
+<a name="Monergism" href="#contents" style="font-size:2.1em;">4.2 Monergistic Sects</a>
 
 Monergism is the most secure theological stance. Among all the non-heretical sects, Calvinism is the safest; however, these sects have ***&ldquo;other issues&rdquo;*** that categorize them as sects, such as limited atonement. More extreme or hyper variants also espouse double predestination and anti-evangelistic tendencies.
 
@@ -522,7 +523,9 @@ Monergism is the most secure theological stance. Among all the non-heretical sec
 >
 > &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
-### 3. KJV Onlyism
+<a name="Miscellanious" href="#contents" style="font-size:2.1em;">4.3 Miscellanious Sects</a>
+
+### 1. KJV Onlyism
 - **Notoriety**: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
     - [The Textus Receptus](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) was composed by a Catholic Priest named Erasmus. (KJV, NKJV).
     - The TR was not historically received by all or even by Erasmus himself as there are 27 different and conflicting Textus Receptus’. 
