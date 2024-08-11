@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:35:00 -0500
+date: 2024-07-23 14:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -523,7 +523,7 @@ Monergism is the most secure theological stance. Among all the non-heretical sec
 >
 > &mdash; Dr. Michael F. Bird (Ph.D., University of Queensland), Evangelical Theology, 4.4 The Death of Jesus, 4.4.3.3 Amyraldian View. p. 486.
 
-<a name="Miscellanious" href="#contents" style="font-size:2.1em;">4.3 Miscellanious Sects</a>
+<a name="Miscellaneous" href="#contents" style="font-size:2.1em;">4.3 Miscellaneous Sects</a>
 
 ### 1. KJV Onlyism
 - **Notoriety**: turns a blind eye to biblical language scholarship. Worships the creation rather than the creator. In denial of Daniel 12:4 which states that knowledge will be increased. Logically our English translations will increase in [accuracy](https://sevenshepherd.github.io/24-reasons-esv-net-nlt/) as well.
