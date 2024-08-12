@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:45:00 -0500
+date: 2024-07-23 14:55:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -607,6 +607,8 @@ There's very few groups that fall into this uniquely accurate section, among the
 - Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** Lk 9:62; **Lk 14:27**; Mk 8:34... Jn 15:8 ESV; Mt 3:10; 25:30).
 
 <a name="Warnings-From-The-Apostles" href="#contents" style="font-size:2.1em;">📜 VII. Warnings From The Apostles</a>
+
+![What the Bible really says.](/assets/images/what-the-bible-really-says.jpg)
 
 Because I already addressed [the heresy of antinomianism](https://www.gotquestions.org/antinomianism.html) multiple times, I'm going to briefly cover the topic here:
 
