@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🗡️ “I have not come to bring peace, but a sword.” — Jesus"
-date: 2024-07-23 02:20:00 -0500
+date: 2024-07-23 02:30:00 -0500
 categories: division
-published: true
+published: false
 ---
 
 <a name="Division-Paradox" href="#contents" style="font-size:2.1em;">The Division Paradox</a>
