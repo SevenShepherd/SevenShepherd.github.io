@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "🎓 Every English Bible Translation And 1,000s of Biblical Language Scholars, Chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent"
-date: 2024-08-18 1:00:00 -0500
+date: 2024-08-18 1:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
-
-<!-- “I have not come to bring peace, but a sword.” -->
-
-[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 <style>
     * {
@@ -18,17 +14,36 @@ published: true
 
 > Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
 
-# ALL ENGLISH TRANSLATIONS SAY "REPENT!" AND NOT "CHANGE YOUR MIND!"
+<br>
 
-> There is yet another significant argument against the common Free Grace definition of repentance as a mere "change of mind": the definition "change of mind" differs from all widely known English Bible translations.
+---
+
+<br>
+
+<a name="contents" style="font-size:2.1em;color:black;">Contents</a>
+
+1. <a href="#Main">All English Trnaslations Say "Repent!" And Not "Change Your Mind!"</a>
+2. <a href="#Conclusion">Conclusion</a>
+3. <a href="#Cites">Cites</a>
+
+<br>
+
+---
+
+<br>
+
+
+<a name="Main" href="#contents" style="font-size:2.1em;">All English Trnaslations Say "Repent!" And Not "Change Your Mind!"</a>
+
+> There is yet another significant argument against the common [Free Grace](https://sevenshepherd.github.io/free-grace-theology/) definition of repentance as a mere "change of mind": the definition "change of mind" differs from all widely known English Bible translations.
 > 
 > Take, for example, the first instance of metanoeō in the New Testament, which reports John the Baptist preaching and saying, "Repent, for the kingdom of heaven is at hand" (Matt. 3:2). This verb is translated as "repent" in the following Bible versions: KJV, NKJV, ESV, NASB, NIV, NET, HCSB, NLT, RSV, and NRSV. I know of no Bible translation that translates this verse as, "Change your minds, for the kingdom of heaven is at hand." And for good reason; the English word repent does not mean merely "change your mind" but has the following meanings:
 > 
-> 1. To feel remorse, contrition, or self-reproach for what one has done or failed to do; be contrite. 2. To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior. 3. To make a change for the better as a result of remorse or contrition for one's sins. 38
+> 1. To feel remorse, contrition, or self-reproach for what one has done or failed to do; be contrite. 2. To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior. 3. To make a change for the better as a result of remorse or contrition for one's sins. <sup>38</sup>
 >
-> <sup>38 American Heritage Dictionary, 4th ed. (Boston: Houghton Mifflin, 2006), s.v. "repent."</sup>
+>> <sup>38 American Heritage Dictionary, 4th ed. (Boston: Houghton Mifflin, 2006), s.v. "repent."</sup>
 > 
-> Those are three related but slightly distinct meanings for repent. Of those three senses, the meaning that would most naturally come to mind for English-speaking readers of the New Testa- ment would be the one connected to "sins," or meaning (3), or perhaps a combined sense of (2) and (3), including making a change for the better, or resolving to make a change for the better, "as a result of remorse or contrition for one's sins." That is the sense that is best suited to the New Testament contexts where English translators have used this word, and that is naturally the sense in which they expected it to be understood. 39 This is significant. It means that all the verses in the New Testament that use the word repent in English are also arguments against the Free Grace position, that repent means "to change one's mind." For example:
+> Those are three related but slightly distinct meanings for repent. Of those three senses, the meaning that would most naturally come to mind for English-speaking readers of the New Testa- ment would be the one connected to "sins," or meaning (3), or perhaps a combined sense of (2) and (3), including making a change for the better, or resolving to make a change for the better, "as a result of remorse or contrition for one's sins." That is the sense that is best suited to the New Testament contexts where English translators have used this word, and that is naturally the sense in which they expected it to be understood. <sup>39</sup> This is significant. It means that all the verses in the New Testament that use the word repent in English are also arguments against [the Free Grace position](https://sevenshepherd.github.io/free-grace-theology/), that repent means "to change one's mind." For example:
 > 
 > Repent [not: Change your mind], for the kingdom of heaven is at hand. (Matt. 3:2)
 > 
@@ -38,7 +53,7 @@ published: true
 > 
 > And Peter said to them, "Repent [not: Change your mind] and be baptized every one of you in the name of Jesus Christ
 > 
-> 39 Even meaning (2) by itself, "To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior," implies not merely a change of opinion but a change in thinking so that one is resolved no longer to continue that pat- tern of behavior.
+>> <sup>39 Even meaning (2) by itself, "To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior," implies not merely a change of opinion but a change in thinking so that one is resolved no longer to continue that pat- tern of behavior.</sup>
 > 
 > for the forgiveness of your sins, and you will receive the gift of the Holy Spirit." (Acts 2:38)
 > 
@@ -56,7 +71,25 @@ published: true
 
 <br>
 
-# Quotations
+# Conclusion
+
+<!-- “I have not come to bring peace, but a sword.” -->
+
+[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+
+It's important for you to understand the difference between [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials), who actually know and are educated in the meaning of Koine Greek & Biblical Hebrew words, and theologians who do not.
+
+<!-- Being inter-denominational, non-sectarian, ecumenical, and systemless.. -->
+
+The acadmic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tell's you that repenatance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject they are not educated on.
+
+<br>
+
+---
+
+<br>
+
+# Additional Cites
 
 <span style="font-size:0.8em;">[C.S. Lewis (Oxford & Cambridge)](https://sevenshepherd.github.io/c-s-lewis-on-repentance/) *&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*</span>
 
