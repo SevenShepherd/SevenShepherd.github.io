@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
-date: 2024-08-18 2:30:00 -0500
+date: 2024-08-18 2:35:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -52,7 +52,24 @@ published: true
 
 It's most fascinating that Jesus describes [New Testament repentance](https://sevenshepherd.github.io/repentance/) (Mt 11:21-22) <a href="#GPT-4-Turbo">in the same way</a> the Old Testament does (Job 42:6). The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
-- <span style="font-size:0.8em;">Not justifying (Rom 3:28; Eph 2:8-10).</span>
+- Not justifying (Rom 3:28; Eph 2:8-10).
+- Imperfect (1Jn 1:8–10; 2:1-2).
+- **Taught alongside faith by Christ Himself** (Mark 1:14-15).
+- One of the reasons Jesus came (Lk 5:32).
+- Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+- **An immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
+- **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
+- **Commanded** by God (Ac 17:30; Mt 4:17).
+- **Granted** by God (Ac 11:18; 2Tim. 2:25).
+- Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
+- Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
+- **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+- **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
+- Described as **needed** and necessary (Lk 15:7).
+- Repent or Perish (Lk 13:3; Mt 3:10).
+- Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13). 
+
+<!-- - <span style="font-size:0.8em;">Not justifying (Rom 3:28; Eph 2:8-10).</span>
 - <span style="font-size:0.8em;">Imperfect (1Jn 1:8–10; 2:1-2).</span>
 - <span style="font-size:0.8em;">**Taught alongside faith by Christ Himself** (Mark 1:14-15).</span>
 - <span style="font-size:0.8em;">One of the reasons Jesus came (Lk 5:32).</span>
@@ -67,7 +84,7 @@ It's most fascinating that Jesus describes [New Testament repentance](https://se
 - <span style="font-size:0.8em;">**Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).</span>
 - <span style="font-size:0.8em;">Described as **needed** and necessary (Lk 15:7).</span>
 - <span style="font-size:0.8em;">Repent or Perish (Lk 13:3; Mt 3:10).</span>
-- <span style="font-size:0.8em;">Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).</span>
+- <span style="font-size:0.8em;">Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).</span> -->
 
 <br>
 
