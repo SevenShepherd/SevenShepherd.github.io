@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 2:10:00 -0500
+date: 2024-08-18 2:20:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -83,7 +83,7 @@ It's important for you to understand the difference between [biblical language s
 
 <!-- Being inter-denominational, non-sectarian, ecumenical, and systemless.. -->
 
-The academic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tell's you that repentance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject they are not educated on.
+The academic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tells you that repentance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject they are not educated on.
 
 <br>
 

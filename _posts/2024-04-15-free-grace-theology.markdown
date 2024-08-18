@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 10:15:00 -0500
+date: 2024-04-15 10:30:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -200,6 +200,8 @@ Although my definition of repentance (p. 865) includes "a heartfelt sorrow for s
 
 <a name="scholars" href="#contents" style="font-size:1.6em">🚶📜 2.3 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent.</a>
 
+The academic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tells you that repentance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject they are not educated on.
+
 > There is yet another significant argument against the common [Free Grace](https://sevenshepherd.github.io/free-grace-theology/) definition of repentance as a mere "change of mind": the definition "change of mind" differs from all widely known English Bible translations.
 > 
 > Take, for example, the first instance of [metanoeō](/assets/images/greek/metanoeo.png) in the New Testament, which reports John the Baptist preaching and saying, "Repent, for the kingdom of heaven is at hand" (Matt. 3:2). This verb is translated as "repent" in the following Bible versions: KJV, NKJV, ESV, NASB, NIV, NET, HCSB, NLT, RSV, and NRSV. I know of no Bible translation that translates this verse as, "Change your minds, for the kingdom of heaven is at hand." And for good reason; the English word repent does not mean merely "change your mind" but has the following meanings:
@@ -230,7 +232,9 @@ Although my definition of repentance (p. 865) includes "a heartfelt sorrow for s
 > 
 > [Paul says that he]... declared first to those in Damascus, then in Jerusalem and throughout all the region of Judea, and also to the Gentiles, that they should repent [not: change their minds] and turn to God, performing deeds in keeping with their repentance. (Acts 26:20)
 > 
-> These verses and others like them with the English word repent give further evidence that no committee of English Bible translators has agreed with Bing's definition, "change of mind." p. 64. <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
+> These verses and others like them with the English word repent give further evidence that no committee of English Bible translators has agreed with Bing's definition, "change of mind."
+>
+> &mdash; <span style="font-size:0.8em;">[Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary)](https://youtu.be/s9e3Y2SMXag) *&ldquo;a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the ESV Study Bible, and the author of over twenty-five books.&rdquo;* from "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 64. Endorsed by 9 leading Biblical scholars.
 
 <a name="assurance" href="#contents" style="font-size:2.1em;">🚶📜 3. Is The 80's version of the Gospel indoctrinating innocent children into lifestyles of sin and false assurance, causing them to apostatize?</a>
 
