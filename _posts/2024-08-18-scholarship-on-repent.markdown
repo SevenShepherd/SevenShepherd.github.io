@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 2:00:00 -0500
+date: 2024-08-18 2:10:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -39,7 +39,9 @@ published: true
 > 
 > Take, for example, the first instance of [metanoeō](/assets/images/greek/metanoeo.png) in the New Testament, which reports John the Baptist preaching and saying, "Repent, for the kingdom of heaven is at hand" (Matt. 3:2). This verb is translated as "repent" in the following Bible versions: KJV, NKJV, ESV, NASB, NIV, NET, HCSB, NLT, RSV, and NRSV. I know of no Bible translation that translates this verse as, "Change your minds, for the kingdom of heaven is at hand." And for good reason; the English word repent does not mean merely "change your mind" but has the following meanings:
 > 
-> 1. To feel remorse, contrition, or self-reproach for what one has done or failed to do; be contrite. 2. To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior. 3. To make a change for the better as a result of remorse or contrition for one's sins. <sup>38</sup>
+> 1. To feel remorse, contrition, or self-reproach for what one has done or failed to do; be contrite. 
+> 2. To feel such regret for past conduct as to change one's mind regarding it: repented of intemperate behavior. 
+> 3. To make a change for the better as a result of remorse or contrition for one's sins. <sup>38</sup>
 >
 >> <sup>38 American Heritage Dictionary, 4th ed. (Boston: Houghton Mifflin, 2006), s.v. "repent."</sup>
 > 
@@ -63,7 +65,7 @@ published: true
 > 
 > [Paul says that he]... declared first to those in Damascus, then in Jerusalem and throughout all the region of Judea, and also to the Gentiles, that they should repent [not: change their minds] and turn to God, performing deeds in keeping with their repentance. (Acts 26:20)
 > 
-> These verses and others like them with the English word repent give further evidence that no committee of English Bible translators has agreed with Bing's definition, "change of mind." <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
+> These verses and others like them with the English word repent give further evidence that no committee of English Bible translators has agreed with Bing's definition, "change of mind." p. 64. <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
 
 <br>
 
