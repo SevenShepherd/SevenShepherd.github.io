@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible Translation And 1,000s of Biblical Language Scholars, Chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent"
-date: 2024-08-18 1:15:00 -0500
+date: 2024-08-18 1:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -22,7 +22,7 @@ published: true
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
-1. <a href="#Main">All English Trnaslations Say "Repent!" And Not "Change Your Mind!"</a>
+1. <a href="#Main">All English Translations Say "Repent!" And Not "Change Your Mind!"</a>
 2. <a href="#Conclusion">Conclusion</a>
 3. <a href="#Cites">Cites</a>
 
@@ -33,7 +33,7 @@ published: true
 <br>
 
 
-<a name="Main" href="#contents" style="font-size:2.1em;">All English Trnaslations Say "Repent!" And Not "Change Your Mind!"</a>
+<a name="Main" href="#contents" style="font-size:2.1em;">All English Translations Say "Repent!" And Not "Change Your Mind!"</a>
 
 > There is yet another significant argument against the common [Free Grace](https://sevenshepherd.github.io/free-grace-theology/) definition of repentance as a mere "change of mind": the definition "change of mind" differs from all widely known English Bible translations.
 > 
