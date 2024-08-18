@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
-date: 2024-08-18 2:35:00 -0500
+date: 2024-08-18 2:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -23,6 +23,8 @@ published: true
 1. <a href="#Main">Repentance In The Old Testament</a>
 2. <a href="#Conclusion">Summary & Conclusion</a>
 3. <a href="#GPT-4-Turbo">Artificial Intelligence Analysis</a>
+    1. <a href="#GPT-4-Turbo-Comparison">Comparison of Mt 11:21-22; Job 42:6</a>
+    2. <a href="#GPT-4-Turbo-Analysis">Analysis of Article</a>
 
 <br>
 
@@ -94,7 +96,9 @@ It's most fascinating that Jesus describes [New Testament repentance](https://se
 
 <a name="GPT-4-Turbo" href="#contents" style="font-size:2.1em;">Artificial Intelligence Analysis</a>
 
-<sup style="font-style:italic;">GPT-4-turbo (compare & contrast of Mt 11:21-22; Job 42:6).</sup>
+<!-- <sup style="font-style:italic;"></sup> -->
+
+<a name="GPT-4-Turbo-Comparison" href="#contents" style="font-size:1.6em;font-style:italic;">GPT-4-turbo (compare & contrast of Mt 11:21-22; Job 42:6).</a>
 
 The call to repentance in the Old Testament shares several similarities with [the New Testament](https://sevenshepherd.github.io/repentance/), reflecting a consistent theme throughout the Bible. Here are some key parallels:
 
@@ -108,7 +112,7 @@ The call to repentance in the Old Testament shares several similarities with [th
 
 Overall, while the Old and New Testaments approach repentance in different historical and cultural contexts, the core message remains consistent: a call to recognize sin, change behavior, and seek forgiveness from God.
 
-<span style="font-size:1.6em; font-style:italic;">GPT-4-Turbo Analysis of Article</span>
+<a name="GPT-4-Turbo-Analysis" href="#contents" style="font-size:1.6em;font-style:italic;">GPT-4-Turbo Analysis of Article</a>
 
 The article's conclusion effectively captures the depth of biblical repentance by examining the Hebrew and Greek terms used in Scripture. Here's a breakdown of the key points and their alignment with biblical concepts:
 
