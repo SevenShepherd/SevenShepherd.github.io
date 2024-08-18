@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible Translation And 1,000s of Biblical Language Scholars, Chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent"
-date: 2024-08-18 1:05:00 -0500
+date: 2024-08-18 1:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -71,7 +71,7 @@ published: true
 
 <br>
 
-# Conclusion
+<a name="Conclusion" href="#contents" style="font-size:2.1em;">Conclusion</a>
 
 <!-- “I have not come to bring peace, but a sword.” -->
 
@@ -89,7 +89,7 @@ The acadmic community is made up of thousands of scholars who created all the En
 
 <br>
 
-# Additional Cites
+<a name="Cites" href="#contents" style="font-size:2.1em;">Additional Cites</a>
 
 <span style="font-size:0.8em;">[C.S. Lewis (Oxford & Cambridge)](https://sevenshepherd.github.io/c-s-lewis-on-repentance/) *&ldquo;A towering intellect and profoundly gifted writer. He was a scholar at both Oxford and Cambridge. He taught at Magdalen College, Oxford, for nearly three decades before becoming the Chair of Medieval and Renaissance Literature at Cambridge University in 1954.&rdquo;*</span>
 
