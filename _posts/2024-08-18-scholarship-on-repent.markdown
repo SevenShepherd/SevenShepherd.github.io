@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎓 Every English Bible Translation And 1,000s of Biblical Language Scholars, Chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent"
-date: 2024-08-18 1:45:00 -0500
+title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
+date: 2024-08-18 2:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -11,8 +11,6 @@ published: true
         font-family:'Times New Roman', Times, serif;
     }
 </style>
-
-> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
 
 <br>
 
@@ -25,6 +23,8 @@ published: true
 1. <a href="#Main">All English Translations Say "Repent!" And Not "Change Your Mind!"</a>
 2. <a href="#Conclusion">Conclusion</a>
 3. <a href="#Cites">Cites</a>
+
+> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">†</sup></a>
 
 <br>
 
