@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "✝️ Just as Jude 4 foretold, they would abuse the precious grace of our God, twisting it into a license to sin."
-date: 2024-08-21 01:20:00 -0500
+date: 2024-08-21 01:25:00 -0500
 categories: theology
-published: true
+published: false
 ---
 
 <!-- They flaunt their rebellion around you because the presence of Christ in you exposes their corruption. -->
