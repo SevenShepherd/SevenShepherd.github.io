@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ "Just as Jude 4 foretold, they would abuse the precious grace of our God, twisting it into a license to sin. Their defiance festers in our presence because the authority of Christ's light within us exposes their darkness. This is why they flaunt their rebellion."
-date: 2024-08-21 01:00:00 -0500
+title: "✝️ Just as Jude 4 foretold, they would abuse the precious grace of our God, twisting it into a license to sin. Their defiance festers in our presence because the authority of Christ's light within us exposes their darkness. This is why they flaunt their rebellion."
+date: 2024-08-21 01:05:00 -0500
 categories: theology
 published: true
 ---
