@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ As Jude 4 foretold, they abuse the precious grace of our God, twisting and cheapening it into a license to sin. They flaunt their rebellion around us because the the light of Christ within us exposes their darkness."
-date: 2024-08-21 01:45:00 -0500
+title: "✝️ As the Apostle Jude forewarned, they abuse the precious grace of our God, twisting and cheapening it into a license to sin. They flaunt their rebellion around us because the light of Christ within us exposes their darkness."
+date: 2024-08-21 02:00:00 -0500
 categories: theology
 published: true
 ---
