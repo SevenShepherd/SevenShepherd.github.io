@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ As the Apostle Jude forewarned, they abuse the precious grace of our God, twisting and cheapening it into a license to sin. They flaunt their rebellion around us because the light of Christ within us exposes their darkness."
-date: 2024-08-21 02:05:00 -0500
+date: 2024-08-21 02:10:00 -0500
 categories: theology
 published: true
 ---
@@ -12,7 +12,7 @@ published: true
 
 <!-- They flaunt their rebellion around us because the presence of Christ in us exposes their corruption. They rage against His authority. -->
 
-The deceived cloak their rebellion by abusing the precious grace of our God, twisting and cheapening it into a license to sin. Their defiance is frustrated in our presence because **the light of Christ within us exposes their darkness** (Ac 26:18,20). It's His authority in us that disturbs them, a silent condemnation they can neither ignore nor escape. It's not us they are irritated by, it's Christ himself (Jn 7:7).
+The deceived cloak their rebellion by abusing the precious grace of our God, twisting and cheapening it into a license to sin. Their defiance is frustrated in our presence because **the light of Christ within us exposes their darkness** (Eph 5:11-13; Ac 26:18,20). It's His authority in us that disturbs them, a silent condemnation they can neither ignore nor escape. It's not us they are irritated by, it's Christ himself (Jn 7:7 NLT).
 
 <!-- like hydrogen peroxide to a dirty wound -->
 
