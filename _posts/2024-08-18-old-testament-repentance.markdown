@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎓 The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
-date: 2024-08-18 2:45:00 -0500
+date: 2024-08-18 2:55:00 -0500
 categories: cult heresy sect
-published: true
+published: false
 ---
 
 <style>

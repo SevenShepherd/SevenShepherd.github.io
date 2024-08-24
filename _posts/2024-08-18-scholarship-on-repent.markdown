@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 2:20:00 -0500
+date: 2024-08-18 2:25:00 -0500
 categories: cult heresy sect
-published: true
+published: false
 ---
 
 <style>

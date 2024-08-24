@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "✝️ As the Apostle Jude forewarned, they abuse the precious grace of our God, twisting and cheapening it into a license to sin. They flaunt their rebellion around us because the light of Christ within us exposes their darkness."
-date: 2024-08-21 02:10:00 -0500
+date: 2024-08-21 02:15:00 -0500
 categories: theology
-published: true
+published: false
 ---
 
 <!-- When false Christians sin under the guise of grace, they expose their rebellion against the God who empowers true believers, fulfilling the prophecy of Jude 4. -->
