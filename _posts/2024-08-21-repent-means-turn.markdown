@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on the meaning of repentance"
-date: 2024-08-24 01:10:00 -0500
+title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
+date: 2024-08-24 01:15:00 -0500
 categories: repent
 published: true
 ---
