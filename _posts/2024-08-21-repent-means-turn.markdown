@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 01:25:00 -0500
+date: 2024-08-24 01:30:00 -0500
 categories: repent
 published: true
 ---
@@ -12,11 +12,11 @@ This is undeniable proof using scripture alone, that a turning away from sin was
 
 <!-- As you can see, the Apostle Peter himself, the rock on which the church was built, has taken to my defense on this issue and against those who falsely teach assent changes in the mind.  -->
 
-What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> fundamental summons? It was to Repent, found in Matt. 4:17.
+What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> fundamental summons? It was to preach Repentance as an inward resolve to turn from sin, found in Matt. 4:17 and reinforced by Ac 3:26 above.
 
 > From that time Jesus <span style="font-weight:bold;color:ForestGreen;">began</span> to preach this message: “<span style="font-weight:bold;color:Goldenrod;">Repent</span>, for the kingdom of heaven is near!” &mdash; Matthew 4:17 NET
 
-**God has spoken.** The Apostles have written. The only question is, will you receive their correction? Do not listen to false teachers who tell you that repentance is only a mind change.
+**God has spoken.** The Apostles have written. The only question is, will you receive their correction? Do not listen to false teachers who tell you that repentance is only a mind change. They will lead you and your family into destruction. Instead [call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/), turn from your sin (*repent*), and place your trust (*faith*) in Christ alone.
 
 > Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
 
