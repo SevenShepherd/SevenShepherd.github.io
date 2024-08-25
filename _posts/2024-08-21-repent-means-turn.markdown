@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 01:15:00 -0500
+date: 2024-08-24 01:25:00 -0500
 categories: repent
 published: true
 ---
 
 This is undeniable proof using scripture alone, that a turning away from sin was what Jesus meant in Matt. 4:17 when he said *"Repent."* He wanted you to feel true contrition (2Cor. 7:10) for the things you have done, to the point of turning away from them.
 
-> When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26
+> When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26 NLT
 
 <!-- As you can see, the Apostle Peter himself, the rock on which the church was built, has taken to my defense on this issue and against those who falsely teach assent changes in the mind.  -->
 
@@ -23,6 +23,8 @@ What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> f
 The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
 <!-- It's most fascinating that Jesus describes [New Testament repentance](https://sevenshepherd.github.io/repentance/) (Mt 11:21-22) <a href="#GPT-4-Turbo">in the same way</a> the Old Testament does (Job 42:6).  -->
+
+> Then he said, “I tell you the truth, unless you turn from your sins and become like little children, you will never get into the Kingdom of Heaven. &mdash; Matthew 18:3 NLT
 
 - Not justifying (Rom 3:28; Eph 2:8-10).
 - Imperfect (1Jn 1:8–10; 2:1-2).
