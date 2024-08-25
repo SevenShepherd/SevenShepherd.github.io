@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on the meaning of repentance"
-date: 2024-08-24 01:05:00 -0500
+date: 2024-08-24 01:10:00 -0500
 categories: repent
 published: true
 ---
 
-This is undeniable proof using scripture alone, that a turning away from sin was what Jesus meant in Matt. 4:17 when he said *"Repent."*
+This is undeniable proof using scripture alone, that a turning away from sin was what Jesus meant in Matt. 4:17 when he said *"Repent."* He wanted you to feel true contrition (2Cor. 7:10) for the things you have done, to the point of turning away from them.
 
 > When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26
 
@@ -18,7 +18,7 @@ What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> f
 
 **God has spoken.** The Apostles have written. The only question is, will you receive their correction? Do not listen to false teachers who tell you that repentance is only a mind change.
 
-> Now repent of your sins and turn to God, so that your sins may be wiped away. &mdash; Acts 3:19
+> Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
 
 The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
@@ -35,7 +35,7 @@ The message that <span style="font-style:italic;">&ldquo;There is forgiveness of
 - **Granted** by God (Ac 11:18; 2Tim. 2:25).
 - Growth **given** by God (1Cor 3:6-7; Ga 5:22-23 NLT; Jn 15:4-5).
 - Preached **for the forgiveness of sins** (Luke 24:47; Acts 2:38; 3:19; 5:31).
-- **Produced from Godly sorrow** (2 Cor. 7:10; Matt. 11:21-22; Job 42:6).
+- **Produced from Godly sorrow** (2Cor. 7:10; Matt. 11:21-22; Job 42:6).
 - **Leading to salvation** and eternal life (2 Cor. 7:10; Acts 11:18).
 - Described as **needed** and necessary (Lk 15:7).
 - Repent or Perish (Lk 13:3; Mt 3:10).
@@ -73,7 +73,7 @@ obersvations of sanctification are never legalisitc  -->
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'NLT'
+            bibleVersion: 'NET'
         }
     }; 
 
