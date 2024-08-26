@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ Sola Fide, the original Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 01:15:00 -0500
+title: "✝️ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
+date: 2024-08-25 01:25:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -20,9 +20,13 @@ So the next time you hear someone remark something uneducated like "theres no su
 
 ### 1. [Legalism](https://sevenshepherd.github.io/what-is-a-cult/#Legalism) is when you attempt to merit (earn) your salvation by works. 
 
+**The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God.Legalism bad, fruit-bearing good.** No historic protestant confessions has ever taught that the fruits of the faith earn anything. The Holy Spirit produces the fruit, not human strivings. It's a natural outworking (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
+
 > *&ldquo;The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1– 8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points.&rdquo;*
 
 ### 2. [Synergism](https://sevenshepherd.github.io/what-is-a-cult/#Synergism) is when you believe that faith plus works justifies. 
+
+Historic Chrsitians believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span> and that we must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. No historic Protestant confession says that saving faith includes obedience. This is the <span style="color:#00cc44;">Historic Protestant Position</span>.
 
 > *&ldquo;In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ.&rdquo;*
 
@@ -44,7 +48,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 ### 4. [Antinomianism](https://sevenshepherd.github.io/what-is-a-cult/#Antinomianism) denies the transformative power of the Holy Spirit.
 
-They falsely teach no works or fruits need follow saving faith, leading to a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and a watered down unscriptural versions of repentance that only takes place in their head. This, of course, matches no authoritative Greek lexicon, or dictionary, and has been disproven by the academic community and centuries of sound doctrine, creeds, and confessions. They despise  the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23), and a turning from sin (Acts 3:26; Act 3:19). 
+They falsely teach no works or fruits need follow saving faith, leading to a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and a watered down unscriptural version of repentance that only takes place in their head. This, of course, matches no authoritative Greek lexicon, or dictionary, and has been disproven by the academic community and centuries of sound doctrine, creeds, and confessions. They despise  the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23), and a turning from sin (Acts 3:26; Act 3:19). 
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
 
