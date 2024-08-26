@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "✝️ Sola Fide, the original Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 01:00:00 -0500
+date: 2024-08-25 01:05:00 -0500
 categories: repent Lordship
 published: true
 ---
 
-1. Legalism is when you attempt to merit (earn) your salvation by works. 
+1. [Legalism](https://sevenshepherd.github.io/what-is-a-cult/#Legalism) is when you attempt to merit (earn) your salvation by works. 
     - > *&ldquo;The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1– 8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points.&rdquo;*
-2. Synergism is when you believe in faith plus works. 
+2. [Synergism](https://sevenshepherd.github.io/what-is-a-cult/#Synergism) is when you believe that faith plus works justifies. 
     - > *&ldquo;In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ.&rdquo;*
 3. Historic Christianity believes that genuine saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
     - Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
@@ -28,7 +28,9 @@ I've created a simplified chart for your convenience.
 
 <!-- Sola Fide - The Original Lordship Position. How the Bible warns heretics would deny the Lordship of Christ. -->
 
-<!-- Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT). False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their lives (Jd 4 NET; 2Pe 2:1-2 NET). Both are true for the saved, as Christianity is a call to discipleship (Mt 10:38 NLT; Lk 9:23; 14:27). -->
+<!-- Anyone who can say *"Jesus is Lord,"* and mean it, does so by the power of the Holy Spirit (1 Cor. 12:3). &ldquo;If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.&rdquo; (Romans 10:9 NLT).  -->
+
+False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their lives (Jd 4 NET; 2Pe 2:1-2 NET). Both are true for the saved, as Christianity is a call to discipleship (Mt 10:38 NLT; Lk 9:23; 14:27).
 
 <br>
 
