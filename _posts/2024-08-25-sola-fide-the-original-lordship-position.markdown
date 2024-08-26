@@ -1,16 +1,22 @@
 ---
 layout: post
 title: "✝️ Sola Fide, the original Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 01:10:00 -0500
+date: 2024-08-25 01:15:00 -0500
 categories: repent Lordship
 published: true
 ---
 
 The wonderful thing about [historical Christianity](https://sevenshepherd.github.io/historical-christianity/), is that for the past five centuries, all beliefs and teachings have been recorded in the many wonderful creeds and confessions of the faith.
 
+> III. & VIII. We believe, also teach, and confess that Faith alone is the means and instrument whereby we lay hold on Christ the Saviour ... after that man is justified by faith, then that true and living faith works by love, and <span style="font-weight:bold;color:ForestGreen;">good works always follow justifying faith</span>, and are most certainly found together with it, provided only it be true and living faith. For <span style="font-weight:bold;color:ForestGreen;">true faith is never alone</span> ... &mdash; Formula of Concord (<span style="font-weight:bold;color:Goldenrod;">1576</span>), [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:116, 118](https://amzn.to/3k5v2cZ)
+
 Submitting in obedience to Christ is a natural outworking of genuine saving faith, and sola fide or the doctrine of faith alone, has for five centuries, taught that genuine saving faith &ldquo;*results*&rdquo; in obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; justification (James 2:14-26; Eph 2:10).
 
+> XII. Of Good Works: Albeit that <span style="font-weight:bold;color:ForestGreen;">Good Works, which are fruits of Faith, and follow after Justification</span>... do spring out necessarily of a true and lively faith... by them a lively Faith may be as <span style="font-weight:bold;color:ForestGreen;">evidently known as a tree discerned by the fruit</span>. &mdash; Thirty-Nine Articles of the Church of England (<span style="font-weight:bold;color:Goldenrod;">1571</span>), [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
+
 So the next time you hear someone remark something uneducated like "theres no such thing as Lordship salvation" just [read the confessions to them](https://sevenshepherd.github.io/historical-christianity/). Now lets dispel the lie that there's anything legalistic about sola fide, the original lordship position, by going through a set of definitions and descriptions.
+
+> <span style="font-weight:bold;color:ForestGreen;">Therefore Christ justifies no one whom he does not at the same time sanctify</span>. ... Thus it is clear how true it is that we are justified <span style="font-weight:bold;color:ForestGreen;">not without works yet not through works</span>. &mdash; John Calvin (<span style="font-weight:bold;color:Goldenrod;">1509-1564</span>), [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc)
 
 ### 1. [Legalism](https://sevenshepherd.github.io/what-is-a-cult/#Legalism) is when you attempt to merit (earn) your salvation by works. 
 
@@ -20,17 +26,29 @@ So the next time you hear someone remark something uneducated like "theres no su
 
 > *&ldquo;In Galatians, Paul condemns the Judaizers’ ‘Christ-plus’ message as obscuring and indeed denying the all-sufficiency of the grace revealed in Jesus (Gal. 3:1–3; 4:21; 5:2–6). In Colossians, he conducts a similar polemic against a similar ‘Christ-plus’ formula for ‘fullness’ (i.e. spiritual completion: Col. 2:8–23). Any ‘plus’ that requires us to take action in order to add to what Christ has given us is a reversion to legalism and, in truth, an insult to Christ.&rdquo;*
 
-### 3. Historic Christianity believes that genuine saving faith &ldquo;*results*&rdquo; in (**not** &ldquo;*includes*&rdquo;) obedience to God (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10), and good works that &ldquo;*follow after*&rdquo; (**not** &ldquo;*merits*&rdquo;) justification (James 2:14-26; Eph 2:10).
+### 3. Historic Christianity believes that genuine saving faith &ldquo;*results*&rdquo; in obedience to God, and good works that &ldquo;*follow after*&rdquo; justification. These are the fruits of the faith that manifest during sanctification. Sanctifying works not justifying works.
 
 Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
-> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span> <a name="Grudem-Historic" href="#Grudem"><sup style="font-weight:bold;">Δ</sup></a>
+1. Verses against legalism (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,28).
+2. Verses against antinomianism (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
+3. **Verses for obedience &ldquo;*after*&rdquo; justification (1Jn 2:3-6; 3:6-10; 5:3-4 Jn 14:15,21; 15:10).** (**not** &ldquo;*includes*&rdquo; or &ldquo;*plus*&rdquo;)
+4. Verses for Godly dispositions of Love (1 Jn 2:9-11; 3:10; 4:8,20; Jn 13:34-35).
+5. Verses for Godly and Holy lives (Heb 12:14; 1 Tim 6:3-4; 2 Tim 3:12; Titus 2:11-12; Gal 5:22-23).
+6. **Verses for good works &ldquo;*after*&rdquo; justification (James 2:14-26; Eph 2:10).** (**not** &ldquo;*merits*&rdquo; or &ldquo;*earns*&rdquo;)
+7. The Holy Spirit produces the fruit, not human decision (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
+
+
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span>
 
 ### 4. [Antinomianism](https://sevenshepherd.github.io/what-is-a-cult/#Antinomianism) denies the transformative power of the Holy Spirit.
 
-They falsely teach no works or fruits need follow saving faith, leading to a blind faith, carnality, and hypocrisy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and watered down unscriptural versions of repentance that match no lexicon, or dictionary, and have been disproven by the academic community and centuries of sound doctrine. They hate the truth that repentance is contrition (2Cor 7:10) and a turning from sin (Acts 3:26; Act 3:19).
+They falsely teach no works or fruits need follow saving faith, leading to a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and a watered down unscriptural versions of repentance that only takes place in their head. This, of course, matches no authoritative Greek lexicon, or dictionary, and has been disproven by the academic community and centuries of sound doctrine, creeds, and confessions. They despise  the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23), and a turning from sin (Acts 3:26; Act 3:19). 
 
-# Genuine Saving Faith Chart
+> For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
+
+<span style="font-size:2.1em;">Genuine Saving Faith Chart</span>
 
 I've created a simplified chart for your convenience.
 
@@ -56,6 +74,8 @@ False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their
 <br>
 
 <!-- - <span style="font-weight:bold;color:ForestGreen;">Faith is not only the assent of our minds, but a trust & reliance on Christ. It is a *believing trust* or a *trustful belief*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).</span> <span style="font-weight:bold;color:FireBrick;">Even though the Apostle James debunks assent to facts as salvific (James 2:19), as does our most authoritative lexicons (BDAG), false teachers will strip fiducia (‘trust and reliance’) from the meaning of faith. They tamper with essential doctrine.</span> -->
+
+--
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
