@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧮 The Hierarchy of Authority & How To Be A Good Berean"
-date: 2024-06-18 13:00:00 -0500
+date: 2024-06-18 13:05:00 -0500
 categories: order
 published: true
 ---
@@ -111,9 +111,9 @@ Without biblical language scholars we wouldn't have English Bibles, lexicons, or
 
 The hierarchy of authority as presented in the article aligns with a perspective that emphasizes the primacy of God and the Scriptures over human interpretations and systematic theology. Here are some key points from the article and thoughts on them:
 
-### God and the Holy Spirit
+### God / Holy Spirit
 1. **God (1 John 2:27)**: 
-   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> The ultimate authority in Christian belief is God, and the Holy Spirit plays a crucial role in interpreting Scripture and guiding believers. This is foundational and aligns with the core tenets of Christianity. The article asserts that God and the Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
+   - **Conclusion**: <span style="font-weight:bold;color:ForestGreen;">Agree.</span> The ultimate authority in Christian belief is God, and the Holy Spirit plays a crucial role in interpreting Scripture and guiding believers. This is foundational and aligns with the core tenets of Christianity. The article asserts that God / Holy Spirit are the ultimate authorities in interpreting Scripture, citing biblical passages to support this view.
 
 ### The Holy Scriptures
 2. **The Holy Scriptures**:
