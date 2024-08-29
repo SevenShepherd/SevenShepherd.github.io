@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 01:45:00 -0500
+date: 2024-08-25 02:00:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -20,7 +20,7 @@ So the next time you hear someone remark something uneducated like "theres no su
 
 ### 1. [Legalism](https://sevenshepherd.github.io/what-is-a-cult/#Legalism) is when you attempt to merit (earn) your salvation by works. 
 
-**The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God. Legalism bad, fruit-bearing good.** No historic protestant confession has ever taught that the fruits of the faith earn anything. The Holy Spirit produces the fruit, not human strivings. It's a natural outworking (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
+**The Bible is against the heresy of legalism, but supports Christ's fruit-bearing metaphor of resulting obedience to God. Legalism bad, fruit-bearing good.** No historic protestant confession has ever taught that the fruits of the faith merit or earn justification. The Holy Spirit produces the fruit, not human strivings. It's a supernatural outworking (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
 > *&ldquo;The Pharisees were formalists, focusing entirely on the externals of action, disregarding motives and purposes, and reducing life to mechanical rule-keeping. They thought themselves faithful law-keepers although (a) they majored in minors, neglecting what matters most (Matt. 23:23–24); (b) their casuistry negated the law’s spirit and aim (Matt. 15:3–9; 23:16–24); (c) they treated traditions of practice as part of God’s authoritative law, thus binding consciences where God had left them free (Mark 2:16 – 3:6; 7:1– 8); (d) they were hypocrites at heart, angling for man’s approval all the time (Luke 20:45–47; Matt. 6:1–8; 23:2–7). Jesus was very sharp with them on these points.&rdquo;*
 
