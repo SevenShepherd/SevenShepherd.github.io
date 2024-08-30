@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 01:30:00 -0500
+date: 2024-08-24 01:45:00 -0500
 categories: repent
 published: true
 ---
@@ -9,6 +9,10 @@ published: true
 This is undeniable proof using scripture alone, that a turning away from sin was what Jesus meant in Matt. 4:17 when he said *"Repent."* He wanted you to feel true contrition (2Cor. 7:10) for the things you have done, to the point of turning away from them.
 
 > When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26 NLT
+>
+>> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, Jews will be followed by Gentiles</span> in God’s plan for salvation. Wicked ways, from which Jews must repent (v. 19) &mdash; The Jewish Annotated New Testament (TJANT)</span>
+>
+>> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, implying the later mission to the Gentiles.</span> &mdash; New Oxford Annotated Bible, Fifth (NOAB), the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
 
 <!-- As you can see, the Apostle Peter himself, the rock on which the church was built, has taken to my defense on this issue and against those who falsely teach assent changes in the mind.  -->
 
@@ -19,6 +23,10 @@ What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> f
 **God has spoken.** The Apostles have written. The only question is, will you receive their correction? Do not listen to false teachers who tell you that repentance is only a mind change. They will lead you and your family into destruction. Instead [call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/), turn from your sin (*repent*), and place your trust (*faith*) in Christ alone.
 
 > Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
+>
+>> <span style="font-size:0.8em;">3:19 Repent . . . and turn to God. <span style="font-weight:bold;color:Goldenrod;">Repentance is turning away from sin.</span> Faith is turning to God for salvation. See 2:38 and note. times of refreshing. The blessings and glories of the Messianic age, synonymous with “the time . . . for God to restore everything” (v. 21). Though the kingdom of God has been inaugurated through the life, death, and resurrection of Jesus, it is yet to be consummated in the future. 
+>> 
+>> <span style="font-size:0.8em;">&mdash; The NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span>
 
 The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
