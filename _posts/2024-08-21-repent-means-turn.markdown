@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛞 “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 02:05:00 -0500
+date: 2024-08-24 02:10:00 -0500
 categories: repent
 published: true
 ---
@@ -24,9 +24,7 @@ What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> f
 
 > Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
 >
->> <span style="font-size:0.8em;">3:19 Repent . . . and turn to God. <span style="font-weight:bold;color:Goldenrod;">Repentance is turning away from sin.</span> Faith is turning to God for salvation. See 2:38 and note. times of refreshing. The blessings and glories of the Messianic age, synonymous with “the time . . . for God to restore everything” (v. 21). Though the kingdom of God has been inaugurated through the life, death, and resurrection of Jesus, it is yet to be consummated in the future. 
->> 
->> <span style="font-size:0.8em;">&mdash; The NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span>
+>> <span style="font-size:0.8em;">3:19 Repent . . . and turn to God. <span style="font-weight:bold;color:Goldenrod;">Repentance is turning away from sin.</span> Faith is turning to God for salvation. See 2:38 and note. times of refreshing. The blessings and glories of the Messianic age, synonymous with “the time . . . for God to restore everything” (v. 21). Though the kingdom of God has been inaugurated through the life, death, and resurrection of Jesus, it is yet to be consummated in the future. &mdash; The NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span>
 
 The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
