@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-05-02 03:30:00 -0500
+date: 2023-05-02 03:35:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -38,6 +38,7 @@ The lexicons, dictionaries, scholars, and pastors mentioned here, know what they
     - 3.3 <a href="#EXB">Expanded Bible (EXB)</a>
     - 3.4 <a href="#LOGOS">Faithlife Study Bible (LOGOS)</a>
     - 3.5 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
+    - 3.6 <a href="#NLTF">NLT Filament</a>
 - IV. <a href="#genius">Most Distinguished</a>
     - 4.1 <a href="#cslewis">C.S. Lewis (Oxford)</a>
     - 4.2 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
@@ -82,7 +83,7 @@ Theological Dictionary of the New Testament: Abridged in One Volume (TDNT) is on
 
 <a name="mounced" href="#contents" style="font-size:1.6em;">2.1 Mounce's Complete Expository Dictionary of Old and New Testament Words</a>
 
-[Mounce's Complete Expository Dictionary of Old and New Testament Words](https://amzn.to/3HxOk2Z) is probably the best expository in existence and closest to it's superiors in the lexicon section.
+[Mounce's Complete Expository Dictionary of Old and New Testament Words]() is probably the best expository in existence and closest to it's superiors in the lexicon section.
 
 - More accurate than vines
 - More up-to-date definitions than vines
@@ -94,7 +95,7 @@ Theological Dictionary of the New Testament: Abridged in One Volume (TDNT) is on
 - Mounce's accuracy is endorsed by leading scholars
 
 > **Noun**: μετάνοια (metánoia), GK 3567 (S 3341), 22x.<br>
-> **Verb**: μετανοέω (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, the meaning of the words in the NT does not reflect this etymology; that is, metanoeo does not simply mean "to perceive afterwards."
+> **Verb**: μετανοέω (metanoéō), GK 3566 (S 3340), 34x. Both noun and verb denote a radical, moral turn of the whole person from sin and to God. The words themselves are derived from meta ("after") plus nous ("mind, understanding") for the noun or noeo ("to perceive, understand") for the verb. However, **the meaning of the words in the NT does not reflect this etymology**; that is, metanoeo does not simply mean "to perceive afterwards."
 >
 Furthermore, the use of the verb metanoeo in the NT differs from that in the OT, where the word is mostly used in the LXX to mean "to change one's mind" (e.g., Prov. 20:25; Jer. 4:28; the noun is only used once, in Prov. 14:15). In the LXX, the verb epistrepho (to turn, return"; see turn) is the word that most frequently translates the Heb. verb sub ("to turn back, return [to God in repentance]"). This usage reflects the OT presupposition of the covenant relationship from which Israel had turned and to which they must return. In Jer. 18:8, epistrepho refers to Israel's repentance and metanoeo is used for God's change of mind about judging them. In the NT, metanoeo essentially supersedes epistepho as the word of choice to denote a turning from sin to God. When metanoeo and epistrepho appear together in the NT; the former emphasizes the turn from sin and the latter emphasizes the turn to God
 (see Acts 3:19, 26:20).
@@ -276,6 +277,12 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 > 8: Repentance, a **turning away from evil** and the **forging of a new relationship with God**. Mt 3:8 NRSV. p. 1388.
 
+<a name="NLTF" href="#contents" style="font-size:1.6em;">3.6 New Living Translation Filament</a>
+
+The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting.
+
+> Mt 3:8 Prove... that you have... turned to God (literally make fruit that accords with repentance): John calls for action and true ethical change; mere lip service will not do (see Luke 3:10-14; cp. Matt 5:19-20, 46; 7:21; 23:3).
+
 <a name="genius" href="#contents" style="font-size:2.1em;">IV. Most Distinguished Research Professors</a>
 
 <a name="cslewis" href="#contents" style="font-size:1.6em;">4.1 C.S. Lewis (University of Oxford)</a>
@@ -309,15 +316,25 @@ that one’s views, values, goals, and ways are changed and **one’s whole life
 
 <!-- > In Scripture, repentance means “to undergo a change of one’s mind.” This change of mind is **not a mere switching of minor opinions, but of the entire direction of one’s life**. It involves **a radical turning from sin** and to Christ. &mdash; [R. C. Sproul](https://youtu.be/-HMb9YjRq8Q) (Ph.D., Whitefield Theological Seminary). [Essential Truths](https://amzn.to/3FyUAqx). -->
 
-> The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; <a href="https://amzn.to/3JOaVKp">Dr. J. I. Packer (Ph.D., Oxford), Concise Theology, 60. Repentance.</a>
+> The idea that there can be saving faith without repentance, and that one can be justified by embracing Christ as Saviour while refusing him as Lord, is a destructive delusion. &mdash; Dr. J. I. Packer (Ph.D., Oxford), Concise Theology, 60. Repentance.
 
 <a name="mounce" href="#contents" style="font-size:1.6em;">4.4 Dr. William D. Mounce (Ph.D., Aberdeen)</a>
 
+> **Repentance denotes a radical turning from sin to a new way of life oriented towards God.** ...
+>
+> Peter fulfills this commission by calling his hearers to **"repent ... and turn to God, so that your sins may be wiped out" (Acts 3:19; also Ac 5:31; 11:18; 21:21)**...
+>
+> An accurate understanding of the use of metanoeo and metanoia in the NT is essential to grasp the gospel message, because **it does not allow for someone to obtain salvation simply by intellectually believing that Jesus is the Son of God without repenting of sins and turning to live for him.** See NIDNTT-A,367.
+>
+> &mdash; Dr. William D. Mounce (Ph.D., Aberdeen), Mounce's Complete Expository Dictionary of Old and New Testament Words.
+
+--
+
 > **Gloss**:<br>to repent, to change any or all of the elements composing one's life: attitude, thoughts, and **behaviors concerning the demands of God for right living**
 >
-**Definition**:<br>to undergo a change in frame of mind and feeling, to repent, Lk. 17:3, 4; to **make a change of principle and practice, to reform**, Mt. 3:2
+> **Definition**:<br>to undergo a change in frame of mind and feeling, to repent, Lk. 17:3, 4; to **make a change of principle and practice, to reform**, Mt. 3:2
 >
-&mdash; Dr. William D. Mounce (Ph.D., Aberdeen), [Greek Dictionary](https://www.billmounce.com/greek-dictionary/metanoeo).
+> &mdash; Dr. William D. Mounce (Ph.D., Aberdeen), [Greek Dictionary](https://www.billmounce.com/greek-dictionary/metanoeo).
 
 <a name="summary" href="#contents" style="font-size:2.1em;">V. Summary</a>
 
