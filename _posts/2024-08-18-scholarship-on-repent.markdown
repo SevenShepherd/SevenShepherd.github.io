@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 2:35:00 -0500
+date: 2024-08-18 2:45:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -147,7 +147,7 @@ of r from dead works and of faith • Heb 6:1<br></span>
 
 <span style="font-size:0.8em;">The [**NLT Filament Study Bible**]() has [over 90+ Scholars](https://www.tyndale.com/nlt/meet-the-scholars) in translation from Universities of Cambridge, Oxford, Manchester, Columbia, Westminster, Dallas, etc. The study brings even more to the table. In addition to the NLT being the most readable Bible version on earth according to quantitative linguistic comparison of Bible translations using computerized statistical [analysis](/assets/docs/AnalysisGBI.pdf), many distinguished scholars are worth noting.</span>
 
-> Mt 3:8 Prove... that you have... turned to God (literally make fruit that accords with repentance): John calls for action and true ethical change; mere lip service will not do (see Luke 3:10-14; cp. Matt 5:19-20, 46; 7:21; 23:3).
+> <span style="font-size:0.8em;">Mt 3:8 Prove... that you have... turned to God (literally make fruit that accords with repentance): John calls for action and true ethical change; mere lip service will not do (see Luke 3:10-14; cp. Matt 5:19-20, 46; 7:21; 23:3).</span>
 
 <span style="font-size:0.8em;">The [**Expanded Bible (EXB)**](https://amzn.to/3vlMXy5) builds on the NCV which has [53 scholars](https://www.gotquestions.org/New-Century-Version-NCV.html), and expands inline, extraordinarily accurate and concise comments and literal renderings from [the following scholars](https://www.biblegateway.com/versions/Expanded-Bible-EXB/):</span>
 
