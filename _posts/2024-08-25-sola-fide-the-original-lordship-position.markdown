@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 02:00:00 -0500
+title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
+date: 2024-08-25 02:05:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -50,7 +50,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 ### 4. [Antinomianism](https://sevenshepherd.github.io/what-is-a-cult/#Antinomianism) denies the transformative power of the Holy Spirit.
 
-They falsely teach no works or fruits need follow saving faith, leading to a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and a watered down unscriptural version of repentance that only takes place in their head. This, of course, matches no authoritative Greek lexicon, or dictionary, and has been disproven by the academic community and centuries of sound doctrine, creeds, and confessions. They despise  the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23), and a turning from sin (Acts 3:26; Act 3:19). 
+They falsely teach no works or fruits need follow saving faith, leading to a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy. They also falsely teach a twisted form of faith called assent which strips trust from the equation, and a watered down unscriptural version of repentance that only takes place in their head. This, of course, matches no authoritative Greek lexicon, or dictionary, and has been disproven by the academic community and centuries of sound doctrine, creeds, and confessions. They despise  the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23 NLT), and a turning from sin (Acts 3:26; Act 3:19). 
 
 > For there will be a time when people will not tolerate sound teaching. Instead, following their own desires, they will accumulate teachers for themselves, because they have an insatiable curiosity to hear [new things](https://sevenshepherd.github.io/free-grace-theology/). And they will turn away from hearing the truth, but on the other hand they will turn aside to myths. &mdash; 2 Timothy 4:3-4 NET
 

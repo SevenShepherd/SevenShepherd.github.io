@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✝️ As the Apostle Jude forewarned, the condemned and ungodly abuse the precious grace of our God, twisting it into a license to sin."
-date: 2024-08-21 02:45:00 -0500
+title: "☣️ As the Apostle Jude forewarned, the condemned and ungodly abuse the precious grace of our God, twisting it into a license to sin."
+date: 2024-08-21 03:00:00 -0500
 categories: theology
 published: true
 ---
@@ -39,7 +39,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 <!-- Only those whom God indwells are granted (Ac 11:18; 2Tim. 2:25) the dispositions of godly sorrow that characterize repentance (2Cor. 7:10) and are imbued with a deep-seated desire to turn away from their sins (Ac 3:19). Only those who have not fooled themselves (1Jn 2:3-6). Only those who truly love God (Jn 14:15). Sanctification and fruit bearing (Jn 15:5) are the result of genuine saving faith (2Cor. 13:5) and the work of the Holy Spirit (1Cor 3:6-7). In practice (1Jn 3:4-10) not perfection.  -->
 
-Where is the Holy Spirit's signature in your life? 
+Where is the Holy Spirit's signature in your life (1Cor 3:6-7)? 
 
 - We are set free from sin, but not set free to sin (1 Jn 3:6-10; 5:18; Jd 4 NET; Ro 6:1-2,15; 3:8,31; Heb 10:26-31; 6:4-6; Lk 9:62).
 
