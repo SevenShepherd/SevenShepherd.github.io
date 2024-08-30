@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-05-02 03:15:00 -0500
+date: 2023-05-02 03:30:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -38,7 +38,7 @@ The lexicons, dictionaries, scholars, and pastors mentioned here, know what they
     - 3.3 <a href="#EXB">Expanded Bible (EXB)</a>
     - 3.4 <a href="#LOGOS">Faithlife Study Bible (LOGOS)</a>
     - 3.5 <a href="#NOAB">New Oxford Annotated Bible (NOAB)</a>
-- IV. <a href="#genius">Most Distinguished Research Professors</a>
+- IV. <a href="#genius">Most Distinguished</a>
     - 4.1 <a href="#cslewis">C.S. Lewis (Oxford)</a>
     - 4.2 <a href="#grudem">Dr. Grudem (Ph.D., Cambridge)</a>
     - 4.3 <a href="#packer">Dr. Packer (Ph.D., Oxford)</a>
@@ -292,7 +292,13 @@ The study Bible from Oxford University. Over 50 years of students, and professor
 
 [**Dr. Wayne Grudem**](https://youtu.be/s9e3Y2SMXag) (Ph.D., University of Cambridge; D.D., Westminster Theological Seminary), a distinguished Research Professor of Theology and Biblical Studies. He graduated Harvard, Westminister Seminary, and Cambridge. Member of the Translation Oversight Committee for the English Standard Version of the Bible, the general editor of the <a href="https://amzn.to/3WsN0Uw">ESV Study Bible</a>, and the author of over twenty-five books.
 
-> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)](https://amzn.to/40QF8z5)
+> Repentance is a heartfelt sorrow for sin, a renouncing of it, and a sincere commitment to forsake it and walk in obedience to Christ. &mdash; [Dr. Wayne Grudem (PhD, Cambridge; DD, Westminster)]()
+
+> I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span>
+
+> Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:#009933;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:#009933;">It is a definition [unique to Free Grace supporters](https://sevenshepherd.github.io/free-grace-theology/)</span>, <span style="font-weight:bold;color:#009933;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible.
+>
+> &mdash; [Dr. Wayne Grudem (Ph.D., University of Cambridge; D.D., Westminster)](https://youtu.be/s9e3Y2SMXag), "Free Grace" Theology: 5 Ways It Diminishes the Gospel. p. 70. Endorsed by 9 leading Biblical scholars.
 
 <a name="packer" href="#contents" style="font-size:1.6em;">4.3 Dr. J. I. Packer (Ph.D., Oxford)</a>
 
