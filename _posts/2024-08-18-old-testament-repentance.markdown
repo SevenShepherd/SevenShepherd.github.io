@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🎓 The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
-date: 2024-08-18 2:55:00 -0500
+title: "⌛ The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
+date: 2024-08-18 3:10:00 -0500
 categories: cult heresy sect
-published: false
+published: true
 ---
 
 <style>
@@ -41,7 +41,7 @@ published: false
 > 
 > In the New Testament, the Greek term metamelomai represents the emotional component of repentance as denoted by nakham. It describes "regret" (2 Cor. 7:8; cf. 7:10-11) and "remorse" (Matt. 21:32; 27:3 NASB) for evil conduct. Similarly, the Greek term epistrephō and its cognates signify the same general concept of "turning" as the Hebrew shub. When speaking of repentance, it describes how one changes his life's direction-turning from sin and idolatry to worshiping and serving the true God (Acts 14:15; 1 Thess. 1:9). Such turning to the Lord is used synonymously with forsaking a hardened heart of unbelief and coming to God in faith for salvation (Matt. 13:15; Luke 1:16-17; Acts 3:19; 9:35; 11:21; 26:18, 20; 2 Cor. 3:16).
 >
-> &mdash; Biblical Doctrine, *The Application of Redmption*. p. 591.
+> &mdash; Biblical Doctrine, *The Application of Redemption*. p. 591.
 
 
 <br>
@@ -52,7 +52,9 @@ published: false
 
 <a name="Conclusion" href="#contents" style="font-size:2.1em;">Summary & Conclusion</a>
 
-It's most fascinating that Jesus describes [New Testament repentance](https://sevenshepherd.github.io/repentance/) (Mt 11:21-22) <a href="#GPT-4-Turbo">in the same way</a> the Old Testament does (Job 42:6). The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
+It's most fascinating that Jesus describes [New Testament repentance](https://sevenshepherd.github.io/repentance/) *&ldquo;they would have repented long ago **in sackcloth and ashes**.&rdquo;* (Mt 11:21-22) <a href="#GPT-4-Turbo">in the same way</a> the Old Testament does *&ldquo;therefore I despise myself, and repent **in dust and ashes**.&rdquo;* (Job 42:6). 
+
+It is clear that repentance is a contrition (2Cor 7:10), a hatred for sin (Jude 23 NLT), and a turning from sin (Acts 3:26; Act 3:19). The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
 - Not justifying (Rom 3:28; Eph 2:8-10).
 - Imperfect (1Jn 1:8–10; 2:1-2).
