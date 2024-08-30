@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⌛ The Old Testament Hebrew terms for repentance, Nakham and Shub, both signify a turning away from sin, a concept that is mirrored by the New Testament Greek word Metanoia."
-date: 2024-08-18 3:15:00 -0500
+date: 2024-08-18 3:25:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -60,7 +60,7 @@ It is clear that repentance is a contrition (2Cor 7:10), a hatred for sin (Jude 
 - Imperfect (1Jn 1:8–10; 2:1-2).
 - **Taught alongside faith by Christ Himself** (Mark 1:14-15).
 - One of the reasons Jesus came (Lk 5:32).
-- Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+- Taught as [**an inward resolve to turn from sin**](https://sevenshepherd.github.io/repentance/) (Ac 3:19,26; 26:20; Mt 3:8 NLT; Rev 2:5).
 - **An immediate fruit** of genuine saving faith resulting in good works and righteous behavior (Mt 3:8 NLT; Ac 26:20; Rev 2:5).
 - **Will happen** in genuine believers (1Jn 3:6-10). logically (Ac 17:30; 1Jn 2:4).
 - **Commanded** by God (Ac 17:30; Mt 4:17).
