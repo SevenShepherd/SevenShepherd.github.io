@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 2:45:00 -0500
+date: 2024-08-18 3:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -84,6 +84,72 @@ It's important for you to understand the difference between [biblical language s
 <!-- Being inter-denominational, non-sectarian, ecumenical, and systemless.. -->
 
 The academic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tells you that repentance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject **they are not educated** on.
+
+Every Bible version is testament to the fact that repentance is a contrition (2Cor 7:10), a hatred for sin (Jude 23 NLT), and [a turning from sin](https://sevenshepherd.github.io/repent-means-turn/) (Acts 3:26; Act 3:19). Each of these versions have hundreds of biblical language scholars that translated [metanoeō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) correctly according to BDAG, the worlds most authoritative Greek lexicon.
+
+1. **21st Century King James Version (KJ21)** © 1994 
+1. **American Standard Version (ASV)** Public Domain
+1. **Amplified Bible (AMP)** © 2015
+1. **Amplified Bible, Classic Edition (AMPC)** © 1954, 1958, 1962, 1964, 1965, 1987
+1. **BRG Bible (BRG)** Blue Red and Gold Letter Edition™ Copyright © 2012
+1. **Christian Standard Bible (CSB)** © 2017
+1. **Common English Bible (CEB)** © 2011
+1. **Complete Jewish Bible (CJB)** © 1998
+1. **Contemporary English Version (CEV)** © 1995 
+1. **Darby Translation (DARBY)** Public Domain
+1. **Disciples’ Literal New Testament (DLNT)** © 2011
+1. **Douay-Rheims 1899 American Edition (DRA)** Public Domain
+1. **Easy-to-Read Version (ERV)** © 2006
+1. **Evangelical Heritage Version (EHV)** © 2019
+1. **English Standard Version (ESV)** 2016 © 2001
+1. English Standard Version Anglicised (ESVUK) © 2001
+1. **Expanded Bible (EXB)** © 2011
+1. **1599 Geneva Bible (GNV)**
+1. **GOD’S WORD Translation (GW)** © 1995, 2003, 2013, 2014, 2019, 2020
+1. **Good News Translation (GNT)** © 1992 
+1. **Holman Christian Standard Bible (HCSB)** © 1999, 2000, 2002, 2003, 2009
+1. **International Children’s Bible (ICB)** © 1986, 1988, 1999, 2015
+1. **International Standard Version (ISV)** © 1995-2014
+1. Phillips New Testament (PHILLIPS) © 1960, 1972
+1. **Jubilee Bible 2000 (JUB)** © 2013, 2020
+1. **King James Version (KJV)** Public Domain
+1. **Authorized King James Version (AKJV)**
+1. **Legacy Standard Bible (LSB)** © 2021
+1. **Lexham English Bible (LEB)** © 2012
+1. **Living Bible (TLB)** © 1971
+1. **The Message (MSG)** © 1993, 2002, 2018
+1. **Modern English Version (MEV)** © 2014
+1. **Mounce Reverse Interlinear New Testament (MOUNCE)** © 2011
+1. **Names of God Bible (NOG)** © 2011
+1. New American Bible (Revised Edition) (NABRE) © 2010, 1991, 1986, 1970 
+1. **New American Standard Bible (NASB)** © 1960, 1971, 1977, 1995, 2020
+1. **New American Standard Bible 1995 (NASB1995)** © 1960, 1971, 1977, 1995
+1. New Catholic Bible (NCB) © 2019
+1. **New Century Version (NCV)** © 2005 
+1. **New English Translation (NET)** © 1996-2017
+1. **New International Reader's Version (NIRV)** © 1995, 1996, 1998, 2014
+1. **New International Version (NIV)** © 1973, 1978, 1984, 2011
+1. New International Version UK (NIVUK) © 1979, 1984, 2011
+1. **New King James Version (NKJV)** © 1982
+1. **New Life Version (NLV)** © 1969, 2003
+1. **New Living Translation (NLT)** © 1996, 2004, 2015 
+1. **New Matthew Bible (NMB)** © 2016
+1. New Revised Standard Version, Anglicised (NRSVA) © 1989, 1995
+1. New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) © 1989, 1993, 1995
+1. New Revised Standard Version Catholic Edition (NRSVCE) © 1989, 1993
+1. **New Revised Standard Version Updated Edition (NRSVUE)** © 2021
+1. **New Testament for Everyone (NTE)** © 2011
+1. **Orthodox Jewish Bible (OJB)** © 2002, 2003, 2008, 2010, 2011
+1. **Revised Geneva Translation (RGT)** © 2019
+1. **Revised Standard Version (RSV)** © 1946, 1952, and 1971 
+1. Revised Standard Version Catholic Edition (RSVCE) © 1965, 1966 
+1. **Tree of Life Version (TLV)** © 2015
+1. **The Voice (VOICE)** © 2012
+1. **World English Bible (WEB)** Public Domain
+1. **Worldwide English (WE)** © 1969, 1971, 1996, 1998
+1. **Wycliffe Bible (WYC)** © 2001
+1. **Young's Literal Translation** (YLT) Public Domain
+
 
 <br>
 
@@ -313,6 +379,8 @@ The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo
 - <span style="font-size:0.8em;">Described as **needed** and necessary (Lk 15:7).</span>
 - <span style="font-size:0.8em;">Repent or Perish (Lk 13:3; Mt 3:10).</span>
 - <span style="font-size:0.8em;">Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).</span> -->
+
+
 
 <script>
     var refTagger = {
