@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in works by the indwelling of the Holy Spirit."
-date: 2024-08-25 02:05:00 -0500
+title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in obedience to God, and good works that “follow after” justification by the power and indwelling of the Holy Spirit."
+date: 2024-08-25 02:10:00 -0500
 categories: repent Lordship
 published: true
 ---
