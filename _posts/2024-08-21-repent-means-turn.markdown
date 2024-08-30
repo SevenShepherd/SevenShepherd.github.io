@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 01:45:00 -0500
+date: 2024-08-24 02:00:00 -0500
 categories: repent
 published: true
 ---
@@ -10,7 +10,7 @@ This is undeniable proof using scripture alone, that a turning away from sin was
 
 > When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26 NLT
 >
->> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, Jews will be followed by Gentiles</span> in God’s plan for salvation. Wicked ways, from which Jews must repent (v. 19) &mdash; The Jewish Annotated New Testament (TJANT)</span>
+>> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, Jews will be followed by Gentiles</span> in God’s plan for salvation. Wicked ways, from which Jews <span style="font-weight:bold;color:Goldenrod;">must repent</span> (v. 19) &mdash; The Jewish Annotated New Testament (TJANT)</span>
 >
 >> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, implying the later mission to the Gentiles.</span> &mdash; New Oxford Annotated Bible, Fifth (NOAB), the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
 
