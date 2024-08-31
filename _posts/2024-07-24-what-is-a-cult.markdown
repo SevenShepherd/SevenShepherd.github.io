@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 14:55:00 -0500
+date: 2024-07-23 15:05:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -506,7 +506,7 @@ Monergism is the most secure theological stance. Among all the non-heretical sec
 
 --
 
-> I cannot image a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
+> I cannot imagine a more ready instrument in the hands of Satan for the ruin of souls than a minister who tells sinners it is not their duty to repent of their sins [and] who has the arrogance to call himself a gospel minister, while he teaches that God hates some men infinitely and unchangeably for no reason whatever but simply because he chooses to do so. O my brethren! may the Lord save you from the charmer, and keep you ever deaf to the voice of error. &mdash; In Murray, Spurgeon v. Hyper-Calvinism, 155–56.
 
 ### 2. Orthodox Calvinism (Scholastic Calvinism)
 - **Founded**: Calvinism was founded by John Calvin, a French theologian and pastor, in the mid-16th century. Calvin's influential work, "Institutes of the Christian Religion," first published in **1536**, laid the foundational doctrines of what would later be called Calvinism.
