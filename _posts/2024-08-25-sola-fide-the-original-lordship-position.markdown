@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in obedience to God, and good works that “follow after” justification by the power and indwelling of the Holy Spirit."
-date: 2024-08-25 02:10:00 -0500
+date: 2024-08-25 02:15:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -16,7 +16,10 @@ Submitting in obedience to Christ is a natural outworking of genuine saving fait
 
 So the next time you hear someone remark something uneducated like "theres no such thing as Lordship salvation" just [read the confessions to them](https://sevenshepherd.github.io/historical-christianity/). Now lets dispel the lie that there's anything legalistic about sola fide, the original lordship position, by going through a set of definitions and descriptions.
 
-> <span style="font-weight:bold;color:ForestGreen;">Therefore Christ justifies no one whom he does not at the same time sanctify</span>. ... Thus it is clear how true it is that we are justified <span style="font-weight:bold;color:ForestGreen;">not without works yet not through works</span>. &mdash; John Calvin (<span style="font-weight:bold;color:Goldenrod;">1509-1564</span>), [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc)
+<!-- > <span style="font-weight:bold;color:ForestGreen;">Therefore Christ justifies no one whom he does not at the same time sanctify</span>. ... Thus it is clear how true it is that we are justified <span style="font-weight:bold;color:ForestGreen;">not without works yet not through works</span>. &mdash; John Calvin (<span style="font-weight:bold;color:Goldenrod;">1509-1564</span>), [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc) -->
+
+
+> <sup style="font-weight:bold;">5</sup> “Yes, I am the vine; you are the branches. <span style="font-weight:bold;color:ForestGreen;">Those who remain in me, and I in them, <span style="font-size:1.2em;color:YellowGreen;">will</span> produce much fruit.</span> For apart from me you can do nothing. &mdash; [Jesus teaching &ldquo;resulting&rdquo; fruit-bearing in John 15:5 (NLT),](https://sevenshepherd.github.io/fruits/) <span style="font-weight:bold;color:Goldenrod;">Approximately A.D. 30</span>.
 
 ### 1. [Legalism](https://sevenshepherd.github.io/what-is-a-cult/#Legalism) is when you attempt to merit (earn) your salvation by works. 
 
