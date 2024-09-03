@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 15:05:00 -0500
+date: 2024-07-23 15:10:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -651,11 +651,15 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 
 1. Basic Protestant ([five solas](/assets/images/solas.jpg))
 2. Theologically Conservative
-3. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
-4. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
-5. Eschatological Premillennialist
-6. Soft-cessationist
-7. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
+3. Faith is a *&ldquo;believing trust&rdquo;* or *&ldquo;trustful belief&rdquo;*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).
+    1. pisteuō means *&ldquo;to entrust oneself to an entity in complete confidence, believe (in), trust, w. implication of total commitment to the one who is trusted...&rdquo;* 
+4. Repentance is a resolve to turn from sin (Acts 3:26,19), produced from godly sorrow (2Cor 7:10), culminating in a hatred for sin (Jude 23).
+    1. Repent ([metanoéō](/assets/images/greek/metanoeo.png)) means &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; Repentance ([metánoia](/assets/images/greek/metanoia.png)) means &ldquo;*repentance, turning about, conversion*&rdquo; according to [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/).
+5. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
+6. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
+7. Eschatological Premillennialist
+8. Soft-cessationist
+9. [Recommendations](https://sevenshepherd.github.io/litmus-tests/)
     - BDAG / HALOT
     - NET Full Notes
     - ESV Study Bible
