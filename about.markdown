@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd). This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom programmed raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below.
+Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a physics student and computer programmer working towards a masters of applied physics. This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom python programmed raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below.
 
 <span style="font-size:1.2em;">Overview</span>
 
