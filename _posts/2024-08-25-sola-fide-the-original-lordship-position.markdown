@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in obedience to God, and good works that “follow after” justification by the power and indwelling of the Holy Spirit."
-date: 2024-08-25 02:25:00 -0500
+date: 2024-08-25 02:30:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -85,8 +85,6 @@ False teachers only want Jesus *"as savior"* but deny him *"as Lord"* over their
 <br>
 
 <!-- - <span style="font-weight:bold;color:ForestGreen;">Faith is not only the assent of our minds, but a trust & reliance on Christ. It is a *believing trust* or a *trustful belief*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).</span> <span style="font-weight:bold;color:FireBrick;">Even though the Apostle James debunks assent to facts as salvific (James 2:19), as does our most authoritative lexicons (BDAG), false teachers will strip fiducia (‘trust and reliance’) from the meaning of faith. They tamper with essential doctrine.</span> -->
-
---
 
 > Christian theologians have never seen faith simply in terms of intellectual assent to Christian belief. It is a matter of the heart, not simply the mind, involving personal commitment. As the English theologian William Temple (1881–1944) once pointed out: <span style="font-weight:bold;color:ForestGreen;">“Faith is not only the assent of our minds to doctrinal propositions: it is the commitment of our whole selves into the hands of a faithful Creator and merciful Redeemer.”</span> ...
 >
