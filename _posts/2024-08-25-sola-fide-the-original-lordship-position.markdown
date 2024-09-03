@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⌛ Sola Fide, the original historical Lordship position, does not teach faith “plus” works, but rather faith “resulting” in obedience to God, and good works that “follow after” justification by the power and indwelling of the Holy Spirit."
-date: 2024-08-25 02:15:00 -0500
+date: 2024-08-25 02:25:00 -0500
 categories: repent Lordship
 published: true
 ---
@@ -14,7 +14,9 @@ Submitting in obedience to Christ is a natural outworking of genuine saving fait
 
 > XII. Of Good Works: Albeit that <span style="font-weight:bold;color:ForestGreen;">Good Works, which are fruits of Faith, and follow after Justification</span>... do spring out necessarily of a true and lively faith... by them a lively Faith may be as <span style="font-weight:bold;color:ForestGreen;">evidently known as a tree discerned by the fruit</span>. &mdash; Thirty-Nine Articles of the Church of England (<span style="font-weight:bold;color:Goldenrod;">1571</span>), [The Creeds of Christendom, ed. Philip Schaff, 3 vols. 3:494](https://amzn.to/3k5v2cZ)
 
-So the next time you hear someone remark something uneducated like "theres no such thing as Lordship salvation" just [read the confessions to them](https://sevenshepherd.github.io/historical-christianity/). Now lets dispel the lie that there's anything legalistic about sola fide, the original lordship position, by going through a set of definitions and descriptions.
+<!-- So the next time you hear someone remark something uneducated like "theres no such thing as Lordship salvation" just [read the confessions to them](https://sevenshepherd.github.io/historical-christianity/). Now lets dispel the lie that there's anything legalistic about sola fide, the original lordship position, by going through a set of definitions and descriptions. -->
+
+If you encounter someone who says something like 'there's no such thing as a Lordship position,' it might be helpful to gently reference [the confessions](https://sevenshepherd.github.io/historical-christianity/) for clarification. Let's clarify that sola fide, the original Lordship position, is not legalistic by examining a set of definitions and descriptions.
 
 <!-- > <span style="font-weight:bold;color:ForestGreen;">Therefore Christ justifies no one whom he does not at the same time sanctify</span>. ... Thus it is clear how true it is that we are justified <span style="font-weight:bold;color:ForestGreen;">not without works yet not through works</span>. &mdash; John Calvin (<span style="font-weight:bold;color:Goldenrod;">1509-1564</span>), [Institutes of the Christian Religion, 2 vols., trans. Ford Lewis Battles, 3.16.1](https://amzn.to/3lC4kJc) -->
 
