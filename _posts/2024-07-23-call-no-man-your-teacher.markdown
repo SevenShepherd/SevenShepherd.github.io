@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✝️ Call no man your teacher for you have only one teacher, Christ Jesus, and all of you are equal as brothers. It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance."
-date: 2024-07-23 02:10:00 -0500
+date: 2024-07-23 02:15:00 -0500
 categories: theology
 published: true
 ---
@@ -20,8 +20,8 @@ The Bible instructs us to *&ldquo;Call no man your teacher&rdquo;* for you have 
 
 Get rid of systematic theologians and those who attempt to interpret scripture for you and replace them with materials produced from [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials) who actually know and are educated in the meaning of Koine Greek & Biblical Hebrew words.
 
-- When you can speak on man-made teachings like all the different *'ologies* that come out of systematic theology, but you can't recollect a single parable from Christ. ***YOU ARE INDOCTRINATED***.
-- If you hold to non-standard meanings of [repentance](https://sevenshepherd.github.io/repentance/) or faith, and you think its only simple assent or mind change, ***YOU ARE INDOCTRINATED***. 
+- When you can speak on man-made teachings like all the different *'ologies* that come out of systematic theology, but you can't recollect a single parable from Christ, this is indoctrination, and you should be asking yourself if your teacher is truly Christ.
+- If you hold to non-standard meanings of [repentance](https://sevenshepherd.github.io/repentance/) or faith, and you think its only simple assent or mind change, when the Bible teaches that it is contrition (2Cor 7:10 NLT), a hatred for sin (Jude 23 NLT), and a turning from sin (Acts 3:26; Act 3:19). You should start to suspect that you've been lied to, especially since every authoritative Greek lexicon, dictionary, and centuries of sound doctrine, creeds, and confessions only teach that repentance is remorse and conversion.
 
 It's time for many of you to pull your heads out of the theological sand. It's time for you to give the Bible another chance. The world can **never** know God through human wisdom. Remember that theologians are not meant to interpret scripture for you—that right belongs to the Holy Spirit (1Jn 2:27; Jn 14:26;16:13; 2Pe 1:20-21; 1 Cor 2:12-14). Instead, open your Bible and fellowship with Christ. [**Bibles, Lexicons, Interlinears and textual criticism are all you need to bridge the language gap, and Christ is your only teacher.**](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials)
 
