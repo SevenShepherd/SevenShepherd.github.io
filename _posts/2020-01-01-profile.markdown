@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Extended Profile"
-date: 2020-01-01 7:12:00 -0500
+date: 2020-01-01 7:15:00 -0500
 categories: about bio biography profile
 published: true
 ---
 
 <!-- Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a physics student and computer programmer. This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X/Twitter account is run from a custom built raspberry pi single-board computer and a custom computer program. Please feel free to look around, read articles, or contact me below. -->
 
-Hello and welcome, I am [SevenShepherd](https://twitter.com/SevenShepherd) and I am a physics student and computer programmer working towards a masters of applied physics. This is my independent research ministry that I've owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is run from a custom python programmed raspberry pi single-board computer. Please feel free to look around, read articles, or contact me below.
+Hello and welcome! I am [SevenShepherd](https://twitter.com/SevenShepherd), a physics student and computer programmer working towards a Master’s in Applied Physics. This is my independent research ministry, which I have owned, operated, automated, and maintained since 2016. The X.com (formerly Twitter) account is managed by my custom Python-programmed Raspberry Pi single-board computer. Please feel free to look around, read articles, or contact me below.
 
 > Make every effort to present yourself before God as a proven worker who does not need to be ashamed, teaching the message of truth accurately. &mdash; 2 Timothy 2:15 NET
 
