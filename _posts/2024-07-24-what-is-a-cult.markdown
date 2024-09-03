@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 15:10:00 -0500
+date: 2024-07-23 15:15:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -753,7 +753,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'NLT'
         }
     }; 
 

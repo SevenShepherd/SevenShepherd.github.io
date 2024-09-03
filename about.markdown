@@ -99,7 +99,7 @@ See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bol
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: 'ESV'
+            bibleVersion: 'NLT'
         }
     }; 
 
