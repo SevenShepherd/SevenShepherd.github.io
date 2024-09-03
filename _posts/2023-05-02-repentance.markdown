@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🕊️ The True Meaning Of Repentance"
-date: 2023-05-02 03:35:00 -0500
+date: 2023-05-02 03:45:00 -0500
 categories: repent repentance
 published: true
 ---
@@ -52,7 +52,9 @@ The lexicons, dictionaries, scholars, and pastors mentioned here, know what they
 
 <a name="BDAG" href="#contents" style="font-size:1.6em;">1.1 Bauer-Danker-Arndt-Gingrich (BDAG)</a>
 
-[**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG).**](https://amzn.to/3I4m4ES) This Lexicon is the world's most authoritative Greek lexicon. You'll find the proof needed below that <span style="font-weight:bold;color:darkred;font-size:1.2em;">all instances of the Greek words for repentance fall under the second meaning of "feel remorse, repent, be converted" (in religio-ethical sense).</span> This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed.
+<!-- [**A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed. (BDAG).**](https://amzn.to/3I4m4ES) This Lexicon is the world's most authoritative Greek lexicon. You'll find the proof needed below that <span style="font-weight:bold;color:darkred;font-size:1.2em;">all instances of the Greek words for repentance fall under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo;.</span> This specific cite is specific to entries [metanoéō (567)](/assets/images/greek/metanoeo.png) and [metánoia (567-568)](/assets/images/greek/metanoia.png). The scans were pulled from the 4th ed. -->
+
+[The world's most authoritative Greek lexicon](https://sevenshepherd.github.io/repentance/) showa that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of <span style="font-weight:bold;color:darkred;font-size:1.2em;">&ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo;</span> [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of <span style="font-weight:bold;color:darkred;font-size:1.2em;">&ldquo;*repentance, turning about, conversion*&rdquo;</span> as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 ![metanoéō (567)](/assets/images/greek/metanoeo.png)
 ![metánoia (567-568)](/assets/images/greek/metanoia.png)

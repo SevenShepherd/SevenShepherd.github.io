@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚶📜 Eight Ways The 80's \"Free Grace\" Movement Departs From Scripture. Correcting them with Greek Lexicons, the Academic Community, C.S. Lewis, Chuck Smith, Dallas, and Wilikin."
-date: 2024-04-15 10:30:00 -0500
+date: 2024-04-15 10:45:00 -0500
 categories: cult heretical sect
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 2. <a href="#repent">No Call To Repent Of Sins</a>
     - 2.1 <a href="#wilikin">How C.S. Lewis Helped Bob Wilikin Repent Of His Mistaken View On Repentance</a>
     - 2.2 <a href="#chafer">Did Chafer Diminish The Gospel Message Surrounding Repentance?</a>
-    - 2.3 <a href="#scholars">Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent.</a>
+    - 2.3 <a href="#scholars">Every English Bible translation and 1,000s of Biblical language scholars chose “repentance, turning about, conversion” to represent metánoia, and not the false teaching of assent.</a>
 3. <a href="#assurance">Giving False Assurance to Thousands</a>
 4. <a href="#trust">Underemphasizing Trust in Christ</a>
 5. <a href="#unlikely">Bad Interpretations of Scripture</a>
@@ -107,7 +107,8 @@ The 80's *&ldquo;Free Grace&rdquo;* movement weakens the gospel message by avoid
 
 > Now after John was arrested, Jesus came into Galilee, <span style="font-weight:bold;color:GoldenRod;">proclaiming the gospel of God</span>, and saying, “The time is fulfilled, and the kingdom of God is at hand; <span style="font-weight:bold;color:DarkRed;">repent</span> <span style="font-weight:bold;color:OrangeRed;">and</span> <span style="font-weight:bold;color:DarkRed;">believe</span> in the gospel.” &mdash; <span style="font-weight:bold;color:ForestGreen;">Jesus</span> in Mark 1:14-15 ESV preaching and proclaiming that repentance is part of the gospel.
 
-Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles.
+Anyone who can read English can verify that *repentance* does not simply mean a &ldquo;*change of mind*.&rdquo; All one has to do is inspect [the world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) to find that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+
 
 > Many understand *repentance* to mean simply a &ldquo;*change of mind*.&rdquo; The weakness of this position is that, for the New Testament, <span style="font-weight:bold;color:darkred;">this meaning finds no support in any authoritative Greek lexicon or in any modern English translation</span>, none of which translate metanoéō and metánoia as &ldquo;*change of mind*&rdquo; for New Testament passages. <span style="font-style:italic;color:darkred;">It is a definition unique to Free Grace supporters</span>, <span style="font-weight:bold;color:darkred;">without scholarly support from the academic community or any standard Greek reference works</span>. It also lacks support from any English translation of the Bible. 
 >
@@ -198,9 +199,11 @@ Although my definition of repentance (p. 865) includes "a heartfelt sorrow for s
 
 <!-- “If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is a liar and is not living in the truth.” -->
 
-<a name="scholars" href="#contents" style="font-size:1.6em">🚶📜 2.3 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent.</a>
+<a name="scholars" href="#contents" style="font-size:1.6em">🚶📜 2.3 Every English Bible translation and 1,000s of Biblical language scholars chose “repentance, turning about, conversion” to represent metánoia, and not the false teaching of assent.</a>
 
 The academic community is made up of thousands of scholars who created all the English Bible translations, lexicons, dictionaries, and interlinears. When a theologian who doesn't understand Greek tells you that repentance is only a *&ldquo;change of mind&rdquo;* they are teaching error and on a subject they are not educated on.
+
+[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 > There is yet another significant argument against the common [Free Grace](https://sevenshepherd.github.io/free-grace-theology/) definition of repentance as a mere "change of mind": the definition "change of mind" differs from all widely known English Bible translations.
 > 

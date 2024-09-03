@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 3:00:00 -0500
+title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “feel remorse, repent, be converted” to represent metanoéō, and not the false teaching of assent."
+date: 2024-08-18 3:30:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -77,7 +77,7 @@ published: true
 
 <!-- “I have not come to bring peace, but a sword.” -->
 
-[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 It's important for you to understand the difference between [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials), who actually know and are educated in the meaning of Koine Greek & Biblical Hebrew words, and theologians who do not.
 
@@ -356,7 +356,7 @@ The message that <span style="font-style:italic;">&ldquo;There is forgiveness of
 - Repent or Perish (Lk 13:3; Mt 3:10).
 - Unrepentant sin not tolerated by the Apostles and not a one time event (Lk 17:3-4; 1 Cor. 5:11-13).
 
-[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) and [metánoia](/assets/images/greek/metanoia.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted (in religio-ethical sense)*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
+[The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19; 26:20; Mt 3:8 NLT; Rev 2:5).
 
 <!-- <span style="font-size:0.8em;">
 The message that &lsquo;*There is forgiveness of sins for all who repent.*&rsquo; should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).</span>
