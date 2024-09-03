@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎓 Every English Bible translation and 1,000s of Biblical language scholars chose “repentance, turning about, conversion” to represent metánoia, and not the false teaching of assent."
-date: 2024-08-18 3:45:00 -0500
+date: 2024-08-18 4:00:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -12,11 +12,6 @@ published: true
     }
 </style>
 
-<br>
-
----
-
-<br>
 
 <a name="contents" style="font-size:2.1em;color:black;">Contents</a>
 
@@ -79,7 +74,9 @@ published: true
 
 [The world's most authoritative Greek lexicons](https://sevenshepherd.github.io/repentance/) show that the true meaning of [metanoéō](/assets/images/greek/metanoeo.png) falls under the second meaning of &ldquo;*feel remorse, repent, be converted in a (religio-)ethical sense.*&rdquo; [metánoia](/assets/images/greek/metanoia.png) also falls under the second meaning of &ldquo;*repentance, turning about, conversion*&rdquo; as taught by Christ & The Apostles (Ac 3:19,26; 26:20; Mt 3:8 NLT; Rev 2:5).
 
-It's important for you to understand the difference between [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials), who actually know and are educated in the meaning of Koine Greek & Biblical Hebrew words, and theologians who do not.
+<!-- It's important for you to understand the difference between [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials), who actually know and are educated in the meaning of Koine Greek & Biblical Hebrew words, and theologians who do not. -->
+
+It’s important to understand the difference between [biblical language scholars](https://sevenshepherd.github.io/hierarchy-of-authority/#Recommended-Materials), who are educated in the meanings of Koine Greek and Biblical Hebrew words, and theologians who are not.
 
 <!-- Being inter-denominational, non-sectarian, ecumenical, and systemless.. -->
 
