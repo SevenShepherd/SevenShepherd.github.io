@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛞 “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 02:10:00 -0500
+date: 2024-08-24 02:15:00 -0500
 categories: repent
 published: true
 ---
@@ -19,6 +19,10 @@ This is undeniable proof using scripture alone, that a turning away from sin was
 What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> fundamental summons? It was to preach Repentance as an inward resolve to turn from sin, found in Matt. 4:17 and reinforced by Ac 3:26 above.
 
 > From that time Jesus <span style="font-weight:bold;color:ForestGreen;">began</span> to preach this message: “<span style="font-weight:bold;color:Goldenrod;">Repent</span>, for the kingdom of heaven is near!” &mdash; Matthew 4:17 NET
+
+2 Cor. 7:10 NLT tells us that true repentance is a contrition that leads to a turn from sin, while false repentance or attrition, leads to death.
+
+> 7:9-10 Two kinds of sorrow are mentioned: (1) **Worldly sorrow** that **lacks repentance** leads to spiritual death (e.g., see Matt 27:3-6; Heb 12:16-17). (2) Sorrow that **leads us away from sin** leads to **salvation**, as it did when the church in Corinth responded positively to Paul's rebuke. &mdash; Filament Study Bible
 
 **God has spoken.** The Apostles have written. The only question is, will you receive their correction? Do not listen to false teachers who tell you that repentance is only a mind change. They will lead you and your family into destruction. Instead [call no man your teacher](https://sevenshepherd.github.io/call-no-man-your-teacher/), turn from your sin (*repent*), and place your trust (*faith*) in Christ alone.
 
