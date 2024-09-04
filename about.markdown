@@ -16,7 +16,7 @@ Hello and welcome! I am [SevenShepherd](https://twitter.com/SevenShepherd), a ph
 2. Theologically Conservative
 3. Faith is a *&ldquo;believing trust&rdquo;* or *&ldquo;trustful belief&rdquo;*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).
     - pisteuō means *&ldquo;to entrust oneself to an entity in complete confidence, believe (in), trust, w. implication of total commitment to the one who is trusted...&rdquo;* 
-4. Repentance is a turning from sin to God (Acts 3:26,19), produced from godly sorrow (2Cor 7:10), culminating in a hatred for sin (Jude 23).
+4. Repentance is [a turning from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19), produced from godly sorrow (2Cor 7:10), culminating in a hatred for sin (Jude 23).
     - The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Danker et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
 5. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
 6. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
@@ -33,7 +33,8 @@ See my <a href="https://sevenshepherd.github.io/profile/" style="font-weight:bol
 <!-- - [An Entire Article Describing My Theology](https://sevenshepherd.github.io/theology/)
 - [Repentance For The Forgiveness of Sins](https://sevenshepherd.github.io/sin/) -->
 
-- [What Is A Cult? Answered.](https://sevenshepherd.github.io/what-is-a-cult/)
+- [Repentance is a scriptural turn from sin.](https://sevenshepherd.github.io/repent-means-turn/)
+- [What Is A Cult?](https://sevenshepherd.github.io/what-is-a-cult/)
 - [How To Be A Good Berean](https://sevenshepherd.github.io/hierarchy-of-authority/)
 - [Understanding Predestination](https://sevenshepherd.github.io/chosen/)
 - [This Is How You Know You're Saved](https://sevenshepherd.github.io/how-do-you-know-you-are-saved/)
