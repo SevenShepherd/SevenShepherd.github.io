@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🛞 “When God raised up his servant, Jesus, he sent him first to you people of Israel, to bless you by turning each of you back from your sinful ways.” — The Apostle Peter on repentance"
-date: 2024-08-24 02:30:00 -0500
+date: 2024-08-24 02:35:00 -0500
 categories: repent
 published: true
 ---
@@ -10,7 +10,7 @@ This is undeniable proof using scripture alone, that a turning away from sin was
 
 > When God raised up his servant, Jesus, he sent him <span style="font-weight:bold;color:ForestGreen;">first</span> to you people of Israel, to bless you by <span style="font-weight:bold;color:Goldenrod;">turning each of you back from your sinful ways</span>. &mdash; Acts 3:26 NLT
 >
->> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, Jews will be followed by Gentiles</span> in God’s plan for salvation. Wicked ways, from which Jews <span style="font-weight:bold;color:Goldenrod;">must repent</span> (v. 19) &mdash; The Jewish Annotated New Testament (TJANT)</span>
+>> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, Jews will be followed by Gentiles</span> in God’s plan for salvation. Wicked ways, from which Jews <span style="font-weight:bold;color:Goldenrod;">must repent</span> (v. 19) &mdash; <span style="font-weight:bold;color:Purple;">The <span style="font-size:1.2em;font-weight:bold;color:DarkOrchid;">Jewish</span> Annotated New Testament (TJANT)</span></span>
 >
 >> <span style="font-size:0.8em;">26: <span style="font-weight:bold;color:ForestGreen;">First to you, implying the later mission to the Gentiles.</span> &mdash; New Oxford Annotated Bible, Fifth (NOAB), the study Bible from Oxford University. Over 50 years of students, and professors, relying on The New Oxford Annotated Bible as an unparalleled authority. Contains Secular, Jewish, & Ecumenical Scholarship.</span>
 
@@ -28,7 +28,7 @@ What was Jesus' <span style="font-weight:bold;color:ForestGreen;">first</span> f
 
 > Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
 >
->> <span style="font-size:0.8em;">3:19 Repent . . . and turn to God. <span style="font-weight:bold;color:Goldenrod;">Repentance is turning away from sin.</span> Faith is turning to God for salvation. See 2:38 and note. times of refreshing. The blessings and glories of the Messianic age, synonymous with “the time . . . for God to restore everything” (v. 21). Though the kingdom of God has been inaugurated through the life, death, and resurrection of Jesus, it is yet to be consummated in the future. &mdash; The NIV Biblical Theology Study Bible, 165 scholars (100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span>
+>> <span style="font-size:0.8em;">3:19 Repent . . . and turn to God. <span style="font-size:1.2em;font-weight:bold;color:Goldenrod;">Repentance is turning away from sin.</span> Faith is turning to God for salvation. See 2:38 and note. times of refreshing. The blessings and glories of the Messianic age, synonymous with “the time . . . for God to restore everything” (v. 21). Though the kingdom of God has been inaugurated through the life, death, and resurrection of Jesus, it is yet to be consummated in the future. &mdash; The NIV <span style="font-weight:bold;color:Purple;">Biblical Theology Study Bible,</span> <span style="font-size:1.2em;font-weight:bold;color:DarkOrchid;">165 scholars</span> <span style="font-weight:bold;color:Purple;">(100+ NIV; 65 Study); Universities of Cambridge, Oxford, Harvard, Yale, California, London, Belfast, Claremont, Denver, Westminister, & Dallas.</span></span>
 
 The message that <span style="font-style:italic;">&ldquo;There is forgiveness of sins for all who repent.&rdquo;</span> should be preached to the entire world in the name of Jesus Christ (Luke 24:47; Acts 2:38; 3:19; 5:31).
 
