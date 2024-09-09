@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic."
-date: 2024-09-01 01:05:00 -0500
+date: 2024-09-01 01:10:00 -0500
 categories: education
 published: true
 ---
@@ -22,6 +22,8 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 >> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:GoldenRod;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:OrangeRed;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:GoldenRod;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([**article**](https://sevenshepherd.github.io/1-John-2-4/))
 
 Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic.
+
+ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
 <br>
 

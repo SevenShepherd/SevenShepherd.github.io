@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "🫶 Justification is by faith alone, but the faith that saves is never alone in the person justified. “whoever does not practice righteousness is not of God” — The Apostle John"
-date: 2024-09-09 01:05:00 -0500
+date: 2024-09-09 01:10:00 -0500
 categories: education
 published: true
 ---
 
 Just a friendly reminder to those who have been confused and mislead by the [cults](https://sevenshepherd.github.io/what-is-a-cult/) and [heretical sects](https://sevenshepherd.github.io/free-grace-theology/), that only justification is by faith alone. If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice sin. If you do practice sin the Bible says your faith is superficial (James 2:24).
+
+ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
 > <sup style="font-weight:bold;">6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. <sup style="font-weight:bold;">7</sup> <span style="font-weight:bold;color:GoldenRod;">Little children, let no one deceive you.</span> <span style="font-weight:bold;color:#3EA055;">Whoever practices righteousness is righteous, as he is righteous.</span> <sup style="font-weight:bold;">8</sup> <span style="font-weight:bold;color:OrangeRed;">Whoever makes a practice of sinning is of the devil</span>, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil. <sup style="font-weight:bold;">9</sup> <span style="font-weight:bold;color:OrangeRed;">No one born of God makes a practice of sinning</span>, for God's seed abides in him; and <span style="font-weight:bold;color:OrangeRed;">he cannot keep on sinning</span>, because he has been born of God. <sup style="font-weight:bold;">10</sup> <span style="font-size:1.2em;font-weight:bold;color:GoldenRod;">By this it is evident</span> <span style="font-size:1.2em;font-weight:bold;color:#3EA055;">who are the children of God</span>, and <span style="font-size:1.2em;font-weight:bold;color:Red;">who are the children of the devil</span>: <span style="font-weight:bold;color:DarkOrchid;">whoever does not practice righteousness is not of God</span>, nor is the one who does not love his brother. &mdash; 1 John 3:6-10
 
