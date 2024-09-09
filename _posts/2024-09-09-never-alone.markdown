@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Justification is by faith alone, but the faith that saves is never alone in the person justified. “whoever does not practice righteousness is not of God” — The Apostle John"
-date: 2024-09-09 01:00:00 -0500
+title: "🫶 Justification is by faith alone, but the faith that saves is never alone in the person justified. “whoever does not practice righteousness is not of God” — The Apostle John"
+date: 2024-09-09 01:05:00 -0500
 categories: education
 published: true
 ---
