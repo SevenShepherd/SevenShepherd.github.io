@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "🫶 True Christians practice righteousness, and false ones practice sin; that much we know for certain, as the Apostle John said, “Whoever does not practice righteousness is not of God.” Our works don't save us, but they give evidence of our spiritual condition."
-date: 2024-09-09 01:30:00 -0500
+title: "🫶 “Whoever does not practice righteousness is not of God.” — The Apostle John"
+date: 2024-09-09 01:40:00 -0500
 categories: education
 published: true
 ---
+
 
 <!-- True Christians practice righteousness and false ones practice sin, that much we know for certain as the Apostle John said “whoever does not practice righteousness is not of God” Our works don't save us, but they give evidence to our spiritual condition. -->
 
 <!-- Justification is by faith alone, but the faith that saves is never alone in the person justified. “whoever does not practice righteousness is not of God” — The Apostle John -->
 
-Just a friendly reminder to those who have been confused and mislead by the [cults](https://sevenshepherd.github.io/what-is-a-cult/) and [heretical sects](https://sevenshepherd.github.io/free-grace-theology/), that only justification is by faith alone. If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice sin. If you do practice sin the Bible says you give great evidence (1Jn 2:3-6) that your faith is superficial (James 2:24).
+True Christians practice righteousness, and false ones practice sin; that much we know for certain, as the Apostle John said, ***“Whoever does not practice righteousness is not of God.”*** Our works don't save us (Rom 3:28), but they give evidence of our spiritual condition (1Jn 2:3-6) and whether our faith is superficial (James 2:24) or genuine (2Cor. 13:5). If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice or pursue lifestyles of sin.
+
+<!-- Just a friendly reminder to those who have been confused and mislead by the [cults](https://sevenshepherd.github.io/what-is-a-cult/) and [heretical sects](https://sevenshepherd.github.io/free-grace-theology/), that only justification is by faith alone. If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice sin. If you do practice sin the Bible says you give great evidence (1Jn 2:3-6) that your faith is superficial (James 2:24). -->
 
 ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
@@ -28,7 +31,6 @@ Justification is by faith alone (Eph 2:8-10; Gal 2:16,21; 3:10-12; 5:4; Ro 3:20,
 Justification is by faith alone (Rom 3:28), but a faith that does not grow the fruit of obedience **by the power and indwelling of the Holy Spirit**, is not true faith; it is a dead faith, and James rejects salvation by a dead and superficial faith (James 2:14-26). Genuine faith always *&ldquo;results&rdquo;* in the fruits of the faith (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7), **denying this, denies His transformative power**.
 
 > I believe <span style="font-weight:bold;color:#009933;">saving faith will <span style="font-size:1.2em;color:#00cc44;">result</span> in obedience</span>... We must guard jealously the fact that <span style="font-weight:bold;">faith alone is what saves us, <span style="color:orangered;">not faith <span style="font-size:1.2em;color:red;">plus</span> obedience</span></span>. ... No historic Protestant confession says that saving faith includes obedience. &mdash; <span style="color:#00cc44;">Historic Protestant Position</span>
-
 
 <br>
 
