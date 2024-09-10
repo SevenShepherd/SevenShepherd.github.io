@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗡️ “Whoever loves father or mother more than me is not worthy of me”... “If you refuse to take up your cross and follow me, you are not worthy of being mine.” — Jesus"
-date: 2024-09-09 02:00:00 -0500
+date: 2024-09-09 02:05:00 -0500
 categories: division
 published: true
 ---
@@ -14,13 +14,13 @@ Will you serve the God of the Bible who taught that repentance is [a turning awa
 
 ... or will you serve an anti-christ message that cannot be found in scripture? 
 
-- Watered down unscriptural versions of repentance that only takes place in the heads of antinomian heretics?
+<!-- - Watered down unscriptural versions of repentance that only takes place in the heads of antinomian heretics?
 - False teachings that twist the precious trust and reliance on God called faith into the unrecognizable heresy of assent?
 - False teachers lead you into a blind faith, hypocrisy, carnality, debauchery, and eventually destruction through apostasy.
 
     > <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:FireBrick;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:FireBrick;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
     >> **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. In 2 Peter 2 he describes them as, <span style="font-weight:bold;color:FireBrick;">*&ldquo;brute beasts, creatures of instinct, born only to be caught and destroyed&rdquo;*</span> (v. 12), <span style="font-weight:bold;color:FireBrick;">*&ldquo;springs without water and mists driven by a storm&rdquo;*</span> (v. 17), and <span style="font-weight:bold;color:FireBrick;">*&ldquo;slaves of depravity&rdquo;*</span> (v. 19). These statements showcase that the subjects were unregenerate professors of the faith.
-
+ -->
 
 I think it is in your best interest to side with [Christ](https://sevenshepherd.github.io/fruits/), the [Apostles](https://sevenshepherd.github.io/what-is-a-cult/#Warnings-From-The-Apostles), the scriptures, [the authoritative Greek lexicons and dictionaries](https://sevenshepherd.github.io/repentance/#BDAG), the [academic community](https://sevenshepherd.github.io/scholarship-on-repent/), centuries of [sound doctrine, creeds, and confessions](https://sevenshepherd.github.io/sola-fide-the-original-lordship-position/). 
 
