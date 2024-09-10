@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🫶 True Christians practice righteousness, and false ones practice sin; that much we know for certain, as the Apostle John said, “Whoever does not practice righteousness is not of God.” Our works don't save us, but they give evidence of our spiritual condition."
-date: 2024-09-09 01:25:00 -0500
+date: 2024-09-09 01:30:00 -0500
 categories: education
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 
 <!-- Justification is by faith alone, but the faith that saves is never alone in the person justified. “whoever does not practice righteousness is not of God” — The Apostle John -->
 
-Just a friendly reminder to those who have been confused and mislead by the [cults](https://sevenshepherd.github.io/what-is-a-cult/) and [heretical sects](https://sevenshepherd.github.io/free-grace-theology/), that only justification is by faith alone. If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice sin. If you do practice sin the Bible says your faith is superficial (James 2:24).
+Just a friendly reminder to those who have been confused and mislead by the [cults](https://sevenshepherd.github.io/what-is-a-cult/) and [heretical sects](https://sevenshepherd.github.io/free-grace-theology/), that only justification is by faith alone. If the Holy Spirit is inside of you, you will put on a new nature (2Cor 5:17) and you will no longer practice sin. If you do practice sin the Bible says you give great evidence (1Jn 2:3-6) that your faith is superficial (James 2:24).
 
 ℹ️ Disclaimer: Everyone has sin (1 Jn 1:8–10), but not everyone pursues lifestyles of indulgent sin (1Jn 3:6-10). Though we may stumble, make mistakes, and God forbid backslide, there is no such thing as a born again Christian that &ldquo;*practices*&rdquo; sin (habitually and continually pursuing a lifestyle of sin).
 
