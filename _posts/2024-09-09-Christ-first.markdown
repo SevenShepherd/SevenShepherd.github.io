@@ -26,6 +26,8 @@ I think it is in your best interest to side with [Christ](https://sevenshepherd.
 
 <!-- They despise the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23 NLT), and a turning from sin (Acts 3:26; Act 3:19). -->
 
+Choose wisely ...
+
 <br>
 
 ---
