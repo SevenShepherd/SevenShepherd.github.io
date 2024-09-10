@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "✅ Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic."
-date: 2024-09-01 01:35:00 -0500
+date: 2024-09-01 01:45:00 -0500
 categories: education
 published: true
 ---
 
-When Jesus taught that people should turn away from their sins in repentance (Acts 3:26; cf. Ac 3:19), the message was one of contrition (2Cor 7:10) and right relationship, not legalism.
+When Jesus taught that people should turn away from their sins in repentance (Acts 3:26; cf. Ac 3:19 NET), the message was one of contrition (2Cor 7:10) and right relationship, not legalism.
 
 <!-- > Therefore repent and <span style="font-weight:bold;color:Goldenrod;">turn back</span> so that your sins may be wiped out, &mdash; Acts 3:19 NET
 >
