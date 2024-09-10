@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "✅ Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic."
-date: 2024-09-01 01:30:00 -0500
+date: 2024-09-01 01:35:00 -0500
 categories: education
 published: true
 ---
@@ -21,7 +21,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 > The times of ignorance God overlooked, but now <span style="font-size:1.2em;font-weight:bold;color:Red;">he commands</span> all people everywhere to <span style="font-weight:bold;color:Goldenrod;">repent</span>, &mdash; Acts 17:30 ESV
 >> <sup style="font-weight:bold;">3</sup> And <span style="font-weight:bold;color:DarkOrchid;">we can be sure</span> that we know him if we obey his commandments. <sup style="font-weight:bold;">4</sup> <span style="font-weight:bold;color:FireBrick;">If someone claims, “I know God,” but doesn’t obey God’s commandments, that person is <span style="font-size:1.2em;color:Red;">a liar</span> and is <span style="font-size:1.2em;color:Red;">not living in the truth</span>.</span> <sup style="font-weight:bold;">5</sup> But those who obey God’s word truly show how completely they love him. <span style="font-weight:bold;color:DarkOrchid;">That is how we know we are living in him.</span> <sup style="font-weight:bold;">6</sup> Those who say they live in God should live their lives as Jesus did. &mdash; 1 John 2:3-6 NLT ([**article**](https://sevenshepherd.github.io/1-John-2-4/))
 
-Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic. It's the indwelling of the Holy Spirit that *&ldquo;produces&rdquo;* about these changes, and rest assured, if your faith is genuine, they will come (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
+Turning away from sin in repentance is not a requirement of justification, it's an observation of sanctification and therefore never legalistic. It's the indwelling of the Holy Spirit that *&ldquo;produces&rdquo;* these changes, and rest assured, if your faith is genuine, they will come (Ga 5:22-23 NLT; Jn 15:4-5; 1Cor 3:6-7).
 
 > <sup style="font-weight:bold;">5</sup> “Yes, I am the vine; you are the branches. <span style="font-weight:bold;color:ForestGreen;">Those who remain in me, and I in them, <span style="font-size:1.2em;color:YellowGreen;">will</span> produce much fruit.</span> For apart from me you can do nothing. &mdash; [Jesus teaching &ldquo;resulting&rdquo; fruit-bearing in John 15:5 (NLT),](https://sevenshepherd.github.io/fruits/) <span style="font-weight:bold;color:Goldenrod;">Approximately A.D. 30</span>.
 
