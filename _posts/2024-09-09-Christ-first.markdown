@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "🗡️ “Whoever loves father or mother more than me is not worthy of me”... “If you refuse to take up your cross and follow me, you are not worthy of being mine.” — Jesus"
-date: 2024-09-09 02:15:00 -0500
-categories: division
+date: 2024-09-09 02:25:00 -0500
+categories: serve
 published: true
 ---
 
@@ -12,7 +12,7 @@ Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** 
 
 Will you serve the God of the Bible who taught that repentance is [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) (Acts 3:26; cf. Ac 3:19 NET) produced by Godly contrition (2Cor 7:10)?
 
-... or will you serve an anti-christ message that cannot be found in scripture? 
+<!-- ... or will you serve an anti-christ message that cannot be found in scripture?  -->
 
 <!-- - Watered down unscriptural versions of repentance that only takes place in the heads of antinomian heretics?
 - False teachings that twist the precious trust and reliance on God called faith into the unrecognizable heresy of assent?
@@ -22,7 +22,7 @@ Will you serve the God of the Bible who taught that repentance is [a turning awa
     >> **The Apostle Peter** reveals that false teachers would infiltrate the church, lead many into [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles, slandering the way of truth with their destructive heresies. In 2 Peter 2 he describes them as, <span style="font-weight:bold;color:FireBrick;">*&ldquo;brute beasts, creatures of instinct, born only to be caught and destroyed&rdquo;*</span> (v. 12), <span style="font-weight:bold;color:FireBrick;">*&ldquo;springs without water and mists driven by a storm&rdquo;*</span> (v. 17), and <span style="font-weight:bold;color:FireBrick;">*&ldquo;slaves of depravity&rdquo;*</span> (v. 19). These statements showcase that the subjects were unregenerate professors of the faith.
  -->
 
-I think it is in your best interest to side with [Christ](https://sevenshepherd.github.io/fruits/), the [Apostles](https://sevenshepherd.github.io/what-is-a-cult/#Warnings-From-The-Apostles), the scriptures, [the authoritative Greek lexicons and dictionaries](https://sevenshepherd.github.io/repentance/#BDAG), the [academic community](https://sevenshepherd.github.io/scholarship-on-repent/), centuries of [sound doctrine, creeds, and confessions](https://sevenshepherd.github.io/sola-fide-the-original-lordship-position/). 
+I think it is in your best interest to side with [Christ](https://sevenshepherd.github.io/repent-means-turn/), the [Apostles](https://sevenshepherd.github.io/what-is-a-cult/#Warnings-From-The-Apostles), the scriptures, [the authoritative Greek lexicons and dictionaries](https://sevenshepherd.github.io/repentance/#BDAG), the [academic community](https://sevenshepherd.github.io/scholarship-on-repent/), centuries of [sound doctrine, creeds, and confessions](https://sevenshepherd.github.io/sola-fide-the-original-lordship-position/). 
 
 <!-- They despise the truth that repentance is contrition (2Cor 7:10), a hatred for sin (Jude 23 NLT), and a turning from sin (Acts 3:26; Act 3:19). -->
 
