@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🫶 “Whoever does not practice righteousness is not of God.” — The Apostle John"
-date: 2024-09-09 01:40:00 -0500
+title: "🍎 “Whoever does not practice righteousness is not of God.” — The Apostle John"
+date: 2024-09-09 01:45:00 -0500
 categories: education
 published: true
 ---
