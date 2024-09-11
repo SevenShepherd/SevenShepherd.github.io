@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗡️ “Whoever loves father or mother more than me is not worthy of me”... “If you refuse to take up your cross and follow me, you are not worthy of being mine.” — Jesus"
-date: 2024-09-09 02:45:00 -0500
+date: 2024-09-09 03:00:00 -0500
 categories: serve
 published: true
 ---
@@ -10,7 +10,7 @@ Christianity is a call to discipleship (**Mt 10:38 NLT**; Mt 16:24; **Lk 9:23** 
 
 > <sup style="font-weight:bold;">34</sup> “Do not think that I have come to bring peace to the earth. <span style="font-weight:bold;color:GoldenRod;">I have not come to bring peace, but a sword.</span> <sup style="font-weight:bold;">35</sup> For I have come to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. <sup style="font-weight:bold;">36</sup> And a person's enemies will be those of his own household. <sup style="font-weight:bold;">37</sup> <span style="font-weight:bold;color:GoldenRod;">Whoever loves father or mother more than me is not worthy of me</span>, and whoever loves son or daughter more than me is not worthy of me. <sup style="font-weight:bold;">38</sup> <span style="font-weight:bold;color:GoldenRod;">And whoever does not take his cross and follow me is not worthy of me.</span> 39 Whoever finds his life will lose it, and whoever loses his life for my sake will find it. — Jesus in Matthew 10:34-40
 
-Will you serve the God of the Bible who taught that repentance is [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) (Acts 3:26; cf. Ac 3:19 NET) produced by Godly contrition (2Cor 7:10)? Your true brothers, mothers, and sisters believe this truth! Defend your real family! Then and only then can we work together to help those who are lost.
+Will you serve the God of the Bible who taught that repentance is [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) (Acts 3:26; cf. Ac 3:19 NET) produced by Godly contrition (2Cor 7:10)? Your true brothers, mothers, and sisters believe this truth!
 
 > Then he pointed to his disciples and said, “Look, these are my mother and brothers. Anyone who does the will of my Father in heaven is my brother and sister and mother!” &mdash; Matthew 12:49-50
 
