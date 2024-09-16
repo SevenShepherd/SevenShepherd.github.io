@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🗣️ Although these false teachers promise us freedom, they themselves are slaves of depravity, that is, slaves of sin and corruption. For you are a slave to whatever controls you. — Paraphrase of The Apostle Peter"
-date: 2024-09-15 02:00:00 -0500
+date: 2024-09-15 02:05:00 -0500
 categories: false_teachers
 published: true
 ---
@@ -18,7 +18,7 @@ An admonition to false teachers who do not teach the repentance and faith that C
 
 <!-- <sup style="font-size:0.8em">2 Peter 2 is paraphrased</sup> -->
 
-There are several places in the Bible that teach us how to spot false teachers who have infiltrated the Church. One thing is certain, they don't like Christ's repentance, they they don't like regeneration, and they don't like sanctification. Anything that would cause a man to follow Christ and flee from sin. These are the false teachers who teach [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles that the Bible warns us about.
+There are several places in the Bible that teach us how to spot false teachers who have infiltrated the Church. One thing is certain, they don't like Christ's repentance, they don't like regeneration, and they don't like sanctification. Anything that would cause a man to follow Christ and flee from sin. These are the false teachers who teach [debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles that the Bible warns us about.
 
 
 > <sup style="font-weight:bold;">1</sup> But false prophets arose among the people, just as <span style="font-weight:bold;">there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies,</span> <span style="font-weight:bold;color:OrangeRed;">even to the point of denying the <span style="font-size:1.2em;color:Red;">Master</span> who bought them</span>. As a result, they will bring swift destruction on themselves. <sup style="font-weight:bold;">2</sup> And <span style="font-weight:bold;color:OrangeRed;">many will follow their <span style="font-size:1.2em;color:Red;">[debauched](https://dictionary.cambridge.org/us/dictionary/english/debauched) lifestyles</span></span>. Because of these false teachers, the way of truth will be slandered. &mdash; [2 Peter 2:1-2 NET](https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-2&version=NET)
