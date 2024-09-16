@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "🗣️ Although these false teachers promise us freedom, they themselves are slaves of depravity, that is, slaves of sin and corruption. For you are a slave to whatever controls you. — Paraphrase of The Apostle Peter"
-date: 2024-09-15 02:15:00 -0500
+date: 2024-09-15 02:20:00 -0500
 categories: false_teachers
 published: true
 ---
 
-An admonition to false teachers who do not teach the repentance and faith that Christ did (Mark 1:14-15 ESV). Christ's repentance was a [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19). 
+An admonition to false teachers who do not teach the repentance and faith that Christ did (Mark 1:14-15 ESV). Christ's repentance was [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19). 
 
 <!-- are **arrogant, conceited, and lack understanding.** Repentance as a turning from sin was taught alongside faith as a *&ldquo;trustful belief&rdquo;* by Christ Himself (Mark 1:14-15). -->
 
