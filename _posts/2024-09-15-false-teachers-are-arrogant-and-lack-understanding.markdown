@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🃏 “Some people may contradict our teaching, but these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life. Anyone who teaches something different is arrogant and lacks understanding.” — The Apostle Paul"
-date: 2024-09-15 03:20:00 -0500
+date: 2024-09-15 03:25:00 -0500
 categories: arrogant
 published: true
 ---
@@ -15,7 +15,7 @@ False teachers that teach something different than Christ's repentance as [a tur
 >
 > &mdash; 1 Timothy 6:3-4 NET / NLT (a. tn Grk “teaches other doctrines,” (different from apostolic teaching, cf. 1 Tim 1:3).)
 
-When false teachers teach falsehoods, like deceptive assent only versions of the Gospel, they either purposefully, or inadvertently lead their congregations into destruction. Once you identify these wolves, flee from them. **Repentance and faith go hand and hand.**
+When false teachers teach falsehoods, like deceptive assent only versions of the Gospel, they either purposefully, or inadvertently lead their congregations into destruction. Once you identify these wolves, flee from them. **Repentance and faith go hand in hand.**
 
 > The gospel can be summarized in different ways. Sometimes faith alone is named as the one thing necessary for salvation (see John 3:16; Acts 16:31; Rom. 10:9; Eph. 2:8–9), other times repentance alone is named (Luke 24:47; Acts 3:19; 5:31; 17:30; 2 Cor. 7:10), and sometimes both are named (Acts 20:21). **Genuine faith always involves repentance, and vice versa**. 
 >
