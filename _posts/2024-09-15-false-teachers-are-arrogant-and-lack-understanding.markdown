@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "🃏 “Some people may contradict our teaching, but these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life. Anyone who teaches something different is arrogant and lacks understanding.” — The Apostle Paul"
-date: 2024-09-15 03:25:00 -0500
+date: 2024-09-15 03:30:00 -0500
 categories: arrogant
 published: true
 ---
 
-False teachers that teach something different than Christ's repentance as [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19), are **arrogant, conceited, and lack understanding.** Repentance as a turning from sin was taught alongside faith as a *&ldquo;trustful belief&rdquo;* by Christ Himself (Mark 1:14-15).
+False teachers that teach something different than Christ's repentance as [a turning away from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19), are **arrogant, conceited, and lack understanding.** Repentance, understood as a turning away from sin, was taught alongside faith, which Christ defined as a *&ldquo;trustful belief&rdquo;* (Mark 1:14-15)
+
+<!-- Repentance as a turning from sin was taught alongside faith which inturn was taught as a *&ldquo;trustful belief&rdquo;* by Christ Himself (Mark 1:14-15). -->
+
 
 <!-- the Apostle Paul revealed that repentance is produced from godly sorrow (2Cor 7:10), and Jude reveals that we should hate sin but remain merciful to the sinner (Jude 23). -->
 
