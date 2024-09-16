@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "☠️ What Is A Cult? (Video)"
-date: 2024-07-23 15:35:00 -0500
+date: 2024-07-23 15:40:00 -0500
 categories: cult heresy sect
 published: true
 ---
@@ -654,7 +654,7 @@ Paul's point here is to emphasize unity in Christ rather than division by allegi
 3. Faith is a *&ldquo;believing trust&rdquo;* or *&ldquo;trustful belief&rdquo;*. Faith is composed of notitia ('knowledge'), assensus (‘agreement’), and fiducia (‘trust and reliance’).
     - pisteuō means *&ldquo;to entrust oneself to an entity in complete confidence, believe (in), trust, w. implication of total commitment to the one who is trusted...&rdquo;* 
 4. Repentance is [a turning from sin](https://sevenshepherd.github.io/repent-means-turn/) to God (Acts 3:26,19), produced from godly sorrow (2Cor 7:10), culminating in a hatred for sin (Jude 23).
-    - The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Danker et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
+    - The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Bauer et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
 5. Moderate Distinctives ([systemless](https://sevenshepherd.github.io/hierarchy-of-authority/))
 6. [Compatibilist](https://sevenshepherd.github.io/chosen/#carson) view of free will
 7. Eschatological Premillennialist

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "💀 “But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let them be under God’s curse!” — The Apostle Paul"
-date: 2024-09-15 01:00:00 -0500
+title: "☠️ “But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let them be under God’s curse!” — The Apostle Paul"
+date: 2024-09-15 01:15:00 -0500
 categories: curse accursed anathema
 published: true
 ---
@@ -28,7 +28,7 @@ Justification is by faith alone (Rom 3:28), but a faith that does not grow the f
 
 <br>
 
-> The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Danker et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
+> The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Bauer et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
 
 <script>
     var refTagger = {

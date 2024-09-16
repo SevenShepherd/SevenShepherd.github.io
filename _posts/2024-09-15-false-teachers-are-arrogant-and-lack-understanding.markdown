@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🃏 “Some people may contradict our teaching, but these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life. Anyone who teaches something different is arrogant and lacks understanding.” — The Apostle Paul"
-date: 2024-09-15 03:15:00 -0500
+date: 2024-09-15 03:20:00 -0500
 categories: arrogant
 published: true
 ---
@@ -33,7 +33,7 @@ When false teachers teach falsehoods, like deceptive assent only versions of the
 
 <br>
 
-> The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Danker et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
+> The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Bauer et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
 
 <script>
     var refTagger = {
