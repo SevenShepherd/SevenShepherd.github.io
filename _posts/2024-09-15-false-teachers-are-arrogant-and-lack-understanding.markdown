@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "🃏 “Some people may contradict our teaching, but these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life. Anyone who teaches something different is arrogant and lacks understanding.” — The Apostle Paul"
-date: 2024-09-15 03:30:00 -0500
+title: "✝️ “Some people may contradict our teaching, but these are the wholesome teachings of the Lord Jesus Christ. These teachings promote a godly life. Anyone who teaches something different is arrogant and lacks understanding.” — The Apostle Paul"
+date: 2024-09-15 03:35:00 -0500
 categories: arrogant
 published: true
 ---
