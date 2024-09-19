@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "👨‍👩‍👧‍👦 Be a real man—support and uplift your children. “But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.” — The Apostle Paul"
-date: 2024-09-18 05:05:00 -0500
+date: 2024-09-18 05:10:00 -0500
 categories: speech
 published: true
 ---
@@ -24,7 +24,7 @@ Do not be this dad. YOU DENY THE FAITH. Help your children like a real man! Like
 
 <br>
 
-> The term [metanoéō (μετανοέω)](/assets/images/greek/metanoeo.png) means *“feel remorse, repent, be converted in a (religio-)ethical sense,”* while [metánoia (μετάνοια)](/assets/images/greek/metanoia.png) means *“repentance, turning about, conversion”* (Bauer et al. 567–568). These definitions are drawn from [the world's most authoritative Greek lexicon available](https://sevenshepherd.github.io/repentance/#BDAG).
+> “The words of the wise are like cattle prods—painful but helpful. Their collected sayings are like a nail-studded stick with which a shepherd drives the sheep.” ― Ecclesiastes 12:11
 
 <script>
     var refTagger = {
