@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "👨‍👩‍👧‍👦 Be a real man—support and uplift your children. “But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.” — The Apostle Paul"
-date: 2024-09-18 05:10:00 -0500
+date: 2024-09-18 05:20:00 -0500
 categories: speech
 published: true
 ---
 
-I was blessed with the perfect dad, honorable, wise, intelligent, kind, not given to drunkenness, and always holding to scripture, and preventing our apostasy through sound doctrine, but not everyone was so blessed!
+I was blessed with a good dad, honorable, wise, intelligent, kind, not given to drunkenness, and always holding to scripture, and preventing our apostasy through sound doctrine, but not everyone was so blessed!
 
 > But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever. &mdash; 1 Timothy 5:8 ESV
 
-I have witnessed the most despicable of men deny their faith through their actions towards their own children, leading them down paths of sin, corruption, and ultimately apostasy, inflicting profound harm upon their innocent lives. These arrogant drunks, consumed by pride, and intellectually stunted by false doctrines, abandoned their children to the streets, failing to offer understanding or guidance when they struggled, instead choosing to cast them out rather than nurture their potential. Do not be this father; your actions are a denial of the faith. Be a real man—support and uplift your children no matter their age or struggle, as my father did for me, enabling me to pursue an education in Physics and in time, earn respect among all men.
+I have witnessed the most despicable of men deny their faith through their actions towards their own children, leading them down paths of sin, corruption, and ultimately apostasy, inflicting profound harm upon their innocent lives. These arrogant drunks, consumed by pride, and intellectually stunted by false doctrines, abandoned their children to the streets, failing to offer understanding or guidance when they struggled, instead choosing to cast them out rather than nurture their potential. Do not be this father; your actions are a denial of the faith. Be a real man—support and uplift your children no matter their age or struggle, as my dad did for me, enabling me to pursue an education in Physics and in time, earn respect among all men.
 
 <!-- I have witnessed, the most evil of men, deny the faith with their actions upon their own children. These arrogant drunks led their children into lifestyles of sin and corruption and eventually apostasy and causing them great harm!
 
