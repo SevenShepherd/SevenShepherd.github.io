@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "👨‍👩‍👧‍👦 Be a real man—support and uplift your children. “But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.” — The Apostle Paul"
-date: 2024-09-18 05:20:00 -0500
+date: 2024-09-18 05:25:00 -0500
 categories: speech
-published: true
+published: false
 ---
 
 I was blessed with a good dad, honorable, wise, intelligent, kind, not given to drunkenness, and always holding to scripture, and preventing our apostasy through sound doctrine, but not everyone was so blessed!
